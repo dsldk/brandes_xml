@@ -1,14 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>dsl</publisher>
+        <pubPlace>kbh</pubPlace>
+        <date>2016-01-01</date>
+        <idno/>
+        <availability status="restricted">
+          <ab>Copyright 2016, Society for Danish Language and Literature</ab>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <bibl>empty</bibl>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
 <div>
-<p>Allen Gewalten
-Zum Trutz sich erhalten,
-Nimmer sich beugen...</p>
-
-<p>                                         Goethe</p>
-
-<p>Philosophiren ist dephlegmatisiren, vivificiren.</p>
-
-<p>                                        Novalis <pb n="3" /></p>
-
 <head># I.</head>
 
 <p>Det vil være mine Tilhørere bekjendt, hvorledes
@@ -11384,4 +11401,6 @@ Artikler og Brochurer af et Ord fra Dem.
                                                 G. B.</p>
 
 </div>
-
+    </body>
+  </text>
+</TEI>
