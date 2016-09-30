@@ -1,3 +1,30 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>dsl</publisher>
+        <pubPlace>kbh</pubPlace>
+        <date>2016-01-01</date>
+        <idno/>
+        <availability status="restricted">
+          <ab>Copyright 2016, Society for Danish Language and Literature</ab>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <bibl>empty</bibl>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      
 <div>
 <p><pb n="1" /></p>
 
@@ -10365,3 +10392,4 @@ tjente, og i Strid med det Autoritetsprincip, der
 havde behersket dem og Tiden. Saa falder da
 dette Princip for aldrig at reise sig mere. <pb n="354" /></p>
 </div>
+    </body></text></TEI>
