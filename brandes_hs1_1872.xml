@@ -33,28 +33,28 @@
         </docTitle>
         <byline>af Georg Brandes.</byline>
       </titlePage>
-      <div type="dedication">
-        <p>Hr. Professor <persName>H. Brøchner</persName> tilegnes dette Skrift med Taknemmelighed
-          og Venskab af Forfatteren.</p>
-      </div>
       <div type="preface">
         <head>FORORD.</head>
         <p>Disse Forelæsninger have vakt en ufortjent Opmærksomhed, som af deres Forfatter kun kunde
           betragtes som smigrende og kjærkommen, ifald de ikke samtidigt i adskillige Kredse havde
-          fremkaldt en mindst ligesaa ufortjent Uvillie, under hvis Tryk det ikke er let at arbeide
-          i et saa lille Samfund som vort. For at fjerne hvad der i denne Uvillie skriver sig fra
+          fremkaldt en mindst ligesaa ufortjent Uvillie, under hvis Tryk det ikke er let at arbeide i
+          et saa lille Samfund som vort. For at fjerne hvad der i denne Uvillie skriver sig fra
           Misforstaaelser, fra Fordreielser og Overdrivelser, forsætlige og uforsætlige, har jeg mod
-          min tidligere Bestemmelse besluttet mig til at udgive disse Forelæsninger saa hurtigt
-          efter at de ere holdte, for idetmindste ikke at blive ilde omtalt for hvad jeg ingensinde
-          hverken har sagt eller ment.</p>
+          min tidligere Bestemmelse besluttet mig til at udgive disse Forelæsninger saa hurtigt efter
+          at de ere holdte, for idetmindste ikke at blive ilde omtalt for hvad jeg ingensinde hverken
+          har sagt eller ment.</p>
         <p rend="right"> G. B.</p>
+      </div>
+      <div type="dedication">
+        <p>Hr. Professor <persName>H. Brøchner</persName> tilegnes dette Skrift med Taknemmelighed
+          og Venskab af Forfatteren.</p>
       </div>
       <epigraph>
         <cit>
           <quote>
-            <p><note type="add">*»Ein wächserner ... Feuer.«* Citat fra ... ...???</note>»Ein
-              wächserner Hausgötze, den man ausser Acht gelassen hatte, stand neben einem Feuer,
-              worin edle campanische Gefässe gehärtet wurden und fing an zu schmelzen.</p>
+            <p><note type="add"/>»Ein wächserner Hausgötze, den man ausser Acht gelassen hatte,
+              stand neben einem Feuer, worin edle campanische Gefässe gehärtet wurden und fing an zu
+              schmelzen.</p>
             <p>Er beklagte sich bitterlich bei dem Elemente. Sieh, sprach er, wie grausam Du gegen
               mich verfährst. Jenen giebst Du Dauer, und mich zerstörst Du!</p>
             <p>Das Feuer aber antwortete: Beklage Dich vielmehr über Deine Natur; denn ich, was mich
@@ -63,7 +63,9 @@
           </quote>
         </cit>
       </epigraph>
+      
     </front>
+    
     <body>
       <div>
         <head>INDLEDNING.</head>
@@ -91,41 +93,40 @@
           den corrigere det naturlige Syns Illusioner. Hidtil have de forskjellige Nationer i
           litterær Henseende staaet hinanden temmelig fjernt og kun i ringe Grad vist sig i Stand
           til at tilegne sig hinandens Frembringelser. Vil man have et Billede af Forholdet som det
-          er eller var, maa man tænke sig <note type="add"/>den gamle Fabel om Ræven og Storken. De
-          husker, at Ræven bød Storken til Gjæst, men den anrettede alle de lækre Sager, den
-          frembar, paa en flad Tallerken, saaledes at Storken med sit lange Næb næsten Intet kunde
-          faae fat paa. De husker ogsaa, hvorledes Storken hævnede sig. Den <pb n="9"/> anrettede
-          sine flydende og faste Spisevarer i en høi langhalset og smalhalset Vase, hvori vel
-          Storkens lange Næb, men ikke Rævens spidse Snude kunde trænge ned. Saaledes have i lange
-          Tider de forskjellige Nationer vexelvis været Ræv og Stork for hinanden. En stor Del af
-          det æsthetiske Studiums Opgave er og har været at anrette Storkens Kjøkken paa Rævens
-          Service og omvendt.</p>
+          er eller var, maa man tænke sig <note type="add"/>den gamle Fabel om Ræven og
+          Storken<!-- lemma slut -->. De husker, at Ræven bød Storken til Gjæst, men den anrettede
+          alle de lækre Sager, den frembar, paa en flad Tallerken, saaledes at Storken med sit lange
+          Næb næsten Intet kunde faae fat paa. De husker ogsaa, hvorledes Storken hævnede sig. Den
+            <pb n="9"/> anrettede sine flydende og faste Spisevarer i en høi langhalset og
+          smalhalset Vase, hvori vel Storkens lange Næb, men ikke Rævens spidse Snude kunde trænge
+          ned. Saaledes have i lange Tider de forskjellige Nationer vexelvis været Ræv og Stork for
+          hinanden. En stor Del af det æsthetiske Studiums Opgave er og har været at anrette
+          Storkens Kjøkken paa Rævens Service og omvendt.</p>
         <p>Et Folks Litteratur fremstiller, naar denne Litteratur er fuldstændig, dets Anskuelsers
           og Følelsers hele Historie. Store Litteraturer, som Englands og Frankrigs, indeholde
           saaledes et tilstrækkeligt Antal Documenter, til at man ud fra dem kan bestemme, hvorledes
           det engelske og franske Folk i enhver historisk Periode har tænkt og følt. Andre
-          Litteraturer, som f. Ex. den tydske, der først ret begynder <note type="add">*midt i
-            forrige Aarhundrede* Dvs. midt i 1700-tallet.</note>midt i forrige Aarhundrede, ere
-          formedelst deres Ufuldstændighed meget mindre interessante. Endnu mere gjælder da dette om
-          en saa sen Litteratur som vor egen. At studere det danske Folks hele Følelsesliv igjennem
-          den er ikke muligt; dertil har den altfor store Lacuner. Der gives lange Tidsrum i vor
-          Litteratur, der ikke have givet sig tilkjende ved noget poetisk eller psychologisk
-          Manifest eller Mindesmærke af nogen Betydning. Er der ellers i saadanne Tider blevet tænkt
-          og følt, saa vides det ikke nu. Men dernæst har det været vort lille og afsidesbeliggende
-          Fædrelands Uheld, at <pb n="10"/> det ikke paa første Haand har frembragt nogen stor
-          europæisk Aandsbevægelse. Vi have ikke givet Stødet til de store Forandringer, vi have
-          undergaaet
+          Litteraturer, som f. Ex. den tydske, der først ret begynder <note type="add"/>midt i
+          forrige Aarhundrede<!-- lemma slut -->, ere formedelst deres Ufuldstændighed meget mindre
+          interessante. Endnu mere gjælder da dette om en saa sen Litteratur som vor egen. At
+          studere det danske Folks hele Følelsesliv igjennem den er ikke muligt; dertil har den
+          altfor store Lacuner. Der gives lange Tidsrum i vor Litteratur, der ikke have givet sig
+          tilkjende ved noget poetisk eller psychologisk Manifest eller Mindesmærke af nogen
+          Betydning. Er der ellers i saadanne Tider blevet tænkt og følt, saa vides det ikke nu. Men
+          dernæst har det været vort lille og afsidesbeliggende Fædrelands Uheld, at <pb n="10"/>
+          det ikke paa første Haand har frembragt nogen stor europæisk Aandsbevægelse. Vi have ikke
+          givet Stødet til de store Forandringer, vi have undergaaet
           dem<!-- dette "dem" står urettet i alle 6 udgaver. Meningen må være, at vi har været genstand for forandringerne, ikke selv foranlediget dem -->,
-            <hi rend="spaced">naar</hi> vi ellers have undergaaet dem. Vi faae f. Ex. <note
-            type="add"/>Reformationens Ideer fra Tydskland, <note type="add"/>Revolutionens fra
-          Frankrig. Vor Litteratur er som et lille Kapel i en stor Kirke, den har sit Alter, men
-          Hovedalteret findes ikke her. Altsaa ikke nok med, at der er Tider, om hvilke man ikke
-          veed, hvorledes man da har tænkt og følt; der er Tider, hvor man har tænkt og følt men paa
-          anden Haand, svagere og mattere end andensteds. Saaledes skeer det da undertiden, at een
-          af de store europæiske Bevægelser naaer os, en anden ikke. Eet Løsen griber os, et andet
-          ikke. Ja undertiden, naar vi slet ikke have været med i Actionen, hvis brede Bølger først
-          naaede vore sandede Kyster som flade og matte, hændes det, at vi komme med i
-          Reactionen.</p>
+            <emph>naar</emph> vi ellers have undergaaet dem. Vi faae f. Ex. <note type="add"
+          />Reformationens Ideer fra Tydskland<!-- lemma slut -->, <note type="add"/>Revolutionens
+          fra Frankrig<!-- lemma slut -->. Vor Litteratur er <note type="add"/>som et lille Kapel i
+          en stor Kirke<!-- lemma slut -->, den har sit Alter, men Hovedalteret findes ikke her.
+          Altsaa ikke nok med, at der er Tider, om hvilke man ikke veed, hvorledes man da har tænkt
+          og følt; der er Tider, hvor man har tænkt og følt men paa anden Haand, svagere og mattere
+          end andensteds. Saaledes skeer det da undertiden, at een af de store europæiske Bevægelser
+          naaer os, en anden ikke. Eet Løsen griber os, et andet ikke. Ja undertiden, naar vi slet
+          ikke have været med i Actionen, hvis brede Bølger først naaede vore sandede Kyster som
+          flade og matte, hændes det, at vi komme med i Reactionen.</p>
         <p>Et saadant Tilfælde troer jeg har fundet Sted i dette Aarhundrede. Det har været mig
           paafaldende, og det er dette Indtryk som har foranlediget mig til de Undersøgelser, som
           ville blive Gjenstand for mine Foredrag.</p>
@@ -140,13 +141,13 @@
           det ikke blevet seet, at Mennesket havde stillet sig paa den rene Tanke, man kunde sige
           stillet sig paa Hovedet og havde søgt at omforme og opbygge hele Virkeligheden efter sit
           Hoved. Alle tidligere Revolutioner havde havt locale Formaal, først denne vilde omskabe
-          Menneskeheden.« Man kan ikke nægte, at vi Danske iagttog Decorum, vi stillede os ikke paa
-          Hovedet. Men da nu denne mægtige Action, fremkaldt af den menneskelige Tankes
-          Seirsbevidsthed, den rene Tankes Fanatisme, som enhver stor Strøm, der gaaer over sine
-          Bredder, havde fremkaldt Modforholdsregler og Reaction, da kom vi med i Reactionen. I alle
-          vore litterære Bevægelser i dette Aarhundredes Begyndelse, i
-            <persName>Oehlenschlägers</persName> Poesier, i <persName>Grundtvigs</persName>
-          Prædikener, i <persName>Mynsters</persName> Taler og <persName>Ingemanns</persName> Digte
+          Menneskeheden.«<!-- lemma slut --> Man kan ikke nægte, at vi Danske iagttog Decorum, vi
+          stillede os ikke paa Hovedet. Men da nu denne mægtige Action, fremkaldt af den
+          menneskelige Tankes Seirsbevidsthed, den rene Tankes Fanatisme, som enhver stor Strøm, der
+          gaaer over sine Bredder, havde fremkaldt Modforholdsregler og Reaction, da kom vi med i
+          Reactionen. I alle vore litterære Bevægelser i dette Aarhundredes Begyndelse, i
+            <persName>Oehlenschläger</persName>s Poesier, i <persName>Grundtvig</persName>s
+          Prædikener, i <persName>Mynster</persName>s Taler og <persName>Ingemann</persName>s Digte
           er der et stærkt Element af Reaction mod det 18de Aarhundrede. At en saadan Reaction kom,
           var berettiget og naturligt. Men hvad jeg vilde forsøge at vise Dem som uberettiget og
           unaturligt, det <pb n="12"/> er, at denne Reaction endnu vedvarer hos os saalænge efter at
@@ -174,20 +175,21 @@
           som <persName>Joseph de Maistre</persName>, som <persName>Lamennais</persName> i dennes
           orthodoxe Periode, som <persName>Lamartine</persName> og <persName>Victor Hugo</persName>
           i den Tid, hvor de under Restaurationen endnu vare <note type="add"/>Legitimisternes og de
-          Clericales bedste Støtter, betegner den heftige, den triumpherende Reaction.
-            <persName>Byron</persName> og hans Omgivelser danne den fjerde Gruppe. Denne ene Mand
-          frembringer Omslaget i det store Drama. <note type="add"/>Den græske Frihedskrig udbryder,
-          et frisk Pust farer hen over Europa, <persName>Byron</persName> falder som Helt for den
-          græske Sag og hans Heltedød gjør et uhyre Indtryk paa alle Continentets Forfattere. Kort
-          før <note type="add"/>Julirevolutionen slaae da alle Frankrigs store Skribenter om, de
+          Clericales<!-- lemma slut --> bedste Støtter, betegner den heftige, den triumpherende
+          Reaction. <persName>Byron</persName> og hans Omgivelser danne den fjerde Gruppe. Denne ene
+          Mand frembringer Omslaget i det store Drama. <note type="add"/>Den græske
+          Frihedskrig<!-- lemma slut --> udbryder, et frisk Pust farer hen over Europa,
+            <persName>Byron</persName> falder som Helt for den græske Sag og hans Heltedød gjør et
+          uhyre Indtryk paa alle Continentets Forfattere. Kort før <note type="add"
+          />Julirevolutionen<!-- lemma slut --> slaae da alle Frankrigs store Skribenter om, de
           danne den femte Gruppe, Frankrigs romantiske Skole, og den nye liberale Bevægelse betegnes
           ved Navne som <persName>Lamennais</persName>, <persName>Hugo</persName>,
             <persName>Lamartine</persName>, <persName>Musset</persName>, <persName>George
             Sand</persName> o. m. fl. Og da nu Bevægelsen fra Frankrig gaaer over til Tydskland,
           seire de liberale Ideer ogsaa i dette Land, idet den sjette og sidste Gruppe af Forfat<pb
-            n="14" rend="-"/>tere, jeg vil skildre, inspireres af Frihedskrigens og
-          Julirevolutionens Ideer og, ligesom de franske Digtere, i <persName>Byrons</persName>
-          store Skygge see Frihedsbevægelsens Fører. De vigtigste af disse unge Forfattere ere som
+            n="14"/>tere, jeg vil skildre, inspireres af Frihedskrigens og Julirevolutionens Ideer
+          og, ligesom de franske Digtere, i <persName>Byron</persName>s store Skygge see
+          Frihedsbevægelsens Fører. De vigtigste af disse unge Forfattere ere som
             <persName>Heine</persName>, <persName>Börne</persName> og senere
             <persName>Auerbach</persName> af jødisk Afstamning.</p>
         <p>Jeg troer, at vi af dette store Drama kunne uddrage en Lære for os selv. Vi ere nemlig
@@ -213,8 +215,9 @@
           under Debat er det samme som, at den er ifærd med at tabe al Betydning. Det Folk, som
           frembringer den, kan da længe nok troe, at al Verdens Frelse vil komme fra det, det vil
           see sig skuffet i sin Forventning; det bliver ikke mere et saadant Folk, som styrer
-          Udvikling og Fremskridt, end <note rend="add"/>Fluen gjorde det, da den mente at drive
-          Vognen frem, fordi den nu og da gav dens 4 Heste et ubetydeligt Stik.</p>
+          Udvikling og Fremskridt, end <note type="add"/>Fluen gjorde det, da den mente at drive
+          Vognen frem, fordi den nu og da gav dens 4 Heste et ubetydeligt
+          Stik<!-- lemma slut -->.</p>
         <p>I et saadant Samfund kan mange Dyder være bevarede, det krigerske Mod f. Ex., men disse
           Dyder kunne ikke holde Litteraturen oppe, naar det intellectuelle Mod er sunket og
           forsvundet. Al stagneret Reaction er tyrannisk, og naar et Samfund efterhaanden har
@@ -264,57 +267,61 @@
           Type?« Den Danske vil være i Forlegenhed med Svaret. De vide Alle saa omtrent, hvilken Art
           og Klasse af Typer det var, som det 18de Aarhundrede testamenterede til det 19de. Lad os
           nævne et Par af Hovedrepræsentanterne for et enkelt Lands Vedkommende, for Tydsklands. Der
-          er Nathan den Vise, Oplysningsperiodens Ideal, det vil sige Tolerance, ædel Humanitet og
-          gjennemført Rationalisme. Man kan neppe sige, at vi have fastholdt dette Ideal eller ført
-          det videre, som det f. Ex. skete i Tydskland ved <persName>Schleiermacher</persName> og
-          siden ved saa mange Andre. Det er <persName>Mynster</persName>, som var vor
-          Schleiermacher, men De veed, hvilken Afstand der er mellem Schleiermachers Liberalitet og
+          er <persName type="fictional">Nathan den Vise</persName>, Oplysningsperiodens Ideal, det
+          vil sige Tolerance, ædel Humanitet og gjennemført Rationalisme. Man kan neppe sige, at vi
+          have fastholdt dette Ideal eller ført det videre, som det f. Ex. skete i Tydskland ved
+            <persName>Schleiermacher</persName> og siden ved saa mange Andre. Det er
+            <persName>Mynster</persName>, som var vor <persName>Schleiermacher</persName>, men De
+          veed, hvilken Afstand der er mellem <persName>Schleiermacher</persName>s Liberalitet og
           hins Orthodoxi. Og Skridt for Skridt have vi fjernet os fra Rationalismen uden at optage
           den eller føre den videre. <persName>Clausen</persName> var een Gang dens Ord<pb n="19"
           />fører, men han er det ikke mere. <persName>Heiberg</persName> følges af
-            <persName>Martensen</persName> og Martensens »<bibl>Speculative Dogmatik</bibl>« afløses
-          af den »<bibl>Christelige Dogmatik</bibl>«. I <persName>Oehlenschlägers</persName>
-          Digtninge hersker endnu et rationalistisk Pust, men Oehlenschlägers og
-            <persName>Ørsteds</persName> Slægt avler <persName>Kierkegaards</persName> og
-            <persName>Paludan-Müllers</persName>.</p>
+            <persName>Martensen</persName> og <persName>Martensen</persName>s »<bibl>Speculative
+            Dogmatik</bibl>« afløses af den »<bibl>Christelige Dogmatik</bibl>«. I
+            <persName>Oehlenschläger</persName>s Digtninge hersker endnu et rationalistisk Pust, men
+            <persName>Oehlenschläger</persName>s og <persName>Ørsted</persName>s Slægt avler
+            <persName>Kierkegaard</persName>s og <persName>Paludan-Müller</persName>s.</p>
         <p>Det 18de Aarhundredes tydske Litteratur overgav os endnu mange andre poetiske Idealer.
           Der er <persName type="fictional">Werther</persName>, <note type="add"/>Sturm und
-          Drang-periodens Ideal, det vil sige Naturens og Lidenskabens Kamp mod det vedtægtsmæssigt
-          ordnede Samfund, fremdeles <persName type="fictional">Faust</persName>, selve den nye Tids
-          og dens Erkjendelses Aand, der, utilfreds med hvad Oplysningsperioden har indvundet, aner
-          en høiere Sandhed, en høiere Lykke og en tusindfold høiere Magt, der er dernæst <persName
-            type="fictional">Wilhelm Meister</persName>, den humane Dannelses Type, der gaaer Livets
-          Skole igjennem og fra Lærling bliver til Mester, som begynder med at jage efter Idealer
-          flygtende fra Livet, men som ender med at finde Idealet i Virkeligheden og for hvem disse
-          to Betegnelser smelte sammen. Der er <persName>Goethes</persName>
-          <persName type="fictional">Prometheus</persName>, som lænket til sin Klippe udtaler
-            <persName>Spinozas</persName> Philosophi i begeistrede og sublime Rhytmer. Der er
-          endelig <persName type="fictional">Marquis Posa</persName>, Revolutionens ægte
-          Incarnation, Frihedens Apostel og Prophet, Type for den Slægt, der gjennem Oprøret mod
-          alle domfældte Traditioner vilde gjøre Fremskridtet muligt og Menneskeheden lykkelig. <pb
-            n="20"/> Det er med saadanne Typer bag sig, at vor danske Litteratur begynder. Fører den
-          dem videre? Man kan ikke sige det. Thi hvorpaa vilde Fremskridtet beroe? Det beroer paa
-          hvad der siden skete. Det er ikke blevet trykt i denne Form, men jeg skal fortælle Dem
+          Drang-perioden<!-- lemma slut -->s Ideal, det vil sige Naturens og Lidenskabens Kamp mod
+          det vedtægtsmæssigt ordnede Samfund, fremdeles <persName type="fictional"
+          >Faust</persName>, selve den nye Tids og dens Erkjendelses Aand, der, utilfreds med hvad
+          Oplysningsperioden har indvundet, aner en høiere Sandhed, en høiere Lykke og en tusindfold
+          høiere Magt, der er dernæst <persName type="fictional">Wilhelm Meister</persName>, den
+          humane Dannelses Type, der gaaer Livets Skole igjennem og fra Lærling bliver til Mester,
+          som begynder med at jage efter Idealer flygtende fra Livet, men som ender med at finde
+          Idealet i Virkeligheden og for hvem disse to Betegnelser smelte sammen. Der er
+            <persName>Goethe</persName>s <persName type="fictional">Prometheus</persName>, som
+          lænket til sin Klippe udtaler <persName>Spinoza</persName>s Philosophi i begeistrede og
+          sublime Rhytmer. Der er endelig <persName type="fictional">Marquis Posa</persName>,
+          Revolutionens ægte Incarnation, Frihedens Apostel og Prophet, Type for den Slægt, der
+          gjennem Oprøret mod alle domfældte Traditioner vilde gjøre Fremskridtet muligt og
+          Menneskeheden lykkelig.</p>
+        <p><pb n="20"/> Det er med saadanne Typer bag sig, at vor danske Litteratur begynder. Fører
+          den dem videre? Man kan ikke sige det. Thi hvorpaa vilde Fremskridtet beroe? Det beroer
+          paa hvad der siden skete. Det er ikke blevet trykt i denne Form, men jeg skal fortælle Dem
           det. En skjøn Dag, da <persName type="fictional">Werther</persName> som sædvanlig gik og
           fortvivlet sværmede for <persName type="fictional">Lotte</persName>, faldt det ham ind at
           Baandet mellem <persName type="fictional">Albert</persName> og hende dog betød altfor
           lidt, og han erobrede hende fra <persName type="fictional">Albert</persName>. En skjøn Dag
           blev <persName type="fictional">Marquis Posa</persName> træt af at præke Frihed ved
-            <persName>Philip den 2dens</persName> Hof for Tyrannens døve Øren, og han jog ham sin
+            <persName>Philip den 2den</persName>s Hof for Tyrannens døve Øren, og han jog ham sin
           Kaarde gjennem Livet —, og <persName type="fictional">Prometheus</persName> reiste sig fra
           sin Klippe og ryddede Olympen, og <persName type="fictional">Faust</persName>, som var
           sunket i Knæ for Jordaanden, bemægtigede sig hans Jord og undertvang den med Damp, med
           Elektricitet, med methodisk Forskning.</p>
         <p>Lad os see, i hvilken Skikkelse vor begyndende poetiske Litteratur første gang giver sig
-          Form. Denne Skikkelse er <persName type="fictional">Aladdin</persName> og Aladdin vil sige
-          Poesiens og Naivetetens Ret til at være og Ret til at seire. Det er en Poesi om Poesi,
-          Poesien som hævder sin egen Ret, Poesien som seer sig selv i Speil og undrende skuer sin
-          egen Skjønhed, Noget hvormed den ikke kan blive ved under Straf af at blive en slap og
-          vellystig <note type="add"/>Narcissus. Og endnu et Træk: <persName type="fictional"
+          Form. Denne Skikkelse er <persName type="fictional">Aladdin</persName> og <persName
+            type="fictional">Aladdin</persName> vil sige Poesiens og Naivetetens Ret til at være og
+          Ret til at seire. Det er en Poesi om Poesi, Poesien som hævder sin egen Ret, Poesien som
+          seer sig selv i Speil og undrende skuer sin egen Skjønhed, Noget hvormed den ikke kan
+          blive ved under Straf af at blive en slap og vellystig <note type="add"
+          />Narcissus<!-- lemma slut -->. Og endnu et Træk: <persName type="fictional"
             >Aladdin</persName> er Geniet, og med den guddommeligt begavede Aands hele su<pb n="21"
-          />blime Dristighed detroniserer <persName>Oehlenschläger</persName> Faustfiguren, gjør
-            <persName type="fictional">Faust</persName> til en <persName type="fictional"
-            >Noureddin</persName> og lader denne Faust ende som en <persName type="fictional"
+          />blime Dristighed detroniserer <persName>Oehlenschläger</persName>
+          <persName type="fictional">Faustfiguren</persName>, gjør <persName type="fictional"
+            >Faust</persName> til en <persName type="fictional">Noureddin</persName> og lader denne
+            <persName type="fictional">Faust</persName> ende som en <persName type="fictional"
             >Wagner</persName>. Jeg tilbageholder ethvert Udbrud af min næsten uindskrænkede
           Beundring for dette Digt og fortsætter kun min Tankegang. <persName type="fictional"
             >Aladdin</persName> er Geniet, men hvad Art Geni? Hvad er det for Genier, paa hvilke
@@ -327,7 +334,7 @@
           Anledning til <persName type="fictional">Aladdin</persName>. Thi Geniet er ikke den
           geniale Lediggjænger, men den geniale Arbeider, og de medfødte Gaver ere kun Værktøiet,
           ikke Værket.</p>
-        <p>Saa følge Figurer som <persName>Oehlenschlägers</persName> nordiske Helteskikkelser,
+        <p>Saa følge Figurer som <persName>Oehlenschläger</persName>s nordiske Helteskikkelser,
             <persName type="fictional">Hakon</persName>, <persName type="fictional"
             >Palnatoke</persName>, <persName type="fictional">Axel</persName>, <persName
             type="fictional">Hagbarth</persName>, Idealer af Kraft og Kjærlighed, der uden at være
@@ -338,36 +345,37 @@
           som Fortids-Idealer. Det er ikke den moderne Tids Sjæls<pb n="22"/>indhold som i dem
           bliver formet; med Bevidsthed skrues Psychologien tilbage og en Udrensning af alt
           egentligt og utvetydigt Moderne forsøges. Det er lærerigt at sammenligne dem med Heltene
-          paa et samtidigt Theater, <persName>Victor Hugos</persName>. Disse staae maaskee poetisk
+          paa et samtidigt Theater, <persName>Victor Hugo</persName>s. Disse staae maaskee poetisk
           tilbage. Men man føler stærkere Pustet af en ny Tid naar man seer <persName>Victor
-            Hugos</persName> fnysende Plebeier skride over Scenen. Derfor blev ogsaa <persName>V.
-            Hugos</persName> første Tragoedier allesammen forbudne af den bestaaende Regjering,
+            Hugo</persName>s fnysende Plebeier skride over Scenen. Derfor blev ogsaa <persName>V.
+            Hugo</persName>s første Tragoedier allesammen forbudne af den bestaaende Regjering,
           Noget som aldrig er hændet een dansk, en Eiendommelighed, man kan udlægge efter sine
           Sympathier enten som Tegn paa vor Poesies rent digteriske eller som Tegn paa dens rent
           virkelighedsløse Charakter. Endnu ganske anderledes abstracte, ja saa at sige blodløse
           blive Typerne i en Litteraturgruppe, der slutter sig til
-            <persName>Oehlenschlägers</persName> dramatiske Arbeider og behandler vor Middelalder,
-          efter at hine have behandlet vor Oldtid. Jeg mener <persName>Ingemanns</persName> Romaner.
+            <persName>Oehlenschläger</persName>s dramatiske Arbeider og behandler vor Middelalder,
+          efter at hine have behandlet vor Oldtid. Jeg mener <persName>Ingemann</persName>s Romaner.
           Den Livserfaring og det Livsstudium, hvorpaa disse Bøger ere grundede, er yderst ringe. De
           beholde et andet Værd; men til Livet have de lidet eller intet Forhold, skjøndt de høre
           til de Bøger, der iøvrigt have havt størst praktisk Virkning. De tilhøre <note type="add"
-          />en fra Skotland indført uheldig og nu opgiven Genre, den historiske Roman, som frembragt
-          af en fuldblods <note type="add"/>Tory var udgaaet fra en Aandstilstand, der havde alle
-          sine Idealer i Fortiden ligesom vor.</p>
+          />en fra Skotland indført<!-- lemma slut --> uheldig og nu opgiven Genre, den historiske
+          Roman, som frembragt af en fuldblods <note type="add"/>Tory<!-- lemma slut --> var udgaaet
+          fra en Aandstilstand, der havde alle sine Idealer i Fortiden ligesom vor.</p>
         <p><pb n="23"/> Paa en saadan Aandstilstand prelle alle Aarhundredets store Begivenheder af.
-            <note type="add"/>Den græske Frihedskrig, hvis Udbrud andensteds giver Signalet til saa
-          uhyre litterære Begivenheder, som i Frankrig og Tydskland bliver hele Skolers Bane og
-          fremkalder nye Skoler, som bringer et helt Kuld af Forfattere til at slaae om og træde i
-          Oppositionens Tjeneste, efterlader sig næsten intet andet Spor i Danmarks Poesi end hine
-          berømte Linier i »<bibl>Kong Salomon og Jørgen Hattemager</bibl>«: <note type="ad"/>»Hvad
-          mener Hr. Baronen vel om Grækernes Affairer?« En Begivenhed som <note type="add"
-          />Revolutionen i Juli 1830 sætter sig hos saa djærv, saa liberal en Aand som
-            <persName>Poul Møller</persName> intet andet Minde end hint forresten saa smukke og saa
-          charakteristiske Digt »<bibl>Kunstneren mellem Oprørerne</bibl>«, et Digt, der ved sin
-          Loyalitet, sin æsthetiske Ligegyldighed for Omverdenens Begivenheder, sin ubegrændsede
-          Foragt for alle Samfundsbevægelserne maler hele Epochen herhjemme. For <persName>Poul
-            Møller</persName> vare Revolutionerne virkeligt personificerede i <note type="add"/>»to
-          frisindede Drenge og en lam Redacteur«. <persName>Byrons</persName> det halve Aarhundrede
+            <note type="add"/>Den græske Frihedskrig<!-- lemma slut -->, hvis Udbrud andensteds
+          giver Signalet til saa uhyre litterære Begivenheder, som i Frankrig og Tydskland bliver
+          hele Skolers Bane og fremkalder nye Skoler, som bringer et helt Kuld af Forfattere til at
+          slaae om og træde i Oppositionens Tjeneste, efterlader sig næsten intet andet Spor i
+          Danmarks Poesi end hine berømte Linier i »<bibl>Kong Salomon og Jørgen Hattemager</bibl>«:
+            <note type="add"/>»Hvad mener Hr. Baronen vel om Grækernes Affairer?«<!-- lemma slut -->
+          En Begivenhed som <note type="add"/>Revolutionen i Juli 1830<!-- lemma slut --> sætter sig
+          hos saa djærv, saa liberal en Aand som <persName>Poul Møller</persName> intet andet Minde
+          end hint forresten saa smukke og saa charakteristiske Digt »<bibl>Kunstneren mellem
+            Oprørerne</bibl>«, et Digt, der ved sin Loyalitet, sin æsthetiske Ligegyldighed for
+          Omverdenens Begivenheder, sin ubegrændsede Foragt for alle Samfundsbevægelserne maler hele
+          Epochen herhjemme. For <persName>Poul Møller</persName> vare Revolutionerne virkeligt
+          personificerede i <note type="add"/>»to frisindede Drenge og en lam
+          Redacteur«<!-- lemma slut -->. <persName>Byron</persName>s det halve Aarhundrede
           beherskende Poesi, som ved hans Heltedød forplantes Verden over, naaer ogsaa til os, men
           kun Drapperiet tiltaler her, Tankerne og Typerne vogter man sig vel for at tilegne sig. En
           af vore ædleste og skjønneste Digternaturer, Biskopsønnen <persName>Frederik
@@ -376,78 +384,81 @@
           kun for at benytte denne Form som Indklædning for hele det traditionelle Tanke- og
           Følelses-Sæt. Han helder den gamle Vin paa de nye Flasker og udvikler sin Poesi lidt efter
           lidt til et begeistret Indlæg for asketisk Moral og den stiveste Orthodoxi. — Ifald man
-          tænkte sig et Land af Danmarks Størrelse bestyret <note type="add"/>som en Art China og
-          imaginerede sig en Lov, ifølge hvilken i en vis given Tid ingen andre end theologiske
-          Candidater skulde have Stemmeret i Litteraturen eller faae Lov til for deres Landsmænd at
-          bearbeide Indtrykkene udefra, saa vilde det være et interessant Spørgsmaal at undersøge,
-          hvori vel en saadan Litteratur, forfattet af theologiske Candidater, vilde blive
-          forskjellig fra en stor Periode og Gruppe af vor.</p>
+          tænkte sig et Land af Danmarks Størrelse bestyret <note type="add"/>som en Art
+          China<!-- lemma slut --> og imaginerede sig en Lov, ifølge hvilken i en vis given Tid
+          ingen andre end theologiske Candidater skulde have Stemmeret i Litteraturen eller faae Lov
+          til for deres Landsmænd at bearbeide Indtrykkene udefra, saa vilde det være et interessant
+          Spørgsmaal at undersøge, hvori vel en saadan Litteratur, forfattet af theologiske
+          Candidater, vilde blive forskjellig fra en stor Periode og Gruppe af vor.</p>
         <p>Det synes som om det ikke skulde lykkes os at udtrykke noget Typisk i anden Form end den
           abstract idealiserede og den abstract karrikerede. Efter alle hine positive Figurer følger
-          en Række negative Billeder. Heiberg samler Charaktertrækkene fra alle sine Vaudeviller til
-          et Billede af den kjøbenhavnske Spidsborger i »<bibl>En Sjæl efter Døden</bibl>« og
-          Paludan-Müller skriver sit Mesterværk »<bibl>Adam Homo</bibl>«, strengt taget den eneste
-          virkeligt typiske og for en Fremmed lærerige danske Roman. Den indeholder al den
-          europæiske Reactionstids Slaphed og Usselhed samlet som i en <pb n="25"/> Essents.
-            <persName type="fictional">Adam Homo</persName> er Mennesket i Almindelighed, lad saa
-          være, men Mennesket fra <persName>Christian den 8des</persName> Tid. Samtidigt taber den
-          importerede philosophiske Bevægelse sig herhjemme, den begyndende Hegelske Skole standser,
-            <persName>Heiberg</persName> afløses af <persName>Kierkegaard</persName> og Lidenskaben
-          for at tænke af Lidenskaben for at troe. Den philosophiske Bevægelse ophører foreløbig
-          uden at have afsat nogen Bog endsige noget Værk, og den ethisk religiøse Bestræbelse, som
-          begynder, faaer sin Parallel og sin Fortsættelse indenfor Poesien. <note type="add"/>En
-          Gruppe skjønne, men barnlige Bondenoveller, vort Aarhundredes Hyrdescener, følge den
-          religiøse Strøm. Men høiere og høiere stiger Enthousiasmen for positiv Religion og
-          asketisk Moral. Man overbyder hinanden i at optaarne Idealer, ud fra hvilke Virkeligheden
-          kun øines som et fjernt sort Punkt.</p>
-        <p>Hvori er Strømningen udmundet? I Skikkelser som <persName>Paludan-Müllers</persName>
-          <persName type="fictional">Kalanus</persName>, der i Ekstase opbrænder sig selv paa
-          Baalet, og som <persName>Ibsens</persName>
-          <persName type="fictional">Brand</persName>, hvis Moral gjennemført vilde føre Halvdelen
-          af Menneskene til at sulte ihjel af Kjærlighed til Idealet.</p>
+          en Række negative Billeder. <persName>Heiberg</persName> samler Charaktertrækkene fra alle
+          sine Vaudeviller til et Billede af den kjøbenhavnske Spidsborger i »<bibl>En Sjæl efter
+            Døden</bibl>« og <persName>Paludan-Müller</persName> skriver sit Mesterværk »<bibl>Adam
+            Homo</bibl>«, strengt taget den eneste virkeligt typiske og for en Fremmed lærerige
+          danske Roman. Den indeholder al den europæiske Reactionstids Slaphed og Usselhed samlet
+          som i en <pb n="25"/> Essents. <persName type="fictional">Adam Homo</persName> er
+          Mennesket i Almindelighed, lad saa være, men Mennesket fra <persName>Christian den
+            8de</persName>s Tid. Samtidigt taber den importerede philosophiske Bevægelse sig
+          herhjemme, den begyndende Hegelske Skole standser, <persName>Heiberg</persName> afløses af
+            <persName>Kierkegaard</persName> og Lidenskaben for at tænke af Lidenskaben for at troe.
+          Den philosophiske Bevægelse ophører foreløbig uden at have afsat nogen Bog endsige noget
+          Værk, og den ethisk religiøse Bestræbelse, som begynder, faaer sin Parallel og sin
+          Fortsættelse indenfor Poesien. <note type="add"/>En Gruppe skjønne, men barnlige
+          Bondenoveller, vort Aarhundredes Hyrdescener<!-- lemma slut -->, følge den religiøse
+          Strøm. Men høiere og høiere stiger Enthousiasmen for positiv Religion og asketisk Moral.
+          Man overbyder hinanden i at optaarne Idealer, ud fra hvilke Virkeligheden kun øines som et
+          fjernt sort Punkt.</p>
+        <p>Hvori er Strømningen udmundet? I Skikkelser som <persName>Paludan-Müller</persName>s
+            <persName type="fictional">Kalanus</persName>, der i Ekstase opbrænder sig selv paa
+          Baalet, og som <persName>Ibsen</persName>s <persName type="fictional">Brand</persName>,
+          hvis Moral gjennemført vilde føre Halvdelen af Menneskene til at sulte ihjel af Kjærlighed
+          til Idealet.</p>
         <p>Og der ere vi endte. Intetsteds Europa over saa exalterede Idealer og ikke mange Steder
           et plattere aandeligt Liv. Thi man maa dog være yderligt naiv for at troe, at vort Liv
           svarer til hine Typer. Saa stærk har Strømningen været, at selv en saa revolutionært
           anlagt Natur som <pb n="26"/>
-          <persName>Ibsens</persName> er bleven inddraget i den. Er »<bibl>Brand</bibl>« Revolution
+          <persName>Ibsen</persName>s er bleven inddraget i den. Er »<bibl>Brand</bibl>« Revolution
           eller Reaction? jeg skal ikke kunne sige det, saa meget har dette Digt af begge Dele.</p>
         <p>Det forrige Aarhundredes to store Grundtanker vare disse: i Videnskaben den frie
           Forskning, i Poesien Humanitetens frie Udfoldelse. Hvad der ikke bliver i denne Strøm, det
-          glider ned ad Decadencens og tager Veien til <note type="add"/>Byzants. Thi udenfor denne
-          Bevægelse ere alle Bevægelser byzantinske. I Videnskaben byzantinsk Skolastik, i Poesien
-          Legemer og Aander, der ikke ligne Legemer og Aander, ensformige og abstracte.</p>
-        <p>Giv <note type="add"/>en Sirius-Beboer, der kun har gjennemlæst vor klassiske moderne
-          Poesi, et Par moderne udenlandske Dramer ihænde, f. Ex. <persName>Alex. Dumas's</persName>
-            »<bibl>Le fils naturel</bibl>«, <persName>Emile Augiers</persName> »<bibl>Le fils de
-            Giboyer</bibl>« og »<bibl>Les effrontés</bibl>«, og han vil gjøre Bekjendtskab med
-          utallige Samfundstilstande og Samfundsproblemer, som han ikke kjendte, fordi de, skjøndt
-          de existere i vort Samfund, ikke existere i vor Litteratur. Thi til det moralske Raseri
-          svarer som Modstykke det moralske Snerperi. Hvad have vi gjort af hint første Opsving, da
-          man herhjemme som overalt ved Aarhundredets Begyndelse første Gang skimtede en Poesi bag
-          de 3 Enheder, en Guddom bag Treenigheden, en Kjærlighedens Lykke bag det conventionelle
-          Ægteskab, en Sandhed bag Dogmerne, en Lighed bag Kasteadskillelsen <pb n="27"/> og
-          Standsinddelingen, en Frihed høit over Convenientsens og Selskabets og Samfundsmoralens
-          Tvang!</p>
-        <p><persName>Oehlenschläger</persName> emanciperede vor Poesi fra Nytteperiodens Moral. Han
-          seirede skjøndt efter en Kamp og Poesien blev fri. <persName>Heiberg</persName> bragte
-          Logiken i ligesaa stor Ære som den, hvori Poesien stod, han emanciperede den æsthetiske
-          Kritik fra Følelsesraisonnementet og erobrede et nyt Terrain for Philosophien. Saa kom de
-          første Fordringer paa politisk Frihed. Men Bannerførerne i Litteraturen svarte: <note
-            type="add"/>Hvad raabe I paa politisk Frihed, den sande Frihed er Villiens egen indre
-          Frihed; at vinde den er jer altid tilladt, og den anden er, naar hin er givet, uden al
-          Betydning.</p>
+          glider ned ad Decadencens og tager Veien til <note type="add"/>Byzants<!-- lemma slut -->.
+          Thi udenfor denne Bevægelse ere alle Bevægelser byzantinske. I Videnskaben byzantinsk
+          Skolastik, i Poesien Legemer og Aander, der ikke ligne Legemer og Aander, ensformige og
+          abstracte.</p>
+        <p>Giv <note type="add"/>en Sirius-Beboer<!-- lemma slut -->, der kun har gjennemlæst vor
+          klassiske moderne Poesi, et Par moderne udenlandske Dramer ihænde, f. Ex. <persName>Alex.
+            Dumas</persName>'s »<bibl>Le fils naturel</bibl>«, <persName>Emile Augiers</persName>
+            »<bibl>Le fils de Giboyer</bibl>« og »<bibl>Les effrontés</bibl>«, og han vil gjøre
+          Bekjendtskab med utallige Samfundstilstande og Samfundsproblemer, som han ikke kjendte,
+          fordi de, skjøndt de existere i vort Samfund, ikke existere i vor Litteratur. Thi til det
+          moralske Raseri svarer som Modstykke det moralske Snerperi. Hvad have vi gjort af hint
+          første Opsving, da man herhjemme som overalt ved Aarhundredets Begyndelse første Gang
+          skimtede en Poesi bag <note type="add"/>de 3 Enheder<!-- lemma slut -->, en Guddom bag
+            <note type="add"/>Treenigheden<!-- lemma slut -->, en Kjærlighedens Lykke bag det
+          conventionelle Ægteskab, en Sandhed bag Dogmerne, en Lighed bag Kasteadskillelsen <pb
+            n="27"/> og Standsinddelingen, en Frihed høit over Convenientsens og <note type="add"
+          />Selskabets<!-- lemma slut --> og Samfundsmoralens Tvang!</p>
+        <p><persName>Oehlenschläger</persName> emanciperede vor Poesi fra <note type="add"
+          />Nytteperiodens<!-- lemma slut --> Moral. Han seirede skjøndt efter en Kamp og Poesien
+          blev fri. <persName>Heiberg</persName> bragte Logiken i ligesaa stor Ære som den, hvori
+          Poesien stod, han emanciperede den æsthetiske Kritik fra Følelsesraisonnementet og
+          erobrede et nyt Terrain for Philosophien. Saa kom de første Fordringer paa politisk
+          Frihed. Men Bannerførerne i Litteraturen svarte: <note type="add"/>Hvad raabe I paa
+          politisk Frihed, den sande Frihed er Villiens egen indre Frihed; at vinde den er jer altid
+          tilladt, og den anden er, naar hin er givet, uden al Betydning<!-- lemma slut -->.</p>
         <p>Og <note type="add"/>man skrev store metaphysiske Afhandlinger om Villiens Frihed,
-          Determinisme og Afsindighed; men man opnaaede dog ikke at berolige Gemytterne og vi fik
-          politisk Frihed. Mon ikke Betingelsen for et Fremskridt paany vilde være det, at Løsenet
-          atter blev Frihed: Aandsfrihed, at man istemmede: vi ville den frie Tanke og den frie
-          Humanitet. Det vil da ikke nytte, at man svarer: »Hvad raabe I paa Frihed, I have jo al
-          den, I kunne ønske,« og man mener den politiske Frihed. Man vil ikke erklære sig tilfreds
-          med den. Det er ikke saameget ydre Love, der behøve at forandres, om end ogsaa de, som det
-          er den hele Samfundsbetragtning, som den yngre Slægt fra Grunden af maa omforme og
-          oppløie, før en ny <pb n="28"/> Litteratur kan skyde op. Hovedarbeidet vil blive gjennem
-          en Mangfoldighed af Canaler at lede de Strømninger, som have deres Udspring i Revolutionen
-          og Fremskridtsideerne, herind og at standse Reactionen paa alle de Punkter, hvor dens
-          Opgave historisk er endt.</p>
+          Determinisme og Afsindighed<!-- lemma slut -->; men man opnaaede dog ikke at berolige
+          Gemytterne og vi fik politisk Frihed. Mon ikke Betingelsen for et Fremskridt paany vilde
+          være det, at Løsenet atter blev Frihed: Aandsfrihed, at man istemmede: vi ville den frie
+          Tanke og den frie Humanitet. Det vil da ikke nytte, at man svarer: »Hvad raabe I paa
+          Frihed, I have jo al den, I kunne ønske,« og man mener den politiske Frihed. Man vil ikke
+          erklære sig tilfreds med den. Det er ikke saameget ydre Love, der behøve at forandres, om
+          end ogsaa de, som det er den hele Samfundsbetragtning, som den yngre Slægt fra Grunden af
+          maa omforme og oppløie, før en ny <pb n="28"/> Litteratur kan skyde op. Hovedarbeidet vil
+          blive gjennem en Mangfoldighed af Canaler at lede de Strømninger, som have deres Udspring
+          i Revolutionen og Fremskridtsideerne, herind og at standse Reactionen paa alle de Punkter,
+          hvor dens Opgave historisk er endt.</p>
       </div>
       <div>
         <head><pb n="31"/> EMIGRANTLITTERATUREN</head>
@@ -460,36 +471,38 @@
           Grændse over Alt. Man havde i Frankrig styrtet Regjeringen, hængt og forvist de ilde sete
           Aristokrater, indført Republiken, ført Krig med Europa, afskaffet Christendommen, indført
           Dyrkelsen af et høieste Væsen, afsat og indsat en halv Snes Fyrster, før man faldt paa at
-          ville <note type="add"/>Alexandrinerverset tillivs, før man vovede at røre ved
-            <persName>Corneille's</persName> og <persName>Boileau's</persName> Autoritet eller
-          tvivle paa, at Overholdelsen af <note type="add"/>de tre Enheder i Dramet var absolut
-          nødvendig for at redde Smagen. <persName>Voltaire</persName>, der ikke har Respect for
-          Meget mellem Himmel <pb n="32"/> og Jord, respecterer Alexandrinerne. Han vender op og ned
-          paa hele Traditionen, han bruger Tragoedien som et Angrebsvaaben imod de Magter, hvis
-          bedste Støtte den før ham havde været: Kongemagten og Kirken, han udelukker i flere af
-          sine Sørgespil Kjærligheden, som hidtil var anseet for Hovedsagen i en ret Tragoedie, han
-          efterligner den af hans Landsmænd ringeagtede <persName>Shakspeare</persName>, men han
-          vover ikke at berøve Verset en Fod, at forandre det Ringeste i den overleverede
-          Rimstilling eller at lade Handlingen vare mere end fire og tyve Timer eller lade
-          Begivenheden foregaae paa to forskjelligt benævnte Steder i et og samme Stykke. Det koster
-          ham mindre Overvindelse at slaae Kongerne Scepteret af Haanden og Præsterne Masken fra
-          Ansigtet end at respectere den traditionelle Dolk i <note type="add"/>Melpomenes Haand og
-          den traditionelle Maske for hendes Ansigt.</p>
+          ville <note type="add"/>Alexandrinerverset<!-- lemma slut --> tillivs, før man vovede at
+          røre ved <persName>Corneille</persName>'s og <persName>Boileau</persName>'s Autoritet
+          eller tvivle paa, at Overholdelsen af <note type="add"/>de tre Enheder i
+          Dramet<!-- lemma slut --> var absolut nødvendig for at redde Smagen.
+            <persName>Voltaire</persName>, der ikke har Respect for Meget mellem Himmel <pb n="32"/>
+          og Jord, respecterer Alexandrinerne. Han vender op og ned paa hele Traditionen, han bruger
+          Tragoedien som et Angrebsvaaben imod de Magter, hvis bedste Støtte den før ham havde
+          været: Kongemagten og Kirken, han udelukker i flere af sine Sørgespil Kjærligheden, som
+          hidtil var anseet for Hovedsagen i en ret Tragoedie, han efterligner den af hans Landsmænd
+          ringeagtede <persName>Shakspeare</persName>, men han vover ikke at berøve Verset en Fod,
+          at forandre det Ringeste i den overleverede Rimstilling eller at lade Handlingen vare mere
+          end fire og tyve Timer eller lade Begivenheden foregaae paa to forskjelligt benævnte
+          Steder i et og samme Stykke. Det koster ham mindre Overvindelse at slaae Kongerne
+          Scepteret af Haanden og Præsterne Masken fra Ansigtet end at respectere den traditionelle
+          Dolk i <note type="add"/>Melpomenes<!-- lemma slut --> Haand og den traditionelle Maske
+          for hendes Ansigt.</p>
         <p>Det blev et andet Folk end det franske, det Folk, hvilket <persName>Voltaire</persName>
           haanligt havde ønsket mere Aand og færre Consonanter, som reformerede Litteratur og Poesi.
           Det var Datidens Tydskere, de skikkelige Folk, om hvilke man i Frankrig neppe vidste mere,
           end at de drak deres Øl, røg deres Pibe og spiste deres Surkaal i Kakkelovnskrogen, at de
           fredelig lode sig plage af en Snes stupide Smaatyranner, at de uden nogensomhelst urimelig
           Lighedsiver i dybeste Ærbødighed gave deres Foresatte Titler som <note type="add"/>»Rath«
-          og »Graf« etc., at de <pb n="33"/> kun førte Krig for at faae Bank, at de ellers levede
-          patriarchalsk med deres Ægtehalvdele, der som sande Rugemaskiner stedse frembragte Børn i
-          stadig Tilbedelse af Frembringeren, dem var det, som i Ideernes Verden gjorde større
-          Erobringer end Franskmændene foretoge paa Jorden, idet de skjænkede Verden en ny
-          Metaphysik, saa dyb og saa rig, som den ikke var seet siden
-            <persName>Aristoteles's</persName> og <note type="add"/>Nyplatonikernes Tider, en ny
-          Poesi, den skjønneste, siden <persName>Shakespeares</persName> Tid, og dem var det, som
-          grundlagde en ny Behandling af Historien, Mythologien og Poesien; thi hos dem havde intet
-          Andet været frit end Tanken alene.</p>
+          og »Graf«<!-- lemma slut --> etc., at de <pb n="33"/> kun førte Krig for at faae Bank, at
+          de ellers levede patriarchalsk med deres Ægtehalvdele, der som sande Rugemaskiner stedse
+          frembragte Børn i stadig Tilbedelse af Frembringeren, dem var det, som i Ideernes Verden
+          gjorde større Erobringer end Franskmændene foretoge paa Jorden, idet de skjænkede Verden
+          en ny Metaphysik, saa dyb og saa rig, som den ikke var seet siden
+            <persName>Aristoteles</persName>'s og <note type="add"/>Nyplatonikernes
+          Tider<!-- lemma slut -->, en ny Poesi, den skjønneste, siden
+            <persName>Shakespeare</persName>s Tid, og dem var det, som grundlagde en ny Behandling
+          af Historien, Mythologien og Poesien; thi hos dem havde intet Andet været frit end Tanken
+          alene.</p>
         <p>Af Tydskland er derfor den Litteratur stærkt paavirket, som ved Aarhundredeskiftet
           udviklede sig i Frankrig, ligesom overhovedet Folkene først nu ret begynde at træde i
           uafbrudt aandelig Forbindelse med hverandre. De store Omvæltninger, Republikens og
@@ -502,188 +515,199 @@
           overfladisk Maade, om ei af anden Aarsag saa for i det fremmede Land at kunne give
           Undervisning i sit eget Sprog. Fra intelligente franske Emigranter udbredte da en ny Aand
           sig over Frankrig, og heri ligger det, at det nye Aarhundredes Litteratur i dette Land
-          begynder som <hi rend="spaced">Emigrantlitteratur</hi>.</p>
+          begynder som <emph>Emigrantlitteratur</emph>.</p>
         <p>Emigranten er efter sit Væsen oppositionel. Men hans Opposition har en forskjellig
           Charakter, eftersom det er <note type="add"/>Rædselsherredømmet eller det absolute
-          Keiserdømme, mod hvilket han opponerer, og hvis Magt han har undflyet. Meget ofte har han
-          undflyet dem begge, og hans Bevæggrunde til Opposition ere da af blandet Natur; han har f.
-          Ex. Sympathier for Revolutionen i dens første Skikkelse og en heftigere Uvillie mod
-          Keiserdømmet end mod Terrorismen; men af hvad Natur end Blandingen er, vil man allerede
-          paa dette Punkt kunne ane den dobbelte Strømning i Emigrantlitteraturens Productioner.
-          Umiddelbart reagerer den mod det 18de Aarhundredes Litteratur, dens Overdrivelser og dens
-          Udskeielser, men ligefuldt er der i Frembringelserne en Understrøm, som fortsætter
-          Hovedstrømningen fra det 18de Aarhundrede; saaledes overalt: hos
-            <persName>Chateaubriand</persName>, hos <persName>Sénancour</persName>, hos
-            <persName>Constant</persName>, hos <persName>Mme de Staël</persName>, og det er paa
-          dette fine Vexelforhold mellem Reaction og Fremskridt jeg fra Begyndelsen af vil bede Dem
-          om at være opmærksom.</p>
+          Keiserdømme<!-- lemma slut -->, mod hvilket han opponerer, og hvis Magt han har undflyet.
+          Meget ofte har han undflyet dem begge, og hans Bevæggrunde til Opposition ere da af
+          blandet Natur; han har f. Ex. Sympathier for Revolutionen i dens første Skikkelse og en
+          heftigere Uvillie mod Keiserdømmet end mod Terrorismen; men af hvad Natur end Blandingen
+          er, vil man allerede paa dette Punkt kunne ane den dobbelte Strømning i
+          Emigrantlitteraturens Productioner. Umiddelbart reagerer den mod det 18de Aarhundredes
+          Litteratur, dens Overdrivelser og dens Udskeielser, men ligefuldt er der i
+          Frembringelserne en Understrøm, som fortsætter Hovedstrømningen fra det 18de Aarhundrede;
+          saaledes overalt: hos <persName>Chateaubriand</persName>, hos
+            <persName>Sénancour</persName>, hos <persName>Constant</persName>, hos <persName>Mme de
+            Staël</persName>, og det er paa dette fine Vexelforhold mellem Reaction og Fremskridt
+          jeg fra Begyndelsen af vil bede Dem om at være opmærksom.</p>
         <p><pb n="35"/> Naar man taler om det 18de Aarhundredes Aand er det almindelig
-            <persName>Voltaires</persName> Navn, der kommer En paa Læben; det er ham, der samler,
+            <persName>Voltaire</persName>s Navn, der kommer En paa Læben; det er ham, der samler,
           resumerer og repræsenterer den hele Tidsalder: forsaavidt Emigranterne reagere imod ham,
           kunne de siges at betegne Reaction mod det foregaaende Aarhundrede. Men der er jo blandt
           det 18de Aarhundredes Forfattere en, der i Storhed næsten er <persName>Voltaire</persName>
           lig og hvis Virksomhed strækker sig langt ud over hans egen Levealder; ham er det, som
           inspirerer Emigrantlitteraturen og til hvem den trods al udenlandsk Paavirkning paa
           ethvert Punkt lader sig føre tilbage, og forsaavidt den nedstammer fra
-            <persName>Rousseau</persName> og fortsætter Rousseau, kan den siges at fortsætte det
-          foregaaende Aarhundrede og Revolutionen. Til <persName>Rousseau</persName> vise i
-          Virkeligheden næsten alle det 19de Aarhundredes store litterære Bevægelser tilbage. Fra
-          ham udgaae i Tydskland <persName>Herder</persName>, <persName>Kant</persName>,
-            <persName>Fichte</persName>, <persName>Jacobi</persName>, <persName>Goethe</persName>,
-            <persName>Jean Paul</persName>, <persName>Schiller</persName> og
-            <persName>Tieck</persName>, i Frankrig <persName>Saint-Pierre</persName>,
-            <persName>Robespierre</persName>, <persName>Chateaubriand</persName>, <persName>Mme de
-            Staël</persName>, <persName>Diderot</persName> og <persName>George Sand</persName>; fra
-          ham udgaaer i England En, hvis Navn tæller som Hundredes: <persName>Byron</persName>.
-          Medens <persName>Voltaire</persName> især virker paa Aanderne i Almindelighed, er
-            <persName>Rousseaus</persName> Indflydelse aldeles overveiende paa de fremragende
+            <persName>Rousseau</persName> og fortsætter <persName>Rousseau</persName>, kan den siges
+          at fortsætte det foregaaende Aarhundrede og Revolutionen. Til
+            <persName>Rousseau</persName> vise i Virkeligheden næsten alle det 19de Aarhundredes
+          store litterære Bevægelser tilbage. Fra ham udgaae i Tydskland
+          <persName>Herder</persName>, <persName>Kant</persName>, <persName>Fichte</persName>,
+            <persName>Jacobi</persName>, <persName>Goethe</persName>, <persName>Jean
+          Paul</persName>, <persName>Schiller</persName> og <persName>Tieck</persName>, i Frankrig
+            <persName>Saint-Pierre</persName>, <persName>Robespierre</persName>,
+            <persName>Chateaubriand</persName>, <persName>Mme de Staël</persName>,
+            <persName>Diderot</persName> og <persName>George Sand</persName>; fra ham udgaaer i
+          England En, hvis Navn tæller som Hundredes: <persName>Byron</persName>. Medens
+            <persName>Voltaire</persName> især virker paa Aanderne i Almindelighed, er
+            <persName>Rousseau</persName>s Indflydelse aldeles overveiende paa de fremragende
           Talenter, paa Forfatterne. Skiftevis have efter deres Død hine to store Mænd behersket
           Eftertiden. <persName>Voltaire</persName> afgav ved Aarhundredets Begyndelse Scepteret til
-            Rous<pb n="36"/> seau, saa indtraf efter 1848 en Periode, i hvilken Voltaire paany har
-          fravristet <persName>Rousseau</persName> Herredømmet over Sjælene, i Frankrig idetmindste,
-          og i dette Lands mest fremragende moderne Skribenter, som <persName>Ernest
-            Renan</persName> f. Ex., finder man den dobbelte Aandsretning endelig sammensmeltet,
-          Rousseau's Aand multipliceret med Voltaires. Men i Rousseau’s Skrifter alene er det, at
-          næsten enhver af de store fra Udlandet kommende Strømninger, som ved Aarhundredets
+            Rous<pb n="36"/> seau, saa indtraf efter <note type="add"/>1848<!-- lemma slut --> en
+          Periode, i hvilken Voltaire paany har fravristet <persName>Rousseau</persName> Herredømmet
+          over Sjælene, i Frankrig idetmindste, og i dette Lands mest fremragende moderne
+          Skribenter, som <persName>Ernest Renan</persName> f. Ex., finder man den dobbelte
+          Aandsretning endelig sammensmeltet, <persName>Rousseau</persName>'s Aand multipliceret med
+            <persName>Voltaire</persName>s. Men i <persName>Rousseau</persName>’s Skrifter alene er
+          det, at næsten enhver af de store fra Udlandet kommende Strømninger, som ved Aarhundredets
           Begyndelse fra Tydskland og England bryde ind over Frankrig, have deres Kildespring, og
-          Rousseau er det, hvem det skyldes, at den Litteratur, som af Franske frembragtes i
-          Udlandet, under al sin Opposition imod den Aand, af hvilken det absolute Keiserdømme
-          fremgik, bevarede et Forhold til det 18de Aarhundrede og havde oprindeligt franske
-          Forudsætninger at støtte sig til.</p>
+            <persName>Rousseau</persName> er det, hvem det skyldes, at den Litteratur, som af
+          Franske frembragtes i Udlandet, under al sin Opposition imod den Aand, af hvilken det
+          absolute Keiserdømme fremgik, bevarede et Forhold til det 18de Aarhundrede og havde
+          oprindeligt franske Forudsætninger at støtte sig til.</p>
         <div>
           <head>I.</head>
           <p>Lad os tage et enkelt af de reactionære Hovedværker til Exempel. Hvad det 18de
             Aarhundrede havde villet tillivs var med eet Ord Middelalderen. For det var
             Middelalderen kun et andet Ord for Barbari og Fanatisme; dets Exempel paa det
-            Rædselsfulde var en <note type="add"/>Autodafee, paa det Latterlige et <note rend="add"
-            />Korstog. Deraf kom det, at man nu med Reactionens hele Renegat-Begeistring vilde
-            gjenindføre det Middelalderlige overalt, i <pb n="37"/> Stat, i Kunst, i Poesi og
-            Religion. Samme Aar som <note type="add"/><persName>Napoleon</persName> afsluttede
-            Concordatet med Paven og gjenindførte den christelige Cultus i Frankrig, udgav
-              <persName>Chateaubriand</persName> sit store Skrift »<bibl>Le génie du
-              christianisme</bibl>«, et af Reactionens første og reneste Producter, der i Strid med
-            den af Forfatteren tidligere, i hans Bog om Revolutionerne, udtalte Overbevisning søger
-            at gjøre Christendommens Sandhed indlysende ved at paavise dens Skjønhed og derigjennem
-            dens Brugbarhed for Poesi og Kunst. <persName>Chateaubriand</persName> anstiller en
-            vidtløftig Sammenligning mellem de hedenske og de christelige Forfattere, foretrækker
-              <persName>Tasso</persName> for <persName>Homer</persName>Homer og
-              <persName>Saint-Pierre</persName> for <persName>Theokrit</persName>, og godtgjør, som
-            man spottende har sagt, paa en overbevisende Maade de religiøse Ideers Anvendelighed i
-            Balletter og Pantomimer. Han er ligesaa orthodox og bibelfast i Naturlæren som i
-            Æsthetiken. Men ligefuldt er det i dette Værk, i Bogens berømte og glimrende Episoder,
-              <persName type="fictional">Atala</persName> og <persName type="fictional"
-              >René</persName>, at det Nye brød frem.</p>
-          <p>Ved <persName type="fictional">René</persName> vil jeg dvæle og forsøge en Paavisning
-            af, at denne Hovedtype, som paa saa mange Maader for os nutildags gjenkalder de fremmede
-            Litteraturer, er fransk i sin Afstamning og revolutionær ved sin Herkomst og sin hele
-            Charakter.</p>
+            Rædselsfulde var en <note type="add"/>Autodafee<!-- lemma slut -->, paa det Latterlige
+            et <note type="add"/>Korstog<!-- lemma slut -->. Deraf kom det, at man nu med
+            Reactionens hele Renegat-Begeistring vilde gjenindføre det Middelalderlige overalt, i
+              <pb n="37"/> Stat, i Kunst, i Poesi og Religion. Samme Aar som <note type="add"
+              /><persName>Napoleon</persName> afsluttede Concordatet med Paven<!-- lemma slut --> og
+            gjenindførte den christelige Cultus i Frankrig, udgav <persName>Chateaubriand</persName>
+            sit store Skrift »<bibl>Le génie du christianisme</bibl>«, et af Reactionens første og
+            reneste Producter, der i Strid med den af Forfatteren tidligere, i hans Bog om
+            Revolutionerne, udtalte Overbevisning søger at gjøre Christendommens Sandhed indlysende
+            ved at paavise dens Skjønhed og derigjennem dens Brugbarhed for Poesi og Kunst.
+              <persName>Chateaubriand</persName> anstiller en vidtløftig Sammenligning mellem de
+            hedenske og de christelige Forfattere, foretrækker <persName>Tasso</persName> for
+              <persName>Homer</persName> og <persName>Saint-Pierre</persName> for
+              <persName>Theokrit</persName>, og godtgjør, som man spottende har sagt, paa en
+            overbevisende Maade de religiøse Ideers Anvendelighed i Balletter og Pantomimer. Han er
+            ligesaa orthodox og bibelfast i Naturlæren som i Æsthetiken. Men ligefuldt er det i
+            dette Værk, i Bogens berømte og glimrende Episoder, <persName type="fictional"
+              >Atala</persName> og <persName type="fictional">René</persName>, at det Nye brød
+            frem.</p>
+          <p>Ved <emph><persName type="fictional">René</persName></emph> vil jeg dvæle og forsøge en
+            Paavisning af, at denne Hovedtype, som paa saa mange Maader for os nutildags gjenkalder
+            de fremmede Litteraturer, er fransk i sin Afstamning og revolutionær ved sin Herkomst og
+            sin hele Charakter.</p>
           <p>Det betydeligste Værk, <persName>Rousseau</persName> som Digter har frembragt, er
               »<bibl>La nouvelle Héloïse</bibl>«. Det er denne Bog, som iøvrigt har en fjern
-            Forgjænger <pb n="38"/> i <persName>Abbed Prévòts</persName> fortræffelige Fortælling
+            Forgjænger <pb n="38"/> i <persName>Abbed Prévòt</persName>s fortræffelige Fortælling
               »<bibl>Manon Lescaut</bibl>« og nærmere Forudsætninger i
-              <persName>Richardsons</persName> engelske Romaner, hvis Ideer som Frøkorn, der bæres
+              <persName>Richardson</persName>s engelske Romaner, hvis Ideer som Frøkorn, der bæres
             af Vinden, forplante sig til Tydskland og fremkalde »<bibl>Werther</bibl>«.
             Wertherskikkelsen voxer, omdannes og bliver til <persName type="fictional"
               >Faust</persName>, og paany strømme hine Tanker og Følelser tilbage over Frankrigs
             Grændse, og paa fransk Grund kaldes Floden <persName type="fictional"
             >René</persName>.</p>
-          <p>Hvad var vel det Nye i <persName>Rousseaus</persName> »<bibl>Héloïse</bibl>«? Hans
+          <p>Hvad var vel det Nye i <persName>Rousseau</persName>s »<bibl>Héloïse</bibl>«? Hans
             Stikord vare Natur og Lidenskab, Natur og Dyd. Heri er der for os ikke noget Nyt. Bogens
             Sujet er en Kjærlighedshistorie, og man havde i Frankrig skrevet mange saadanne før. Det
-            Nye bestaaer for det Første deri, at det er Rousseaus »<bibl>Héloïse</bibl>«, som tager
-            Livet af <hi rend="spaced">Galanteriet</hi> og dermed af den hele classisk-oratoriske
-            Periodes Opfattelse af Følelserne. Denne Opfattelse er den, at alle ædle og fine
-            Følelser ere Civilisations-Producter og Elskov fremfor alle. Det er klart nok, at en vis
-            Cultur er fornøden, før en Følelse som Kjærlighed kan opstaae. Før den kvindelige Kjole
-            var til, var der ikke Kvinder, men kun Hunner, og før der var Kvinder, var der ingen
-            Kjærlighed. Ud fra denne i sig selv rigtige Tanke var hin Tid, som man kalder <note
-              type="add"/><persName>Ludvig den Fjortendes</persName>, nu kommen til det Resultat, at
-            Alt, hvad der tilhyllede den nøgne Passion, ret egentlig adlede den og gav den sit Værd.
-            Jo mere tilsløret og omskrevet, jo mere forberedt og antydet <pb n="39"/> den var, des
-            mindre <hi rend="spaced">brutal</hi>. Hin Tids Sæder og hin Tids Litteratur var jo et
-            Product af selskabelig Dannelse, og denne Dannelse var kun de høieste Kredses.</p>
-          <p>Mændene <note type="add"/>fra <persName>Ludvig den 13des</persName> Tid havde travet i
-            Regn og Slud, pantserklædte paa jernklædte Heste ad opblødte Veie mellem Bjerge og
-            Floder. Derfor foretrak de og deres Sønner, da de forlod deres gamle, afsides beliggende
-            Ridder og Røverborge for at begive sig til <placeName>Versailles</placeName>, en
-            regelmæssig Have for den vilde Skov, en udsøgt Etiquette for Soldaterlivets Sprog, og i
-            Tragoedien, i Dramaet og den lyriske Poesi en sleben Form og civiliserede Følelser for
-            Natur og Lidenskab. Man naaede under denne Bestræbelse til en i Aandens Historie ukjendt
-            Høide. Vil man have et Exempel, da læse man en Roman som »<bibl>Prindsessen af
-              Cléves</bibl>«. Det er umuligt at finde større Finfølelse og en renere Sands for
-            Menneskenaturens Adel og de Former, hvortil denne Adel forpligter. Eller man gribe, for
-            at tage en fuldkommen Contrast til »<bibl>La nouvelle Héloïse</bibl>«
-              <persName>Marivaux's</persName> Theater. Medens man hos <persName>Crébillon
-              fils</persName> finder hint Samfunds geniale og dumdristige Frivolitet afbildet uden
-            Sky, giver <persName>Marivaux</persName> dets allerfineste Blomst, dets maniererte Ynde
-            à la <persName>Parmeggianino</persName>, dets hele Dannelse og Aand saa fuldstændigt og
-            saa typisk, at man kan gjenkjende Charakteren, da <persName>Alfred de Musset</persName>
-            saa mange Aar <pb n="40"/> efter i sine smaa Comoedier gjenoptager Skildringen. De
-            Elskende hos <persName>Marivaux</persName> ere to Væsener af samme Opdragelse og vel at
-            mærke af samme <hi rend="spaced">Stand</hi>. Vi finde ikke her som i vort Aarhundredes
-            Comoedier og Romaner hine Patricierinder, der elske en Plebeier, eller Skikkelser som
-            Lakaien <persName>Ruy Blas</persName>, der nyder en Dronnings Gunst. Forklæder hos
-              <persName>Marivaux</persName> en Gang imellem Herren sig som Tjener, og Frøkenen sig
-            som <note type="add"/>Soubrette, opdage de strax hinanden igjennem Forklædningen. Disse
+            Nye bestaaer for det Første deri, at det er <persName>Rousseau</persName>s
+              »<bibl>Héloïse</bibl>«, som tager Livet af <emph>Galanteriet</emph> og dermed af den
+            hele classisk-oratoriske Periodes Opfattelse af Følelserne. Denne Opfattelse er den, at
+            alle ædle og fine Følelser ere Civilisations-Producter og Elskov fremfor alle. Det er
+            klart nok, at en vis Cultur er fornøden, før en Følelse som Kjærlighed kan opstaae. Før
+            den kvindelige Kjole var til, var der ikke Kvinder, men kun Hunner, og før der var
+            Kvinder, var der ingen Kjærlighed. Ud fra denne i sig selv rigtige Tanke var hin Tid,
+            som man kalder <note type="add"/><persName>Ludvig den
+            Fjortende</persName>s<!-- lemma slut -->, nu kommen til det Resultat, at Alt, hvad der
+            tilhyllede den nøgne Passion, ret egentlig adlede den og gav den sit Værd. Jo mere
+            tilsløret og omskrevet, jo mere forberedt og antydet <pb n="39"/> den var, des mindre
+              <emph>brutal</emph>. Hin Tids Sæder og hin Tids Litteratur var jo et Product af
+            selskabelig Dannelse, og denne Dannelse var kun de høieste Kredses.</p>
+          <p>Mændene <note type="add"/>fra <persName>Ludvig den 13de</persName>s
+            Tid<!-- lemma slut --> havde travet i Regn og Slud, pantserklædte paa jernklædte Heste
+            ad opblødte Veie mellem Bjerge og Floder. Derfor foretrak de og deres Sønner, da de
+            forlod deres gamle, afsides beliggende Ridder og Røverborge for at begive sig til
+              <placeName>Versailles</placeName>, en regelmæssig Have for den vilde Skov, en udsøgt
+            Etiquette for Soldaterlivets Sprog, og i Tragoedien, i Dramaet og den lyriske Poesi en
+            sleben Form og civiliserede Følelser for Natur og Lidenskab. Man naaede under denne
+            Bestræbelse til en i Aandens Historie ukjendt Høide. Vil man have et Exempel, da læse
+            man en Roman som »<bibl>Prindsessen af Clèves</bibl>«. Det er umuligt at finde større
+            Finfølelse og en renere Sands for Menneskenaturens Adel og de Former, hvortil denne Adel
+            forpligter. Eller man gribe, for at tage en fuldkommen Contrast til »<bibl>La nouvelle
+              Héloïse</bibl>« <persName>Marivaux</persName>'s Theater. Medens man hos
+              <persName>Crébillon fils</persName> finder hint Samfunds geniale og dumdristige
+            Frivolitet afbildet uden Sky, giver <persName>Marivaux</persName> dets allerfineste
+            Blomst, dets maniererte Ynde à la <persName>Parmeggianino</persName>, dets hele Dannelse
+            og Aand saa fuldstændigt og saa typisk, at man kan gjenkjende Charakteren, da
+              <persName>Alfred de Musset</persName> saa mange Aar <pb n="40"/> efter i sine smaa
+            Comoedier gjenoptager Skildringen. De Elskende hos <persName>Marivaux</persName> ere to
+            Væsener af samme Opdragelse og vel at mærke af samme <emph>Stand</emph>. Vi finde ikke
+            her som i vort Aarhundredes Comoedier og Romaner hine Patricierinder, der elske en
+            Plebeier, eller Skikkelser som Lakaien <persName type="fictional">Ruy Blas</persName>,
+            der nyder en Dronnings Gunst. Forklæder hos <persName>Marivaux</persName> en Gang
+            imellem Herren sig som Tjener, og Frøkenen sig som <note type="add"
+            />Soubrette<!-- lemma slut -->, opdage de strax hinanden igjennem Forklædningen. Disse
             to Væsener ere fremdeles halvt naturlige, halvt kunstige; de ligne, som <persName>Paul
-              de Saint-Victor</persName> har sagt, hine Blomster, hvis Safter opstige fra Naturens
-            Skjød, men hvis Kronblade Gartnerens Kunst ved Krydsning har tegnet med vilkaarlige
-            Mynstre. De bære ikke Paryk, men deres Haar ere pudrede. De bære Paradekaarder, men de
-            forstaae at bruge dem. Deres Samtale er en stadig Forsøgen og Undflyen, Avanceren og
-            Retireren, lutter Hentydninger og Halvheder, tusinde Omveie, maskerede Tilstaaelser og
-            undertrykte Suk: en Stil af Sølv og Silke. Tilstaaelsen svæver paa disse unge Pigers og
-            Enkers Læber, men den holdes tilbage i det Øieblik den vil undflye. Elskerens Attraa
-            taber sig i saa dyb en Følelse af Respekt, at han hvert Øjeblik stammer, forplumrer sig
-            og tier. Den fine Dame hos <persName>Marivaux</persName> behøver heller ikke en udtalt
-            Erklæring. Ligesom hun selv er behersket og vogter sig for <pb n="41"/> som en
-            Skuespillerinde at give sin Lidenskab til Pris, saaledes forstaaer hun et halvt Ord, en
-            Skjælven i Stemmen og vender sig bort fra Lidenskabens Superlativer, dens Skrig og
-            Selvforglemmelse som fra et stygt og blodigt Skuespil. Stykket staaer da halve og hele
-            Timer stille paa samme Punkt. Disse Naturer ere altfor zarte og følsomme for os. De
-            forekomme os besynderlige og absurde, vi see paa dem med Curiositet, som man seer paa
-            Mimoser blandt Planterne, men Mimoser ere ikke unaturlige, kun besynderlige, og hine
-            Personer ere skjøndt maniererte ikke affecterte, thi deres Væsen er dem naturligt, og de
-            vilde være affecterte, ifald de busede paa. Det franske Ord <note type="add"
-            />Marivaudage viser at <persName>Marivaux's</persName> Maneer har en stor Originalitet.
-            Det er ikke enhver maniereret Kunstner, hvem det lykkes at berige Sproget med et Ord ved
-            at testamentere det sit Navn.</p>
+              de Saint-Victor</persName> har sagt, hine <note type="add"/>Blomster, hvis Safter
+            opstige fra Naturens Skjød, men hvis Kronblade Gartnerens Kunst ved Krydsning har tegnet
+            med vilkaarlige Mynstre<!-- lemma slut -->. De bære ikke Paryk, men deres Haar ere
+            pudrede. De bære Paradekaarder, men de forstaae at bruge dem. Deres Samtale er en stadig
+            Forsøgen og Undflyen, Avanceren og Retireren, lutter Hentydninger og Halvheder, tusinde
+            Omveie, maskerede Tilstaaelser og undertrykte Suk: en Stil af Sølv og Silke.
+            Tilstaaelsen svæver paa disse unge Pigers og Enkers Læber, men den holdes tilbage i det
+            Øieblik den vil undflye. Elskerens Attraa taber sig i saa dyb en Følelse af Respekt, at
+            han hvert Øjeblik stammer, forplumrer sig og tier. Den fine Dame hos
+              <persName>Marivaux</persName> behøver heller ikke en udtalt Erklæring. Ligesom hun
+            selv er behersket og vogter sig for <pb n="41"/> som en Skuespillerinde at give sin
+            Lidenskab til Pris, saaledes forstaaer hun et halvt Ord, en Skjælven i Stemmen og vender
+            sig bort fra Lidenskabens Superlativer, dens Skrig og Selvforglemmelse som fra et stygt
+            og blodigt Skuespil. Stykket staaer da halve og hele Timer stille paa samme Punkt. Disse
+            Naturer ere altfor zarte og følsomme for os. De forekomme os besynderlige og absurde, vi
+            see paa dem med Curiositet, som man seer paa Mimoser blandt Planterne, men Mimoser ere
+            ikke unaturlige, kun besynderlige, og hine Personer ere skjøndt maniererte ikke
+            affecterte, thi deres Væsen er dem naturligt, og de vilde være affecterte, ifald de
+            busede paa. Det franske Ord <note type="add"/>Marivaudage<!-- lemma slut --> viser at
+              <persName>Marivaux</persName>'s Maneer har en stor Originalitet. Det er ikke enhver
+            maniereret Kunstner, hvem det lykkes at berige Sproget med et Ord ved at testamentere
+            det sit Navn.</p>
           <p>Man har rettet mange forskjellige Beskyldninger imod hin Tidsalders Kunst og Poesi. Man
             har sagt: den er ufolkelig, følgelig er den umoralsk; thi i vore Dage er man tilbøielig
             til at sammensmelte disse to Begreber. Men man bør ikke glemme, at indtil vore Dage har
             al udmærket Kunst i Verden havt en aristokratisk Oprindelse, den, der opstod i
               <placeName>Athen</placeName> ikke mindre end den, der opstod i <note type="add"
-            />Florents, medens de store demokratiske Samfund som Nord-Amerikas endnu ikke <pb n="42"
-            /> have frembragt nogen Art af Kunst. Man bør ikke forfalde til det Pedanteri at
-            nedsætte al den Poesi, hvis Modsætning naturnødvendigt maa behage Menneskene i vor Tid
-            og vore Samfund. En anden Indvending mod Kunsten paa <persName>Ludvig den
-              15des</persName> Tid er den, at den er conventionel. Men den er ikke derfor at
+              /><placeName>Florents</placeName><!-- lemma slut -->, medens de store demokratiske
+            Samfund som Nord-Amerikas endnu ikke <pb n="42"/> have frembragt nogen Art af Kunst. Man
+            bør ikke forfalde til det Pedanteri at nedsætte al den Poesi, hvis Modsætning
+            naturnødvendigt maa behage Menneskene i vor Tid og vore Samfund. En anden Indvending mod
+            Kunsten <note type="add"/>paa <persName>Ludvig den 15de</persName>s
+            Tid<!-- lemma slut --> er den, at den er conventionel. Men den er ikke derfor at
             ringeagte. Al Kunst i Verden er conventionel; naar Conventionen ikke støder os, ligger
             det kun i, at vi have den altfor nær paa Livet til at stødes af den. Det Conventionelle
             hos <persName>Marivaux</persName> strækker sig over hele hans Tidsalder.</p>
           <p>Hin Tidsaand stempler et helt Aarhundrede. De gjenfinder den hos
               <persName>Mozart</persName> i en Figur som <persName type="fictional"
-              >Zerlinas</persName>, der ingenlunde er en Bondepige i Træsko, eller af den Art som
-            vore norske Bondenovellers, men coquet og allerkjæreste med høihælede Sko og røde Hæle,
-            med Schæferhat over Armen og en let Sky af Pudder omkring sit Hoved. De gjenfinder den
-            fremdeles i <persName>Watteau's</persName> fortræffelige Malerier. De landlige Festers
-            Maler, som han kaldtes, har med fuldendt Geni forherliget og foreviget hin Tids lette
-            Erotik. Men vend, efter at have hørt Zerlina’s Duet, efter at have betragtet et Maleri
-            af Watteau eller seet et Stykke af Marivaux, tilbage til Deres Værelse og opslaa
-              »<bibl>La nouvelle Hélöise</bibl>«, saa vil De føle en Sphære-Forandring.</p>
+              >Zerlina</persName>s, der ingenlunde er en Bondepige i Træsko, eller af den Art som
+              <note type="add"/>vore norske Bondenovellers<!-- lemma slut -->, men coquet og
+            allerkjæreste med høihælede Sko og røde Hæle, med Schæferhat over Armen og en let Sky af
+            Pudder omkring sit Hoved. De gjenfinder den fremdeles i <persName>Watteau</persName>'s
+            fortræffelige Malerier. De landlige Festers Maler, som han kaldtes, har med fuldendt
+            Geni forherliget og foreviget hin Tids lette Erotik. Men vend, efter at have hørt
+              <persName type="fictional">Zerlina</persName>’s Duet, efter at have betragtet et
+            Maleri af <persName>Watteau</persName> eller seet et Stykke af
+              <persName>Marivaux</persName>, tilbage til Deres Værelse og opslaa »<bibl>La nouvelle
+              Hélöise</bibl>«, saa vil De føle en Sphære-Forandring.</p>
           <p>For <persName>Rousseau</persName> er Galanteriet latterligt. Som <pb n="43"/> han i Alt
             foretrækker Naturtilstanden, saaledes ogsaa i det Erotiske og Elskov i Naturtilstanden
             er for ham en Lidenskab, uimodstaaelig og voldsom. Hvor langt ere vi ikke her fra hine
-            Marivaux’s delicate Sjælsstemninger og zirlige Gestus, fra hine Scener, i hvilke den
-            Knælende selv under Knæfaldet ikke glemte en ulastelig Holdning, mens han trykte Spidsen
-            af en Handske til sine Læber! <persName type="fictional">Saint-Preux</persName>, saa
-            ridderlig og saa sædelig som han er, er en Elektrisermaskine, ladet med Lidenskab, et
-            Bytte for Passionen, declamerende, voldsom, selvforglemmende, og hint første Kys i
+              <persName>Marivaux</persName>’s delicate Sjælsstemninger og zirlige Gestus, fra hine
+            Scener, i hvilke den Knælende selv under Knæfaldet ikke glemte en ulastelig Holdning,
+            mens han trykte Spidsen af en Handske til sine Læber! <persName type="fictional"
+              >Saint-Preux</persName>, saa ridderlig og saa sædelig som han er, er en
+            Elektrisermaskine, ladet med Lidenskab, et Bytte for Passionen, declamerende, voldsom,
+            selvforglemmende, og hint første Kys i
             <!-- Clarence må være identisk med Clarens, omtalt på s. 49 -->Clarences <note
-              type="add"/>Bosquet fremkalder et sandt Delirium, en Skjælven, en Tilstand i Ild, som
-            var Lynet slaaet ned, og idet <persName type="fictional">Julie</persName> bøier sig mod
-            Saint-Preux og kysser ham, daaner hun paa Stedet og falder i en Afmagt, der ikke som
-            Paryktidens er et Coquetteri, men en Følge af Lidenskabens altovervældende Magt hos det
-            unge sunde Naturbarn.</p>
+              type="add"/>Bosquet<!-- lemma slut --> fremkalder et sandt Delirium, en Skjælven, en
+            Tilstand i Ild, som var Lynet slaaet ned, og idet <persName type="fictional"
+              >Julie</persName> bøier sig mod <persName type="fictional">Saint-Preux</persName> og
+            kysser ham, daaner hun paa Stedet og falder i en Afmagt, der ikke som Paryktidens er et
+            Coquetteri, men en Følge af Lidenskabens altovervældende Magt hos det unge sunde
+            Naturbarn.</p>
           <p>Det andet nye Træk hos <persName>Rousseau</persName> er dette, at <persName
               type="fictional">Saint-Preux</persName> og <persName type="fictional">Julie</persName>
             ikke ere Jævnlige. Hun er en fornem Mands Datter, han en fattig Huslærer, en Plebeier.
@@ -706,15 +730,16 @@
             ikke staaer i nogen Strid med det andet Feltraab: Natur, siden Dyden netop for Rousseau
             er en Naturtilstand. Man har sagt, at i Frankrig havde Ægteskabsbruddet under
               <persName>Ludvig den 13de</persName> været en Morskab, <note type="add"/>under
-              <persName>Ludvig den 14de</persName> en Regel, og at det under Regentskabet var blevet
-            en Pligt. <persName>Rousseau</persName> bød da Tidsaanden Spidsen ved at skrive en Bog
-            til Ægteskabets Forherligelse. Alligevel er han saa meget smittet af sin Tidsaand, at
+              <persName>Ludvig den 14de</persName><!-- lemma slut --> en Regel, og at det under
+            Regentskabet var blevet en Pligt. <persName>Rousseau</persName> bød da Tidsaanden
+            Spidsen ved at skrive <note type="add"/>en Bog til Ægteskabets
+            Forherligelse<!-- lemma slut -->. Alligevel er han saa meget smittet af sin Tidsaand, at
             Bogens Heltinde falder; men <pb n="45"/> iøvrigt har Bogen den Lighed med
               »<bibl>Werther</bibl>«, at ogsaa her den egentlige Elsker gaaer glip af Pigen, idet
             Heltinden forenes med en »<persName type="fictional">Albert</persName>«, der er ligesaa
             ulastelig som uinteressant. Det er lærerigt at see en Type som <persName
               type="fictional">Wolmar</persName> omdannes fra den ene Litteratur til den anden uden
-            at miste sit Præg; efter at have spillet <persName type="fictional">Alberts</persName>
+            at miste sit Præg; efter at have spillet <persName type="fictional">Albert</persName>s
             Rolle i »<bibl>Werther</bibl>«, dukker han op i vor egen Litteratur som <persName
               type="fictional">Eduard</persName> i »<bibl>Forførerens Dagbog</bibl>«.</p>
           <p>Og saa endnu et Træk, det sidste. Løsenet »Natur« maa opfattes aldeles bogstaveligt.
@@ -722,27 +747,28 @@
             afløser Kjærligheden til Saloner og Haver. Hvilken Afstand fra Sceneriet hos
               <persName>Marivaux</persName> og <persName>Watteau</persName>!</p>
           <p>I hvilke Omgivelser stiller <note type="add"/>paa <persName>Ludvig den 15des</persName>
-            Tid Poesi og Malerkunst sine Personer?<note>Hettner: »<bibl>Litteraturgeschichte des
-                18ten Jahrhunderts</bibl>« passim.</note> Hvad man under <persName>Ludvig den
-              14de</persName> havde tilstræbt i Bygningskunsten var det Imponerende. Man ofrede
-            endog ethvert Hensyn til Velvære og Comfort for den kolde Pragtsyge og den stive
-            Etiquette. Hvo der har seet Ludvig den 14des Soveværelse i
-              <placeName>Versailles</placeName> vil indrømme, sjeldent at have seet et mere
-            utaaleligt beliggende Sovekammer. Nu afløses de ubeboelige og majestætiske Sale af <note
-              type="add"/>»les petites maisons«, som enhver Verdensmand <pb n="46"/> da besad dem, i
-            hvilke den lette Conversation og den yppige Letfærdighed fandt sig lige vel tilpas.
-            Derfor forsvinde i Architekturen de store, simple Forhold, de rene og klare
-            Massevirkninger. Stenens Haardhed og Tyngde fornegtes, Liniens Strenghed brydes, Alt
-            bliver rundt og bølgende, alle Linier blive udsvævende og skeie ud. Barokstilen naaer
-            baade i Bygnings- og i Billedhuggerkunsten sit Høidepunkt. Overalt forekomme uendeligt
-            gjentagne Amorer og Gratier, ganske som paa Prent i <persName>Voltaires</persName>
-              »<bibl>poésies fugitives</bibl>«. I Haverne omfavner den bukkefodede <persName
-              type="fictional">Pan</persName> slanke, hvide Nympher ved det kunstige Vandspring. I
-            Malerkunsten opstaae hine landlige Billeder, hvis fjerne Forbillede er
-              <persName>Rubens's</persName> Kjærlighedshave, men som istedenfor dennes brede
-            Livsglæde og svære Figurer have ligesom henaandede og fine Skikkelser i coquette Dragter
-            og istedenfor Rubens's djærve Sandselighed erotisk Leg, Leflen og Hvisken, en Baggrund
-            af skyggefulde Gange med stille Skjul, med yppige Statuer og friske Grønsværtæpper.</p>
+            Tid<!-- lemma slut --> Poesi og Malerkunst sine Personer?<note>Hettner:
+                »<bibl>Litteraturgeschichte des 18ten Jahrhunderts</bibl>« passim.</note> Hvad man
+            under <persName>Ludvig den 14de</persName> havde tilstræbt i Bygningskunsten var det
+            Imponerende. Man ofrede endog ethvert Hensyn til Velvære og Comfort for den kolde
+            Pragtsyge og den stive Etiquette. Hvo der har seet <persName>Ludvig den 14de</persName>s
+            Soveværelse i <placeName>Versailles</placeName> vil indrømme, sjeldent at have seet et
+            mere utaaleligt beliggende Sovekammer. Nu afløses de ubeboelige og majestætiske Sale af
+              <note type="add"/>»les petites maisons«<!-- lemma slut -->, som enhver Verdensmand <pb
+              n="46"/> da besad dem, i hvilke den lette Conversation og den yppige Letfærdighed
+            fandt sig lige vel tilpas. Derfor forsvinde i Architekturen de store, simple Forhold, de
+            rene og klare Massevirkninger. Stenens Haardhed og Tyngde fornegtes, Liniens Strenghed
+            brydes, Alt bliver rundt og bølgende, alle Linier blive udsvævende og skeie ud.
+            Barokstilen naaer baade i Bygnings- og i Billedhuggerkunsten sit Høidepunkt. Overalt
+            forekomme uendeligt gjentagne Amorer og Gratier, ganske som paa Prent i
+              <persName>Voltaire</persName>s »<bibl>poésies fugitives</bibl>«. I Haverne omfavner
+              <note type="add"/>den bukkefodede Pan<!-- lemma slut --> slanke, hvide Nympher ved det
+            kunstige Vandspring. I Malerkunsten opstaae hine landlige Billeder, hvis fjerne
+            Forbillede er <persName>Rubens</persName>'s Kjærlighedshave, men som istedenfor dennes
+            brede Livsglæde og svære Figurer have ligesom henaandede og fine Skikkelser i coquette
+            Dragter og istedenfor <persName>Rubens</persName>'s djærve Sandselighed erotisk Leg,
+            Leflen og Hvisken, en Baggrund af skyggefulde Gange med stille Skjul, med yppige Statuer
+            og friske Grønsværtæpper.</p>
           <p>Under <persName>Ludvig den 14de</persName> havde hele Dragten været stiv; man bar store
             Opslag og Kraver, selv Kjole og Vesteskjøderne vare afstivede, Halskraven og
             Manchetterne stive, saa at ingen Fold kunde forandres; den ubekvemme Allongeparyk
@@ -750,21 +776,21 @@
             Tvangløshed og Lethed. Skjødernes stive Foer for<pb n="47"/>svandt, istedenfor den store
             Allongeparyk traadte det pudrede Haar, stivt friseret, saa at ingen nok saa hastig
             Bevægelse kunde bringe det i Uorden; overalt i Dragt og Væsen paatog man sig en vis
-            Skjødesløshed. Man opholdt sig i <note type="add"/>Boudoirs. Som Thee og Caffe indførtes
-            fra Østerland, saaledes ogsaa den østerlandske Sopha, der giver <persName>Crébillon
-              fils</persName> Titlen til hans mest bekjendte og mest berygtede Fortælling. Den bløde
-            Lænestol fortrænger den høie, ubekvemme, i Ryggen aldeles lige Armstol. Bohavet bestaaer
-            af svære Silkegardiner, som vellystigt dæmpe Lyset, af store Speile i Guldrammer, af
-              <note type="add"/>rigtforzirede Stueuhre, af yppige Malerier og snørklede Meubler.
-            Hele Værelset dufter af vellystig Parfume.</p>
+            Skjødesløshed. Man opholdt sig i <note type="add"/>Boudoirs<!-- lemma slut -->. Som Thee
+            og Caffe indførtes fra Østerland, saaledes ogsaa den østerlandske Sopha, der giver
+              <persName>Crébillon fils</persName> Titlen til hans mest bekjendte og mest berygtede
+            Fortælling. Den bløde Lænestol fortrænger den høie, ubekvemme, i Ryggen aldeles lige
+            Armstol. Bohavet bestaaer af svære Silkegardiner, som vellystigt dæmpe Lyset, af store
+            Speile i Guldrammer, af <note type="add"/>rigtforzirede Stueuhre<!-- lemma slut -->, af
+            yppige Malerier og snørklede Meubler. Hele Værelset dufter af vellystig Parfume.</p>
           <p>Lad os herfra kaste et Blik paa Sceneriet i »<bibl>La nouvelle Héloïse</bibl>«.</p>
-          <p>De veed hvor <persName>Rousseaus</persName> Statue nutildags staaer. Det er paa en
+          <p>De veed hvor <persName>Rousseau</persName>s Statue nutildags staaer. Det er paa en
             lille Ø, der ligger i Genfersøen, hvor dens Sydspids borer sig ind i
               <placeName>Génève</placeName>. Denne Egn er en af de deiligste i Verden. Gaaer De lidt
             forbi Øen over endnu en Bro seer De tydeligt Rhonen styrte sig brusende og skumhvid som
             et Trollhättafald ud af Søen. Nogle Skridt endnu, og De seer dens hvide Strøm løbe
             sammen med Arves graalige Snevand. Floderne løbe ved Siden af hinanden, bevarende hver
-            sin Farve. Langt borte seer De <placeName>Montblancs</placeName> hvide Snespids mellem
+            sin Farve. Langt borte seer De <placeName>Montblanc</placeName>s hvide Snespids mellem
             to mægtige Alperygge. Henad Aften blive disse <pb n="48"/> Bjergrygge mørke og over dem
             sees Sneen paa <placeName>Montblanc</placeName> glødende som blege Roser. Det er som om
             Naturen havde samlet alle sine Modsætninger her. Selv i den mildeste Aarstid mærker man,
@@ -773,27 +799,29 @@
             Vind. Man gjør sig intet Begreb om Luftens kolde Friskhed og Styrke her. Kun Solen
             minder om Syden og Stjernernes stærke Tindren ved Nat. Det seer ud som hang de løse i
             Luften. Og Luften selv er, som var det et stærkt massivt Legeme, man indaandede.</p>
-          <p>Seil da op ad Søen til <placeName>Vevey</placeName>! Bag Vevey Alpeskrænterne med de
-            sydlandske friske Træer og Vinhaver. Hinsides Søen de mørkeblaa uhyre Klippemure, der
-            lukke Udsigten ogsaa til Søens Sider, alvorlige, truende, mens Solen leger med Lys og
-            Skygge ned ad Bjergsiderne. Ingen Sø er blaa som Genfersøen. Seiler man paa en smuk
-            Sommerdag ned ad den, ligner den blaat Atlask, der changerer i Guld. Dette Land er et
-            Feeland, et Drømmeland, hvori mægtige Bjerge kaste deres sorteblaa Skygger ned i et
-            himmelblaat Vand under en tindrende, straalende Sol, der mætter Luften med sine Farver.
-            Seil saa lidt længere op ad Søen til <placeName>Montreux</placeName>! Klippefæstningen
-              <placeName>Chillon</placeName>, hint Fængsel, i hvilket Middelalderens barbariske
-            Grusomhed <pb n="49"/> har samlet alle sine Pinselsredskaber, ligger ude i Vandet. Dette
-            Vidnesbyrd om vilde, voldsomme, frygtelige Lidenskaber ligger her i en Natur, som kan
-            kaldes fortryllet. Her er Søen aaben, Skuet mindre aparte, Climaet mere sydlandsk end
-            ved Vevey. Man seer som et hemmelighedsfuldt Blaalys, i hvilket Himlen, Alperne og
-            Lemansøen smelte sammen. Gaa saa nogle Skridt videre til
+          <p>Seil da op ad Søen til <placeName>Vevey</placeName>! Bag <placeName>Vevey</placeName>
+            Alpeskrænterne med de sydlandske friske Træer og Vinhaver. Hinsides Søen de mørkeblaa
+            uhyre Klippemure, der lukke Udsigten ogsaa til Søens Sider, alvorlige, truende, mens
+            Solen leger med Lys og Skygge ned ad Bjergsiderne. Ingen Sø er blaa som Genfersøen.
+            Seiler man paa en smuk Sommerdag ned ad den, ligner den blaat Atlask, der changerer i
+            Guld. Dette Land er et Feeland, et Drømmeland, hvori mægtige Bjerge kaste deres
+            sorteblaa Skygger ned i et himmelblaat Vand under en tindrende, straalende Sol, der
+            mætter Luften med sine Farver. Seil saa lidt længere op ad Søen til
+              <placeName>Montreux</placeName>! Klippefæstningen <placeName>Chillon</placeName>, hint
+            Fængsel, i hvilket Middelalderens barbariske Grusomhed <pb n="49"/> har samlet alle sine
+            Pinselsredskaber, ligger ude i Vandet. Dette Vidnesbyrd om vilde, voldsomme, frygtelige
+            Lidenskaber ligger her i en Natur, som kan kaldes fortryllet. Her er Søen aaben, Skuet
+            mindre aparte, Climaet mere sydlandsk end ved <placeName>Vevey</placeName>. Man seer som
+            et hemmelighedsfuldt Blaalys, i hvilket Himlen, Alperne og Lemansøen smelte sammen. Gaa
+            saa nogle Skridt videre til
               <!-- Jf. noten ovenfor om Bosquet --><placeName>Clarens</placeName> og stands i hin
-            Kastanielund, som den Dag idag kaldes »Bosquet de Julie«. Den ligger høit oppe paa en
-            Udpynt; fra den seer De Montreux ligge inde i Bugten lunt og gjemt; kast et Blik omkring
-            Dem og De vil forstaae, at det var fra dette Sted, at Naturfølelsen udbredte sig over
-            Europa. Thi De staaer her i <persName>Rousseaus</persName> Fødeegn og paa Skuepladsen
-            for hans »<bibl>Nouvelle Héloïse</bibl>«. Det var dette Sceneri, som fortrængte
-            Regentskabstidens.</p>
+            Kastanielund, som den Dag idag kaldes »Bosquet de <persName type="fictional"
+              >Julie</persName>«. Den ligger høit oppe paa en Udpynt; fra den seer De
+              <placeName>Montreux</placeName> ligge inde i Bugten lunt og gjemt; kast et Blik
+            omkring Dem og De vil forstaae, at det var fra dette Sted, at Naturfølelsen udbredte sig
+            over Europa. Thi De staaer her i <persName>Rousseau</persName>s Fødeegn og paa
+            Skuepladsen for hans »<bibl>Nouvelle Héloïse</bibl>«. Det var dette Sceneri, som
+            fortrængte <note type="add"/>Regentskabstidens<!-- lemma slut -->.</p>
         </div>
         <div>
           <head>II.</head>
@@ -804,27 +832,27 @@
             Mangler, en Bog, som satte ikke Tusinder men Millioner Gemytter i Bevægelse, meddelte
             hele Generationer en levende Begeistring <pb n="50"/> og en lidenskabelig Længsel efter
             Døden, drev et ikke ringe Antal Mennesker til Sentimentalitet, til Fortvivlelse, til
-            Ørkesløshed og til Selvmord, og som havde den Ære at blive forbudt som irreligiøs af den
-            landsfaderlige danske Regjering. Denne Bog er »<hi rend="spaced"
-              ><bibl>Werther</bibl></hi>«. <persName type="fictional">Saint-Preux</persName>
-            skiftede Costume og iklædte sig den berømte Wertherdragt, den blaa Kjole og den gule
-            Vest, og <persName>Rousseau's</persName>
-            <note type="add"/>»belle âme« gik over i den tydske Litteratur som <note type="add"
-            />»Die schöne Seele«. 1774 udkom da denne Bog, hvis Slutningspaginer ikke ere opfundne
-            af nogen Digter. De ere med den Ret, enhver frembringende Aand har til at tage sin
-            Eiendom, hvor han finder den, ordlydende afskrevne efter et Manuscript, der fremstiller
-            den unge <persName type="fictional">Jerusalems</persName> Endeligt. De kan finde
-            Manuscriptet i <persName>Kestners</persName> Bog om <persName>Goethe</persName> og
-              <persName type="fictional">Lotte</persName>. Kun eet eneste Ord har Goethe forandret
-            som vulgært eller skurrende i Tonen. I Manuscriptet staaer »<hi rend="spaced"
-              >Barbiergesellen</hi> trugen ihn«. Bogen ender saaledes: »<hi rend="spaced"
-              >Handwerker</hi> trugen ihn, kein Geistlicher hat ihn begleitet.« I sin skjærende
-            Korthed udtrykker denne Sætning, at et Liv er endt, der i Strid med sig selv og med
-            Samfundet, dødeligt saaret i sine Sympathier og sine Bestræbelser, er bukket under.
-            Haandværkere bar ham; thi det borgerlige Samfund holdt sig <note type="add"/>pharisæisk
-            tilbage; ingen Geistlig ledsagede ham; thi han var Selvmorder og havde brudt al kirkelig
-            og religiøs Forpligtelse. Men han elskede Menig<pb n="51"/>mand og omgikkes de Udannede,
-            derfor fulgte disse ham til Graven.</p>
+            Ørkesløshed og til Selvmord, og som havde den Ære at blive <note type="add"/>forbudt som
+            irreligiøs af den landsfaderlige danske Regjering<!-- lemma slut -->. Denne Bog er
+                »<emph><bibl>Werther</bibl></emph>«. <persName type="fictional"
+              >Saint-Preux</persName> skiftede Costume og iklædte sig den berømte Wertherdragt, den
+            blaa Kjole og den gule Vest, og <persName>Rousseau</persName>'s <note type="add"/>»belle
+            âme«<!-- lemma slut --> gik over i den tydske Litteratur som <note type="add"/>»Die
+            schöne Seele«<!-- lemma slut -->. 1774 udkom da denne Bog, hvis Slutningspaginer ikke
+            ere opfundne af nogen Digter. De ere med den Ret, enhver frembringende Aand har til at
+            tage sin Eiendom, hvor han finder den, ordlydende afskrevne efter et Manuscript, der
+            fremstiller den unge <persName>Jerusalem</persName>s Endeligt. De kan finde Manuscriptet
+            i <note type="add"/><persName>Kestner</persName>s Bog om <persName>Goethe</persName> og
+              <persName type="fictional">Lotte</persName><!-- lemma slut -->. Kun eet eneste Ord har
+            Goethe forandret som vulgært eller skurrende i Tonen. I Manuscriptet staaer
+              »<emph>Barbiergesellen</emph> trugen ihn«. Bogen ender saaledes:
+              »<emph>Handwerker</emph> trugen ihn, kein Geistlicher hat ihn begleitet.« I sin
+            skjærende Korthed udtrykker denne Sætning, at et Liv er endt, der i Strid med sig selv
+            og med Samfundet, dødeligt saaret i sine Sympathier og sine Bestræbelser, er bukket
+            under. Haandværkere bar ham; thi det borgerlige Samfund holdt sig <note type="add"
+            />pharisæisk<!-- lemma slut --> tilbage; ingen Geistlig ledsagede ham; thi han var
+            Selvmorder og havde brudt al kirkelig og religiøs Forpligtelse. Men han elskede Menig<pb
+              n="51"/>mand og omgikkes de Udannede, derfor fulgte disse ham til Graven.</p>
           <p>Hvad er <bibl>Werther</bibl>? Definitioner udtømme ikke et digterisk Mesterværks
             uendelige Rigdom, men man kan sige med et Par Ord, at denne en lidenskabelig og
             ulykkelig Elskovs Historie har sin Betydning derved, at den ikke blot udtaler et enkelt
@@ -835,60 +863,62 @@
             som et Fængsel og alle Samfundets Skillemure som Fængselsvægge. Alt hvad Samfundet byder
             er, som <persName type="fictional">Werther</persName> siger, <note type="add"/>at male
             Fængselsvæggene for Individet, at male dem perspectivisk med frie Udsigter til vide
-            Horizonter. Men Væggene selv brydes ikke ned. Derfor denne Renden Panden imod Væggen,
-            denne lange Hulken, denne dybe Fortvivlelse, som først lindres ved et Pistolskud i
-            Hjertet. Hvad her er fremstillet er ei som i »<bibl>Nouvelle Héloïse</bibl>« Dydens og
-            den <note type="add"/>deistiske Religiøsitets Overvinden af Naturdrift og Passion, men
-            Lidenskabens Fatalisme; med fatalistisk Nødvendighed gaaer i denne Hjertets Tragoedie
-            den regelløse og tøilesløse Lidenskab tilgrunde.</p>
-          <pb n="52"/>
-          <p><pb n="52"/>De veed, hvilken Strøm af sentimentale Productioner denne Bog alfødte,
-            hvormange taaredrivende Romaner i Octav der nedstamme fra den, hvorledes dens Følelse
-            snart blev fortættet til det massiveste Føleri, som hos <persName>Clauren</persName>,
-            hos <persName>Lafontaine</persName>, hos vor <persName>Rahbek</persName>, snart
-            fortyndet til det subtileste platoniske Sværmeri, som i <persName>Ingemanns</persName>
-            tidligere Dramaer og Romaner, se især den ligefremme Efterligning af
-              <bibl>Werther</bibl> i »<bibl>Warners Vandringer</bibl>«. Men Werther selv er uden
-            Skyld heri; thi Fortabtheden i Følelsen er kun Bogens ene Side. Ud fra denne, midt i al
-            denne, fremsprudler en saa sund Naturfølelse og Livsfølelse, saa kraftig og revolutionær
-            en Vrede over Samfundets Convenients, de aristokratiske Fordomme og Forretningslivets
+            Horizonter<!-- lemma slut -->. Men Væggene selv brydes ikke ned. Derfor denne Renden
+            Panden imod Væggen, denne lange Hulken, denne dybe Fortvivlelse, som først lindres ved
+            et Pistolskud i Hjertet. Hvad her er fremstillet er ei som i »<bibl>Nouvelle
+              Héloïse</bibl>« Dydens og den <note type="add"/>deistiske
+            Religiøsitets<!-- lemma slut --> Overvinden af Naturdrift og Passion, men Lidenskabens
+            Fatalisme; med fatalistisk Nødvendighed gaaer i denne Hjertets Tragoedie den regelløse
+            og tøilesløse Lidenskab tilgrunde.</p>
+          <p><pb n="52"/>De veed, hvilken Strøm af sentimentale Productioner denne Bog affødte,
+            hvormange taaredrivende Romaner <note type="add"/>i Octav<!-- lemma slut --> der
+            nedstamme fra den, hvorledes dens Følelse snart blev fortættet til det massiveste
+            Føleri, som hos <persName>Clauren</persName>, hos <persName>Lafontaine</persName>, hos
+            vor <persName>Rahbek</persName>, snart fortyndet til det subtileste platoniske Sværmeri,
+            som i <persName>Ingemann</persName>s tidligere Dramaer og Romaner, se især den
+            ligefremme Efterligning af »<bibl>Werther</bibl>« i <note type="add"/>»<bibl>Warners
+              Vandringer</bibl>«<!-- lemma slut -->. Men »<bibl>Werther</bibl>« selv er uden Skyld
+            heri; thi Fortabtheden i Følelsen er kun Bogens ene Side. Ud fra denne, midt i al denne,
+            fremsprudler en saa sund Naturfølelse og Livsfølelse, saa kraftig og revolutionær en
+            Vrede over Samfundets Convenients, de aristokratiske Fordomme og Forretningslivets
             Pedanteri, at Hovedindtrykket af Bogen er og bliver den Trang til Oprindelighed og
             Poesi, som den fremstiller, vækker og tilfredsstiller. Hvilket Fremskridt er her ikke
             gjort siden »<bibl>Nouvelle Héloïse</bibl>«! Kun usikkert er i
-              <persName>Rousseau's</persName> Roman den kvindelige Hovedfigur tegnet. Her, som
+              <persName>Rousseau</persName>'s Roman den kvindelige Hovedfigur tegnet. Her, som
             næsten overalt, mangler i den franske Poesi Kvindeligheden Naivetet. <persName
               type="fictional">Julie</persName> er en klassisk Forgjængerinde for Heltinderne i
-              <persName>Balzac's</persName> Romaner. Hvor uendeligt staaer hun ikke tilbage for sin
+              <persName>Balzac</persName>'s Romaner. Hvor uendeligt staaer hun ikke tilbage for sin
             Navne, den virkelige <persName>Héloïse</persName>, i Lidenskabens Sandhed og Ægthed,
             hvor følt er ikke hvert Ord hos denne, Udbruddene af Kjærlighed saavelsom Udbruddene af
             Religiøsitet, og hvor kolde ere <pb n="53"/>ikke <persName type="fictional"
-              >Julies</persName> Perioder! Hvert Øieblik forfalder hun til Declamationer om Dyden og
+              >Julie</persName>s Perioder! Hvert Øieblik forfalder hun til Declamationer om Dyden og
             om det høieste Væsen, som hun philosophisk benævner Livets Kilde. Hun har Sætninger som
             denne: <note type="add"/>»I den Grad ere alle menneskelige Anliggender et Intet, at naar
             det Væsen undtages, der existerer ved sig selv, gives der intet Skjønt uden det, som
-            ikke er«, hun mener vore <note type="add"/>Chimærer. <persName type="fictional"
-              >Julie</persName> raisonnerer og declamerer. Hvor naiv og naturlig tager ikke den
-            kraftige <persName type="fictional">Charlotte</persName> sig ud i Modsætning til hende,
-            for Exempel i hin første Situation, da hun skjærer Brødet til sine smaa Sødskende. Naar
-            der hos hende er noget, som gaaer ud over det Naturliges Linie, da synder hun ikke ved
-            Declamation, men ved et Stænk af sentimentalt Sværmeri, som i den Scene hvor <persName
-              type="fictional">Werther's</persName> og hendes Tanker mødes, idet hun taus med sin
-            Finger skriver Ordet »<persName>Klopstock</persName>« paa den fugtige Rude. løvrigt er
-            der i denne Bog en endnu renere, dybere, genialere Følelse for Naturomgivelsen og
-            Landskabet end hos <persName>Rousseau</persName>; Forskjellen i Naturopfattelsen er
-            betinget deraf, at en stor litterær Begivenhed forefalder i Mellemtiden, Udgivelsen af
-              »<bibl>Ossian</bibl>«, der gjorde et saa uhyre Indtryk. De veed, hvorledes <note
-              type="add"/>den skotske Barde smeltede selv <note type="add"/>Bonapartes haarde
-            Hjerte, saa at denne langt foretrak ham for <persName>Homer</persName>. Dengang troede
-            man endnu paa <persName type="fictional">Ossians</persName> Ægthed, og den Tid var endnu
-            ikke indtraadt, da man vendte sig bort fra disse <pb n="54"/> Digte med samme Ærgrelse
-            og Væmmelse, som et Selskab føler, naar det i en Have har ladet sig henrive til Sværmeri
-            af en Nattergals Toner og saa opdager en i Buskene skjult forvorpen Krabat, som var
-            Nattergalen. Den stakkels <persName>Macpherson</persName> var denne Bedrager. Det var
-            ham, som fortrængte <persName>Homer</persName>. Saaledes fortrænges ogsaa her i
-              »<bibl>Werther</bibl>« den sunde homeriske Naturanskuelse, som raader i Bogens første
-            Halvdel efterhaanden af de urolige ossianske Taagebilleder, som svare til den stigende
-            Sygelighed, til Lidenskabens Uro og Phantasteri.</p>
+            ikke er«<!-- lemma slut -->, hun mener vore <note type="add"
+            />Chimærer<!-- lemma slut -->. <persName type="fictional">Julie</persName> raisonnerer
+            og declamerer. Hvor naiv og naturlig tager ikke den kraftige <persName type="fictional"
+              >Charlotte</persName> sig ud i Modsætning til hende, for Exempel i hin første
+            Situation, da hun skjærer Brødet til sine smaa Sødskende. Naar der hos hende er noget,
+            som gaaer ud over det Naturliges Linie, da synder hun ikke ved Declamation, men ved et
+            Stænk af sentimentalt Sværmeri, som i den Scene hvor <persName type="fictional"
+              >Werther</persName>'s og hendes Tanker mødes, idet hun taus med sin Finger skriver
+            Ordet »<persName>Klopstock</persName>« paa den fugtige Rude. løvrigt er der i denne Bog
+            en endnu renere, dybere, genialere Følelse for Naturomgivelsen og Landskabet end hos
+              <persName>Rousseau</persName>; Forskjellen i Naturopfattelsen er betinget deraf, at en
+            stor litterær Begivenhed forefalder i Mellemtiden, Udgivelsen af »<bibl>Ossian</bibl>«,
+            der gjorde et saa uhyre Indtryk. De veed, hvorledes <note type="add"/>den skotske
+            Barde<!-- lemma slut --> smeltede selv <note type="add"/>Bonapartes<!-- lemma slut -->
+            haarde Hjerte, saa at denne langt foretrak ham for <persName>Homer</persName>. Dengang
+            troede man endnu paa <bibl>Ossian</bibl>s Ægthed, og den Tid var endnu ikke indtraadt,
+            da man vendte sig bort fra disse <pb n="54"/> Digte med samme Ærgrelse og Væmmelse, som
+            et Selskab føler, naar det i en Have har ladet sig henrive til Sværmeri af en Nattergals
+            Toner og saa opdager en i Buskene skjult forvorpen Krabat, som var Nattergalen. Den
+            stakkels <persName>Macpherson</persName> var denne Bedrager. Det var ham, som fortrængte
+              <persName>Homer</persName>. Saaledes fortrænges ogsaa her i »<bibl>Werther</bibl>« den
+            sunde homeriske Naturanskuelse, som raader i Bogens første Halvdel efterhaanden af de
+            urolige ossianske Taagebilleder, som svare til den stigende Sygelighed, til Lidenskabens
+            Uro og Phantasteri.</p>
           <p>De føler maaskee allerede, hvilke nye Charaktertræk Hovedfiguren har indvundet ved at
             passere Rhinen. <persName type="fictional">Saint-Preux</persName> var endnu, som Navnet
             allerede antyder, det ridderlige Ideal. Det er <persName>Goethe</persName>, den moderne
@@ -903,27 +933,27 @@
             er Anelsens, Uvis<pb n="55"/>hedens, de slet begrændsede og uindskrænkede Længslers, men
             ikke Fortvivlelsens eller Haabløshedens. Han tilhører en Tid, som aner og bebuder, ikke
             en Tid, som opgiver og fortvivler. Vi ville faae at see et Modstykke til ham i
-              <persName>Chateaubriand's</persName>
-            <persName type="fictional">René</persName>. Grundkilden til <persName type="fictional"
-              >Werthers</persName> Ulykke er Misforholdet mellem Hjertets Uendelighed og Samfundets
-            Skranker. Tidligst vare Litteraturens Helte Fyrster og Konger, deres Kaar stod i
-            Overensstemmelse med deres sjælelige Høihed. Contrasten mellem et Indre og Ydre, mellem
-            Attraa og Magt var ukjendt. Og selv da Litteraturen udvidede Kredsen af sine Foretrukne,
-            holdt den sig til dem, som aristokratisk Fødsel og Rigdom havde stillet høit over Livets
-            lave Møie og Besvær. <persName>Goethe</persName> har i »<bibl>Wilhelm Meister</bibl>«
-            angivet Aarsagen: <note type="add"/>»O trefold Lykkelige, siger han, ere de, som deres
-            Fødsel strax stiller paa Menneskehedens Høider, som aldrig have beboet, aldrig engang
-            gjennemreist den ydmyge Dal, hvori saamange retskafne Sjæle tilbringe et ynkværdigt Liv.
-            Neppe ere de til, før de stige ombord paa Skibet for at foretage den fælles store Reise,
-            de benytte sig af hver gunstig Vind, medens de Andre, som ere nødte til at bære sig
-            selv, svømme møisommeligt bagefter, drage liden Fordel af Vindens Gunst og tidtnok, naar
-            deres Kræfter ere udtømte, linde en rædselsfuld Død i Bølgerne.« I veltalende Ord er her
-            en enkelt af Livets Fordele, Rigdommen, prist; <pb n="56"/>
+              <persName>Chateaubriand</persName>'s <persName type="fictional">René</persName>.
+            Grundkilden til <persName type="fictional">Werther</persName>s Ulykke er Misforholdet
+            mellem Hjertets Uendelighed og Samfundets Skranker. Tidligst vare Litteraturens Helte
+            Fyrster og Konger, deres Kaar stod i Overensstemmelse med deres sjælelige Høihed.
+            Contrasten mellem et Indre og Ydre, mellem Attraa og Magt var ukjendt. Og selv da
+            Litteraturen udvidede Kredsen af sine Foretrukne, holdt den sig til dem, som
+            aristokratisk Fødsel og Rigdom havde stillet høit over Livets lave Møie og Besvær.
+              <persName>Goethe</persName> har i »<bibl>Wilhelm Meister</bibl>« angivet Aarsagen:
+              <note type="add"/>»O trefold Lykkelige, siger han, ere de, som deres Fødsel strax
+            stiller paa Menneskehedens Høider, som aldrig have beboet, aldrig engang gjennemreist
+            den ydmyge Dal, hvori saamange retskafne Sjæle tilbringe et ynkværdigt Liv. Neppe ere de
+            til, før de stige ombord paa Skibet for at foretage den fælles store Reise, de benytte
+            sig af hver gunstig Vind, medens de Andre, som ere nødte til at bære sig selv, svømme
+            møisommeligt bagefter, drage liden Fordel af Vindens Gunst og tidtnok, naar deres
+            Kræfter ere udtømte, linde en rædselsfuld Død i Bølgerne.«<!-- lemma slut --> I
+            veltalende Ord er her en enkelt af Livets Fordele, Rigdommen, prist; <pb n="56"/>
             <persName>Goethe</persName>, der mange Gange i sine Skrifter, saaledes navnlig i
               »<bibl>Wilhelm Meister</bibl>«, udelukkende af Kjærlighed til det Skjønne tyede til
-            Samfundets høieste Kredse, har med Smerte følt at en Plebeiers Liv er en Krig, og det
+            Samfundets høieste Kredse, har med Smerte følt, at en Plebeiers Liv er en Krig, og det
             den sørgeligste Krig af alle, den for Udkommet, at han er nødsaget til at tænke paa
-            Penge, til bestandig at tage Økonomien med paa Kaad og at hans Kone er tvungen til at
+            Penge, til bestandig at tage Økonomien med paa Raad og at hans Kone er tvungen til at
             være en Husholderske, selv om hun iøvrigt er en Muse. Derfor taler
               <persName>Goethe</persName> saa utvungent om Rigdommens Fortrin. Og hvad der gjælder
             om denne, om det mest vulgaire af Livets udvortes Goder, det gjælder med endnu mere
@@ -938,22 +968,24 @@
             Rigsdaler om Aaret, indespærret Halvdelen af sin Dag i sit Comptoir, det vil sige i sin
             lille Samfundsrubrik, udespærret endog af det høiere Sel<pb n="57"/>skab, og sættende
             Livets hele Salighed og Fylde i Besiddelsen af et enkelt Pigebarn, hvem saa den første
-            den bedste <note type="add"/>Philister tager bort for hans Næse, og saaledes, at han
-            selv i Rettens, i Moralens, i det Fornuftiges Navn maa indrømme denne Philisters
-            Berettigelse, ja maaskee endog tilstaae at den Anden vil blive en bedre Ægtemand og
-            gjøre Lotte lykkeligere end han. Hvad er dog dette? passer Kjærligheden da ikke for
-            Ægteskabet, Individet ikke for Samfundet, Hjertet ikke med Hovedet? Er der en gruelig
-            Disproportion i Tilværelsens store Maskineri og er den ved at gaae ud af sine Fuger?
-            Snart hørte man den knage og briste, da hin Tid kom, da alle Mure nedbrødes og alle
-            Former sprængtes, da alt Bestaaende styrtedes overende, da alle Standsforskjelle med eet
-            Slag forsvandt, da Luften fyldtes med Krudtrøg og <bibl>Marseillaisen</bibl>s første
-            Toner, da Rigers hundredaarige Grændser flyttedes og omflyttedes, Konger halshuggedes og
-            afsattes, en tusindaarig Religion afskaffedes, Troner og Altre splintredes mellem
-            hverandre, en korsikansk Artilleri-Lieutenant proclamerede sig selv som Revolutionens
-            Arving, erklærede alle Baner aabne for Talentet, og da man saa <note type="add"/>en
-            fransk Værtshusholders Søn bestige <placeName>Neapels</placeName> Trone og <note
-              type="add"/>en forhenværende Grenadeer gribe <placeName>Sverrigs</placeName> Scepter
-            og bemægtige sig <placeName>Norges</placeName>.</p>
+            den bedste <note type="add"/>Philister<!-- lemma slut --> tager bort for hans Næse, og
+            saaledes, at han selv i Rettens, i Moralens, i det Fornuftiges Navn maa indrømme denne
+            Philisters Berettigelse, ja maaskee endog tilstaae at den Anden vil blive en bedre
+            Ægtemand og gjøre <persName type="fictional">Lotte</persName> lykkeligere end han. Hvad
+            er dog dette? passer Kjærligheden da ikke for Ægteskabet, Individet ikke for Samfundet,
+            Hjertet ikke med Hovedet? Er der en gruelig Disproportion i Tilværelsens store Maskineri
+            og er den ved at gaae ud af sine Fuger? Snart hørte man den knage og briste, da hin Tid
+            kom, da alle Mure nedbrødes og alle Former sprængtes, da alt Bestaaende styrtedes
+            overende, da alle Standsforskjelle med eet Slag forsvandt, da Luften fyldtes med
+            Krudtrøg og <bibl>Marseillaisen</bibl>s første Toner, da Rigers hundredaarige Grændser
+            flyttedes og omflyttedes, Konger halshuggedes og afsattes, en tusindaarig Religion
+            afskaffedes, Troner og Altre splintredes mellem hverandre, <note type="add"/>en
+            korsikansk Artilleri-Lieutenant<!-- lemma slut --> proclamerede sig selv som
+            Revolutionens Arving, erklærede alle Baner aabne for Talentet, og da man saa <note
+              type="add"/>en fransk Værtshusholders Søn<!-- lemma slut --> bestige
+              <placeName>Neapel</placeName>s Trone og <note type="add"/>en forhenværende
+            Grenadeer<!-- lemma slut --> gribe <placeName>Sverrig</placeName>s Scepter og bemægtige
+            sig <placeName>Norge</placeName>s.</p>
           <p>Som sagt, der er Anelsens og den uklare Uros Higen i <persName type="fictional"
               >Werther</persName>. Uhyre Omvæltninger ligge <pb n="58"/> imellem ham og den næste
             moderne Type, <persName type="fictional">René</persName>. I <bibl>René</bibl> er
@@ -979,7 +1011,7 @@
             Jeg vil til Sammenligning fremdrage nogle Skikkelser hos <persName>Molière</persName> og
               <persName>Shakspeare</persName>. Forskjellen mellem disse og den moderne Tids vil da
             blive Dem klar.</p>
-          <p>En af <persName>Molières</persName> interessanteste Figurer og jeg tilstaaer den af
+          <p>En af <persName>Molière</persName>s interessanteste Figurer og jeg tilstaaer den af
             alle hans Charakterer, som er mig personlig kjærest, er <persName type="fictional"
               >Alceste</persName>, Misanthropen. Gjenstanden for Alcestes Indignation og Forbitrelse
             er hele det System af Hensyn, af Indrømmelser, af smaa og store Løgne, hvorpaa den
@@ -987,18 +1019,19 @@
             som den conventionelle Høflighed frembringer, vilde Livet være endnu meget hæsligere end
             det er. En fin og elskværdig <note type="add"/>Philosoph har sagt: »Da Skjønheden ikke
             existerer har man opfundet Kunsten, og da Godheden og Hjerteligheden ikke existerer har
-            man opfundet Høfligheden.« Og er der alvorlig talt ikke Aarsag nok til at bære en Smule
-            Maske? hvor Mangen er der, som ikke hellere vilde være helt ukjendt end helt kjendt, og
-            er der ikke et Flertal, som det, om ikke af andre, saa dog af æsthetiske Grunde, vilde
-            være baade Synd og Skam at demaskere, da deres Maske er saa meget smukkere end deres
-            Ansigt? Men jeg taler selv som <persName type="fictional">Philinte</persName> i Stykket,
-            og jeg maa ikke glemme de glimrende og veltalende Svar som <persName type="fictional"
-              >Alceste</persName> giver. Alceste hader Menneskene, fordi han deler dem i <pb n="60"
-            /> to Klasser, den ene udgjøre de Lave og Ondskabsfulde, den anden bestaaer af dem, der
-            ere artige og opmærksomme mod hine Ondskabsfulde og Lave, og som derved muliggjøre deres
-            Færd. Han sætter den feige Hensyntagen, den af Frygten udsprungne Falskhed i lige Linie
-            med de værste og mest berygtede Laster. Han er saa forbitret paa Feigheden, der ikke vil
-            see det Foragtelige hvor det findes, at han rent glemmer den anden store Verdensmagt,
+            man opfundet Høfligheden.«<!-- lemma slut --> Og er der alvorlig talt ikke Aarsag nok
+            til at bære en Smule Maske? hvor Mangen er der, som ikke hellere vilde være helt ukjendt
+            end helt kjendt, og er der ikke et Flertal, som det, om ikke af andre, saa dog af
+            æsthetiske Grunde, vilde være baade Synd og Skam at demaskere, da deres Maske er saa
+            meget smukkere end deres Ansigt? Men jeg taler selv som <persName type="fictional"
+              >Philinte</persName> i Stykket, og jeg maa ikke glemme de glimrende og veltalende Svar
+            som <persName type="fictional">Alceste</persName> giver. <persName type="fictional"
+              >Alceste</persName> hader Menneskene, fordi han deler dem i <pb n="60"/> to Klasser,
+            den ene udgjøre de Lave og Ondskabsfulde, den anden bestaaer af dem, der ere artige og
+            opmærksomme mod hine Ondskabsfulde og Lave, og som derved muliggjøre deres Færd. Han
+            sætter den feige Hensyntagen, den af Frygten udsprungne Falskhed i lige Linie med de
+            værste og mest berygtede Laster. Han er saa forbitret paa Feigheden, der ikke vil see
+            det Foragtelige hvor det findes, at han rent glemmer den anden store Verdensmagt,
             Dumheden, der virkelig ikke seer den, hvor den findes. Han skummer over at see den
             Nidding, med hvem han har Proces, og hvis Kjeltringeagtighed al Verden kjender, vel
             seet, vel optaget, ja beskyttet overalt. Han siger <persName type="fictional"
@@ -1021,28 +1054,29 @@
             vilde Alceste ikke være mere misanthropisk end jeg er.« Dette var en Spøg, men den
             skjuler en Sandhed. Det er Omstændigheder og Forhold, en Stilling midt i et fordærvet
             Hofliv, et pirreligt og ærekjært Sind, en sandhedskjærlig Charakter, som i Forening med
-            tilfældige personlige Ulykker frembringe <persName type="fictional">Alceste's</persName>
+            tilfældige personlige Ulykker frembringe <persName type="fictional">Alceste</persName>'s
             Misanthropi som Resultat. Han er Misanthrop af Raisonnement, ikke af Temperament. Netop
             herved er han saa ægte fransk en Frembringelse. I en tydsk Melancholiker vilde
             Grundlaget være »Gemyt«, i en engelsk Melancholiker er Grundlaget Humor, i en fransk
-            Melancholiker er Grundlaget Raisonnement, det vil sige anatyserende Forstand. Alceste er
+            Melancholiker er Grundlaget Raisonnement, det vil sige analyserende Forstand. Alceste er
             et Product af hin classisk-oratoriske Tid i Frankrig, over hvilken man først ved det
             attende Aarhundredes Slutning kom ud. Han er meget nærmere ved
-              <persName>Boileau</persName> end det skulde synes. <pb n="62"/>De seer her et Exempel
+              <persName>Boileau</persName> end det skulde synes. <pb n="62"/> De seer her et Exempel
             paa en Tidsaands og en Folkeaands overvældende Magt over Individet. Naar man taler om
-              <persName>Boileau's</persName> og Forstandstragoediens Tidsalder i Frankrig, kunde det
+              <persName>Boileau</persName>'s og Forstandstragoediens Tidsalder i Frankrig, kunde det
             ved første Øiekast synes en Modsigelse, at <persName>Molière</persName>, Modpolen til
-            Boileau, <persName>Racines</persName> Antipode, tilhører samme Tid. Man kunde i det
-            Mindste mene, at hans dybeste og mest fortræffelige Figurer, den naive <persName
-              type="fictional">Agnes</persName> i »<bibl>Fruentimmerskolen</bibl>« og den
-            melancholske <persName type="fictional">Alceste</persName> i »<bibl>Misanthropen</bibl>«
-            dannede en Undtagelse. Men der gives Aandslove, der ere ligesaa ubrødelige som
-            Naturlovene. Jeg har et andet Sted paavist i hvilken Grad Agnes’s Naivetet er
-            fremraisonneret af Digteren, jeg skal nu paavise Dem det Samme om Alceste’s Melancholi.
-            Tag som Modsætning en af <persName>Shakspeare's</persName> Misanthroper, <persName
-              type="fictional">Jacques</persName> f. Ex. i »<bibl>Som Jer behager</bibl>«. Der har
-            De Misanthropen af Temperament. Jacques er en Digternatur, vemodig og blød. Vil De høre,
-            hvorledes han beskrives:</p>
+              <persName>Boileau</persName>, <persName>Racine</persName>s Antipode, tilhører samme
+            Tid. Man kunde i det Mindste mene, at hans dybeste og mest fortræffelige Figurer, den
+            naive <persName type="fictional">Agnes</persName> i »<bibl>Fruentimmerskolen</bibl>« og
+            den melancholske <persName type="fictional">Alceste</persName> i
+              »<bibl>Misanthropen</bibl>« dannede en Undtagelse. Men der gives Aandslove, der ere
+            ligesaa ubrødelige som Naturlovene. Jeg har et andet Sted paavist i hvilken Grad
+              <persName type="fictional">Agnes</persName>’s Naivetet er fremraisonneret af Digteren,
+            jeg skal nu paavise Dem det Samme om <persName type="fictional">Alceste</persName>’s
+            Melancholi. Tag som Modsætning en af <persName>Shakspeare</persName>'s Misanthroper,
+              <persName type="fictional">Jacques</persName> f. Ex. i »<bibl>Som Jer behager</bibl>«.
+            Der har De Misanthropen af Temperament. <persName type="fictional">Jacques</persName> er
+            en Digternatur, vemodig og blød. Vil De høre, hvorledes han beskrives:</p>
           <note type="add"/>
           <lg>
             <l>Hr. Amiens og jeg sneg os idag</l>
