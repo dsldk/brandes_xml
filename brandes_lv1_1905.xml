@@ -25,7 +25,7 @@
    <text>
       <body>
          
-         <div>
+       
             
 <!--<p>GEORG BRANDES
 LEVNED</p>
@@ -56,12 +56,12 @@ reserved under the Act approved March third, nineteen
 hundred and five, by Dr. Georg Brandes.</p>
 
 <p>KJØBENHAVN - GRÆBES BOGTRYKKERI-->
-	
+<div>
 <head>OPDAGELSE AF VERDEN</head>
-	
-	<pb n="1" />
+   <div>
+      <head>1</head>
 
-<p>MAN var lille og iagttog Verden fra neden af opad. Alt
+<p>Man var lille og iagttog Verden fra neden af opad. Alt
 det, der foregik, skete over En. Alle saa ned til En.</p>
 
 <p>Men de Store havde den prisværdige Evne at kunne
@@ -115,8 +115,9 @@ Udraab af Fornøjelse fra den ellers saa overlegne
 og strengt dømmende Moder, og belønnedes af hende,
 der sjældent kærtegnede, med et Kys.</p>
 
-
-            <p><pb n="2" />Dagens ærgerlige Øjeblik var det, hvor man skulde i
+   </div><div>
+      <head>2.</head>
+            <p>Dagens ærgerlige Øjeblik var det, hvor man skulde i
 Seng. Med Hensyn til Sengetid var Forældrene mærkeligt
 fordomsfulde. Netop naar man morede sig bedst. Naar
 der var kommet Fremmede og Samtalen var kommen i
@@ -139,9 +140,9 @@ og det krøllede Haar smukt strøget til den ene Side,
 Moderen i hvidt Crêpesjal over Silkekjolen og med
 lyse Handsker, der lugtede godt, naar hun kom og
 sagde Farvel og Godnat.</p>
-
-
-<p><pb n="3" />.</p>
+   </div>
+   <div>
+      <head>3.</head>
 
 <p>Altid maatte jeg høre, at jeg var bleg og tynd og
 spinkel. Det var det Indtryk, jeg gjorde paa Alle. - Endnu 
@@ -151,8 +152,8 @@ stærke Bleghed.” - Derfor saa jeg ogsaa mørkere ud
 end jeg var; mit brune Haar kaldtes sort.</p>
 
 <p>Bleg og tynd med et tykt brunt Haar, et vanskeligt
-Haar. Det sagde Haarskæreren, Hr. Alibert, der kaldte 
-Fader <hi>Erré:</hi> Goddag, <hi>Erré;</hi> Farvel, <hi>Erré</hi>. 
+Haar. Det sagde Haarskæreren, <persName>Hr. Alibert</persName>, der kaldte 
+Fader <emph>Erré:</emph> Goddag, <emph>Erré;</emph> Farvel, <emph>Erré</emph>. 
 Og alle hans Svende, der dog var danske nok, sagde,
 saa godt de kunde, ligedan. - Et vanskeligt Haar! Der
 er en Hvirvel oppe ved Issen, som strutter, hvis han
@@ -168,7 +169,7 @@ Ordet tynd.</p>
 sagde det med saadan venlig Betoning. Og Navnet var
 mærkeligt, fordi det var saa svært at udtale. Ingen
 mindre Dreng eller Pige kunde udtale det rigtigt;
-alle sagde de <hi>Gerok</hi>.</p>
+alle sagde de <emph>Gerok</emph>.</p>
 
 <p>Jeg var kommet til Verden to Maaneder for tidligt,
 havde havt alt for megen Hast. Moder havde født mig
@@ -183,9 +184,9 @@ eneste Attraa og eneste Hæder er den at være stærk.</p>
 til at springe i Højden, flink til at klatre og løbe,
 ikke helt daarlig til at brydes og efterhanden meget
 øvet i at slaas. Men jeg var ikke muskelstærk og
-kunde aldrig sammenlignes med de Stærke.</p>
+kunde aldrig sammenlignes med de Stærke.</p></div><div>
 
-<p><pb n="4" />.</p>
+<head>4.</head>
 
 <p>Verden var imidlertid saa ny og endnu saa ukendt. Jeg
 opdagede paa den Tid nye Elementer.</p>
@@ -265,10 +266,10 @@ hvadsomhelst, han vidste Besked. Først var det
 ABC’en. Den var lært i faa Timer. Jeg kunde læse
 før jeg rigtigt kunde stave. Saa var det Skrivning
 og Regning og endnu mer. Snart var jeg saa vidt, at
-Læreren kunde læse højt af <hi>Frithiofs Saga</hi> paa Svensk 
+Læreren kunde læse højt af <emph>Frithiofs Saga</emph> paa Svensk 
 og blive nogenlunde forstaaet, ja, han kunde tage et
-tysk Læsestykke frem og forklare at det hed <hi>ich</hi> og
-ikke <hi>isch</hi>, som det dog faldt saa naturligt at sige.</p>
+tysk Læsestykke frem og forklare at det hed <emph>ich</emph> og
+ikke <emph>isch</emph>, som det dog faldt saa naturligt at sige.</p>
 
 <p>Hr. Voltelen var en fattig Student, og af de Voksnes
 Samtale havde jeg godt forstaaet, hvad Glæde og
@@ -344,11 +345,11 @@ Ottende vidste jeg ikke; han var kun Kongen.</p>
 
 <p>Men saa en Dag hed det, at Kongen var død og at han
 skulde udstilles to Gange. Det kaldtes med unaturlige Ord: 
-<hi>Lit de Parade</hi> og <hi>Castrum doloris;</hi> jeg hørte
+<emph>Lit de Parade</emph> og <emph>Castrum doloris;</emph> jeg hørte
 dem saa tidt, at jeg kunde sige dem og ikke glemte
-dem. Paa <hi>Lit de parade</hi> saa man Kongen selv ligge
+dem. Paa <emph>Lit de parade</emph> saa man Kongen selv ligge
 udstrakt som Lig; det var for sørgeligt for en lille
-Dreng. Men <hi>Castrum doloris</hi> var blot Fornøjelse, og
+Dreng. Men <emph>Castrum doloris</emph> var blot Fornøjelse, og
 virkelig var det herligt. Man trippede først længe
 gennem smalle Gange; saa aabenbarede sig højt
 i Luften i den sortbetrukne Hal Ligkisten dækket
@@ -424,7 +425,7 @@ naar de kørtes ind. Og hver Gang, naar jeg efter et
 Ophold derude kom hjem, lo Moder af mig, saasnart
 jeg aabnede min Mund, for, uden at vide deraf, talte
 jeg nu ganske som de andre paa Landet, hvad de i
-Kjøbenhavn kaldte <hi>bondsk</hi>.</p>
+Kjøbenhavn kaldte <emph>bondsk</emph>.</p>
 
 <p><pb n="8" />.</p>
 
@@ -1248,16 +1249,17 @@ blevne sendte til Enken efter hans bedste Ven. Han var en
 høj, køn Mand, der sad i en stor Bedrift. Ingen skulde troet,</p>
 
 <p>at en Kæltring saa saaledes ud. Han nødtes tilsidst til at
-udlevere Pengene. -- Og naar Fætteren fra Danmark saa
+udlevere Pengene. ̶ Og naar Fætteren fra Danmark saa
 ringede paa hos de franske Slægtninge, var han i samme
 jeblik saa behængt som et Juletræ med smaa Drenge og
 en lille Pige, der sprang op og hængte sig om Halsen pa
 ham, og ikke vilde slippe.</p>
-         </div><div>
+         </div>
+   <div>
 
 <head>DRENGEAAR</head>
-
-<p><pb n="1" />.</p>
+<div>
+<head>1.</head>
 
 <p>HUSET var min Farfars og havde været en Snes
 Aar i dennes Eje. Paa dets anden Sal boede mine
