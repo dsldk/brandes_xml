@@ -26,12 +26,13 @@
     <front>
       <titlePage>
         <docTitle>
-          <titlePart>Hovedstrømninger i 19de Aarhundredes Litteratur.</titlePart>
+          <titlePart>Hovedstrømninger i det 19de Aarhundredes Litteratur.</titlePart>
           <titlePart type="sub">Forelæsninger holdte ved Kjøbenhavns Universitet i
             Efteraarshalvaaret 1871</titlePart>
           <titlePart type="sub">Emigrantlitteraturen.</titlePart>
         </docTitle>
         <byline>af Georg Brandes.</byline>
+        <!-- titlen Emigrantlitteraturen står i orig.udg. efter G. Brandes' navn, ikke før -->
       </titlePage>
       <div type="preface">
         <head>FORORD.</head>
@@ -425,11 +426,9 @@
           et plattere aandeligt Liv. Thi man maa dog være yderligt naiv for at troe, at vort Liv
           svarer til hine Typer. Saa stærk har Strømningen været, at selv en saa revolutionært
           anlagt Natur som <pb n="26"/>
-          <persName>Ibsens</persName> er bleven inddraget i den. Er <app>
-            <lem>»<bibl>Brand</bibl>«</lem>
-            <rdg><q>Brand</q>A</rdg>
-          </app> Revolution eller Reaction? jeg skal ikke kunne sige det, saa meget har dette Digt
-          af begge Dele.</p>
+          <persName>Ibsens</persName> er bleven inddraget i den. Er
+          »<bibl>Brand</bibl>«<!-- sat uden anførselstegn i A --> Revolution eller Reaction? jeg
+          skal ikke kunne sige det, saa meget har dette Digt af begge Dele.</p>
         <p>Det forrige Aarhundredes to store Grundtanker vare disse: i Videnskaben den frie
           Forskning, i Poesien Humanitetens frie Udfoldelse. Hvad der ikke bliver i denne Strøm, det
           glider ned ad Decadencens og tager Veien til <note type="add"
@@ -874,44 +873,38 @@
             ham; thi han var Selvmorder og havde brudt al kirkelig og religiøs Forpligtelse. Men han
             elskede Menig<pb n="51"/>mand og omgikkes de Udannede, derfor fulgte disse ham til
             Graven.</p>
-          <p>Hvad er <app>
-              <lem>»<bibl>Werther</bibl>«</lem>
-              <rdg><q>Werther</q>A</rdg>
-            </app>? Definitioner udtømme ikke et digterisk Mesterværks uendelige Rigdom, men man kan
-            sige med et Par Ord, at denne en lidenskabelig og ulykkelig Elskovs Historie har sin
-            Betydning derved, at den ikke blot udtaler et enkelt Individs tilfældige Lidenskab og
-            tilfældige Ulykker, men er behandlet saaledes, at en hel Epoches Lidenskaber, Længsler
-            og Kvaler have fundet deres Udtryk deri. Denne Bog fremstiller det fulde Hjertes Ret og
-            Uret overfor det forstandigt ordnede Hverdagslivs trivielle og stivnede Regler, dets
-            Uendelighedstrang, dets Frihedstrang, der føler Livet som et Fængsel og alle Samfundets
-            Skillemure som Fængselsvægge. Alt hvad Samfundet byder er, som <persName
-              type="fictional">Werther</persName> siger, <note type="add"/>at male Fængselsvæggene
-            for Individet, at male dem perspectivisk med frie Udsigter til vide
-            Horizonter<!-- lemma slut -->. Men Væggene selv brydes ikke ned. Derfor denne Renden
-            Panden imod Væggen, denne lange Hulken, denne dybe Fortvivlelse, som først lindres ved
-            et Pistolskud i Hjertet. Hvad her er fremstillet er ei som i »<bibl>La nouvelle
-              Héloïse</bibl>« Dydens og den <note type="add"/>deistiske
-            Religiøsitets<!-- lemma slut --> Overvinden af Naturdrift og Passion, men Lidenskabens
-            Fatalisme; med fatalistisk Nødvendighed gaaer i denne Hjertets Tragoedie den regelløse
-            og tøilesløse Lidenskab tilgrunde.</p>
+          <p>Hvad er »<bibl>Werther</bibl>«<!-- sat uden anførselstegn i A -->? Definitioner udtømme
+            ikke et digterisk Mesterværks uendelige Rigdom, men man kan sige med et Par Ord, at
+            denne en lidenskabelig og ulykkelig Elskovs Historie har sin Betydning derved, at den
+            ikke blot udtaler et enkelt Individs tilfældige Lidenskab og tilfældige Ulykker, men er
+            behandlet saaledes, at en hel Epoches Lidenskaber, Længsler og Kvaler have fundet deres
+            Udtryk deri. Denne Bog fremstiller det fulde Hjertes Ret og Uret overfor det forstandigt
+            ordnede Hverdagslivs trivielle og stivnede Regler, dets Uendelighedstrang, dets
+            Frihedstrang, der føler Livet som et Fængsel og alle Samfundets Skillemure som
+            Fængselsvægge. Alt hvad Samfundet byder er, som <persName type="fictional"
+              >Werther</persName> siger, <note type="add"/>at male Fængselsvæggene for Individet, at
+            male dem perspectivisk med frie Udsigter til vide Horizonter<!-- lemma slut -->. Men
+            Væggene selv brydes ikke ned. Derfor denne Renden Panden imod Væggen, denne lange
+            Hulken, denne dybe Fortvivlelse, som først lindres ved et Pistolskud i Hjertet. Hvad her
+            er fremstillet er ei som i »<bibl>La nouvelle Héloïse</bibl>« Dydens og den <note
+              type="add"/>deistiske Religiøsitets<!-- lemma slut --> Overvinden af Naturdrift og
+            Passion, men Lidenskabens Fatalisme; med fatalistisk Nødvendighed gaaer i denne Hjertets
+            Tragoedie den regelløse og tøilesløse Lidenskab tilgrunde.</p>
           <p><pb n="52"/>De veed, hvilken Strøm af sentimentale Productioner denne Bog affødte,
             hvormange taaredrivende Romaner <note type="add"/>i Octav<!-- lemma slut --> der
             nedstamme fra den, hvorledes dens Følelse snart blev fortættet til det massiveste
             Føleri, som hos <persName>Clauren</persName>, hos <persName>Lafontaine</persName>, hos
             vor <persName>Rahbek</persName>, snart fortyndet til det subtileste platoniske Sværmeri,
             som i <persName>Ingemanns</persName> tidligere Dramaer og Romaner, se især den
-            ligefremme Efterligning af <app>
-              <lem>»<bibl>Werther</bibl>«</lem>
-              <rdg><q>Werther</q>A</rdg>
-            </app> i <note type="add"/>»<bibl>Warners Vandringer</bibl>«<!-- lemma slut -->. Men <app>
-              <lem>»<bibl>Werther</bibl>«</lem>
-              <rdg><q>Werther</q>A</rdg>
-            </app> selv er uden Skyld heri; thi Fortabtheden i Følelsen er kun Bogens ene Side. Ud
-            fra denne, midt i al denne, fremsprudler en saa sund Naturfølelse og Livsfølelse, saa
-            kraftig og revolutionær en Vrede over Samfundets Convenients, de aristokratiske Fordomme
-            og Forretningslivets Pedanteri, at Hovedindtrykket af Bogen er og bliver den Trang til
-            Oprindelighed og Poesi, som den fremstiller, vækker og tilfredsstiller. Hvilket
-            Fremskridt er her ikke gjort siden »<bibl>La nouvelle Héloïse</bibl>«! Kun usikkert er i
+            ligefremme Efterligning af »<bibl>Werther</bibl>«<!-- sat uden anførselstegn i A --> i
+              <note type="add"/>»<bibl>Warners Vandringer</bibl>«<!-- lemma slut -->. Men
+              »<bibl>Werther</bibl>«<!-- sat uden anførselstegn i A --> selv er uden Skyld heri; thi
+            Fortabtheden i Følelsen er kun Bogens ene Side. Ud fra denne, midt i al denne,
+            fremsprudler en saa sund Naturfølelse og Livsfølelse, saa kraftig og revolutionær en
+            Vrede over Samfundets Convenients, de aristokratiske Fordomme og Forretningslivets
+            Pedanteri, at Hovedindtrykket af Bogen er og bliver den Trang til Oprindelighed og
+            Poesi, som den fremstiller, vækker og tilfredsstiller. Hvilket Fremskridt er her ikke
+            gjort siden »<bibl>La nouvelle Héloïse</bibl>«! Kun usikkert er i
               <persName>Rousseau's</persName> Roman den kvindelige Hovedfigur tegnet. Her, som
             næsten overalt, mangler i den franske Poesi Kvindeligheden Naivetet. <persName
               type="fictional">Julie</persName> er en klassisk Forgjængerinde for Heltinderne i
@@ -938,18 +931,15 @@
             der gjorde et saa uhyre Indtryk. De veed, hvorledes <note type="add"/>den skotske
             Barde<!-- lemma slut --> smeltede selv <note type="add"/>Bonapartes<!-- lemma slut -->
             haarde Hjerte, saa at denne langt foretrak ham for <persName>Homer</persName>. Dengang
-            troede man endnu paa <app>
-              <lem>»<bibl>Ossian</bibl>«s</lem>
-              <rdg><q>Ossians</q>A</rdg>
-            </app> Ægthed, og den Tid var endnu ikke indtraadt, da man vendte sig bort fra disse <pb
-              n="54"/> Digte med samme Ærgrelse og Væmmelse, som et Selskab føler, naar det i en
-            Have har ladet sig henrive til Sværmeri af en Nattergals Toner og saa opdager en i
-            Buskene skjult forvorpen Krabat, som var Nattergalen. Den stakkels
-              <persName>Macpherson</persName> var denne Bedrager. Det var ham, som fortrængte
-              <persName>Homer</persName>. Saaledes fortrænges ogsaa her i »<bibl>Werther</bibl>« den
-            sunde homeriske Naturanskuelse, som raader i Bogens første Halvdel efterhaanden af de
-            urolige ossianske Taagebilleder, som svare til den stigende Sygelighed, til Lidenskabens
-            Uro og Phantasteri.</p>
+            troede man endnu paa »<bibl>Ossians</bibl>«<!-- sat uden anførselstegn i A --> Ægthed,
+            og den Tid var endnu ikke indtraadt, da man vendte sig bort fra disse <pb n="54"/> Digte
+            med samme Ærgrelse og Væmmelse, som et Selskab føler, naar det i en Have har ladet sig
+            henrive til Sværmeri af en Nattergals Toner og saa opdager en i Buskene skjult forvorpen
+            Krabat, som var Nattergalen. Den stakkels <persName>Macpherson</persName> var denne
+            Bedrager. Det var ham, som fortrængte <persName>Homer</persName>. Saaledes fortrænges
+            ogsaa her i »<bibl>Werther</bibl>« den sunde homeriske Naturanskuelse, som raader i
+            Bogens første Halvdel efterhaanden af de urolige ossianske Taagebilleder, som svare til
+            den stigende Sygelighed, til Lidenskabens Uro og Phantasteri.</p>
           <p>De føler maaskee allerede, hvilke nye Charaktertræk Hovedfiguren har indvundet ved at
             passere <placeName>Rhinen</placeName>. <persName type="fictional">Saint-Preux</persName>
             var endnu, som Navnet allerede antyder, det ridderlige Ideal. Det er
@@ -1020,23 +1010,21 @@
             sig <placeName>Norges</placeName>.</p>
           <p>Som sagt, der er Anelsens og den uklare Uros Higen i <persName type="fictional"
               >Werther</persName>. Uhyre Omvæltninger ligge <pb n="58"/> imellem ham og den næste
-            moderne Type, <persName type="fictional">René</persName>. I <app>
-              <lem>»<bibl>René</bibl>«</lem>
-              <rdg><q>René</q>A</rdg>
-            </app> er Anelsens Poesi afløst af Skuffelsens. Istedenfor Utilfredsheden før de store
-            Katastropher træder Utilfredsstillelsen efter. Efter Opsvinget Nedslaaetheden. Alle hine
-            gigantiske Omvæltninger havde ikke formaaet at bringe Menneskeaandens Krav og de ydre
-            Forhold i Harmoni med hinanden. Alle hine skjønne Drømme om Frihed og Lighed vare
-            skyllede bort i en Syndflod af Blod og Rædsler. Kampen for Individets Menneskeret havde
-            ført til det brutaleste Verdens-Despoti. Saa møde vi da igjen Aarhundredets unge Mand,
-            hvor er han forandret! Han er bleg, hans Pande er rynket, hans Liv er ørkesløst, hans
-            Haand er knyttet. Udstødt af et Samfund, som han forbander, fordi han ikke i det kan
-            finde sin Plads, see vi ham flakke om alene i den nye Verden, i Urskovene blandt vilde
-            Stammer. Et nyt Element er indtraadt i hans Sjæl, som ikke fandtes i <persName
-              type="fictional">Werthers</persName>: Melancholien. <persName type="fictional"
-              >Werther</persName> var syg, men ikke melancholsk, <persName type="fictional"
-              >René</persName> er fortabt i en ørkesløs Kval, hvorover han ikke kan blive Herre, han
-            hader Menneskene og sig selv.</p>
+            moderne Type, <persName type="fictional">René</persName>. I
+            »<bibl>René</bibl>«<!-- sat uden anførselstegn i A --> er Anelsens Poesi afløst af
+            Skuffelsens. Istedenfor Utilfredsheden før de store Katastropher træder
+            Utilfredsstillelsen efter. Efter Opsvinget Nedslaaetheden. Alle hine gigantiske
+            Omvæltninger havde ikke formaaet at bringe Menneskeaandens Krav og de ydre Forhold i
+            Harmoni med hinanden. Alle hine skjønne Drømme om Frihed og Lighed vare skyllede bort i
+            en Syndflod af Blod og Rædsler. Kampen for Individets Menneskeret havde ført til det
+            brutaleste Verdens-Despoti. Saa møde vi da igjen Aarhundredets unge Mand, hvor er han
+            forandret! Han er bleg, hans Pande er rynket, hans Liv er ørkesløst, hans Haand er
+            knyttet. Udstødt af et Samfund, som han forbander, fordi han ikke i det kan finde sin
+            Plads, see vi ham flakke om alene i den nye Verden, i Urskovene blandt vilde Stammer. Et
+            nyt Element er indtraadt i hans Sjæl, som ikke fandtes i <persName type="fictional"
+              >Werthers</persName>: Melancholien. <persName type="fictional">Werther</persName> var
+            syg, men ikke melancholsk, <persName type="fictional">René</persName> er fortabt i en
+            ørkesløs Kval, hvorover han ikke kan blive Herre, han hader Menneskene og sig selv.</p>
         </div>
         <div>
           <head>III.</head>
@@ -1181,52 +1169,48 @@
           <p>I ham spirer al den Egoisme, som er Melancholiens først fremtrædende nye Element, al
             hin stolte Overlegenheds-Følelse, den Selvforgudelse, alle de Luner og Uvornheder, ja
             selve hint Høiheds-Vanvid, hvormed saamange af Aarhundredets store Mænd have forbauset
-            og forarget deres Samtid. Hvorledes, vil man sige, kommer dette fra <app>
-              <lem>»<bibl>René</bibl>«</lem>
-              <rdg><q>René</q>A</rdg>
-            </app>? Paa den Snes Blade, af hvilke Skriftet bestaaer, forekommer jo næsten ikke andet
-            end de tungsindigste Selvanklager. Men <app>
-              <lem>»<bibl>René</bibl>«</lem>
-              <rdg><q>René</q>A</rdg>
-            </app> skildrer kun Sygdommens første Stadium og Bogen er bleven fortsat og udviklet,
-            først i det Brev som findes fra <persName type="fictional">René</persName> i »<bibl>Les
-              Natchez</bibl>«, dernæst saa at sige i hele Læseverdenens Phantasi. <persName
-              type="fictional">René</persName> er hint første Stadium, Uroens og Udvælgelsens,
-              <persName type="fictional">René</persName> er Øieblikket i hvilket den udkaarne Natur
-            paa samme Maade som <note type="add"/>den hebraiske Oldtids Propheter<!-- lemma slut -->
-            første Gang hører Stemmen som kalder ham og angst trækker sig tilbage, fortvivlet
-            krymper sig sammen og seer sig om efter en Udvei til Flugt, svarende ligesom <note
-              type="add"/>Propheten: »Herre, tag ikke mig, men en Anden, min Broder, jeg er for
-            ringe, jeg er en Mand, som ei forstaaer at belægge mine Ord.«<!-- lemma slut --> Den
-            Udkaarne venter, at see en Anden <pb n="66"/> følge Kaldet, han seer omkring sig, men
-            Ingen opstaaer, og Stemmen vedbliver at tale til ham. Overalt seer han det seire, som
-            han afskyer og foragter, og det ligge under, for hvilket han vilde ofre Alt, ifald blot
-            en Anden vilde føre ham til Ofret, men med Undren og Rædsel seer han, at ingen Anden
-            føler som han, han flakker rundt for at finde sin Overmand, thi som <note type="add"
-            />St. Christopher<!-- lemma slut --> vil han kun tjene den Stærkeste, men han finder ham
-            ikke, og da griber den Tanke ham, at naar ingen Anden opstaaer, naar han ingen Støtte og
-            Fører finder, da ligger det i, at det er ham, som er Manden, og dannet til Fører og
-            Støtte for andre svagere Aander. Saa følger han Kaldet, han seer at Tiden til at drømme
-            og til at tvivle er forbi og Tiden til at handle kommen. Bag ham ligge Tvivlens og
-            Selvmistillidens lange Tider, med et Slag er han forvandlet. Den Solstraale har ramt
-            ham, som for bestandig broncefarver hans Physiognomi, i hvilket ingen Rødme mere sees
-            stige eller forsvinde. Han gaaer ud af Krisen, ikke som <persName type="fictional"
-              >Werther</persName> ved et Selvmord, men ved en Beslutning og med en forhøiet Følelse
-            af sig selv. Han venter og vakler ikke mere, han byder og han vil. Her er et Øieblik, i
-            hvilket hans Sjælstilstand er skjøn og sand, men Misforholdet mellem hvad han attraaer
-            og hvad han evner forstyrrer strax hans Sjæls kortvarige Harmoni. Han veed at Guden er
-            med ham og i ham, og <pb n="67"/> han kan neppe mere skjelne imellem sig selv og Guden.
-            Han tilbeder sig selv, idet han tilbeder Guden. Han veed jo, at hans Tanker og hans Tale
-            er inspireret og hvor er Grændsen imellem det, som er af ham, og det, som ikke er af
-            ham, han holder endog mere af de Vildfarelser end af de Sandheder han frembringer; thi
-            hine tilhøre mere egentligt ham selv og han føler sig i høiere Grad som Ophav til dem.
-            Mængdens Virak gjør ham ør i Hovedet. Hans Fjender ere ikke hans, men Sagens, det Godes
-            Fjender, og alle Midler ere gode imod dem. For sig selv fordrer han Alt, Folkets Gunst,
-            Kvindernes Kjærlighed, alle Livets Laurbær og Roser, og det falder ham ikke ind, at han
-            skulde være forpligtet til at vise Gjengjæld. Han lader sig elske uden at elske igjen.
-            Er han ikke en priviligeret Natur, en Apostel, der farer som en Flygtning gjennem Livet,
-            en flyvende Ild, som oplyser, fortærer og forsvinder. Han siger som
-              <persName>Chateaubriand</persName> i et Brev til en af sine Elskerinder: <note
+            og forarget deres Samtid. Hvorledes, vil man sige, kommer dette fra
+            »<bibl>René</bibl>«<!-- sat uden anførselstegn i A -->? Paa den Snes Blade, af hvilke
+            Skriftet bestaaer, forekommer jo næsten ikke andet end de tungsindigste Selvanklager.
+            Men »<bibl>René</bibl>«<!-- sat uden anførselstegn i A --> skildrer kun Sygdommens
+            første Stadium og Bogen er bleven fortsat og udviklet, først i det Brev som findes fra
+              <persName type="fictional">René</persName> i »<bibl>Les Natchez</bibl>«, dernæst saa
+            at sige i hele Læseverdenens Phantasi. <persName type="fictional">René</persName> er
+            hint første Stadium, Uroens og Udvælgelsens, <persName type="fictional">René</persName>
+            er Øieblikket i hvilket den udkaarne Natur paa samme Maade som <note type="add"/>den
+            hebraiske Oldtids Propheter<!-- lemma slut --> første Gang hører Stemmen som kalder ham
+            og angst trækker sig tilbage, fortvivlet krymper sig sammen og seer sig om efter en
+            Udvei til Flugt, svarende ligesom <note type="add"/>Propheten: »Herre, tag ikke mig, men
+            en Anden, min Broder, jeg er for ringe, jeg er en Mand, som ei forstaaer at belægge mine
+            Ord.«<!-- lemma slut --> Den Udkaarne venter, at see en Anden <pb n="66"/> følge Kaldet,
+            han seer omkring sig, men Ingen opstaaer, og Stemmen vedbliver at tale til ham. Overalt
+            seer han det seire, som han afskyer og foragter, og det ligge under, for hvilket han
+            vilde ofre Alt, ifald blot en Anden vilde føre ham til Ofret, men med Undren og Rædsel
+            seer han, at ingen Anden føler som han, han flakker rundt for at finde sin Overmand, thi
+            som <note type="add"/>St. Christopher<!-- lemma slut --> vil han kun tjene den
+            Stærkeste, men han finder ham ikke, og da griber den Tanke ham, at naar ingen Anden
+            opstaaer, naar han ingen Støtte og Fører finder, da ligger det i, at det er ham, som er
+            Manden, og dannet til Fører og Støtte for andre svagere Aander. Saa følger han Kaldet,
+            han seer at Tiden til at drømme og til at tvivle er forbi og Tiden til at handle kommen.
+            Bag ham ligge Tvivlens og Selvmistillidens lange Tider, med et Slag er han forvandlet.
+            Den Solstraale har ramt ham, som for bestandig broncefarver hans Physiognomi, i hvilket
+            ingen Rødme mere sees stige eller forsvinde. Han gaaer ud af Krisen, ikke som <persName
+              type="fictional">Werther</persName> ved et Selvmord, men ved en Beslutning og med en
+            forhøiet Følelse af sig selv. Han venter og vakler ikke mere, han byder og han vil. Her
+            er et Øieblik, i hvilket hans Sjælstilstand er skjøn og sand, men Misforholdet mellem
+            hvad han attraaer og hvad han evner forstyrrer strax hans Sjæls kortvarige Harmoni. Han
+            veed at Guden er med ham og i ham, og <pb n="67"/> han kan neppe mere skjelne imellem
+            sig selv og Guden. Han tilbeder sig selv, idet han tilbeder Guden. Han veed jo, at hans
+            Tanker og hans Tale er inspireret og hvor er Grændsen imellem det, som er af ham, og
+            det, som ikke er af ham, han holder endog mere af de Vildfarelser end af de Sandheder
+            han frembringer; thi hine tilhøre mere egentligt ham selv og han føler sig i høiere Grad
+            som Ophav til dem. Mængdens Virak gjør ham ør i Hovedet. Hans Fjender ere ikke hans, men
+            Sagens, det Godes Fjender, og alle Midler ere gode imod dem. For sig selv fordrer han
+            Alt, Folkets Gunst, Kvindernes Kjærlighed, alle Livets Laurbær og Roser, og det falder
+            ham ikke ind, at han skulde være forpligtet til at vise Gjengjæld. Han lader sig elske
+            uden at elske igjen. Er han ikke en priviligeret Natur, en Apostel, der farer som en
+            Flygtning gjennem Livet, en flyvende Ild, som oplyser, fortærer og forsvinder. Han siger
+            som <persName>Chateaubriand</persName> i et Brev til en af sine Elskerinder: <note
               type="add"/>»Mit Liv er kun en Hændelse, tag af denne Hændelse Lidenskaben, Hvirvelen
             og Ulykken, jeg skal give Dem mere deraf paa een Dag, end Andre i lange Aar.« Saaledes
             talte <note type="add">den første René</note> endnu, da han var 64 Aar gammel. Og mærk
@@ -1235,16 +1219,15 @@
               n="68"/> Alt tilladt; han er den Udkaarne og som <note type="add"/>den pythiske
             Præstinde<!-- lemma slut --> halvt vanvittig i Følelsen af sit Kald.</p>
           <p>Der er paa engang noget Guddommeligt og noget Satanisk ved ham, en egen
-                Tilintetgjørelseslyst.<note><persName>Sainte-Beuve</persName>: <app>
-                <lem>»<bibl>Causeries du lundi</bibl>«</lem>
-                <rdg><q>Causeries du lundi</q>A</rdg>
-              </app> om <persName>Chateaubriand</persName>.</note> Den Form hvorunder han elsker, er
-            den at forstyrre, at fortære. Han forfører ligesom ved overnaturlige, ved giftige
-            Midler, <note type="add"/>kaster Runer<!-- lemma slut -->, giver Trylledrikke. Det unge
-            aabne Hjertes, den unge og friske Elskovs fortryllende Magt er ikke den, hvormed han
-            bedaarer. <persName type="fictional">René</persName> skriver Ord som disse til sin
-            indianske Hustru: <note type="add"/>»Ja, Celuta, hvis Du mister mig, vil Du leve som
-            Enke, thi hvo kunde omgive Dig med den Flamme, jeg bringer med mig, selv naar jeg ikke
+                Tilintetgjørelseslyst.<note><persName>Sainte-Beuve</persName>: »<bibl>Causeries du
+                lundi</bibl>«<!-- sat uden anførselstegn i A --> om
+                <persName>Chateaubriand</persName>.</note> Den Form hvorunder han elsker, er den at
+            forstyrre, at fortære. Han forfører ligesom ved overnaturlige, ved giftige Midler, <note
+              type="add"/>kaster Runer<!-- lemma slut -->, giver Trylledrikke. Det unge aabne
+            Hjertes, den unge og friske Elskovs fortryllende Magt er ikke den, hvormed han bedaarer.
+              <persName type="fictional">René</persName> skriver Ord som disse til sin indianske
+            Hustru: <note type="add"/>»Ja, Celuta, hvis Du mister mig, vil Du leve som Enke, thi hvo
+            kunde omgive Dig med den Flamme, jeg bringer med mig, selv naar jeg ikke
             elsker,«<!-- lemma slut --> og et andet Sted: <note type="add"/>»Der udgaaer fra dette
             Hjerte Flammer, som mangle Næring, som kunde fortære Skabningen uden at blive mætte, og
             som kunde fortære Dig selv.«<!-- lemma slut --> Jeg gjør ikke
@@ -1263,35 +1246,30 @@
             der nogen af Dem, som ikke skulde have truffet en af de utallige Copier? Hos En er eet
             Træk, hos en Anden et andet fremtrædende. En reiser sig i overmenneskelig Stolthed som
               <note type="add"/>hin engelske Lord<!-- lemma slut -->, der gav Verden sit
-            Speilbillede i <app>
-              <lem>»<bibl>Cain</bibl>«</lem>
-              <rdg><q>Cain</q>A</rdg>
-            </app> og <app>
-              <lem>»<bibl>Manfred</bibl>«</lem>
-              <rdg><q>Manfred</q>A</rdg>
-            </app>, en Anden faaer af sine philosophiske Studier kun saa Meget ud, at han er en Gud,
-            saaledes som <note type="add"/>den tydske Digter<!-- lemma slut -->, der skrev
-              »<bibl>Buch der Lieder</bibl>«, saa tidt har tilstaaet. En kaster sig paa den Rolle at
-            være Guddommens Prophet, lader sig dyrke som en Pave og lader endnu som Olding unge
-            Kvinder komme til sig for at kysse hans rystende Hænder. For en Fjerde bliver Tungsindet
-            det absolut bestemmende, Pantet paa hans Kald, Kilden til hans Livsførelse og til hele
-            hans Forfattervirksomhed. Og dette Tungsind berøver ham alt praktisk Blik til at bedømme
-            Virkeligheden. Den ringeste Begivenhed, der hænder ham, svulmer op til noget
-            Betydningsfuldt, noget Afgjørende og ligesom Forudbestemt, hvortil han atter og atter
-            vil vende tilbage, medens det Samme for en mindre tungsindig Betragt<pb n="70"/>ning
-            vilde svinde ind til en ren Bagatel. De kjender alle disse nære og fjerne, ægte og
-            vanslægtede Brødre og Sønner af <persName type="fictional">René</persName>. Typen
-            omfatter et Spand af Aar, og jeg beder Dem fremfor Alt ikke at forvexle den med en anden
-            Type, som følger den og som vi Alle kjende. <persName type="fictional">René</persName>
-            personificerer en Slægt, som sagde til sig selv: før mit 25de Aar vil jeg være i
-            Besiddelse af denne Pige, være en stor Digter, en stor Kunstner eller døe. Den næste
-            Slægt er den i hvilken Sætningen lyder: før mit 25de Aar vil jeg have et Embede, før mit
-            30te Aar vil jeg være Minister. Længselen efter et sikret Udkomme og en sikret
-            Indflydelse er traadt istedenfor alle de uvisse og ideale Længsler hos en Slægt, i
-            hvilken Individet uden Sværmen og uden Tvivl sætter sig sit bornerte Formaal og naaer
-            det. Naar hine Andre syntes haarde og tørre, da var det paa det andet Stadium, efterat
-            de havde dræbt Tvivleren og Drømmeren i deres Hjerte, disse vare det fra Fødselen af og
-            have ingen Krise gjennemgaaet.</p>
+            Speilbillede i »<bibl>Cain</bibl>«<!-- sat uden anførselstegn i A --> og
+              »<bibl>Manfred</bibl>«<!-- sat uden anførselstegn i A -->, en Anden faaer af sine
+            philosophiske Studier kun saa Meget ud, at han er en Gud, saaledes som <note type="add"
+            />den tydske Digter<!-- lemma slut -->, der skrev »<bibl>Buch der Lieder</bibl>«, saa
+            tidt har tilstaaet. En kaster sig paa den Rolle at være Guddommens Prophet, lader sig
+            dyrke som en Pave og lader endnu som Olding unge Kvinder komme til sig for at kysse hans
+            rystende Hænder. For en Fjerde bliver Tungsindet det absolut bestemmende, Pantet paa
+            hans Kald, Kilden til hans Livsførelse og til hele hans Forfattervirksomhed. Og dette
+            Tungsind berøver ham alt praktisk Blik til at bedømme Virkeligheden. Den ringeste
+            Begivenhed, der hænder ham, svulmer op til noget Betydningsfuldt, noget Afgjørende og
+            ligesom Forudbestemt, hvortil han atter og atter vil vende tilbage, medens det Samme for
+            en mindre tungsindig Betragt<pb n="70"/>ning vilde svinde ind til en ren Bagatel. De
+            kjender alle disse nære og fjerne, ægte og vanslægtede Brødre og Sønner af <persName
+              type="fictional">René</persName>. Typen omfatter et Spand af Aar, og jeg beder Dem
+            fremfor Alt ikke at forvexle den med en anden Type, som følger den og som vi Alle
+            kjende. <persName type="fictional">René</persName> personificerer en Slægt, som sagde
+            til sig selv: før mit 25de Aar vil jeg være i Besiddelse af denne Pige, være en stor
+            Digter, en stor Kunstner eller døe. Den næste Slægt er den i hvilken Sætningen lyder:
+            før mit 25de Aar vil jeg have et Embede, før mit 30te Aar vil jeg være Minister.
+            Længselen efter et sikret Udkomme og en sikret Indflydelse er traadt istedenfor alle de
+            uvisse og ideale Længsler hos en Slægt, i hvilken Individet uden Sværmen og uden Tvivl
+            sætter sig sit bornerte Formaal og naaer det. Naar hine Andre syntes haarde og tørre, da
+            var det paa det andet Stadium, efterat de havde dræbt Tvivleren og Drømmeren i deres
+            Hjerte, disse vare det fra Fødselen af og have ingen Krise gjennemgaaet.</p>
           <p>Efter alt det jeg nu har sagt vil det lyde underligt naar jeg fortæller Dem, at
               <persName type="fictional">René</persName> er sat paa sin Plads i »<bibl>Génie du
               Christianisme</bibl>« i ren reactionair og catholsk Interesse for at godtgjøre, hvad
@@ -1416,36 +1394,26 @@
           <p>I den skarpeste Modsætning til den selv under Fortvivlelsen og Livsleden saa stolte og
             bydende <persName type="fictional">René</persName>, staaer den næste mindeværdige
             Variation af Tidsalderens Type, <emph><persName type="fictional"
-              >Obermann</persName></emph>. <app>
-              <lem>»<bibl>Obermann</bibl>«</lem>
-              <rdg><q>Obermann</q>A</rdg>
-            </app>, et Værk der blev skrevet selvsamme Aar som <app>
-              <lem>»<bibl>René</bibl>«</lem>
-              <rdg><q>René</q>A</rdg>
-            </app>, er ligesom denne Bog forfattet under Landflygtighed, næsten under et Eremitliv,
-            af en lidenskabelig Atheist, en dybtfølende Stoiker, <persName>Etienne de
-              Sénancour</persName>. Man kunde kalde »<bibl>Obermann</bibl>« den franske <app>
-              <lem>»<bibl>Werther</bibl>«</lem>
-              <rdg><q>Werther</q>A</rdg>
-            </app>, den har hvad Selvmords Epidemien angaaer i <placeName>Frankrig</placeName> spilt
-            en lignende Rolle som <app>
-              <lem>»<bibl>Werther</bibl>«</lem>
-              <rdg><q>Werther</q>A</rdg>
-            </app> i <placeName>Tydskland</placeName>, men Udtrykket er vildledende, thi <app>
-              <lem>»<bibl>Obermann</bibl>«</lem>
-              <rdg><q>Obermann</q>A</rdg>
-            </app> indeholder ingen Kjærlighedshistorie. Var <persName type="fictional"
-              >René</persName> den Udkaarne, saa er <persName type="fictional">Obermann</persName>
-            den Forbigaaede. Hans Aand er ligesaa omfattende, hans Følelse ligesaa dyb som <persName
-              type="fictional">Renés</persName>, men Englen som mærker denne gaaer ham forbi. I <app>
-              <lem>»<bibl>René</bibl>«</lem>
-              <rdg><q>René</q>A</rdg>
-            </app> gjenkjende Aarhundredets Herskernaturer sig selv, men <app>
-              <lem>»<bibl>Obermann</bibl>«</lem>
-              <rdg><q>Obermann</q>A</rdg>
-            </app> er Majoritetens Historie ↄ: ikke den vulgaire, men den dybtbevægede og begavede
-            Mængdes, der danner ligesom de udkaarne Aanders Chor. Bogen begynder: <note type="add"
-            />»Man vil i disse Breve finde Udtalelser af en Aand, som føler, ikke af en Aand, som
+              >Obermann</persName></emph>.
+            »<bibl>Obermann</bibl>«<!-- sat uden anførselstegn i A -->, et Værk der blev skrevet
+            selvsamme Aar som »<bibl>René</bibl>«<!-- sat uden anførselstegn i A -->, er ligesom
+            denne Bog forfattet under Landflygtighed, næsten under et Eremitliv, af en lidenskabelig
+            Atheist, en dybtfølende Stoiker, <persName>Etienne de Sénancour</persName>. Man kunde
+            kalde »<bibl>Obermann</bibl>« den franske
+            »<bibl>Werther</bibl>«<!-- sat uden anførselstegn i A -->, den har hvad Selvmords
+            Epidemien angaaer i <placeName>Frankrig</placeName> spilt en lignende Rolle som
+              »<bibl>Werther</bibl>«<!-- sat uden anførselstegn i A --> i
+              <placeName>Tydskland</placeName>, men Udtrykket er vildledende, thi
+              »<bibl>Obermann</bibl>«<!-- sat uden anførselstegn i A --> indeholder ingen
+            Kjærlighedshistorie. Var <persName type="fictional">René</persName> den Udkaarne, saa er
+              <persName type="fictional">Obermann</persName> den Forbigaaede. Hans Aand er ligesaa
+            omfattende, hans Følelse ligesaa dyb som <persName type="fictional">Renés</persName>,
+            men Englen som mærker denne gaaer ham forbi. I
+            »<bibl>René</bibl>«<!-- sat uden anførselstegn i A --> gjenkjende Aarhundredets
+            Herskernaturer sig selv, men »<bibl>Obermann</bibl>«<!-- sat uden anførselstegn i A -->
+            er Majoritetens Historie ↄ: ikke den vulgaire, men den dybtbevægede og begavede Mængdes,
+            der danner ligesom de udkaarne Aanders Chor. Bogen begynder: <note type="add"/>»Man vil
+            i disse Breve finde Udtalelser af en Aand, som føler, ikke af en Aand, som
             arbeider.«<!-- lemma slut --> Alt ligger heri. Hvorfor arbeider han <pb n="78"/> ikke?
             Det er vanskeligt at forklare. Kortest er Svaret: Fordi han er ulykkelig.</p>
           <p>Denne Bog er skrevet for Ulykkelige. Hvo der har oplevet og erfaret Noget, vil have
@@ -1517,22 +1485,19 @@
             Aander, som have levet ved Siden af Livet og som aldrig have glimret, af elskende
             Hjerter, som aldrig bleve <pb n="82"/> elskede tilbage, hin Elite, hvem Leiligheden,
             Lykken og Berømmelsen aldrig besøgte!</p>
-          <p><app>
-              <lem>»<bibl>Obermann</bibl>«</lem>
-              <rdg><q>Obermann</q>A</rdg>
-            </app>, en tung, bred, alvorlig, slet skreven Bog udviser selv i sin Forfatter en Natur
-            af samme Art som Helten er. Men den er ligefuldt interessant som godt og gyldigt
-            Document. Vil De høre nogle Ord af Bogens Helt: <note type="add"/>»Ak hvor Mennesket er
-            stort saalænge det er uerfarent, hvor det vilde være rigt og frugtbart, hvis ikke
-            Næstens kolde Blik og Uretfærdighedens tørre Vindpust udtørrede vort Hjerte. Jeg trængte
-            til Lykke. Jeg var født til at lide. Hvo kjender ikke hine mørke Dage henimod den
-            koldeste Aarstid, paa hvilke selve Morgenen bringer en Fortætning af Taagerne og kun
-            begynder at sprede Lys ved nogle mørke Linier af en brændende Farve paa de sammenhobede
-            Skyer. Tænk paa hint Taageslør, hine orkanagtige Vindstød, hint blege Skjær, denne Piben
-            gjennem Træerne, der give efter og skjælve, hin lange Tuden, hvis sønderrivende Lyd
-            ligner rædsomme Klager; det var mit Livs Morgen. Ved Middagstid koldere og stadigere
-            Storme, henimod Aften tættere Mørke, og Menneskets Dag er
-            tilende.«<!-- lemma slut --></p>
+          <p> »<bibl>Obermann</bibl>«<!-- sat uden anførselstegn i A -->, en tung, bred, alvorlig,
+            slet skreven Bog udviser selv i sin Forfatter en Natur af samme Art som Helten er. Men
+            den er ligefuldt interessant som godt og gyldigt Document. Vil De høre nogle Ord af
+            Bogens Helt: <note type="add"/>»Ak hvor Mennesket er stort saalænge det er uerfarent,
+            hvor det vilde være rigt og frugtbart, hvis ikke Næstens kolde Blik og Uretfærdighedens
+            tørre Vindpust udtørrede vort Hjerte. Jeg trængte til Lykke. Jeg var født til at lide.
+            Hvo kjender ikke hine mørke Dage henimod den koldeste Aarstid, paa hvilke selve Morgenen
+            bringer en Fortætning af Taagerne og kun begynder at sprede Lys ved nogle mørke Linier
+            af en brændende Farve paa de sammenhobede Skyer. Tænk paa hint Taageslør, hine
+            orkanagtige Vindstød, hint blege Skjær, denne Piben gjennem Træerne, der give efter og
+            skjælve, hin lange Tuden, hvis sønderrivende Lyd ligner rædsomme Klager; det var mit
+            Livs Morgen. Ved Middagstid koldere og stadigere Storme, henimod Aften tættere Mørke, og
+            Menneskets Dag er tilende.«<!-- lemma slut --></p>
           <p>For en Natur med denne Melancholi er hele det ordnede Liv utaaleligt. Hint Tidspunkt i
             Livet, et af de vanskeligste og pinligste af alle, det, i hvilket den unge Mand skal
             vælge sin Livsstilling, vil være et, hvorover han aldrig kan <pb n="83"/> komme. Thi
@@ -1591,26 +1556,19 @@
             Villie.«<!-- lemma slut --></p>
           <p>De seer ham, denne Lærling af <persName>Jean-Jacques</persName>, den Energiske uden
             Villie, thi Ordet passer paa <persName type="fictional">Obermann</persName>, siddende
-            ensom i <persName>Jean-Jacques</persName> Natur. <app>
-              <lem>»<bibl>René</bibl>«</lem>
-              <rdg><q>René</q>A</rdg>
-            </app> havde udvidet Kredsen af Naturindtrykkene. Istedenfor en Sø i Schweitzeralperne,
-            nogle Bosquetter og Skovbouquetter, hvormed vi begyndte i <app>
-              <lem>»<bibl>La nouvelle Héloïse</bibl>«</lem>
-              <rdg><q>La nouvelle Héloïse</q>A</rdg>
-            </app>, gav <app>
-              <lem>»<bibl>René</bibl>«</lem>
-              <rdg><q>René</q>A</rdg>
-            </app> og <app>
-              <lem>»<bibl>Atala</bibl>«</lem>
-              <rdg><q>Atala</q>A</rdg>
-            </app> os de colossale Urskove, Kjæmpefloden <placeName>Missisipi</placeName> og dens
-            Bifloder, den tropiske Natur i dens hele lysende og skrigende Farvepragt, dens hele
-            blændende og duftende Overdaadighed. Denne Natur svarer til en Figur som <persName
-              type="fictional">René</persName>. I denne Natur havde
-              <persName>Chateaubriand</persName> landflygtig flakket om, og dens Præg tog han med
-            sig. I Bjergnaturens øde Taushed og Stumhed er <persName type="fictional"
-              >Obermann</persName> paa sin Plads.</p>
+            ensom i <persName>Jean-Jacques</persName> Natur.
+            »<bibl>René</bibl>«<!-- sat uden anførselstegn i A --> havde udvidet Kredsen af
+            Naturindtrykkene. Istedenfor en Sø i Schweitzeralperne, nogle Bosquetter og
+            Skovbouquetter, hvormed vi begyndte i »<bibl>La nouvelle
+            Héloïse</bibl>«<!-- sat uden anførselstegn i A -->, gav
+            »<bibl>René</bibl>«<!-- sat uden anførselstegn i A --> og
+            »<bibl>Atala</bibl>«<!-- sat uden anførselstegn i A --> os de colossale Urskove,
+            Kjæmpefloden <placeName>Missisipi</placeName> og dens Bifloder, den tropiske Natur i
+            dens hele lysende og skrigende Farvepragt, dens hele blændende og duftende
+            Overdaadighed. Denne Natur svarer til en Figur som <persName type="fictional"
+              >René</persName>. I denne Natur havde <persName>Chateaubriand</persName> landflygtig
+            flakket om, og dens Præg tog han med sig. I Bjergnaturens øde Taushed og Stumhed er
+              <persName type="fictional">Obermann</persName> paa sin Plads.</p>
           <p>Udenfor Livet, der hvor Livet glipper, føler han sig hjemme. Kan han da holde Livet ud?
             Eller vil det gaae ham som <persName type="fictional">Werther</persName>, at han en Dag
             kaster det fra sig?</p>
@@ -1647,7 +1605,7 @@
             Rettigheder have over mig selv! Naar jeg elsker Livet, skal jeg foragte det, naar jeg er
             lykkelig, sende I mig Døden, og naar jeg vil døe, forbyde I mig det og paabyrde mig et
             Liv, som jeg afskyer.</p>
-          <p>»Ifald jeg ikke kan berøve mig Livet, tør jeg heller ikke udsætte mig for en sandsynlig
+          <p>Ifald jeg ikke kan berøve mig Livet, tør jeg heller ikke udsætte mig for en sandsynlig
             Død og alle Eders Helte ere da kun Forbrydere. Den Befaling, I give dem, retfærdiggjør
             dem ikke. I have ikke Ret til at sende dem i Døden, hvis de ikke have havt Ret til at
             give deres Samtykke dertil. Ifald jeg ikke over mig selv har denne Ret til Døden, hvem
@@ -1715,17 +1673,14 @@
             ubesluttede Slægt. Ogsaa han er i Familie med <persName type="fictional"
               >Werther</persName>, men han er Barn af Skuffelsens Tidsalder ligesom <persName
               type="fictional">René</persName>.</p>
-          <p><pb n="92"/> »<bibl>Adolphe</bibl>« tilhører som <app>
-              <lem>»<bibl>René</bibl>«</lem>
-              <rdg><q>René</q>A</rdg>
-            </app> og <app>
-              <lem>»<bibl>Obermann</bibl>«</lem>
-              <rdg><q>Obermann</q>A</rdg>
-            </app> Emigrantlitteraturen. Alle disse Bøger, der arve <persName>Rousseau</persName>
-            paa Følelsessiden, staae i den skarpeste Modsætning til Regimentet i
-              <placeName>Frankrig</placeName>; hvad der i <placeName>Paris</placeName> regjerer, det
-            er Tallet og Sabelen; i Litteraturen den klassiske Odestil og den exacte
-            Videnskabelighed. Her er det Følelser, Drømme, Sværmerier og Reflexioner.</p>
+          <p><pb n="92"/> »<bibl>Adolphe</bibl>« tilhører som
+            »<bibl>René</bibl>«<!-- sat uden anførselstegn i A --> og
+            »<bibl>Obermann</bibl>«<!-- sat uden anførselstegn i A --> Emigrantlitteraturen. Alle
+            disse Bøger, der arve <persName>Rousseau</persName> paa Følelsessiden, staae i den
+            skarpeste Modsætning til Regimentet i <placeName>Frankrig</placeName>; hvad der i
+              <placeName>Paris</placeName> regjerer, det er Tallet og Sabelen; i Litteraturen den
+            klassiske Odestil og den exacte Videnskabelighed. Her er det Følelser, Drømme,
+            Sværmerier og Reflexioner.</p>
           <p>»<bibl>Adolphe</bibl>« tilhører fremdeles til en vis Grad Reactionslitteraturen. Der er
             mangen en Parallel at drage mellem <persName>Chateaubriand</persName> og
               <persName>Constant</persName>. Hin er blændende og denne sleben; men der er mange
@@ -1796,23 +1751,14 @@
             Morgenrøde, men den leverer saa at sige dens hele Biographi, skildrer dens Væxt, dens
             Hensygnen, dens Død, ja den forfølger den over paa den anden Side af Graven, og viser,
             til hvilke Følelser den forvandles.</p>
-          <p><pb n="96"/> Saaledes er <app>
-              <lem>»<bibl>Adolphe</bibl>«</lem>
-              <rdg><q>Adolphe</q>A</rdg>
-            </app> mere endnu end <app>
-              <lem>»<bibl>René</bibl>«</lem>
-              <rdg><q>René</q>A</rdg>
-            </app> Desillusionens og Skuffelsens Poesi. Det er selve Livets Blomst, som her bliver
-            berøvet sine Blade et for et, og paa det Omhyggeligste botaniseret. I denne Henseende
-            danner Bogen den skarpeste Contrast til <app>
-              <lem>»<bibl>Werther</bibl>«</lem>
-              <rdg><q>Werther</q>A</rdg>
-            </app>. I Sammenligning med den synes <app>
-              <lem>»<bibl>Werther</bibl>«</lem>
-              <rdg><q>Werther</q>A</rdg>
-            </app> naiv. Det er den Blomst, hvis Duft bliver en dræbende Gift for <persName
-              type="fictional">Werther</persName>, som »<bibl>Adolphe</bibl>« koldblodigt piller fra
-            hinanden.</p>
+          <p><pb n="96"/> Saaledes er »<bibl>Adolphe</bibl>«<!-- sat uden anførselstegn i A --> mere
+            endnu end »<bibl>René</bibl>«<!-- sat uden anførselstegn i A --> Desillusionens og
+            Skuffelsens Poesi. Det er selve Livets Blomst, som her bliver berøvet sine Blade et for
+            et, og paa det Omhyggeligste botaniseret. I denne Henseende danner Bogen den skarpeste
+            Contrast til »<bibl>Werther</bibl>«<!-- sat uden anførselstegn i A -->. I Sammenligning
+            med den synes »<bibl>Werther</bibl>«<!-- sat uden anførselstegn i A --> naiv. Det er den
+            Blomst, hvis Duft bliver en dræbende Gift for <persName type="fictional"
+              >Werther</persName>, som »<bibl>Adolphe</bibl>« koldblodigt piller fra hinanden.</p>
           <p>Costumet er endnu engang skiftet; den blaa Kjole og den gule Vest viger for vor triste,
             farveløse sorte Dragt og dens Ligfarver.</p>
           <p>Men Enthousiasmen, der forlader Manden, bevares hos Kvinden. »<bibl>Adolphe</bibl>« er
@@ -1837,17 +1783,16 @@
               <persName>Goethe</persName> skildres han endnu langt mindre som en velgjørende Dæmon;
             man forstaaer vel, naar man læser <persName>Goethe</persName>, hvad
               <persName>Schopenhauer</persName> mente, da han skrev, at Amor, overalt forfølgende
-            sin egen Villie, intet Hensyn tager til Individernes Ulykker. I <app>
-              <lem>»<bibl>Faust</bibl>«</lem>
-              <rdg><q>Faust</q>A</rdg>
-            </app>, den nye Tids første Digt, er Amor forvandlet fra et skalkagtigt Barn til en stor
-            Forbryder. <persName type="fictional">Faust</persName> og <persName type="fictional"
-              >Margarethe</persName> elske hinanden, det vil sige: <persName type="fictional"
-              >Faust</persName> forfører <persName type="fictional">Margarethe</persName> og
-            forlader hende, og <persName type="fictional">Gretchen's</persName> Kjærlighedshistorie
-            bliver Døden for hendes Moder, hendes Broder, hendes Barn og hende selv. Thi hun, den
-            skyldfrie og elskelige Pige, dræber sin Moder ved den Sovedrik, hun indgiver hende for
-            at <persName type="fictional">Faust</persName> kan besøge hende om Natten, <persName
+            sin egen Villie, intet Hensyn tager til Individernes Ulykker. I
+            »<bibl>Faust</bibl>«<!-- sat uden anførselstegn i A -->, den nye Tids første Digt, er
+            Amor forvandlet fra et skalkagtigt Barn til en stor Forbryder. <persName
+              type="fictional">Faust</persName> og <persName type="fictional">Margarethe</persName>
+            elske hinanden, det vil sige: <persName type="fictional">Faust</persName> forfører
+              <persName type="fictional">Margarethe</persName> og forlader hende, og <persName
+              type="fictional">Gretchen's</persName> Kjærlighedshistorie bliver Døden for hendes
+            Moder, hendes Broder, hendes Barn og hende selv. Thi hun, den skyldfrie og elskelige
+            Pige, dræber sin Moder ved den Sovedrik, hun indgiver hende for at <persName
+              type="fictional">Faust</persName> kan besøge hende om Natten, <persName
               type="fictional">Faust</persName> og <persName type="fictional"
               >Mephistopheles</persName> i Forening støde hendes Broder ned, da han vil hevne
             Søsterens Ære. Af Frygt for Skammen dræber <persName type="fictional"
@@ -1914,23 +1859,21 @@
             Kugle ved Benet. Ligesom de Andre hører han til Generationen af hine Sønner, hvem deres
             Fædre ingen Gjerning havde levnet at udføre. Skjøndt han aldrig er bleven aandeligt
             mættet, er han dog ikke hungrig, skjøndt han Intet har oplevet, er han allerede ude over
-                Alt.<note><persName>Gustave Planche</persName>: <app>
-                <lem>»<bibl>Notice sur Adolphe</bibl>«</lem>
-                <rdg><q>Notice sur Adolphe</q>A</rdg>
-              </app>.</note> Det Tilkommende har ingen Interesse for ham, thi han har <note
-              type="add"/>forgrebet det Alt<!-- lemma slut --> i sin Phantasi og det Forbigangne har
-            gjort ham gammel, thi han har levet nogle Aarhundreder i sin Tanke. Han har attraaet alt
-            muligt, men han har Intet villet, jo mere afmægtig han føler sig, des større Dimensioner
-            antager hans Forfængelighed, thi Forfængelighed er overalt det Materiale, hvormed de
-            Evne- og Villieløse forgjæves søge at stoppe Hullerne i deres Villie eller deres Talent.
-            Han ønsker at elske og at blive elsket, thi han vil bruge Kjærligheden som en Styrkedrik
-            for sin Selvfølelse. Han vil opnaae en kraftigere Fornemmelse af sit Værd. Han vil stige
-            i sine egne og de Andres Øine. Han attraaer ikke en skjult eller fredet Lykke; han
-            trænger til at foretage en Erobring, <pb n="102"/> til at nævnes som den Lykkelige, til
-            at fremkalde Opsigt og Misundelse gjennem en iøinefaldende Triumph og Skandale. Saaledes
-            faaer han første Gang Anvendelse for sine Kræfter og Kjærlighedens Lykke bliver for ham
-            det, endelig engang at føle sin Villie, idet han bøier en anden Villie ind under
-            sin.</p>
+                Alt.<note><persName>Gustave Planche</persName>: »<bibl>Notice sur
+              Adolphe</bibl>«<!-- sat uden anførselstegn i A -->.</note> Det Tilkommende har ingen
+            Interesse for ham, thi han har <note type="add"/>forgrebet det Alt<!-- lemma slut --> i
+            sin Phantasi og det Forbigangne har gjort ham gammel, thi han har levet nogle
+            Aarhundreder i sin Tanke. Han har attraaet alt muligt, men han har Intet villet, jo mere
+            afmægtig han føler sig, des større Dimensioner antager hans Forfængelighed, thi
+            Forfængelighed er overalt det Materiale, hvormed de Evne- og Villieløse forgjæves søge
+            at stoppe Hullerne i deres Villie eller deres Talent. Han ønsker at elske og at blive
+            elsket, thi han vil bruge Kjærligheden som en Styrkedrik for sin Selvfølelse. Han vil
+            opnaae en kraftigere Fornemmelse af sit Værd. Han vil stige i sine egne og de Andres
+            Øine. Han attraaer ikke en skjult eller fredet Lykke; han trænger til at foretage en
+            Erobring, <pb n="102"/> til at nævnes som den Lykkelige, til at fremkalde Opsigt og
+            Misundelse gjennem en iøinefaldende Triumph og Skandale. Saaledes faaer han første Gang
+            Anvendelse for sine Kræfter og Kjærlighedens Lykke bliver for ham det, endelig engang at
+            føle sin Villie, idet han bøier en anden Villie ind under sin.</p>
           <p>Og hvem er saa <emph>hun</emph>? En hel ny Kvindetype optræder her i Litteraturen, en
             Type, som den store Romanforfatter <persName>Balzac</persName> senere tilegner sig og
             varierer med en saadan Bevidsthed om dens typiske Charakter og med en saadan Genialitet,
@@ -2028,7 +1971,7 @@
             den fyrretyveaarige Kvinde alene i Drama <pb n="107"/> og Roman. Denne Gang har den nye
             Verden helt undertrykt den gamle Verden og Kvinden paa 40 Aar beseirer den unge Pige paa
             16.</p>
-          <p>»Hvem banker? raaber Dramaet med sin dybe Stemme. Hvem er der? skriger Romanen med sin
+          <p>Hvem banker? raaber Dramaet med sin dybe Stemme. Hvem er der? skriger Romanen med sin
             fine Røst. Det er mig, svarer skjælvende det 16de Aar med sine Perletænder, med sin Barm
             af Sne, med sine blide Linier, med sit friske Smil, med sit milde Blik. Det er mig. Jeg
             har den Alder som <persName type="fictional">Junie</persName> hos
@@ -2047,8 +1990,8 @@
             Romanforfatterne og Dramaturgerne; men strax svare Romanforfattere og Dramaturger: Vi
             ere beskjæftigede med din Moder, mit Barn, kom igjen om en Snes Aar og vi skulle see om
             vi kunne gjøre Noget ud af Dig.</p>
-          <p>»Der gives nuomstunder i Drama og Roman ikke Andet end Kvinden paa 30 Aar, som vil
-            blive <pb n="108"/> 40 Aar imorgen. Hun alene kan elske, hun alene kan lide. Hun er saa
+          <p>Der gives nuomstunder i Drama og Roman ikke Andet end Kvinden paa 30 Aar, som vil blive
+              <pb n="108"/> 40 Aar imorgen. Hun alene kan elske, hun alene kan lide. Hun er saa
             meget mere dramatisk, som hun ikke har Tid til at vente. Hvad ville I, at vi skulle
             kunne gjøre ud af en lille Pige, som ikke kan Andet end græde, elske, sukke, smile,
             haabe, skjælve? Kvinden paa 30 Aar græder ikke, hun hulker, hun sukker ikke, hun hyler,
@@ -2106,7 +2049,7 @@
             vil modstaae selv Fornuften; jeg burde dog allerede have en Gnist af Fornuft, thi jeg er
             12 Aar og nogle Dage; imidlertid mærker jeg Intet til dens Herre<pb n="111"/>dømme. Naar
             dens Morgenrøde er saa mat, hvad Styrke vil den da have til 25 Aar.</p>
-          <p>»Veed Du, kjære Bedstemoder, at jeg kommer i Selskab to Gange om Ugen. Jeg har en smuk
+          <p>Veed Du, kjære Bedstemoder, at jeg kommer i Selskab to Gange om Ugen. Jeg har en smuk
             Frakke, Kaarde ved Siden, Hat under Armen, een Haand paa Brystet, en anden i Siden. Jeg
             holder mig rank og giver den store Dreng, saa godt jeg kan. Jeg seer, jeg hører, men
             hidindtil kan jeg ikke sige, at jeg misunder de Voxne deres Fornøielser. De see Alle ud,
@@ -2156,11 +2099,9 @@
             charakteristisk nok: det første Afsnit skrev han paa Bagsiden af en Pakke Spillekort, og
             alt som han skrev Kortet færdigt, skjød han det over til <persName>Mme de
               Charrière</persName>.</p>
-          <p>Ligesom Hovedindtrykket af <app>
-              <lem>»<bibl>Adolphe</bibl>«</lem>
-              <rdg><q>Adolphe</q>A</rdg>
-            </app> er det Hjertesuk: »<emph>Gid jeg kunde elske</emph>!«, saaledes er Indtrykket af
-            Bogen om Religionerne det: »<emph>Gid jeg kunde troe</emph>!«</p>
+          <p>Ligesom Hovedindtrykket af »<bibl>Adolphe</bibl>«<!-- sat uden anførselstegn i A --> er
+            det Hjertesuk: »<emph>Gid jeg kunde elske</emph>!«, saaledes er Indtrykket af Bogen om
+            Religionerne det: »<emph>Gid jeg kunde troe</emph>!«</p>
           <p>Studer ham i hans Ungdom medens han endnu aabenbarer Mennesket, ikke spiller Rollen, og
             De vil kunne gribe hans religiøse Følelse i dens oprindelige og ægte Form. Han skriver
             som ung i et Brev til en Veninde:</p>
@@ -2288,35 +2229,38 @@
               type="fictional">Ophelia</persName> med Blomsterne i sit Haar<!-- lemma slut -->. I
             den anden Kvindetype er Alt Bevidsthed, <emph>Aand</emph>, Lidenskab og Villie, activ
             Charakter.</p>
-          <p>Eleonore er i det Øieblik, da Adolphe lærer hende at kjende, ikke nogen ung og uerfaren
+          <p><persName type="fictional">Eleonore</persName> er i det Øieblik, da <persName
+              type="fictional">Adolphe</persName> lærer hende at kjende, ikke nogen ung og uerfaren
             Pige, hvem en første Elskov griber. Det er en Kvinde, hos hvem enhver opstaaende Følelse
             tegner sig paa en Baggrund af Erfaring, af alvorlig og smertelig Erfaring, der i alle
             Retninger har oppløiet Sjælen. Dette Fond af Erfaring er det første nye Træk: thi
             Erfaring forudsætter Aandsudvikling og Forstand. Der skal mere til at have erfaret Noget
-            end det simpelt hen at have gjennemgaaet Noget. Eleonore har givet Afkald paa alle det
-            fredede og betryggede Livs Goder og Glæder. Af fornem Herkomst og født i Rigdom har hun
-            forladt Familie og Hjem for at følge Den, hun har foretrukket, som hans Elskerinde. Hun
-            har valgt mellem hele Verden og ham. Hun har isoleret sig fuldstændig, for ubetinget at
-            kunne ofre sig for ham og hun har begyndt med at vise ham de største Tjenester, med at
-            redde hele hans Formue. Hun har snart seet sig udpeget som en Gjenstand for Haan og
-            Foragt, ved hvert Skridt <pb n="121"/> hun har gaaet, har hun seet sig ramt af
-            fornærmende, af uforskammede Øiekast, den ene Kvinde har vist hende til den anden med
-              Fingren.<note>Planche: <bibl>Notice sur Adolphe</bibl>.</note> Enhver, selv den
-            Usleste, har vidst sig i sin Ret til med et Blik eller et Ord at fæste Skammens
-            Brændemærke paa hendes Pande. Det ene Hus efter det andet har lukket sig for hende paa
-            det fremmede Sted hvor hun boer; snart har hun seet sig næsten udelukkende indskrænket
-            til Omgang med Mænd, Venner af hendes Elskede, og deres Tone overfor hende har, skjøndt
-            ærbødig, undertiden været tvivlsom. Men hun, som een Gang for alle har sat sit Liv paa
-            et eneste Kort, har fra den første Dag samlet al sin Sjæls Styrke til Modstand, hun har
-            sagt til sig selv: »Har jeg feilet ved saaledes at binde mig til denne Mand, saa vil jeg
-            hæve mig og bøde paa Feilen ved den strengeste Troskab. Skulde en brændende Begeistring,
-            en Hengivenhed, hvis Opofrelse ingen Grændse kjender, ikke have nok i sig selv, og kunne
-            opretholde Den, der skulde synes at maatte synke sammen under Verdens Misbilligelse og
-            Foragt? Lad dem haane og udpege mig saa Rødmen stiger op i mit Ansigt, jeg vil ikke bøie
-            min Nakke eller slaae mine Øine ned. Lad mig undvære Alt, deres Gjæstfrihed og deres
-            Fester, deres Agtelse og den indbyrdes Smiger, ved Hjælp af <pb n="122"/> hvilken
-            Selskabet kitter sig sammen, mit Liv har i en eneste Følelse en større Fylde end deres i
-            al dets løiede Glands.« Dette Element af Villie er det andet nye Træk.</p>
+            end det simpelt hen at have gjennemgaaet Noget. <persName type="fictional"
+              >Eleonore</persName> har givet Afkald paa alle det fredede og betryggede Livs Goder og
+            Glæder. Af fornem Herkomst og født i Rigdom har hun forladt Familie og Hjem for at følge
+            Den, hun har foretrukket, som hans Elskerinde. Hun har valgt mellem hele Verden og ham.
+            Hun har isoleret sig fuldstændig, for ubetinget at kunne ofre sig for ham og hun har
+            begyndt med at vise ham de største Tjenester, med at redde hele hans Formue. Hun har
+            snart seet sig udpeget som en Gjenstand for Haan og Foragt, ved hvert Skridt <pb n="121"
+            /> hun har gaaet, har hun seet sig ramt af fornærmende, af uforskammede Øiekast, den ene
+            Kvinde har vist hende til den anden med Fingren.<note>Planche: »<bibl>Notice sur
+                Adolphe</bibl>«<!-- sat uden anførselstegn i A -->.</note> Enhver, selv den Usleste,
+            har vidst sig i sin Ret til med et Blik eller et Ord at fæste Skammens Brændemærke paa
+            hendes Pande. Det ene Hus efter det andet har lukket sig for hende paa det fremmede Sted
+            hvor hun boer; snart har hun seet sig næsten udelukkende indskrænket til Omgang med
+            Mænd, Venner af hendes Elskede, og deres Tone overfor hende har, skjøndt ærbødig,
+            undertiden været tvivlsom. Men hun, som een Gang for alle har sat sit Liv paa et eneste
+            Kort, har fra den første Dag samlet al sin Sjæls Styrke til Modstand, hun har sagt til
+            sig selv: <note type="add"/>»Har jeg feilet ved saaledes at binde mig til denne Mand,
+            saa vil jeg hæve mig og bøde paa Feilen ved den strengeste Troskab. Skulde en brændende
+            Begeistring, en Hengivenhed, hvis Opofrelse ingen Grændse kjender, ikke have nok i sig
+            selv, og kunne opretholde Den, der skulde synes at maatte synke sammen under Verdens
+            Misbilligelse og Foragt? Lad dem haane og udpege mig saa Rødmen stiger op i mit Ansigt,
+            jeg vil ikke bøie min Nakke eller slaae mine Øine ned. Lad mig undvære Alt, deres
+            Gjæstfrihed og deres Fester, deres Agtelse og den indbyrdes Smiger, ved Hjælp af <pb
+              n="122"/> hvilken Selskabet kitter sig sammen, mit Liv har i en eneste Følelse en
+            større Fylde end deres i al dets løiede Glands.«<!-- lemma slut --> Dette Element af
+            Villie er det andet nye Træk.</p>
           <p>Paa dette Punkt har hun holdt sig i Aaringer, indtil den Grad har hun troet paa
             Elskoven og troet paa ham. Da er det at den første Tvivl om hans Bestandighed griber
             hende, og hendes hele Bygning styrter sammen. Vedbliver han at paaskjønne saamegen
@@ -2330,26 +2274,31 @@
             ikke, endnu ung, skal synke ældet og rynket i Graven, maa kun gjenvinde Livet ved at
             gjenvinde sin Tro paa Kjærlighedens Almagt, paa at den verdslige Kløgt og den smudsige
             Egoisme, der sminker sig op som Dyd og Religion, ikke ere de stærkeste og ikke beholde
-            Ret. I dette Øieblik er det, at hun møder Adolphe. Han nær<pb n="123"/>mer sig med en
-            Attraa, i hvilken hele Tørsten efter Livet og dets Indhold er samlet, han drages til
-            hende som til den, i hvem han paa hemmelighedsfuld Maade føler, at Skatte af Lidenskab,
-            af Ømhed og Begeistring, af Aand og Erfaring ere sammenhobede og ligesom nedgravne.</p>
+            Ret. I dette Øieblik er det, at hun møder <persName type="fictional">Adolphe</persName>.
+            Han nær<pb n="123"/>mer sig med en Attraa, i hvilken hele Tørsten efter Livet og dets
+            Indhold er samlet, han drages til hende som til den, i hvem han paa hemmelighedsfuld
+            Maade føler, at Skatte af Lidenskab, af Ømhed og Begeistring, af Aand og Erfaring ere
+            sammenhobede og ligesom nedgravne.</p>
           <p>De seer, hvorledes Partiet strax fra først af er stillet; hans Længsler og hendes Savn,
             hans Forfængelighed og hendes Fortvivlelse, hans Ungdom og hendes Skuffelser, gribe ind
             i hinanden som to Hjul i samme Uhrværk.</p>
           <p>De forudseer let den Enthousiasme, med hvilken Lidenskaben i det første Øieblik vil
             flamme iveiret, den fulde og mægtige Akkord som vil klinge, den jublende Symphoni der
             vil høres, som var Seir og Frelse for alle Tider vundet for dem Begge. Ifald De vil
-            analysere hendes Følelse, finder de i den en ny og ganske eiendommelig Blanding, en
-            Begeistring som næsten er fanatisk, thi den skal i hvert Øieblik kunne dræbe den altid
-            paany frembrydende, tilbageskuende Jalousi, en Tro, der næsten er krampagtig, fordi den
-            ikke er grundet paa den sunde naturlige Tillid, men paa Villien til at troe trods Alt,
-            trods det, allerede een Dang at være sveget, en Troskab, der vaander sig under bestandig
-            at maatte bevise sin Tilværelse, fordi den er fremgaaet af Utroskab mod en Fortid, og
-            endelig i Elskoven selv en Indtræden i den af et Element i Kvindenaturen, som <pb
-              n="124"/> vi ikke tidligere have seet optaget i denne Følelse, noget af en ældre
-            Søsters eller en Moders Kjærlighed. Dette Element fandtes ikke hos Gretchen og Clärchen.
-            Hele denne potentserede Lidenskabelighed er det tredie nye Træk.</p>
+            analysere hendes Følelse, finder <app>
+              <lem>De</lem>
+              <rdg><q>de</q>A</rdg>
+            </app> i den en ny og ganske eiendommelig Blanding, en Begeistring som næsten er
+            fanatisk, thi den skal i hvert Øieblik kunne dræbe den altid paany frembrydende,
+            tilbageskuende Jalousi, en Tro, der næsten er krampagtig, fordi den ikke er grundet paa
+            den sunde naturlige Tillid, men paa Villien til at troe trods Alt, trods det, allerede
+            een Gang at være sveget, en Troskab, der vaander sig under bestandig at maatte bevise
+            sin Tilværelse, fordi den er fremgaaet af Utroskab mod en Fortid, og endelig i Elskoven
+            selv en Indtræden i den af et Element i Kvindenaturen, som <pb n="124"/> vi ikke
+            tidligere have seet optaget i denne Følelse, noget af en ældre Søsters eller en Moders
+            Kjærlighed. Dette Element fandtes ikke hos <persName type="fictional"
+              >Gretchen</persName> og <persName type="fictional">Clärchen</persName>. Hele denne
+            potentserede Lidenskabelighed er det tredie nye Træk.</p>
           <p>De indseer sluttelig let, at Harmonien her ikke kan være endelig, om den endog kan være
             langvarig, at et Tidspunkt vil komme, hvor disse to Naturer, saa uensartede og saa lidet
             forstaaende hinanden, med Rædsel ville opdage Unaturligheden af deres Forening og hvor
@@ -2358,62 +2307,75 @@
             mane Sandheden bort, men de ville kun opnaae til Pinsel for sig selv at fortsætte en
             Usandhed, paa hvilken Ingen af dem af sit hele Hjerte mere troer.</p>
           <p>Denne Kjærlighedens Opløsningsperiode er Romanens egentlige Gjenstand.</p>
-          <p>»<bibl>Adolphe</bibl>« har vundet en uhyre Anerkj endelse, og dens typiske Charakter
-            blev saameget mere paaskjonnet, som enhver ung Mand fandt en Tilfredsstillelse i at
-            erklære Adolphes Historie for et tro Portrait af sin egen; thi selv Andreas Blegnæb
-            siger jo hos Shakspeare: »Der var ogsaa engang En, som tilbad mig.« Mangen En har læst
-            denne Bog under Samvittighedskvaler, om hvem man, som Constant med sædvanlig Fin<pb
-              n="125"/>hed siger i Fortalen, har Grund til at antage, at hvis hans Forfængelighed
-            havde været mindre urolig, vilde hans Samvittighed have ladet ham i Ro. Ligefuldt lader
-            det sig ikke negte, at Adolphe er en Type. Men langt mere betydningsfuld end han er dog
-            den kvindelige Hovedfigur Eleonore, især som hun fremtræder i sit andet Stadium. Thi i
-            hende har den nye Tids paa een Gang kraftige og sygelige Litteratur fundet sin Dronning,
-            som den fandt sin Konge i René.</p>
-          <p>Længe før Balzac, længe før George Sand, optræder da her Kvindens Kamp i Litteraturen,
-            hendes Kamp med det Bestaaende og med Samfundet, og Eleonore kommer til at repræsentere
+          <p>»<bibl>Adolphe</bibl>« har vundet en uhyre Anerkjendelse, og dens typiske Charakter
+            blev saameget mere paaskjønnet, som enhver ung Mand fandt en Tilfredsstillelse i at
+            erklære <persName type="fictional">Adolphes</persName> Historie for et tro Portrait af
+            sin egen; thi selv <persName type="fictional">Andreas Blegnæb</persName> siger jo hos
+              <persName>Shakspeare</persName>: <note type="add"/>»Der var ogsaa engang En, som
+            tilbad mig.«<!-- lemma slut --> Mangen En har læst denne Bog under Samvittighedskvaler,
+            om hvem man, som <persName>Constant</persName> med sædvanlig Fin<pb n="125"/>hed siger
+              <note type="add"/>i Fortalen, har Grund til at antage, at hvis hans Forfængelighed
+            havde været mindre urolig, vilde hans Samvittighed have ladet ham i
+            Ro<!-- lemma slut -->. Ligefuldt lader det sig ikke negte, at <persName type="fictional"
+              >Adolphe</persName> er en Type. Men langt mere betydningsfuld end han er dog den
+            kvindelige Hovedfigur <persName type="fictional">Eleonore</persName>, især som hun
+            fremtræder i sit andet Stadium. Thi i hende har den nye Tids paa een Gang kraftige og
+            sygelige Litteratur fundet sin Dronning, som den fandt sin Konge i <persName
+              type="fictional">René</persName>.</p>
+          <p>Længe før <persName>Balzac</persName>, længe før <persName>George Sand</persName>,
+            optræder da her Kvindens Kamp i Litteraturen, hendes Kamp med det Bestaaende og med
+            Samfundet, og <persName type="fictional">Eleonore</persName> kommer til at repræsentere
             denne Kamp, fordi hun er støbt over Aarhundredets mægtigste Kvindeskikkelse, over den
             Kvinde, der kjæmpede den største Kamp, som nogensinde i Verdenshistorien en Kvinde har
-            kjæmpet med rent aandelige Vaaben, med eet Ord over Mme de Staël. Thi den
-            Kjærlighedshistorie, som fortælles i »<bibl>Adolphe</bibl>«, er den som virkelig fandt
-            Sted imellem Benjamin Constant og Germaine de Staël. Ganske vist var dennes ydre Forhold
-            andre end Eleonores; men det er denne store og sjeldne Kvinde, hvis personlige Livskamp
-            var en Kamp med selve Datidens Verdensbehersker, og hvem Napoleon med smaaligt Had og
-            uædel Frygt forfulgte, forviste, censorerede og underkastede alle de Plager, for hvilke
-            et brutalt Despoti kan <pb n="126"/> udsætte det geniale Individ, denne Kvinde er det,
-            som giver Constant den nye Kvindetype.</p>
+            kjæmpet med rent aandelige Vaaben, med eet Ord over <persName>Mme de Staël</persName>.
+            Thi den Kjærlighedshistorie, som fortælles i »<bibl>Adolphe</bibl>«, er den som virkelig
+            fandt Sted imellem <persName>Benjamin Constant</persName> og <persName>Germaine de
+              Staël</persName>. Ganske vist var dennes ydre Forhold andre end <persName
+              type="fictional">Eleonores</persName>; men det er denne store og sjeldne Kvinde, hvis
+            personlige Livskamp var en Kamp med selve Datidens Verdensbehersker, og hvem
+              <persName>Napoleon</persName> med smaaligt Had og uædel Frygt forfulgte, forviste,
+            censorerede og underkastede alle de Plager, for hvilke et brutalt Despoti kan <pb
+              n="126"/> udsætte det geniale Individ, denne Kvinde er det, som giver
+              <persName>Constant</persName> den nye Kvindetype.</p>
           <p>Thi Kvindens Optræden i Litteraturen som Aand, som Bevidsthed, er kun det første Skridt
-            til hendes Optræden som Geni. Alt sees Mme de Staëls Turban at glimre i Horizonten. Den
-            samme Kvinde, som først bliver delagtig i Mandens Lidenskaber og Kampe, bliver snart
-            delagtig i hans Geni og i hans Hæder. En kort Stund endnu, og Kampen følges af
-            Triumphen, og hin samme Kvinde, der bukker under som Eleonore, krones som Corinna paa
-            Capitol.</p>
+            til hendes Optræden som <emph>Geni</emph>. Alt sees <persName>Mme de Staëls</persName>
+            Turban at glimre i Horizonten. Den samme Kvinde, som først bliver delagtig i Mandens
+            Lidenskaber og Kampe, bliver snart delagtig i hans Geni og i hans Hæder. En kort Stund
+            endnu, og Kampen følges af Triumphen, og hin samme Kvinde, der bukker under som
+              <persName type="fictional">Eleonore</persName>, krones som <persName type="fictional"
+              >Corinna</persName> paa <note type="add"/>Capitol<!-- lemma slut -->.</p>
         </div>
         <div>
           <head>X.</head>
           <p>Tilbage staaer kun at gjøre Rede for Finheden af den psychologiske Analyse i
-              »<bibl>Adolphe</bibl>« og at vise til hvilket Resultat den fører. Adolphe begynder,
-            hvad der ikke kan undre, naar man kjender Constant’s egen Charakter, med det Indtryk:
-            dette er en Erobring, som er mig værdig, og han indbilder sig som kold Iagttager at
-            kunne gjøre Studiet af Eleonores Charakter for i Ro og Mag at lægge sin Slagplan, men
-            snart kommer han, hvis Sensibilitet netop er ligesaa stor som hans Egoisme, under en
-            Magi, der helt betager ham og som i den Grad forøger hans naturlige Frygtsomhed, at det
-            er ham umuligt at faae Mod til den Erklæring, som han har lovet sin Forfængelighed at
-            gjøre hurtigt og raskt. <pb n="127"/> Han skriver, men Eleonore afviser og flyer ham.
-            Denne hendes Modstand og Kulde fremkalder hos ham en Underkastelse og en Ømhed, der
-            snart gaaer over til en Art af Cultus. Saaledes var Eleonore aldrig bleven elsket, thi
-            hvormegen sand Hengivenhed hendes Beskytter end havde vist hende, var der dog en svag
-            Nuance af Overlegenhed i hans Væsen overfor hende. Han kunde have stiftet en hæderligere
-            Forbindelse end denne. Han sagde det vel ikke; men det, der ikke siges, existerer
-            ligefuldt. Derfor er det Ærefrygten hos Adolphe, som fra først af fortryller Eleonore.
-            Hun hengiver sig og han bliver som svimmel af Henrykkelse og Lykke. Det første Skaar i
-            Henrykkelsen gjøres derved, at Eleonore, da Greven har forladt Byen paa nogen Tid, ikke
-            mere kan afsee Adolphe, end ikke nogle Timer. Vil han forlade hende, søger hun at holde
-            ham tilbage; gaaer han, spørger lmn, naar han kommer igjen. Eørst føler han sig smigret
-            og lykkelig ved en saa grændseløs Hengivenhed, men snart er hans Tid saaledes optagen,
-            at han ikke har en Time, hvorover han er Herre. Han maa afslaae ethvert selskabeligt
-            Forslag, der gjøres ham, afbryde alle sine Bekjendtskaber. Han føler vel ikke dette som
-            et Tab, men han vilde have foretrukket ikke at skulle ind tinde sig paa Klokkeslet, og
-            at kunne komme efter Tid og Lyst. Hun, som før var et Maal, er nu bleven et Baand.</p>
+              »<bibl>Adolphe</bibl>« og at vise til hvilket Resultat den fører.
+            »Adolphe«<!-- sat uden anførselstegn i A --> begynder, hvad der ikke kan undre, naar man
+            kjender <persName>Constant’s</persName> egen Charakter, med det Indtryk: dette er en
+            Erobring, som er mig værdig, og han indbilder sig som kold Iagttager at kunne gjøre
+            Studiet af <persName type="fictional">Eleonores</persName> Charakter for i Ro og Mag at
+            lægge sin Slagplan, men snart kommer han, hvis Sensibilitet netop er ligesaa stor som
+            hans Egoisme, under en Magi, der helt betager ham og som i den Grad forøger hans
+            naturlige Frygtsomhed, at det er ham umuligt at faae Mod til den Erklæring, som han har
+            lovet sin Forfængelighed at gjøre hurtigt og raskt. <pb n="127"/> Han skriver, men
+              <persName type="fictional">Eleonore</persName> afviser og flyer ham. Denne hendes
+            Modstand og Kulde fremkalder hos ham en Underkastelse og en Ømhed, der snart gaaer over
+            til en Art af Cultus. Saaledes var <persName type="fictional">Eleonore</persName> aldrig
+            bleven elsket, thi hvormegen sand Hengivenhed hendes Beskytter end havde vist hende, var
+            der dog en svag Nuance af Overlegenhed i hans Væsen overfor hende. Han kunde have
+            stiftet en hæderligere Forbindelse end denne. Han sagde det vel ikke; men det, der ikke
+            siges, existerer ligefuldt. Derfor er det Ærefrygten hos <persName type="fictional"
+              >Adolphe</persName>, som fra først af fortryller <persName type="fictional"
+              >Eleonore</persName>. Hun hengiver sig og han bliver som svimmel af Henrykkelse og
+            Lykke. Det første Skaar i Henrykkelsen gjøres derved, at <persName>Eleonore</persName>,
+            da <persName type="fictional">Greven</persName> har forladt Byen paa nogen Tid, ikke
+            mere kan afsee <persName type="fictional">Adolphe</persName>, end ikke nogle Timer. Vil
+            han forlade hende, søger hun at holde ham tilbage; gaaer han, spørger hun, naar han
+            kommer igjen. Først føler han sig smigret og lykkelig ved en saa grændseløs Hengivenhed,
+            men snart er hans Tid saaledes optagen, at han ikke har en Time, hvorover han er Herre.
+            Han maa afslaae ethvert selskabeligt Forslag, der gjøres ham, afbryde alle sine
+            Bekjendtskaber. Han føler vel ikke dette som et Tab, men han vilde have foretrukket ikke
+            at skulle indfinde sig paa Klokkeslet, og at kunne komme efter Tid og Lyst. Hun, som før
+            var et Maal, er nu bleven et Baand.</p>
           <p><pb n="128"/> Hvor ere I henne, alle I skjønne Romaner, i hvilke Elskeren aldrig havde
             Andet at bestille end at elske, i hvilke han elskede fra Morgen til Aften, stod op om
             Morgenen for at elske, elskede hele Dagen og tilbragte en søvnløs Nat af Kjærlighed! Det
@@ -2422,45 +2384,53 @@
           <p> Og det nytter ei, at han tilerobrer sig sin Tid, naar han dog taber sin Sindsro
             igjennem Sympathien; thi udebliver han engang imellem, berøver Tanken om hendes Sorg
             derover ham al den Tid, han vinder, paa samme Tid som han dunkelt føler sig irriteret
-            ved i den Grad at være m undergiven et andet Menneskes Herredømme. Kommer han saa til
+            ved i den Grad at være undergiven et andet Menneskes Herredømme. Kommer han saa til
             hende, ilde tilmode over at være kommen meget hurtigere igjen, end det var klogt af
-            Hensyn til hendes Rygte og hans Beskæftigelser, tinder han hende ulykkelig over at han
+            Hensyn til hendes Rygte og hans Beskæftigelser, finder han hende ulykkelig over at han
             er udebleven altfor længe. Han har lidt to Timer under Forestillingen om hendes Venten,
             han maa nu lide to andre Timer, før han kan stille hende tilfreds. Alligevel føler han
             sig lykkelig, siger sig selv, at det er sødt at blive elsket saaledes, men trøster sig
             dog egentlig ubevidst med, at Uensartetheden i deres Vilkaar tidligt eller sent maa
             gjøre Ende paa Forholdet.</p>
-          <p>Først lider han nu den Smerte ikke at kunne være ærlig; thi Greven kommer tilbage og
-            han <pb n="129"/> er nødt til at bedrage ham. Saa lider han den Smerte, at see Eleonore
-            opofre Alting for hans Skyld, og paa een Gang opgive sit Hjem og sin Formue. Og denne
-            Smerte er dobbelt, dels egoistisk, thi han fortvivler ved at see sin Frihed lammet ved
-            det Offer, hun er lykkelig ved at bringe ham, dels sympathetisk, thi han seer Samfundet
-            kaste sig over hendes Rygte med et hyæneagtigt Raseri. Alt hvad hun ved Aars ulastelige
-            Opførsel har vundet, taber hun paa een Dag. Hendes Stolthed vaander sig, og hans
-            Hengivenhed bliver til Pligt. Der er fra nu af imellem dem en hemmelig Lidelse, som de
-            ikke betroe hinanden.</p>
-          <p>Adolphes Charakter begynder at fordærves. Paa samme Tid som han kjæmper i Duel med En,
-            der har omtalt Eleonore ilde, skader han selv ufrivillig hendes Rygte; thi han søger en
+          <p>Først lider han nu den Smerte ikke at kunne være ærlig; thi <persName type="fictional"
+              >Greven</persName> kommer tilbage og han <pb n="129"/> er nødt til at bedrage ham. Saa
+            lider han den Smerte, at see <persName type="fictional">Eleonore</persName> opofre
+            Alting for hans Skyld, og paa een Gang opgive sit Hjem og sin Formue. Og denne Smerte er
+            dobbelt, dels egoistisk, thi han fortvivler ved at see sin Frihed lammet ved det Offer,
+            hun er lykkelig ved at bringe ham, dels sympathetisk, thi han seer Samfundet kaste sig
+            over hendes Rygte med et hyæneagtigt Raseri. Alt hvad hun ved Aars ulastelige Opførsel
+            har vundet, taber hun paa een Dag. Hendes Stolthed vaander sig, og hans Hengivenhed
+            bliver til Pligt. Der er fra nu af imellem dem en hemmelig Lidelse, som de ikke betroe
+            hinanden.</p>
+          <p><persName type="fictional">Adolphes</persName> Charakter begynder at fordærves. Paa
+            samme Tid som han kjæmper i Duel med En, der har omtalt <persName type="fictional"
+              >Eleonore</persName> ilde, skader han selv ufrivillig hendes Rygte; thi han søger en
             Art Trøst for den Afhængighed, i hvilken han lever, ved overalt at raillere over
             Kvinderne og over dem, som underkaste sig deres Despoti, og disse Ytringer fortolkes.
             Han, som ikke kan modstaae en Taare, sætter en Ære i overalt at tale med Haardhed og
             Foragt om Kvinden.</p>
           <p>Andre have lidt den Ulykke at elske, uden at elskes igjen; han lider den modsatte, at
             elskes, uden længere at elske. Saameget han bestræber sig for at vise ret megen Glæde
-            hvergang han seer Eleonore, gjennemskuer hun ham, og det kommer til en af disse
-            frygtelige Scener, af hvilke <pb n="130"/> Mme de Staël beredte Constant saamange, i
-            hvilken Eleonores stormfulde Sjæl giver sig Luft med en Bitterhed, som ligner Hadets.
-            Men Omgivelserne stræbe at tjerne Eleonore. Adolphes Fader vil ikke, at hans Søn skal
-            spilde sin Ungdom paa dette Forhold, og en simpel Ridderlighedsfølelse bringer da
-            Adolphe til at flygte med hende. De tilbringe nogen Tid i en blid Sindstilstand, som
-            ligner Kjærlighed. Eleonore bringer nye Ofre, som det er Adolphe en Pine at modtage.
-            Snart lider hun under det, ikke at blive elsket, som Adolphe under det, ikke at elske,
-            snart beruser hun sig saaledes i sin Kjærlighed, at hun seer den dobbelt og antager den
-            for begges. De leve begge som i en Slags Erindring om deres fordums Lykke, der er stærk
-            nok til, at Adskillelsen kan synes dem smertelig, ja utænkelig, men for svag til at
-            Samlivet kan være dem til nogen Glæde. De ømme, men dog matte Ord, med hvilke Adolphe nu
-            bevidner Eleonore sin Kjærlighed, ligne de tørre, farveløse Blade, som endnu ud paa
-            Vinteren kunne være bievne hængende paa en eller anden forlængst afbladet Gren.</p>
+            hvergang han seer <persName type="fictional">Eleonore</persName>, gjennemskuer hun ham,
+            og det kommer til en af disse frygtelige Scener, af hvilke <pb n="130"/>
+            <persName>Mme de Staël</persName> beredte <persName>Constant</persName> saamange, i
+            hvilken <persName type="fictional">Eleonores</persName> stormfulde Sjæl giver sig Luft
+            med en Bitterhed, som ligner Hadets. Men Omgivelserne stræbe at fjerne <persName
+              type="fictional">Eleonore</persName>. <persName type="fictional">Adolphes</persName>
+            Fader vil ikke, at hans Søn skal spilde sin Ungdom paa dette Forhold, og en simpel
+            Ridderlighedsfølelse bringer da <persName type="fictional">Adolphe</persName> til at
+            flygte med hende. De tilbringe nogen Tid i en blid Sindstilstand, som ligner Kjærlighed.
+              <persName type="fictional">Eleonore</persName> bringer nye Ofre, som det er <persName
+              type="fictional">Adolphe</persName> en Pine at modtage. Snart lider hun under det,
+            ikke at blive elsket, som <persName type="fictional">Adolphe</persName> under det, ikke
+            at elske, snart beruser hun sig saaledes i sin Kjærlighed, at hun seer den dobbelt og
+            antager den for begges. De leve begge som i en Slags Erindring om deres fordums Lykke,
+            der er stærk nok til, at Adskillelsen kan synes dem smertelig, ja utænkelig, men for
+            svag til at Samlivet kan være dem til nogen Glæde. De ømme, men dog matte Ord, med
+            hvilke <persName type="fictional">Adolphe</persName> nu bevidner <persName
+              type="fictional">Eleonore</persName> sin Kjærlighed, ligne de tørre, farveløse Blade,
+            som endnu ud paa Vinteren kunne være bievne hængende paa en eller anden forlængst
+            afbladet Gren.</p>
           <p>Saaledes gjør han ikke engang Den lykkelig, der gjør ham saa ulykkelig. Hvergang hun
             troer at have vundet nye Rettigheder, føler han sig lagt i nye Lænker. Hendes
             Lidenskabelighed gjør deres Samliv til et stadigt Uveir. Jeg husker disse Ord i en
