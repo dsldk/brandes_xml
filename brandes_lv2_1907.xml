@@ -24,8 +24,6 @@
    </teiHeader>
    <text>
       <body>
-         
-         <div>
             
 <p>GEORG BRANDES
 LEVNED </p>
@@ -48,8 +46,11 @@ NORDISK FORLAG
 KJØBENHAVN 1908 KRISTIANIA
 KJØBENHAVN - GRÆBES BOGTRYKKERI
 UDLÆNDIGHEDENS AFSLUTNING</p>
-
-<p><pb n="1" />.</p>
+<div>
+<pb n="1"/>
+<head>UDLÆNDIGHEDENS AFSLUTNING</head>
+<div>
+<head>1.</head>
 
 <p>Ingen, der er vant til at sysle med store Menneskers
 varige Værker og til at følge vældige historiske
@@ -97,8 +98,8 @@ i Hændelserne, vil han med andre Ord opfatte det
 Fortalte sindbilleligt, saa vil han kunne følge de
 skildrede Forhold uden at stødes ved Forholds-leddenes
 jævnlige Lidenhed.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>I Vinter- og Foraarsmaanederne 1881 var jeg optaget
 af Arbejdet med at oversætte Hovedstrømningers første
@@ -163,8 +164,8 @@ Moralen var i Orden. Den naive norske Selvtilfredshed,
 som i Henrik Ibsen havde en haardnakket Bekæmper,
 saa Kendetegnet paa et Grundsyns Sundhed deri, at
 det var lyst.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>Som sædvanligt i dette Tidsrum var jeg i stor
 Pengeforlegenhed - 8. Februar havde jeg fem Mark
@@ -214,8 +215,8 @@ naaede man til det polske over en Baggaard. Jeg
 overværede en Forestilling dér og kunde kun glæde
 mig ved en smuk, slank Skuespillerindes polske Ynde,
 da jeg ikke forstod noget af Sproget.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Der fulgte nogle Ugers selskabeligt Liv i Berlin;
 en morsom Aften med den franske Legationssekretær
@@ -229,8 +230,8 @@ Dagen som Feltherre. - Der gaves et Festmaaltid i den
 literære Klub, hvor jeg sad mellem Spielhagen og den
 berømte Sindssygelæge Professor Westphal og gjorde
 en Mængde Politikeres og Journalisters Bekendtskab.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>Det var min Agt at tage til Kjøbenhavn og der holde
 et Par Foredrag om Flaubert, som jeg i de Dage ivrigt</p>
@@ -284,8 +285,8 @@ Frankrig og Østerrig, med sin gode og sikre Smag, der
 har fornyet dansk Boghaandværk, og med sit heftige
 politiske Frisind vel egnet til Mellemmand mellem
 det skrivende og det malende Folk.</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>Da jeg ikke uden stærk Deltagelse i det selskabelige
 Liv kunde faa noget Udbytte af mit Ophold i Tyskland,
@@ -347,8 +348,8 @@ fastere paa Jorden.</p>
 <p>Vi kunde nu som før daarligt undvære hinandens
 Selskab; men vi havde ikke længere stort at sige
 hinanden. Efter hans Bortrejse saas vi aldrig mere.</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>I September Maaned ankom den norske Stortingspræsident
 Johan Sverdrup syg og nedbrudt fra Badet
@@ -473,8 +474,8 @@ Tid, hvor Sverdrup opholdt
 sig i Berlin, næsten ingen uden ham og hans. Da han
 rejste, sendte han mig et elskværdigt Kort med Tak for
 "den Trøst, som mine Besøg havde været ham."</p>
-
-<p><pb n="8" />.</p>
+</div><div>
+<head>8.</head>
 
 <p>I Slutningen af Oktober tog jeg til Kjøbenhavn for der
 at holde to Foredrag, et om Bjørnson, et om Ibsen. Der
@@ -560,8 +561,8 @@ stiftet. Det var de unge Mænd, som den 5. November
 <pb n="188" />1 udvandrede fra Studenterforeningen, der i det
 følgende Aar oprettede dette Forbund, der i Aarenes
 Løb har stiftet megen Gavn.</p>
-
-<p><pb n="9" />.</p>
+</div><div>
+<head>9.</head>
 
 <p>Fra Olaf Skavlan modtog jeg en Anmodning om ogsaa i
 Kristiania at tale om de to store norske Digtere, og
@@ -618,8 +619,8 @@ for uensartede til at han nogensinde ret kunde træffe
 mig; han har dog ikke ladet det skorte paa Umag;
 thi han har udført tre Malerier og adskilligt flere
 Tegninger af mig.</p>
-
-<p><pb n="10" />.</p>
+</div><div>
+<head>10.</head>
 
 <p>Snart var jeg igen i min Berlinske Kres. Den var i
 Oprør over min Bismarckartikel*). Det samme Omkvæd
@@ -649,8 +650,8 @@ Brødrene Goncourt og en større Afhandling om Schack
 Staffeldt, hvilken F. L. Liebenberg, hvem jeg ugerne
 negtede noget, havde bedet mig om til en ny Udgave
 af Staffeldts Digte.</p>
-
-<p><pb n="11" />.</p>
+</div><div>
+<head>11.</head>
 
 <p>I Midten af December modtog jeg fra Henrik Ibsen
 Gengangere, som satte mig i stærk Sindsbevægelse;
@@ -1090,8 +1091,8 @@ som laa bag Digtningen. Dog Ibsen trængte efterhaanden
 igennem i Tyskland som ingen moderne fremmed Digter
 før ham, og Gengangere, som hans øvrige Stykker,
 hører nu til det faste Repertoire.</p>
-
-<p><pb n="12" />.</p>
+</div><div>
+<head>12.</head>
 
 <p>Fra Kjøbenhavn blev jeg stadigt fra forskellige Sider
 underrettet om Øjeblikkets politiske Situation i
@@ -1172,8 +1173,8 @@ der røbede saa megen værdifuld Finhed, og ved sin
 men hans lyriske Digte og enkelte af hans Skuespil
 fortryllede mig. Digtene var dybt følte og teknisk
 fuldkomne.</p>
-
-<p><pb n="13" />.</p>
+</div><div>
+<head>13.</head>
 
 <p>Under nogle Maaneders roligt Liv i Berlin, som fulgte,
 havde jeg den Tilfredsstillelse at se mig gunstigt
@@ -1211,8 +1212,8 @@ Dr. Hoffory, der som sagkyndig vidnede om, hvor vel
 anskreven jeg var i Tyskland. Man vilde uafbrudt høre
 mig paany, og jeg maatte foruden mit Foredrag holde
 ikke mindre end otte Taler.</p>
-
-<p><pb n="14" />.</p>
+</div><div>
+<head>14.</head>
 
 <p>Foraar og Forsommer tilbragte jeg i Berlin med
 Nedskrivning af Korrespondancer, med nøjere
@@ -1329,8 +1330,9 @@ Lovgivning ikke i dens Hensynsløshed plyndret mig.</p>
 Danmark, saa havde jeg med al skyldig Tak givet
 et afslaaende Svar. Jeg var ikke skarpsynet nok
 dertil. Af mine Venner var derimod baade Paul Heyse og
-Henrik Ibsen det; men jeg raadførte mig ikke med dem.
-<pb n="15" />.</p>
+Henrik Ibsen det; men jeg raadførte mig ikke med dem.</p>
+</div><div>
+<head>15.</head>
 
 <p>En Uges Tid efter Modtagelsen af Tilbuddet afsendte
 jeg mit Svarbrev. Det havde følgende Ordlyd:</p>
@@ -1606,8 +1608,8 @@ ungdommelig Entusiasme, Edouard Rod analyserede og
 roste mig med Varme i Bladet Le Parlament. Kun i
 Kjøbenhavn, hvortil jeg vilde vende tilbage, lød
 uforandret den vante Melodi.</p>
-
-<p><pb n="16" />.</p>
+</div><div>
+<head>16.</head>
 
 <p><pb n="8" />. August havde Pastor Mørk-Hansen i Nationaltidende
 en Artikel paa fire, fem Spalter, hvori det for
@@ -1746,8 +1748,8 @@ Partinavne. Men hvilket Vemod i denne Sondring! En
 Haandfuld særligt patriotiske Købstadborgere og
 Landboere var skønt Danske ikke Evropæere, men af en
 finere Art!</p>
-
-<p><pb n="17" />.</p>
+</div><div>
+<head>17.</head>
 
 <p>Sammen med Alexander Kielland  foretog jeg i August en Tur 
 ned til J. P.Jacobsen, som tilbragte Sommermaanederne</p>
@@ -1773,8 +1775,8 @@ Oprettelse at gøre.</p>
 næsten daglig ham, Hørup, Schandorph, J. P. Jacobsen,
 saa desuden meget ofte Hempel, Zahrtmann og Krohn. En
 Efteraarsdag vendte jeg tilbage til Berlin.</p>
-
-<p><pb n="18" />.</p>
+</div><div>
+<head>18.</head>
 
 <p>Det blev et meget arbejdsomt Efteraar. Jeg nedskrev
 femte Bind af Hovedstrømninger og rettede det paa
@@ -1827,8 +1829,9 @@ Kunst, at jeg blev helt bevæget ved Modtagelsen. Der
 veksledes derefter nogle Breve.</p>
 
 <p>Frk. Andersen var en af de mange, hvem Høedt havde
-fremmet med Raad og Daad.
-<pb n="19" />.</p>
+fremmet med Raad og Daad.</p>
+</div><div>
+<head>19.</head>
 
 <p>Det Efteraar lærte jeg i Berlin Fru Fanny Ephrussi
 at kende, en Dame, hvem jeg kom til at skylde min
@@ -1845,8 +1848,8 @@ blev i høj Grad udmærket af den daværende tyske
 Kronprinsesse, senere Kejserinde Friedrich; hun besaa
 under sit Besøg i Paris i hans Selskab Kunstværker
 og Monumenter.</p>
-
-<p><pb n="20" />.</p>
+</div><div>
+<head>20.</head>
 
 <p>I Efteraaret 1882 begyndte Holger Drachmanns
 letbevægelige Sind at trættes ved den mangeaarige
@@ -1962,8 +1965,8 @@ hin forandrede Holdning, men et Omslag i Følelses-
 og Viljes-Livet. Han afslog enhver Forsoning og
 nærmede sig bestandig mere Modpartiet. Han deltog i
 Højrepartiets Fester og skrev en Sang til Estrup.</p>
-
-<p><pb n="21" />.</p>
+</div><div>
+<head>21.</head>
 
 <p>Med lidenskabelig Iver førte jeg Arbejdet paa Den
 romantiske Skole i Frankrig til Ende. Og saasnart
@@ -1995,8 +1998,8 @@ Hus, som om faa Uger, snart om faa Dage, skulde
 forlades. Smertelig var Adskillelsen fra enkelte
 Venner som Simson og Klinger, fra Familier som
 Bernsteins, Siemerings eller Loewes.</p>
-
-<p><pb n="22" />.</p>
+</div><div>
+<head>22.</head>
 
 <p>Fra to Sider havde man taget den Beslutning ikke at
 lade mig rejse uden at sige mig Farvel. Der dannedes
@@ -2372,10 +2375,11 @@ stemningsrig Aften, under hvilken jeg havde en vemodig
 Følelse ved Tanken om at det var sidste Gang, jeg saa
 nogen i mit Hus i Berlin. Et Livsafsnit var til Ende.</p>
 
-<p>Anden Dagen derefter rejste jeg til Kjøbenhavn.
-NY BEGYNDELSE I KJØBENHAVN</p>
-
-<p><pb n="1" />.</p>
+<p>Anden Dagen derefter rejste jeg til Kjøbenhavn.</p>
+</div></div><div>
+<head>NY BEGYNDELSE I KJØBENHAVN</head>
+<div>
+<head>1.</head>
 
 <p>Idet jeg nu betragtede Byen Kjøbenhavn som mit
 tilkommende Opholdssted, saa jeg paa den med friske
@@ -2487,8 +2491,8 @@ ellers vilde den
 nuværende Regering ikke holde sig, men man kunde dog
 tiltro den studerende Ungdom menneskeligt Skøn og
 politisk Skelne-Evne.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>Straks Dagen efter min Ankomst var jeg begyndt at
 forberede mig til Forelæsninger om Det unge Tyskland,
@@ -2611,8 +2615,8 @@ frygteligt og var elendigt mat.</p>
 <p>Fra Hegel fik jeg Opfordring til at udarbejde et
 Festskrift om Holberg til Tohundredaarsfesten det
 næste Aar.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>Jeg afbrød mine Forelæsninger for at gøre et kort
 Besøg i Tyskland, hvor jeg havde lovet at tale nogle
@@ -2655,8 +2659,8 @@ som rundt om i de store Kulturlande. Derimod
 fejrede Juristerne en Uge derefter den danske Lovs
 tohundredaarige Bestaaen. Den bar stærkere Mærker af
 Forældethed end Raffaels dobbelt saa gamle Kunst.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Jeg vendte tilbage til Kjøbenhavn og optog mine
 Forelæsninger paany, medens ved Haandværkernes
@@ -2727,8 +2731,8 @@ mellem de Danske og Sachserne, virkede besynderligt
 sammen med en evindelig, vemodig Pukken i disse Sange
 paa Forfædrenes Storhed og en Fremhæven af, at den
 vel nu var forbi; men dog osv.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>I den sidste Halvdel af August besøgte jeg Skagen. 
 Der var da endnu ikke Jernbane mellem Frederikshavn 
@@ -2786,8 +2790,8 @@ et firskaarent Legeme. Han var mig oprigtigt hengiven,
 om han end senere, da min Sag kom for i den danske
 Rigsdag, af Partihensyn ikke vovede at give mig sin
 Stemme.</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>At mine tyske Venner ikke havde glemt mig, viste
 sig, da Arthur Fitger tilegnede mig sit Drama Von
@@ -2820,8 +2824,8 @@ nok skulde efter Sædvane Stemningen vende sig.</p>
 <p>Jeg holdt stadigt under samme Tilløb mine Forelæsninger 
 om Det unge Tyskland, skrev desuden og gav i Trykken den 
 Række Essays, der fik Navnet Det moderne Gennembruds Mænd.</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>I Anledning af Grundtvigs Hundredaarsdag blev der i
 Studentersamfundet afholdt en Festlighed med Taler
@@ -2848,8 +2852,8 @@ Meningsfælle, Svend Høgsbro, udtalte sig i samme
 Retning, og jeg imødegik dem begge. Fremtiden viste,
 at deres Selvtillid var grundløs; men de glemte ikke,
 at jeg havde næret levende Mistro til deres Politik.</p>
-
-<p><pb n="8" />.</p>
+</div><div>
+<head>8.</head>
 
 <p>Blandt det Efteraars Begivenheder maa jeg nævne
 at Niels W. Gade en Dag standsede mig paa Gaden,
@@ -2885,10 +2889,10 @@ ladet hende komme oftere. Senere indsaa jeg, at om
 de Sorger, der drev hende i Døden, havde hun ikke
 villet tale med mig, og at jeg over dem ikke havde
 nogen Magt.</p>
-
-<p>ALMINDELIGT FRAFALD</p>
-
-<p><pb n="1" />.</p>
+</div></div><div>
+<head>ALMINDELIGT FRAFALD</head>
+<div>
+<head>1.</head>
 
 <p>I Begyndelsen af December 1883 erfores det med
 nogen Uro, at Bergs Holdning i Morgenbladets
@@ -2989,8 +2993,8 @@ forelagde desuden Sagen om Morgenbladet i et privat
 Partimøde og sendte Deputation til Hørup med Anmodning
 om ikke at grunde et nyt Blad. Det gamle turde han
 for sine Vælgere ikke sælge til "Fritænkere".</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>Et mægtigt Spektakel imod mig i Pressen foranledigedes
 samtidigt af mit ærligt mente Svar paa et Angreb
@@ -3068,8 +3072,9 @@ sagde overfor ethvert nyt Fænomen som Uffe hin Spage,
 da man bragte ham det sidste Sværd, efter at han havde
 prøvet alle de andre og de var sprungne: "Det Sværd
 vil jeg lade uprøvet" - et dybt og filosofisk Ord, som
-viser, at Uffe var langt klogere end han gjaldt for.
-<pb n="3" />.</p>
+viser, at Uffe var langt klogere end han gjaldt for.</p>
+</div><div>
+<head>3.</head>
 
 <p>Hvad der var sket, lod sig uden Vanskelighed
 psykologisk forklare. Berg havde følt sig overset
@@ -3154,8 +3159,8 @@ fra Taine have taget to Anekdoter om Balzac. Ordlyden
 viste bedst, at jeg havde dem fra en anden Kilde;
 men slige Usselheder var endnu og en halv Snes Aar
 senere god Taktik imod mig.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Imedens var jeg sysselsat med Forstudierne til min
 Bog om Holberg, til hvilke Universitetsbibliotekets
@@ -3234,8 +3239,8 @@ Omslag. Drachmann kan umuligt have forstaaet, hvor
 nær Wiese tog sig hans Brud med sin Fortid, siden han
 har kunnet skildre ham saa overlegent humoristisk som
 "Skyggen" i Forskrevet.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>Paa dette Tidspunkt lærte jeg en Del yngre Forfattere
 personligt at kende, med hvem jeg i Aarenes Løb
@@ -3287,8 +3292,8 @@ min Forbindelse med det danske Kongehus sig.</p>
 <p>I Maj Maaned blev de Herrer Rosenberg og Paludan
 ansatte ved Universitetet i Kjøbenhavn som Docenter
 i dansk Literaturhistorie.</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>Den 5. Juni 1884, paa Grundlovsdagen, kom
 jeg tilfældigvis tilstede ved Slutningen af
@@ -3352,8 +3357,8 @@ egenlig var "Højremand".</p>
 anonym Smædeartikel imod mig. Schandorph besvarede
 den med et heftigt Angreb paa Godske-Nielsen, i hvem
 han formodede Ophavsmanden.</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p><pb n="25" />. Juni bragte den første store Valgsejr for
 Venstre i Kjøbenhavn og samtidigt Meddelelse om
@@ -3428,8 +3433,9 @@ for sidste Gang sammen med ham hos mine Forældre og
 ledsagede ham efter Maaltidet til hans Dør. 10. Juli
 sagde jeg ham Farvel i hans Bopæl, det uanselige
 Værelse i Ny Adelgade. Samme Dag forlod han for
-bestandig Kjøbenhavn.
-<pb n="8" />.</p>
+bestandig Kjøbenhavn.</p>
+</div><div>
+<head>8.</head>
 
 <p>Den til Conseilpræsident nysudnævnte Sverdrup
 besøgte Kjøbenhavn. Lige efter Ankomsten gik han
@@ -3578,8 +3584,8 @@ havde dannet mig en meget forskellig Forestilling om
 Sverdrups Aandsretning. Nu begreb jeg ikke, med hvad
 Ret han havde kaldt Søren Kierkegaard "en hysterisk
 Personlighed".</p>
-
-<p><pb n="9" />.</p>
+</div><div>
+<head>9.</head>
 
 <p>Den Sommer nød jeg intet andet Landliv end et
 kort Ophold paa den mig saa kære Ø Møen, hvor jeg
@@ -3645,10 +3651,10 @@ til at skabe sig. Min egen Stemning i dette Efteraar
 kom til Orde i sidste Afsnit af mit Festskrift, der
 i Skildringen af Holbergs Samtid giver en vis Lede
 ved Menneskene Luft.</p>
-
-<p>STOR FOREDRAGSREJSE</p>
-
-<p><pb n="1" />.</p>
+</div></div><div>
+<head>STOR FOREDRAGSREJSE</head>
+<div>
+<head>1.</head>
 
 <p>Aaret 1885 begyndte jeg med den største
 Foredragsrejse, jeg endnu havde paataget mig. En hel
@@ -3807,8 +3813,8 @@ Rod var virksom, og talrige Indbydelser til at tale
 i tyske Byer, i større som Leipzig og Posen, i smaa
 som det interessante Gosslar; men jeg havde allerede
 bundet mig tilstrækkeligt.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>Straks efter min Ankomst til Wien kom to af de Herrer,
 der havde indbudt mig, og sagde, at Tilstrømningen
@@ -3902,9 +3908,7 @@ Album, hvori man bad mig skrive. Neppe havde jeg faaet
 ham af Sted og haabede at kunne sove ud, saa bankede
 en med en Vifte og en Indbydelse. Og saaledes gik det
 den hele Formiddag. Mit Bord laa fuldt af Aviser, der
-bragte mig dette for mig temmelig Uvante, Lovtaler*).</p>
-
-<p>*) Wiener Allgemeine talte om, hvor længe jeg
+bragte mig dette for mig temmelig Uvante, Lovtaler<note><p><emph>Wiener Allgemeine</emph> talte om, hvor længe jeg
 havde holdt mig i Afstand fra Tyskland (Wir denken
 ihn uns so, dass er mit der einen Hand nach dem
 deutschen Lorbeer griff, mit der andern abwehrte)
@@ -3915,29 +3919,9 @@ det havde alle Fortrin: umfassendes Wissen, graziose
 Darstellung, feine Ironie, schlagende Vergleiche,
 überzeugende Beredsamkeit.</p>
 
-<p>Neue freie Presse karakteriserede det endnu
+<p><emph>Neue freie Presse</emph> karakteriserede det endnu
 udførligere og med kærlig Indgaaen paa Foredragets
-Art: Lautlose Stille herrschte, während
-<pb n="3" />.</p>
-
-<p>I Artiklerne var der undertiden figurligt Tale om
-Laurbær. Som alle havde jeg i min tidlige Ungdom drømt
-om dem, imidlertid forlængst opgivet at tænke paa
-dem i Forbindelse med min Person uden som dekorativt
-Kryderi om Boeuf å la mode. Her i Wien fik jeg min
-første Laurbærkrans.</p>
-
-<p>Det gik saaledes til: Straks ved Gildet efter mit
-første Foredrag nærmede en gammel Dame sig til mig,
-fornem og djærv med et lille Overskæg, og aflokkede
-mig, før jeg kunde hitte paa en Udvej, et Ja til en
-Indbydelse i hendes Hjem en følgende Middag. Det blev
-et ærværdigt Selskab, strengt i sin Holdning. Ikke ét
-kvindelig Væsen var indbudt, men en udsøgt Samling
-af Wiens berømteste, lærdeste, ældste Mænd: Der var
-den første Kemiker, den første</p>
-
-<p>------
+Art: Lautlose Stille herrschte, während 
 B. diese schimmernde Perlenschnur geistreicher
 Wendungen und Antithesen vor dem Auditorium
 aufrollte. Keine der zahllosen Pointen in dem
@@ -3956,7 +3940,7 @@ Wider sich verwebt. Als er geendet hatte, ausserte
 sich der Dank der Zuhörer fur den auserlesenen Genuss
 in langanhaltendem Applaus.</p>
 
-<p>Frankfurter Beobachter skrev: G. B. ist so reich an
+<p><emph>Frankfurter Beobachter</emph> skrev: G. B. ist so reich an
 Geist, dass er formlich iibersprudelt, und wenn man
 einmal ein Faar Stunden mit ihm zusammen gewesen ist,
 bedauert man nur, dass kein Stenograph dabei war um
@@ -3965,7 +3949,26 @@ dem Gedachtniss manches gute und treffende Wort von
 ihm erzahlen, das sicherlich allgemein interessiren
 wiirde, wåren wir nicht durch eine gewisse Riicksicht
 davon abgehalten. B. nennt Alles so riickhaltlos und
-unverhullt beim richtigen Namen.</p>
+unverhullt beim richtigen Namen.</p></note>.</p>
+</div><div>
+<head>3.</head>
+
+<p>I Artiklerne var der undertiden figurligt Tale om
+Laurbær. Som alle havde jeg i min tidlige Ungdom drømt
+om dem, imidlertid forlængst opgivet at tænke paa
+dem i Forbindelse med min Person uden som dekorativt
+Kryderi om Boeuf å la mode. Her i Wien fik jeg min
+første Laurbærkrans.</p>
+
+<p>Det gik saaledes til: Straks ved Gildet efter mit
+første Foredrag nærmede en gammel Dame sig til mig,
+fornem og djærv med et lille Overskæg, og aflokkede
+mig, før jeg kunde hitte paa en Udvej, et Ja til en
+Indbydelse i hendes Hjem en følgende Middag. Det blev
+et ærværdigt Selskab, strengt i sin Holdning. Ikke ét
+kvindelig Væsen var indbudt, men en udsøgt Samling
+af Wiens berømteste, lærdeste, ældste Mænd: Der var
+den første Kemiker, den første</p>
 
 <p>Arkivar og saa videre, Mænd, hvis Navn jeg tidt havde
 hørt, men af hvem jeg aldrig havde læst en Linje.</p>
@@ -4032,8 +4035,8 @@ i deres Eksistens. Jeg kunde ikke lade være til
 Sammenligning at mindes de Par lykkelige Øjeblikke,
 jeg havde havt i mit Liv, de faa Øjeblikke af heftig,
 næsten dræbende Fryd; de lignede visselig ikke disse.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Alligevel havde jeg et aandeligt Udbytte af mit Ophold
 i Wien.</p>
@@ -4091,8 +4094,8 @@ Hr. Skuespiller Elith Reumert ønsker at tale med
 Doktoren. - Lewinsky tog sig ud som Richard III;
 men som Skuespiller Lewinsky var han kun en velklædt
 Kunstner, der holdt sig smukt.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>Flygtigt saa jeg i Wien mangen en
 Verdensmandsskikkelse, der gjorde Indtryk, saaledes
@@ -4126,8 +4129,8 @@ i Danmark, ogsaa den da projekterede Selvbeskatning
 til Fordel for Kjøbenhavns Befæstning. Hvor ser man
 Sligt! sagde han. - Han vidste ikke, at Sligt var
 sket andre Steder med bedre Held.</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>Et Wiener-Bekendtskab, der voldte mig Glæde, var
 det med Digteren Moritz Hartmanns Enke, en smuk,
@@ -4171,8 +4174,8 @@ det allerførste Billede gjort, som jeg saa af ham,
 et af hans tidligste fra Tredsernes Begyndelse, en
 Alfedronning i den Raczynski'ske Samling i Berlin,
 der nu er indlemmet i Nationalgalleriet.</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>Det Hus i Wien, i hvilket jeg da som sidenhen følte
 mig bedst tilpas og som forekom mig et aandeligt
@@ -4196,8 +4199,8 @@ Wertheimstein. Ogsaa betydelige
 Musikere som Virtuosen og Komponisten Feruccio Busoni
 og kloge Politikere som den senere Finansminister
 Steinbaeh traf jeg der i Huset.</p>
-
-<p><pb n="8" />.</p>
+</div><div>
+<head>8.</head>
 
 <p>Drachmann boede dengang i Baden ved Wien, men havde
 fuldstændig brudt med mig, saa jeg saa' intet til
@@ -4332,8 +4335,8 @@ gammel Overlevering saa det uretfærdigt undertrykte
 Martyrfolk og Frihedens Riddervagt i Europa. Og det
 havde glædet mig at erfare, hvor kendt og yndet jeg
 i dette Folk var.</p>
-
-<p><pb n="9" />.</p>
+</div><div>
+<head>9.</head>
 
 <p>Efter Dags og Nats Rejse kom jeg om Morgenen den 4. 
 Februar 1885 for første Gang til Varshav. Benni modtog
@@ -4378,8 +4381,8 @@ at mine Bøger havde strygende Afsætning og at ingen
 fremmed Forfatter læstes som jeg, saa følte jeg med
 Naturnødvendighed mit Væsen potenseret, og en sværmerisk 
 Kærlighed til Polen og Polakkerne fyldte mit Sind.</p>
-
-<p><pb n="10" />.</p>
+</div><div>
+<head>10.</head>
 
 <p>Dette Polen, som jeg anede mere end jeg kendte det,
 traadte mig afvekslende for Øje i mange Former. Daglig
@@ -4433,8 +4436,8 @@ Dag ind optaget af Tanken paa Polen, mens han som
 fremragende Læge røgtede sin Gerning. Han havde det
 stadigt aarvaagne Fædrelandssind, som kræves af en
 Minister.</p>
-
-<p><pb n="11" />.</p>
+</div><div>
+<head>11.</head>
 
 <p>Dog den, som for mig i hine Dage blev som en
 Personliggørelse af det ideale, heroiske Polen,
@@ -4474,8 +4477,8 @@ hvortil vi trænger, udslynger (saa vi møder det
 udenfor os) det, der var i os selv som Behov, som
 ubevidst Vilje, som netop da gennembrydende Tendens
 i vort Indre.</p>
-
-<p><pb n="12" />.</p>
+</div><div>
+<head>12.</head>
 
 <p>Der havde hidtil været to af hinanden tilsyneladende
 uafhængige Grundstrømninger i mit Sind, først den
@@ -4520,8 +4523,8 @@ af Tankens Krav kun lod sig forsvare som nødtvungen
 Opsættelse, og jeg var endda ikke sikker paa, om den,
 endog som rent foreløbig, var af det Gode. Nu tvivler
 jeg derom.</p>
-
-<p><pb n="13" />.</p>
+</div><div>
+<head>13.</head>
 
 <p>Blandt Personligheder, hvis varige Bekendtskab jeg
 i de Dage gjorde, maa jeg nævne Digteren Maryan
@@ -4581,8 +4584,8 @@ Grevinde Walewskas Broder, Grev Przedziecki, hvor
 man roste min "gode Syntaks" i det franske Sprog,
 formodentlig fordi Udtalen lod et og andet tilbage
 at ønske.</p>
-
-<p><pb n="14" />.</p>
+</div><div>
+<head>14.</head>
 
 <p>Jeg havde faaet Tilladelse til at holde tre
 Foredrag paa Fransk om fransk Literatur. Af Æmnerne
@@ -4665,8 +4668,8 @@ for denne By og dette Folk var vakt i mit Sind,
 som aldrig er blevet slukt, og en Mængde nye Tanker,
 nationalt politiske og nationalt sociale, var satte
 i Bevægelse hos mig.</p>
-
-<p><pb n="15" />.</p>
+</div><div>
+<head>15.</head>
 
 <p>Koscielski og jeg rejste i Forening fra Varshav til
 Berlin, hvor jeg faa Dage derefter skulde tale for
@@ -4703,10 +4706,10 @@ ved hvilken ogsaa Koscielski var tilstede, og hvor
 en slank og smuk Berlinerinde, hvem jeg aldrig har
 genset, for den enkelte Aften betog mig ved indtagende
 Ynde. Dagen derefter var jeg i Kjøbenhavn.</p>
-
-<p>DANSK POLITIK OG AANDSLIV</p>
-
-<p><pb n="1" />.</p>
+</div></div><div>
+<head>DANSK POLITIK OG AANDSLIV</head>
+<div>
+<head>1.</head>
 
 <p>Jeg ankom paa et politisk bevæget Tidspunkt. Den
 <pb n="1" />. April 1885 sprængtes den danske Forfatning for
@@ -4994,8 +4997,8 @@ imidlertid sat mere ind paa at hævde sin Værdighed,
 saa havde Sejren, da den blev vundet, betydet en
 Stigen i Kultur, medens den nu blev kulturelt aldeles
 betydningsløs.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>Foraaret bragte to store Digteres Død, Victor Hugos og
 J. P. Jacobsens. Den førstes rørte mig. Den sidstes gik
@@ -5095,8 +5098,8 @@ næste Tusind.</p>
 <p>Da den 1. Juli Bladet for første Gang gik en Smule tilbage, 
 var det mig som hørte jeg Dødsklokkerne kime for de 
 Personligheder og de Formaal, som laa mig paa Hjerte.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>Af hele mit Sind deltog jeg i det danske Venstres
 Kamp mod den Estrupske Regering, der kun holdt sig
@@ -5110,8 +5113,8 @@ de givne Forhold var det bedste Middel til, at
 de, som duede dertil, kom til Magten. Kunde dette
 opnaaes ad en sikrere Vej, saa var denne anden Vej
 at foretrække.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>Adskillige Fremmede besøgte mig. Henrik Ibsen ankom
 en Dag, træt, tung, bitter overfor al Politik og alle
@@ -5236,10 +5239,10 @@ forgæves. Ikke længe derefter ankom hun, insinuerede
 sig, blev en Tid lang min Oversætterinde, slog saa om
 og forfulgte mig under Navnet Laura Marholm i Aarevis
 i tyske Tidsskrifter og Blade med sit Had.</p>
-
-<p>SOMMERFERIE OG EFTERAARSKAMPE</p>
-
-<p><pb n="1" />.</p>
+</div></div><div>
+<head>SOMMERFERIE OG EFTERAARSKAMPE</head>
+<div>
+<head>1.</head>
 
 <p>Dette var et Foraar, hvor mit Nervesystem af
 forskellige Aarsager var i en elendig Tilstand, saa
@@ -5400,8 +5403,8 @@ i September samme Aar tilfældigvis til som sidste
 Mand at afslutte dette Ugeskrift med en Artikel
 om Mona Lisa, som det var en sand Nydelse at læse;
 saa fyldigt og stemningsrigt var dens Sprog.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>I Dresden gensaa jeg Galleriet med Georg Treu. Jeg
 traf ham i høj Grad slaaet af det Faktum, at Grækerne
@@ -5493,8 +5496,8 @@ fortvivlede Indfald at forgylde dem helt og holdent -
 hvorved al deres Skønhed er gaaet tabt. Lyset bryder
 sig paa den urimeligste Maade mod de forgyldte Flader,
 og det hele ser ligesaa livløst som fordringsfuldt ud.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>Fra Dresden gik jeg paa en Dag til Karlsbad for at hilse 
 paa min Værtinde fra Varshav, Fru Brzcezinska. Saaledes</p>
@@ -5531,8 +5534,8 @@ der forherliger et Kunstværk, som altid har været mig
 lidenskabelig kært, en berømt, dejligt konstrueret
 Lampe fra Pompeji. Senere læste jeg med Udbytte hans
 Lucrezia Borgia.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Før og efter jeg tog til St. Moritz, opholdt jeg mig
 nogen Tid i Meggen som Gæst hos Familien Ephrussi, der
@@ -5623,8 +5626,8 @@ svarte jeg. - Nej, nu anser De mig alligevel for mere
 lettroende end jeg er, udbrød han. At det Bjerg ikke
 er Rigi, det véd jeg. Men dets Navn kender jeg ikke. -
 Det var nu Rigi alligevel.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>Legemligt svag og aandeligt syg kørte jeg i Diligence
 fra Chur op til St. Moritz. En ung tysk Officer, en
@@ -5748,8 +5751,8 @@ dem kohlschwarzen Bart und Haar deuten eher auf
 südländische als auf nordische Herkunft . . . sein
 Organ ist dünn, hochliegend und von merkwiirdig
 durchdringendem Klange.</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>Det første Arbejd, der i Kjøbenhavn paalaa mig,
 var grundig Omarbejdelse af Hovedstrømningers Bind
@@ -5860,8 +5863,8 @@ B. den zweiten Abschnitt seiner Lern- und Lehrzeit
 verbracht. Moltke war sein Nachbar. Der berühmte
 Feldherr stammt ebenfalls aus Danemark und ist mit
 Deutschland gross geworden.</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>Dansk Politik sysselsatte mig som alt berørt i det
 Aar meget. Jeg skrev paany adskillige politiske
@@ -5903,8 +5906,8 @@ Redaktionen finder jeg denne Artighed: Votre article
 au dire de tout le monde est l'ornement de la
 collection. Tous les "spécialistes" de Mickiewicz
 baissent la tête devant leur maître étranger.</p>
-
-<p><pb n="8" />.</p>
+</div><div>
+<head>8.</head>
 
 <p>Jeg havde i min Artikel om Luther ikke blot skaanet
 min anonyme Angriber i Tilskueren, men behandlet
@@ -5965,8 +5968,8 @@ Visitkort, paa hvilke under Navnet stod:</p>
 
 <p>Tilbage stod nu kun den Vanskelighed at faa disse
 Papirer anerkendte.</p>
-
-<p><pb n="9" />.</p>
+</div><div>
+<head>9.</head>
 
 <p>August Lindberg indfandt sig i Kjøbenhavn med en 
 fortræffelig Trup og spillede Gengangere, som
@@ -6017,8 +6020,8 @@ ja hele det nordiske Aandsliv da blev halshugget med
 det samme. Derfor lad os ønske at han maa vedblive
 at leve som det han er: den store Trusel og den store
 Velgører i Norden.</p>
-
-<p><pb n="10" />.</p>
+</div><div>
+<head>10.</head>
 
 <p>I September Maaned var Grev og Grevinde Snoilsky komne 
 til Kjøbenhavn paa Gennemrejse til Stockholm, hvortil de 
@@ -6084,8 +6087,8 @@ følgende Aar Titelrollen i Odette. Senere bragte jeg
 hende i Forbindelse med min Ven Josef Kainz, og hun
 spillede med ham paa tyske Scener. Marie Seebach havde
 tidligt lært hende Beherskelse af det tyske Sprog.</p>
-
-<p><pb n="11" />.</p>
+</div><div>
+<head>11.</head>
 
 <p>Det Efteraar var et af de ulykkeligste Afsnit i mit
 Liv. Det Had, der efterhaanden havde samlet sig i
@@ -6135,8 +6138,9 @@ bar mangfoldige Mærker af Ild. Han steg op og saa
 ned i Sarkofagen. Der laa halv forkullet og sort,
 men endnu kendeligt, Liget af den Mand, hvis Aand
 han havde sat mest Pris paa af alle samtidiges i
-Danmark. Han vilde skrige, og vaagnede.
-<pb n="12" />.</p>
+Danmark. Han vilde skrige, og vaagnede.</p>
+</div><div>
+<head>12.</head>
 
 <p>Da jeg heftigt længtes bort, var det mig vel tilpas,
 at man fra Varshav længe ivrigt havde opfordret mig
@@ -6198,10 +6202,10 @@ at hvidne, og jeg føler ligedan. Dengang havde jeg
 større Hang til at lyde og tjene et Geni end til selv
 at raade. Det sidste kom med Modenheden. Der gives kun
 ét afgørende paa Jorden: Vilje, ledet af Intelligens."</p>
-
-<p>ANDET OPHOLD I POLEN</p>
-
-<p><pb n="1" />.</p>
+</div></div><div>
+<head>ANDET OPHOLD I POLEN</head>
+<div>
+<head>1.</head>
 
 <p>Det meste af Januar 1886 gik tabt for mig under stærke
 Feberanfald med fortsat Søvnløshed. I Maanedens
@@ -6240,8 +6244,8 @@ Varshav. Kan jeg være Dem til nogen Nytte? underrette
 Deres Venner telegrafisk?" - Imidlertid havde nogle
 underordnede aabnet min Kuffert og vilde udtage Alt;
 men han sagde paa Russisk: Ingen Undersøgelse!</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>Mine Værtsfolk modtog mig paa Banegaarden i
 Varshav. Den gamle Tjener kyssede heftigt mine
@@ -6336,8 +6340,8 @@ August den Stærke og Fru Orszelska, tilligemed hans
 dejlige Samling af Guld- og Sølvmors-Silkeskærf,
 over hvilke jeg drømte mig tilbage til de Tider,
 da de bares til broderede Dragter.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>Ikke faa var de Kvinder, som gjorde Indtryk paa mig
 ved Originalitet eller Skønhed. Der var den smukke,
@@ -6418,8 +6422,8 @@ hendes Fader, Teaterpræsidenten Godecki, havde brugt
 Ordene ikke elsket. (Han havde hos Russerne gjort
 Afbøn for sin Søns Heltemod og derved forskertset
 sin Agtelse i de Indfødtes Krese.)</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Det var nødvendigt at nævne nogle Enkeltheder for ikke at 
 svæve i det Almindelige. Men disse Enkeltheder giver ingen 
@@ -6505,8 +6509,8 @@ sig i det lille Rum, og jeg for min Del følte, alt
 som Nerverne ud paa Natten overspændtes, under den
 lette Anstrengelse Glimt af en mig ganske ny Art
 aandig Lykke.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>De Gange jeg i Slutningen af Marts 1886 talte i
 Raadhussalen i Varshav, staar endnu for mig som nogle
@@ -6573,8 +6577,9 @@ Europa, hvor haardhændede og despotiske de var. Hvad
 jeg i hine Timer i Varshavs Raadhussal ydede, blev
 tifold givet mig tilbage i den elektriske Strøm,
 som først fra Salen, senere fra den polske Presse
-slog mig imøde og betog mig.
-<pb n="6" />.</p>
+slog mig imøde og betog mig.</p>
+</div><div>
+<head>6.</head>
 
 <p>Foredragene blev iøvrigt meget omtalte ogsaa i de
 russiske Aviser. Langt fra at misstemme frisindede
@@ -6634,10 +6639,11 @@ romanske Aand, derefter den germanske, nu aabnede
 det sidste europæiske Mysterium, den slaviske Sjæl,
 mig sine Dybder.</p>
 
-<p>Og denne Verden var et Amerika for mig.
-FORHOLD TIL UDLAND OG INDLAND I 1886</p>
-
-<p><pb n="1" />.</p>
+<p>Og denne Verden var et Amerika for mig.</p>
+</div></div><div>
+<head>FORHOLD TIL UDLAND OG INDLAND I 1886</head>
+<div>
+<head>1.</head>
 
 <p>I Kjøbenhavn ventede en stor Masse Arbejd paa mig,
 Omarbejdelsen af flere Bind Hovedstrømninger paa
@@ -6715,8 +6721,8 @@ mig med gentagne Hurraraab. De unge Piger sagde med
 stille Velopdragenhed, da jeg blottede mit Hoved:
 "Det er nok Dem og ikke os, hvem man modtager". -
 Jeg havde undt dem, at det var dem.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>Johan Sverdrup var den første, hvem jeg besøgte. 
 Han førte en lang politisk Samtale med mig, hvis
@@ -6918,8 +6924,8 @@ Foredrag."</p>
 
 <p>Som man ser, blev en Del af den dansk-norske Presse
 sig stadigt lig i sin Holdning overfor mig.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>I den senere Tid havde Trængslen paa Universitetet
 været saa stærk, at Publikum led derunder, selv naar
@@ -7019,8 +7025,8 @@ afskyeligt.</p>
 Axel Lundegård og Ola Hansson, hvem jeg straks indbød
 til Frokost og senere stadigt modtog, hvad jeg fik
 Anledning til grundigt at fortryde.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Den forfærdelige Tidsspilde, som Plagerierne fra Omverdenen, 
 en Post, der allerede da naaede til en  Snes Breve om Dagen, 
@@ -7139,8 +7145,8 @@ Journalister fra Konstantinopel, som da dagligt tog
 min Tid, og paa Kuriositeter som Dr. Chaillu, der
 havde bragt den første Gorilla til Europa og havde
 bevaret et Genskin af Menneskeaben over sin Person.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>Tre Aar forinden havde Hørup en Dag, da han gik
 med mig ned ad Holmens Kanal og i Anledning af
@@ -7244,8 +7250,8 @@ vedblev jeg at afgive stadig Næring for den
 kjøbenhavnske saakaldte Vittighedspresse. Snart
 figurerede jeg i de Dage i den som Pjerrot, der æder
 Blaar, snart som Præst ved Dagsavisens Begravelse.</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>Det havde nu i vel tre Aar i Danmark været Skik,
 at saasnart jeg satte Pen til Papiret, fremtraadte
@@ -7339,8 +7345,8 @@ sammen. Hvad foregaar der? spurgte Kongen. Der
 sladres, Deres Naade! lød Svaret. Da rettede Absalon
 sig, pegede derhen med sin udstrakte Haand og sagde:
 "Dér skal Havn bygges.«</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>Medens jeg ofte søgtes af hjemlige Forfattere
 som Viggo Stuckenberg eller Laurids Bruun, hvis
@@ -7638,10 +7644,10 @@ huserer med vore Penge og vor Fremtid, som de lyster.</p>
 Virkelyst nu gaa med til indvendigt Brug i Danmark for
 der helt at udviskes af den lille stedlige Reaktion,
 der ved Valgene sejrede stort.</p>
-
-<p>RUSLAND</p>
-
-<p><pb n="1" />.</p>
+</div></div><div>
+<head>RUSLAND</head>
+<div>
+<head>1.</head>
 
 <p>Under disse Omstændigheder var det godt, at jeg
 mindedes om mit Forhold til Rusland, idet baade
@@ -7711,8 +7717,8 @@ Studie-Indretning, denne Arv fra Faderen; men netop
 i disse Øjeblikke vaagnede et med hans beslægtet
 Følelsesliv i mig. Jeg trængte som han nu til at leve,
 til engang igen at svømme og ikke vade.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>Og det skete mig. Ikke noksom kan jeg være de Mænd
 taknemmelig, der bevægede mig til at foretage denne
@@ -7838,8 +7844,8 @@ Lidenskab for Udgaver og Haandskrifter føjede sig
 hos ham til Psykologens og Formelskerens Kærlighed
 til det Udsøgte. - Fyrst Urussof gjorde mig den Ære
 at skrive en Artikel om mig.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>Neppe havde jeg faaet fast Fod i enkelte af
 Petersborgs Krese, før jeg tog til Helsingfors
@@ -7898,8 +7904,8 @@ var i Midten af April foraarsagtigt trods den Is, der
 dækkede Havbugten. Da Parret, nogle Dage før jeg,
 vendte tilbage til Petersborg, var det en Aftale,
 at Bekendtskabet skulde fortsættes dér.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Fra Helsingfors kørte jeg i 12 Timer til Wiborg,
 hvorfra jeg havde faaet en Indbydelse, ankom Kl. 7,
@@ -8001,8 +8007,8 @@ var russisk Gesandt i Rom. I de senere Aar havde hun
 været optaget af Literaturen, kendte nøje flere unge
 Digtere og havde selv paa Fransk udgivet en Roman La
 faute de la comtesse.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>Mit første Foredrag blev en meget stor Succes. Der
 var solgt for 1300 Rubler (2,600 Kroner) til denne
@@ -8112,8 +8118,8 @@ Blade, som de i alle de mange Aar havde opbevaret,
 øjensynligt i Haab om engang at faa Anvendelse for
 dem. (Der er jo Samlingssteder for Danske i Udlandet
 og ikke for intet et dansk Konsulat i Moskva).</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>Man havde fra Moskva, da man indbød mig, ladet mig
 sige, at jeg var "endnu mere yndet og kendt" dér
@@ -8199,8 +8205,8 @@ evropæisk Skrift saa godt som russisk og kendte mit
 Navn, bragte mig et Blad Papir, hvorpaa de, mens jeg
 betragtede Maskinerne, havde sat og ladet trykke:
 A M. Brandes, très honoré.</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>Dog den Mand af alle, hvem jeg i Moskva hyppigst saa og 
 hvis Omgang betydede mest for mig, var den senere berømte 
@@ -8291,8 +8297,8 @@ hvortil jeg var indbudt.</p>
 <p>Først i 1905, sytten Aar derefter, lykkedes det
 mig gennem Sobolevski at faa den fortørnede Mand
 formildet, og siden da har vi været Venner paany.</p>
-
-<p><pb n="8" />.</p>
+</div><div>
+<head>8.</head>
 
 <p>Jeg havde i Petersborg en Dag hos Voltaire fundet
 disse Ord: "Sømænd glæder sig, naar de er i Havn;
@@ -8360,8 +8366,9 @@ Fyrstinde Tenicheff, en hel Waggon stillet til min
 Raadighed, og alle, der var i den, maatte skifte
 Vogn. Da jeg som god Evropæer protesterede paa de
 andres Vegne, viste det sig, at ikke en eneste af
-dem havde betalt sin Plads.
-<pb n="9" />.</p>
+dem havde betalt sin Plads.</p>
+</div><div>
+<head>9.</head>
 
 <p>I 23 Timer naaede jeg Varshav fra Smolensk. Det var
 den I. Juni, men fuldstændig Vinter, raakoldt og
@@ -8407,10 +8414,11 @@ længst har glemt, men der er blevne i min Erindring
 som Skønhedsskikkelser i en blomsterduftende
 Atmosfære, sammensmeltede med Morgenstemningen og
 Træernes grønlige Reflekser i Sollyset paa deres
-hvide Kjoler.
-HJEMLIGE ANGREB</p>
-
-<p><pb n="1" />.</p>
+hvide Kjoler.</p>
+</div></div><div>
+<head>HJEMLIGE ANGREB</head>
+<div>
+<head>1.</head>
 
 <p>Ved min Hjemkomst erfor jeg, at i al den Tid, jeg
 havde opholdt mig i Rusland, var jeg bleven gjort
@@ -8614,8 +8622,8 @@ Videnskab. Novellens Forfatter takkede for den
 overbærende Dom og udtalte i Udtryk, der ikke
 manglede en klædelig Ydmyghed, sin Erkendtlighed 
 for Tilladelsen til at turde være Medarbejder.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>Straks efter rnin Ankomst i Juni Maaned var jeg bleven
 udnævnt til Æresmedlem af La Confédération universelle
@@ -8709,8 +8717,8 @@ mine aller Nærmeste) ikke tre Besøg at aflægge.</p>
 gjort. Enden bliver, at jeg paany maa udvandre. Her
 dominerer Aandløsheden, og Reaktionens Sejersløb i
 Danmark vil desuden rigeligt vare min Levetid ud.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>Der blev i Juli afholdt et Kvindemøde i Kjøbenhavn, ved 
 hvilket en Del rettænkende, men svagttænkende, Kvinder 
@@ -8939,10 +8947,10 @@ var ikke saa slemt mente. Jonas Lie derimod sendte mig
 et Brev fuldt af hjertelig Sympati for min Stilling
 i Sagen. Han havde forgæves stræbt at bevæge Bjørnson
 til Indtagen af en anden Holdning overfor mig.</p>
-
-<p>INDTRYK AF FREMMEDE OG ENSOMT ARBEJDE</p>
-
-<p><pb n="1" />.</p>
+</div></div><div>
+<head>INDTRYK AF FREMMEDE OG ENSOMT ARBEJDE</head>
+<div>
+<head>1.</head>
 
 <p>Da jeg havde i Sinde at holde Foredrag om Goethe,
 saasnart jeg havde faaet Arbejdet med Det unge
@@ -9042,8 +9050,8 @@ forstod jo oprindeligt ikke stort deraf. Men
 efterhaanden fik jeg Alt omordnet, som jeg vilde have
 det, saa Personalet med temmelig svage Kræfter ydede
 et godt, undertiden fremragende Arbejde.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>Ogsaa Geijerstam kom til Kjøbenhavn og havde sin unge
 Frue med sig. Han holdt Forelæsninger, deriblandt en
@@ -9128,8 +9136,9 @@ levendegjort med ikke mindre Energi. Man følte, at
 Ortodoksien endnu red disse nordiske Smaastater som
 en Mare, og at Kampen mod den eller Underdanigheden
 overfor den da var et Stykke af hver enkelt Mands
-Historie.
-<pb n="3" />.</p>
+Historie.</p>
+</div><div>
+<head>3.</head>
 
 <p>Mit Forhold til Ruslands ledende Mænd vedblev at være
 godt. Saa fortræffelige Mænd som Stasulevitsj, Koni
@@ -9162,8 +9171,8 @@ Du vil da ikke sige, at han er finere end du? -
 <p>Du er paa alle Maader finere. Han hedder von, det vil
 sige, han er af en fin Familie. Men det er da finere,
 selv at være fin.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Længe var det siden der i den Menneskevrimmel, der
 Aar efter Aar bølgede mit Øje forbi, havde været et
@@ -9245,8 +9254,9 @@ kender ham. O denne universelle Dannelseskretinisme!"</p>
 
 <p>Da mit Essay om ham var udkommet paa Tysk, begyndte
 hans Ry at vokse og rulle som Snebolden, der bliver
-til Lavine.
-<pb n="5" />.</p>
+til Lavine.</p>
+</div><div>
+<head>5.</head>
 
 <p>I Efteraaret 1887 havde jeg holdt Forelæsninger
 om Heine Jeg indledede Aaret 1888 med at skrive
@@ -9356,8 +9366,8 @@ Forgift! Du véd det, den Tid vil komme, da du igen
 faar et Lanseskaft fat. Dræb da Dragen, stød Jernet
 i dens Hjerte og knus Knoklerne i den, saa den aldrig
 sluger Jomfruer og aldrig myrder Ynglinger mere!</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>Var Aaret 1888 et Aar, hvori jeg end ikke en Dag
 var udenlands, saa var det dog et, hvori jeg stod i
@@ -9435,8 +9445,8 @@ holde Talen.</p>
 
 <p>Fra Italien henvendte Chiarini sig til mig og skrev
 en meget smigrende Artikel om mig i Nuova Antologia.</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>Det Aar afholdtes den Nordiske Udstilling i Kjøbenhavn
 i det af Nyrop opbyggede smukke Træpalads. Den
@@ -9564,8 +9574,8 @@ Lassalle og bekendtgjorde, at Halvdelen af Oplaget var
 solgt før Udgivelsen. En lille Trøst endelig var det,
 at Fyrstinde Tenicheff, som havde lært sig Dansk,
 fortræffeligt gengav flere Essays af mig paa Russisk.</p>
-
-<p><pb n="8" />.</p>
+</div><div>
+<head>8.</head>
 
 <p>Det var det Aar, hvor de store Forandringer indtraadte 
 i det tyske Riges Ledelse. Med kort Mellemrum var to 
@@ -9661,8 +9671,8 @@ kunde hovmode mig i Indbildningen om et aandeligt
 Slægtskab. Men jeg følte og vidste, at i mig med al
 min Ringhed var Opgang, opgaaende, opadstigende Kraft,
 medens der i mange, rigere udrustede, var Nedgang.</p>
-
-<p><pb n="9" />.</p>
+</div><div>
+<head>9.</head>
 
 <p>Aaret 1889 begyndte for mig med at det blev forbudt
 alle Boghandlere i Finland at modtage og forhandle
@@ -9691,10 +9701,11 @@ Hehlerei.</p>
 
 <p>Den lille nordiske Kunstnerkoloni i Paris sendte
 mig til min Fødselsdag en telegrafisk Hilsen, der
-meddelte, at man havde drukket min Skaal.
-UDFLUGT TIL SVERIG OG NORGE</p>
-
-<p><pb n="1" />.</p>
+meddelte, at man havde drukket min Skaal.</p>
+</div></div><div>
+<head>UDFLUGT TIL SVERIG OG NORGE</head>
+<div>
+<head>1.</head>
 
 <p>Det havde været min Agt og mit Ønske at tage
 til Rusland. Ved et Sammenstød af uforudsete
@@ -9834,8 +9845,9 @@ Barn, i Haanden, naar vi spadserede sammen. Hun
 tog en Vogn og kørte mig ud til det gamle Sted,
 hendes Barndomshjem og min første Ungdoms Tilhold,
 et lille Træhus i en Have, som jeg ikke formaaede at
-kende igen.
-<pb n="2" />.</p>
+kende igen.</p>
+</div><div>
+<head>2.</head>
 
 <p>Efter tolv Aars Forløb gensaa jeg Stockholm, hvor
 jeg i Vetenskapsakademiens Sal, som ogsaa denne Gang
@@ -10069,8 +10081,8 @@ jeg kunnet give en Haandsrækning. Tiltrods for det
 Vanheld, der havde fulgt mine Foredrag i Upsala,
 følte jeg mig lykkelig over mit Ophold i Sverig,
 der havde overtruffet enhver Forventning.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>Alligevel skulde mit Ophold i Kristiania denne Gang forme 
 sig som ikke mindre rigt paa Indtryk og som en langt 
@@ -10170,10 +10182,11 @@ bleven omplantet til Norge, ytrede hun aabent nogen
 Bekymring for at gaa med mig, da hun maatte frygte
 for, at jeg ved en Boheme-Middag, som den jeg havde
 bag mig, havde drukket for meget. Hun overbevistes
-dog snart om det Ugrundede i hendes Frygt.
-REVOLUTIONENS HUNDREDAAR I KJØBENHAVN OG PARIS</p>
-
-<p><pb n="1" />.</p>
+dog snart om det Ugrundede i hendes Frygt.</p>
+</div><div>
+<head>REVOLUTIONENS HUNDREDAAR I KJØBENHAVN OG PARIS</head>
+<div>
+<head>1.</head>
 
 <p>I Kjøbenhavn fortsatte jeg mellem Paaske og Pintse 
 den Serie af Foredrag om Goethe, jeg havde begyndt. 
@@ -10264,8 +10277,8 @@ hyggelige. Jeg finder dette Udbrud 4. August Kl. 1
 Nat: "Nu forstyrret af Hyl fra Højrepartiet, der paa
 Sunddampere vender tilbage fra Sommerfest. O denne
 larmende og smagløse Menneskehob!" -</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>Jeg omgikkes paa den Tid enkelte ældre og yngre
 Militære, der alle havde literære Anlæg, Kaptajn
@@ -10280,8 +10293,9 @@ Gerstenberg, der var grundigt inde i russisk Literatur
 og begejstret for den, medens han, femten Aar førend
 Europa lærte den russiske Hærs Skrøbeligheder at
 kende, meddelte mig sit Indtryk af det russiske
-Officerkorps's overordenlige Svagheder.
-<pb n="4" />.</p>
+Officerkorps's overordenlige Svagheder.</p>
+</div><div>
+<head>4.</head>
 
 <p>Af nordiske Forfattere opholdt paa den Tid Knut
 Hamsun som fra Amerika tilbagevendt Begynder sig
@@ -10314,8 +10328,8 @@ nedlade sig til. Deraf lærte jeg for titusinde Gang,
 at selv naar en Forfatter udtrykkeligt æsker Ens
 Kritik, gør man klogt i at undslaa sig for at angive
 Grænsen, hvor Ens Beundring glipper.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>Den Sommer var der Orientalistkongres i Kjøbenhavn. 
 Af de Fremmede her søgte mig især Angelo de Gubernatis,
@@ -10350,8 +10364,8 @@ Afhandlinger, jeg havde skrevet. Det blev to Bind
 Danske Personligheder og Fremmede Personligheder. 
 Hele Manuskriptet var indleveret til Trykkeriet 
 før jeg i Septembers Slutning rejste til Frankrig.</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>Det var fulde ti Aar siden jeg havde været i Paris,
 og dengang endda kun for et Par Uger. Aldrig havde
@@ -10444,8 +10458,8 @@ Kiste til Kirkegaarden, og da den sænkedes i Jorden,
 blev hun liggende grædende foran Graven, indtil
 det hele Følge var borte; saa vaklede hun derfra,
 støttet paa en Venindes Arm.*)</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>Paul Bourget havde dengang vekslet ikke faa Breve med
 mig. Han søgte mig en Dag i mit Hotel. Vi havde ikke
@@ -10516,8 +10530,8 @@ overflødige. Alphonse Daudet, der ligeledes havde
 Lemerre til Forlægger, og til hvem denne klagede
 sin Nød over dette Brud paa mange Aars Venskab og
 Broderskab, betragtede Lemerre som fuldt uskyldig.</p>
-
-<p><pb n="8" />.</p>
+</div><div>
+<head>8.</head>
 
 <p>Ømt forbunden med Bourget var dengang Paul Desjardins, 
 den alvorlige og hæderlige Moralist, hvem Lemaitre i 
@@ -10569,8 +10583,8 @@ Clemenceau Lemaître som Sekundant. - Det var Madame
 Baignières som, da Grevinde de Loynes endelig døde,
 trøstede ham med de Ord: Vons la retrouverez dans un
 meilleur demi-monde.</p>
-
-<p><pb n="9" />.</p>
+</div><div>
+<head>9.</head>
 
 <p>En af de første Mænd, jeg i Paris dengang havde søgt,
 var Emile Zola. Tidligt havde jeg lagt Mærke til ham;
@@ -10603,8 +10617,8 @@ Bøger, da han vilde give mig en til Erindring. "Jeg
 troer, jeg vil give Dem en Germinal," sagde han og 
 indskrev mit Navn. Han følte godt selv, at den var 
 blandt det Ypperste, han havde frembragt.</p>
-
-<p><pb n="10" />.</p>
+</div><div>
+<head>10.</head>
 
 <p>Ogsaa Maupassant lærte jeg under dette Ophold at
 kende; men medens Zola da stod i sin fulde Kraft, var
@@ -10627,8 +10641,8 @@ Kulde, føler mig kun tilpas, hvor Himlen er klar og
 Solen varmer. - Da han vilde forære mig noget af sit,
 gav han mig Valget mellem Sur l'Eau og La Maison
 Tellier. Jeg foretrak den sidste.</p>
-
-<p><pb n="11" />.</p>
+</div><div>
+<head>11.</head>
 
 <p>Der var et Hus i Paris, som det Efteraar aabnede
 mig et formeligt Hjem. Det var Jonas Lie's i Avenue
@@ -10669,8 +10683,8 @@ inderlige Hengivenhed, man sporede i hver Ytring, som
 kom fra Lie og hans Hustru, var en Lise for Sindet,
 svalede og husvalede som en velgørende, duftende
 Brise. Skønne Aftener var det.</p>
-
-<p><pb n="12" />.</p>
+</div><div>
+<head>12.</head>
 
 <p>Straks efter min Hjemkomst begyndte jeg en Række
 Forelæsninger over nyere fransk Literatur. Men
@@ -10704,10 +10718,10 @@ deri, men betingede mig, intet Vederlag at modtage,
 før det kom saa vidt, at Bladet gav Overskud. Det
 kom aldrig saa vidt. Saaledes skrev jeg nogle Aar i
 et lidet læst Blad, hvor Ingen søgte min Pen.</p>
-
-<p>HAARDE TIDER</p>
-
-<p><pb n="1" />.</p>
+</div></div><div>
+<head>HAARDE TIDER</head>
+<div>
+<head>1.</head>
 
 <p>I Begyndelsen af 1890 skrev jeg en Duplik i
 Nietzsche-Fejden, en Afhandling om Guy de Maupassant
@@ -10788,8 +10802,8 @@ at gennemføre en gammel Plan, lagt af Den, jeg var i
 havde som nævnt ladet 11 Ark af den trykke. Nu var det
 mig umuligt at udholde Sysselsættelsen med den. Jeg
 følte mig som en stækket Vildgaas.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>I Maj brød jeg op og rejste, som sædvanligt i disse
 Aar, til Norge.</p>
@@ -10843,8 +10857,8 @@ fra hvilken det ene lyse og forjættende Budskab
 steg ned til mig efter det andet, en Himmel, der
 ligesom omgav mig og i hvis Himmelrum jeg følte mig
 baaren. Saa lys havde jeg aldrig set Nat i Danmark.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>Jeg vendte tilbage til Kjøbenhavn, hvor der paa Casino
 spiltes et fjantet Stykke imod mig, kaldet Mænd af Ære,
@@ -10936,8 +10950,8 @@ det relative Pronomen der og Ordet der (paa Stedet)
 staves ganske ens. Det danske Sprog er, naar det ikke 
 skrives med yderste Omhu, overrigt paa Tvetydigheder 
 og Mislyd.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Jeg var den Sommer syg, led af en uforklarlig Infektion, 
 der varede fra Maj til ind i September med uafbrudt Snue
@@ -10996,8 +11010,8 @@ danske Bøger havde et rent forsvindende Salg i Norge;
 af 1000 norske Eksemplarer afsattes 500-550 i Danmark,
 af danske Tusind 10 eller 50 eller allerhøjst 100 i
 Norge.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>Jeg modtog følgende Breve:</p>
 
@@ -11249,8 +11263,8 @@ blev hun gift,</p>
 <p>og bortreves saa ved en tidlig Død, der gik endog alle
 dem til Hjerte, som blot flygtigt havde gjort hendes
 Bekendtskab. Et saadant Særsyn af Ynde var hun.</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>I Slutningen af Oktober var endelig alle Korrekturer
 rettede paa den tyske Udgave af min svære Bog
@@ -11811,8 +11825,8 @@ Understøttelse. Da Hørup saa bragte Forslaget frem
 paany i den Tanke, at Landstinget maaske vilde opgive
 sin Modstand, blev det Folketinget, der opgav sin
 Velvilje, og Forslaget faldt igennem i begge Ting.</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>I Anledning af den første Forhandling om min Sag
 offenliggjorde jeg følgende Indlæg, der i den
@@ -11977,8 +11991,8 @@ i Sammenligning med denne - Generalavditør.</p>
 <p>Jeg følte, det var mig saa umuligt at udtrykke og
 udtømme min Ringeagt for den Art Modstandere som at
 hælde Øresundet paa Flasker.</p>
-
-<p><pb n="8" />.</p>
+</div><div>
+<head>8.</head>
 
 <p>Den 15. November fik min lille Datter Astrid Difteritis. 
 Hun blev straks bragt under omhyggelig Behandling, og 
@@ -12129,8 +12143,8 @@ hæs. Og virkelig var Stemmen en Smule mere tydelig.</p>
 
 <p>Aldrig før har jeg set et Menneske dø, og nu mit eget
 Kød og Blod".</p>
-
-<p><pb n="9" />.</p>
+</div><div>
+<head>9.</head>
 
 <p>Der fulgte alle de Rædsler, der ledsager et
 Dødsfald: Anmeldelsen paa Raadhuset, Gangen til
@@ -12197,9 +12211,10 @@ for at Skaane hende for Vanskeligheder i det paa
 Vanskeligheder forud tilstrækkeligt rige Jordeliv. 
 Min Foragt for ham, som var stum, var ikke svagere for
 det, men slugtes af Kvalen. Venners Deltagelse gjorde
-desuden godt.
-<pb n="10" />.</p>
-
+desuden godt.</p>
+</div><div>
+<head>10.</head>
+   
 <p>Georg v. Vollmar og hans Frue kom ikke længe efter
 at hilse paa mig. De trøstede mig med,, at jeg havde
 et Barn tilbage. Deres egen Lod lignede min, men var
@@ -12231,8 +12246,11 @@ nylig opførte Teaterstykker og af den sidste Roman.
 Derpaa var jeg strandet. Jeg var til Mode indvendig, 
 som det ser ud paa Teatret, naar ved Sceneforandring 
 utallige tunge Skyer sænker sig og fylder Scenen - kun 
-at der hos mig ingen Sceneforandring resulterede deraf.
-OPGANG I INDFLYDELSE</p>
+at der hos mig ingen Sceneforandring resulterede deraf.</p>
+</div></div><div>
+<head>OPGANG I INDFLYDELSE</head>
+<div>
+<head>1.</head>
 
 <p>Mine gamle Forældre fejrede i Januar 1891 deres
 Guldbryllupsdag med en lille Festlighed, hvori jeg
@@ -12267,8 +12285,8 @@ Uundværlige. Saa blev de mig det ikke Svigtende,
 det ubetinget Paalidelige. Tilsidst var de blevne
 det Uerstattelige, derfor Uvurderlige, min Moder især
 det stadige Tilhold og den bedste Trøst.</p>
-
-<p><pb n="2" />.</p>
+</div><div>
+<head>2.</head>
 
 <p>Berliner Tageblatt, hvor der, efter at Paul Lindau
 havde opgivet stadigt Medarbejderskab, var en Plads
@@ -12305,8 +12323,8 @@ deri kommer til Orde, var efter alle de Erfaringer,
 der havde opsummeret sig i mig, bleven min egen
 Grundstemning, og det var ud fra den, at jeg fra nu
 af i Regelen skrev.</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>I Juni kom Kainz paany til Kjøbenhavn og søgte mig det
 Aar oftere og med større Inderlighed end nogensinde
@@ -12321,8 +12339,8 @@ ualmindelige Kunstnydelse, som her blev budt. Udfaldet
 var trist; Kainz fik i Alt 188 Kroner ind, og alene
 Hotelregningen i Klampenborg, hvor han var bleven
 for den Oplæsnings Skyld, lød paa mer end 200 Kroner.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>Efter lang Tids Ophold i Kjøbenhavn havde jeg det
 Aar nogen Rejseuro i Blodet og saa mig lidt om, tog
@@ -12399,8 +12417,8 @@ Sprog, og overfor dens overudviklede Civilisation,
 som holdt ved Rops, Odillon Redon og den daværende
 Huysmans, stod den romersk-katolske Kirkemagt over
 Landbefolkningen som ubrydelig.</p>
-
-<p><pb n="5" />.</p>
+</div><div>
+<head>5.</head>
 
 <p>I Holland var det anderledes. I Holland havde det
 religiøse Frisind selv i det syttende Aarhundredes mørke 
@@ -12532,8 +12550,8 @@ tilstede, kunde være Ophav dertil, men at det lille
 Blad, som ingen af dem læste, vel var blevet Offer
 for en eller anden Reporters Trang til at overbringe
 en Nyhed.</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>Jeg var indbudt til at holde Foredrag i Wien, men
 afslog. Siden min lille Datters Død var jeg som i
@@ -12651,8 +12669,8 @@ set som dansk, ansat i Norge, svaredes: "Vi betragter
 Dem allerede halvvejs som norsk Borger. Ministeriet
 er ganske og aldeles for Dem. Den eneste Modstand,
 der kan ventes, vil komme fra Bjørnson."</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>I September var der en almindelig Forfatterkongres i
 Berlin, til hvilken man var saa opmærksom at indbyde
@@ -12724,6 +12742,8 @@ blev det anderledes; det haglede Aar efter Aar over
 mig med Angreb i
 den tyske og tysk-østerrigske Presse, og Tonen imod mig er i 
 en Mængde Organer ikke bleven forskellig fra den i de danske.</p>
+</div><div>
+<head>8.</head>
 
 <p>Min Bog Det moderne Gennembruds Mænd var udsolgt, og i
 September foranstaltede jeg en ny Udgave af den, som
@@ -12804,8 +12824,8 @@ Jeg var ganske klar over, at for mig var intet
 Afgørende opnaaet selv ved en storladen Hyldest
 i Øjeblikket. Jeg tog imod den med Tak uden at
 overvurdere den eller mig som dens Genstand.</p>
-
-<p><pb n="9" />.</p>
+</div><div>
+<head>9.</head>
 
 <p>Det var et Øjeblik hvor alle, som bestandig eller
 længe havde villet mig vel, lagde deres Velvilje
@@ -12863,8 +12883,8 @@ min Færd snart med Tilslutning, snart med Modsigelse,
 aldrig med Ligegyldighed.</p>
 
 <p>Han sankede gloende Kul paa mit Hoved.</p>
-
-<p><pb n="10" />.</p>
+</div><div>
+<head>10.</head>
 
 <p>Med Holger Drachmann var Tilfældet ganske
 forskelligartet. Fra første Færd af havde han
@@ -12980,8 +13000,8 @@ hinanden, sluttede saa med disse sjælfulde Vers:
 
 <p>Jeg har, som man ser, inspireret bedre (som forøvrigt
 flere) Vers end jeg selv har skrevet.</p>
-
-<p><pb n="11" />.</p>
+</div><div>
+<head>11.</head>
 
 <p>Det var jo umuligt, at Holger Drachmann kunde holde
 sig paa denne Afstand og i denne Modsigelse: "Min
@@ -13275,8 +13295,8 @@ som Personlighed og som Kunstner.</p>
 
 <p>                                          Din 
                                      Georg Brandes.</p>
-
-<p><pb n="12" />.</p>
+</div><div>
+<head>12.</head>
 
 <p>Holger Drachmanns Spaadom om Fremtiden: "Vi ses maaske
 - eller rimeligvis - aldrig mere" blev hurtigt gjort
@@ -13428,8 +13448,8 @@ Kilde til Poesi.</p>
 
 <p>Den Nat følte jeg det trods Alt som en lykkelig Skæbne 
 for mig, at jeg var bleven samtidig med Holger Drachmann.</p>
-
-<p><pb n="13" />.</p>
+</div><div>
+<head>13.</head>
 
 <p>Festmaaltidet for mig den 25. Oktober 1891 i
 Concertpalæet i Kjøbenhavn, ved hvilket de ypperste
@@ -13866,8 +13886,8 @@ mens Gnisterne steg op imod Altanen i en Sky af
 Røg. Dejligt blev Skuet, da Faklerne kastedes sammen
 i Baal og gyldenrødsort Flammeskær i Røgmulm løftede
 sig fra Baalet.</p>
-
-<p><pb n="15" />.</p>
+</div><div>
+<head>15.</head>
 
 <p>Fakkelbærerne og deres Følge blev ved Midnatstid
 bænkede i den store Sal, fik Punsch og afsang flere
@@ -13939,9 +13959,9 @@ noget for mig, en Ungdom af Arbejdere, Kunstnere og
 Studenter, og en Ungdom, bag hvis Demonstration der
 forhaabentlig staar andet og mere, Mænd med Tanker
 og Viljer.</p>
-
-<p><pb n="16" />.     ,</p>
-
+</div><div>
+<head>16.</head>
+   
 <p>Der blev i de Dage paa dansk Grund skrevet ikke lidt
 til Hæder for mig. Jeg var Niels Møller taknemmelig
 for en Artikel i Illustreret Tidende, i hvilken
@@ -14137,10 +14157,11 @@ kunstneriske Omraade stadigt støttes og fremmes af
 politiske Renegater. Iøvrigt har Forholdet intet
 for Danmark Ejendommeligt. Det er ens allevegne. Som
 Goethe siger: Den empirisk sædelige Verden bestaar
-for største Delen kun af ond Vilje og Misundelse.
-RØDT OG GRAAT</p>
-
-<p><pb n="1" />.</p>
+for største Delen kun af ond Vilje og Misundelse.</p>
+</div></div><div>
+<head>RØDT OG GRAAT</head>
+<div>
+<head>1.</head>
 
 <p>Jeg kendte nu tilbunds min Stilling som aandelig Fører
 paa dansk Grund. Talte jeg i fleres, i en Gruppes,
@@ -14200,8 +14221,9 @@ rejse sig mer."</p>
 Befolkningen var syg i Kroppen og syg i Viljen, ret
 i rivende Nedgang, medens man da som altid indbildte
 sig, at Fremskridtet Dag for Dag vandt Jordsmon og
-med hul Begejstring proklamerede dette Fremskridt.
-<pb n="2" />.</p>
+med hul Begejstring proklamerede dette Fremskridt.</p>
+</div><div>
+<head>2.</head>
 
 <p>Jeg selv passede min daglige Gerning. Nye Udgaver
 af mine Bøger, som var blevne fornødne, tvang mig
@@ -14246,8 +14268,8 @@ rundt om paa de fjerneste Steder har Venner siddende,
 der har fulgt Deres Færd med Beundring fra først af,
 og for hvem hvert nyt Arbejde af Dem er den mest
 velkomne Gave, som Posten bringer."</p>
-
-<p><pb n="3" />.</p>
+</div><div>
+<head>3.</head>
 
 <p>En meget livlig Correspondance med Danske i
 Nordamerika fulgte det Aar og de følgende. En Mængde
@@ -14316,8 +14338,8 @@ tilstaa, det mener ogsaa jeg."</p>
 
 <p>En saadan Tro er jo som nyttig Illusion til en vis Grad 
 en Styrke, men gør en Fremmeds Stilling i Folket usikker.</p>
-
-<p><pb n="4" />.</p>
+</div><div>
+<head>4.</head>
 
 <p>I Kjøbenhavn henvendte ikke sjældent Ubekendte sig
 til mig med personlige Henvendelser af besynderlig
@@ -14436,9 +14458,9 @@ satte Bo, og den Dag idag er de, omgivne af sunde og
 smukke Børn, tilfredse med hinanden og Eksistensen. 
 Af og til modtager jeg ved festlige Lejligheder fra 
 dem en Buket Blomster, hvis Sprog jeg forstaar.</p>
-
-<p><pb n="5" />.</p>
-
+</div><div>
+<head>5.</head>
+   
 <p>Faa det norske Studentersamfunds Vegne skrev Advokat
 Ludvig Meyer mig til og meddelte mig, at man ikke
 mindre i Kristiania end i Kjøbenhavn ønskede at fejre
@@ -14573,8 +14595,8 @@ sligt? de havde begge faaet endnu mere Applaus end
 hun osv. - Imens min Fisk blev kold, stræbte jeg at
 godtgøre min Uskyld, og kørte nogle Minutter derefter
 i Firspring til Toget.</p>
-
-<p><pb n="6" />.</p>
+</div><div>
+<head>6.</head>
 
 <p>Jeg havde i Kristiania sagt til mine Bekendte: jeg vender tilbage 
 til Kjøbenhavn for at afgive min Stemme ved Folketingsvalget og 
@@ -14671,8 +14693,8 @@ Sædeligheden og tale for Rustninger. Held følge ham,
 som det allerede har fulgt ham!" Et andet Eksempel paa 
 Forsonligheden i danske Sind var det, at Hørup Aaret 
 efter som Minister blev Albertis Kollega.</p>
-
-<p><pb n="7" />.</p>
+</div><div>
+<head>7.</head>
 
 <p>Coqueiin, hvem jeg saa tidt i mine unge Dage havde
 beundret paa Théâtre français, var for anden Gang
@@ -14763,8 +14785,8 @@ Huse fra mig. Naar jeg gik ud, mødte jeg hende næsten
 daglig paa Gaden. Hendes glade Latter slyngede stundom
 ligesom en let, lys Trille ind i mit Sinds da ret
 mørke Lidenskabelighed, nogle Toner af Cicadens Sang.</p>
-
-<p><pb n="8" />.</p>
+</div><div>
+<head>8.</head>
 
 <p>I April Maaned bragte Nouvelle Revue en i de mest
 begejstrede Udtryk affattet Artikel om mig, hvori
@@ -14857,8 +14879,8 @@ altsammen (som Surrogater) af den utvivlsomste
 slog ihjel og tog de 50,000 Francs fra. Kun at jeg
 ikke havde de mange Francs og ikke netop var slaaet
 ihjel. Men Eremit var jeg.</p>
-
-<p><pb n="9" />.</p>
+</div><div>
+<head>9.</head>
 
 <p>Den franske Forfatter Hugues le Roux kom til
 Kjøbenhavn for at holde nogle Foredrag og blev
@@ -14902,8 +14924,8 @@ troværdig Pressenyhed. Den var maaske fra først af
 sat i Omløb til Brygger Jacobsens Glorie, udslynget,
 som man strøer Ærter for Høns. Saa kom alle Reporterne
 ilende, slugte Nyheden og gav den atter fra sig.</p>
-
-<p><pb n="10" />.</p>
+</div><div>
+<head>10.</head>
 
 <p>Saa milde Sæderne forholdsvis var i Danmark, bestod
 endnu som Rest af Middelalderens Barbari Henrettelsen
@@ -15044,8 +15066,8 @@ egen Halshugning.</p>
 
 <p>Hermed er i den bedste af alle mulige Verdener
 Retfærdigheden sket Fyldest.</p>
-
-<p><pb n="11" />.</p>
+</div><div>
+<head>11.</head>
 
 <p>Mine Nerver var da paa Sprængpunktet. Jeg udholdt ikke 
 længer Sommeropholdet i Kjøbenhavn. Efter nogen Tvivl 
@@ -15215,8 +15237,8 @@ vidtløftigt.*)</p>
 
 <p>tiltalende og lærerige Kunstby, som jeg saa for første
 Gang, og derfra over Frankfurt hjem.</p>
-
-<p><pb n="12" />.</p>
+</div><div>
+<head>12.</head>
 
 <p>I Hjemmet traf et uventet Slag mig, min Broder Ernsts
 pludselige Død.</p>
@@ -15347,8 +15369,8 @@ altsom man nærmer sig til det. Der er Tider i Ens Liv,
 hvor man har en beslægtet Fornemmelse af at følge
 en Skæbne, der saasnart man øjner et Lyspunkt i Ens
 Nærhed, slukker det paa Ens Vej.</p>
-
-<p><pb n="13" />.</p>
+</div><div>
+<head>13.</head>
 
 <p>Den, der vil fortælle sit Levned, kan love sig selv
 og andre at være sanddru, ikke, som det barnagtigt
@@ -15592,8 +15614,8 @@ paa, at Lidenskabernes Liv nu sysselsatte og fængslede
 mig mer end Tanke- og Drømmelivet, og at Shakespeares
 Værker var det rigeste mig bekendte Gemmested for
 sanddru og storstilede Billeder af Lidenskabslivet.</p>
-
-<p><pb n="14" />.</p>
+</div><div>
+<head>14.</head>
 
 <p>Hvad der fra først af havde draget mig til Shakespeare
 som Æmne, det var, som ovenfor antydet, Hanget til
@@ -15696,9 +15718,9 @@ at trodse den, tilraade at undgaa den.</p>
 <p>Men naturligvis var Den altid ret vanskeligt stillet,
 som saa hvad der gik over og hvad der laa under de
 fleste Andres Horizont.</p>
-
-<p>INDHOLD
-  Side</p>
+</div></div><div>
+   
+<head>INDHOLD</head>
 
 <p>Udlændighedens Afslutning ... 1
 Ny Begyndelse i Kjøbenhavn ... 56
@@ -15716,52 +15738,5 @@ Revolutionens Hundredaar i Kjøbenhavn og Paris ... 256
 Haarde Tider ... 271
 Opgang i Indflydelse ... 303
 Rødt og Graat ... 350</p>
-
-<p>GYLDENDALSKE BOGHANDEL . NORDISK FORLAG</p>
-
-<p>GEORG BRANDES</p>
-
-<p>Dualismen i vor nyeste Philosophie. 60 Øre. Æsthetiske
-Studier. 2. ændrede Udgave. 4 Kr. Kritiker og
-Portræter. 2. ændrede Udgave. 5 Kr. Den  franske
-Æsthetik i vore Dage. En Afhandling om</p>
-
-<p>H. Taine. 3 Kr. (Udsolgt). Hovedstrømninger i det
-19de Aarhundredes Litteratur.</p>
-
-<p>Forelæsninger holdte ved Kjøbenhavns
-Universitet. Folkeudgave. I-III. 15 Kr.</p>
-
-<p>Forklaring og Forsvar. En Antikritik. l Kr. Søren
-Kierkegaard. En kritisk Fremstilling i Grundrids. 3
-Kr.</p>
-
-<p>50 Øre.</p>
-
-<p>Danske Digtere. Charakterbilleder. 2. Udgave. 4
-Kr. 50 Øre. Esaias Tegner. En litteratur-psychologisk
-Studie. Med Tegners</p>
-
-<p>Portrait. 3 Kr. Benjamin Disraeli. Jarl af
-Beaconsfield. En litterær Charakteristik. 4 Kr.</p>
-
-<p>Ferdinand Lassalle. En kritisk Fremstilling. 4
-Kr. 50 Øre. Mennesker og Værker i nyere evropæisk
-Litteratur.</p>
-
-<p>7 Kr. Det   moderne   Gennembruds   Mænd.
-2 den gjennemsete</p>
-
-<p>Udgave. 5 Kr. Ludvig Holberg. Et Festskrift. Med tolv
-Vignetter af Hans</p>
-
-<p>Nic. Hansen. 5 Kr.; eleg. indb. 7 Kr. 50
-Øre. Indtryk fra Polen* 4 Kr. 75 Øre. Indtryk fra
-Rusland. 6 Kr. Essays. Danske Personligheder. 4
-Kr. Essays. Fremmede Personligheder. 4 Kr. 75
-Øre. Udenlandske Egne og Personligheder. 5 Kr. 50
-Øre. William Shakespeare. I-III. 18 Kr. Heinrich
-Heine. 2det Oplag. 2 Kr. 50 Øre. Henrik Ibsen. 3
-Kr. Ungdomsvers. 2 Kr. Levned. I-II å 6 Kr. 50 Øre. Om
-Læsning. 75 Øre.</p></div></body></text></TEI>
+</div></div></body></text></TEI>
 
