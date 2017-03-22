@@ -23,39 +23,33 @@
       </fileDesc>
    </teiHeader>
    <text>
+      <front>
+         <figure>
+            <pb ed="A" n="[VI]" facs="xyz"/>
+            <byline>Tegning udført af <emph>Gotfred Rump</emph> 1868</byline>
+         </figure>
+         <titlePage>
+            <docAuthor><pb ed="A" n="[VII]" facs="xyz"/>Georg Brandes</docAuthor>
+            <docTitle>             
+               <titlePart>Levned</titlePart>
+               <titlePart type="sub">Barndom og første Ungdom</titlePart>
+            </docTitle>
+            <docImprint>
+               <publisher>Gyldendalske Boghandel</publisher>
+               <publisher>Nordisk Forlag</publisher>
+               <pubPlace>Kjøbenhavn</pubPlace>
+               <pubPlace>Kristiania</pubPlace>
+               <docDate>1905</docDate>
+            </docImprint>
+            <imprimatur><pb ed="A" n="[VIII]" facs="xyz"/><emph>Published eigth of November, nineteen hundred
+               and five. Privilege of copyright in the United States
+               reserved under the Act approved March third, nineteen
+               hundred and five, by Dr. Georg Brandes.</emph></imprimatur>
+            <docImprint><publisher>Kjøbenhavn – Græbes Bogtrykkeri</publisher></docImprint>
+         </titlePage>
+      </front>
+
       <body>
-
-
-
-         <!--<p>GEORG BRANDES
-LEVNED</p>
-
-<p>BARNDOM OG FØRSTE UNGDOM</p>
-
-<p>GYLDENDALSKE BOGHANDEL - NORDISK FORLAG
-KJØBENHAVN OG KRISTIANIA</p>
-
-<p>GRÆBES BOGTRYKKERI
-1905
- 
-GEORG BRANDES LEVNED
- 
- 
-Tegning udført af <i>Gotfred Rump</i> 1868.
-GEORG BRANDES
-LEVNED</p>
-
-<p>BARNDOM OG FØRSTE UNGDOM</p>
-
-<p>GYLDENDALSKE BOGHANDEL - NORDISK  FORLAG
- 
-KJØBENHAVN 1905 KRISTIANIA
-Published eigth of November, nineteen hundred
-and five. Privilege of copyright in the United States
-reserved under the Act approved March third, nineteen
-hundred and five, by Dr. Georg Brandes.</p>
-
-<p>KJØBENHAVN - GRÆBES BOGTRYKKERI-->
          <div>
             <head><pb n="[1]"/> Opdagelse af Verden</head>
             <div>
@@ -1329,9 +1323,9 @@ hundred and five, by Dr. Georg Brandes.</p>
                   han:</p>
 
                <cit>
-                  <quote><p>
+                  <quote><lg>
                         <l>Hører I – Bifaldets – Storm fra det – mægtige – Amfite – ater.</l>
-                     </p></quote>
+                     </lg></quote>
                </cit>
 
                <p>Videre, Møller!</p>
@@ -10980,9 +10974,11 @@ hundred and five, by Dr. Georg Brandes.</p>
                      <p>Hun var en god Pige. Der gik en vis inderlig Tone gennem Alt hvad der kom
                         fra hendes Hjerte. Der var mange Farver i hendes Aand. Og der var et
                         allerhelvedes Fremad i hendes Færd, <emph>allways in a hurry</emph>.</p>
-                     <p>Og nu ingen »romersk Elegi«. Jeg vil gemme hende i min Erindring:</p></quote>
+                     <p>Og nu ingen »romersk Elegi«. Jeg vil gemme hende i min
+                     Erindring:</p></quote>
                </cit>
-                     <cit><quote><lg rend="center">
+               <cit>
+                  <quote><lg rend="center">
                         <l>Her hviler</l>
                         <l><persName>Vinnie Ream</persName></l>
                         <l>Billedhuggerinde fra Washington</l>
@@ -10992,7 +10988,8 @@ hundred and five, by Dr. Georg Brandes.</p>
                         <l>der kendte hende</l>
                         <l>i sytten Dage</l>
                         <l>og aldrig glemmer hende.</l>
-                     </lg></quote></cit>
+                     </lg></quote>
+               </cit>
 
                <p>Virkelig har jeg aldrig genset <persName>Vinnie Ream</persName>. Vi vekslede efter
                   hendes Afrejse et Par Breve, og Resten var Taushed.</p>
@@ -11721,16 +11718,18 @@ hundred and five, by Dr. Georg Brandes.</p>
                   levede i en Rus, og jeg gav min Glæde Luft i Hverdagsrim, som dog var Vidnesbyrd
                   om min Lykkestemning:</p>
 
-               <cit><quote><lg>
-                  <l>Hvor Livet er skønt!</l>
-                  <l>Se, Pigerne smile,</l>
-                  <l>Skoven slaar ud i det friskeste Grønt;</l>
-                  <l>festligt kransede Dagene hvile.</l>
-                  <l>Grubl ej, min Tanke: Hvad er det at være?</l>
-                  <l>Svar: Lutter Fryd, lutter Lykke og Ære.</l>
-                  <l>Livet er Sejr. Ny Tribut, ny Salut</l>
-                  <l>bringes i hvert et Minut.</l>
-               </lg></quote></cit>
+               <cit>
+                  <quote><lg>
+                        <l>Hvor Livet er skønt!</l>
+                        <l>Se, Pigerne smile,</l>
+                        <l>Skoven slaar ud i det friskeste Grønt;</l>
+                        <l>festligt kransede Dagene hvile.</l>
+                        <l>Grubl ej, min Tanke: Hvad er det at være?</l>
+                        <l>Svar: Lutter Fryd, lutter Lykke og Ære.</l>
+                        <l>Livet er Sejr. Ny Tribut, ny Salut</l>
+                        <l>bringes i hvert et Minut.</l>
+                     </lg></quote>
+               </cit>
 
                <p>I den skandinaviske Forening blev jeg modtaget med en Masse Deltagelsesytringer,
                   Artigheder og mer eller mindre ærligt mente Smigrerier som til Vederlag for de
