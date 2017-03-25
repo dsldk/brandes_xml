@@ -30,9 +30,14 @@
      <pb ed="A" n="[1]" facs="xyz"/>
      <titlePart>Forklaring og Forsvar</titlePart>
      <titlePart type="sub">En Antikritik</titlePart>
+     <titlePart type="desc">af</titlePart>
     </docTitle>
-    <byline>af</byline>
     <docAuthor>Georg Brandes</docAuthor>
+    <lb></lb>
+    <lb></lb>
+    <lb></lb>
+    <lb></lb>
+    <lb></lb>
     <docImprint><pubPlace>Kjøbenhavn.</pubPlace><publisher>Forlagt af den Gyldendalske Boghandel (F.
       Hegel).</publisher><publisher>Græbes Bogtrykkeri.</publisher><docDate>1872.</docDate></docImprint>
    </titlePage>
@@ -44,7 +49,7 @@
    
    <div>
     
-    <p><pb ed="A" n="[3]" facs="xyz"/>Der gives enkelte lykkelige Forfattere, i hvis Lod det falder
+    <p><pb ed="A" n="[3]" facs="xyz"/> Der gives enkelte lykkelige Forfattere, i hvis Lod det falder
      strax ved deres første Optræden og senere Skridt for Skridt paa deres Vei at blive hilsede med
      Bifald af Publicum og at møde Overbærenhed eller vel endog Anerkjendelse hos Kritiken. Denne
      Lod har ikke været min. Lige fra jeg vovede mig ud paa Forfatterbanen og indtil nu er jeg

@@ -29,11 +29,17 @@
             <byline>Tegning udført af <emph>Gotfred Rump</emph> 1868</byline>
          </figure>
          <titlePage>
+            <pb ed="A" n="[VII]" facs="xyz"/>
             <docAuthor><pb ed="A" n="[VII]" facs="xyz"/>Georg Brandes</docAuthor>
             <docTitle>             
                <titlePart>Levned</titlePart>
                <titlePart type="sub">Barndom og første Ungdom</titlePart>
             </docTitle>
+            <lb></lb>
+            <lb></lb>
+            <lb></lb>
+            <lb></lb>
+            <lb></lb>
             <docImprint>
                <publisher>Gyldendalske Boghandel</publisher>
                <publisher>Nordisk Forlag</publisher>
@@ -41,10 +47,16 @@
                <pubPlace>Kristiania</pubPlace>
                <docDate>1905</docDate>
             </docImprint>
-            <imprimatur><pb ed="A" n="[VIII]" facs="xyz"/><emph>Published eigth of November, nineteen hundred
+            <imprimatur><pb ed="A" n="[VIII]" facs="xyz"/>
+               <emph>Published eigth of November, nineteen hundred
                and five. Privilege of copyright in the United States
                reserved under the Act approved March third, nineteen
                hundred and five, by Dr. Georg Brandes.</emph></imprimatur>
+            <lb></lb>
+            <lb></lb>
+            <lb></lb>
+            <lb></lb>
+            <lb></lb>
             <docImprint><publisher>Kjøbenhavn – Græbes Bogtrykkeri</publisher></docImprint>
          </titlePage>
       </front>
