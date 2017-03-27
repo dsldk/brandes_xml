@@ -625,7 +625,7 @@
           Forhold til det 18de Aarhundrede og havde oprindeligt franske Forudsætninger at støtte sig
           til.</p>
         <div>
-          <head>I. <note type="add"/>[Le génie du christianisme.]</head>
+          <head>I. <note type="add"/>[Le génie du christianisme.]</head> <!-- NB skal være head type="sub" -->
           <p>Lad os tage et enkelt af de reactionære Hovedværker til Exempel. Hvad det 18de
             Aarhundrede havde villet tillivs var med eet Ord Middelalderen. For det var
             Middelalderen kun et andet Ord for Barbari og Fanatisme; dets Exempel paa det
