@@ -59,9 +59,8 @@
             </titlePage>
             <div type="dedication">
                 <pb ed="A" n="[iii]" facs="xyz"/>
-                <p>Giuseppe Saredo,</p>
-                <p>Professor der Rechtswissenschaft an der Universität zu Rom,</p>
-                <p>vom Verfasser</p>
+                <p rend="center">Giuseppe Saredo,<lb></lb>Professor der Rechtswissenschaft an der Universität zu Rom,</p>
+                <p rend="right">vom Verfasser</p>
             </div>
             <pb ed="A" n="[iv]" facs="xyz"/>
             <div>
