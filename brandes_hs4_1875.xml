@@ -47,17 +47,18 @@
               <l>Künstler, nie mit Worten, mit Thaten begegne dem Feinde!</l>
               <l>Schleudert er Steine nach dir, mache du Statuen d’raus.</l>
             </lg>
-            <p rend="right">Hebbel.</p>
           </quote>
+          <bibl>Hebbel.</bibl>
         </cit>
       </epigraph>
-
-      <!--<pb n="[3]"  deltitleblad / <halftitle>  <head>NATURALISMEN I ENGLAND.</head> -->
-
     </front>
     <body>
+      <div type="half-title">
+        <head><pb n="[3]"/>Naturalismen i England</head>
+      </div>
+
       <div>
-        <head>[Indledning]</head>
+        <head><pb n="[5]"/>[Indledning]</head>
         <p>Det er min Hensigt i Englands Poesi fra de første Aartier af dette Aarhundrede at
           forfølge den stærke, dybt begrundede og følgerige Strømning i engelsk Aandsliv, der
           frigjort fra de klassiske Former og Vaner frembringer en den hele Litteratur beherskende
@@ -89,7 +90,7 @@
           poetiske Dannelse endnu ikke havde bearbeidet. Ja Reactionen mod Verdenssproget bringer
           endog Dialekterne til Ære.</p>
 
-        <p> I <emph>Tydskland</emph> førte, som jeg tidligere har <pb n="7"/> skildret<note>Se Den
+        <p>I <emph>Tydskland</emph> førte, som jeg tidligere har <pb n="7"/> skildret<note>Se Den
             romantiske Skole i Tydskland S. 291 ff.</note>, Nationalitetssværmeriet til Begeistring
           for Tydsklands Fortid, for Middelalderen, dens Tro, dens Overtro og dens Samfundsorden. I
             <emph>Italien</emph> finder med Manzonis Hymner en tilsyneladende Tilbagevenden til
@@ -231,33 +232,36 @@
           den skotske Digtning til Landet, og der er Sandhed i det spydige Ord, at Scott i alle sine
           Epopeer kun skrev en rimet Reisebog til Skotland. At allerede de Samtidige havde dette
           Indtryk kan sees af Moores satiriske Spøg over, hvorledes Scott i sine Digte »gjør« det
-          ene Herresæde efter det andet.<note><lg>
-              <l>Should you feel any touch of poetical glow</l>
-              <l>We've a Scheme to suggest — Mr. Scott, you must know</l>
-              <l>Having quitted the Borders, to seek new renown,</l>
-              <l> Is coming, by long Quarto stages, to Town;</l>
-              <l>And beginning with Rokeby (the job's sure to pay) </l>
-              <l>Means to <emph>do</emph> all the Gentlemen's Seats on the way.</l>
-              <l>Now the Scheme is (though none of our hackneys can beat him)</l>
-              <l>To start a fresh Poet through Highgate to meet him;</l>
-              <l>Who, by means of quick proofs — no revises — long coaches</l>
-              <l>May do a few Villas, before Scott approaches.</l>
-            </lg><p rend="right">Moore: Intercepted letters Nr. 7.</p></note> Og hvilken Rolle
-          spille ikke disse Herre<pb n="15"/>sæder i to saa polart modsatte Digternaturers Existents
-          som Byrons og Scotts. Newsteads Navn er uadskilleligt knyttet til Byrons som Abbotsfords
-          til Walter Scotts. Det gamle Abbedi med dets middelalderlige og phantasirige Architektur
-          er Byron den nødvendige Folie for hans Pairstitel og Pantet paa hans Hjemstedsret i
-          England. Han afhænder det først, da han har sagt sit Fædreland Farvel for bestandig.
-          Walter Scotts Eiendom er vel ikke saa gammel og ærværdig; men han kjøber sig Abbotsford,
-          da det Ønske om Landbesiddelse, der altid har været mægtigt i ham, bliver uimodstaaeligt,
-          og han indretter sig i den lykkelige Periode af sit Liv, han tilbringer her, som havde han
-          aldrig voxet op med anden Udsigt for Øie end den at vise en gammel skotsk Godsbesidders
-          kongelige Gjæstfrihed og leve hans dristige Friluftsliv. Hans største Morskab er den
-          halsbrækkende Fornøielse <pb n="16"/> at vade gjennem rivende Strømme, selv om han ved at
-          gaae 50 Skridt videre havde kunnet komme over en Bro, at ride paa en Hest saa vild at den
-          ikke kan rides af nogen Anden, og at drive Laxejagt med Spyd ved Fakkelskin, snart
-          gjennemblødt af Regn, snart stivfrossen i Nattekulden. Hvilken Kjender af Byrons Liv
-          mindes ikke her hans Forkjærlighed for vilde Rideture og forvovne Svømmeexperimenter!</p>
+          ene Herresæde efter det andet.<note><cit>
+              <quote><lg>
+                  <l>Should you feel any touch of poetical glow</l>
+                  <l>We've a Scheme to suggest — Mr. Scott, you must know</l>
+                  <l>Having quitted the Borders, to seek new renown,</l>
+                  <l> Is coming, by long Quarto stages, to Town;</l>
+                  <l>And beginning with Rokeby (the job's sure to pay) </l>
+                  <l>Means to <emph>do</emph> all the Gentlemen's Seats on the way.</l>
+                  <l>Now the Scheme is (though none of our hackneys can beat him)</l>
+                  <l>To start a fresh Poet through Highgate to meet him;</l>
+                  <l>Who, by means of quick proofs — no revises — long coaches</l>
+                  <l>May do a few Villas, before Scott approaches.</l>
+                </lg></quote>
+              <bibl>Moore: Intercepted letters Nr. 7.</bibl>
+            </cit></note> Og hvilken Rolle spille ikke disse Herre<pb n="15"/>sæder i to saa polart
+          modsatte Digternaturers Existents som Byrons og Scotts. Newsteads Navn er uadskilleligt
+          knyttet til Byrons som Abbotsfords til Walter Scotts. Det gamle Abbedi med dets
+          middelalderlige og phantasirige Architektur er Byron den nødvendige Folie for hans
+          Pairstitel og Pantet paa hans Hjemstedsret i England. Han afhænder det først, da han har
+          sagt sit Fædreland Farvel for bestandig. Walter Scotts Eiendom er vel ikke saa gammel og
+          ærværdig; men han kjøber sig Abbotsford, da det Ønske om Landbesiddelse, der altid har
+          været mægtigt i ham, bliver uimodstaaeligt, og han indretter sig i den lykkelige Periode
+          af sit Liv, han tilbringer her, som havde han aldrig voxet op med anden Udsigt for Øie end
+          den at vise en gammel skotsk Godsbesidders kongelige Gjæstfrihed og leve hans dristige
+          Friluftsliv. Hans største Morskab er den halsbrækkende Fornøielse <pb n="16"/> at vade
+          gjennem rivende Strømme, selv om han ved at gaae 50 Skridt videre havde kunnet komme over
+          en Bro, at ride paa en Hest saa vild at den ikke kan rides af nogen Anden, og at drive
+          Laxejagt med Spyd ved Fakkelskin, snart gjennemblødt af Regn, snart stivfrossen i
+          Nattekulden. Hvilken Kjender af Byrons Liv mindes ikke her hans Forkjærlighed for vilde
+          Rideture og forvovne Svømmeexperimenter!</p>
 
         <p> Ikke desmindre er der i de to Digteres Forhold til deres Grundeiendom en Modsætning, som
           charakteriserer deres forskjellige Naturer. Byrons Forkjærlighed for Newstead var
@@ -1798,13 +1802,15 @@
           knyttet Navnet paa en eller anden uanseelig eller lav Profession til Evner og Egenskaber,
           som det er lidet sandsynligt at finde knyttede til den. Det er et Paradox, som Wordsworth
           med en vis Forkjærlighed prædiker i sit Digt <bibl>Excursionen</bibl>, at der er store
-          Digtere skjulte i de <pb n="104"/> laveste Stænder<note><lg>
-              <l>Oh! many are the Poets that are sown</l>
-              <l>By Nature; Men endowed with highest gifts,</l>
-              <l>The vision and the faculty divine;</l>
-              <l>Yet wanting the accomplishment of Verse [...]</l>
-              <l rend="right">The Excursion I. The wanderer.</l>
-            </lg>
+          Digtere skjulte i de <pb n="104"/> laveste Stænder<note><cit>
+              <quote><lg>
+                  <l>Oh! many are the Poets that are sown</l>
+                  <l>By Nature; Men endowed with highest gifts,</l>
+                  <l>The vision and the faculty divine;</l>
+                  <l>Yet wanting the accomplishment of Verse [...]</l>
+                </lg></quote>
+              <bibl>The Excursion I. The wanderer.</bibl>
+            </cit>
           </note>; det tilfredsstiller ogsaa hans evangeliske Instincter at tænke sig Talentets
           Uafhængighed af Formue og gode ydre Livsvilkaar; lad være det er uafhængigt deraf; men
           vilde det dog ikke være urimeligt i et Digt at give Poeten Skorstensfeierprofessionen og
@@ -1840,7 +1846,7 @@
           de kjedsommelige og ynkelige Sprogforvridninger, hvortil Rimnød og Mangel paa rytmisk Evne
           have drevet kun altfor mange selv blandt fremragende Digtere, saa vilde man af Hjertet
           applaudere. Jeg for min Del er fuldkomment villig til at underskrive det Kapitel i
-          Théodore Banvilles Poetik<note>Petit traité de poésie franϛaise. S. 56.</note>, der har
+          Théodore Banvilles Poetik<note>Petit traité de poésie française. S. 56.</note>, der har
           til Overskrift: Licentia poetica og til Indhold: Der gives ingen. Men Wordsworth vil have
           sin Sætning ganske anderledes forstaaet. Han hævder at Sproget ikke blot i store Partier
           af ethvert godt Digt nødvendigvis i alle andre Henseender end den metriske maa falde
@@ -3600,13 +3606,15 @@
         </cit>
 
         <p>Berøringen af Shelleys magiske Stav stivnede <pb n="208"/> Vandet til Is og lod Navnet
-          staae som indridset i Krystal for alle følgende Tider <note><lg>
-              <l>[...] time’s monthless torrent grew</l>
-              <l>A scroll of chrystal, blazoning the name</l>
-              <l>Of Adonais.</l>
-              <l rend="right">Shelley: Fragment LXXVII. On Keats.</l>
-            </lg>
-          </note>.</p>
+          staae som indridset i Krystal for alle følgende Tider. <note><cit>
+              <quote><lg>
+                  <l>[...] time’s monthless torrent grew</l>
+                  <l>A scroll of chrystal, blazoning the name</l>
+                  <l>Of Adonais.</l>
+                </lg></quote>
+              <bibl>Shelley: Fragment LXXVII. On Keats.</bibl>
+            </cit>
+          </note></p>
 
         <p> Keats's Poesi er den engelske Naturalismes stærkest duftende Blomst. Den havde jo
           allerede, da han opstod, havt en lang og kraftig Væxt. Dens Løsen var, som vi saa, først
@@ -4107,20 +4115,25 @@
           sikkert bleven revet i Stykker af Befolkningen. Men selv Grattan kunde Intet udrette mod
           de Vaaben, Regjeringen havde anvendt. Den Veltalenhed , hvis Glands og Fasthed Moore har
           sammenlignet med Ædelstenens og som Byron har tillagt ikke blot alle de Fortrin,
-          Demosthenes besad, men ogsaa dem, der fattedes ham, fandt intet Echo<note><lg>
-              <l>An eloquence rich, wheresoever its wave</l>
-              <l>Wander'd free and triumphant, with thoughts, that shone through,</l>
-              <l>As clear as the brooks stene of lustre, and gave</l>
-              <l>With the flash of the gem its solidity too.</l>
-              <l rend="right">Moore: Shall the harp then be silent.</l>
-            </lg>
-            <lg>
-              <l>Ever glorious Grattan! the best of the good!</l>
-              <l>So simple in heart, so sublime in the rest!</l>
-              <l>With all which Demosthenes wanted endued,</l>
-              <l>And his rival and victor in all he possess'd.</l>
-              <l rend="right">Byron: The irish avatar.</l>
-            </lg></note>. Den Dag Unionen blev vedtaget, vare <pb n="237"/> Gallerier og Tribuner
+          Demosthenes besad, men ogsaa dem, der fattedes ham, fandt intet Echo<note><cit>
+              <quote><lg>
+                  <l>An eloquence rich, wheresoever its wave</l>
+                  <l>Wander'd free and triumphant, with thoughts, that shone through,</l>
+                  <l>As clear as the brooks stene of lustre, and gave</l>
+                  <l>With the flash of the gem its solidity too.</l>
+                </lg>
+              </quote>
+              <bibl>Moore: Shall the harp then be silent.</bibl>
+            </cit>
+            <cit>
+              <quote><lg>
+                  <l>Ever glorious Grattan! the best of the good!</l>
+                  <l>So simple in heart, so sublime in the rest!</l>
+                  <l>With all which Demosthenes wanted endued,</l>
+                  <l>And his rival and victor in all he possess'd.</l>
+                </lg></quote>
+              <bibl>Byron: The irish avatar.</bibl>
+            </cit></note>. Den Dag Unionen blev vedtaget, vare <pb n="237"/> Gallerier og Tribuner
           fulde af en ængstelig og spændt Folkeskare. Men Castlereagh, som var sikker nok paa
           Afstemningens Udfald, oppebiede Resultatet ubevægelig og med et Smil paa sine Læber. Da
           Speakeren med langsom Stemme sagde: »Ville de, som ere for Unionen, række Hænderne i
@@ -4337,15 +4350,17 @@
           blaa Strømper og Slæber paa Fødderne — skjæmmede, som man mærker, i hans Øine Billedet af
           den Mand, der havde udkastet den amerikanske Uafhængighedserklæring. Fremfor Alt
           forfærdedes han ved at træffe den franske Philosophi, der for ham som ægte Barn af sin Tid
-          var lutter Gift og Synd, saa udbredt i den unge Republik<note><lg>
-              <l>Already has the child of Gallias school</l>
-              <l>The foul Philosophy, who sins by rule,</l>
-              <l>With all her train of reasoning, damning arts,</l>
-              <l>Begot by brilliant heads on worthless hearts [...]</l>
-              <l>Already has she pour’d her poison here</l>
-              <l>O'er every charm that makes existence dear.</l>
-              <l rend="right">Epistelen: To the Lord Viscount Forbes.</l>
-            </lg></note>. Det var, skriver Moore mange Aar senere, »den eneste Periode af mit <pb
+          var lutter Gift og Synd, saa udbredt i den unge Republik<note><cit>
+              <quote><lg>
+                  <l>Already has the child of Gallias school</l>
+                  <l>The foul Philosophy, who sins by rule,</l>
+                  <l>With all her train of reasoning, damning arts,</l>
+                  <l>Begot by brilliant heads on worthless hearts [...]</l>
+                  <l>Already has she pour’d her poison here</l>
+                  <l>O'er every charm that makes existence dear.</l>
+                </lg></quote>
+              <bibl>Epistelen: To the Lord Viscount Forbes.</bibl>
+            </cit></note>. Det var, skriver Moore mange Aar senere, »den eneste Periode af mit <pb
             n="250"/> Liv, i hvilket jeg har følt mig selv skeptisk med Hensyn til Sundheden af den
           frisindede politiske Tro, som hvis Bekjender og Advocat jeg næsten bogstavelig kan siges
           at have begyndt mit Liv og efter al Sandsynlighed vil ende det.« Det kunde et Øieblik
@@ -5539,8 +5554,8 @@
         <cit>
           <quote><lg>
               <l>είμι ϕιλάνϑρωπος δημωκράτικός τ΄ άϑεός τε.</l>
-              <l rend="right"> Percy B. Shelley.</l>
             </lg></quote>
+          <bibl> Percy B. Shelley.</bibl>
         </cit>
 
         <p>Paa Dansk: Jeg er en Philanthrop, en Demokrat og en Atheist. Southeys ovennævnte Manifest
@@ -5588,11 +5603,13 @@
           Luften med Affektation, Søskolen havde slaaet Vinduerne op for Bjergenes og Søernes friske
           Atmospliære. Men Wordsworth’s Naturkjærlighed var lidenskabsløs, hvad andet han saa i
           Tintern Abbey havde sagt. Naturen var ham en Forfriskning og et Stof til protestantiske
-          Reflexioner. Hin ringeste Blomst, der gav ham Tanker, som ofte laa altfor dybt for Taarer<note><lg>
-              <l>To me the meanest flover that blows can give</l>
-              <l>Thoughts that do often lie too deep for tears.</l>
-              <l rend="right"><bibl>Poet. W.</bibl> III, 322.</l>
-            </lg>
+          Reflexioner. Hin ringeste Blomst, der gav ham Tanker, som ofte laa altfor dybt for Taarer<note><cit>
+              <quote><lg>
+                  <l>To me the meanest flover that blows can give</l>
+                  <l>Thoughts that do often lie too deep for tears.</l>
+                </lg></quote>
+              <bibl>Poet. W. III, 322.</bibl>
+            </cit>
           </note>, den tog han i sit Knaphul og pyntede sig med og betragtede den nu og da med med
           stille Værdighed, pønsende paa en Sammenligning. Shelley kaster sig ud i Naturen, da
           Menneskeverdenen lukker sig bag ham. Derfor føler ikke han som Andre den udenfor sig som
@@ -6833,7 +6850,7 @@
           Begavelse Skylden, saa at Kritiken i ethvert Fald fulgtes af en dyb Taushed. Men nu vare
           de stødte paa den, hvis uhyre Styrke og Svaghed det netop var aldrig at give sig selv
           Skylden for en Vanskjæbne, men med Lidenskab at kaste den over paa Andre. Ogsaa denne Gang
-          fulgtes Kritiken af en lialvandetaarig Taushed. Men da gik det som der staaer i Victor
+          fulgtes Kritiken af en halvandetaarig Taushed. Men da gik det som der staaer i Victor
           Hugos Digt:</p>
 
         <cit>
@@ -6841,19 +6858,21 @@
               <l>Tout à coup au milieu de ce silence morne</l>
               <l>Qui monte et s’accroît de moment en moment</l>
               <l>S'élève un formidable et long rugissement,</l>
-              <l>C’est le lion</l>
-            </lg><note>Hugo: Les châtiments. La caravane.</note>. </quote>
+            <l>C’est le lion.<note><bibl>Hugo: Les châtiments. La caravane.</bibl></note></l>
+            </lg></quote>
         </cit>
-
+        
         <p><pb n="384"/>Og Billedet er det rette. Thi denne ikke smukke, ikke gratiøse, ikke vittige
           Satire er mere Brøl end Sang. Den Digter der har Nattergalens Strube fryder sig, naar han
-          første Gang hører, at hans Stemme har Vellyd<note><lg>
-              <l>Ret aldrig kan jeg glemme</l>
-              <l>Den allerførste Gang,</l>
-              <l>Da jeg min egen Stemme</l>
-              <l>Fik høre, at den sang.</l>
-              <l rend="right">Chr. Winther: Til Een, Nr. 139.</l>
-            </lg></note>; den grimme Ælling sporer sin Svanenatur, da den kastes ud i sit Element;
+          første Gang hører, at hans Stemme har Vellyd<note><cit>
+              <quote><lg>
+                  <l>Ret aldrig kan jeg glemme</l>
+                  <l>Den allerførste Gang,</l>
+                  <l>Da jeg min egen Stemme</l>
+                  <l>Fik høre, at den sang.</l>
+                </lg></quote>
+              <bibl>Chr. Winther: Til Een, Nr. 139.</bibl>
+            </cit></note>; den grimme Ælling sporer sin Svanenatur, da den kastes ud i sit Element;
           men Løveungens Brøl overrasker den selv og lærer den, at den nu er voxet op til Løve. Man
           søge da ikke i <bibl>English bards and scotch reviewers</bibl> efter Kaardestød, givne med
           en fast og sikker Haand; disse Saar ere ikke slagne af en Haand, men huggede af en Klo —
@@ -6957,18 +6976,20 @@
 
         <p><pb n="390"/> Han, der i lige Linie stammer ned fra Rousseau, føler sig heftigt dragen
           til alle de i »Naturtilstanden« levende Folk<note>Han har skildret Rousseau i en Strophe,
-            der synes skrevet om ham selv: <lg>
-              <l>Here, the self-torturing sophist, wild Rousseau,</l>
-              <l>The apostle of affliction, he who threw</l>
-              <l>Enchantment over passion, and from woe</l>
-              <l>Wrung overwhelming eloquence, first drew</l>
-              <l>The breath, which made him wretched; yet he knew</l>
-              <l>How to make madness beautiful, and cast</l>
-              <l>O’er erring deeds and thoughts a heavenly hue</l>
-              <l>Of words, like sunbeams, dazzling as they pass’d</l>
-              <l>The eyes, which o’er them shed tears feelingly and fast.</l>
-              <l rend="right"><bibl>Childe Harold</bibl> III, 77.</l>
-            </lg>
+            der synes skrevet om ham selv: <cit>
+              <quote><lg>
+                  <l>Here, the self-torturing sophist, wild Rousseau,</l>
+                  <l>The apostle of affliction, he who threw</l>
+                  <l>Enchantment over passion, and from woe</l>
+                  <l>Wrung overwhelming eloquence, first drew</l>
+                  <l>The breath, which made him wretched; yet he knew</l>
+                  <l>How to make madness beautiful, and cast</l>
+                  <l>O’er erring deeds and thoughts a heavenly hue</l>
+                  <l>Of words, like sunbeams, dazzling as they pass’d</l>
+                  <l>The eyes, which o’er them shed tears feelingly and fast.</l>
+                </lg></quote>
+              <bibl>Childe Harold III, 77.</bibl>
+            </cit>
           </note>. Albaneserne ere næsten endnu den Dag idag saa vilde som deres pelasgiske
           Forfædre, og Næveret og Blodhævn gjælder endnu imellem dem som eneste Retsorden. Det
           første Skue af Mænd og Kvinder paa Kysten i de prægtige Costumer, med høie Filthuer eller
@@ -7434,21 +7455,25 @@
           og Uret blive Tilfældigheder og Menneskene blegne for at deres egne Domme skulle blive
           altfor klare og deres frie Tanker Forbrydelser og Jorden faae altfor meget <pb n="417"/>
           Lys.« Og saaledes blev, som han i <bibl>Don Juan</bibl> udtrykker det, »Hykleriet en
-          Vælde, som han maatte have 40 Præsters Kraft til værdig at besynge«<note><lg>
-              <l>Opinion an omnipotence — whose veil</l>
-              <l>Manties the earth with darkness, until right</l>
-              <l>And wrong are accidents, and men grow pale</l>
-              <l>Lest their own judgments should become too bright</l>
-              <l>And their free thoughts be crimes, and earth have too much light.</l>
-              <l rend="right"><bibl>Childe Harold</bibl> IV 93. </l>
-            </lg>
-            <lg>
-              <l>Oh for a <emph>forty-parson power</emph> to chant</l>
-              <l>Thy praise, Hypocrisy! oh for a hymn</l>
-              <l>Loud as the virtues thou dost loudly vaunt</l>
-              <l>Not practise! Oh for trump of cherubim!</l>
-              <l rend="right"><bibl>Don Juan</bibl> X 34.</l>
-            </lg>
+          Vælde, som han maatte have 40 Præsters Kraft til værdig at besynge«<note><cit>
+              <quote><lg>
+                  <l>Opinion an omnipotence — whose veil</l>
+                  <l>Manties the earth with darkness, until right</l>
+                  <l>And wrong are accidents, and men grow pale</l>
+                  <l>Lest their own judgments should become too bright</l>
+                  <l>And their free thoughts be crimes, and earth have too much light.</l>
+                </lg></quote>
+              <bibl>Childe Harold IV 93. </bibl>
+            </cit>
+            <cit>
+              <quote><lg>
+                  <l>Oh for a <emph>forty-parson power</emph> to chant</l>
+                  <l>Thy praise, Hypocrisy! oh for a hymn</l>
+                  <l>Loud as the virtues thou dost loudly vaunt</l>
+                  <l>Not practise! Oh for trump of cherubim!</l>
+                </lg></quote>
+              <bibl>Don Juan X 34.</bibl>
+            </cit>
           </note>. Det kunde ikke være anderledes i en Tid, der frembyder saa mange Analogier med
           den Epoche, der betegner den antike Livsanskuelses Opløsning, en Tid, i hvilken en gammel
           theologisk Verdens- og Livs-Anskuelse, paa alle Punkter undergravet og gjennemhullet af
@@ -7646,44 +7671,53 @@
           idetmindste altid blive mit. Skjøndt fra vor Fødsel af denne guddommelige Evne er lænket
           og martret, sammenkrummet, indespærret og holdt fangen, og opdraget i Mørke af Frygt for
           at Sandheden skulde skinne altfor klart paa det uforberedte Sind — Straalen bryder dog
-          ind; thi Tid og Kunst ville helbrede de Blinde<note><lg>
-              <l>Yet let us ponder boldly — 't is a base</l>
-              <l>Abandonment of reason to resign</l>
-              <l>Our right of thought — our last and only place</l>
-              <l>Of refuge; this, at least, shall still be mine:</l>
-              <l>Though from our birth the faculty divine</l>
-              <l>Is chain'd and tortured — cabin'd, cribb'd, confined,</l>
-              <l>And bred in darkness, lest the truth should shine</l>
-              <l>Too brightly on the unprepared mind</l>
-              <l>The beam pours in, for time and skill will couch the blind.</l>
-              <l rend="right">Ch. H. IV 127 smlgn. Don Juan IX 24.</l>
-            </lg></note>. Og han vil ikke blot gruble, han vil handle. Han anraaber Tiden, den store
-          Hævner, han minder den om at han med Ro og Stolthed har udholdt Verdens Had — og han har
-          kjendt alle Hadets <pb n="430"/> Arter<note><lg>
-              <l>From mighty wrongs to petty perfidy</l>
-              <l>Have I not seen what human things could do?</l>
-              <l>From the loud roar of foaming calumny</l>
-              <l>To the small whisper of the as paltry few,</l>
-              <l>And subtler venom of the reptile crew [...]</l>
-              <l rend="right">Ch. H. IV, 136.</l>
-            </lg></note> — og han slutter med Bønnen: O lad mig da ikke have baaret dette Jern
+          ind; thi Tid og Kunst ville helbrede de Blinde<note><cit>
+              <quote><lg>
+                  <l>Yet let us ponder boldly — 't is a base</l>
+                  <l>Abandonment of reason to resign</l>
+                  <l>Our right of thought — our last and only place</l>
+                  <l>Of refuge; this, at least, shall still be mine:</l>
+                  <l>Though from our birth the faculty divine</l>
+                  <l>Is chain'd and tortured — cabin'd, cribb'd, confined,</l>
+                  <l>And bred in darkness, lest the truth should shine</l>
+                  <l>Too brightly on the unprepared mind</l>
+                  <l>The beam pours in, for time and skill will couch the blind.</l>
+                </lg></quote>
+              <bibl>Ch. H. IV 127</bibl>
+              <bibl>smlgn. Don Juan IX 24.</bibl>
+            </cit></note>. Og han vil ikke blot gruble, han vil handle. Han anraaber Tiden, den
+          store Hævner, han minder den om at han med Ro og Stolthed har udholdt Verdens Had — og han
+          har kjendt alle Hadets <pb n="430"/> Arter<note><cit>
+              <quote><lg>
+                  <l>From mighty wrongs to petty perfidy</l>
+                  <l>Have I not seen what human things could do?</l>
+                  <l>From the loud roar of foaming calumny</l>
+                  <l>To the small whisper of the as paltry few,</l>
+                  <l>And subtler venom of the reptile crew [...]</l>
+                </lg></quote>
+              <bibl>Ch. H. IV, 136.</bibl>
+            </cit></note> — og han slutter med Bønnen: O lad mig da ikke have baaret dette Jern
           forgjæves i min Sjæl!</p>
 
         <p> Naar han da nu atter reiser fra Land til Land, da svinder hans personlige Sorg sammen
           ved Skuet af Boms uhyre Ruiner og som hin Sulpicius, hvis Følelser Chateaubriand tilranede
           Helten i sine <bibl>Martyrer</bibl>, føler han sin Skjæbnes Lidenhed i Sammenligning med
-          den, som har bortmeiet Grækenlands Byer<note><lg>
-              <l>O Rome! my country! city of the dead</l>
-              <l>The orphans of the heart must turn to thee</l>
-              <l>Lone mother of dead empires! and control</l>
-              <l>In their shut breasts their petty misery.</l>
-              <l rend="right">Ch. H. IV, 78. </l>
-            </lg><lg>
-              <l>Wandering in youth I traced the path of him</l>
-              <l>The Roman friend of Rome's least mortal mind</l>
-              <l>The friend of Tully.</l>
-              <l rend="right">Ch. H. IV, 44 smlgn. Reactionen i Frankrig S. 199.</l>
-            </lg>
+          den, som har bortmeiet Grækenlands Byer<note><cit>
+              <quote><lg>
+                  <l>O Rome! my country! city of the dead</l>
+                  <l>The orphans of the heart must turn to thee</l>
+                  <l>Lone mother of dead empires! and control</l>
+                  <l>In their shut breasts their petty misery.</l>
+                </lg></quote>
+              <bibl>Ch. H. IV, 78. </bibl>
+            </cit><cit>
+              <quote><lg>
+                  <l>Wandering in youth I traced the path of him</l>
+                  <l>The Roman friend of Rome's least mortal mind</l>
+                  <l>The friend of Tully.</l>
+                </lg></quote>
+              <bibl>Ch. H. IV, 44 smlgn. Reactionen i Frankrig S. 199.</bibl>
+            </cit>
           </note>. Og naar han ikke nøiet med den blotte Tankes Frihed vender Blikket udad og
           sysselsættes af de store politiske Kampe, da gjentager han ikke blot de gamle Opraab til
           de Faldne, som naar han tilraaber Vene<pb n="431"/>dig, at Staden har druknet
@@ -7724,13 +7758,15 @@
           sin Gudstjeneste og samler sin Sjæl i Andagt. Han vrager alle »Afgudshuse«, gothiske
           Kirker saavel som græske Templer, og ligesom de gamle Persere byggede deres Alter paa de
           høieste, Jorden overskuende Bjerge, saaledes boier han sit Hoved i <emph>Naturens</emph>
-          store Kirke, den som bestaaer af Jord og Luft<note><lg>
-              <l>Come and compare</l>
-              <l>Columns and idol-dwellings, Goth or Greek</l>
-              <l>With Natures realms of worship, earth and air,</l>
-              <l>Nor fix on fond abodes to circumscribe thy pray'r.</l>
-              <l rend="right">Ch. H. III, 91.</l>
-            </lg></note>.</p>
+          store Kirke, den som bestaaer af Jord og Luft<note><cit>
+              <quote><lg>
+                  <l>Come and compare</l>
+                  <l>Columns and idol-dwellings, Goth or Greek</l>
+                  <l>With Natures realms of worship, earth and air,</l>
+                  <l>Nor fix on fond abodes to circumscribe thy pray'r.</l>
+                </lg></quote>
+              <bibl>Ch. H. III, 91.</bibl>
+            </cit></note>.</p>
       </div>
       <div>
         <head>XIX. [Byron. Den revolutionære Aand]</head>
@@ -8064,23 +8100,26 @@
           det menneskelige Sprog er fuldt af Ord, som Fortiden har dannet og som Eftertiden er nødt
           til at bruge, da Sproget ei har andre, skjøndt den fortolker dem om og om. Saadanne Ord
           ere f. Ex. Sjæl og Legeme, Evighed, Salighed, Paradiset, den første Fristelse, den første
-          Forbandelse o. s. v., og Byron har i sit Digt beholdt alle Genesis's Udtryk <note>Renan
-            siger herom: Supposé même que, pour nous philosophes, un autre mot fut préférable, outre
-            que les mots ab straits n'expriment pas assez clairement. la réelle existence, il y
-            aurait un immense inconvénient a nous séparer par notre langage des simples qui adorent
-            si bien à leur manière. Le mot <emph>Dieu</emph> étant en possession des respects de
-            l'humanité, ce mot ayant pour lui une longue préscription et ayant été employé dans des
-            belles poésies, ce serait renverser toutes les habitudes du langage que de l'abandonner.
-            Dites aux simples de vivre d'aspiration à la vérité, à la beauté, à la bonté morale, ces
-            mots n'auront pour eux aucun sens. Dites leur d'aimer Dieu, de ne pas offenser Dieu, ils
-            vous comprendront à merveille. Dieu, Providence, immortalité, autant de bons vieux mots,
-            un peu lourds peut-être, que la philosophie interprêtera dans des sens de plus en plus
-            raffinés mais qu'elle ne remplacera jamais avec avantage. <p rend="right"><bibl>Etudes
-                d'histoire religieuse</bibl> S. 418.</p></note>. Saaledes virker hans Drama ved
-          denne anden tankevæk<pb n="454"/> kende Modsigelse, at alle de gamle theologiske og
-          barbariske Ord ere beholdte, saa at der bestaaer en uafbrudt indre Strid mellem Digtets
-          Aand og dets Bogstav. Denne anden Modsigelse ryster de Læsere, som den første har skræmmet
-          op.</p>
+          Forbandelse o. s. v., og Byron har i sit Digt beholdt alle Genesis's Udtryk. <note>Renan
+            siger herom: <cit>
+              <quote>Supposé même que, pour nous philosophes, un autre mot fut préférable, outre que
+                les mots ab straits n'expriment pas assez clairement. la réelle existence, il y
+                aurait un immense inconvénient a nous séparer par notre langage des simples qui
+                adorent si bien à leur manière. Le mot <emph>Dieu</emph> étant en possession des
+                respects de l'humanité, ce mot ayant pour lui une longue préscription et ayant été
+                employé dans des belles poésies, ce serait renverser toutes les habitudes du langage
+                que de l'abandonner. Dites aux simples de vivre d'aspiration à la vérité, à la
+                beauté, à la bonté morale, ces mots n'auront pour eux aucun sens. Dites leur d'aimer
+                Dieu, de ne pas offenser Dieu, ils vous comprendront à merveille. Dieu, Providence,
+                immortalité, autant de bons vieux mots, un peu lourds peut-être, que la philosophie
+                interprêtera dans des sens de plus en plus raffinés mais qu'elle ne remplacera
+                jamais avec avantage. </quote>
+              <bibl>Etudes d'histoire religieuse S. 418.</bibl>
+            </cit>
+          </note> Saaledes virker hans Drama ved denne anden tankevæk<pb n="454"/> kende Modsigelse,
+          at alle de gamle theologiske og barbariske Ord ere beholdte, saa at der bestaaer en
+          uafbrudt indre Strid mellem Digtets Aand og dets Bogstav. Denne anden Modsigelse ryster de
+          Læsere, som den første har skræmmet op.</p>
 
         <p> Men til Opvisningen af den almindelige Theismes Fladhed svarer i dette Drama den
           lidenskabelige Udtalelse af Mennesketilværelsens uendelige Jammer. Ikke Pessimisme, som
@@ -8888,11 +8927,13 @@
         <p> Saa store Modsætninger indbefatter dette Digt. Men det er ikke en sandselig,
           satirisk-humoristisk Epopee som Ariosts, det er et lidenskabeligt politisk Tendensdigt,
           fuldt af Harme, Haan, Trusler og Opraab, med lange, gjentagne, gjaldende Stød i
-          Revolutionens Krigslur.<note><lg>
-              <l>But by and by I'll prattle</l>
-              <l>Like Roland's horn in Roncesvalles battle.</l>
-              <l rend="right"><bibl>Don Juan</bibl> X 87.</l>
-            </lg>
+          Revolutionens Krigslur.<note><cit>
+              <quote><lg>
+                  <l>But by and by I'll prattle</l>
+                  <l>Like Roland's horn in Roncesvalles battle.</l>
+                </lg></quote>
+              <bibl>Don Juan X 87.</bibl>
+            </cit>
           </note> Byron skildrer ikke blot Rædslerne, han commenterer dem. Da han efter Ismails
           Indtagelse bar citeret Slagteren Suwarows Seirsrapport til Catharina, siger han: »Han
           skrev denne Vise, Text, Melodi og Accompagnement af Rallen, Hyl og Skrig; den lader sig
@@ -9277,24 +9318,25 @@
           overfor dette Tab som overfor en frygtelig Naturbegivenhed, hvis Følger ikke lode sig
           beregne. Samme Dag udkom følgende Decret:</p>
 
-        <p rend="center">Den provisoriske Regjering for Vestgrækenland.</p>
-
         <cit>
-          <quote><p> Paaskefesten idag er fra en Glædesfest bleven forvandlet til en Sorgens og
-              Kummerens Dag. Lord Noel Byron har i Eftermiddags Kl. 6 efter en 10 Dages Sygdom
-              ophørt at leve. [...] Jeg forordner herved: <list rend="numbered">
-                <item>1) Ved Daggry imorgen skulle 37 Kanonskud affyres fra det store Batteri, et
-                  Tal, der svarer til den høie Dødes Leveaar. </item>
-                <item>2) Alle offentlige Bygninger, ogsaa Domhusene, forblive lukkede i 3 Dage. </item>
-                <item>3) Alle Boder med Undtagelse af Apothekerne forblive ligeledes lukkede, og der
+          <quote><title>Den provisoriske Regjering for Vestgrækenland.</title><p> Paaskefesten idag
+              er fra en Glædesfest bleven forvandlet til en Sorgens og Kummerens Dag. Lord Noel
+              Byron har i Eftermiddags Kl. 6 efter en 10 Dages Sygdom ophørt at leve. [...] Jeg
+              forordner herved: <list rend="numbered">
+                <item>Ved Daggry imorgen skulle 37 Kanonskud affyres fra det store Batteri, et Tal,
+                  der svarer til den høie Dødes Leveaar. </item>
+                <item>Alle offentlige Bygninger, ogsaa Domhusene, forblive lukkede i 3 Dage. </item>
+                <item>Alle Boder med Undtagelse af Apothekerne forblive ligeledes lukkede, og der
                   holdes strengt over, at ingen Art af Munterhed, hvormed Paaskefesten ellers
                   feires, bliver givet tilkjende.</item>
-                <item>4) Almindelig Landesorg i 21 Dage. </item>
-                <item>5) I alle Kirker skal Sørgegudstjeneste afholdes.</item>
-              </list></p></quote>
+                <item>Almindelig Landesorg i 21 Dage. </item>
+                <item>I alle Kirker skal Sørgegudstjeneste afholdes.</item>
+              </list>Givet i Missolunghi d. 19 April 1824.</p></quote>
+          <bibl> A. Maurocordato.</bibl>
+          <!-- skal snarere opmærkes som brevunderskriver -->
         </cit>
-        <p> Givet i Missolunghi d. 19 April 1824.</p>
-        <p rend="right"> A. Maurocordato.</p>
+
+
 
         <p>Der behøves intet andet Vidnesbyrd om det Indtryk, Budskabet om Byrons Død gjorde paa
           alle dem, der støde ham nær. Den græske Befolkning løb klagende gjennem Graderne under
