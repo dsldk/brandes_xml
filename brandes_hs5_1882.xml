@@ -48,7 +48,8 @@
               <l>Époque fulgurante</l>
               <l>Ses luttes, ses ardeurs [...]</l>
             </lg>
-          </quote><bibl>Th. de Banville.</bibl>
+          </quote>
+          <bibl>Th. de Banville.</bibl>
         </cit>
         <cit>
           <quote>
@@ -58,15 +59,18 @@
               <l>Gemeine ist’s, das ewig Gestrige,</l>
               <l>Was immer war und immer wiederkehrt</l>
               <l>Und morgen gilt, weil’s heute hat gegolten.</l>
-            </lg></quote><bibl>Schiller.</bibl>
+            </lg></quote>
+          <bibl>Schiller.</bibl>
         </cit>
       </epigraph>
-      
-      <!--<pb n="[3]"  deltitleblad / <halftitle>  <head>DEN ROMANTISKE SKOLE I FRANKRIG.</head>  -->
-      
     </front>
-    
+
     <body>
+
+      <div type="half-title">
+        <head><pb n="[3]"/>Den romantiske Skole i Frankrig</head>
+      </div>
+
       <div>
         <head><pb n="[5]"/>I. [Den politiske Baggrund]</head>
 
@@ -764,8 +768,9 @@
               Unge Folk! Gud skjærme Jer. Sagen er god, gjør Eders Pligt! De staae op, og jeg
               tilføier: Og nu, <pb n="44"/> Børnlille, pas godt paa Victor Hugo; thi Vorherre er vel
               en vakker Mand, men han har saa Meget at gjøre, at vor Ven fremfor Alt maa regne paa
-              os. Gaaer da og gjører ikke den, I tjene, Skam. Amen.</p><p rend="right">Deres med Liv
-              og Sjæl hengivne</p><p rend="right"> Charlet.</p></quote>
+              os. Gaaer da og gjører ikke den, I tjene, Skam. Amen.</p><p>Deres med Liv og Sjæl
+              hengivne</p></quote>
+          <bibl>Charlet.</bibl>
         </cit>
         <p> Baaren af en saa sværmerisk Hengivenhed, i Kamp med en saa fanatisk Modstand var det, at
           den romantiske Kunst stormede den første fjendtlige Skandse og vandt sin første afgjørende
@@ -1312,26 +1317,27 @@
           hinanden indbyrdes og med Beyle. Paa den Tid, da Hugo endnu var kongeligsindet, christen
           og conservativ, var Globe allerede revolutionær, filosofisk og liberal. Den første som i
             <bibl>Globe</bibl> gav sig til at give Romantismens Program var Thiers, der, som det i
-          Regelen skeer ved litterære og kunstneriske Gjennembrud, opstillede Ordene <emph>Natur</emph> og <emph>Sandhed</emph> som Løsen. Han bekjæmper i
-          den bildende Kunst det Akademiske, det Symmetriske, fordrer i dramatisk Poesi <emph>den historiske Sandhed</emph>, det Samme omtrent som man senere mente med
-          Localfarven. Duvergier de Hauranne bestemmer i en Artikel <bibl>Om det Romantiske</bibl>
-          Klassicismen som Rutine, Romantismen som Frihed, nemlig som Frihed for de mest
-          forskjelligartede Talenter (Hugo og Beyle, Manzoni og Nodier) til at udfolde sig med deres
-          hele Eiendommelighed. Medens Ampére definerer Klassicismen som Efterligning, Romantismen
-          som Originalitet, forsøger en Anonym (efter al Sandsynlighed <pb n="74"/> Sismondi) at
-          give en strengere Definition, idet han bemærker, at Ordet Romantisme ikke er bleven dannet
-          for at betegne de litterære Værker, i hvilke et hvilketsomhelst Samfund har givet sig
-          Udtryk, men kun den Litteratur, der giver<emph> et tro Billede af den moderne
-            Civilisation</emph>. Da denne efter hans Overbevisning i sit Væsen er spiritualistisk, saa
-          er Romantismen at definere som Spiritualismen i Litteraturen. Med ungdommelig Voldsomhed
-          og i dristigere Udtryk optræder <bibl>Barrikaderne</bibl>s senere Forfatter, den
-          tyveaarige Vitet, som Bestemmer af Romantismens Væsen. Den betyder simpelthen Uafhængighed
-          i Kunstanlig gender, individuel Frihed i Litteraturen. »Romantismen er«, siger han,
-          »Protestantismen i Litteratur og Kunst« og tænker øiensynlig herved udelukkende paa
-          Løsrivelsen fra en pavelig Autoritet. Den er, fortsætter han, hverken en litterær Doctrin
-          eller en Partisag, men Nødvendighedens Lov, Forandringens, Fremskridtets Lov: »Om tyve Aar
-          vil hele Folket være romantisksindet; jeg siger hele Folket, thi Jesuiterne ere ikke
-          Folket.«</p>
+          Regelen skeer ved litterære og kunstneriske Gjennembrud, opstillede Ordene
+            <emph>Natur</emph> og <emph>Sandhed</emph> som Løsen. Han bekjæmper i den bildende Kunst
+          det Akademiske, det Symmetriske, fordrer i dramatisk Poesi <emph>den historiske
+            Sandhed</emph>, det Samme omtrent som man senere mente med Localfarven. Duvergier de
+          Hauranne bestemmer i en Artikel <bibl>Om det Romantiske</bibl> Klassicismen som Rutine,
+          Romantismen som Frihed, nemlig som Frihed for de mest forskjelligartede Talenter (Hugo og
+          Beyle, Manzoni og Nodier) til at udfolde sig med deres hele Eiendommelighed. Medens Ampére
+          definerer Klassicismen som Efterligning, Romantismen som Originalitet, forsøger en Anonym
+          (efter al Sandsynlighed <pb n="74"/> Sismondi) at give en strengere Definition, idet han
+          bemærker, at Ordet Romantisme ikke er bleven dannet for at betegne de litterære Værker, i
+          hvilke et hvilketsomhelst Samfund har givet sig Udtryk, men kun den Litteratur, der
+            giver<emph> et tro Billede af den moderne Civilisation</emph>. Da denne efter hans
+          Overbevisning i sit Væsen er spiritualistisk, saa er Romantismen at definere som
+          Spiritualismen i Litteraturen. Med ungdommelig Voldsomhed og i dristigere Udtryk optræder
+            <bibl>Barrikaderne</bibl>s senere Forfatter, den tyveaarige Vitet, som Bestemmer af
+          Romantismens Væsen. Den betyder simpelthen Uafhængighed i Kunstanlig gender, individuel
+          Frihed i Litteraturen. »Romantismen er«, siger han, »Protestantismen i Litteratur og
+          Kunst« og tænker øiensynlig herved udelukkende paa Løsrivelsen fra en pavelig Autoritet.
+          Den er, fortsætter han, hverken en litterær Doctrin eller en Partisag, men Nødvendighedens
+          Lov, Forandringens, Fremskridtets Lov: »Om tyve Aar vil hele Folket være romantisksindet;
+          jeg siger hele Folket, thi Jesuiterne ere ikke Folket.«</p>
 
         <p> Der er, som Læseren seer, neppe en Nuanceforskjel mellem disse Definitioner og den, i
           hvilken Victor Hugo havnede: »Romantismen er Liberalismen i Litteraturen» og man vil ikke
@@ -1944,7 +1950,8 @@
           Angst i Templer og ved Fester? skulde det være Dafne?</p>
 
         <p> O Guder, ti dog, Moder, ti. Hun er stolt, ubøielig som de Udødelige, skjøn og frygtelig.
-          Tusinde Elskere have tilbedt hende, og have elsket hende forgjæves; som de vilde <emph>jeg</emph> kun have faaet et hovmodigt Afslag. Nei lad hende aldrig erfare
+          Tusinde Elskere have tilbedt hende, og have elsket hende forgjæves; som de vilde
+            <emph>jeg</emph> kun have faaet et hovmodigt Afslag. Nei lad hende aldrig erfare
           [...]</p>
 
         <p> Og dog! o Kval og Død! min kjære Moder! du seer i hvilken Jammer jeg gaaer tilgrunde.
@@ -3742,8 +3749,9 @@
           skjærpet hendes Skjønhedssands, men direkte har hans kunstneriske Fremgangsmaade ikke
           kunnet paavirke hende. For ligefrem stilistisk Paavirkning var George Sand absolut
           uimodtagelig. Madame Girardins vittige Udbrud om hende: »Det er især naar Talen er om
-          kvindelige Forfatteres Værker, at man maa udraabe med Buffon: Stilen, det er <emph>Manden</emph>« er netop lige saa falsk som det er morsomt; thi skjøndt
-          næsten enhver af George Sands Romaner bærer Præget af en forskjellig mandlig Indflydelse,
+          kvindelige Forfatteres Værker, at man maa udraabe med Buffon: Stilen, det er
+            <emph>Manden</emph>« er netop lige saa falsk som det er morsomt; thi skjøndt næsten
+          enhver af George Sands Romaner bærer Præget af en forskjellig mandlig Indflydelse,
           strækker denne Paavirkning sig aldrig til Stilen. Hun gjør sig atter og atter til Organ
           for andres Ideer, men hun efterligner aldrig en fremmed Skrivemaade. Dertil var hendes
           poetiske Væsen altfor selvstændigt, og dertil var hun desuden i altfor ringe Grad
@@ -4851,12 +4859,12 @@
           trods alle de Penge, Frøken de Bellefeuille har kostet Familien.« Ja en Dag, da Jules
           Sandeau talte med ham om sin syge Søster og Balzac nogen Tid adspredt havde hørt til,
           afbrød han ham med de Ord: »Det er altsammen godt nok, kjære Ven, men lad os vende tilbage
-          til <emph>Virkeligheden</emph>, lad os tale om Eugénie Grandet.« Det var
-          nødvendigt, selv at føle Illusionen med en saadan Magt for at kunne meddele andre den med
-          en tilnærmelsesvis lignende Styrke. Hans Fantasi havde den bydende Kraft, der ikke
-          tillader nogen Tvivl at opstaae. Man underkastede sig den ogsaa i det daglige Liv. Blandt
-          de hundrede Projecter, han fandt paa, for at komme ud af sin Gjæld, var engang ogsaa dette
-          at forvandle den nøgne Mark, der laa om den lille Landeiendom «Les Jardies», som han havde
+          til <emph>Virkeligheden</emph>, lad os tale om Eugénie Grandet.« Det var nødvendigt, selv
+          at føle Illusionen med en saadan Magt for at kunne meddele andre den med en
+          tilnærmelsesvis lignende Styrke. Hans Fantasi havde den bydende Kraft, der ikke tillader
+          nogen Tvivl at opstaae. Man underkastede sig den ogsaa i det daglige Liv. Blandt de
+          hundrede Projecter, han fandt paa, for at komme ud af sin Gjæld, var engang ogsaa dette at
+          forvandle den nøgne Mark, der laa om den lille Landeiendom «Les Jardies», som han havde
           kjøbt for at give sin Moder et Pant, til uhyre Drivhuse, der, netop <pb n="272"/> fordi
           intet Træ skyggede mod Solens Brand, vilde behøve meget lidt Brændsel. I disse Drivhuse
           vilde han plante hundredetusind Ananas, der naar de solgtes for fem Francs, istedenfor som
@@ -5494,7 +5502,7 @@
           sygelig. Han døde pludselig af et Slagtilfælde under en Orlov i Paris.<note>Som Følge af
             hans testamentariske Bestemmelse, der viser, hvilken Tiltrækning Minderne fra Milano til
             hans Død havde for ham, kom der paa hans Gravsten paa Montmartrekirkegaarden til at
-            staae: <lg rend="center">
+            staae: <cit><quote><lg rend="center">
               <l> ARRIGO BEYLE</l>
               <l> MILANESE</l>
               <l> SCRISSE</l>
@@ -5503,7 +5511,7 @@
               <l> ANN. LIX M. II</l>
               <l> MORÌ IL XXIII MARZO</l>
               <l> M.D.CCC.XLII.</l>
-            </lg></note>
+            </lg></quote></cit></note>
         </p>
       </div>
       <div>
@@ -5585,12 +5593,12 @@
             saakaldte Overlegenhed kun bestaaer i nogle faa Grader, gjør den elskværdig og bringer
             de andre Mennesker til at søge En, se f. Ex. Fontenelle. Hvis den er større, af­ bryder
             den ethvert Forhold mellem Menneskene og Dig. Det er den ulykkelige Stilling hvori den
-            overlegne eller rettere sagt <emph>forskjelligartede</emph> Mand befinder sig.
-            Om­ givelserne kunne ikke gjøre noget til hans Lykke, Ros fra disse Mennesker vilde
-            efter kort Tids Forløb blive mig modbydelig og deres Kritik vilde pine mig. Paa lignende
-            Maade hedder det i fjerde Kapitel af <bibl>La chartreuse de Parme</bibl>: Kammeraterne
-            fandt Fabrice meget <emph>forskjellig</emph> fra dem selv, hvad der stødte
-            dem; han derimod begyndte at føle meget Venskab for dem.</note>
+            overlegne eller rettere sagt <emph>forskjelligartede</emph> Mand befinder sig. Om­
+            givelserne kunne ikke gjøre noget til hans Lykke, Ros fra disse Mennesker vilde efter
+            kort Tids Forløb blive mig modbydelig og deres Kritik vilde pine mig. Paa lignende Maade
+            hedder det i fjerde Kapitel af <bibl>La chartreuse de Parme</bibl>: Kammeraterne fandt
+            Fabrice meget <emph>forskjellig</emph> fra dem selv, hvad der stødte dem; han derimod
+            begyndte at føle meget Venskab for dem.</note>
           <pb n="314"/></p>
 
         <p>Han var sig bevidst, at han som forskjelligartet ikke kunde regne paa nogen almindelig
@@ -5625,22 +5633,22 @@
           saaledes:</p>
 
         <cit>
-          <quote><p rend="right"> Olagnier,</p>
-            <p rend="right">De Voiron (Isère).</p></quote>
+          <quote><persName> Olagnier, </persName>
+            <placeName>De Voiron (Isère).</placeName></quote>
         </cit>
 
-        <p> Det var ham saa stor en Morskab at ukjende- liggjøre eller travestere sig, at Sætningen
-          «odi profanum vulgus et arceo» vel kan siges at ud-<pb n="316"/> trykke hvad der for ham
+        <p> Det var ham saa stor en Morskab at ukjendeliggjøre eller travestere sig, at Sætningen
+          »odi profanum vulgus et arceo« vel kan siges at ud-<pb n="316"/> trykke hvad der for ham
           personlig var Betingelse for Lykken. Hvori satte han denne selv?</p>
 
         <p> Øiensynlig fra først af i forvoven Handling og i lidenskabelig Elskov. Den Gysen, med
           hvilken man henreven af en Sag eller en Mand sætter Livet paa Spil, og den Skjælven, i
           hvilken lykkelig Kjærlighed sætter Sjælen, var for ham Menneskelivets høieste Momenter.
           Hvor han i Indledningen til <bibl>La Chartreuse</bibl> taler om Milano, siger han meget
-          eharakteristisk: «Det sidste østerrigske Regiments Afmarche betegnede de gamle Ideers
+          eharakteristisk: »Det sidste østerrigske Regiments Afmarche betegnede de gamle Ideers
           Fald: at udsætte sit Liv kom i Mode. Man saa, at for at være lykkelig efter Aarhundreder
           af Hykleri og Fadhed maatte man elske Noget med en virkelig Lidenskab og vide at sætte sit
-          Liv paa Spil, naar Leilighed gaves.»</p>
+          Liv paa Spil, naar Leilighed gaves.«</p>
 
         <p> Disse to Lidenskaber: Kjærligheden til Krigen og Kjærligheden til Kvinden vare hos Beyle
           kun to Udtryk for en og samme Grundlidenskab, Kjærligheden til hvad han pleier at kalde
@@ -5697,8 +5705,8 @@
             <bibl>Lara</bibl>s Forfatter maatte være. Da Samtalen i Logen var ved at gaae istaa,
           søgte Hr. de Brême at faae mig til at tale; men det var mig rent umuligt, jeg var altfor
           fuld af Frygtsomhed og Ømhed. Hvis jeg havde vovet, havde jeg kysset <pb n="320"/> Lord
-          Byrons Haand og var bristet ud i Taarer [...] Af <emph>Ømhed</emph> gav jeg ham
-          det Raad at tage sig en Droschke.«<note>Hovedstederne hos Beyle om Byron ere Afhandlingen
+          Byrons Haand og var bristet ud i Taarer [...] Af <emph>Ømhed</emph> gav jeg ham det Raad
+          at tage sig en Droschke.«<note>Hovedstederne hos Beyle om Byron ere Afhandlingen
               <bibl>Lord Byron en Italie</bibl> (<bibl>Racine et Shakespeare</bibl> 261) og
               <bibl>Lettres à ses amis</bibl> I 273 ff. II 71 ff.</note></p>
 
@@ -5718,57 +5726,59 @@
         <p> Eller man høre ham som forelsket. Han skriver:</p>
 
         <cit>
-          <quote><p rend="center"><emph>Kjærlighedens Fødsel</emph>.</p>
-            <p> Hvad der skeer i Sjælen er følgende:</p>
-            <p>1. Beundringen.</p>
-            <p>2. Man siger til sig selv: «Hvilken Glæde det vilde være at kysse hende, blive kysset
-              af hende o. s. v. </p>
-            <p>3. Haabet. Man studerer Fortrinene [...] Selv hos de mest forbeholdne Kvinder blive
-              Øinene røde i Haabets Øieblik; Lidenskaben er saa stærk, Fornøielsen saa heftig, at
-              den giver sig tilkjende ved utvetydige Tegn. </p>
-            <p>4. Kjærligheden er født. At elske vil sige at have Fornøielse af at see, at berøre,
-              med alle Sandser og saa nær som muligt at fornemme en elskværdig Gjendstand, der
-              elsker os. </p>
-            <p>5. Den første Krystallisation begynder. Man finder en Tilfredsstillelse i med tusinde
-              Fortrin at udsmykke den Kvinde, paa hvis Kjærlighed man er sikker; man gjennemgaaer
-              alle sin Lykkes enkelte Elementer med et uendeligt Behag [...] Lad en Elskers Hoved
-              arbeide i fire og tyve Timer og man finder følgende: Ved Salzburg kaster man en
-              afbladet Gren ned i Saltminernes skjulteste Dybder; to eller tre Maaneder efter
-              trækker man den op paany bedækket med glimrende Krystaller: de mindste Kviste, de der
-              ikke ere tykkere end Kloen paa en Blaameise, ere overstrøede med en Uende<pb n="322"
-              />lighed af bevægelige og blændende Diamanter, saa man ikke mere kan kjende den
-              oprindelige Gren igjen. Hvad jeg kalder Krystallisation, det er Aandens Virksomhed,
-              der af Alt, hvad der fremstiller sig for den, uddrager den Opdagelse, at den elskede
-              Gjenstand har nye Fortrin. En Reisende taler om Kjøligheden i Genua’s Orangeskove:
-              hvilken Fornøielse at nyde denne Kjølighed med hende! [...] Dette Fænomen stammer fra
-              Naturen, der befaler os at søge Fornøielse og lader Blodet stige os til Hovedet,
-              fremdeles fra den Følelse, at Fornøielserne voxe med Fortrinene hos den elskede
-              Gjenstand og endelig fra den Idee: hun er min. Den Vilde har ikke Tid at gaae videre
-              end til det første Skridt. Han har vel Fornøielse, men hans Hjernes hele Virksomhed er
-              optaget af at forfølge det flygtende Rovdyr for at skaffe sig Næring [...] Skjøndt nu
-              altsaa den Lidenskabelige tillægger sin Elskede alle Fortrin, kan Opmærksomheden dog
-              endnu være adspredt, thi Aanden trættes ved alt Ensformigt, selv ved den fuldkomne
-              Lykke. Men hertil kommer saa følgende, der fæstner Opmærksomheden:</p>
-            <p> 6. Tvivlen fødes. Efter at ti eller tolv Blikke eller en hvilkensomhelst anden Række
-              af Handlinger have indgydt Elskeren Haab og styrket Haabet [...] attraaer han
-              yderligere Vidnesbyrd om sin Lykke. Han møder Ligegyldighed, Kulde eller endog Vrede,
-              hvis han lægger altfor <pb n="323"/> stor Sikkerhed for Dagen [...] Han kommer
-              saaledes til at tvivle om den Lykke, han lovede sig. Han bliver streng med Hensyn til
-              de Grunde til Haab, som han troede at have. Han vil trøste sig med Livets øvrige
-              Glæder; han finder at de ikke mere existere for ham. Frygt for en skrækkelig Ulykke
-              griber ham og samtidigt en dyb Trang til Overveielse.</p>
-            <p> 7. Anden Krystallisation. Dennes Diamanter ere Bekræftelser af den Tanke: Hun elsker
-              mig. Hvert Kvarter af den Nat, som følger paa Tvivlens Fødsel, siger Elskeren efter
-              nogle Øieblikkes Fortvivlelse til sig selv: Jo, hun elsker mig, og han opdager nye
-              Fortrin hos hende. Men saa bemægtiger Tvivlen sig ham atter, han sidder opreist,
-              glemmer at drage Aande, spørger sig: Men elsker hun mig virkeligt? Og midt under disse
-              sønderrivende og søde Overveielser føler den stakkels Elsker levende: Samlivet med
-              hende vilde være en Fornøielse, som intet Andet i Verden kan opveie eller
-              erstatte.«</p></quote>
+          <quote><title>Kjærlighedens Fødsel.</title><p> Hvad der skeer i Sjælen er
+              følgende:</p><list rend="numbered">
+              <item>Beundringen.</item>
+              <item>Man siger til sig selv: «Hvilken Glæde det vilde være at kysse hende, blive
+                kysset af hende o. s. v. </item>
+              <item>Haabet. Man studerer Fortrinene [...] Selv hos de mest forbeholdne Kvinder
+                blive Øinene røde i Haabets Øieblik; Lidenskaben er saa stærk, Fornøielsen saa
+                heftig, at den giver sig tilkjende ved utvetydige Tegn. </item>
+              <item>Kjærligheden er født. At elske vil sige at have Fornøielse af at see, at
+                berøre, med alle Sandser og saa nær som muligt at fornemme en elskværdig Gjendstand,
+                der elsker os. </item>
+              <item>Den første Krystallisation begynder. Man finder en Tilfredsstillelse i med
+                tusinde Fortrin at udsmykke den Kvinde, paa hvis Kjærlighed man er sikker; man
+                gjennemgaaer alle sin Lykkes enkelte Elementer med et uendeligt Behag [...] Lad en
+                Elskers Hoved arbeide i fire og tyve Timer og man finder følgende: Ved Salzburg
+                kaster man en afbladet Gren ned i Saltminernes skjulteste Dybder; to eller tre
+                Maaneder efter trækker man den op paany bedækket med glimrende Krystaller: de
+                mindste Kviste, de der ikke ere tykkere end Kloen paa en Blaameise, ere overstrøede
+                med en Uende<pb n="322"/>lighed af bevægelige og blændende Diamanter, saa man ikke
+                mere kan kjende den oprindelige Gren igjen. Hvad jeg kalder Krystallisation, det er
+                Aandens Virksomhed, der af Alt, hvad der fremstiller sig for den, uddrager den
+                Opdagelse, at den elskede Gjenstand har nye Fortrin. En Reisende taler om
+                Kjøligheden i Genua’s Orangeskove: hvilken Fornøielse at nyde denne Kjølighed med
+                hende! [...] Dette Fænomen stammer fra Naturen, der befaler os at søge Fornøielse og
+                lader Blodet stige os til Hovedet, fremdeles fra den Følelse, at Fornøielserne voxe
+                med Fortrinene hos den elskede Gjenstand og endelig fra den Idee: hun er min. Den
+                Vilde har ikke Tid at gaae videre end til det første Skridt. Han har vel Fornøielse,
+                men hans Hjernes hele Virksomhed er optaget af at forfølge det flygtende Rovdyr for
+                at skaffe sig Næring [...] Skjøndt nu altsaa den Lidenskabelige tillægger sin
+                Elskede alle Fortrin, kan Opmærksomheden dog endnu være adspredt, thi Aanden trættes
+                ved alt Ensformigt, selv ved den fuldkomne Lykke. Men hertil kommer saa følgende,
+                der fæstner Opmærksomheden:</item>
+              <item>Tvivlen fødes. Efter at ti eller tolv Blikke eller en hvilkensomhelst anden
+                Række af Handlinger have indgydt Elskeren Haab og styrket Haabet [...] attraaer han
+                yderligere Vidnesbyrd om sin Lykke. Han møder Ligegyldighed, Kulde eller endog
+                Vrede, hvis han lægger altfor <pb n="323"/> stor Sikkerhed for Dagen [...] Han
+                kommer saaledes til at tvivle om den Lykke, han lovede sig. Han bliver streng med
+                Hensyn til de Grunde til Haab, som han troede at have. Han vil trøste sig med Livets
+                øvrige Glæder; han finder at de ikke mere existere for ham. Frygt for en skrækkelig
+                Ulykke griber ham og samtidigt en dyb Trang til Overveielse.</item>
+              <item>Anden Krystallisation. Dennes Diamanter ere Bekræftelser af den Tanke: Hun
+                elsker mig. Hvert Kvarter af den Nat, som følger paa Tvivlens Fødsel, siger Elskeren
+                efter nogle Øieblikkes Fortvivlelse til sig selv: Jo, hun elsker mig, og han opdager
+                nye Fortrin hos hende. Men saa bemægtiger Tvivlen sig ham atter, han sidder opreist,
+                glemmer at drage Aande, spørger sig: Men elsker hun mig virkeligt? Og midt under
+                disse sønderrivende og søde Overveielser føler den stakkels Elsker levende: Samlivet
+                med hende vilde være en Fornøielse, som intet Andet i Verden kan opveie eller
+                erstatte.</item>
+            </list></quote>
         </cit>
 
         <p> Der gives faa saa fine og skarpe Analyser af en Lidenskab. Ikke med Urette have Beyle's
-          Redegjøreiser for hvad der under Lidenskaberne foregaaer i Sjælen bragt hans bedste
+          Redegjørelser for hvad der under Lidenskaberne foregaaer i Sjælen bragt hans bedste
           Kritikere som Taine eller Bourget til at minde om Spinozas mesterlige tredie Del af
           Ethiken: De Affectibus. Der var i denne Krigsmand, Administrator, Diplomat og Elsker et
           stort Stykke af en Filosof. <pb n="324"/> Han stræbte at opløse ethvert Fænomen af
@@ -5782,14 +5792,14 @@
           Tilstande, han famler uafbrudt efter Talbestemmelser, efter Maal og Vægt. Han skildrer
           etsteds en Konges Besøg i en lille By med Optog, Te deum og Røgelseskyer i Kirken, Gevær-
           og Artillerisalver udenfor den, og slutter: »Bønderne var ude af sig selv af Henrykkelse
-          og Fromhed; <emph>een saadan Dag tilintetgjør Virkningen af hundrede Numre
-            jakobinske Aviser</emph>.« Et andet Steds fortæller en landflygtig Revolutionær om
-          hvorledes den Opstand, for hvilken han stod i Spidsen, er strandet blot fordi han ikke
-          vilde lade tre Mennesker henrette og ikke vilde fordele blandt sine Tilhængere syv, otte
-          Millioner, der laa i en Kasse, til hvilken han havde Nøglen. »Hvem der vil Maalet, maa
-          ville Midlerne«, sva<pb n="325"/> rer Beyle's Helt, »hvis jeg istedenfor at være et
-          Støvgran havde nogen Magt, <emph>saa vilde jeg lade tre Mennesker hænge for at
-            frelse fire Menneskers Liv</emph>.« (<bibl>Rouge et Noir</bibl> I 105, II 45.)</p>
+          og Fromhed; <emph>een saadan Dag tilintetgjør Virkningen af hundrede Numre jakobinske
+            Aviser</emph>.« Et andet Steds fortæller en landflygtig Revolutionær om hvorledes den
+          Opstand, for hvilken han stod i Spidsen, er strandet blot fordi han ikke vilde lade tre
+          Mennesker henrette og ikke vilde fordele blandt sine Tilhængere syv, otte Millioner, der
+          laa i en Kasse, til hvilken han havde Nøglen. »Hvem der vil Maalet, maa ville Midlerne«,
+            sva<pb n="325"/> rer Beyle's Helt, »hvis jeg istedenfor at være et Støvgran havde nogen
+          Magt, <emph>saa vilde jeg lade tre Mennesker hænge for at frelse fire Menneskers
+            Liv</emph>.« (<bibl>Rouge et Noir</bibl> I 105, II 45.)</p>
 
         <p> Det er tydeligt nok, at for Beyle bestod til Syvende og Sidst Lykken i Klarhed. Det
           Maal, han bestandig efterstræbte var i sidste Instans, Klarhed over sine indre Tilstande
@@ -5800,9 +5810,9 @@
           Ven: »Den Lykke, du nu har, maa med Nødvendighed lede dig tilbage til den rene Bélismes
           [ↄ: til de strengt Beyle'ske] Principer. Jeg læste for otte Dage siden Rousseau’s
             <bibl>Bekjendelser</bibl>. Det er udelukkende af Mangel paa to eller tre Beyle’ske
-          Principer, at han har været saa ulykkelig. <emph>Denne Mani at see Pligter og
-            Dyder overalt</emph> har gjort hans Stil pedantisk, hans Liv ulykkeligt. Han omgaaes tre
-          Uger i Træk venskabeligt med et Menneske: Krak, Venskabets Pligter o. s. v. Dette Menneske
+          Principer, at han har været saa ulykkelig. <emph>Denne Mani at see Pligter og Dyder
+            overalt</emph> har gjort hans Stil pedantisk, hans Liv ulykkeligt. Han omgaaes tre Uger
+          i Træk venskabeligt med et Menneske: Krak, Venskabets Pligter o. s. v. Dette Menneske
           tænker to Aar efter ikke mere paa ham; han søger og finder en melancholsk Forklaring
           deraf. Bélismen vilde <pb n="326"/> have sagt ham: To Legemer nærme sig hinanden, der
           opstaaer Varme og en Gjæring; men enhver Tilstand af denne Art er forbigaaende. Det er en
@@ -5926,8 +5936,7 @@
           sværmer endog i Smug for Napoleon og har i sin Ungdom været Officier i hans Hær. Naar han
           ifører sig sit store gule Ordensbaand, er det med en Vittighed <pb n="333"/> paa Læberne:
           «»Det tilkommer ikke os,« siger han, »at nedbryde Magtens Prestige; det besørge de franske
-          Aviser hurtigt nok; <emph>Ærbødigheds-Manien</emph> vil neppe vare vor Levetid
-          ud.«</p>
+          Aviser hurtigt nok; <emph>Ærbødigheds-Manien</emph> vil neppe vare vor Levetid ud.«</p>
 
         <p> Men hvad enten de skildrede Personligheder nu ere fremragende ved Begavelse eller ikke,
           saa er den Maade, paa hvilken deres Aandsliv fremføres, enestaaende. Vi see dem ikke blot
@@ -5937,31 +5946,31 @@
 
         <p> Madame de Rênal elsker Julien, der lever i hendes Hus som Børnenes Lærer. Etsteds hedder
           det saa: »Med Skam og Skræk opdagede Madame de Rénal, at hun elskede sine Børn endnu
-          høiere, <emph>fordi de holdt saa meget af Julien</emph>.« — Mathilde de la Mole
-          piner Julien ved at betroe ham de Følelser, hun tidligere har næret for enkelte af sine
+          høiere, <emph>fordi de holdt saa meget af Julien</emph>.« — Mathilde de la Mole piner
+          Julien ved at betroe ham de Følelser, hun tidligere har næret for enkelte af sine
           Tilbedere. Saa hedder det: »Havde man heldt smeltet Bly ind i hans Bryst, vilde han ikke
           have lidt saa meget. Hvorledes kunde den stakkels Fyr, elendig som han følte sig, gjætte,
-          at det var <emph>fordi hun talte til ham</emph> at Frøken de la Mole fandt saa
-          megen Fornøielse i at mindes sine gamle Halvforelskelser?« Begge Steder illustrere en
+          at det var <emph>fordi hun talte til ham</emph> at Frøken de la Mole fandt saa megen
+          Fornøielse i at mindes sine gamle Halvforelskelser?« Begge Steder illustrere en
           psychologisk Lov.</p>
 
         <p> Julian har lige betraadt den geistlige Vei af <pb n="334"/> ærgjerrige Grunde, men med
           indre Modbydelighed. Ved en festlig Leilighed seer han i Landsbykirken en ung Biskop
           knæle, omringet af lutter smukke unge Piger, der synes ikke noksom at kunne beundre hans
           smukke Kniplinger, hans yndefulde Manerer, hans fine og blide Fysiognomi: »Dette Skuespil
-          fik vor Helt til at miste hvad han endnu havde tilbage af Fornuft. <emph>I
-            dette Øieblik vilde han have sloges for Inquisitionen og det i god Tro</emph>«. Den sidste
-          Tilføielse »og det i god Tro« er især beundringsværdig. Man parallelisere hermed et Sted i
-            <bibl>La Chartreuse</bibl>: Mosca har under en Opstand, som er fulgt paa Fyrstens Død —
-          en Fyrste, hvem han grundigt har foragtet og som hans egen Elskede har ladet forgive —
+          fik vor Helt til at miste hvad han endnu havde tilbage af Fornuft. <emph>I dette Øieblik
+            vilde han have sloges for Inquisitionen og det i god Tro</emph>«. Den sidste Tilføielse
+          »og det i god Tro« er især beundringsværdig. Man parallelisere hermed et Sted i <bibl>La
+            Chartreuse</bibl>: Mosca har under en Opstand, som er fulgt paa Fyrstens Død — en
+          Fyrste, hvem han grundigt har foragtet og som hans egen Elskede har ladet forgive —
           maattet stille sig i Spidsen for Soldaterne og i den unge, lige saa elendige Fyrstes Navn
           maattet adsprede Hoben. I det Brev, hvori han meddeler sin Elskede det Skete, hedder det:
           »Men hvad der er pudsigt, det er, at jeg, i min Alder, har havt et Øiebliks Begeistring,
           idet jeg holdt min Tale til Garden og rev Epauletterne af den Kujon, den havde til
-          General. <emph>I det Øieblik havde jeg uden Vaklen givet mit Liv for
-            Fyrsten</emph>; jeg tilstaaer nu, at det havde været en saare dum Maade at blive af med
-          det paa.« Begge Steder vise med sjelden Finhed, hvorledes en kunstig Begeistring ligesom
-          ved Smitte opstaaer og blænder. <pb n="335"/></p>
+          General. <emph>I det Øieblik havde jeg uden Vaklen givet mit Liv for Fyrsten</emph>; jeg
+          tilstaaer nu, at det havde været en saare dum Maade at blive af med det paa.« Begge Steder
+          vise med sjelden Finhed, hvorledes en kunstig Begeistring ligesom ved Smitte opstaaer og
+          blænder. <pb n="335"/></p>
 
         <p> Ingen Romandigter har nogensinde som Beyle fremstilt Forestillingernes og de af dem
           fremkaldte Sindsbevægelsers indre Kampe. Hos ham seer man som gjennem et Forstørrelsesglas
@@ -5971,23 +5980,23 @@
           har en Anden kjær. Meddelelsen, for hvis Rigtighed Meget taler, nedslaaer ham først
           aldeles. Saa begynder han uvilkaarligt som forstandig Mand og som Diplomat at gruble over,
           fra hvem Brevet vel kan stamme. Han udfinder, at Fyrsten maa være dets Forfatter. »Da
-          denne Opgave var løst, blev <emph>den lille Glæde, som Fornøielsen ved den
-            øiensynlig rigtige Gjætning medførte</emph>, snart udslettet ved det smertelige indre Syn
-          af hans Medbeilers ungdomsfriske Skikkelse, der paany vendte tilbage.« Beyle har ikke
-          forsømt at notere den flygtige Tilfredsstillelse ved Opdagelsen, som et Øieblik afbryder
-          Skinsygens Kvaler. — Kun faa Dage skille Julien fra den Dag, hvor han skal bestige
-          Skafottet. Han seer imidlertid i sit Fængsel hyppigt sin Elskede, fra hvem han i Aaringer
-          har været adskilt, og lever i sin Kjærlighed næsten uden nogensinde at tænke paa det
-          Forestaaende: »Ved en underlig Virkning af denne <pb n="336"/> Lidenskab, naar den er
-          tilstede i høieste Grad og uden nogensomhelst Forstillelse, <emph>delte Madame
-            de Rênal næsten hans Sorgløshed og blide Munterhed</emph>.« Denne sidste saa dristige
-          Tilføielse synes mig af den mest overraskende Dybde. Beyle har rigtigt følt og udtalt,
-          hvor energisk en hele Sjælen fyldende, lykkelig Lidenskab kaster alle mørke Tanker (selv
-          Tanken paa den visse Undergang) ud af Bevidstheden, saa tidt de ville trænge sig ind; han
-          har vidst, at Lidenskaben under sin Brydekamp med Forestillingerne om tilstundende Ulykke
-          overvinder dem som absolut magtesløse, hvor den ikke formaaer at slaae dem ned som
-          utænkelige. Det er saadanne Steder hos ham, der ved Sammenligning lade alle andre
-          Romanforfattere tage sig fladbundede ud.</p>
+          denne Opgave var løst, blev <emph>den lille Glæde, som Fornøielsen ved den øiensynlig
+            rigtige Gjætning medførte</emph>, snart udslettet ved det smertelige indre Syn af hans
+          Medbeilers ungdomsfriske Skikkelse, der paany vendte tilbage.« Beyle har ikke forsømt at
+          notere den flygtige Tilfredsstillelse ved Opdagelsen, som et Øieblik afbryder Skinsygens
+          Kvaler. — Kun faa Dage skille Julien fra den Dag, hvor han skal bestige Skafottet. Han
+          seer imidlertid i sit Fængsel hyppigt sin Elskede, fra hvem han i Aaringer har været
+          adskilt, og lever i sin Kjærlighed næsten uden nogensinde at tænke paa det Forestaaende:
+          »Ved en underlig Virkning af denne <pb n="336"/> Lidenskab, naar den er tilstede i høieste
+          Grad og uden nogensomhelst Forstillelse, <emph>delte Madame de Rênal næsten hans
+            Sorgløshed og blide Munterhed</emph>.« Denne sidste saa dristige Tilføielse synes mig af
+          den mest overraskende Dybde. Beyle har rigtigt følt og udtalt, hvor energisk en hele
+          Sjælen fyldende, lykkelig Lidenskab kaster alle mørke Tanker (selv Tanken paa den visse
+          Undergang) ud af Bevidstheden, saa tidt de ville trænge sig ind; han har vidst, at
+          Lidenskaben under sin Brydekamp med Forestillingerne om tilstundende Ulykke overvinder dem
+          som absolut magtesløse, hvor den ikke formaaer at slaae dem ned som utænkelige. Det er
+          saadanne Steder hos ham, der ved Sammenligning lade alle andre Romanforfattere tage sig
+          fladbundede ud.</p>
 
         <p> Hans Personligheder ere aldrig simple, ligefremme Mennesker, men han forstaaer at
           meddele dem, ogsaa Kvinderne iblandt dem, et eget Præg af Storhed. De have en vis
@@ -6093,7 +6102,7 @@
             Beyle kan skrive, læse man følgende: »Ce raisonnement, si juste en apparence, acheva de
             jeter Mathilde hors d’elle même. Cette âme altière, mais saturée de toute cette prudence
             sèche, <emph>qui passe dans le grand monde pour peindre fidèlement le cæur
-              humain</emph>, n’était pas faite pour comprendre si vite le bonheur de se moquer de
+            humain</emph>, n’était pas faite pour comprendre si vite le bonheur de se moquer de
             toute prudence qui peut étre si vif pour une âme ardente«. Man aner, hvad Beyle vil
             sige, skjøndt Sætningen fraseet dens stilistiske Ubehjælpsomhed ikke engang er logisk
             rigtig. Saa følger umiddelbart derpaa denne ved sit Dybsind og sit Vid lige overraskende
@@ -6141,9 +6150,8 @@
           hvor han, omgivet af hele Familien, gav Husets Kokkepige en af et heldigt Udfald kronet
           Lection i Tilberedelsen af Macaroni à l’italienne, og man fortæller, at Hugo en Aften —
           maaskee stemt til Begeistring ved hine fortrinlige Macaroni — af Navnet Prosper Mérimée
-          dannede det slaaende og smigrende Anagram: <emph>M. Première
-            Prose</emph>.<note>Victor Hugo raconté par un témoin de sa vie II 159; Eugéne de
-            Mirécourt: Mérimée 25.</note>
+          dannede det slaaende og smigrende Anagram: <emph>M. Première Prose</emph>.<note>Victor
+            Hugo raconté par un témoin de sa vie II 159; Eugéne de Mirécourt: Mérimée 25.</note>
         </p>
 
         <p> Victor Hugo selv vilde visselig ikke nutildags lade denne Omskrivning gjælde — han, der
@@ -6473,8 +6481,8 @@
           intet Kvindeligt eller Kvindagtigt i den. Mérimée skildrer ikke engang hos Kvinden det i
           strengere og snevrere Forstand Kvindelige. Sandt og fint gjorde Beyle, der i dette Punkt
           er ham saa modsat, i et af sine Breve gjældende imod ham, at der fattedes hans Romaner
-          »den ømme Finhed«.<note>»Souvent vous ne me semblez pas assez <emph
-              >délicatement tendre</emph>; or il faut cela dans un roman pour me toucher.«</note> Hans
+          »den ømme Finhed«.<note>»Souvent vous ne me semblez pas assez <emph>délicatement
+              tendre</emph>; or il faut cela dans un roman pour me toucher.«</note> Hans
           Kvindeskikkelser ere i deres Lidenskab mandige og consequente, næsten uden Undtagelse
           Charakterer; selv de letsindigste eller letfærdigste af dem gaae med Fasthed og Ro i Døden
           (Arsène Guillot, Julie de Chaverney, Carmen). Ingen af dem have det Correggioagtigt
@@ -6810,7 +6818,7 @@
             </sp>
             <sp>
               <speaker> Fray Eugenio</speaker>
-              <p rend="center">(til Publicum). </p>
+              <stage type="delivery">til Publicum</stage>
               <p> Tag mig det ikke ilde op, at jeg har foraarsaget disse to elskværdige unge Damers
                 Død, og vær saa god at undskylde Forfatterens Feil.</p>
             </sp></quote>
@@ -6962,19 +6970,19 @@
           den moderne Tid, da skildrer han Zigeuner- og Røverliv som i <bibl>Carmen</bibl>, Blodhævn
           som i <bibl>Colomba</bibl> et rædselsfuldt Drab i Brudenatten som i <bibl>La Vénus
             d'Ille</bibl> eller i <bibl>Lokis</bibl>. Foregaaer Handlingen desuden indenfor selve
-          det moderne <emph>Samfund</emph>, da fremstiller han enten Egenheder ved de
-          Stænder, som staae paa Kant med Samfundet, unge Dandserinders og Skuespillerinders
-          dristige Sprog og uregelmæssige Synsmaader, katholske Præsters erotiske Anfægtelser, eller
-          ogsaa nøies han med, hvad der selv indenfor de priviligerede Stænders Liv har nogen
-          Charakter, som et inderligt Kjærlighedsforhold, der tilintetgjøres ved en Duel, et
-          Ægteskabsbrud, der fører til Selvmord, en eller anden dygtig Skandale, som det er liam en
-          ren Fornøielse at brænde af under Næsen paa et slapt og hykkelsk Samfund. Han føler sig
-          som Digter hjemme overalt, hvor han møder den kolde Skjæbne, det stærke Tilfælde, de
-          heftige Lidenskaber, der, naar de seire, gjennembryde <pb n="394"/> Samfundsforholdene, og
-          naar de ligge under, af Samfundsforholdene stemples som forbryderiske. Derfor var ogsaa
-          den nyere russiske Litteratur ham saa kjær; thi det er netop Gjenstande, der ere
-          beslægtede med hans egne Æmner, som behandles i de Digtninge af Puschkin, han har oversat,
-            <bibl>Spar-Dame</bibl> og <bibl>Zigeunerne</bibl>.</p>
+          det moderne <emph>Samfund</emph>, da fremstiller han enten Egenheder ved de Stænder, som
+          staae paa Kant med Samfundet, unge Dandserinders og Skuespillerinders dristige Sprog og
+          uregelmæssige Synsmaader, katholske Præsters erotiske Anfægtelser, eller ogsaa nøies han
+          med, hvad der selv indenfor de priviligerede Stænders Liv har nogen Charakter, som et
+          inderligt Kjærlighedsforhold, der tilintetgjøres ved en Duel, et Ægteskabsbrud, der fører
+          til Selvmord, en eller anden dygtig Skandale, som det er liam en ren Fornøielse at brænde
+          af under Næsen paa et slapt og hykkelsk Samfund. Han føler sig som Digter hjemme overalt,
+          hvor han møder den kolde Skjæbne, det stærke Tilfælde, de heftige Lidenskaber, der, naar
+          de seire, gjennembryde <pb n="394"/> Samfundsforholdene, og naar de ligge under, af
+          Samfundsforholdene stemples som forbryderiske. Derfor var ogsaa den nyere russiske
+          Litteratur ham saa kjær; thi det er netop Gjenstande, der ere beslægtede med hans egne
+          Æmner, som behandles i de Digtninge af Puschkin, han har oversat, <bibl>Spar-Dame</bibl>
+          og <bibl>Zigeunerne</bibl>.</p>
 
         <p> Der findes hos Mérimée to Eiendommeligheder, som gjøre ham utilbøielig til at opfatte de
           skarpe Katastrofer i Menneskelivet som tragiske Katastrofer, den ene er en vis Frygt for
@@ -7183,8 +7191,8 @@
 
         <p> »Han gjorde, hvad man ved saadanne Leiligheder gjør. Han kastede sin Pistol i Jorden med
           en beklagende Mine. Han slog den imod Jorden saa stærkt, at Hanen gik i Stykker paa den.
-            <emph>Det er en engelsk Pistol fra Manton. Jeg troer ikke, at han i hele
-            Paris finder en Bøssemager, der kan gjøre ham saa god en Pistol paany</emph>.«</p>
+            <emph>Det er en engelsk Pistol fra Manton. Jeg troer ikke, at han i hele Paris finder en
+            Bøssemager, der kan gjøre ham saa god en Pistol paany</emph>.«</p>
 
         <p> Idet Mérimée skildrer os velvillige Bekjendtes Medfølelse ikke som sentimentale
           Forfattere pleie, men som den er, træder det følelsesfulde Forhold <pb n="406"/> mellem de
@@ -7196,12 +7204,12 @@
           han sætter i Scene og som han hos Læseren fremkalder. Man see det Sted, hvor i Stormen paa
           Redouten Hovedangrebet fortælles: »Vi kom hurtigt til Redoutens Fod; Palissaderne vare
           knækkede og Jorden oprevet af vore Kugler. Soldaterne kastede sig over disse Ruiner med
-          Raabet: »Leve Keiseren!« <emph>og Raabet var stærkere, end man skulde tiltroe
-            Folk det, som allerede havde skreget saa længe</emph>.« Fortælleren er her ikke Mérimée
-          selv; han lader en Officier meddele sine første krigeriske Oplevelser, men Fortælleren er
-          ikke desmindre af hans Art; thi han deler ikke de stormende Soldaters Begeistring. Langt
-          fra at rose deres Enthousiasme for Napoleon som patriotisk eller som forøgende Modet
-          kritiserer han koldblodigt deres Lungers Styrke.</p>
+          Raabet: »Leve Keiseren!« <emph>og Raabet var stærkere, end man skulde tiltroe Folk det,
+            som allerede havde skreget saa længe</emph>.« Fortælleren er her ikke Mérimée selv; han
+          lader en Officier meddele sine første krigeriske Oplevelser, men Fortælleren er ikke
+          desmindre af hans Art; thi han deler ikke de stormende Soldaters Begeistring. Langt fra at
+          rose deres Enthousiasme for Napoleon som patriotisk eller som forøgende Modet kritiserer
+          han koldblodigt deres Lungers Styrke.</p>
 
         <p> Man bør ikke undre sig altfor meget over, at denne Stil, denne Tone, der saa
           overraskende sikrer det Fremstilledes Objectivitet stedse paany bliver opfattet som
@@ -7216,15 +7224,16 @@
 
         <p>»Capitainen gav den halvdrukne Negerkonge Haandslag, og strax bleve Slaverne overgivne
           til de franske Matroser, der skyndte sig med at tage de lange Trægafler, hvori Negerne
-          havde holdt dem, af Halsen paa dem og iføre dem Halsbaand og Haandlænker af Jern, <emph>en Forandring, som afgiver et Bevis paa den europæiske Civilisations
-            Overlegenhed</emph>.«</p>
+          havde holdt dem, af Halsen paa dem og iføre dem Halsbaand og Haandlænker af Jern, <emph>en
+            Forandring, som afgiver et Bevis paa den europæiske Civilisations
+          Overlegenhed</emph>.«</p>
 
         <p> Man mærker det endnu stærkere, naar man kommer til det Sted, hvor Capitainen med vældige
           Pidskeslag søger at gjøre den smukke Negerpige føielig:</p>
 
         <p> »Med disse Ord gik Capitainen ned i sin Kahyt, lod Ayché komme og forsøgte at trøste
           hende; men hverken Kjærtegn eller Slag (<emph>thi man taber tilsidst
-            Taalmodigheden</emph>) for<pb n="408"/> maaede at bringe den skjønne Negerinde til at være
+          Taalmodigheden</emph>) for<pb n="408"/> maaede at bringe den skjønne Negerinde til at være
           medgjørlig.«</p>
 
         <p> Man maa være stump for ikke at føle, hvorledes paa dette Sted selve den rolige Kulde,
@@ -7246,11 +7255,11 @@
           bliver skildret, bliver det dog Hjertet tilladt at tale uforstyrret, og dets simple Sprog
           meddeler den døende Grisette en Ynde, der neppe er ringere end den, som i Døden forklarer
           Musset"s Bernerette. Saa til allersidst træder den kunstneriske Ironi paany ind i sine
-          Rettigheder. Thi denne Linie: »Stakkels Arsène, hun beder <emph>for os</emph>«,
-          fint skrevet med Blyant af en kvindelig Haand paa Arsène’s Gravsten, lærer os i al sin
-          Korthed, at den strenge Dame bukkede under for den samme Fristelse som det udannede Barn,
-          og at da Arsène var død som en Heltinde, arvede hendes Beskytterinde hendes Elsker. Og dog
-          er Ordet Ironi her næsten for grovt. Man savner Ord til at betegne disse Afskygninger. Hin
+          Rettigheder. Thi denne Linie: »Stakkels Arsène, hun beder <emph>for os</emph>«, fint
+          skrevet med Blyant af en kvindelig Haand paa Arsène’s Gravsten, lærer os i al sin Korthed,
+          at den strenge Dame bukkede under for den samme Fristelse som det udannede Barn, og at da
+          Arsène var død som en Heltinde, arvede hendes Beskytterinde hendes Elsker. Og dog er Ordet
+          Ironi her næsten for grovt. Man savner Ord til at betegne disse Afskygninger. Hin
           svagtironiske, med Blyant skrevne Linie indeholder i sine sex Ord en Mérimée’sk, det vil
           sige lakonisk, Toleranceprædiken.</p>
 
@@ -7258,10 +7267,10 @@
           Keiserinden skrevne Novelle <bibl>La chambre bleue</bibl>, der viser, hvorledes hin
           Fortællemethode, som fra først af sprang ubevidst frem af hans Naturel, tilsidst blev
           bevidst Manér. Mérimée sagde: »Historien har en stor Feil, som beroer derpaa, at jeg først
-          havde isinde at give den en tragisk Slutning og <emph>naturligvis</emph> altsaa
-          begyndte at fortælle i en spøgende Tone. Saa forandrede jeg min Idee og sluttede med en
-          spøgende Opløsning. <pb n="410"/> Jeg skulde saa have begyndt forfra og fortalt Historien
-          i en tragisk Tone, men det kjedede mig og jeg lod den blive som den var«. Den Form, som
+          havde isinde at give den en tragisk Slutning og <emph>naturligvis</emph> altsaa begyndte
+          at fortælle i en spøgende Tone. Saa forandrede jeg min Idee og sluttede med en spøgende
+          Opløsning. <pb n="410"/> Jeg skulde saa have begyndt forfra og fortalt Historien i en
+          tragisk Tone, men det kjedede mig og jeg lod den blive som den var«. Den Form, som
           oprindeligt var en meget følsom og meget stolt Sjæls stilistiske Udtryksmaade, blev mod
           Enden af Mérimée’s Liv en raffineret og overdreven Benyttelse af Contrasten som
           kunstnerisk Virkemiddel.</p>
@@ -7305,22 +7314,21 @@
           besynderligt Ord eller et eneste almindeligt Ord paa en besynderlig Maade. Han har fremfor
           Alt skyet de almindelige Udtryk og de abstracte Ord, der kaste et Slør over Tanken, bag
           hvilket denne tager sig større og betydeligere ud. Hvad der fremfor Alt udmærker ham, det
-          er Udtrykkets <emph>Sikkerhed</emph>, Gaven til med det usmykkede Ord, hvis Præg
-          syntes udvisket, at fremkalde nøiagtigt den Forestilling, han vil. Hugo skrev en
-          anskuelig, pathetisk, Gautier og de, der sluttede sig til ham, en sandselig,
-          billedstraalende Stil, begge søgte at virke ved Ord-Architektur. Hos Mestrene var denne
-          Stræben i sin Ret. Men deres Efterligneres og Elevers Forsøg erindre kun altfor tidt om
-          hine pragtfulde Aquaducter fra Romernes Tid, der med uhyre Bekostning og Anstrengelse
-          bleve udspændte fra Høidepunkt til Høidepunkt, fordi man ikke vidste, at Vandet ved sin
-          egen Kraft kunde stige op fra Dalen. Vi beundre disse Mindesmærker; men vor Beundring
-          vilde have været større, om vi istedenfor dem havde fundet simple Rør, der <pb n="413"/>
-          holdt sig ved Jorden. Det kunstige og løftede Udtryk er som Aquaducten, det simple Ord,
-          der gaaer lige til Maalet, som det uanseelige Rør, og Mérimée's Stil holder sig som Røret
-          til Jorden, har ingen unyttig Pragt og ingen unødvendig Løftelse, ingen paa Opspiling
-          spildte Kræfter. Den er ikke derfor en Stil uden Ynde, men den har ingen anden Gratie end
-          den tilstrækkelige Krafts. Der er intet Ord for meget, og hver Sætning staaer i det Heles
-          Tjeneste. Det gamle Motto: »Ne quid nimis« synes at have været denne Fortællerkunsts
-          Løsen.</p>
+          er Udtrykkets <emph>Sikkerhed</emph>, Gaven til med det usmykkede Ord, hvis Præg syntes
+          udvisket, at fremkalde nøiagtigt den Forestilling, han vil. Hugo skrev en anskuelig,
+          pathetisk, Gautier og de, der sluttede sig til ham, en sandselig, billedstraalende Stil,
+          begge søgte at virke ved Ord-Architektur. Hos Mestrene var denne Stræben i sin Ret. Men
+          deres Efterligneres og Elevers Forsøg erindre kun altfor tidt om hine pragtfulde
+          Aquaducter fra Romernes Tid, der med uhyre Bekostning og Anstrengelse bleve udspændte fra
+          Høidepunkt til Høidepunkt, fordi man ikke vidste, at Vandet ved sin egen Kraft kunde stige
+          op fra Dalen. Vi beundre disse Mindesmærker; men vor Beundring vilde have været større, om
+          vi istedenfor dem havde fundet simple Rør, der <pb n="413"/> holdt sig ved Jorden. Det
+          kunstige og løftede Udtryk er som Aquaducten, det simple Ord, der gaaer lige til Maalet,
+          som det uanseelige Rør, og Mérimée's Stil holder sig som Røret til Jorden, har ingen
+          unyttig Pragt og ingen unødvendig Løftelse, ingen paa Opspiling spildte Kræfter. Den er
+          ikke derfor en Stil uden Ynde, men den har ingen anden Gratie end den tilstrækkelige
+          Krafts. Der er intet Ord for meget, og hver Sætning staaer i det Heles Tjeneste. Det gamle
+          Motto: »Ne quid nimis« synes at have været denne Fortællerkunsts Løsen.</p>
 
         <p> Det Maal, som Mérimée med denne Stil forfulgte, var øiensynligt det, ved Afkald paa alt
           Biværk at gjøre sine smaa Kunstværker saa uangribelige som muligt for Tidens Tand. Hans
@@ -7366,10 +7374,10 @@
           det skarpeste Sollys uden nogensomhelst Følsomheds-Taage omkring sig. Det vilde være
           urimeligt at skatte den billedrige Prosaist mindre høit, fordi hans Billeder tabe sig ved
           Gjentagelse; man kunde lige saa godt lægge en Componist det til Last at hans Melodier ved
-          at spilles paa alle Lirekasser <pb n="416"/> blive uudholdelige. Men <emph
-            >det</emph> lader sig ikke negte, at en streng og billedløs Stil som Mérimée's, der ikke
-          har noget Vegetabilsk ved sig, overlever den beskrivende Stilarts Frembringelser, omtrent
-          som en Broncestatue overlever et blomstrende Træ.</p>
+          at spilles paa alle Lirekasser <pb n="416"/> blive uudholdelige. Men <emph>det</emph>
+          lader sig ikke negte, at en streng og billedløs Stil som Mérimée's, der ikke har noget
+          Vegetabilsk ved sig, overlever den beskrivende Stilarts Frembringelser, omtrent som en
+          Broncestatue overlever et blomstrende Træ.</p>
 
         <p> Oprindeligt gjaldt denne Digter forunderligt nok for en ren Naturalist. Alfred de Musset
           har i sin Ungdom om Mérimée, hvem han naivt sammenstiller med Calderon, skrevet nogle
@@ -7408,10 +7416,10 @@
           ganske i Mérimée'sk Aand fryder sig, naar han har »et smukt Mord« at skildre og som lader
           sin Graindorge give Læseren nøiagtig Anvisning paa den mest praktiske Methode til at
           skjære sin Hals over med en Barberkniv<note>»Quand Cromwell passe en Irlande, il marque le
-            nombre et la qualité des gens massacrés, et puis c’est tout. <emph>Et
-              cependant quels beaux massacres</emph>! Quelle occasion pour pénétrer le lecteur de la
-            froide fureur qui poussait les épées des fanatiques!« Taine: <bibl>Essai sur
-              Guizot</bibl>.</note>. <pb n="418"/></p>
+            nombre et la qualité des gens massacrés, et puis c’est tout. <emph>Et cependant quels
+              beaux massacres</emph>! Quelle occasion pour pénétrer le lecteur de la froide fureur
+            qui poussait les épées des fanatiques!« Taine: <bibl>Essai sur Guizot</bibl>.</note>.
+            <pb n="418"/></p>
 
         <p> Nutildags gjælder Mérimée for en Klassiker. Hans klare og gjennemsigtige Form, hans Sky
           for lyriske Udskeielser, for Lignelser og Rhetorik synes at sikre ham en Plads udenfor den
@@ -9061,8 +9069,8 @@
             Borgia. Man finder her Romantismens Yndlingsbestemmelser forenede som i et Signalement
             og seer med Lethed, hvorledes dette i alt Væsenligt passer paa Victor Hugo’s unge Helte,
             ja paa Antony: Montagnard brusque et bon. Vindicatif et animé par la vendetta, comme par
-            une seconde åme; conduit par elle <emph>comme par la déstinée</emph>.
-            Caractère <emph>vigoureux, triste, et profondément sensible</emph>. Haïssant et aimant avec
+            une seconde åme; conduit par elle <emph>comme par la déstinée</emph>. Caractère
+              <emph>vigoureux, triste, et profondément sensible</emph>. Haïssant et aimant avec
             violence. Sauvage par nature, et civilisé comme malgré lui par la cour et la politesse
             de son temps.</note></p>
 
@@ -9745,9 +9753,9 @@
           Øie for og nævner! (Man se Dialogen i Kap. XXV.) Den Tanke, <pb n="550"/> der ligger
           bagved den hele Bog, lader sig maaske kortest udtrykke med en Vending, der forekommer
           etsteds i Romanen: En Adelsmand, der hylder det gamle Løsen: Alt for Folket, Intet ved
-          Folket! fordi Folket selv vilde være paa engang <emph>Part og Dommer</emph>,
-          ifald det skulde føre sin egen Sag, faaer af sin unge Datter Svaret: Og ere vi da ikke i
-          samme Tilfælde?</p>
+          Folket! fordi Folket selv vilde være paa engang <emph>Part og Dommer</emph>, ifald det
+          skulde føre sin egen Sag, faaer af sin unge Datter Svaret: Og ere vi da ikke i samme
+          Tilfælde?</p>
 
         <p> Kort efter at have forfattet denne Bog kastede George Sand sig ind i den praktiske
           Politik. Hun havde siden sit Brud med <bibl>Revue des deux mondes</bibl> sammen med Pierre
@@ -9770,15 +9778,15 @@
             Hykleri i følgende Passus: Elle se sent, elle se connaît maintenant, la voix unanime du
             peuple. Elle vous réduira tous au silence, elle passera sur vos têtes comme le souffle
             de Dieu, elle ira entourer votre représentation nationale, et voiçi ce qu’elle lui dira;
-            »Jusqu’içi, tu n’étais pas inviolable, mais nous voiçi avec des armes <emph
-              >parées de fleurs</emph> et nous te déclarons inviolable. Travaille, fonctionne, nous
-            t’entourons de quatre cent mille baïonnettes, d’un million de volontés. Aucun parti,
-            aueune intrigue n’arrivera jusqu’ à toi. Receuille-toi et agis.«</note> Det er lærerigt
-          at see denne Folkesouverænitetens Beundrerinde komme til dette despotiske Resultat; det
-          viser, hvilken vild og mandig Energi, der boede i den geniale Kvinde; det var den samme
-          ubøielige Kraft, der gav hundrede Romaner efter hinanden Liv, som her ytrede sig i den
-          praktiske Alliance med Ledru-Rollin og Louis Blanc, de Mænd, der nøiedes med at tænke hvad
-          hun, mere uforbeholden, gav Luft i Ord.</p>
+            »Jusqu’içi, tu n’étais pas inviolable, mais nous voiçi avec des armes <emph>parées de
+              fleurs</emph> et nous te déclarons inviolable. Travaille, fonctionne, nous t’entourons
+            de quatre cent mille baïonnettes, d’un million de volontés. Aucun parti, aueune intrigue
+            n’arrivera jusqu’ à toi. Receuille-toi et agis.«</note> Det er lærerigt at see denne
+          Folkesouverænitetens Beundrerinde komme til dette despotiske Resultat; det viser, hvilken
+          vild og mandig Energi, der boede i den geniale Kvinde; det var den samme ubøielige Kraft,
+          der gav hundrede Romaner efter hinanden Liv, som her ytrede sig i den praktiske Alliance
+          med Ledru-Rollin og Louis Blanc, de Mænd, der nøiedes med at tænke hvad hun, mere
+          uforbeholden, gav Luft i Ord.</p>
 
         <p>Det var især Lamennais, gjennem hvem den <pb n="552"/> demokratiske Ideestrøm kom til
           Victor Hugo. Alt i hans Hovedværk <bibl>Essai sur l'indifférence</bibl> havde Spirerne
@@ -9957,7 +9965,7 @@
           Marion, Le laquais, le forçat et la prostituée . . . . . . . . . . . . . . . . . . . . . .
           . . . . . . J’ai réclamé des droits pour la femme et l’enfant J’ai tâché d’éclairer
           l’homme en le rechauffant J’allais criant; Science! écriture! parole! Je voulais résorber
-          le bagne dans l’école.dskab, giv dem Ord, giv dem Skrift! Jeg vilde suge Fængslet op i Skolen.<note><lg>
+          le bagne dans l’école.dskab, giv dem Ord, giv dem Skrift! Jeg vilde suge Fængslet op i Skolen.<note><cit><quote><lg>
               <l>Marquis, depuis vingt ans je n’ai, comme aujourd’hui</l>
               <l>Qu’une idée en esprit; servir la cause humaine.</l>
               <l>La vie est une cour d’assises; on amène</l>
@@ -9973,7 +9981,7 @@
               <l>J’ai tâché d’éclairer l’homme en le rechauffant </l>
               <l>J’allais criant; Science! écriture! parole! </l>
               <l>Je voulais résorber le bagne dans l’école.</l>
-            </lg></note></p>
+            </lg></quote></cit></note></p>
 
         <p> Men, klager han, bestandig mødte jeg det frygtelige Igaar, der vil opsluge Imorgen.
           Neppe har man det Sorteste af Rædslerne bag sig, neppe har man gaaet et Skridt, ikke bort
@@ -10060,7 +10068,7 @@
           skjøndt han blandt sin Ungdoms Minder havde en Søndagaften hos Nodier, hvor han og Hugo i
           lige Grad vare Dagens Helte. — Der er Regnier-Destourbet, hvis Roman <bibl>Louise</bibl>,
           som er tilegnet Janin og maaskee skylder ham noget, behandler et pinligt Stof med
-          Aandsoverlegenhed og Finhed. —- Der er Charles Dovalle, som faldt i Duel kun tyve Aar
+          Aandsoverlegenhed og Finhed. — Der er Charles Dovalle, som faldt i Duel kun tyve Aar
           gammel, men hvis Digtsamling <bibl>Le Sylphe</bibl> allerede røbede et Talent, som Victor
           Hugo med Varme anerkjendte og som han priste efter Digterens Død. — Der er Eugène Hugo,
           Victors ældre tungsindige Broder, hans tro Kammerat og Ven, der udrustet med en beslægtet
@@ -10202,7 +10210,7 @@
         <p> Strax efter Julirevolutionen kastede Bertrand sig ind i Politiken og sluttede sig til
           den yderligst gaaende Opposition. Som ægte Søn af en af Republikens og Keiserdømmets gamle
           Soldater gav han den krigerske Enthousiasme, han hidtil var brændt inde med, Luft i
-          Polemik mod det her<pb n="573"/> skende Bourgeoisie. Han var kun 23 Aar gammel, og et Blad
+          Polemik mod det her<pb n="573"/>skende Bourgeoisie. Han var kun 23 Aar gammel, og et Blad
           af Modpartiet havde taget Anledning af hans Ungdom til at behandle ham dobbelt haanligt.
           Han tvang Redacteuren til i Bladet selv at optage et Svar, hvori det hedder: »Jeg
           foretrækker Eders Haan for Eders Ros. Eders Ros vilde være af saare ringe Betydning efter
@@ -10286,13 +10294,13 @@
           var noget stoltere Hjerte end dens Forfatter i den hele romantiske Gruppe. Der er noget af
           Fattigdommens Fortvivlelse, noget af Kunstnerhjertets Ensomhedsfølelse, brændende
           Kjærlighed til Frihed og nagende Tørst efter Retfærdighed i disse Vers.<note>Man læse
-            denne Strofe af Digtet Désespoir: <lg>
+            denne Strofe af Digtet Désespoir: <cit><quote><lg>
               <l>Comme une louve ayant fait chasse vaine,</l>
               <l>Grinçant les dents, s’en va par le chemin,</l>
               <l>Je vais, hagard, tout chargé de ma peine</l>
               <l>Seul avec moi, nulle main dans ma main;</l>
               <l>Pas une voix qui me dise: À demain.</l>
-            </lg>
+            </lg></quote></cit>
           </note> Man finder her det hele Følelsesliv i Virkeligheden, der af Dumas blev sat i Scene
           i <bibl>Antony</bibl>. Allerede Udstyrelsen er betegnende. Paa Titelkobberet sees Borel
           selv siddende ved sit Bord med frygisk Hue paa Hovedet, Hals og Arme blottede og med en
@@ -10601,7 +10609,7 @@
           Fornuften og Ægteskabet, og George Sand sine fredelige Romaner og Bondenoveller. Medens
           Hugo steg stedse høiere som lyrisk Digter, ledede Gautier Romantismen i Retning af den
           plastiske Kunst. Balzac udviklede den i fysiologisk, Beyle i folkepsychologisk og
-          analytisk, Mérimée i historisk Retning, Sainte-<pb n="593"/> Beuve endelig i Retningen af
+          analytisk, Mérimée i historisk Retning, Sainte-<pb n="593"/>Beuve endelig i Retningen af
           naturalistisk Kritik. Paa alle disse Omraader har Slægten fra 1830 ydet. Uforgjængeligt.
           Den kan da ogsaa uden Overdrivelse siges at være den største litterære Skole, vort
           Aarhundrede har seet.</p>

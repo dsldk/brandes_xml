@@ -51,17 +51,18 @@
                             Grubearbejder, over hvem Jorden er styrtet sammen; dersom han giver sig
                             til at betragte Vanskelighederne istedenfor at overvinde dem en for en,
                             saa bliver han Vidne til sit Talents Selvmord.</p>
-                        <p rend="right">Balzac. </p>
-                    </quote>
+                    </quote><bibl>Balzac. </bibl>
                 </cit>
-
             </epigraph>
-
-            <!--<pb n="[iii]"  deltitleblad / <halftitle>  <head>DEN ROMANTISKE SKOLE I FRANKRIG.</head>  -->
-
         </front>
 
         <body>
+            
+            <div type="half-title">
+                <head><pb n="[3]"/>Det unge Tyskland</head>
+            </div>
+            
+            
             <div>
                 <head>I. [Den politiske Baggrund]</head>
 
@@ -249,12 +250,12 @@
                     Weimar udgav han sit <bibl>Litterarisches Wochenblatt</bibl>, der smigrede
                     Rusland og spottede den tyske Ungdom. Saa sjældent Goethe ellers sympathiserede
                     med Ungdommen, glædede han sig dog denne Gang over den hans gamle Fjende
-                    tilføjede Tort.<note>Epigrammet: <lg>
+                    tilføjede Tort.<note>Epigrammet: <cit><quote><lg>
                             <l>Du hast es lange genug getrieben,</l>
                             <l>Niederträchtig vom Hohen geschrieben.</l>
                             <l>Dass du dein eignes Volk gescholten,</l>
                             <l>Die Jugend hat es dir vergolten.</l>
-                        </lg></note> Da Kotzebue var <pb n="10"/> russisk Legationsraad og fra Tid
+                        </lg></quote></cit></note> Da Kotzebue var <pb n="10"/> russisk Legationsraad og fra Tid
                     til anden sendte Beretninger til Hoffet i Petersburg, holdt man ham for russisk
                     Spion. Hvad han meddelte var vel kun uskyldige litterære Oversigter; men han var
                     nu engang i den studerende Ungdoms Øjne den rene Belzebub: Beltze- eller
@@ -4018,7 +4019,7 @@
 
                 <p> Og dog har han ogsaa denne Gang følt dybt og lidt meget. Saa underligt det
                     klinger, Kusine-Kjærligheden, dette i Reglen kun første og foreløbige Stadium
-                    paa Banen, denne blotte Indvielse til det egentlige erotiske Liv<note><lg>
+                    paa Banen, denne blotte Indvielse til det egentlige erotiske Liv<note><cit><quote><lg>
                             <l>Aux près de l’enfance on ceuille</l>
                             <l>Les petites amourettes</l>
                             <l>Qu’on jette au vent feuille à feuille</l>
@@ -4027,8 +4028,8 @@
                             <l>Les voisines, les cousines,</l>
                             <l>Les amourettes fleuries</l>
                             <l>Et qui n’ont pas de racines.</l>
-                            <l rend="right">Richepin.</l>
-                        </lg></note>, er den eneste alvorlige og ikke ganske flygtige Lidenskab, den
+                            
+                    </lg></quote><bibl>Richepin.</bibl></cit></note>, er den eneste alvorlige og ikke ganske flygtige Lidenskab, den
                     unge Heine har kjendt. Og selv i Manddommens Aar naaede ingen senere Følelse paa
                     langt nær Styrken af denne ungdommelige Dobbeltpassion for <pb n="188"/> to
                     Søstre, af hvilke den andens Type gjenkaldte ham den førstes.</p>
@@ -4846,8 +4847,8 @@
                 <p>Af det saaledes vilkaarligt lavede Folkesagn uddrog en Grev Loeben 1821 Stoffet
                     til et Digt <bibl>Loreley</bibl>, hvor den unge Pige, som dræber sig, er
                     forvandlet til en Havfrue, der ved sine Sange lokker de Forbisejlende ned i
-                    Dybet <note>A. Strodtmann: <bibl>H. Heine’s Leben und Werke</bibl>. 2te Auflage.
-                        I. 696.</note>:</p>
+                    Dybet:<note>A. Strodtmann: <bibl>H. Heine’s Leben und Werke</bibl>. 2te Auflage.
+                        I. 696.</note></p>
 
                 <cit>
                     <quote><lg>
@@ -8114,7 +8115,7 @@
 
                 <cit>
                     <quote><lg>
-                            <l rend="center">Fluch dem Freund,</l>
+                            <l>Fluch dem Freund,</l>
                             <l>Der Dir im Elend je die Treue hält!</l>
                             <l>Nie giebt sich Dir ein liebend Herz des Weibes,</l>
                         </lg></quote>
