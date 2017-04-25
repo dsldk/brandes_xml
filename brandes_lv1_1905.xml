@@ -31,15 +31,15 @@
          <titlePage>
             <pb ed="A" n="[VII]" facs="xyz"/>
             <docAuthor><pb ed="A" n="[VII]" facs="xyz"/>Georg Brandes</docAuthor>
-            <docTitle>             
+            <docTitle>
                <titlePart>Levned</titlePart>
                <titlePart type="sub">Barndom og første Ungdom</titlePart>
             </docTitle>
-            <lb></lb>
-            <lb></lb>
-            <lb></lb>
-            <lb></lb>
-            <lb></lb>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
             <docImprint>
                <publisher>Gyldendalske Boghandel</publisher>
                <publisher>Nordisk Forlag</publisher>
@@ -48,15 +48,14 @@
                <docDate>1905</docDate>
             </docImprint>
             <imprimatur><pb ed="A" n="[VIII]" facs="xyz"/>
-               <emph>Published eigth of November, nineteen hundred
-               and five. Privilege of copyright in the United States
-               reserved under the Act approved March third, nineteen
-               hundred and five, by Dr. Georg Brandes.</emph></imprimatur>
-            <lb></lb>
-            <lb></lb>
-            <lb></lb>
-            <lb></lb>
-            <lb></lb>
+               <emph>Published eigth of November, nineteen hundred and five. Privilege of copyright
+                  in the United States reserved under the Act approved March third, nineteen hundred
+                  and five, by Dr. Georg Brandes.</emph></imprimatur>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
             <docImprint><publisher>Kjøbenhavn – Græbes Bogtrykkeri</publisher></docImprint>
          </titlePage>
       </front>
@@ -1335,9 +1334,8 @@
                   han:</p>
 
                <cit>
-                  <quote><lg>
-                        <l>Hører I – Bifaldets – Storm fra det – mægtige – Amfite – ater.</l>
-                     </lg></quote>
+                  <quote><p> Hører I – Bifaldets – Storm fra det – mægtige – Amfite – ater.
+                     </p></quote>
                </cit>
 
                <p>Videre, Møller!</p>
@@ -4867,28 +4865,30 @@
 
                <p>Imidlertid gik Eksamen sin Gang. Som virkelige Kuriosa meddeles her de Opgaver,
                   der blev mig stillede. De tre til skriftlige Udarbejdelser lød:</p>
+               
+               <cit><quote><list rend="numbered">
+               <item>Hvorvidt kan Poesien kaldes den ideale Historie?</item>
 
-               <p>1. Hvorvidt kan Poesien kaldes den ideale Historie?</p>
-
-               <p>2. Paa hvilken Maade maa <persName>Spinozas</persName> og
+               <item>Paa hvilken Maade maa <persName>Spinozas</persName> og
                      <persName>Fichtes</persName> filosofiske Grundanskuelse føre til Miskendelse af
-                  Skønhedsideen?</p>
+                  Skønhedsideen?</item>
 
-               <p>3. I hvilket Forhold staar det Komiske til sine Grænser og forskellige
-                  Modsætninger?</p>
+               <item>I hvilket Forhold staar det Komiske til sine Grænser og forskellige
+                  Modsætninger?</item>
+               </list></quote></cit>
 
                <p>De tre Spørgsmaal, der skulde besvares ved Universitetsforelæsninger, var saaledes
                   affattede:</p>
-
-               <p>1. Gennem Digterværker i vor Literatur at oplyse, hvorvidt Poesien tør sætte sig
+                     <cit><quote><list rend="numbered">
+               <item>Gennem Digterværker i vor Literatur at oplyse, hvorvidt Poesien tør sætte sig
                   den Opgave at fremstille Ideen i en Form, der falder sammen med den filosofiske
-                  Forstaaelse?</p>
+                  Forstaaelse?</item>
 
-               <p>2. At paavise de ejendommelige Bidrag til en filosofisk Bestemmelse af Ideen, som
-                  Æstetiken særlig yder.</p>
+               <item>2. At paavise de ejendommelige Bidrag til en filosofisk Bestemmelse af Ideen, som
+                  Æstetiken særlig yder.</item>
 
-               <p><pb n="166"/> 3. Hvilke ere Fortrinene og Manglerne ved den Schillerske
-                  Tragedie?</p>
+               <item><pb n="166"/>Hvilke ere Fortrinene og Manglerne ved den Schillerske
+                  Tragedie?</item></list></quote></cit>
 
                <p>Disse Opgaver tør vel i Forening med Hovedopgaven kaldes et Stykke Tidshistorie;
                   de tegner bestemt den datidige Videnskabeligheds Art med dens særegne filosofiske
