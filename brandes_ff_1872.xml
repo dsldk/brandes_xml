@@ -30,21 +30,23 @@
      <pb ed="A" n="[1]" facs="xyz"/>
      <titlePart>Forklaring og Forsvar</titlePart>
      <titlePart type="sub">En Antikritik</titlePart>
+     <titlePart type="desc">af</titlePart>
     </docTitle>
-    <byline>af</byline>
     <docAuthor>Georg Brandes</docAuthor>
+    <lb></lb>
+    <lb></lb>
+    <lb></lb>
+    <lb></lb>
+    <lb></lb>
     <docImprint><pubPlace>Kjøbenhavn.</pubPlace><publisher>Forlagt af den Gyldendalske Boghandel (F.
       Hegel).</publisher><publisher>Græbes Bogtrykkeri.</publisher><docDate>1872.</docDate></docImprint>
    </titlePage>
   </front>
-
-  <pb ed="A" n="[2]" facs="xyz"/>
-
   <body>
    
    <div>
     
-    <p><pb ed="A" n="[3]" facs="xyz"/>Der gives enkelte lykkelige Forfattere, i hvis Lod det falder
+    <p><pb ed="A" n="[3]" facs="xyz"/> Der gives enkelte lykkelige Forfattere, i hvis Lod det falder
      strax ved deres første Optræden og senere Skridt for Skridt paa deres Vei at blive hilsede med
      Bifald af Publicum og at møde Overbærenhed eller vel endog Anerkjendelse hos Kritiken. Denne
      Lod har ikke været min. Lige fra jeg vovede mig ud paa Forfatterbanen og indtil nu er jeg
@@ -1331,8 +1333,8 @@
      vi har, kan kun ved den mest vanvittige Indbildskhed forvexle sig selv med
       <emph>Samfundet</emph> i Almindelighed. Vi have her i Landet endnu ikke glemt, at
      »Augustforeningen« i sin Tid betegnede de liberale Ideer i Politiken som »statsopløsende«. </p>
-   </div>
-   <div>
+  </div>
+<div>   
     <head type="sub">V.</head>
 
     <p> Men jeg forlader Striden om disse Enkeltheder for at vende tilbage til Hr. 44 og fremhæve et
@@ -1417,8 +1419,8 @@
      fleste og farligste (i Hovedbladene) omspredes i Tusinder af Exemplarer, er omtrent situeret
      som en Mand, hvem den Opgave blev stillet: med en Kanon, der kun kunde affyres een Gang om
      Maaneden at forsvare sig mod et helt Compagni af godt skjulte Skytter, hvis Vaaben skjød saa og
-     saa mange Skud i Minuttet og rækkede 10 Gange saa langt som hans.</p>
-   </div>
+     saa mange Skud i Minuttet og rækkede 10 Gange saa langt som hans.</p></div>
+   
   </body>
  </text>
 </TEI>
