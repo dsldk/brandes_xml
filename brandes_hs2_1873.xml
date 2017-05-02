@@ -149,8 +149,13 @@
 
         <p> Jeg vil i det Hele sparsomt og kun momentvis komme ind paa den danske Litteratur. I det
           Tæppe, jeg opruller for Dem, borer jeg kun nu og da et Hul, hvorigjennem De seer de danske
-          Forhold. Ikke at jeg glemmer den danske Litteratur eller taber den af Sigte<!-- rettet: af Sigte < afsigte ; (7,24) -->. Tvertimod jeg
-          har den uafbrudt for Øie. Idet jeg forsøger at levere de fremmede Litteraturers indre
+          Forhold. Ikke at jeg glemmer den danske Litteratur eller taber den 
+          <app>
+            <lem wit="B SS FU 1923-24">af Sigte</lem>
+            <rdg wit="A">afsigte</rdg>
+          </app>
+          <!-- rettet: af Sigte < afsigte ; (7,24) -->. Tvertimod jeg
+          har den uafbrudt for Øie. Idet jeg forsøger at levere de fremmede Litteraturers indreKL
           Historie, giver jeg paa ethvert Punkt indirecte Bidrag til den danske Litteraturhistorie.
           Jeg maler den Baggrund, som er nødvendig, for at vor Litteratur <pb n="8"/> engang paa den
           kan springe frem med sin Eiendommelighed. Jeg udarbeider den Underbygning, hvorpaa efter
@@ -384,7 +389,7 @@
           Foredrag.« Naivetet og atter Naivetet! Han fornegter ikke sin Oprindelse. I sin gode Tid
           havde han en uskyldig Morskab af paa naturphilosophisk Vis at gjenfinde Menneskesjælens
           Kræfter i Stenene og menneskeliggjøre Geologi og Botanik, saa Planterne toge sig ud
-          omtrent som i Grandvilles »<bibl>Fleurs animées</bibl>«<!-- rettet -->. Men Julirevolutionen bragte ham<!-- TR: 22,20: ham < kam --> rent fra
+          omtrent som i Grandvilles »<bibl>Fleurs animées</bibl>«<!-- rettet -->. Men Julirevolutionen bragte <app><lem>ham</lem><rdg wit="A">kam</rdg></app><!-- TR: 22,20: ham < kam --> rent fra
           Concepterne. Pietismen, i hvis Arme han i de sidste tretten Aar havde befundet sig vel, og
           for hvilken gamle tørre Dame han allerede havde brudt adskillige Landser, opflammede ham
           til at slutte sin litterære Virksomhed med en Række matte Angreb paa det unge
@@ -769,7 +774,7 @@
           og Tirader, der tage sig ud, som naar paa gamle Malerier Ordene hænge ud af Munden paa
           Personerne. Jo mere Skuespilleren fjerner sig fra Naturen, for des større bliver han
           anseet. — I den store verdensberømte Pariser-Opera faldt jeg i Søvn.« Det er de Indtryk,
-          som <persName type="fictional">Lovell</persName>,<!-- TR: Lovell, < Lovell. (45,20) --> der i Bogen er Englænder, har modtaget af <placeName>Paris</placeName> omkring Revolutionstiden — den
+          som <persName type="fictional"><app><lem>Lovell,</lem><rdg wit="A">Lovell.</rdg></app></persName><!-- TR: Lovell, < Lovell. (45,20) --> der i Bogen er Englænder, har modtaget af <placeName>Paris</placeName> omkring Revolutionstiden — den
           hele traditionelle tydske Foragt for fransk Væsen og fransk Kunst, dobbelt komisk her,
           fordi den er lært udenad efter Bøger. I Modsætning hertil udbryder <persName type="fictional">Lovell</persName> i Theâtre
           français: »O<!-- rettet: O < 0 ; fejl i OCR ; (45,26) --> <persName>Sophokles</persName>, o guddommelige <persName>Shakspeare</persName>!«<!-- OBS: virkelige personer i en fiktiv ramme - opmærkes som personer? -->, og meget betegnende siger han: »Jeg
@@ -874,7 +879,7 @@
           og selv Andagt kun er forklædt og tilhyllet Vellyst — — Intet uden Sandselighed er det
           første bevægende Hjul i vort Maskineri — — Sandselighed og Vellyst er Musikens, Maleriets
           og alle Kunsters Aand; alle Menneskets Ønsker flyve om denne Pol som Myggene om det
-          brændende Lys; — — derfor ere <persName>Boccacio</persName> og <persName>Ariost</persName> de største Digtere, og <persName>Tizian</persName><!-- rettet: Tizian < Titian ; således i resten af bindet og senere dk og ty udgaver --> og den
+          brændende Lys; — — derfor ere <persName>Boccacio</persName> og <persName>Ariost</persName> de største Digtere, og <persName><app><lem>Tizian</lem><rdg wit="A">Titian</rdg></app></persName><!-- rettet: Tizian < Titian ; således i resten af bindet og senere dk og ty udgaver --> og den
           kaade <persName>Correggio</persName> staae høit over <persName>Dominichino</persName><!-- Domenichino --> og den fromme <persName>Raphael</persName>. Jeg antager endog
           Andagten for at være en afledet Kanal for den raa Sandsedrift, der bryder sig i tusind <pb n="51"/> mangfoldige Farver.« Man kunde troe, at denne <persName type="fictional">Lovell</persName>, i hvis Reflexioner
           Sandseligheden spiller saa stor en Rolle, var skildret som en Natur, hvis Instincter
@@ -1164,7 +1169,7 @@
           Rettigheder er det, de forstaae, og de bekjæmpe ikke Livets <emph>Uret</emph>,
           men dets <emph>Prosa</emph>. Forholdet mellem Samfundet og det geniale Individ
           antager ikke her som i Frankrig Form af en Kamp mellem individuel, revolutionær Frihed og
-          social, traditionel Nødvendighed, men Formen af en Kamp imellem den Enkeltes <emph>Ønsker</emph> som <emph>Poesi</emph><!-- fjernet kursivering af »som«, da ordet ikke er spærret; bør måske rettes til (66,27) -->, og <emph>Politik</emph> og <emph>Samfundsregel som</emph> <pb n="67"/> <emph>Prosa</emph>. Deraf den romantiske Litteraturs uafladelige Lovprisning af
+          social, traditionel Nødvendighed, men Formen af en Kamp imellem den Enkeltes <emph>Ønsker som Poesi</emph><!-- fjernet kursivering af »som«, da ordet ikke er spærret; bør måske rettes til (66,27) - tilføjet igen som stiltiende rettelse -->, og <emph>Politik</emph> og <emph>Samfundsregel som</emph> <pb n="67"/> <emph>Prosa</emph>. Deraf den romantiske Litteraturs uafladelige Lovprisning af
           Evnen og Kraften til at ønske, et Thema, hvortil især <persName>Fr. Schlegel</persName> ofte vender tilbage.
           Det er i Virkeligheden den eneste udadgaaende Kraft man har, Afmagten selv opfattet som
           Kraft. De finder den samme Beundring for Ønsket i »<bibl>Enten—Eller</bibl>«. »Det er
@@ -1421,7 +1426,7 @@
           <l>Um meinem Rock die Fäden abzukehren still.</l>
           <l>[…]</l>
           <l>Doch hätt ich gern geduldet Alles, ausser Eins</l>
-          <l>Dass<!-- rettelse mod forlæg: Dass < Dasss (81,20) --> wo sie stand, und wo sie ging, auswärts, im Haus,</l>
+          <l><app><lem>Dass</lem><rdg wit="A">Dasss</rdg></app><!-- rettelse mod forlæg: Dass < Dasss (81,20) --> wo sie stand, und wo sie ging, auswärts, im Haus,</l>
           <l>Auch im Concert, wenn Tongewirr die Schöpfung schuf,</l>
           <l>[…]</l>
           <l>Da zaspelnd, haspelnd, heftig rauschend, nimmer still,</l>
@@ -1804,7 +1809,7 @@
           Mod og Kraft til det Forbausende, og dette (Forholdet til Modet og Kraften) var ogsaa det
           høie Synspunkt, ud fra hvilket hun dømte om Menneskers Værd.«<!-- tilføjet: Værd.« < Værd.; således if. teksten (100,19)--></p>
 
-        <p> Der er mere Ros end Malerkunst i dette Portrait. <persName>Sainte-Beuve</persName><!-- rettet: Sainte-Beuve < Saint-Beuve ; (100,21) --> vilde have grebet det
+        <p> Der er mere Ros end Malerkunst i dette Portrait. <persName><app><lem>Sainte-Beuve</lem><rdg wit="A">Saint-Beuve</rdg></app></persName><!-- rettet: Sainte-Beuve < Saint-Beuve ; (100,21) --> vilde have grebet det
           anderledes an. Men Originalen til dette Billede er den Kvinde, der siden Udgivelsen af
           hendes Brevsamling med Titel »<bibl><persName>Caroline</persName></bibl>«, næsten som en Dronning kun gaaer
           under dette sit Fornavn, og som man lettest kalder saaledes, fordi hun har havt saa mange
@@ -2117,9 +2122,9 @@
         <p>»<persName type="fictional">Paul</persName> og <persName type="fictional">Virginie</persName> kunde stadigt og uforstyrret elske hinanden. Thi de vare to Børn,
           opdragne af samme Moder. Vi komme fra altfor forskjellige Egne. […] For at to Væsener
           altid skulde forstaae hinanden og forblive forenede ved en uforanderlig Kjærlighed, maatte
-          en ensartet Opdragelse have dannet dem som Børn, og de samme Troeslærdomme, de<!-- rettet: TR: de < det ; (118,24) ; således fra i hvert fald 1900-udg.--> samme
+          en ensartet Opdragelse have dannet dem som Børn, og de samme Troeslærdomme, <app><lem wit="SS Fu 1923-24">de</lem><rdg wit="A B">det</rdg></app><!-- rettet: TR: de < det ; (118,24) ; således fra i hvert fald 1900-udg.--> samme
           sjælelige Vaner, ja det samme ydre Væsen findes hos dem begge. Men vi forpinte Affødninger
-          af et stormfuldt og fordærvet Samfund, der staaer<!-- TR: staaer < saaer; således if. 2.-udg., s. 154 (118,3 fn.) --> som en Stedmoder overfor sine splittede
+          af et stormfuldt og fordærvet Samfund, der <app><lem wit="B SS Fu 1923-24">staar</lem><rdg wit="A">saaer</rdg></app><!-- TR: staaer < saaer; således if. 2.-udg., s. 154 (118,3 fn.) --> som en Stedmoder overfor sine splittede
           Børn og i sine Vildhedsperioder er mere grusomt end den vilde Tilstand, <pb n="119"/> med
           hvilken Ret undre vi os efter saa store offentlige Spaltninger over Hjerternes uafbrudte
           Skilsmisse og Umuligheden af inderlig Harmoni?«</p>
@@ -2917,7 +2922,7 @@
           Kunstner i Madonnabilledet fremstiller sin egen Hustru og endydermere Kunstnerens Sorg
           over at skulle skilles ved sin Frembringelse. En lang Ordsymphoni<!-- rettet: Ordsymphoni < Ordsymplioni; fejl i OCR (161,14-15) --> til Ære for
           <placeName>Strasburger-Dom</placeName> følges af bitre Sidehug til »de umodne raa Stenmasser i <placeName>Mailand</placeName> og <placeName>Pisa</placeName> og
-          den usammenhængende Bygning, <placeName>Domen<!-- rettet: TR: Domen < »Domen; (161,18) - rettelse følger 2.-udg., der har:, Domen (202,16) --> i Lucca</placeName>«. Fremdeles Begeistring for Till Uglspil, som
+          den usammenhængende <app><lem>Bygning, <placeName>Domen</placeName></lem></app><!-- rettet: TR: Domen < »Domen; (161,18) - rettelse følger 2.-udg., der har:, Domen (202,16) --> i Lucca«. Fremdeles Begeistring for Till Uglspil, som
           i de satiriske Litteraturcomoedier for Hans Wurst, fordi disse Herrer menes at
           repræsentere Phantasi og Ironi. Beundring for den Dürerske Hjort med Korset mellem
           Takkerne og for den »sande, fromme og rørende« Maade, hvorpaa Ridderen foran den strækker
@@ -2942,8 +2947,7 @@
         <p> Vi have Reminiscentser af denne Spot over de prosaiske Menneskers Udfald imod Phantasien
           rundtomkring i <persName>Andersens</persName> Eventyr. Dette Digt foredrages i Maaneskin. Som et idealt Sujet
           for Malerkunsten skildres dette Billede: »En Pilegrim i Maaneskin som Allegori paa
-          Menneskeheden<!-- rettet: TR: Menneskeheden < Menneske den; således if. 2.-udg. 203,16; (162,19) -->.« — »Er vi maaskee Andet end vandrende vildfarende Pilegrimme? Kan Noget
-          oplyse vor Vei uden Lyset fra oven?« Vi have stærke Spor af denne Aandsretning endnu hos
+          <app><lem wit="B SS Fu 1923-24">Menneskeheden</lem><rdg wit="A">Menneskeden</rdg></app><!-- rettet: TR: Menneskeheden < Menneske den; således if. 2.-udg. 203,16; (162,19) -->.« — »Er vi maaskee Andet end vandrende vildfarende Pilegrimme? Kan Noget oplyse vor Vei uden Lyset fra oven?« Vi have stærke Spor af denne Aandsretning endnu hos
           <persName>Hauch</persName>, i den stadige Henpegen paa det Hinsides, i Forkjærligheden for Eremit- og
           Pilegrimsfigurerne.</p>
 
@@ -3145,7 +3149,7 @@
           malt af <persName>Teniers</persName> eller endnu bedre af <persName>Höllen-Brueghel</persName><!-- Pieter Breughel (den Yngre) --> med den hele Hexesabbath? For den
           ægte Romantiker tager Naturen med sin Mylr af levende Former og Væsener sig ud som et
           Legetøisskab, og dette Legetøi snakker og pludrer som Legetøiet i <persName>Andersens</persName> Eventyr. Læs
-          f. Ex. endnu denne Skildring af et romantisk Landskab i <persName>Novalis's</persName><!-- rettet: Novalis's < Novalis's: ; for læsbarheden - i overensstemmelse med 2.-udg. (216,13) (174,9 fn.) --> »<bibl>Heinrich v. Ofterdingen</bibl>«<!-- rettet: tilføjet »« om titel (174,9-8 fn.) -->: »<!-- rettet: tilføjet mangledne beg.cit. (174,8 fn.) -->Paa en Høi saae de et romantisk Land, der var oversaaet med Byer og Borge,
+          f. Ex. endnu denne Skildring af et romantisk Landskab i <persName><app><lem wit="B SS Fu 1923-24">Novalis's</lem><rdg wit="A">Novalis's:</rdg></app></persName><!-- rettet: Novalis's < Novalis's: ; for læsbarheden - i overensstemmelse med 2.-udg. (216,13) (174,9 fn.) --> »<bibl>Heinrich v. Ofterdingen</bibl>«<!-- rettet: tilføjet »« om titel (174,9-8 fn.) -->: »<!-- rettet: tilføjet mangledne beg.cit. (174,8 fn.) -->Paa en Høi saae de et romantisk Land, der var oversaaet med Byer og Borge,
           med Templer og Gravsteder, og som forenede al de beboede Sletters Ynde med Ørkenens og
           steile Klippeegnes frygtelige Tillokkelser. De skjønneste Farver vare tilstede i de
           lykkeligste Blandinger, Bjergspidserne glimrede som Fyrværkeri i deres Is- og Sneedække.
@@ -3697,7 +3701,7 @@
           jeg kan ikke løbe, jeg kommer lige fra Galgen, de vilde radbrække mig.« — Denne Situation
           fortsættes i det Uendelige, men jeg bryder af. Indtil Bogens Slutning er man uklar over
           Begivenhedernes sande Betydning og Handlingernes moralske Charakter, i den Grad har
-          Phantasteriet her opløst Personligheden<!-- rettet: Personligheden < Personheden ; (204,23-24)-->.</p>
+          Phantasteriet her opløst <app><lem wit="SS Fu 1923-24">Personligheden</lem><rdg wit="A B">Personheden</rdg></app><!-- rettet: Personligheden < Personheden ; (204,23-24)-->.</p>
 
         <p> Det er bekjendt, i hvilken Grad <persName>Ingemann</persName> hos os har fulgt <persName>Hoffmann</persName> paa denne Bane. Han
           exploiterer f. Ex. det Rædselsfulde, der kan ligge i den Forestilling paa en Kirkegaard
@@ -3880,7 +3884,7 @@
           <l>Phöb Apollon,</l>
           <l>Kalt wird sonst</l>
           <l>Sein Fürstenblick</l>
-          <l>Über<!-- rettet: TR: Über > Uber; (214,19) ; det må være sådan ; 2.-udg. også med "Uber",tysk udg. med "Über"; org. med "Über"--> dich vorübergleiten.</l>
+          <l><app><lem>Über</lem><rdg wit="A B">Uber</rdg><rdg>ændret ordlyd pga. omarbejdelse i SS og Fu</rdg><rdg wit="1923-24">Ueber</rdg></app><!-- rettet: TR: Über > Uber; (214,19) ; det må være sådan ; 2.-udg. også med "Uber",tysk udg. med "Über"; org. med "Über"--> dich vorübergleiten.</l>
         </lg>
 </q></cit>
         <p>i disse Ord har <persName>Goethe</persName> skildret Gemyttet og dets Betydning for Digterens Liv. Hos den,
@@ -4272,7 +4276,7 @@
           gjenfødes Religionen; et sandt Anarchi er dens Avlingselement.<!-- rettet: slettet tilføjet cit.tegn ; (232,15) --></p>
 
         <p> <!-- rettet: Forekommer < »Forekommer ; (232,16) -->Forekommer ikke Statsomvælteren den ægte Betragter som en Sisyphus? Nu har han naaet
-          Ligevægtens Spidse, og allerede ruller den mægtige Byrde<!-- TR: mægtige Byrde < mæg-Byrde ; således if. 2.-udgaven (295,3-2 fn.); (232,18-19) --> atter ned. Den vil aldrig blive
+          Ligevægtens Spidse, og allerede ruller den <app><lem wit="B SS Fu 1923-24">mægtige Byrde</lem><rdg wit="A">mæg-Byrde</rdg></app><!-- TR: mægtige Byrde < mæg-Byrde ; således if. 2.-udgaven (295,3-2 fn.); (232,18-19) --> atter ned. Den vil aldrig blive
           deroppe, naar ikke en Tiltrækning mod Himlen holder den svævende. Alle Eders Støtter ere
           for svage, naar Eders Stat beholder Tendentsen mod Jorden!«</p>
 
@@ -4648,7 +4652,7 @@
           Reisen efter Idealet, og da dette jo altid antages for bosat i Nærheden af <placeName>Rom</placeName>, ender
           Bogen der, forøvrigt uden Slutning, og den blev aldrig senere fortsat. I samme Grad nu som
           »<bibl>Sternbald</bibl>«<!-- rettet: »Sternbald« < Sternbald ; (254,27)--> er mere drømmeagtig og usammenhængende end »<bibl>Meister</bibl>«<!-- rettet: »Meister« < Meister (254,28) -->, i samme Grad sætter <persName>Novalis</persName>
-          den over hin. Thi,<!-- rettet: TR: Thi, < Thi. (254, 1fn. --> siger <pb n="255"/> han: Kjernen i min Philosophi er, at Poesi er det
+          den over hin. <app><lem>Thi,</lem><rdg wit="A">Thi.</rdg></app><!-- rettet: TR: Thi, < Thi. (254, 1fn. --> siger <pb n="255"/> han: Kjernen i min Philosophi er, at Poesi er det
           absolut Reelle, og Alt des sandere, jo mere poetisk. Digteren skal derfor ikke idealisere,
           men trylle. Den sande Poesi er Eventyrets Poesi. Et Eventyr er som et Drømmebillede uden
           Sammenhæng, og Eventyrets Styrke er den, at være Sandhedens Verden absolut modsat og dog
@@ -5162,7 +5166,7 @@
           <l>Maikäfer flieg!</l>
         </lg></q></cit>
 
-        <p> De andre Børn vare haardhjertede nok til at lee af dette Digt. Men ham syntes det saa rø<pb n="279"/>rende. Den stakkels Oldenborre var et fader-<!-- rettet: TR: fader- < fader ; således if. 2.udg. (339,23) ; (279,1) --> og moderløst Barn. Faderen
+        <p> De andre Børn vare haardhjertede nok til at lee af dette Digt. Men ham syntes det saa rø<pb n="279"/>rende. Den stakkels Oldenborre var et <app><lem>fader- og moderløst</lem><rdg wit="A">fader og moderløst</rdg></app><!-- rettet: TR: fader- < fader ; således if. 2.udg. (339,23) ; (279,1) --> Barn. Faderen
           var i Krig, og »hvor kunde den ikke føre ham hen!« Og Moderen? om hende »vare
           Efterretningerne endnu ubestemtere.« I <placeName>Pommern</placeName>! og <placeName>Pommern</placeName> brændt! Hvilket Spillerum for
           Phantasien, og nu tilmed den stakkels Oldenborre, der baaret af sine Savn, søgende fløi ud
@@ -5954,8 +5958,7 @@
           Begreber i en Skuffe<!-- rettet: Skuffe < Skutfe ; fejl i OCR ; (322,19)--> for sig uden Sammenhæng med deres Liv og deres Gjerning. De
           beskjæftigede sig ikke med en Forestilling som Nadveren en Formiddagstime to eller tre
           Gange om Aaret, den gjennemtrængte alle deres Tanker, og de forsøgte at see Virkeligheden
-          i Mysteriets Lys. De finder i <persName>Friedrich v. Baaders</persName><!-- = Franz Baader - udstyres med kommentar også. Husk korrekt id --> samlede Værker<!-- ikke titel if. SS:4:432 --> (fjerde Bind,
-          Anthropologi) mellem mange smaa Afhandlinger: »<bibl>Om Ekstasen eller de i magnetisk Søvn
+          i Mysteriets Lys. De finder i <persName><app><lem>Franz</lem><rdg wit="A B SS Fu 1923-24">Friedrich</rdg></app> v. Baaders</persName><!-- = Franz Baader - udstyres med kommentar også. Husk korrekt id ; alle danske og den første tyske udgave kalder ham Friedrich (ty. s. 347), men i den anden tyske (GB's egen, 1901) hedder han Franz (s. 328)--> samlede Værker<!-- ikke titel if. SS:4:432 --> (fjerde Bind, Anthropologi) mellem mange smaa Afhandlinger: »<bibl>Om Ekstasen eller de i magnetisk Søvn
             Talendes Henrykkelse</bibl>«<!-- rettelse: »Om Ekstasen eller de i magnetisk Søvn
           Talendes Henrykkelse« < Om Ekstasen eller de i magnetisk Søvn
           Talendes Henrykkelse ; (322,27) -->, »<bibl>Om <persName>Seerinden fra Prevorst</persName><!-- husk korrekt id - Frederike Hauffe --></bibl>«<!-- rettet: »Om Seerinden fra Prevorst« < Om Seerinden fra Prevorst ; (322,29)-->, »<bibl>40 <pb n="323"/> Sætninger af den religiøse Erotik</bibl>«<!-- rettet: »40 Sætninger af den religiøse Erotik« < 40 Sætninger af den religiøse Erotik ; (322,29) -->, ogsaa en Afhandling betitlet: »<bibl>At alle Mennesker ere i den sjælelige,
@@ -6178,8 +6181,7 @@
         <p> Lev De vel, vor kjære, kjære Veninde, og vær ret lykkelig her paa Jorden, som det meget <pb n="334"/> vel er muligt at være det. Vi for vor Del ville ikke vide Noget af denne
           Verdens Glæder og drømme om lutter himmelske Enge og Sole, i hvis Skin vi ville vandre om
           med lange Vinger paa Skuldrene. Adieu! et Kys fra mig, som skriver dette, til <persName>Müller</persName>; han
-          skal undertiden tænke paa mig og vedblive at være en tapper Guds Stridsmand mod Djævelens<!-- rettet: Djævelens < Djævelen ; (334,8) ; rettet i hvert fald i SS -->
-          Daarskab, som holder Verden i sine Baand.<!-- rettet: fjernet tilføjet cit.tegn. ; (334,9 fn.) --></p>
+          skal undertiden tænke paa mig og vedblive at være en tapper Guds Stridsmand mod <app><lem wit="B SS Fu 1923-24">Djævelens</lem><rdg wit="A">Djævelen</rdg></app><!-- rettet: Djævelens < Djævelen ; (334,8) ; rettet i hvert fald i SS --> Daarskab, som holder Verden i sine Baand.<!-- rettet: fjernet tilføjet cit.tegn. ; (334,9 fn.) --></p>
 
         
         <p><hi rend="center">(Efterskrift med <persName>Henriettes</persName><!-- Vogel --> Haand.)</hi></p> 
@@ -6609,7 +6611,7 @@
           al vor Visdom, og at Diplomaternes Kunst saa lidet som Vold vilde kunne holde
           Verdenshjulet tilbage.«</p>
 
-        <p> I sit 65.<!-- rettet: TR: 65. < 65 ; således if. 2.-udgaven (484,8 fn.) ; 357,8 --> Aar fornam saa den opslidte, gigtsvage, lidende Olding et dobbelt Sværmeri, der
+        <p> I sit <app><lem>65.</lem><rdg wit="A">65</rdg></app><!-- rettet: TR: 65. < 65 ; således if. 2.-udgaven (484,8 fn.) ; 357,8 --> Aar fornam saa den opslidte, gigtsvage, lidende Olding et dobbelt Sværmeri, der
           stod i den barokkeste Modsætning til hans Alder og Aandsretning. Ynglingen dukkede op i
           ham igjen. Den ene Gjenstand for hans Beundring var den da 19-aarige Dandserinde <persName>Fanny Elsler</persName>, for hvem hans Begeistring og Lidenskab ingen Grændse kjender. I hans Breve hedder
           det: »Jeg har ene og alene vundet hende ved min Elskovs Tryllekraft. Da hun lærte mig at
