@@ -2,7 +2,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><emph>Forklaring og Forsvar</emph> (1872)</title>
    </titleStmt>
    <publicationStmt>
     <publisher>dsl</publisher>
@@ -619,10 +619,11 @@
      passe af al Magt paa Beviserne. Nu følge de; nu er det, det skal sees, hvorledes jeg laaner og
      »rapser«.</p>
 
-    <p rend="center"> Første Bevis.</p>
+    
 
     <cit>
-     <quote><p> Hans Bemærkning om at Oehlenschlägers Faust-Figur Noureddin ender i Wagnersk
+     
+     <quote><title> Første Bevis.</title><p> Hans Bemærkning om at Oehlenschlägers Faust-Figur Noureddin ender i Wagnersk
        Affældighed er oprindelig fremsat af Hauch i en fin lille Dialog (Æsth. Afh. og Rec.) og vel
        at mærke Forvandlingen er her med indtrængende Skarpsindighed begrundet.</p></quote>
     </cit>
@@ -637,10 +638,9 @@
      for hvad jeg har omtalt paa en <emph>knap Linie</emph>, saa har jeg plagieret Hauch. Q. e.
      d.</p>
 
-    <p rend="center"> Andet Bevis.</p>
-
+    
     <cit>
-     <quote><p> Hr. B.’s Paavisning af Modsætningen mellem den Phantasiens Poesi, som er særegen for
+     <quote><title> Andet Bevis.</title><p> Hr. B.’s Paavisning af Modsætningen mellem den Phantasiens Poesi, som er særegen for
        de romanske Folk, og Sindets og Lidenskabens psychologiske Poesi, der er eiendommelig for de
        germanske Folkefærd, er kun <emph>en videre Udvikling</emph> af, hvad der, <emph>rigtignok
         med en helt forskjellig Talebrug</emph>, er fremsat i J. L. Heibergs Fortale til første
@@ -659,10 +659,8 @@
      romansk Natur og Poesi, og da der ligeledes i min Bog findes Noget om samme Gjenstand, der
      hverken ligner hint i Indhold eller Form, saa har jeg plagieret Heiberg. Q. e. d.</p>
 
-    <p rend="center"> Tredie Bevis.</p>
-
     <cit>
-     <quote><p> Ligeledes er Hr. B.’s Udpegning af, hvorledes revolutionære Rørelser i Tydskland
+     <quote><title> Tredie Bevis.</title><p> Ligeledes er Hr. B.’s Udpegning af, hvorledes revolutionære Rørelser i Tydskland
        omsattes i en rent litterær Bevægelse paa samme Tid som de litterære Bevægelser i Frankrig
        slog ud som factisk Revolution tidligere given paa Dansk.</p></quote>
     </cit>
@@ -694,8 +692,7 @@
        honnêtes gens près d’en être accablés. Croyez, qu’il n’y a pas de plate méchanceté, pas
        d’horreurs, pas de conte absurde, qu’on ne fasse adopter aux oisifs d’une grande ville en s’y
        prenant bien.</p>
-      <p rend="right">Bazile.</p>
-     </quote>
+     </quote><bibl>Bazile.</bibl>
     </cit>
 
 
