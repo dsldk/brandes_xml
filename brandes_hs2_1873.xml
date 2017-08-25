@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><emph>Den romantiske Skole i Tydskland</emph> (1873)</title>
+        <title>Den romantiske Skole i Tydskland (1873)</title><!-- 22.8.: fjernet <emph> if. mail fra Jens -->
       </titleStmt>
       <publicationStmt>
         <publisher>dsl</publisher>
@@ -50,7 +50,7 @@
     <body>
       <div>
         <epigraph>
-          <cit><q><lg>
+          <cit><quote><lg>
             <l>Allen Gewalten</l>
             <l>Zum Trutz sich erhalten,</l>
             <l>Nimmer sich beugen...</l>
@@ -58,16 +58,16 @@
           
           <lg>
             <l><persName>GOETHE</persName>.</l>
-          </lg></q></cit>
+          </lg></quote></cit>
         </epigraph>
       </div>
       
       <div>
         <epigraph>
-     <cit><q>     <p>Philisophiren ist dephlegmatisiren, vivificeren.</p>
+     <cit><quote>     <p>Philisophiren ist dephlegmatisiren, vivificeren.</p>
           <lg>
             <l><persName>NOVALIS</persName>.</l>
-          </lg></q></cit>
+          </lg></quote></cit>
         </epigraph>
       </div>
 
@@ -521,7 +521,7 @@
           Franskmanden <persName>Rousseau</persName>, der æres som den Naturens Apostel, der efter <persName>Schillers</persName> Udtryk »vil
           gjøre de Christne til Mennesker«. Hos Ingen naaer Grækomanien en saadan Høide som hos
           <persName>Hølderlin</persName>. Hans hele Forfattervirksomhed og hans hele Liv er kun en lang Længselsklage
-          efter det tabte <placeName>XXXHellas</placeName>. Om Tydskerne siger han, at de »staae som Gjæs med platte Fødder i
+          efter det tabte <placeName>Hellas</placeName>. Om Tydskerne siger han, at de »staae som Gjæs med platte Fødder i
           det moderne Vand og afmægtigt stræbe at flagre op mod den græske Himmel«. Han kalder dem
           Barbarer, der ved Flid og Videnskab og selv ved Religion ere blevne endnu mere barbariske.
           Han jubler over Franskmændenes Seire, over »Republikanernes Kjæmpeskridt«, haaner alle
@@ -820,7 +820,7 @@
           Totaltanke og den psychologiske Sammenhæng med den kan her ikke miskjendes. Man læse
           følgende Vers af »<bibl>Lovell</bibl>«<!-- tilføjet: <bibl/> og »« (48,12) --> og den efterfølgende Reflexion: (»<bibl>Lovell</bibl>«<!-- tilføjet: <bibl/> og »« (48,13) --> I. 178.)<!-- Brandes citerer her ikke efter førstetrykket, der delvist har en afvigende ordlyd. Den benyttede kilde er:  Ludwig Tieck's Schriften, bd. 6, Berlin 1828, s. 178; "I" henviser til, at det er første del af bogen. Pdf findes i "bøger".--></p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Willkommen, erhabenster Gedanke,</l>
           <l>Der hoch zum Gotte mich erhebt.</l>
         </lg>
@@ -851,7 +851,7 @@
           <l>Sie sind nur Dunst und Nebelschatten,</l>
           <l>Das Licht aus mir fällt in die finstre Nacht.</l>
           <l>Die Tugend <emph>ist</emph> nur, weil ich sie gedacht.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> »Saaledes behersker min ydre Sands den physiske, min indre Sands den moralske Verden.
           Alt underkaster sig min Vilkaarlighed; ethvert Phænomen, enhver Handling kan jeg kalde
@@ -1044,7 +1044,7 @@
             der Leidenschaft</bibl>« hedder det:</p>
 
 <cit>
-  <q>
+  <quote>
     <lg>
           <l> Woher dies Zittern, dies unnennbare Entsetzen,</l>
           <l>Wenn mich dein liebevoller Arm umschlang?</l>
@@ -1059,7 +1059,7 @@
           <l>Das Herz war mein, das Du vor dem Altar verloren,</l>
           <l>Mit Menschenfreuden spielt der Himmel nicht.</l>
         </lg>
-  </q>
+  </quote>
 </cit>
 
         <p> Saa pudsigt, som dette naive Sophisteri kan lyde, saa tvivlsomt det maa synes, om
@@ -1292,13 +1292,13 @@
           at bringe en kunstig og usund Hede tilveie, for i den at udruge sine Vindæg. <persName>Caroline Schlegel</persName> har opbevaret os følgende bidende Epigram, der dengang blev forfattet imod
           Bogen:</p>
 
-       <cit><q> <lg>
+       <cit><quote> <lg>
           <l> Der Pedantismus bat die Fantasie</l>
           <l>Um einen Kuss, sie wies ihn an die Sünde;</l>
           <l>Frech, ohne Kraft, umarmt er die,</l>
           <l>Und sie genass mit einem todten Kinde</l>
           <l>Genannt Lucinde.</l><!-- if. "Neuer Aspekt zum Begriff der Liebe beim jungen Fr. Schlegel" er ophavet en vis prof. Bouterwerk: "1801 erschien in dem „Göttinger Musenalalmanach" ein Epigramm von Professor Bouterwek"; almanakken udkom 1770-1807 -->
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Naar jeg undtager Ordet Synd, der ikke hører hjemme her, — thi »<bibl>Lucinde</bibl>«<!-- rettet --> forsynder sig
           først og fremmest mod Poesien og Kunsten — har jeg Intet at indvende mod denne blodige
@@ -1417,7 +1417,7 @@
           Strikketøi i Haanden endog paa offentlige Steder, som f. Ex. i <placeName>Dresden</placeName> paa Concerter. <persName type="fictional">Hr.
             Semmelziege</persName> siger hos <persName>Tieck</persName>:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Des Hauses Sorge nahm zu sehr den Sinn ihr ein,</l>
           <l>Die Sauberkeit, das Porzellan, die Wäsche gar;</l>
           <l>Wenn ich ihr wohl von meiner ew’gen Liebe sprach,</l>
@@ -1431,13 +1431,13 @@
           <l>Da zaspelnd, haspelnd, heftig rauschend, nimmer still,</l>
           <l>Ellnbogend fliegend, schlagend Seiten und Geripp,</l>
           <l>Sie immerdar den Strickstrumpf eifrig handgehabt.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Pudsigst bliver denne Satire, hvor den frivilligt eller ufrivilligt kommer til at see ud
           som en Parodi paa den bekjendte romerske Elegi, hvor <persName>Goethe</persName> trommer Hexametret paa sin
           Elskedes Ryg: <pb n="82"/></p>
 
-       <cit><q> <lg>
+       <cit><quote> <lg>
           <l>Einst als des Thorus heilig Lager uns umfing,</l>
           <l>Am Himmel glanzvoll prangte Lunas keuscher Schein,</l>
           <l>Der goldnen Aphrodite Gab’ erwünschend mir,</l>
@@ -1452,7 +1452,7 @@
           <l>Das Strickzeug tanzt auf meinem Rücken thätig fort;</l>
           <l>Ja stand das Werk just in der Ferse Beugung, wo</l>
           <l>Der Kundigste, ob vielem Zählen selber pfuscht.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Overfor en saadan Dyrkelse af det Nyttige forstaaer man, at Formaalsløsheden
           anbefales.</p>
@@ -1548,7 +1548,7 @@
           styrker ham. Derfor har han udkastet en epikuræisk Troesbekjendelse i <persName>Hans Sachs</persName> <persName>Goethes</persName>
           Maneer.«</p>
 
-        <cit><q><lg><!-- if. SS:4:265 digtet "Der Widerpost" -->
+        <cit><quote><lg><!-- if. SS:4:265 digtet "Der Widerpost" -->
           <l>Kann es fürwahr nicht länger ertragen,</l>
           <l>Muss wieder einmal am mich schlagen,</l>
           <l>Wieder mich rühren mit allen Sinnen,</l>
@@ -1604,7 +1604,7 @@
           <l>War ein täglich Hochzeit gehalten</l>
           <l>Zwischen der Jungfrau und dem Alten.«<!-- rettet: tilføjet « --><note><persName>Plitt</persName>: »<bibl>Aus <persName>Schellings</persName> Leben</bibl>«<!-- rettet --> I.
             282.</note></l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Et saadant Digt fra en saadan Haand er et sandt Document om Tidsaanden.</p>
 
@@ -2012,14 +2012,14 @@
           betragtede den mellem sig som et enfant terrible, hvorledes saa end officielt deres
           Udtalelser løde. <persName>A. W. Schlegel</persName> siger vel i en Sonnet til <persName>Friedrich</persName><!-- Schlegel -->:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Dich führt zur Dichtung Andacht brünst’ger Liebe,</l>
           <l>Du willst zum Tempel dir das Leben bilden.</l>
           <l>Wo Götterrecht die Freiheit lös’ und binde.</l>
           <l>Und dass ohn’ Opfer der Altar nicht bliebe,</l>
           <l>Entführtest Du den himmlischen Gefilden,</l>
           <l>Die hohe Gluth der leuchtenden <persName type="fictional">Lucinde</persName>.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p>ligesom han, da <persName>Kotzebue</persName> i Anledning af Bogen mod <persName>Friedrich</persName><!-- Schlegel --> skrev sit Lystspil »<bibl>Den Hyperboreiske Æsel</bibl>«, svarede med den vittige Satire »<bibl>Ehrenpforte des Präsidenten v. Kotzebue</bibl>«, men privat kaldte han Bogen »en taabelig Rhapsodi«.
           <persName>Tieck</persName> be<pb n="113"/>nævnede den en besynderlig Chimære, og selv <persName>Schleiermacher</persName> søgte at
@@ -2317,7 +2317,7 @@
           Skjæbne, det er Frygten for ved altfor udelukkende Opgaaen i Kunsten at blive udygtig til
           Livet. Det er det, som <persName>Rückert</persName><!-- rettet: Rückert < Riickert ; fejl i OCR ; (129,24) --> saa mesterligt har udtrykt i disse Ord:</p>
 
-<cit><q>        <lg>
+<cit><quote>        <lg>
           <l>Die Kinder, lieber Sobn, der Gaukelschwertverschlucker</l>
           <l>In <placeName>Madras</placeName> üben sich nicht an Confect und Zucker,</l>
           <l>Von Bambus lernen sie die Spitzen zu verschlingen,</l>
@@ -2327,7 +2327,7 @@
         <lg>
           <l><pb n="130"/><!-- <pb/> flyttet hertil fra en placering umiddelbart efter "bringen." --> Willst Du als Mann das Schwert der Wissenschaft verdaun,</l>
           <l>Musst Du als Jüngling nicht Kunstzuckerbröckchen kaun.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Og det er det, som <persName type="fictional">Joseph</persName> udtrykker saaledes: »<!-- rettet: tilføjet »; der er tale om et citat -->Kunsten er en forførerisk, forbuden Frugt;
           den, der engang har smagt dens inderste, søde Saft er uigjenkaldelig tabt for den
@@ -2498,8 +2498,8 @@
           de sig paa at give et Stemningsmaleri ved Hjælp af Assonantser og tragisk-klingende
           Vocaler. Afvexlende tage de alle Alphabetets Selvlyde og Medlyde i deres Tjeneste; 40
           fuldtklingende A-Lyde efter hinanden anvendes til at sætte Læseren i godt Humør, nogle
-          Snese af mørke, sørgmodige U-Lyde indjage ham en gavnlig Skræk. Saaledes f. Ex. i <bibl>***<persName>Tiecks</persName>
-          melancholske U-Romanze om den gamle <persName type="fictional">+++Ridder Wulf</persName>, hvem Fanden tager</bibl>. For den tragiske
+          Snese af mørke, sørgmodige U-Lyde indjage ham en gavnlig Skræk. Saaledes f. Ex. i <persName>Tiecks</persName>
+          <bibl>melancholske U-Romanze om den gamle <persName type="fictional">Ridder Wulf</persName>, hvem Fanden tager</bibl>. For den tragiske
           Virknings Skyld bliver her endog »begann« til »begunnte«. Naar Læseren saa har faaet sit
           Nervesystem en halv Times Tid fuldstændig bedøvet af disse Udgange: »Unke — Sturme —
           hinunter — begunnte — verdunkeln — verschlungen — Wulfen — Münze gulden — grossen Kluften
@@ -2510,7 +2510,7 @@
           Vocalmusik i Dramaet. I <persName>Friedrich Schlegels</persName> »<bibl>Alarcos</bibl>«, dette Arsenal af <pb n="141"/> Assonantser og Alliterationer ender Helten undertiden to, tre Sider itræk med
           lutter a'er eller u'er.</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Ihr Männer all, Pilaster dieser alten Burg,</l>
           <l>Genossen, Tapfre! die umkränzt mein Ritterthum,</l>
           <l>Dess Glorie wir oft neu gefärbt mit hoher Lust</l>
@@ -2523,7 +2523,7 @@
           <l>Mich zwingt, von hier zu eilen, ein geheimer Ruf,</l>
           <l>Nach fernen Orten muss ich in drei Tagen, muss</l>
           <l>Ein gross Geschäft vollenden, und die Frist ist kurz.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p>o. s. v. Burg, Lust, Muth, Schutz, Kund, Brust, Furcht, und, Ruhms, thun, Burg, uns — Man
           har ligesaa meget, naar man faaer Assonantserne alene, som naar man faaer hele Resten med.
@@ -2542,7 +2542,7 @@
         <p> I de frie Versformer naaer Formløsheden og Prosaen sit Høieste. Hvad siger De f. Ex. til
           disse Vers af <persName>Tiecks</persName> »<bibl>Romerreise</bibl>«<!-- rettet -->:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Weit hinter uns liegt <placeName>Rom</placeName>,</l>
           <l>Auch mein Freund ist ernst,</l>
           <l>Der mit mir nach Deutschland kehrt,</l>
@@ -2551,12 +2551,12 @@
           <l>Der edle <persName>Rumohr</persName>,</l>
           <l>Dess Freundschaft ich in mancher kranken Stunde</l>
           <l>Trost und Erheiterung danke.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Hertil har den bekjendte radicale Kritiker, <persName>Arnold Ruge</persName>, i sin Tid føiet følgende
           Supplement:</p>
 
-      <cit><q>  <lg>
+      <cit><quote>  <lg>
           <l>Hochgeehrter Hr. Hofrath!</l>
           <l>Dieser unmittelbaren Lyrik,</l>
           <l>Das verzeihn Sie gütigst, weiss ich</l>
@@ -2565,14 +2565,14 @@
           <l>Nichts zur Seite zu stellen,</l>
           <l>Als etwa diesen</l>
           <l>Schwachen Versuch einer freien Nachbildung.</l>
-      </lg></q></cit><!-- http://runeberg.org/bemsamlade/8/0343.html -->
+      </lg></quote></cit><!-- http://runeberg.org/bemsamlade/8/0343.html -->
 
         <p> Dog sin høieste Conseqvents naaer denne Retning mod at ophæve Sproget til Bedste for
           Musiken egentlig først, hvor <persName>Tieck</persName> gaaer saa vidt at give selve Musiken eller de
           musikalske Instru<pb n="143"/>menter Ord. Undertiden bliver dette komisk. Saaledes f. Ex.
           hvor i »<bibl>Sternbald</bibl>«<!-- rettet: »Sternbald« < Sternbald ; (143,2) -->(første Udgave) Instrumenterne tale, og Fløiten siger<!-- rettet: siger < sig er; fejl i OCR (143,3) -->:</p>
 
- <cit><q>       <lg>
+ <cit><quote>       <lg>
           <l>Unser Geist ist himmelblau,</l>
           <l>Führt dich in die blaue Ferne,</l>
           <l>Zarte Klänge locken dich,</l>
@@ -2583,13 +2583,13 @@
           <l>Lieben Himmel sänftlich an,</l>
           <l>Wie der letzte leise Grund</l>
           <l>Hinter grünen frischen Baümen.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Sit klassiske Udtryk fik denne Tankegang i det Digt, der afslutter
             »<bibl>Phantasus</bibl>«, og hvis Thema efter Calderonsk Mønster varieres i det
           Uendelige:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Liebe denkt in süssen Tönen,</l>
           <l>Denn Gedanken stehn zu fern,</l>
           <l>Nur in Tonen mag sie gern</l>
@@ -2603,7 +2603,7 @@
           <l>Holde Lieb’ auf allen Wegen;<!-- rettet: Wegen; < Wegen: [fejl i OCR; skyldes lettere læderet bogstav, tjekket to 1.-udg. (143,24) --></l>
           <l>Liebe kann sich nicht bewegen,</l>
           <l>Leihet sie den Othem nicht.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Denne overjordiske Elskov, der i Modsætning til den jordiske slet ikke kan bruge Sproget
           som Organ, finder i Tonerne sit adæquate Udtryks<pb n="144"/>middel<!-- rettet: slettet blank ; fejl i OCR ; (144,1)-->, og Sproget bruges
@@ -2680,7 +2680,7 @@
           see og høre Mere, end man har villet vise Jer — Pas paa! men pas paa den rette Maade paa!
           hør efter og giv Agt! giv Agt og hør! hør! hør!! hør!!!«<!-- rettet: hør!!!« < hør!!! ; (146,24) --><note><persName>Tieck</persName> V. 285.</note></p>
 
-        <p> De seer, at <persName>Kierkegaard</persName> med <bibl>***sin bekjendte Afhandling om <persName type="fictional">+++Don Juan</persName></bibl>, i hvis Slutningschor
+        <p> De seer, at <persName>Kierkegaard</persName> med <bibl>sin bekjendte Afhandling om <persName type="fictional">+++Don Juan</persName></bibl>, i hvis Slutningschor
           man troer<!-- rettet: troer < tro er; fejl i OCR (146,1 fn.) --> at kunne gjenkjende Commandantens <pb n="147"/> Trin, kun videre forfølger den
           af <persName>Tieck</persName> anlagte Retning, og De vil let see, i hvor nær en Sammenhæng alle <persName>Hoffmanns</persName>
           Omskrivninger af Musik i Stemningsudbrud og Aandesyn i »<bibl>Kreisleriana</bibl>«<!-- kaldes SS:4:305 Kreislers musikalsk-poetiske Klub --> staaer
@@ -2783,7 +2783,7 @@
           <persName>Winckelmanns</persName> første kunstbegeistrede Skrifter fremkaldte Lysten til Studiet af den antike
           Kunstverden, saaledes vakte <persName>Wackenroder</persName> paa sin Side Kjærligheden til den
           tydsk-middelalderlige Kunst og dens Tidsalder. Med naiv Begeistring begynder han med at
-          omskrive og oversætte saadanne<!-- rettet: saadanne < saadanue; fejl i OCR (152,2 fn.)--> Brudstykker af <persName>Vasaris</persName> gamle Kunstnerbiographier, som gaae <pb n="153"/> ud paa at skildre de berømte italienske Mesteres Storhed og sjælelige
+          omskrive og oversætte saadanne<!-- rettet: saadanne < saadanue; fejl i OCR (152,2 fn.)--> Brudstykker af <bibl><persName>Vasaris</persName> gamle Kunstnerbiographier</bibl>, som gaae <pb n="153"/> ud paa at skildre de berømte italienske Mesteres Storhed og sjælelige
           Høihed. Han forherliger f. Ex. <persName>Leonardo</persName>, dog ikke efter hans Eiendommelighed, ikke som
           dette bestemte Individ eller gjennem kunstforstandig Kritik, men under Titlen: »<bibl>Mønsteret paa en kunstrig og tilmed høilærd Maler, fremstillet i <persName>Leonardo da Vincis</persName> Liv</bibl>«, og Afhandlingen indledes med disse sværmeriske Ord: »Den Tidsalder,
           da Malerkunsten gjenopstod i Italien, har bragt Mænd til Verden, til hvem vor Tid med
@@ -2881,7 +2881,7 @@
           Overflod paa Valdhornmusik.</p>
 
         <p> Det er derfor unægteligt en fin og slaaende Dom af <persName>Goethe</persName>, som vi gjennem et af
-          <persName>Carolines</persName> Breve (I. 219) erfare. <persName>Goethe</persName> har sagt: »man burde egentlig heller kalde Bogen
+          <bibl>Carolines Breve</bibl> (I. 219) erfare. <persName>Goethe</persName> har sagt: »man burde egentlig heller kalde Bogen
           musikalske Van<pb n="159"/>dringer paa Grund af de mange musikalske Fornemmelser og
           Stemninger; Alt var i Bogen undtagen Maleren. Skulde det være en Kunstnerroman, saa maatte
           dog overmaade meget Andet end Kunst komme paa Tale i Bogen […] han savnede den rette
@@ -2905,7 +2905,7 @@
           indeholder den Kunstbetragtning, dernæst Naturbetragtning.</p>
 
         <p> Først møde vi uendelige Reflexioner og Doctriner om Kunst og Poesi, gjennemtrukne med
-          udvandede lyriske Digte, der alle ligne hinanden paa et Haar. <bibl>***Et enkelt stort Digt om
+          udvandede lyriske Digte, der alle ligne hinanden paa et Haar. <bibl>Et enkelt stort Digt om
           Arion</bibl> udmærker sig blandt Bunken og betegner Bogens Aand. Alle de tre romantiske Koryphæer
           <persName>A. W. Schlegel</persName><!-- rettet: A. W. < A.W.; ikke tydelig i 1.-tryk (160,14) -->, <persName>Tieck</persName> og <persName>Novalis</persName> have forherliget Arion. <persName>P.L. Møller</persName> forherligede ham
           senere paa Dansk. De begriber, i hvilken Grad Sagnet om Digteren som Naturens Herre,
@@ -2928,8 +2928,8 @@
           den usammenhængende <app>
             <lem wit="B SS Fu 1923-24">Bygning, <placeName>XXXDomen</placeName></lem>
             <rdg wit="A">Bygning »Domen</rdg>
-          </app><!-- rettet: TR: Domen < »Domen; (161,18) - rettelse følger 2.-udg., der har:, Domen (202,16) --> i Lucca«. Fremdeles Begeistring for Till Uglspil, som
-          i de satiriske Litteraturcomoedier for Hans Wurst, fordi disse Herrer menes at
+          </app><!-- rettet: TR: Domen < »Domen; (161,18) - rettelse følger 2.-udg., der har:, Domen (202,16) --> i Lucca«. Fremdeles Begeistring for <persName type="fictional">Till Uglspil</persName>, som
+          i de satiriske Litteraturcomoedier for <persName type="fictional">Hans Wurst</persName>, fordi disse Herrer menes at
           repræsentere Phantasi og Ironi. Beundring for den Dürerske Hjort med Korset mellem
           Takkerne og for den »sande, fromme og rørende« Maade, hvorpaa Ridderen foran den strækker
           sine Been. Dette Billede er visseligt deiligt og naivt, men latterligt er det at see det
@@ -2940,7 +2940,7 @@
           sige marvløs og blodløs. De fleste af Digtene ere Allegorier, Hoveddigtet er en lang
           Allegori om Phantasus, uden Gnist af Phantasi i elendige Vers:</p>
 
-       <cit><q> <lg>
+       <cit><quote> <lg>
           <l>Der launige Phantasus,</l>
           <l>Ein wunderlicher Alter,</l>
           <l>Folgt stets seiner närrischen Laune.</l>
@@ -2948,7 +2948,7 @@
           <l>Dass er nur seine Possen lässt,</l>
           <l>Vernunft im Denken nicht stört,</l>
           <l>Den armen Menschen nicht irrt o. s. v.<!-- rettet: o. s. v. < o.s.v.; fejl i OCR (162,13) --></l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Vi have Reminiscentser af denne Spot over de prosaiske Menneskers Udfald imod Phantasien
           rundtomkring i <persName>Andersens</persName> Eventyr. Dette Digt foredrages i Maaneskin. Som et idealt Sujet
@@ -2972,7 +2972,7 @@
           Antal af fremragende Kunstværker, hvoraf allerede 1808 en Samling fremgik, der fik den
           største Betydning for Kunsthistorien. Den Omstændighed, at under de Napoleontiske Krige
           saamange Klostre bleve aabnede, rømmede og ophævede, blev af en væsentlig Indflydelse paa
-          Kjendskabet til den gamle forglemte Kunst. I <persName>Fr. Schlegels</persName> Afhandling om <persName>Raphael</persName> i
+          Kjendskabet til den gamle forglemte Kunst. I <persName>Fr. Schlegels</persName> <bibl>***Afhandling om Raphael</bibl> i
             »<bibl>Europa</bibl>« sammenstiller han den ældre førraphaeliske Periode med den
           følgende: »Fra denne nyere Skole,« hedder det, »<!-- rettet: tilføjet «» omkring inkvit -->der betegnes ved <persName>Raphael</persName>, <persName>Tizian</persName>, <persName>Correggio</persName>,
           <persName>Giulio Romano</persName>, <persName>Michel Angelo</persName> er Kunstens Fordærvelse oprindeligt at udlede.« Denne Sætning
@@ -2992,7 +2992,7 @@
           Malere snart gav sig til at realisere, var en uafbrudt Gjenstand for hans Spot. Han brugte
           bestandig det Udtryk om Nazarenerne, at de sternbaldiserede.</p>
 
-        <p> Direkte mod Romantikerne retter han da paa denne Tid <bibl>***det Skrift</bibl>, han udgav til Minde om
+        <p> Direkte mod Romantikerne retter han da paa denne Tid <bibl>det Skrift</bibl>, han udgav til Minde om
           <persName>Winckelmann</persName>. Det hedder her:</p>
 
         <p> »Skildringen af det antike mod denne Verden og dens Goder rettede Sindelag fører os
@@ -3180,10 +3180,10 @@
           Lykke, saa at Melodien greb Træer, Grene, Blade og Græs, og de alle spillende min Sang
           maatte gjentage den som med Millioner af Tunger«<!-- rettelse: tilføjet slut.cit. (176,6) -->. Og derpaa synger han sagte.</p>
 
-        <lg rend="center">
-          <l><emph><bibl>Mondscheinlied</bibl></emph></l><note>p. 248.</note></lg>
-
-        <cit><q><lg>
+        
+          <cit><quote>
+            <lg>
+          <head><bibl>Mondscheinlied</bibl></head><note>p. 248.</note>
           <l>Hinter'm Wasser wie flimmende Flammen</l>
           <l>Berggipfel oben mit Gold beschienen,</l>
           <l>Neigen rauschend und ernst die grünen</l>
@@ -3198,7 +3198,7 @@
           <l>Verkündigt dichterisch ihren Traum</l>
           <l>Wie helle blendende Strahlen die Töne nieder fliessen</l>
           <l>Am Bergeshang den Wiederhall zu grüssen.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Her er Alt! Maanens flimrende Flammer, Buske med blinkende Hoveder, Bølger der rulle
           Fuldmaaneansigtet, Aander, som springe paa Bølgerne, Nat som hos <persName>Novalis</persName>, Natblomster,
@@ -3533,7 +3533,7 @@
           forunderligst gribes han dog, da han i Eneboerens, <persName type="fictional">Greven af Hohenzollerns</persName>, Hule finder en
           hemmelighedsfuld Bog, og i denne Bog, uden endnu at kunne tyde den, opdager sin egen
           Tilværelses Gaade, som denne Tilværelse har begyndt allerede før hans Fødsel og strækker
-          sig ind i Fremtiden efter hans Død. Da <persName>Novalis's</persName> Roman er Allegori og Mythe, da han vil
+          sig ind i Fremtiden efter hans Død. Da <persName>Novalis's</persName> <bibl>Roman</bibl> er Allegori og Mythe, da han vil
           gjøre et enkelt Individ til Bærer af Gemyttets hele evige Historie, bruger han som Middel
           dertil overensstemmende med en af Menneskehedens ældste Hypotheser at fremstille ham som
           tilhørende flere Generationer efter hinanden, saa at Fortid og Fremtid stedse som
@@ -3546,13 +3546,13 @@
           Litteratur i <persName>Heibergs</persName> »<bibl>De Nygifte</bibl>«. De husker, hvorledes Moderen fortæller
           sin Pleiesøn om Sønnens Død: <pb n="197"/></p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Den Morgen, da han led sin skrækkelige Dom,</l>
           <l>Endnu var det neppe daget —</l>
           <l>Traadte Slutteren ind og sagde: »Kom!<!-- rettet: slettet tilføjet cit.tegn (197,3) --></l>
           <l><!-- rettet: slettet tilføjet cit.tegn (197,4) -->Klokken er nu paa Slaget.«</l>
         </lg>
-
+<lb></lb>
         <lg>
           <l>Da sank han for sidste Gang til mit Bryst</l>
           <l>Og udbrød: »Et Ord Du mig give,<!-- rettet: slettet tilføjet cit.tegn (197,6) --></l>
@@ -3590,7 +3590,7 @@
           <l>Først nu mig selv jeg fatter,</l>
           <l>Det er din virkelige Søn, Du har,</l>
           <l>Og nu lever han Livet atter.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Her har De hos <persName>Heiberg</persName> den skjønneste, den mest poetiske Benyttelse af Præexistentsen.
           Men Romantiken bliver ikke staaende derved. Den nøies saa lidet med at kaste
@@ -3881,7 +3881,7 @@
           Domaine. Det er den indre Arne, den indre Smeltedigel. I de berømte Ord i »<bibl>Wanderers
             Sturmlied</bibl>«</p>
 
-    <cit><q>    <lg>
+    <cit><quote>    <lg>
           <l>Innre Wärme</l>
           <l>Seelenwärme</l>
           <l>Mittelpunkt!</l>
@@ -3891,7 +3891,7 @@
           <l>Sein Fürstenblick</l>
           <l><app><lem>Über</lem><rdg wit="A B">Uber</rdg><rdg>ændret ordlyd pga. omarbejdelse i SS og Fu</rdg><rdg wit="1923-24">Ueber</rdg></app><!-- rettet: TR: Über > Uber; (214,19) ; det må være sådan ; 2.-udg. også med "Uber",tysk udg. med "Über"; org. med "Über"--> dich vorübergleiten.</l>
         </lg>
-</q></cit>
+</quote></cit>
         <p>i disse Ord har <persName>Goethe</persName> skildret Gemyttet og dets Betydning for Digterens Liv. Hos den,
           som har »Gemyt«, tager Alt Retningen indefter, Gemyttet er Aandslivets Centripetalkraft.
           Inderlighed bliver Adelsbrevet for den, der sætter Gemyt som det Høieste i Menneskelivet.
@@ -3982,16 +3982,16 @@
         <p> I et af sine Fragmenter<!-- ikke opfattet som titel i SS:4:360 --> kalder <persName>Novalis</persName> Døden en Brudenat, en Hemmelighed, fuld af søde
           Mysterier og tilføier dette Distichon:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Ist es nicht klug, für die Nacht ein geselliges Lager zu suchen?</l>
           <l>Darum ist klüglich gesinnt, wer auch Entschlummerte liebt.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
         <pb n="220"/>
 
         <p> Og saa dybt er denne Tænkemaade grundet i den romantiske Livsbetragtning, at i <persName>Werners</persName>
           Drama »<bibl>Korsbrødrene</bibl>« Helten kort før sin Død paa Baalet siger:</p>
 
-       <cit><q> <lg>
+       <cit><quote> <lg>
           <l>Den Neid verzeih’ ich,</l>
           <l>Die Trauer nicht. — O unaussprechlich schwelg’ ich</l>
           <l>In der Vervandlung Wonn’, in dem Gefühl</l>
@@ -4004,7 +4004,7 @@
           <l>Im Brautgemach, uns vom Gewand entkleidet —</l>
           <l>Verwesung, Glutherguss der Liebe ist!</l>
         </lg>
-</q></cit>
+</quote></cit>
         <p> Liv og Død ere for <persName>Novalis</persName> kun »relative Begreber«. De Døde ere halvveis levende, de
           Levende halvveis døde. Først ved denne Betragtning faaer Tilværelsen for ham sit rette
           Krydderi. Det hedder i den første af Hymnerne til Natten<!-- ikke opfattet som titel i SS:4:360 -->: »<!-- rettet: tilføjet indl. cit.tegn.; »Bort < Bort; således if. 2.-udg., s. 284; (220,21) -->Bort vender jeg mig til den
@@ -4030,7 +4030,7 @@
 
         <p> I denne Begeistring for Natten ligger Spiren til den religiøse Mystik. Hos <persName>Justinus
           Kerner</persName> og <persName>Jung Stilling</persName> gaaer Mystiken over til Aandetro og Spøgelsefrygt. I enkelte af de
-          senere Romantikeres Skrifter, som f. Ex. i <persName>Achim v. Arnims</persName> »<bibl>***Die schöne Isabella von
+          senere Romantikeres Skrifter, som f. Ex. i <persName>Achim v. Arnims</persName> »<bibl>Die schöne Isabella von
             Egypten</bibl>« ere <pb n="222"/> Halvdelen af de optrædende Personer Spøgelser. <persName>Clemens
           Brentano</persName>, den romantiske Skoles enfant perdu, i sin Ungdom uforbederlig Løgner, hvis
           største Glæde var at røre Damerne til Taarer ved Beretninger om sine egne aldeles
@@ -4044,14 +4044,14 @@
         <p> Mystiken betegner <persName>Novalis</persName> selv som »ein wollustiges Wesen«. For ret at forstaae dette
           Udtryk, maa man studere hans Hymner<!-- ikke opfattet som titel i SS:4:361-->.</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Unverbrennlich steht das Kreuz,</l>
           <l>Eine Siegesfahne unsers Geschlechts,</l>
           <l>Hinüber wall’ ich, und jede Pein</l>
           <l>Wird einst ein Stachel der Wollust sein,</l>
           <l>Noch wenig Zeiten so bin ich los</l>
           <l>Und liege trunken der Lieb’ im Schoos.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Endnu tydeligere fremtræder Ekstasen, det sandselige Jegs ekstatiske Lidenskab i den
           syvende Hymne om Nadverens Sakramente:</p>
@@ -4090,7 +4090,7 @@
 
         <p> I mystisk-prophetiske Ord forkynder <persName>Novalis</persName> det hellige Mørkes nye Herredømme:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Es bricht die neue Welt herein</l>
           <l><emph>Und verdunkelt den hellsten Sonnenschein</emph>.</l>
           <l>Man sieht nun aus bemoosten Trümmern</l>
@@ -4118,13 +4118,13 @@
           <l><emph>Sind hier in innigster Sympathie, —</emph></l>
           <l>Wer sich der höchsten Lieb ergeben,</l>
           <l>Genest von ihren Wunden nie.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Endnu kraftigere ere Tankerne Nat — Død — Vellyst — Salighed vævede ind i hverandre i
           dette Digt, som findes over Kirkegaarden i <persName>Novalis's</persName> Roman.</p>
 
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l> De Døde tale:</l>
         </lg>
         <lg>
@@ -4163,7 +4163,7 @@
           <l>Und der Scheiterhaufen sprüht,</l>
           <l>Und dem schauernden Gemüth</l>
           <l>Nun das Erdgesicht zerfloss.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Denne Mysticisme, der priser de Døde, som dem, der svælge i alle Sandselighedens Glæder,
           er i Livet nødvendigvis Quietisme, det vil sige Forherligelse af det rent vegeterende
@@ -4225,7 +4225,7 @@
           foragte alt Stort og Vidunderligt og betragte det som død Lovvirkning.«</p>
 
         <p> Man bør ikke spørge sig selv, om det er <persName type="fictional">Per Degn</persName> eller <persName>Novalis</persName>, man hører. Man bør fatte
-          Digterens Conseqvents. Poesien, som førte <persName>Schiller</persName> til <placeName>XXXHellas</placeName>, fører ham til Inqvisitionen
+          Digterens Conseqvents. Poesien, som førte <persName>Schiller</persName> til <placeName>Hellas</placeName>, fører ham til Inqvisitionen
           og bringer ham til som <persName>Joseph de Maistre</persName> efter ham at tage dens Parti mod <persName>Galilæi</persName>.</p>
 
         <p> Om Protestantismen siger han: »Denne store indre Spaltning, som ødelæggende Krige
@@ -4312,7 +4312,7 @@
           en gjenfødt Reaction, der i Frankrig gjenindsætter Katholicismen og efter <persName>Napoleons</persName> Fald
           Bourbonerne, og som i Tydskland fører til hint afskyelige Tyranni, der gav Pietismen den
           samme Indflydelse som Katholicismen havde i Frankrig, jog de bedste Skribenter i
-          Landflygtighed og romantisk bevæget sysselsatte sig med Fuldendelsen af <placeName>XXXKøllner Dom</placeName>, som
+          Landflygtighed og romantisk bevæget sysselsatte sig med Fuldendelsen af <placeName>Køllner Dom</placeName>, som
           <persName>Julian</persName><!-- kaldet Julian den Frafaldne -->, Romantikeren paa Thronen, i Oldtiden havde sysselsat sig med Gjenopførelsen af
           <placeName>XXXTemplet i Jerusalem</placeName>. Digteren havde villet føre Alt tilbage til den indre Verden. Den
           indre Verden optog Alt, Revolutionens og Contrarevolutionens Kræfter. I den laa alle
@@ -4449,12 +4449,12 @@
 
         <p>
           <emph><persName>Novalis</persName></emph> siger: »<!-- rettet: TR: »Vi < Vi ; 242,12) -->Vi tænke os Gud personlig, som vi tænke os selv
-          personlige. Gud er netop ligesaa personlig og individuel som vi«<!-- rettet: TR: vi« < vi ; (242,14) -->. — <emph><persName>Shelley</persName></emph> siger: <!-- rettet: TR: »Der < Der ; (242,15) -->Der gives ingen Gud. Denne Fornægtelse maa kun forstaaes som
+          personlige. Gud er netop ligesaa personlig og individuel som vi«<!-- rettet: TR: vi« < vi ; (242,14) -->. — <emph><persName>Shelley</persName></emph> siger: »<!-- rettet: TR: »Der < Der ; (242,15) -->Der gives ingen Gud. Denne Fornægtelse maa kun forstaaes som
           gjældende en skabende Guddom. Hypothesen om en Verdensaltet gjennemtrængende og som Altet
           evig Aand bliver uantastet.<!-- note ; (242,19) ; 1.-trykket har fem punktummer uden særlig afstand til det første. Lidt anderledes i 2.-udg. (302,18) ; punktum + ellipse, da Shelleys tyske org. har punktum (lidt svært - Brandes citerer meget frit, men det bruges mange andre steder i bindet med punktum + ellipse  -->[…] Alle Religioner i Verden forbyde Prøvelse og ville ikke
           tilstede noget Forstandsraisonnement; det er Autoriteten, som forlanger, at man skal troe
           paa Gud; denne Gud selv er blot begrundet paa nogle Menneskers Autoritet, der paastaae, at
-          de kjende ham og ere udsendte fra ham for at forkynde ham paa Jorden.</p>
+          de kjende ham og ere udsendte fra ham for at forkynde ham paa Jorden. […]<!-- tilføjet […] --></p>
 
         <p> <!-- rettet: Det < »Det ; (-->Det er umuligt at troe, at den Aand, der gjennemtrænger Universet, avlede en Søn med en
           jødisk Kvinde eller vrededes over Følgerne af en Nødvendighed, der er lig ham selv. Den
@@ -4482,8 +4482,8 @@
         <p> De seer af de anførte Citater, som kunde forøges med utallige andre, at der mellem
           <persName>Novalis</persName> med hans indadvendte Gemytsliv og <persName>Shelley</persName> med hans udadvendte Frihedstrang er den
           mest fuldstændige Modsætning. <persName>Blaze de Bury</persName> finder imidlertid kun Ligheder; han bedømmer
-          <persName>Shelley</persName> yderst sympathetisk, og da hans Afhandling blev oversat paa Dansk, havde man den
-          Morskab i »<bibl>***Fædrelandet</bibl>« at læse følgende: »Stakkels <persName>Shelley</persName>! hans Existents
+          <persName>Shelley</persName> yderst sympathetisk, og da <bibl>***hans Afhandling blev oversat paa Dansk</bibl>, havde man den
+          Morskab i »<bibl>Fædrelandet</bibl>« at læse følgende: »Stakkels <persName>Shelley</persName>! hans Existents
           var en Personification af den moderne Digters. Han kjæmpede uden Ophør og indtil sin Død
           for Tankens og Phantasiens Rettigheder imod Fordommene i en Tidsalder, der ikke havde
           noget ædlere Barn end han, og som altid vægrede sig ved at anerkjende ham. Det maa
@@ -4491,10 +4491,10 @@
           Fanatikernes Øine, og som hverken Bisperne i <placeName>Exeter</placeName> eller <placeName>Oxford</placeName> eller Lordkantslerne
           tilgive […] Man anklagede ham for Gudsfornægtelse. De Retslærde, Aviserne, alle
           Storbritanniens Sladdersøstre slyngede Forbandelsen imod den mystiske Drømmer«. Det staaer
-          at læse i »<bibl>***Fædrelandet</bibl>« for November ifjor. Stakkels <persName>Shelley</persName>! Hvorfor fødtes
+          at læse i »<bibl>Fædrelandet</bibl>« for November ifjor. Stakkels <persName>Shelley</persName>! Hvorfor fødtes
           han ikke i Danmark! Da var det gaaet ham anderledes; Bisperne for <placeName>Sjællands</placeName> og <placeName>Aarhus</placeName>
           Stift havde taget <pb n="245"/> ham i Forsvar, Aviserne havde velsignet ham, og han var i
-          levende Live bleven rost i »<bibl>***Fædrelandet</bibl>«!</p>
+          levende Live bleven rost i »<bibl>Fædrelandet</bibl>«!</p>
 
         <p> Her har De da de to Digtere, man har villet udgive for Tvillingaander. I poetisk Rang<!-- rettet: Rang < Hang ; fejl i OCR ; (245,5)-->
           staae de omtrent lige høit. I Henseende til poetisk Skjønhed ere de nogenlunde hinandens
@@ -4509,7 +4509,7 @@
 
         <p> For ret at gjøre Indtryk paa Menneskene, maa Sandheden, hvor ophøiet den end er, blive
           Menneske, blive Kjød og Blod for dem. Jeg husker, hvorledes jeg som Dreng en Dag læste en
-          Biographi af »<bibl>***Robinson Crusoes</bibl>«<!-- rettet: »Robinson Crusoes« < Robinson Crusoes ; (245,) --> Forfatter <persName>De Foe</persName>. De kjender maaskee hans Livs ublide
+          Biographi af »<bibl>Robinson Crusoes</bibl>«<!-- rettet: »Robinson Crusoes« < Robinson Crusoes ; (245,) --> Forfatter <persName>De Foe</persName>. De kjender maaskee hans Livs ublide
           Skjæbner. Han var den bedste og retsindigste Sjæl, lidenskabelig i Alt, hvad han foretog
           sig, de fattige Klassers Talsmand. Han tilbragte lange Tider af sit Liv i Fængsler. Een
           Gang blev <pb n="246"/> han for en Brochures Skyld dømt til at stilles i Gabestokken,
@@ -4630,7 +4630,7 @@
           Juno, han lader Skyen fare og trykker Juno til sit Hjerte.</p>
 
         <p> Næst efter »<bibl>Klosterbroderens Hjerteudgydelser</bibl>« var det <persName>Goethes</persName> »<bibl>Meister</bibl>«<!-- rettet: »Meister« < Meister ; (254,6) -->, der affødte »<bibl>Sternbald</bibl><!-- rettet: »Sternbald« < Sternbald ; (253,6-7) -->«. Den er gjennemgaaende en Efterklang af dette mægtige Værk. Strax da »<bibl>Meister</bibl>«<!-- rettet: »Meister« < Meister ; (253,8) --> kom ud, lagde <persName>Tieck</persName> Planen
-          til den først 41 Aar senere udkomne, høist interessante Novelle »<bibl>***Der junge Tischlermeister</bibl>« i hvilken Helten, en i æsthetisk Henseende næsten altfor fint
+          til den først 41 Aar senere udkomne, høist interessante Novelle »<bibl>Der junge Tischlermeister</bibl>« i hvilken Helten, en i æsthetisk Henseende næsten altfor fint
           dannet Snedker, gjennemgaaer en med »<bibl>Meisters</bibl>«<!-- rettet: »Meisters« < Meisters ; (253,13) ; if. SS:4:377 værk, ikke person --> fuldkomment beslægtet Udviklingsgang i
           Forhold til adelige Kredse, til Skuespilkunst og Theater og med
           Theaterkjærlighedshistorier. Han opfører som ægte Romantiker Shakspearske Lystspil paa et
@@ -4679,7 +4679,7 @@
         <p> Han beslutter da at skrive en Roman, som skal være det direkte Modstykke til
             »<bibl>Meister</bibl>«<!-- rettet: »Meister« < Meister ; (256,2) -->. Ja han bestemmer med smaalig Omsigt, at endog ved fuldkomment eens
           Tryk og Format skal »<bibl>Heinrich v. Ofterdingen</bibl>«<!-- rettet: »Heinrich v. Ofterdingen« < Heinrich v. Ofterdingen ; (256,4-5) --> fremstille sig som Sidestykke til
-          <persName>Goethes</persName> Bog. Det er jo den, som skal fældes, dens verdslige Livsanskuelse, som skal
+          <bibl><persName>Goethes</persName> Bog</bibl><!-- = Meister -->. Det er jo den, som skal fældes, dens verdslige Livsanskuelse, som skal
           beseires af »<bibl>Ofterdingens</bibl>«<!-- rettet --> mystisk-magiske. Han skriver til <persName>Tieck</persName>: »Min Roman er i fuld Gang
           — det Hele skal være en Apotheose af Poesien. <bibl>Heinrich v. Ofterdingen</bibl> bliver
           i første Del moden til Digter, i anden Del forklaret som Digter. Den vil have mangehaande
@@ -4697,8 +4697,8 @@
 
         <p> I Modsætning hertil vil da <persName>Novalis</persName> levere en Roman, i hvilken Alt tilsidst opløser sig i
           Poesi, eller hvad der i hans Sprog er det Samme, i hvilken Verden til Slutning bliver
-          Gemyt. Thi Alt er Gemyt. »Naturen er for vort Gemyt, hvad Legemet er for Lyset, hedder det
-          i Bogen. Legemet holder det tilbage, bryder det i eiendommelige Farver o. s. v. Menneskene
+          Gemyt. Thi Alt er Gemyt. »Naturen er for vort Gemyt, hvad Legemet er for Lyset,«<!-- indsat « --> hedder det
+          i Bogen. »<!-- indsat » -->Legemet holder det tilbage, bryder det i eiendommelige Farver o. s. v. Menneskene
           ere Krystaller for vort Gemyt«.</p>
 
         <p> Det i Romanen indlagte Eventyr indeholder Nøglen til det Hele. Eventyret skal vise,
@@ -4731,14 +4731,14 @@
           hans Elskede, Kongens Datter. Den strenge Ret har afstaaet sit Herredømme til Poesi og
           Elskov.</p>
 
-<cit><q>        <lg>
+<cit><quote>        <lg>
           <l>Gegründet ist das Reich der Ewigkeit,</l>
           <l>In Lieb und Frieden endigt sich die Streit.</l>
           <l>Vorüber ging der lange Traum der Schmerzen.</l>
-          <l>Sophie ist ewig Priesterin der Herzen.</l>
-        </lg></q></cit>
+          <l><persName type="fictional">Sophie</persName> ist ewig Priesterin der Herzen.</l>
+        </lg></quote></cit>
 
-        <p> <persName type="fictional">Sophie</persName> spiller samme Rolle i dette Digt som <persName type="fictional">Beatrice</persName> i <persName>Dantes</persName>.</p>
+        <p> <persName type="fictional">Sophie</persName> spiller samme Rolle i dette Digt som <persName type="fictional">Beatrice</persName> i <bibl><persName>Dantes</persName></bibl>.</p>
 
         <p> Ligesom nu Verdensskjæbnen er fremstillet her som et Eventyr, saaledes skulde i Romanen
           Menneskeskjæbnen fremstilles som en romanagtig, tilsidst i Eventyr overgaaende Begivenhed.
@@ -4768,20 +4768,20 @@
           Hugos</persName> brillante Digt »<bibl>La captive</bibl>«<!-- if. SS:4:xxx en fangen østerlænderindes klagesang --> i »<bibl>Les Orientales</bibl>«. Sujettet
           er beslægtet. <persName>Hugos</persName></p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Bien loin de ces sodomes</l>
           <l>Au pays, dont nous sommes,</l>
           <l>Avec les jeunes hommes</l>
           <l>On peut parler le soir.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p>gjenkalder den tydske Sangs følelsesfulde</p>
 
-       <cit><q> <lg>
+       <cit><quote> <lg>
           <l>Dem Geliebten darf man trauen,</l>
           <l>Ew’ge Lieb und Treu den Frauen,</l>
           <l>Ist der Männer Losung hier<!-- rettet: hier < bier ; fejl i OCR ; (261,11)-->.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Naturens og Historiens Poesi træder <persName type="fictional">Heinrich</persName> imøde i en Bjergmands og en Eneboers
           Skikkelse. I Eneboerens Bog, der svarer til <persName type="fictional">Kullemandens</persName> hos <persName>Ingemann</persName>, er det, han finder
@@ -4809,7 +4809,7 @@
 
         <p> I et fjernt Kloster, hvis Munke, Præster for Vedligeholdelsen af »den hellige Ild i unge
           Gemytter«, synes at udgjøre en Art Aandekoloni, lever han blandt Afdøde. Han gjennemlever
-          de Stemninger, som <persName>Novalis</persName> har givet Udtryk i Hymnerne <pb n="263"/> til Natten<!-- ikke markeret som titel i SS:4:382 -->. Men han
+          de Stemninger, som <persName>Novalis</persName> har givet Udtryk i <bibl>Hymnerne <pb n="263"/> til Natten</bibl><!-- ikke markeret som titel i SS:4:382; men man skal jo stadig kunne få navnet ved mouse over -->. Men han
           dukker op igjen fra de Døde. Et nyt vidunderligt Væsen har sluttet sig til ham. Hun
           erstatter ham <persName type="fictional">Mathilde</persName>. — Anden Del er kun udkastet: Hele Verden flakker <persName type="fictional">Heinrich</persName> rundt.
           Efter at have oplevet alt Jordisk skulde han »vende tilbage til sit Gemyt som til sit
@@ -4870,7 +4870,7 @@
         <p> Hvor nydelig er ikke i Romanen den Sang, i hvilken de unge Piger klage over deres haarde
           Lod i Livet:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Sind wir nicht geplagte Wesen,</l>
           <l>Ist nicht unser Loos betrübt,</l>
           <l>Nur zu Zwang und Noth erlesen,</l>
@@ -4923,14 +4923,14 @@
           <l>Fleissig und allein zu sein,</l>
           <l>Keiner Bitte nachzugeben:</l>
           <l>Heisst das wohl ein Jugendleben?</l>
-        </lg></q></cit>
+        </lg></quote></cit>
         <pb n="268"/>
 
         <p> Her er den blaa Blomst, som De seer, kun den forbudne Frugt. Men med hvilket sødt
           Skjælmeri er ikke Længselen udtrykt! I en helt anden høitidelig og inderlig Stil er den
           kommet til Orde i dette Digt til en Ven:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Was passt, das muss sich ründen,</l>
           <l>Was sich versteht, sich finden,</l>
           <l>Was gut ist, sich verbinden,</l>
@@ -4951,7 +4951,7 @@
           <l>Ein Glück, für das wir glühen,</l>
           <l>Ein Himmel mir und dir!</l>
         </lg>
-</q></cit>
+</quote></cit>
         
         <p> Her er Længselen omtrent som Korsfarernes, en Søgen ud i det vide Fjerne efter et
           ophøiet Maal. Den blaa Blomst smelter sammen med den blaa Horizont. Dens Farve antyder jo
@@ -5019,7 +5019,7 @@
           et Par Gange, og skriver hende fra sit underordnede Stade i Livet (han er Gartner) en
           overordentlig smuk og følelsesfuld Vise til:</p>
 
-       <cit><q> <lg>
+       <cit><quote> <lg>
           <l>Wohin ich geh’ und schaue</l>
           <l>In Feld<!-- rettet: Feld < Feid ; fejl i OCR ; (272,16)--> und Wald und Thal,</l>
           <l>Vom Berg hinab in die Aue,</l>
@@ -5050,7 +5050,7 @@
           <l>Und ob das Herz zerspringe,</l>
           <l>Ich grabe fort und singe</l>
           <l>Und grab’ mir bald mein Grab.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Ved hendes Indflydelse forfremmes han til Skatteopkræver paa Slottet og arver fra sin
           Forgjænger en prægtig rød Slaabrok med gule Prikker, grønne Tøfler, en Nathue og nogle
@@ -5074,7 +5074,7 @@
           syngende Studenterviser. Overfor dette søgende og flakkende Liv tager det daglige sig
           selvfølgelig ud som et evindeligt Einerlei. Da Helten kommer tilbage til sin Fødeby,
           finder han den nye Skatteopkræver i sin Dør, iklædt den samme Slaabrok med Prikker, de
-          samme Tøfler o. s. v. Det er Situationen i <persName>Heibergs</persName> »<bibl>***Alferne</bibl>« mellem
+          samme Tøfler o. s. v. Det er Situationen i <persName>Heibergs</persName> »<bibl>Alferne</bibl>« mellem
           <persName type="fictional"> Grimmemann</persName> og <persName type="fictional">Mannegrimm</persName>. Efter hele sit Liv igjennem at have søgt sin blaa Blomst, finder
           han hende i sit Hjem, og den første Henrykkelse skildres spøgende, næsten i <persName>H. C. Andersens</persName> Maneer saaledes: »Jeg var saa vel tilmode over, at hun snakkede saa muntert og
           fortroligt med mig, jeg havde kunnet høre paa hende lige til Morgenstunden. Jeg var saadan
@@ -5097,13 +5097,13 @@
 
         <p> <persName>Poul Møllers</persName> Type det er »<persName type="fictional">Den krøllede Frits</persName>«. Bondedrengens Sang:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Farvel! min velsignede Fødeby,</l>
           <l>Min Moders Gryde ryger i Sky,</l>
           <l>Min Faders Kvie gumler i Stald,</l>
           <l>Min Søsters Hane sover paa Hald,</l>
           <l>Jeg vil løbe min Vei.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p>indeholder lutter Udvee.</p>
 
@@ -5124,10 +5124,10 @@
           Begeistring for en Fortid, der var høist forskjellig fra det Billede, han giver af
           den:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Der var en Tid, da vort gamle Land</l>
           <l>Var fuldt af taarnede, røde Paladser.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p>med hans romantiske Kjærlighed til denne Uvi<pb n="277"/>denhedens og Trældommens Tid,
           hænger hans Had til alle liberale Bestræbelser i Nutiden sammen. I hans Biographi hedder
@@ -5141,7 +5141,7 @@
           Livets høiere Interesser. Man seer dette f. Ex. af den Forbindelse, han, som før omtalt,
           vilde finde mellem Liberalismen og Judaismen, mod hvilken sidste han ingenlunde var
           gunstig stemt.« Der ligger, synes mig, en god Klump Bornerthed i disse Ord. Føi nu hertil
-          hans daarlige Afhandling om Udødeligheden<!-- kommentar ; fra SKS: hermed sigtes der til Poul Martin Møllers afhandling »Om Mueligheden af Beviser for Menneskets Udødelighed« (→ 452,29), jf. Efterladte Skrifter (→ 311,3) bd. 2, s. 188-200, især s. 197: »ethvert System, der udelukker væsentlige Partier af denne Erkjendelse [dvs. »Menneskehedens sande Erkjendelse af det Oversandselige«], kan aldrig i Længden hævde sine Fordringer paa almindelig Gyldighed i Videnskaben«. -->, hans »<bibl>***Kunstneren mellem
+          hans daarlige <bibl>***Afhandling om Udødeligheden</bibl><!-- kommentar ; fra SKS: hermed sigtes der til Poul Martin Møllers afhandling »Om Mueligheden af Beviser for Menneskets Udødelighed« (→ 452,29), jf. Efterladte Skrifter (→ 311,3) bd. 2, s. 188-200, især s. 197: »ethvert System, der udelukker væsentlige Partier af denne Erkjendelse [dvs. »Menneskehedens sande Erkjendelse af det Oversandselige«], kan aldrig i Længden hævde sine Fordringer paa almindelig Gyldighed i Videnskaben«. -->, hans »<bibl>***Kunstneren mellem
           Oprørerne</bibl>«, hans Ytringer om Kvindens Emancipation, at for en Kvinde det at skrive
           er det Samme som at trumfe dygtigt i Bordet eller med en rask mandhaftig Spytten beskrive
           Buer i Luften, at <persName>Mme de Staël</persName> og <persName>George Sand</persName> ere aandelige Vanskabninger, at det er
@@ -5150,10 +5150,10 @@
           over, at ogsaa for ham den evindelige Higen bliver Poesiens Udgangspunkt. Hans Student
           reproduceres i <persName>Hostrups</persName> Studenter. Ogsaa de flakke om:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Den evige Higen, som aldrig faaer Fred,</l>
           <l>Det er Fodreisens dybeste Hemmelighed.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Jeg kan ikke modstaae Lysten til at vise Dem, hvilke sygelige Former denne hele Livet
           gjennemtrængende Længsel kan faae hos mindre sunde romantiske Gemytter. Den bekjendte
@@ -5163,13 +5163,13 @@
           først og med uimodstaaeligt Trylleri et barnligt-mystisk Folkevers. Hvilket troer De?
           intet Andet end det gode gamle: Oldenborre flyv! flyv!</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Maikäfer flieg!</l>
           <l>Dein Vater ist im Krieg.</l>
           <l>Deine Mutter ist in <placeName>XXXPommerland</placeName>,</l>
           <l>Und <placeName>XXXPommerland</placeName> ist abgebrannt.</l>
           <l>Maikäfer flieg!</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> De andre Børn vare haardhjertede nok til at lee af dette Digt. Men ham syntes det saa rø<pb n="279"/>rende. Den stakkels Oldenborre var et <app><lem>fader- og moderløst</lem><rdg wit="A">fader og moderløst</rdg></app><!-- rettet: TR: fader- < fader ; således if. 2.udg. (339,23) ; (279,1) --> Barn. Faderen
           var i Krig, og »hvor kunde den ikke føre ham hen!« Og Moderen? om hende »vare
@@ -5404,15 +5404,15 @@
           tydske Keiser, ↄ: for Middelalderens Tydskland, og man gav sig til at besynge Fortidens
           Herlighed. <persName>Max v. Schenkendorf</persName> sang med Vemod:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Die hohen adlichen Gestalten</l>
           <l>Am Rheinstrom auf und nieder wallten.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p>og mindedes med smægtende Melancholi den Tid, da Røverridderne fra deres Borge beherskede
           By og Land. Han sang Hymner til de gamle Domkirker, rørte med hellig Gysen om i
-          Kapellernes Helgen- og Ridderben, og skrev et Digt til Minde om <persName>Carl den Stores</persName>
-          tusindaarige Fødselsdag. Ved <pb n="293"/> Siden af ham virkede <persName>Ernst Moritz Arndt</persName>,
+          Kapellernes Helgen- og Ridderben, og skrev <bibl>***et Digt til Minde om <persName>Carl den Stores</persName>
+          tusindaarige Fødselsdag</bibl>. Ved <pb n="293"/> Siden af ham virkede <persName>Ernst Moritz Arndt</persName>,
           Tydsklands Grundtvig, en Grundtvig med mere Frisind og mindre Theologi end vor. Hos ham
           blev Hadet mod det Franske til fix Idee. Samtidig med at han skrev sine mandige og
           kraftige Frihedssange, kaldte han hele den tydske Oldtid til Vaaben som Reserve i Kampen
@@ -5476,7 +5476,7 @@
           christelig-germaniske Reaction gjennem Baronen <persName>De la Motte Fouqués</persName> Romaner. Han havde som
           Cavalleriofficier gjort Frihedskrigen med. <persName>Fouqué</persName> er især den store Læseverden bekjendt
           igjennem sin yndefulde lille Fortælling »<bibl>***Undine</bibl>«, uden Tvivl efter <persName>Tiecks</persName>
-            »<bibl>***Alferne</bibl>« og maaskee endnu mere end dette Eventyr, der hos os er blevet
+            »<bibl>Alferne</bibl>« og maaskee endnu mere end dette Eventyr, der hos os er blevet
           populært gjennem <persName>Heibergs</persName> Bearbeidelse deraf i Lystspillet af samme Navn, det Skrift, i
           hvilket den romantiske Naturpoesi lagde sit skjønneste og rigeste Indhold for Dagen.
           <persName type="fictional">Undine</persName> er den eneste virkelig levende og anskuelige Skikkelse, som <persName>Fouqué</persName> har frembragt.
@@ -5560,10 +5560,10 @@
           <persName type="fictional">Tebaldo</persName>. Her optræde nogle Gjøglere og opføre forskjellige Scener. Blandt andre kommer en
           Krigsmand i Harnisk, der bøier sig for <persName type="fictional">Plutus</persName>, Rigdommens Gud, og siger følgende Vers:</p>
 
-        <cit><q><lg>
-          <l>»»Für Beulen Silber, Gold für Blut,</l>
-          <l>Herr, gieb Dein Gut, so schlag ich gut.«<!-- rettet: tilføjet cit.tegn om vers i overensstemmelse med org.; + tilføjet cit.tegn. der viser hele citatets begyndelse ; (301,7 fn.) --></l>
-        </lg></q></cit>
+        <cit><quote><lg>
+          <l>»Für Beulen Silber, Gold für Blut,</l>
+          <l>Herr, gieb Dein Gut, so schlag ich gut.<!-- rettet: tilføjet cit.tegn. der viser hele citatets begyndelse ; (301,7 fn.) --></l>
+        </lg></quote></cit>
 
         <p> <!-- rettet: Plutus < »Plutus ; der er tale om et sammenhængende citat, og det indl. cit.tegn markerer alene at citatet fortsætter ; 301,5 fn.) --><persName type="fictional">Plutus</persName> vilde netop give et sindrigt Svar, da foer <persName type="fictional">Hr. Otto v. Trautwangen</persName> i sin Vrede i Veiret og raabte: »Den Knægt der skjænder sit Harnisk, og jeg vil bevise ham det paa hans
           Hoved, ifald han har Mod til at møde mig.« <pb n="302"/> <!-- rettet: fjernet indl. cit.tegn.; markerer alene, at teksten her har linjeskift, der er ingen tekstudeladelse; muligvis sat, da det begynder s. 302 - for at vise fortsat citat ; (302,1) ; noget tilsvarende er gjort i 2.-udg. (457,9 fn.) -->Halvt smilende halvt forskrækket
@@ -5706,12 +5706,12 @@
           repræsenterer den gode, gamle Tid: »Hvor kunde jeg ville spotte <emph>dit barnlige Gemyt</emph>!« <persName type="fictional">Genoveva</persName> skuer tilbage mod Fortiden; som <persName>Tieck</persName> selv tilbringer hun
           alle sine Dage med Læsning i de gamle Legender; ja hun siger endog ægte romantisk:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Drum ist es nicht so Andacht, die mich treibt,</l>
           <l>Wie inn’ge Liebe zu den alten Zeiten,</l>
           <l>Die Rührung, die mich fesselt, dass wir jetzt</l>
           <l>So wenig jenen grossen Glaüb’gen gleichen.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Den mandlige Hovedperson i dette Stykke, den larmoyante Kjæltring <persName type="fictional">Golo</persName>, er <persName type="fictional">William
           Lovell</persName> om igjen, der ikke er bleven mere indtagende ved at oppudses til dramatisk Figur i
@@ -5726,7 +5726,7 @@
         <p> I Indledningen til »<bibl>Phantasus</bibl>« har <persName>Tieck</persName> selv skildret, hvorledes alle
           bestemte Indtryk af Omverdenen for ham flyde sammen i mystisk Naturpantheisme: <pb n="311" /></p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Was ich für Grott’ und Berg gehalten,</l>
           <l>Für Wald und Flur und Felsgestalten,</l>
           <l>Das war ein einzigs grosses Haupt,</l>
@@ -5743,7 +5743,7 @@
           <l>Weil Du ihn darfst so plötzlich schaun,</l>
           <l>Das ist der Vater, unser Alter,</l>
           <l>Heisst Pan, von allem der Erhalter.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Men hvad der saaledes gjælder om Skov og Bjerg hos <persName>Tieck</persName>, det gjælder ligesaa fuldt om
           Menneskelivet; han drukner ogsaa her al Bestemthed og Charakter i Naturmystikens farvede
@@ -5814,10 +5814,10 @@
           træder ind i <persName type="fictional">Käthchens</persName> Kammer. Hendes Syn og hans Drøm svare Punkt for Punkt til hinanden,
           saa Greven, da han erfarer Sammenhængen, med Angst maa udraabe:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Nu staaer mig bi, I Guder! jeg er dobbelt!</l>
           <l>En Aand jeg er og vandrer om ved Nat.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p>De seer atter her Dobbeltgjængeriet som Romantikernes Yndlingstanke i nær Forbindelse med
           Somnambulismen.</p>
@@ -5881,12 +5881,12 @@
           see hans Blod. Elskede <persName type="fictional">Käthchen</persName> som en Hund, saa elsker <persName type="fictional">Penthesilea</persName> som en fra et
           bakchantisk Tog undsluppen Tigerinde. Hendes Elskov ytrer sig i saadanne Ord:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Hetzt alle Hund’ auf ihn! mit Feuerbranden</l>
           <l>Die Elephanten peitschet auf ihn los!</l>
           <l>Mit Sichelwagen schmettert auf ihn ein,</l>
           <l>Und mähet seine üpp’gen Glieder ab!</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Det sidste Ønske, at see hans yppige Lemmer meiede af med Vognenes Leer, er ikke ren
           Forstillelse. Det viser sig da ogsaa ved Digtets Slutning: Amazonerne ere blevne slagne,
@@ -5902,7 +5902,7 @@
           sit Kobbel paa ham, alle Hundene slaae deres Tænder i hans Legeme og hun som de, til
           Blodet drypper af hendes Mund og Hænder.</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Doch hetz! schon ruft sie: Tigris! hetz, Leäne!</l>
           <l>Hetz Sphinx! Melampus! Dirke! hetz Hyrkaon!</l>
           <l>Und stürzt — stürzt mit der ganzen Meut, o Diana!</l>
@@ -5923,13 +5923,13 @@
           <l>Oxus und Sphinx den Zahn in seine rechte,</l>
           <l>In seine linke sie; als ich erschien</l>
           <l>Troff Blut von Mund und Händen ihr herab —</l>
-        </lg></q></cit>
+        </lg></quote></cit>
         <pb n="321"/>
 
         <p> Først længe efter kommer hun til sig selv og erfarer, hvad hun har gjort. Hendes første
           Indtryk er Fortvivlelse, men saa siger hun:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Wie Manche, die am Hals des Freundes hängt,</l>
           <l>Sagt wohl das Wort: sie lieb’ ihn, o so sehr.</l>
           <l>Dass sie vor Liebe gleich ihn fressen könnte;</l>
@@ -5939,7 +5939,7 @@
           <l>Sieh her: als ich an deinem Halse hing,</l>
           <l>Hab’ ich’s wahrhaftig Wort für Wort gethan,</l>
           <l>Ich war nicht so verrückt, als es wohl schien.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Altsaa hun var ikke saa forrykt, som hun syntes. Her som før: Hvad der hos de Andre, var
           Phrase, skal her blive til Virkelighed. Mangen En siger, at hun kunde spise den Elskede op
@@ -6016,18 +6016,18 @@
           Vanærende, en Moral, som det maatte ligge i <persName>Ludvig den Fjortendes</persName> Interesse at beskytte og
           udbrede.</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Mon nom, qu'incessamment toute la terre adore,</l>
           <l>Étouffe içi le bruit, qui pouvait éclater;</l>
           <l>Un partage avec Jupiter</l>
           <l>N’a rien du tout qui déshonore.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Paa ægte fransk Maneer er Stykkets Pointe opfattet som en Collision mellem Ægtemand og
           Elsker, og da <persName type="fictional">Alkmene</persName> angriber <persName type="fictional">Jupiter</persName> for de haarde Ord, som han (ↄ: <persName type="fictional">Amphitryon</persName>) har sagt
           hende, svarer han ved at trække sig tilbage bag denne Distinction:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>L'époux, Alcmène, a commis tout le mal;</l>
           <l>C’est l’époux, qu’il vous faut regarder en coupable:</l>
           <l>L’amant n’a point de part à ce transport brutal,</l>
@@ -6042,7 +6042,7 @@
           <l>A son dur procédé l’époux s’est fait connaître,</l>
           <l>Et par le droit d’hymen il s’est cru tout permis.</l>
         </lg>
-</q></cit>
+</quote></cit>
         
         <p> <persName type="fictional">Jupiter</persName> udtrykker sig, som man seer, med det mest udsøgte Hof-Galanteri, og da ved
           Stykkets Slutning de Omstaaende gratulere den stakkels <persName type="fictional">Amphitryon</persName>, holder <persName type="fictional">Sosias</persName> en
@@ -6060,7 +6060,7 @@
           Olympier, men saa guddommelig og aandig som selve Naturphilosophiens Absolute. Han siger
           til <persName type="fictional">Alkmene</persName>:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Nimmst Du die Welt, sein grosses Werk, wohl wahr?</l>
           <l>Siehst Du ihn in der Abendröthe Schimmer,</l>
           <l>Wenn sie durch schweigende Gebüsche fällt?</l>
@@ -6074,17 +6074,17 @@
           <l>Ihn alle Gattungen Erschaff’ner preisen,</l>
           <l>Steigst Du nicht in des Herzens Schacht hinab</l>
           <l>Und betest deinen Götzen an?</l>
-        </lg></q></cit>
+        </lg></quote></cit>
         <pb n="328"/>
 
         <p> Og derfor tiltaler han da ogsaa Alkmene gjentagne Gange med Ordet: Du Hellige!</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Du bist, du Heilige, vor jedem Zutritt</l>
           <l>Mit diamant’nem Gürtel angethan.</l>
           <l>Auch selbst der Glückliche, den Du empfängst,</l>
           <l>Entlässt dich schuldlos noch und rein […] <!-- ellipsen markerer, at B klipper verset over (de foregående 3 er i fuld længde) ; (328,6)--></l>
-        </lg></q></cit>
+        </lg></quote></cit>
         
         <p> <persName>Müller</persName> udgav Stykket med en begeistret og mystisk Fortale. I et af sine Breve til <persName>Gentz</persName>
           skriver han: »<persName>Hartmannn</persName> har malet et stort, herligt Billede, »De tre Marier ved Graven«,
@@ -6191,11 +6191,11 @@
         
         <p><hi rend="center">(Efterskrift med <persName>Henriettes</persName><!-- Vogel --> Haand.)</hi></p> 
         
-       <cit><q> <lg>  
+       <cit><quote> <lg>  
         <l><!-- rettet: fjernet tilføjet cit.tegn. ; (334,11) -->Dog hvordan alt dette er gaaet til,</l> 
           <l>En anden Gang jeg fortælle vil,</l>
           <l>Da jeg har altfor travlt idag.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
         
           <p> Lever da vel! I mine kjære Venner! og erindrer i Glæde og Sorg de to underlige Mennesker, der snart tiltræde den store
           Opdagelsesreise.</p>
@@ -6256,7 +6256,7 @@
           atter kun Forsagelsens og Opofrelsens rent negative Idee. Skjulte Stemmer synge »i en
           sanglignende, hul Tone«:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Alles ist zum Seyn erkoren,</l>
           <l>Alles wird durch Tod geboren</l>
           <l>Und kein Saatkorn geht verloren.</l>
@@ -6266,7 +6266,7 @@
           <l>Wer durch Blut und Nacht geschwommen</l>
           <l>Ist den Aengsten bald entnommen,</l>
           <l>Blutiger, sei uns wilkommen!</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p>For at give en Forestilling om, i hvilken Grad Mysterierne her exploiteres til Opera- og <pb n="338"/> Ballet-Decoration, vil jeg blot nævne, at i 5te Acts 12te Scene, der
           bestaaer af 64 Linier, kun de 6 indeholde Replik, de øvrige Anvisninger til Decorateuren
@@ -6292,11 +6292,11 @@
           Vaabenkammerat, da han ei kan faae Lov til at befrie ham ved Retterstedet,
           (»gutmüthig«):</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Du böser Jakob du! — Pfuy! sterben will er,</l>
           <l>Verlassen seinen Waffenbruder! — Jakob!</l>
           <l>Du musst nicht sterben! hörst Du?</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> Men <persName type="fictional">Molay</persName> døer, saa skyldfri han end er. Det er her som hos <persName>Kleist</persName> det christelige
           Mysterium, der spiller ind med i Dramet, og <persName type="fictional">Molay</persName> æres som en anden Christus af selve dem,
@@ -6335,9 +6335,9 @@
           skiftede han Tro og skrev et Digt, i hvilket han tilbagekaldte dette Drama i Udtryk som
           disse:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Durch dies Gaukelblendwerk sprach ich der Wahrheit Hohn.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> I <persName>Werners</persName> sidste Tragoedie »<bibl>***Makkabæernes Moder</bibl>« behandlede han et Stof, der var som
           skabt til at give alle Martyrlegendernes Pinsler Rum, og som tilbød en Overflod af
@@ -6348,10 +6348,10 @@
           til at lade sig spidde, flaae, brænde o. s. v. <persName type="fictional">+++Antiochus</persName> beundrer høiligt <persName type="fictional">+++Salome</persName>, ja,
           denne sentimentale Overbøddel kaster sig endog paa Knæ for hende med Ordene:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Du bist kein irdisch Weib! — Solch Opfer spendet</l>
           <l>Kein menschlich Wesen! — Segne mich, du vom Olymp gesendet.</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p>Og <persName type="fictional">+++Salome</persName> er selv sentimental nok til at velsigne ham. (4de Act, 2den Scene). Sønnen
           <persName type="fictional">+++Benoni</persName> faaer, efter ligeledes at have velsignet sin Morder, Hænder og Fødder afhuggede, og
@@ -6362,15 +6362,15 @@
           tvinges til at overvære Alt, kun Martyrfrydens høieste Vellyst, og da <persName type="fictional">+++Antiochus</persName> nu anden
           Gang i sin vanvittige Sentimentalitet bøier sig for hende »dybt bevæget« med Ordene:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Willst, grosse Niobe, du dich von mir im Zorne trennen?</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p>saa lægger hun den høire Haand paa hans Hoved og siger »meget høitideligt«:</p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Ich weiss, dass mein Erlöser lebt! — Lern’ sterbend Ihn erkennen! —</l>
-        </lg></q></cit>
+        </lg></quote></cit>
         <pb n="343"/>
 
         <p>Tilsidst aabner Baggrunden sig: Marterredskaberne, den uhyre Kjedel med kogende Olie, i
@@ -6723,10 +6723,10 @@
           til, erholdt Titel af Minister og saa Meget, at han kan leve meget indskrænket i <placeName>XXXTurin</placeName>.
           Aldrig har et Menneske havt større Ret end han til at sige til sine Børn:<!-- rettet: slettet tilføjet cit.tegn. ; (363,5 fn.) --></p>
 
-        <cit><q><lg>
+        <cit><quote><lg>
           <l>Disce puer virtutem ex me, verumque laborem,</l>
           <l>Fortunam ex aliis!</l>
-        </lg></q></cit>
+        </lg></quote></cit>
 
         <p> <!-- rettet: slettet tilføjet cit.tegn. ; (363,2 fn.) -->Hvilken Mand! og hvor faa af de Samtidige vide endog blot, at han lever!« <pb n="364"/></p>
 
