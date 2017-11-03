@@ -2002,8 +2002,10 @@
             Martin</persName> og <persName>Esménard</persName>. Ja, <persName>Cournand</persName>
           skrev endog et Digt i fire Sange om »Stilen« og Stilarterne. Man betragtede Poesien som en
           kunstig Form, der meddeltes den abstract færdige Tanke. Det var herimod, at allerede
-            <persName>Buffon</persName> havde rettet sin træffende Sætning »le style c’est l’homme
-          méme«, Stilen er Manden, en Sætning, der sidenhen, saa tidt Ordet Stil bliver nævnt,
+            <persName>Buffon</persName> havde rettet sin træffende Sætning »le style c’est l’homme <app>
+            <lem>même</lem>
+            <rdg wit="A">méme</rdg>
+          </app>«, Stilen er Manden, en Sætning, der sidenhen, saa tidt Ordet Stil bliver nævnt,
           kommer frem som staaende Trivialitet, aldrig citeret oftere <pb n="114"/> end af dem, der
           hverken ere Mænd eller have Stil. <note place="bottom">Det eneste vittige Ord, der er
             bleven sagt om <persName>Buffons</persName> Sætning, skyldes <persName>Mme de
@@ -3109,17 +3111,20 @@
           bekjendt uden Skam <pb n="175"/> og har allerede forlængst stillet mig selv i de
           Overtroiskes og Svages Rækker. Jeg vil maaskee blive den sidste Franskmand, der er draget
           ud fra mit Land til det hellige Land med en middelalderlig Pilgrims Ideer, Formaal og
-          Følelser. Men har jeg end ikke de Dyder, som fordum glimrede hos Herrerne til Coucy,
-          Nesles, Chastillon og Montfort, saa har jeg idetmindste Troen tilbage, og paa dette Mærke
-          vilde endda de gamle Korsfarere kjende mig som en af deres egne.«</p>
+          Følelser. Men har jeg end ikke de Dyder, som fordum glimrede hos Herrerne til
+            <placeName>Coucy</placeName>, <placeName>Nesles</placeName>,
+            <placeName>Chastillon</placeName> og <placeName>Montfort</placeName>, saa har jeg
+          idetmindste Troen tilbage, og paa dette Mærke vilde endda de gamle Korsfarere kjende mig
+          som en af deres egne.«</p>
         <p>Er det nu allerede et stærkt Stykke af en rent moderne Aand som
             <persName>Chateaubriand</persName> at tillægge sig Pilgrimsfølelser og Pilgrimsformaal,
           da de gamle Pilgrimme, saavidt vides, ikke reiste ud efter Billeder og Indtryk til
           litterære Productioner, hvad skal man saa sige, naar man i
-            <persName>Chateaubriands</persName> efterladte Memoirer finder en Tilstaaelse om hvad
-          det fjernere Formaal var med denne Opsøgen af Billeder, som kaster det grelleste Lys over
-          hine sidst anførte Ord. Han haabede ved sine Anstrengelser for at opnaae Berømmelse, ved
-          sine Studier og Reiser at vinde en Dames Gunst, i hvem han var forelsket. I og for sig
+            <persName>Chateaubriands</persName> efterladte
+          »<bibl>Memoirer</bibl>«<!-- cit start og slut indsat --> finder en Tilstaaelse om hvad det
+          fjernere Formaal var med denne Opsøgen af Billeder, som kaster det grelleste Lys over hine
+          sidst anførte Ord. Han haabede ved sine Anstrengelser for at opnaae Berømmelse, ved sine
+          Studier og Reiser at vinde en Dames Gunst, i hvem han var forelsket. I og for sig
           betragtet, er jo Intet mere naturligt. Han var endnu ung. Han var brændende ærgjerrig og
           elskede med Lidenskab. Hvad Under, at han sagde til sig selv: Ry, større Ry, med fuldere
           Ret erhvervet Ry for bedre at fortjene hende, for at vise hende <pb n="176"/> mit
@@ -3141,22 +3146,22 @@
           som jeg aflagde mine Prøver? […] Hvis jeg hemmeligt nyder et Øiebliks Lykke, saa er den
           forvirret ved Erindringen om hine Forførelsens, Fortryllelsens og Deliriets Dage.«</p>
         <p>Saaledes taler <persName type="fictional">Tannhaüser</persName>, da han er sluppen ud af
-          Venusbjerget, men Peter Eremita førte ikke dette Sprog, da han vendte tilbage fra den <pb
-            n="177"/> hellige Grav. Den Dame, der havde sat <persName>Chateaubriand</persName>
-          Stævne i <placeName>Alhambra</placeName> var den unge <persName>Madame de
-            Mouchy</persName>, der skildres af Samtidige som et Vidunder af Skjønhed, Ynde og
-          Finhed. Hun døde i Vanvid. – <persName>Chateaubriand</persName> var gift lige siden 1792.
-          Hans Ægteskab var maaske en Ubesindighed, men burde han som den christelige Morals saa
-          ivrige Talsmand ikke have respecteret det, hvordan det saa var indgaaet? Han skildrer dets
-          Stiftelse saaledes i sine Memoirer: »Affairen blev drevet uden mit Vidende […] Jeg følte
-          mig i ingen Henseende skikket til Ægtemand. Alle mine Illusioner levede endnu, Intet var
-          udtømt i mig; mit Livs Energi var endog fordoblet ved mine Reiser. Jeg var stadig plaget
-          af Musen. Min Søster holdt af <persName>Mlle de Lavigne</persName> og saa i dette Ægteskab
-          en uafhængig Stilling for mig: Gjør det da, sagde jeg. Hos mig er den offentlige
-          Personlighed urokkelig, men den private et Bytte for hvemsomhelst, der vil bemægtige sig
-          den, og for at undgaae en Times Fortrædeligheder kunde jeg gjøre mig til Slave for et
-          Aarhundrede.« Lykkeligvis følte han sig ikke altfor bunden. Som hjemvendt Pilgrim skrev
-          han da sin Epopee.</p>
+          Venusbjerget, men <persName>Peter Eremita</persName> førte ikke dette Sprog, da han vendte
+          tilbage fra den <pb n="177"/> hellige Grav. Den Dame, der havde sat
+            <persName>Chateaubriand</persName> Stævne i <placeName>Alhambra</placeName> var den unge
+            <persName>Madame de Mouchy</persName>, der skildres af Samtidige som et Vidunder af
+          Skjønhed, Ynde og Finhed. Hun døde i Vanvid. – <persName>Chateaubriand</persName> var gift
+          lige siden 1792. Hans Ægteskab var maaske en Ubesindighed, men burde han som den
+          christelige Morals saa ivrige Talsmand ikke have respecteret det, hvordan det saa var
+          indgaaet? Han skildrer dets Stiftelse saaledes i sine Memoirer: »Affairen blev drevet uden
+          mit Vidende […] Jeg følte mig i ingen Henseende skikket til Ægtemand. Alle mine Illusioner
+          levede endnu, Intet var udtømt i mig; mit Livs Energi var endog fordoblet ved mine Reiser.
+          Jeg var stadig plaget af Musen. Min Søster holdt af <persName>Mlle de Lavigne</persName>
+          og saa i dette Ægteskab en uafhængig Stilling for mig: Gjør det da, sagde jeg. Hos mig er
+          den offentlige Personlighed urokkelig, men den private et Bytte for hvemsomhelst, der vil
+          bemægtige sig den, og for at undgaae en Times Fortrædeligheder kunde jeg gjøre mig til
+          Slave for et Aarhundrede.« Lykkeligvis følte han sig ikke altfor bunden. Som hjemvendt
+          Pilgrim skrev han da sin Epopee.</p>
         <p>En Epopee i det 19de Aarhundrede! Der gives i vore Dage ikke mere Nogen, som troer paa
           Muligheden deraf. En klarere Indsigt end den, nogen tidligere Tid har besiddet i de
             histo<pb n="178"/>riske Betingelser for de store Oldtidsepopeers Opstaaen har overbevist
@@ -4928,15 +4933,17 @@
             <persName>Lamartine</persName>, der i alle sine tidligere Kjærlighedsforbindelser havde
           praktiseret den, maa staae hen. Vi kjende dem alle, thi han, som efter eget Sigende altid
           i saa høi Grad har været Herre over sit Hjerte og sine Sandser, har i meget ringe Grad
-          været det over sin Pen. Vi vide da af hans »<bibl>Confessions</bibl>«, hvorledes han i
-          Frostveir havde sine Stævnemøder med den skjønne 16aarige Lucy og var kold som
-          Vinternatten; vi erindre den Sætning af <persName type="fictional">Graziella</persName>:
-          »Vi sov to Skridt fra hinanden, jeg var beskyttet ved min kolde Ligegyldighed.« Men er det
-          uvist, om <persName>Julie</persName> har udtalt Theorien, saa bære hendes følgende Ord alt
-          Præg af Ægthed. Hun tilføier høitrødmende, at det Offer, hun fordrer af ham, er nødvendigt
-          – af Helbredshensyn, paa Grund af Lægeforskrift, hun vilde gaae ud af hans Arme som en
-          Skygge, som et Lig: »dette Offer vilde ikke alene være Offeret af min Værdighed, men ogsaa
-          Offeret af min Existents.«</p>
+          været det over sin Pen. Vi vide da af hans »<bibl><app>
+              <lem wit="B SS Fu 1923-24">Confidence</lem>
+              <rdg wit="A">Confessions</rdg>
+            </app></bibl>«, hvorledes han i Frostveir havde sine Stævnemøder med den skjønne
+          16aarige Lucy og var kold som Vinternatten; vi erindre den Sætning af <persName
+            type="fictional">Graziella</persName>: »Vi sov to Skridt fra hinanden, jeg var beskyttet
+          ved min kolde Ligegyldighed.« Men er det uvist, om <persName>Julie</persName> har udtalt
+          Theorien, saa bære hendes følgende Ord alt Præg af Ægthed. Hun tilføier høitrødmende, at
+          det Offer, hun fordrer af ham, er nødvendigt – af Helbredshensyn, paa Grund af
+          Lægeforskrift, hun vilde gaae ud af hans Arme som en Skygge, som et Lig: »dette Offer
+          vilde ikke alene være Offeret af min Værdighed, men ogsaa Offeret af min Existents.«</p>
         <p>Det lader sig ikke negte, at denne sidste Passus staaer i en besynderlig Strid med det
           Foregaaende, og at dette spiritualistiske Forhold ved denne overmaade materialistiske
           Motivering <pb n="271"/> taber en Del af sin Overjordiskhed. Man føler sig, som var man
@@ -5002,8 +5009,10 @@
               poétiques</bibl>«<!-- cit start og slut indsat -->.
             »<bibl>Graziella</bibl>«<!-- cit start og slut indsat -->.
             »<bibl>Raphael</bibl>«<!-- cit start og slut indsat -->. »<bibl>Les
-            confidences</bibl>«<!-- cit start og slut indsat -->.
-            »<bibl>Confessions</bibl>«<!-- cit start og slut indsat -->. – <persName>Mme de
+            confidences</bibl>«<!-- cit start og slut indsat -->. »<bibl><app>
+                <lem wit="B SS Fu 1923-24">Mémoires</lem>
+                <rdg wit="A">Confessions</rdg>
+              </app></bibl>«<!-- cit start og slut indsat -->. – <persName>Mme de
               Krüdener</persName>: »<bibl>Valérie</bibl>«<!-- cit start og slut indsat -->. –
               <persName>Chateaubriand</persName>: »<bibl>Les
             martyrs</bibl>«<!-- cit start og slut indsat -->, især livre IX. og X. –
@@ -5129,7 +5138,10 @@
               <l>Il faut comme un soldat, qu’un prince ait une épée;</l>
               <l>Il faut des factions quand l’astre impur a lui,</l>
               <l>Que nuit et jour, bravant leur attente trompée,</l>
-              <l>Un glaive veille auprés de lui;</l>
+              <l>Un glaive veille <app>
+                  <lem>auprès</lem>
+                  <rdg wit="A">auprés</rdg>
+                </app> de lui;</l>
               <l>Ou que de son armée il se fasse un cortége.</l>
               <l>Que son fier palais se protège</l>
               <l>D’un camp au front étincelant;</l>
@@ -6051,11 +6063,11 @@
           vilde drage den op af den Afgrund, ned i hvilken den hver Dag synker dybere, Intet var
           mere let. Bisperne have fundet, at det ikke var dem tilpas. Saa stod da
             <placeName>Rom</placeName> tilbage. Jeg reiste derhen, og jeg saa den infameste Kloak,
-          der nogensinde har besudlet menneskelige Blikke. Tar<pb n="330"/>quiniernes kjæmpemæssige
-          Afløbsrende vilde være for snever for saameget Skarn. Der hersker ingen anden Gud end
-          Egennytten; man vilde der gjerne sælge Folkene, sælge Menneskeslægten, sælge de tre
-          Personer i den hellige Treenighed, hver for sig eller alle under Et, for et Stykke Jord og
-          for nogle Piastre.«</p>
+          der nogensinde har besudlet menneskelige Blikke. Tar<pb n="[330]"/>quiniernes
+          kjæmpemæssige Afløbsrende vilde være for snever for saameget Skarn. Der hersker ingen
+          anden Gud end Egennytten; man vilde der gjerne sælge Folkene, sælge Menneskeslægten, sælge
+          de tre Personer i den hellige Treenighed, hver for sig eller alle under Et, for et Stykke
+          Jord og for nogle Piastre.«</p>
         <p>Saaledes viste sig paa nært Hold for <persName>Lamennais</persName> den Magt, til hvis
           mest uforfærdede Ridder han havde gjort sig. Hvad Under at han skiftede Front! hvad Under
           at han ligesom de gamle Saxeres hedenske Præster, med hvem <persName>Renan</persName> har
@@ -6068,7 +6080,7 @@
           gjør det af med Autoritetsprincipet: »Jo ældre jeg bliver, des mere undrer jeg mig over at
           see, at de Meninger, der have dybest Rødder i os, afhænge af den Tid, hvori vi have levet,
           af det Samfund, hvori vi ere fødte, og af tusinde ligesaa forbigaaende Omstændighe<pb
-            n="331"/>der. Tænk blot, hvilke Meninger vi vilde have, hvis vi vare komne 10
+            n="[331]"/>der. Tænk blot, hvilke Meninger vi vilde have, hvis vi vare komne 10
           Aarhundreder tidligere til Verden eller i samme Aarhundrede i
             <placeName>Teheran</placeName>, i <placeName>Benares</placeName>, paa
             <placeName>Otaheiti</placeName>!« <note place="bottom">Smlgn. G. Brandes:
@@ -6372,9 +6384,11 @@
           Man ventede det af Bourbonerne, men det skete ikke, med hvor sværmerisk en Sympathi end
           fra først af Digterne og Forfatterne kom dem imøde. Paa de faa, som vare antidynastisk
           sindede, hævnede man sig saa godt man kunde; for at straffe <persName>Béranger</persName>
-          trak man hans Rival <persName>Dèsaugiers</persName> til Hoffet; for at <pb n="345"/>
-          straffe <persName>Delavigne</persName> afsatte man ham fra hans Embede som
-          Bibliothekar.</p>
+          trak man hans Rival <persName><app>
+              <lem>Désaugiers</lem>
+              <rdg wit="A">Dèsaugiers</rdg>
+            </app></persName> til Hoffet; for at <pb n="345"/> straffe
+            <persName>Delavigne</persName> afsatte man ham fra hans Embede som Bibliothekar.</p>
         <p>Men værre end Angrebene udenfra vare de Spirer til Opløsning, der viste sig inde i
           Autoritetsskolen selv. Vi have allerede seet, at <persName>Lamennais</persName> stod paa
           Frafaldets Rand. Og som hos ham, saaledes opdagede man snart hos alle de andre Spirerne
