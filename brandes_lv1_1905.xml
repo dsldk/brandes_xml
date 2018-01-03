@@ -330,18 +330,18 @@
                   – Naar Asterserne og Georginerne sprang ud, saa var Sommeren forbi.</p>
 
                <p>Haven var dog ikke det rigtige Land. Det rigtige Land var hos
-                     <persName>Inger</persName>, min gode Amme. Hun kaldtes min Amme, <pb n="10"/>
+                     <persName key="inger">Inger</persName>, min gode Amme. Hun kaldtes min Amme, <pb n="10"/>
                   fordi hun havde plejet mig, da jeg var lille. Men hun havde ikke givet mig sin
                   Mælk; det havde <persName key="emilie-brandes">Moder</persName>.</p>
 
-               <p><persName>Inger</persName> boede i et Hus med Marker omkring ved Høje Taastrup.
+               <p><persName key="">Inger</persName> boede i et Hus med Marker omkring ved Høje Taastrup.
                   Der var endnu ingen Jernbane dertil; man kørte derud med to Heste for Vognen.
                   Først senere blev den mærkværdige Jernbane lagt helt ud til Roskilde. Da blev det
                   en Begivenhed uden Mage for Børnene, at skulle køre med Jernbane til Valby og
                   tilbage. Deres Fader tog dem med. Mange mente, det var for farligt. Men Børnene
                   brød sig ikke om Faren. Det gik da ogsaa godt, og de kom levende tilbage.</p>
 
-               <p><persName>Inger</persName> havde en Mand, der hed <persName>Peer</persName>. Han
+               <p><persName key="">Inger</persName> havde en Mand, der hed <persName>Peer</persName>. Han
                   var rar, men sagde ikke meget. Inger talte meget mere og sørgede for Alt. De havde
                   en ganske lille Dreng, som hed <persName>Niels</persName>; men han laa i Vugge og
                   kom ikke i Betragtning. Hos Inger og Peer var Alt anderledes end i Byen. Der
@@ -382,7 +382,7 @@
                   dig. Skamfølelse overvælder ham ved Tanken om de andre Drenges Haan. Det er slet
                   ikke hans <persName key="karoline">Barnepige</persName>, men hans <persName key="ernst-brandes">Brors</persName>.
                   Magelig kunde han finde hjem alene; men kan han forklare Drengene, at
-                     <persName>Forældrene</persName> endnu ikke betror ham at gaa med den lille og
+                     <persName key="emilie-brandes;herman-brandes">Forældrene</persName> endnu ikke betror ham at gaa med den lille og
                   sender Bud efter dem begge paa en Gang! Nu skal det være forbi; han vil ikke mere
                   i Kongens Have med <persName key="karoline">Barnepigen</persName>.</p>
 
@@ -631,7 +631,7 @@
 
                <p>Der var dog ogsaa andre fjendtlige Magter end Politiet og Fjenden, uhyggeligere,
                   mindre haandgribelige. Naar jeg gik og dryssede efter
-                     <persName key="karoline">Barnepigen</persName>, der holdt den <persName>yngre
+                     <persName key="karoline">Barnepigen</persName>, der holdt den <persName key="ernst-brandes">yngre
                      Broder</persName> i Haanden, hørte jeg undertiden bag mig et Raab, og vendte
                   jeg mig, saa jeg en grinende Dreng med vrængende Mund og truende Hænder. Længe
                   havde jeg ikke agtet videre derpaa, men efterhaanden hørtes Raabet oftere, og jeg
@@ -847,7 +847,7 @@
                   Franskbrød paa Rugbrød, en Blanding, der frembød en overordenlig Velsmag. Saa
                   mange Stykker kunde Kassen nøjagtigt rumme. Den blev saa lagt til Bøgerne i
                   Tornistret. Og med det paa Ryggen begav man sig i Skole altid ad samme Vej. Men
-                  dette var Tider, da Vandringen besværliggjordes. Hvert Øjeblik mødte man <pb n="28"/> Drenge, som udskældte En og slog til <persName>den Lille</persName>,
+                  dette var Tider, da Vandringen besværliggjordes. Hvert Øjeblik mødte man <pb n="28"/> Drenge, som udskældte En og slog til <persName key="ernst-brandes">den Lille</persName>,
                   saa man maatte slaas paa hvert Gadehjørne, ad hvilket man skulde dreje. Og dette
                   var Tider i Skolen selv, hvor trods Datidens ikke senere naaede Humanitet
                   Skældsord og Puf og udsøgte Forhaanelser var det daglige Brød, og jeg ser mig
@@ -2729,7 +2729,7 @@
                <p><persName>Sønnen</persName> i Huset havde i sin Tid bedt mig læse
                      <persName key="ovid">Ovids</persName> Elegier med sig, og det var det nærmere Bekendtskabs
                   Udgangspunkt. I Byen, om Vinteren, var vi to unge kun sjældnere sammen med
-                  Familien. Men anderledes ved Sommertid. <persName>Konferensraaden</persName> havde
+                  Familien. Men anderledes ved Sommertid. <persName key="christian-david">Konferensraaden</persName> havde
                   opført et Landsted i Rungsted paa en Grund, som tilhørte hans
                      <persName>Broder</persName>, der var Landmand, Ejer af Rungstedgaard,
                   Rungstedlund og Folehavegaard, en forstandig og praktisk Herre. I denne Villa, der
@@ -2737,7 +2737,7 @@
                   indbudt til at tilbringe nogle Sommerdage, ja undertiden en hel Maaned ad Gangen.
                   Fra <pb n="94"/> først af var jeg naturligvis Familien ligegyldig; den tog kun mod
                   mig for Sønnens Skyld; men efterhaanden vandt jeg Fodfæste. Den smukke, kloge og
-                  muntre <persName>Frue</persName> (født Bramsen) tog sig moderligt af min Ungdom,
+                  muntre <persName key="g-n-david">Frue</persName> (født Bramsen) tog sig moderligt af min Ungdom,
                   og de unge <persName>Døtre</persName> viste mig en Velvilje, jeg var dem
                   taknemmelig for.</p>
 
@@ -2828,7 +2828,7 @@
 
                <p>I November Maaned 1859, netop paa samme Tid, som <persName key="kappers">Kappers’</persName>
                   »videnskabelige« Forening blev stiftet, foreslog en Kammerat ved Navn
-                     <persName>Grønbek</persName>, der var fra Falster og kendt med Historikeren
+                     <persName key="reinhold-gronbaek">Grønbek</persName>, der var fra Falster og kendt med Historikeren
                      <persName key="caspar-paludan-muller">Caspar Paludan-Müllers</persName> Familie, min Indtrædelse i et andet
                   lille Selskab af unge Studenter, til hvem Grønbek saa op paa Grund af deres ganske
                   ualmindelige menneskelige og boglige Dannelse.</p>
@@ -2840,7 +2840,7 @@
                   lige bleven Medlem af ét ungt Selskab, men jeg afviste aldrig Udsigten til
                   lærerige Bekendtskaber, og Intet var mig for meget. Jeg slog da med Fornøjelse
                   til, og blev en Aften sent i November indført i den af
-                     <persName>Grønbek</persName> lovpriste Forening, der ikke kaldte sig
+                     <persName key="reinhold-gronbaek">Grønbek</persName> lovpriste Forening, der ikke kaldte sig
                   »videnskabelig«, ikke havde andet Formaal end Selskabelighed og samledes paa <pb n="97"/> Ehlers’ Kollegium hos en ung filologisk Kandidat, <persName key="f-v-nutzhorn">Frederik
                      Nutzhorn</persName>.</p>
 
@@ -3217,7 +3217,7 @@
 
                <p>Det lykkedes ham dog ikke at meddele mig sin Begejstring for Juraen. Jeg gjorde
                   mig Flid, men der var i Stoffet kun lidet, der vakte min Interesse.
-                     <persName>Christian den Femtes</persName>
+                     <persName key="christian-5">Christian den Femtes</persName>
                   <bibl>Danske Lov</bibl> fængslede mig udelukkende ved sin Sprogform, ved de
                   anskuelige og fyndige Udtryk, der nu og da anvendtes. Som naar det hed: »Abild- og
                   Kaal-Have og Tofte, som maa indhegnis, skal hver Mand sig selv hegne med sit
@@ -3627,7 +3627,7 @@
                   Forvandling.</p>
 
                <p>Dog jeg indsaa, at dette ikke kunde berolige med Hensyn til den Form, vi kalder
-                  Individualitet. Hvad nyttede det <persName>Alexander</persName>, at hans Støv
+                  Individualitet. Hvad nyttede det <persName key="alexander-den-store">Alexander</persName>, at hans Støv
                   tilstoppede et Spundshul, eller <persName key="william-shakespeare">Shakespeare</persName>, at <bibl>Romeo
                      og Julie</bibl> spiltes i Chikago! Saa tyede jeg da til Lignelser og Billeder.
                   Hvem kunde vide, <pb n="124"/> om ikke Sjælen, som paa Jorden havde været blind
@@ -3736,8 +3736,8 @@
                   sammen gik vi i Bissens Atelier, hvor jeg i November 1861 saa mine senere Venner
                      <persName key="vilhelm-bissen">Vilhelm Bissen</persName> og <persName key="walter-runeberg">Walter Runeberg</persName> for
                   første Gang. Erindringen om <persName key="julius-lange">Julius Lange</persName> var for mig
-                  sammenknyttet med hvert Maleri af <persName>Hobbema</persName>,
-                     <persName>Dubbels</persName> eller <persName key="jacob-van-ruysdael">Ruysdael</persName>,
+                  sammenknyttet med hvert Maleri af <persName key="meindert-hobbema">Hobbema</persName>,
+                     <persName key="hendrik-j-dubbels">Dubbels</persName> eller <persName key="jacob-van-ruysdael">Ruysdael</persName>,
                      <persName key="rembrandt">Rembrandt</persName> eller <persName key="peter-paul-rubens">Rubens</persName>, hver en
                   Gengivelse af italiensk Renæssancekunst, ethvert Fotografi af Kirker eller Slotte.
                   Og jeg selv elskede Billedkunsten med endnu heftigere Gløden end Poesien. Jeg
@@ -4052,7 +4052,7 @@
                <p>Aftenen efter Faneindvielsens Dag var der Festforestilling for Mødets Deltagere i
                   det kongelige Teater, hvor <persName key="johanne-luise-heiberg">Fru Heiberg</persName>, straalende som altid,
                   hilset med fortjent Henrykkelse, spillede <persName type="fictional">Sophie</persName> i <bibl>Nej</bibl> med en Roset i skandinaviske Farver ved
-                  Beltet. Her bragte <persName>Paludan-Müllers</persName>
+                  Beltet. Her bragte <persName key="frederik-paludan-muller">Paludan-Müllers</persName>
                   <bibl>Prolog</bibl>, fremsagt af den af dansk Ungdom forgudede <persName key="michael-wiehe">Michael
                      Wiehe</persName>, det tredie gribende Øjeblik. Jeg, der fra en daarlig Plads i
                   Baggrunden af anden Etage sad lyttende til Digterens Ord, var neppe den eneste,
@@ -4210,7 +4210,7 @@
                      Papirer</persName>, holdt Forbindelsen med Gæsten i det Paludan-Müllerske Hjem
                   vedlige.</p>
 
-               <p>Ofte kom i Huset en ung Dansk fra Caracas i Venezuela, <persName>Styrup</persName>
+               <p>Ofte kom i Huset en ung Dansk fra Caracas i Venezuela, <persName key="vilhelm-sturup">Styrup</persName>
                   ved Navn, af sjælden, næsten kvindelig Skønhed, med Øjne, hvorom man kunde drømme.
                   Han spilte meget smukt, var indtagende blid og følelsesfuld. Efter nogle Aars
                   Ophold i Danmark vendte han tilbage til sin Fødeby. Hyppige Gæster i Ferien var
@@ -4637,7 +4637,7 @@
                   Udkastet under. Man kan da gøre sig en Forestilling om, hvorledes Hedsporerne
                   talte. Hele Byen var i Febertilstand, og det hed sig, at <persName key="oscar-2">Prins
                      Oscar</persName> laa ovre i Skaane, beredt til at komme over Sundet ved første
-                  Vink og lade sig hylde paa <persName>Kong Carl den XV.s</persName> Vegne. De
+                  Vink og lade sig hylde paa <persName key="karl-4">Kong Carl den XV.s</persName> Vegne. De
                   skandinavisk Sindede ønskede denne Løsning, hvorved de tre Riger blev samlede uden
                   Sværdslag.</p>
 
@@ -4737,11 +4737,11 @@
                <p><persName key="rasmus-nielsen">Nielsen</persName> havde da nylig fra Katedret forkyndt Opgivelsen af
                   sit længe hævdede Kierkegaardske Standpunkt, med den Vending, at »det
                   Kierkegaardske ikke lod sig gennemføre«; han havde maaske under nogen Paavirkning
-                  af Bekendtskabet med <persName>Enkedronningen</persName>, der i hin Tid jævnlig
+                  af Bekendtskabet med <persName key="caroline-amalie">Enkedronningen</persName>, der i hin Tid jævnlig
                   indbød ham sammen med <persName key="n-f-s-grundtvig">Grundtvig</persName>, nærmet sig grundtvigianske
                   Synsmaader – som <persName key="hans-brochner">Brøchner</persName> spydigt sagde om ham: »længere
                   borte fra <persName key="soren-kierkegaard">Kierkegaard</persName> og nærmere ved
-                     <persName>Enkedronningen</persName>.«</p>
+                     <persName key="caroline-amalie">Enkedronningen</persName>.«</p>
 
                <p>Midt under de sidste Eksamensforberedelser tumlede jeg efter Vane med mine Forsøg
                   paa at komme til Klarhed over Livssyn og Pligt, og studsede ved den ubeskrivelige
@@ -4948,7 +4948,7 @@
                <p>Da jeg efter Universitetsstudiernes Afslutning maatte være betænkt paa at fortjene
                   mit Brød, gav jeg ikke blot som før private Undervisningstimer; jeg lod mig hverve
                   som Foredragsholder først af én Kres, i hvilken jeg foredrog nordisk og græsk
-                  Mytologi, saa af en anden i det <persName>Davidske</persName> Hus, hvor jeg
+                  Mytologi, saa af en anden i det <persName key="christian-david;g-n-david;ludvig-david">Davidske</persName> Hus, hvor jeg
                   udviklede den moderne Literaturs Sjælehistorie for opvakte Tilhørere, deriblandt
                   unge smukke Piger. Endelig lod jeg mig af min gamle Regnelærer fra Skoletiden,
                      <persName key="nicolai-femmer">Hr. Femmer</persName>, fæste som Lærer i Dansk Grammatik og Sprog ved
@@ -7231,7 +7231,7 @@
                   rolig! – Noget derefter havde <persName key="meir-aron-goldschmidt">Goldschmidt</persName> i <bibl>Nord og
                      Syd</bibl> i Anledning af <persName key="hans-brochner">Brøchners</persName> Rigsdagskandidatur
                   skrevet, at den bekendte Ateist <persName key="hans-brochner">H. Brøchner</persName> naturligvis som
-                  Medarbejder af <persName>Fædrelandet</persName> blev støttet af »Partiet«. Nu var
+                  Medarbejder af <bibl>Fædrelandet</bibl> blev støttet af »Partiet«. Nu var
                   der Intet, der i den Grad opbragte <persName key="hans-brochner">Brøchner</persName>, som naar Nogen
                   betegnede ham som <emph>Ateist</emph> og saaledes forsøgte at lægge ham for Had –
                   Ordet havde en vel hundred Gange værre Klang da end nutildags – han hævdede altid,
@@ -7487,7 +7487,7 @@
                   nærmest tjente, <persName key="rasmus-nielsen">R. Nielsens</persName>, og da denne i den sidste Tid
                   havde nærmet sig stærkt til den Grundtvigske Følemaade, tildels ogsaa
                      <persName key="n-f-s-grundtvig">Grundtvigs</persName>. Tidsskriftet fik tre Redaktører, deriblandt
-                     <persName>R. Nielsen</persName> selv, og da den ene af dem,
+                     <persName key="rasmus-nielsen">R. Nielsen</persName> selv, og da den ene af dem,
                      <bibl>Fædrelandets</bibl> Kritiker, pludseligt forlod Landet, traadte
                      <persName key="bjornstjerne-bjornson">Bjørnstjerne Bjørnson</persName> i den bortrejstes Sted. De tre Navne
                      <persName key="rasmus-nielsen">R. Nielsen</persName>, <persName key="bjornstjerne-bjornson">B. Bjørnson</persName> og
@@ -7813,7 +7813,7 @@
                <p>Endnu mere levende sysselsatte de Grundspørgsmaal mig, som en videnskabelig
                   Opfattelse af Historien rejste. Jeg havde i nogle Aar ivrigt gransket
                      <persName key="auguste-comte">Comte</persName> og <persName key="emile-littre">Littré</persName>,
-                     <persName>Buckle</persName>, <persName key="john-stuart-mill">Stuart Mill</persName> og
+                     <persName key="h-t-buckle">Buckle</persName>, <persName key="john-stuart-mill">Stuart Mill</persName> og
                      <persName key="hippolyte-taine">Taine</persName> med Hensyn til deres Syn paa Historiens Filosofi.
                   Ogsaa her vendte, om end i anden Skikkelse, Spørgsmaalet tilbage om den Enkeltes
                   Betydning overfor Masserne. Statistiken havde vist, i hvilken Grad bevidste
@@ -8102,7 +8102,7 @@
                      <emph>perpetuum mobile</emph>, forsikrede, at han havde dannet en Maskine, der
                   »ved en simpel Mekanik« erstattede Dampkraften og var funden brugbar af Paris’es
                   første Ingeniører; men ud med Sproget desangaaende vilde han naturligvis ikke. Kun
-                     <persName key="christopher-cristoforo-colon-columbus">Columbus</persName> og <persName>Fulton</persName> var hans Ligemænd;
+                     <persName key="christopher-cristoforo-colon-columbus">Columbus</persName> og <persName key="robert-fulton">Fulton</persName> var hans Ligemænd;
                   han kendte alle Naturens Hemmeligheder. Han var bleven forfulgt – han havde i 1859
                   siddet elleve Maaneder i Fængsel som Kvaksalver – fordi alle store Mænd blev
                   forfulgte, se kun til vor Herre Jesus Kristus! Han selv var den største nulevende
@@ -8128,7 +8128,7 @@
                   tiltalte <persName key="ernest-hello">Hello</persName>, som nærede Mistanke til al rationel
                   Videnskabelighed og var parat til at tro hvad det skulde være. Han kunde læse alle
                   Menneskers Karakter i deres Ansigt. Det var et Paaskud til at sige
-                     <persName key="ernest-hello">Hello</persName>, dennes <persName>Frue</persName> og begges Venner
+                     <persName key="ernest-hello">Hello</persName>, dennes <persName key="jean-lander">Frue</persName> og begges Venner
                   og Veninder de platteste Smigrerier, som gik glat ned. Til mig sagde han:
                   »Monsieur er blid, meget rolig, meget overbærende, tilgiver let enhver
                   Fornærmelse.«</p>
@@ -8225,7 +8225,7 @@
                   ukunstnerisk <emph>(ils ne savent pas écrire, cela me dégoûte d’eux)</emph>.</p>
 
                <p>Jævnlig traf jeg Venner hos ham, saaledes
-                     <emph><persName>Marcelin</persName></emph>, hans Ungdomskammerat, om hvem han
+                     <emph><persName key="emile-planat">Marcelin</persName></emph>, hans Ungdomskammerat, om hvem han
                   mange Aar efter har skrevet en vemodig Nekrolog. Denne Udgiver af det højst
                   verdslige Ugeblad <bibl>La Vie Parisienne</bibl> var en kraftig bredskuldret
                   rødmusset Skikkelse, der saa ud som Sundheden selv og hvis Billede lidet svarede
@@ -8236,7 +8236,7 @@
                   beundrede hos ham, var den Jernvilje, hvormed han, der nitten Aar gammel stod
                   pengeløs og med en mangelfuld Uddannelse som sin Families Hoved, havde ernæret
                   Moder og Søskende ved sit Arbejd. Men dernæst beundrede <persName key="hippolyte-taine">Taine</persName>
-                  hans strenge Alvor. <persName>Marcelin</persName>, der regnedes til det letlevende
+                  hans strenge Alvor. <persName key="emile-planat">Marcelin</persName>, der regnedes til det letlevende
                   Paris, var en ensom Natur, en fantasirig Genskaber af Fortidens Mennesker, som de
                   gik og stod, med deres Væsen og deres Sæder. Det var ham, der oprindeligt havde
                   aabnet <persName key="hippolyte-taine">Taines</persName> Øjne for den Skat, Kobberstiksamlingerne
@@ -8257,9 +8257,9 @@
                   Følelsen betydelige Maleri fra Louvre, som med et Motiv fra Nilen forestiller en
                   Mand, der siddende ved Flodbredden ser sin Ungdoms Drømme, personliggjorte som
                   skønne Kvinder, fly fra ham paa en smykket Nilbaad, der fjerner sig. Dets Titel er
-                     <persName>Mistede Illusioner</persName>. Større Kraft er der i hans gennem
+                     Mistede Illusioner. Større Kraft er der i hans gennem
                   Kobberstik udbredte Maleri af en romersk Hær, som gaar under Aaget, overvunden af
-                  Helvetieren <persName>Divico</persName>, et Billede, der som Udtryk for Schweizer
+                  Helvetieren <persName key="divico">Divico</persName>, et Billede, der som Udtryk for Schweizer
                   Fædrelandsstolthed har faaet sin Plads i Lausanne’s Museum.</p>
 
                <p>Det var dog snarere Manden selv end hans Kunst, som <persName key="hippolyte-taine">Taine</persName>
@@ -8364,9 +8364,9 @@
                   Maade; hun kritiserede den dog ikke, da hun mente, den maatte stemme med det
                   franske Folks Behov og da hun i sine nærmeste Omgivelser saa flere lykkelige
                   Ægteskaber, der var indgaaede af Fornufthensyn. Ægteparret havde to Børn, Sønnen
-                        <emph><persName>Ary</persName></emph>, der døde Aar 1900 efter at have
+                        <emph><persName key="ary-renan">Ary</persName></emph>, der døde Aar 1900 efter at have
                   indlagt sig et Navn som Maler og skrevet skønne Digte (der dog først udkom efter
-                  hans Død), og Datteren <emph><persName>Noemi</persName></emph> (Fru Psichari), der
+                  hans Død), og Datteren <emph><persName key="noemi-renan">Noemi</persName></emph> (Fru Psichari), der
                   trofast bevarende den aandelige Arv fra den store Fader er bleven et af
                   Midtpunkterne i det ypperste Paris, en Ildsjæl, der omfatter Ret og Sandhed og
                   Samfundsidealer med glødende Begejstring.</p>
@@ -8608,7 +8608,7 @@
                <p>Den er først <emph>Brud med den græsk-romerske Oldtid</emph>. Derfor søger den
                   tilbage til det Galliske og til Middelalderen. Derfor giver den det 16.
                   Aarhundredes Digtere Genoprejsning. Men Forsøget strander; thi ogsaa
-                     <persName key="pierre-de-ronsard">Ronsard</persName> og <persName>Pleiaden</persName> er græskdannede,
+                     <persName key="pierre-de-ronsard">Ronsard</persName> og Pleiaden er græskdannede,
                   er Anakreontikere. Der er, naar Rolandskvadet undtages, ingen oprindelig
                   Middelalderliteratur, der kan sammenlignes med vor islandske. Derfor udvides
                   Æmnekresen fra Frankrigs Middelalder til andre Landes f. Eks. Tysklands, hvorfra
@@ -8638,7 +8638,7 @@
                      <persName key="francois-voltaire">Voltaires</persName> og <persName key="jean-jacques-rousseau">Rousseaus</persName> Herredømme
                   vekselvis hinanden. Voltaire hersker til 1820, Rousseau paany til 1850, saa tager
                   Voltaire Tøjlerne igen med <persName key="edmond-about">About</persName>, <persName key="hippolyte-taine">Taine</persName>
-                  og <persName>Sarcey</persName>. I <persName key="ernest-renan">Renan</persName> er Voltaire
+                  og <persName key="francisque-sarcey">Sarcey</persName>. I <persName key="ernest-renan">Renan</persName> er Voltaire
                   sammensmeltet med Rousseau, og nu senere har <persName key="denis-diderot">Diderot</persName>
                   fortrængt dem begge.</p>
 
@@ -8699,7 +8699,7 @@
                   at indordne det kun udvortes Sammenhørende i én Rubrik. Den ubetydelige
                      <emph>École de bon sens</emph> kunde jo dog ingenlunde betragtes som sættende
                   Tidsskel. Heller ikke kunde med Rette Mænd som <persName key="emile-augier">Augier</persName> og
-                     <persName key="">Dumas</persName> henføres til forskelligartede Grupper. Forsøget paa
+                     <persName key="alexandre-dumas-den-yngre">Dumas</persName> henføres til forskelligartede Grupper. Forsøget paa
                   at eftervise Realisme i Lyriken var ligeledes yderst dristigt.</p>
 
                <p>Imidlertid, denne Inddeling og Gruppering forekom mig dengang et Fund, og stor var
@@ -8718,7 +8718,7 @@
                   Fortiden svarer nøje til <persName key="victor-hugo">Victor Hugos</persName>: kun at Middelalderens
                   Genopstandelse i Digtningen lykkes langt bedre (<bibl>Hakon Jarl</bibl>,
                      <bibl>Nordens Guder</bibl>) paa Grund af den friske Oprindelighed i
-                     <persName>Snorre</persName> og <bibl>Edda</bibl>.
+                     <bibl>Snorre og Edda.</bibl>
                      <persName key="n-f-s-grundtvig">Grundtvigs</persName>
                   <bibl>Optrin af Nordens Kæmpeliv</bibl> skylder ligeledes Edda og Sagaer sit Værd.
                      <persName key="adam-oehlenschlager">Oehlenschlägers</persName>
@@ -8770,7 +8770,7 @@
                   af hans Poesi kan henregnes til Fornuftskolen. <persName key="hans-brochner">Brøchners</persName>
                   »Idealrealisme« danner en Overgang til Virkelighedsfilosofi.
                      <persName key="henrik-ibsen">Ibsens</persName> Angreb paa det Bestaaende svarer til Realismen i
-                  det franske Drama. Han er <persName>Dumas</persName> paa nordisk Grund. Han er i
+                  det franske Drama. Han er <persName key="alexandre-dumas-den-yngre">Dumas</persName> paa nordisk Grund. Han er i
                      <bibl>Kærlighedens Komedie</bibl> disharmonisk som Spotter. Han fortsætter i
                      <bibl>Peer Gynt</bibl> den moraliserende Retning med Hang til grove og raa
                   Virkelighedseffekter (Forholdet til <persName type="fictional">Anitra</persName>).</p>
@@ -8909,7 +8909,7 @@
                   Konstruktionen for ham, var en af de mange dristige Eventyrere, man traf blandt
                   Sydboerne i Paris. Han var Aaret forud af <persName key="napoleon-3">Napoleon III</persName> blevet
                   sendt til Spanien for at lede Kontrarevolutionen der. Han kendte nemlig som
-                  Ingeniør hele Landet og havde staaet i stadig Forbindelse med <persName>Dronning
+                  Ingeniør hele Landet og havde staaet i stadig Forbindelse med <persName key="isabella-2">Dronning
                      Isabella</persName> og det spanske Hof i Paris. Han gav os lærerige Skildringer
                   af spansk Bestikkelighed. Hvor han var i Sydspanien, havde han underkøbt
                   Telegrafembedsmændene, saa han fik de politiske Telegrammer til Gennemsyn før
@@ -8939,13 +8939,13 @@
 
                <p>Ofte traf jeg en snurrig gammel fornem Spanier ved Navn <persName key="jose-guell-y-rente">Don José Guell y
                      Rente</persName>, der havde været gift med en <persName>Søster</persName> til
-                     <persName>Dronning Isabellas</persName> Gemal, <persName>Kong
+                     <persName key="isabella-2">Dronning Isabellas</persName> Gemal, <persName key="francisco-de-asis">Kong
                   Frants</persName>, men var bleven skilt fra hende efter at hun, som han paastod,
                   havde forsøgt at skære Halsen over paa ham. Som Vidnesbyrd om sine ægteskabelige
                   Genvordigheder fremviste han et stort Ar paa sin Hals. Han var belæst og sværmede
                   bl. A. for skandinavisk Literatur, fordi den havde frembragt Verdens største
                   Digter, <persName key="james-macpherson">Ossian</persName>, hvem han havde lært at kende i
-                     <persName>Cesarotti’s</persName> italienske Oversættelse. Det var frugtesløst
+                     <persName key="cesarotti">Cesarotti’s</persName> italienske Oversættelse. Det var frugtesløst
                   at ville forklare ham Forskellen paa Skandinavien og Skotland. Begge Dele er
                   Norden, svarte han.</p>
             </div>
@@ -9055,8 +9055,8 @@
                   underholdende Maade kunde gennemgaa hele Frankrigs Historie ved Hjælp af de
                   udstilte Haandskrifter fra de ældste Papyrusruller til Pergaments- og Papirstiden.
                   Der saa man Aktstykker fra Lensmands- og Præstesammensværgelser under
-                     <persName>Merovinger</persName> og <persName>Capetinger</persName>,
-                     <persName key="">Filip Augusts</persName> og <persName>Ingeborgs</persName>
+                     Merovinger og Capetinger,
+                     <persName key="filip-2-august">Filip Augusts</persName> og <persName key="ingeborg">Ingeborgs</persName>
                   Skilsmisse-Dokument, Breve fra Middelalderens og Enevældens mærkeligste
                   Personligheder. Revolutionstiden, Republiken og det første Kejserdømme blev <pb n="305"/> her særligt levende for En. Der var <persName key="karl-den-store">Karl den
                      Stores</persName> Navnetræk ridset gennem Blik, og <persName>Robert af
@@ -9084,7 +9084,7 @@
                   Forbindelse med <persName key="guido-donnersmarck">Grev Henckel</persName> v. Donnersmark tillod hende at
                   omgive sig med fyrstelig Rigdom, og til <persName key="prinsesse-mathilde-bonaparte">Prinsesse Mathildes</persName>
                   Harme satte Mænd som <persName key="theophile-gautier">Gautier</persName> og <persName key="ernest-renan">Renan</persName>,
-                     <persName key="charles-augustin-sainte-beuve">Sainte-Beuve</persName> og <persName>Goncourt</persName>,
+                     <persName key="charles-augustin-sainte-beuve">Sainte-Beuve</persName> og <persName key="edmond-goncourt">Goncourt</persName>,
                      <persName key="paul-comte-de-saint-victor">Saint-Victor</persName> og <persName key="hippolyte-taine">Taine</persName> sig ved hendes
                   Bord. Disse Damer her var yngre og skønnere, men socialt af lavere Rang. Herrerne
                   gik om mellem Vognene, sagde uden videre Du til Kvinderne og trykkede deres
@@ -9113,7 +9113,7 @@
                      sortir</emph>.</p>
 
                <p>Lidet anede jeg, at blot faa Maaneder derefter skulde
-                     <persName>Kejserinden</persName> hemmeligt snige sig ud af Slottet, efter at
+                     <persName key="eugenie">Kejserinden</persName> hemmeligt snige sig ud af Slottet, efter at
                   have mistet sin Krone, og endnu mindre, at kun et halvt Aar senere skulde
                   Tuilerierne under Borgerkrig lægges i Aske for aldrig at rejse sig mer.</p>
             </div>
@@ -9260,9 +9260,9 @@
                   paa Deres Lommer! –</p>
 
                <p><pb n="312"/> Kun faa Dage derefter blev Pariserne rystede op af deres Ro uden
-                  derfor at rystes op af deres Selvtilfredshed. <persName>Hertugen af
+                  derfor at rystes op af deres Selvtilfredshed. <persName key="agenor-af-gramont">Hertugen af
                      Grammonts</persName> Tale den 6. Juli, der gik ud paa at Frankrig ikke vilde
-                  taale nogen <persName>Hohenzollern</persName> paa Spaniens Trone, bibragte
+                  taale nogen Hohenzollern paa Spaniens Trone, bibragte
                   Befolkningen den Tro, at man var dybt fornærmet af den prøjsiske Konge, og en
                   Strøm af krigerisk Forbitrelse gik igennem det pirrelige og vildledte Folk, der i
                   fire Aar havde følt sig ydmyget ved Prøjsens Magtstilling. Alle troede og sagde,
@@ -9340,7 +9340,7 @@
                      <persName key="john-stuart-mill">Stuart Mill</persName>. Han var god og stor, og jeg følte mig højligt
                   tiltrukken af hans Storhed. Der var Grundtræk i hans Synsmaade og Følemaade, som
                   stemmede med Hang hos mig selv; saaledes Nyttelæren, som den var grundlagt af
-                     <persName key="jeremy-bentham">Bentham</persName> og hans <persName>Fader</persName>, udviklet af
+                     <persName key="jeremy-bentham">Bentham</persName> og hans <persName key="jeremiah-bentham">Fader</persName>, udviklet af
                   ham. Nogle Aar forinden allerede havde jeg skrevet: »Vor Attraa er ikke mere en
                   Flugt fra Samfundet og Virkeligheden med vore Længsler og vore Tanker. Lige
                   omvendt: vi vil virkeliggøre vore Ideer i Samfundet, i Livet. For ikke at blive en
@@ -9440,7 +9440,7 @@
                   i Samlingernes Skatte, med Udflugter til Omegnen og til Oxford.</p>
 
                <p>Jeg fordybede mig i St. Pauls Kirken, saa den helt igennem oppe og nede, stod i
-                  Krypten, hvor dens Bygmester <persName>Wren</persName> ligger begravet – <emph>Si
+                  Krypten, hvor dens Bygmester <persName key="christopher-wren">Wren</persName> ligger begravet – <emph>Si
                      momentum requiris, circumspice</emph> – sammenlignede i mine Tanker
                      <persName key="arthur-wellesley-1-duke-of-wellington">Wellingtons</persName> Grav her med <persName key="napoleon-1">Napoleons</persName>
                   paa den anden Side af Kanalen, og gik saa op ovenpaa Kirken og saa til alle Sider
@@ -9472,15 +9472,15 @@
                <p>Jeg saa hvad jeg formaaede: Parlamentsbygningen, Westminster Hall og Abbedi, Tower
                   og Teatrene, Samlingen i Dulwich med <persName key="rembrandt">Rembrandts</persName>
                   <emph>Pigen ved Vinduet</emph> og den i Hampton Court med det
-                     <persName>Tizian</persName> tilskrevne Portræt af <persName>Loyola</persName>,
+                     <persName key="tizian">Tizian</persName> tilskrevne Portræt af <persName>Loyola</persName>,
                   sejlede ad Floden til Greenwich, og dvælede længe i de dejlige Haver ved Kew, der
                   gav mig et yppigt Indtryk af engelsk Landskab. Ogsaa
                      <persName>Dronningens</persName> Mønsterfarm saa jeg. Hvert Dyr var her
                   prægtigt som bestemt til et Dyrskue, Mejeriernes Vægge helt af Fajance.
-                  Forvalteren beklagede, at <persName>Prins Albert</persName>, der selv havde givet
+                  Forvalteren beklagede, at <persName key="prins-albert">Prins Albert</persName>, der selv havde givet
                   Tegning til en vis Art Melkebeholdere, ikke havde oplevet at se dem udførte. Ikke
                   uden Komik var hans vemodige Meddelelse om en gammel Stud, at den havde
-                     <persName>Dronningen</persName> selv givet Navnet <persName>Prins
+                     <persName>Dronningen</persName> selv givet Navnet <persName key="prins-albert">Prins
                      Albert</persName>.</p>
 
                <p>For mig, der var vant til at se det muntre og barokke Liv, der om Aftenerne
@@ -9509,12 +9509,12 @@
             <div>
                <head type="sub">20.</head>
 
-               <p>Det Hus, hvor jeg i London følte mig lykkelig, var <persName>Antonio
-                     Gallenga’s</persName>. Et Anbefalingsbrev fra <persName>Hauchs</persName>
+               <p>Det Hus, hvor jeg i London følte mig lykkelig, var <persName key="antonio-gallenga">Antonio
+                     Gallenga’s</persName>. Et Anbefalingsbrev fra <persName key="carsten-hauch">Hauchs</persName>
                   indførte mig der, og jeg blev modtaget og optaget i Huset som havde de kendt mig
                   og brudt sig om mig Aar igennem.</p>
 
-               <p><persName>Antonio Gallenga</persName>, da en tresindstyveaarig Mand, der
+               <p><persName key="antonio-gallenga">Antonio Gallenga</persName>, da en tresindstyveaarig Mand, der
                   imidlertid gjorde et ungdommeligt Indtryk, havde de mest bevægede Skæbner bag sig.
                   Han var født i Parma, var tyve Aar gammel som Sammensvoren under
                      <persName key="giuseppe-mazzini">Mazzin’s</persName> Ledelse bleven kastet i Fængsel, blev forvist fra
@@ -9634,7 +9634,7 @@
                   fransk Side greb dette ynkelige Paaskud til et Fredsbrud.</p>
 
                <p>Han stod i stadig Brevveksling med <persName key="antonio-gallenga">Gallenga’s</persName>, hvem han havde
-                  omgaaedes i de Aar, han (efter det mislykkede Oprørsforsøg mod <persName>Dronning
+                  omgaaedes i de Aar, han (efter det mislykkede Oprørsforsøg mod <persName key="isabella-2">Dronning
                      Isabella</persName> i 1866) tilbragte i London. Han havde dengang været en
                   50aarig Mand, der med sin <pb n="325"/> lille Skikkelse, der bar et stort Hoved,
                   tog sig besynderligt ud blandt Englænderne. Han var af simpel Æt, men negtede det.
@@ -9719,7 +9719,7 @@
                   sig, raadede over et større <pb n="328"/> oratorisk Omfang, strejfede oftere det
                   Vittige og vakte heftigere Tilslutning og Bifald. Deres Uenighed gjaldt den
                   forestaaende Krig, <persName key="benjamin-disraeli-beaconsfield">Disraeli</persName> ønskede alle Aktstykker, den
-                  vedkommende, forelagte Parlamentet; <persName key="glad;w-e-gladstone">Gladstone paastod</persName>, at han
+                  vedkommende, forelagte Parlamentet; <persName key="glad;w-e-gladstone">Gladstone</persName> paastod, at han
                   ikke kunde fremlægge dem. I England som andensteds beherskede den Krig, som var i
                   sit Udbrud, alle Sind.</p>
             </div>
@@ -9774,7 +9774,7 @@
                   efter Evne pyntede paa sine Korrespondancer. Han havde <pb n="330"/> endnu aldrig
                   havt Adgang til Corps législatif; ikke desmindre havde han skildret, hvorledes der
                   kom Taarer i Øjnene rundt om hos Medlemmerne og paa Tribunerne den Dag, da
-                     <persName>Hertugen af Grammont</persName> »atter løftede Frankrigs Fane højt«.
+                     <persName key="agenor-af-gramont">Hertugen af Grammont</persName> »atter løftede Frankrigs Fane højt«.
                   Han sagde: »Jeg har været naiv som et Barn med Hensyn til denne Krig« og
                   tilføjede, at <persName key="carl-bille">Bille</persName> havde været endnu naivere end han
                   selv.</p>
@@ -9990,12 +9990,12 @@
 
                <p>Ude i Meudon, hvor han laa paa Landet, var der – rimeligvis ved Skødesløshed –
                   sket gentagne Eksplosioner, sidste Gang den 20. August. Man havde netop sendt
-                     <persName>Bazaine</persName> tyve Kasser Patroner; der stod hundrede endnu, som
+                     <persName key="f-a-bazaine">Bazaine</persName> tyve Kasser Patroner; der stod hundrede endnu, som
                   skulde afgaa den Dag, da de indstændigt var forlangte. De sprang i Luften, og
                   ingen i den lille By betvivlede, at Sprængningen var prøjsiske Spioners Værk. Thi
                   saa vidt var man nu kommen, at man saa prøjsiske Spioner alle Vegne. (I Krigens
                   første Maaned kaldtes i Frankrig alle Tyskere Prøjsere). Man lagde Vægt paa, at
-                     <persName>General Frossards</persName>
+                     <persName key="c-a-frossard">General Frossards</persName>
                   <persName>Brodersøn</persName>, en ung, saaret Lieutenant, der laa i
                      <persName key="philarete-chasles">Chasles’</persName> Taarnbygning af et Kaardestød i Brystet og i
                   Reglen var fra sig selv, men ved Braget var faret i Vejret og blevet klar, havde
@@ -10021,12 +10021,12 @@
                   Magenta, havde berøvet sin Feltherre Kommandoen over Turcoerne, skønt Marskallen i
                   Krigsraadet havde sagt: »Man maa give Turcoerne til mig, de lyder ingen anden.« Og
                   virkelig havde Ingen Magt over dem uden han. Naar en af dem havde stjaalet eller
-                  paa anden Maade forset sig, og <persName>Mac Mahon</persName>, hvem de kun kaldte
+                  paa anden Maade forset sig, og <persName key="patrice-de-mac-mahon">Mac Mahon</persName>, hvem de kun kaldte
                   vor Marskal, red ned ad deres Front og skændte paa dem, gav de sig til at græde,
                   styrtede til og kyssede hans Fødder, klyngede sig til hans Hest som Børn, der
                   beder om Forladelse. Nu havde man begaaet den store Fejl at give dem til en anden
                      <persName key="patrice-de-mac-mahon">General</persName>. Og da man vilde blænde Tyskerne med dem, havde
-                  man ført dem og Zuaverne allerførst i Ilden, skønt <persName>Bazaine</persName>
+                  man ført dem og Zuaverne allerførst i Ilden, skønt <persName key="f-a-bazaine">Bazaine</persName>
                   forstandigt havde sagt: »Naar man vil køre, begynder man ikke med Galoppen.«
                   Saaledes var disse Kærnetropper blevne oprevne i første Sammenstød. Det hed sig,
                   at af 2500 Turcoer var der kun 29 tilbage.</p>
@@ -10034,11 +10034,11 @@
                <p>Hvorledes Folkesagn danner sig i Kraft af Trangen til at personliggøre hele Slag i
                   Feltherrernes Sammenstød, ganske som paa den homeriske Tid eller hos
                      <persName key="william-shakespeare">Shakespeare</persName>, røbede sig i en Anekdote som denne, der blev
-                  fortalt os: <persName>Kronprinsen af Prøjsen</persName> kæmpede ved Wörth meget
+                  fortalt os: <persName key="frederik-3">Kronprinsen af Prøjsen</persName> kæmpede ved Wörth meget
                   tappert i første Linje. At han bragte Turcoerne i Forvirring, beroede paa, at en
                   Solstraale faldt paa den Sølvørn, han bar paa sin Hjelm. Araberne saa deri et Tegn
-                  fra Himlen. <persName>Mac Mahon</persName>, <pb n="339"/> der stod og skød i
-                  Geleddet, var saa nær <persName key="patrice-de-mac-mahon">Kronprinsen</persName>, at denne raabte over mod
+                  fra Himlen. <persName key="patrice-de-mac-mahon">Mac Mahon</persName>, <pb n="339"/> der stod og skød i
+                  Geleddet, var saa nær <persName key="frederik-3">Kronprinsen</persName>, at denne raabte over mod
                   ham paa Fransk: <emph>Voilà un homme!</emph> men Franskmanden overbød ham i
                   ridderlig Artighed, thi han tog til sin Kasket og svarte: <emph>Voilà un
                      héros!</emph></p>
@@ -10200,7 +10200,7 @@
                   gjorde selv Indtrykket af at være meget maadelige Soldater. Kun den unge
                   Kommandersergent, som førte dem, var nogenlunde i Humør; <pb n="345"/> dog var det
                   ogsaa smaat med ham. Det var besynderligt at høre, hvad han troede paa:
-                     <persName>Marskal Lebœuf</persName> havde i Metz havt en prøjsisk Officer bag
+                     <persName key="edmund-lebaeuf">Marskal Lebœuf</persName> havde i Metz havt en prøjsisk Officer bag
                   sin Stol, forklædt som Opvarter; nu først var Opdagelsen sket. Rusland havde laant
                   Prøjsen Tropper og stukket dem i prøjsiske Uniformer; ellers kunde der umuligt
                   være saa mange. Men ogsaa Rom var Skyld i Frankrigs Ulykker; Jesuiterne havde
@@ -10494,7 +10494,7 @@
 
                <p>En Aften tog jeg med <persName key="costanza-blanchetti">Blanchetti</persName> til Turin for at se Komedie.
                   I <bibl>Kameliadamen</bibl> spiltes Elskeren af en ung Italiener ved Navn
-                     <persName key="gaspare-lavaggi">Lavaggi</persName>, smuk som en <persName>Antinous</persName>, en
+                     <persName key="gaspare-lavaggi">Lavaggi</persName>, smuk som en Antinous, en
                   Type, der oftere mødte mig i Piemont. Han overgik ved medfødt Ynde, velgørende Ro,
                   alle Bevægelsers Liv, sin hele Dejligheds Ild, al Skuespilkunst hos de unge
                   Elskere, jeg havde set paa franske Teatre. Blot hans Fingerspil var lutter Gratie
@@ -10707,7 +10707,7 @@
                   beskedne, men sikre Ansættelse, hun dengang havde paa et Postkontor; men da Andre
                   troede paa hendes Talent, rejste hun til Europa, opholdt sig først i Paris, hvor
                   hun til sin Glæde gjorde Bekendtskab med <persName key="paul-gustave-dore">Gustave Doré</persName>, og
-                  hvor hun udførte en (ganske ypperlig) Byste af <persName>Père
+                  hvor hun udførte en (ganske ypperlig) Byste af <persName key="pere-hyacinthe">Père
                   Hyacinthe</persName>, besøgte London, Berlin, München, Florents og slog sig ned i
                   Rom. Der havde hun Bestillinger nok, havde desuden faaet Lov at udføre
                      <persName key="giacomo-antonelli">Kardinal Antonellis</persName> Byste, var allerede anset og
@@ -10956,9 +10956,9 @@
                   bestilte hos hende en Statue af <persName key="david-farragut">Admiral Farragut</persName>, der
                   ligeledes er opstilt i Washington. Disse er de to eneste Billedstøtter, som de
                   forenede Staters Regering nogensinde har bestilt hos en Kvinde. Andre Statuer af
-                  hende, som jeg har set omtalte, fører Navnene <persName>Mirjam</persName>, Vesten,
-                     <persName>Sappho</persName>, Carnevalets Aand osv. Ellers ved jeg kun, at hun
-                  har giftet sig med Ingeniøren <persName>Richard L. Hoxie</persName> og endnu for
+                  hende, som jeg har set omtalte, fører Navnene Mirjam, Vesten,
+                     <persName key="sapfo">Sappho</persName>, Carnevalets Aand osv. Ellers ved jeg kun, at hun
+                  har giftet sig med Ingeniøren <persName key="r-l-hoxie">Richard L. Hoxie</persName> og endnu for
                   faa Aar siden var bosat i Washington.</p>
             </div>
             <div>
@@ -10999,7 +10999,7 @@
                   og uden Frygt for Tidens Overlast.«</p>
 
                <p>En Dag gjorde jeg paa Museo Kircheriano, hvor jeg saa de beundringsværdige
-                  Oldsager, Bekendtskab med en <persName>Jesuiterpræst</persName>, der viste sig at
+                  Oldsager, Bekendtskab med en Jesuiterpræst, der viste sig at
                   være en yderst elskværdig, brav og fin Mand. Han talte Latin til mig og viste mig
                   om; paa en Forespørgsel af mig hentede han fra sit Logis i Collegio Romano en Bog
                   med Afbildninger fra Lateranmuseets hedenske Afdeling og forklarede mig nogle
@@ -11352,7 +11352,7 @@
                   det lykkedes; han sendte alleslags Artikler til tre Aviser. Fra sit 21. til sit
                   24. Aar skrev han saa i Dagblade, og han gav lystige Skildringer til Bedste af
                   unge italienske Journalisters forfløjne Liv med Teatrenes Damer. Saa blev han
-                  forelsket i sin senere <persName>Hustru</persName> (som Romanforfatterinde kendt
+                  forelsket i sin senere <persName key="luisa-saredo">Hustru</persName> (som Romanforfatterinde kendt
                   under Navneskjulet <persName>Ludovico de Rosa</persName>) og fra nu af saa han
                   ikke til nogen anden Kvinde. Han nærede sit Liv igennem lige stor Beundring for
                   sin Hustru og Taknemmelighed imod hende.</p>
@@ -11518,14 +11518,14 @@
                      Saredo</persName> mit egentlige Liv. Vi drøftede alle de Spørgsmaal, der laa os
                   begge eller en af os paa Hjerte, fra Aarsagerne til Kristendommens Udbredelse
                   indtil Forholdstals-Valgmaaden, som Saredo kendte og rigtigt førte tilbage til
-                     <persName>Andræ</persName>. Naar jeg beklagede, vi paa Grund af
+                     <persName key="c-g-andræ">Andræ</persName>. Naar jeg beklagede, vi paa Grund af
                   Nationalitetsforskelligheden mellem os næsten ingen Erindringer havde tilfælles og
                   i Kraft af Sprogforskelligheden aldrig kunde anvende et Mundheld fra vor Barndom
                   eller anføre et gængse Citat af en Komedie, at den ene ikke heller til Bunds kunde
                   nyde Versenes Harmoni i den andens Sprog, svarte <persName key="giuseppe-saredo">Saredo</persName>: »De
                   er ikke mere Dansk end jeg er Italiener; vi er Landsmænd i Aandernes store
                   Fædreland, <persName key="william-shakespeare">Shakespeares</persName> og <persName key="johann-wolfgang-goethe">Goethes</persName>,
-                     <persName key="john-stuart-mill">Stuart Mill’s</persName> og <persName>Andræ’s</persName> og
+                     <persName key="john-stuart-mill">Stuart Mill’s</persName> og <persName key="c-g-andræ">Andræ’s</persName> og
                      <persName key="camillo-cavour">Cavour’s</persName>. Dette Land er Humanitetens. Det Nationale er
                   Mælken, Humaniteten er Fløden. Hvad i al Verden har vi ikke tilfælles? Det er
                   sandt, vi kan ikke i Fællesskab nyde Harmonien i nogle nordiske Vers, men vi kan i
@@ -11967,8 +11967,8 @@
                   var skønt Romer ganske ung traadt ind i den italienske Hær og havde derfor været
                   som landsforvist. Nu var han kommet tilbage gennem Brechen ved Porta Pia. Han var
                   24 Aar gammel og den naiveste unge <persName type="fictional">Don Juan</persName>,
-                  man kunde træffe. Han var elsket af sin <persName>Kaptejns</persName> smukke
-                     <persName>Frue</persName>, og <persName key="georges-noufflard">Noufflard</persName>, som kom der i
+                  man kunde træffe. Han var elsket af sin Kaptejns smukke
+                     Frue, og <persName key="georges-noufflard">Noufflard</persName>, som kom der i
                   Huset, overraskede en Dag de to Elskende i Taarer. <persName key="ottavio-cerrotti">Cerrotti</persName>
                   græd sammen med sin Elskerinde over at han havde været hende saa utro. Han havde
                   skriftet hende sin Forbindelse med fire andre unge Damer; saa græd hun, og det
@@ -11976,7 +11976,7 @@
 
                <p>Han indviede os ved vore Maaltider grundigt i sin Hovedroman. Han havde en Dag ved
                   et Træf mødt hende i Palazzo Corsinis Have, og fra den Tid af havde de havt
-                  Stævnemøder. Men nu var <persName>Kaptejnen</persName> bleven forflyttet til <pb n="406"/> Terni og Tragedien begyndt. Breve var hvert Øjeblik paa Nippet til at
+                  Stævnemøder. Men nu var Kaptejnen bleven forflyttet til <pb n="406"/> Terni og Tragedien begyndt. Breve var hvert Øjeblik paa Nippet til at
                   opsnappes, Uforsigtigheder uden Tal blev begaaede. Han læste uden Blu sin Elskedes
                   Breve for os. Det Ejendommelige i dem var det Maadehold, hun anvendte i Udtrykkene
                   for sin Elskov, paa samme Tid som hendes Planer til Møder var af den
@@ -12036,7 +12036,7 @@
                   Egerias Grotte, til de store Kunstsamlinger i Vatikanet, paa Capitol eller i det
                   underfulde Galleria Borghese. Alt dette, som jeg plejede at se alene med
                      <persName key="georges-noufflard">Noufflard</persName>, fik en ny Glans, naar en ung blond
-                     <persName>Pige</persName> gik ved Siden af, gjorde forstandige Spørgsmaal og
+                     Pige gik ved Siden af, gjorde forstandige Spørgsmaal og
                   viste ungdommelig Taknemmelighed for god Belæring. Med sine nitten Aar maatte hun
                   finde mig umaadeligt kundskabsrig. Men ogsaa Kunstværker, der laa lidt udenfor det
                   alment Kendte, viste jeg mine Landsmænd. Jeg havde aldrig kunnet fordrage
@@ -12095,7 +12095,7 @@
                   Krater, højt oppe paa Bjerget. Jeg lagde mig ned bag et Klippestykke og laa længe
                   ene, fortabt i Henrykkelse, skjult for de andre. Med et saa jeg et blaat Slør
                   flagre for Vinden ganske nær mig. Det var den unge danske
-                     <persName>Pige</persName>, der havde sat sig hos mig. Aftenrøden, Nemi og hun
+                     Pige, der havde sat sig hos mig. Aftenrøden, Nemi og hun
                   smeltede sammen. Ikke langt borte tændte nogle Folk et Blus af Grene og Blade; en
                   enkelt Fugl fløjtede over Søen; Cypresserne græd; Pinierne stod mørke,
                   Oliventræerne badede deres Løv i den milde Varme, en enkelt Sky drev over Himlen
