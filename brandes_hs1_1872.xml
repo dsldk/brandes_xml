@@ -1156,10 +1156,10 @@
             Speilbillede i »<bibl>Cain</bibl>«<!-- sat uden anførselstegn i A --> og
               »<bibl>Manfred</bibl>«<!-- sat uden anførselstegn i A -->, en Anden faaer af sine
             philosophiske Studier kun saa Meget ud, at han er en Gud, saaledes som <persName key="heinrich-heine">den tydske Digter</persName>, der skrev »<bibl>Buch der
-              Lieder</bibl>«, saa tidt har tilstaaet. En kaster sig paa den Rolle at være Guddommens
-            Prophet, lader sig dyrke som en Pave og lader endnu som Olding unge Kvinder komme til
-            sig for at kysse hans rystende Hænder. For en Fjerde bliver Tungsindet det absolut
-            bestemmende, Pantet paa hans Kald, Kilden til hans Livsførelse og til hele hans
+              Lieder</bibl>«, saa tidt har tilstaaet. En kaster sig paa den Rolle at være <ref target="n"/>Guddommens
+            Prophet<!-- lemma slut -->, lader sig dyrke som en Pave og lader endnu som Olding unge Kvinder komme til
+            sig for at kysse hans rystende Hænder. For en Fjerde bliver <ref target="n"/>Tungsindet det absolut
+            bestemmende<!-- lemma slut -->, Pantet paa hans Kald, Kilden til hans Livsførelse og til hele hans
             Forfattervirksomhed. Og dette Tungsind berøver ham alt praktisk Blik til at bedømme
             Virkeligheden. Den ringeste Begivenhed, der hænder ham, svulmer op til noget
             Betydningsfuldt, noget Afgjørende og ligesom Forudbestemt, hvortil han atter og atter
@@ -2332,7 +2332,7 @@
             lever i en Stilhed, som kun afbrydes ved Guillotinens dumpe Slag i det Fjerne. Da senere
             Terrorismen er vegen for Despotiet, kalder dette alle hendes Evner i Vaaben. <ref target="n"/>Samme Aar som <persName key="napoleon-1">Napoleon</persName> afslutter
               <ref target="n"/>Concordatet med Paven<!-- lemma slut --> og gjengiver Geistligheden
-            dens gamle Inflydelse, udgiver hun, den protestantiske Forfatterinde,
+            dens gamle <app><lem>Indflydelse</lem><rdg wit="A">Indflydelse</rdg></app>Inflydelse, udgiver hun, den protestantiske Forfatterinde,
               »<bibl>Delphine</bibl>«<!-- lemma slut -->, der blev opfattet som det mest umoralske
             og skjændige Indlæg for Berettigelsen af Skilsmisse. I »<bibl>Corinna</bibl>« endelig,
             som udkom paa en Tid, da det var Forfatterinden umuligt at faae endog blot en
