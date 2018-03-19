@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><emph>Die Emigrantenliteratur</emph> (1872)</title>
+                <title>Die Emigrantenliteratur (1872)</title>
             </titleStmt>
             <publicationStmt>
                 <publisher>dsl</publisher>
@@ -21,6 +21,19 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <abstract>
+                <ab>Erster Band der Hauptströmungen ... von Georg Brandes (1872)</ab>
+            </abstract>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>empty</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
     </teiHeader>
     <text>
         <front>
