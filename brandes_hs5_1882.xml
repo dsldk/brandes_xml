@@ -63,19 +63,19 @@
           <quote>
             <lg>
               <pb n="[2]"/>
-              <l>Dis-nous mil huit cent trente,</l>
+              <l><ref target="n1593"/>Dis-nous mil huit cent trente,</l>
               <l>Époque fulgurante</l>
               <l>Ses luttes, ses ardeurs [...]</l>
             </lg>
           </quote>
           <bibl>
-            <persName>Th. de Banville.</persName>
+            <persName key="theodore-de-banville">Th. de Banville.</persName>
           </bibl>
         </cit>
         <cit>
           <quote>
             <lg>
-              <l>Nicht was lebendig, kraftvoll sich verkündigt</l>
+              <l><ref target="n1595"/>Nicht was lebendig, kraftvoll sich verkündigt</l>
               <l>Ist das gefährlich Furchtbare. Das ganz</l>
               <l>Gemeine ist’s, das ewig Gestrige,</l>
               <l>Was immer war und immer wiederkehrt</l>
@@ -83,7 +83,7 @@
             </lg>
           </quote>
           <bibl>
-            <persName>Schiller.</persName>
+            <persName key="friedrich-schiller">Schiller.</persName>
           </bibl>
         </cit>
       </epigraph>
@@ -97,69 +97,77 @@
         <head><pb n="[5]"/>I. [Den politiske Baggrund]</head>
 
         <p>I Aarene 1824-48 frembringes i Frankrig en stor og beundringsværdig Literatur. Efter
-          Revolutionens Omvæltninger, Keiserdømmets Krige og Trætheden under <persName>Ludvig den
-            18des</persName> Regjering var der voxet en Ungdom op, som med sjælden Iver og
-          Begeistring kastede sig over den høieste aandelige Kultur, der saa længe var bleven
-          forsømt. Under Revolutionen og <persName>Napoleons</persName> Krige havde Frankrigs unge
-          Mænd havt Andet at gjøre end at fornye Litteraturen og Kunsten. Folkets bedste Kræfter
-          vare blevne ledede ind i Politikens, Soldatervæsenets eller Administrationens Kanaler. Nu
-          blev en stor Sum af aandelig Kraft, der nylig havde været bunden, løsladt og fri.</p>
+          Revolutionens Omvæltninger, <ref target="n1597"/>Keiserdømmets Krige og Trætheden under
+            <persName key="ludvig-18-louis-18">Ludvig den 18des</persName> Regjering var der voxet
+          en Ungdom op, som med sjælden Iver og Begeistring kastede sig over den høieste aandelige
+          Kultur, der saa længe var bleven forsømt. Under <ref target="n1596"/>Revolutionen og
+            <persName key="napoleon-1">Napoleons</persName> Krige havde Frankrigs unge Mænd havt
+          Andet at gjøre end at fornye Litteraturen og Kunsten. Folkets bedste Kræfter vare blevne
+          ledede ind i Politikens, Soldatervæsenets eller Administrationens Kanaler. Nu blev en stor
+          Sum af aandelig Kraft, der nylig havde været bunden, løsladt og fri.</p>
 
-        <p>Restaurationens og Julikongedømmets Tidsalder kan samlet betegnes som det borgerlige
-          Samfunds afgjørende Optræden paa den historiske Scene. Under Restaurationen begynder
-          Historiens industrielle Periode. Det beroer for Frankrigs Vedkommende derpaa, at den nye
-          Fordeling af <pb n="6"/> Nationalformuen, som var iværksat under Revolutionen og som det
-          havde været <persName>Napoleons</persName> økonomiske Mission at forsvare mod Europa, nu
-          satte sine Frugter. Vindskibeligheden og Samfærdslen vare blevne fri, Monopoler og
-          Privilegier vare faldne, det inddragne Kirke- og Klostergods, de udstykkede og offentlig
-          bortsolgte Majorater og Emigrantgodser vare blevne fordelte paa mindst tyve Gange saa
-          mange Hænder. Følgen var, at den flydende, frigjorte Kapital nu begyndte at blive
-          Samfundets Drivhjul og derved Maalet for den Enkeltes Ønsker. Efter Julirevolutionen
-          afløser efterhaanden Pengemagten Adelsvælden og tager Kongemagten i Brug. Den Rige optages
-          i Adelsstanden, erhverver sig Pairsrettigheder og bruger gjennem Forfatningen stedse mere
-          den monarkiske Statsform til sit Bedste. Saaledes bliver Jagten efter Pengene, Kampen om
-          Pengene, Pengenes Anvendelse til store industrielle og merkantile Foretagender Tidens
+        <p>Restaurationens og <ref target="n1599"/>Julikongedømmets Tidsalder kan samlet betegnes
+          som det borgerlige Samfunds afgjørende Optræden paa den historiske Scene. Under <ref
+            target="n1598"/>Restaurationen begynder Historiens industrielle Periode. Det beroer for
+          Frankrigs Vedkommende derpaa, at den nye Fordeling af <pb n="6"/> Nationalformuen, som var
+          iværksat under Revolutionen og som det havde været <persName key="napoleon-1"
+            >Napoleons</persName> økonomiske Mission at forsvare mod Europa, nu satte sine Frugter.
+          Vindskibeligheden og Samfærdslen vare blevne fri, Monopoler og Privilegier vare faldne,
+          det inddragne Kirke- og Klostergods, de udstykkede og offentlig bortsolgte Majorater og
+          Emigrantgodser vare blevne fordelte paa mindst tyve Gange saa mange Hænder. Følgen var, at
+          den flydende, frigjorte Kapital nu begyndte at blive Samfundets Drivhjul og derved Maalet
+          for den Enkeltes Ønsker. Efter <ref target="n1600"/>Julirevolutionen afløser efterhaanden
+          Pengemagten Adelsvælden og tager Kongemagten i Brug. Den Rige optages i Adelsstanden,
+          erhverver sig <ref target="n2999"/>Pairsrettigheder og bruger gjennem Forfatningen stedse
+          mere den monarkiske Statsform til sit Bedste. Saaledes bliver Jagten efter Pengene, Kampen
+          om Pengene, Pengenes Anvendelse til store industrielle og merkantile Foretagender Tidens
           fremherskende sociale Træk, og denne Prosa, der stikker saa stærkt af mod det foregaaende
           Tidsrums revolutionære og krigerske Lidenskab, bidrager som Folie Sit til at give denne
           Tids poetiske Litteratur sit romantiske, virkelighedsfjerne Præg. Kun en eneste af
-          Datidens fremragende Digtere, en af de største, <persName>Balzac</persName>, følte sig
-          ikke frastødt af Tidsalderen, men gjorde den nyfødte Kapitalmagt, den nye Behersker af
-          Sjælene, Pengene, til Helten i sin <pb n="7"/> store Epopee; Tidens andre Kunstnere
-          fjærnede sig, hvor stærkt de end iøvrigt selv mange Gange arbeidede med Vinding for Øie, i
-          deres Sværmerier og Poesier saa meget som muligt fra den nye Virkelighed.</p>
+          Datidens fremragende Digtere, en af de største, <persName key="honore-de-balzac"
+            >Balzac</persName>, følte sig ikke frastødt af Tidsalderen, men gjorde den nyfødte
+          Kapitalmagt, den nye Behersker af Sjælene, Pengene, til Helten i sin <pb n="7"/> store
+            <ref target="n1601"/>Epopee; Tidens andre Kunstnere fjærnede sig, hvor stærkt de end
+          iøvrigt selv mange Gange arbeidede med Vinding for Øie, i deres Sværmerier og Poesier saa
+          meget som muligt fra den nye Virkelighed.</p>
 
         <p>Decenniet omkring 1830, der i litterær og kunstnerisk Forstand er det mærkværdigste og
           frugtbareste Tidsrum, var i politisk Henseende en glandsløs og farveløs Tid. Tiaaret
           grupperer sig om Julirevolutionen, men denne danner kun en enkelt Blodplet midt i alt
           dette Graa.</p>
 
-        <p>Decenniets første Halvdel, <persName>Karl d. 10des</persName> Regjering, er den klerikale
-          Reaktions Tidsalder. Under <persName>Karl d. 10de</persName> betegne de tre Ministerier
-            <persName>Villèle</persName>, <persName>Martignac</persName> og
-            <persName>Polignac</persName> ikke saa meget tre Stadier af Reaktionen som tre
-          forskjellige Tempo’er af den: Allegro, Andante og Allegro furioso. Under Ministeriet
-            <persName>Villèle</persName> opnaaede Jesuiterne en næsten uindskrænket Magt. Klostrene
-          gjenoprettedes; Love om Helligbrøde af en rent middelalderlig Strænghed gjennemførtes, f.
-          Ex. Dødsstraf for Kirkeran; Uddelingen af Fattigunderstøttelse skete kun mod Forevisning
-          af Skriftemaalsbeviser; endelig forelagdes 1827 en Presselov, som var bestemt til at
-          bringe Modstanderne af de kirkelige Interesser til fuldstændig Taushed, men som
-          Pairskammerets Modstand tvang Regjeringen til at tage tilbage. Nationalgarden opløstes,
-          Censuren gjenoprettedes, Ministeriet fik <pb n="8"/> Flertal imod sig i Kammeret og veg
-          Januar 1828. Paa den altfor hensynsløse Klerikalisme fulgte under
-            <persName>Martignac</persName> et Indrømmelsernes Ministerium, der stræbte at sætte
-          Jesuiterregimentet nogle svage Dæmninger, men Følgen blev kun, at
-            <persName>Kongen</persName> ved det første Nederlag, Ministeriet led i Kamrene, greb
-          Leiligheden til at give det sin Afsked og indsætte Ministeriet
-            <persName>Polignac</persName>, hvis Chef, den tidligere Gesandt i
-            <placeName>London</placeName>, var Manden efter hans Hjerte.
-            <persName>Polignac</persName> troede paa Kongedømmet som Guds Skygge paa Jorden, troede
-          (og styrkedes ved Syner i Troen paa) at have modtaget guddommelig Sendelse til at gjengive
-          det dets tidligere Nimbus. Men Regjeringen blev saa upopulær, at Tidens eneste krigerske
-          Daad, <placeName>Algiers</placeName> Erobring, blev koldt optaget af Folket og ligefrem
-          seet med Sorg af den stærke Opposition. Da Kammerets Opløsning, trods Bispernes Hyrdebreve
-          og Kongens personlige Indblanding i Valgkampen, førte til Oppositionens Gjenvalg, var det,
-          at Statscoupet indtraadte. Saa fulgte Katastrofen, tre Dages Kamp, og Ministeriet
-          skylledes bort af Folkebevægelsens Bølger, der reve Tronen og Kongehuset med sig.</p>
+        <p>Decenniets første Halvdel, <persName key="karl-10-charles-10">Karl d. 10des</persName>
+          Regjering, er den klerikale Reaktions Tidsalder. Under <persName key="karl-10-charles-10"
+            >Karl d. 10de</persName> betegne de tre Ministerier <persName
+            key="joseph-comte-de-villele">Villèle</persName>, <persName
+            key="jean-baptiste-gay-vicomte-de-martignac">Martignac</persName> og <persName
+            key="jules-auguste-armand-marie-de-polignac">Polignac</persName> ikke saa meget tre
+          Stadier af Reaktionen som tre forskjellige Tempo’er af den: Allegro, Andante og Allegro
+          furioso. Under Ministeriet <persName key="joseph-comte-de-villele">Villèle</persName>
+          opnaaede Jesuiterne en næsten uindskrænket Magt. Klostrene gjenoprettedes; Love om
+          Helligbrøde af en rent middelalderlig Strænghed gjennemførtes, f. Ex. Dødsstraf for
+          Kirkeran; Uddelingen af Fattigunderstøttelse skete kun mod Forevisning af
+          Skriftemaalsbeviser; endelig forelagdes 1827 en Presselov, som var bestemt til at bringe
+          Modstanderne af de kirkelige Interesser til fuldstændig Taushed, men som Pairskammerets
+          Modstand tvang Regjeringen til at tage tilbage. <ref target="n1603"/>Nationalgarden
+          opløstes, Censuren gjenoprettedes, Ministeriet fik <pb n="8"/> Flertal imod sig i Kammeret
+          og veg Januar 1828. Paa den altfor hensynsløse Klerikalisme fulgte under <persName
+            key="jean-baptiste-gay-vicomte-de-martignac">Martignac</persName> et Indrømmelsernes
+          Ministerium, der stræbte at sætte Jesuiterregimentet nogle svage Dæmninger, men Følgen
+          blev kun, at <persName key="karl-10-charles-10">Kongen</persName> ved det første Nederlag,
+          Ministeriet led i Kamrene, greb Leiligheden til at give det sin Afsked og indsætte
+          Ministeriet <persName key="jules-auguste-armand-marie-de-polignac">Polignac</persName>,
+          hvis Chef, den tidligere Gesandt i <placeName key="london">London</placeName>, var Manden
+          efter hans Hjerte. <persName key="jules-auguste-armand-marie-de-polignac"
+            >Polignac</persName> troede paa Kongedømmet som Guds Skygge paa Jorden, troede (og
+          styrkedes ved Syner i Troen paa) at have modtaget guddommelig Sendelse til at gjengive det
+          dets tidligere Nimbus. Men Regjeringen blev saa upopulær, at Tidens eneste krigerske Daad,
+            <ref target="n1604"/><placeName key="algier">Algiers</placeName> Erobring, blev koldt
+          optaget af Folket og ligefrem seet med Sorg af den stærke Opposition. Da Kammerets
+          Opløsning, trods Bispernes Hyrdebreve og Kongens personlige Indblanding i Valgkampen,
+          førte til Oppositionens Gjenvalg, var det, at <ref target="n1605"/>Statscoupet indtraadte.
+          Saa fulgte Katastrofen, tre Dages Kamp, og Ministeriet skylledes bort af Folkebevægelsens
+          Bølger, der reve Tronen og Kongehuset med sig.</p>
 
         <p>Men skjøndt Tiaarets første Halvdel saaledes politisk talt var en Reaktionens Tidsalder,
           havde den socialt og aandeligt betragtet et helt andet Præg. For det Første avlede selve
@@ -169,103 +177,109 @@
           skjønne Litteratur, der fra først af ganske parallelt med Politiken havde betegnet den
           historiske Reaktion mod Slutningen af det 18de Aarhundrede, og der var begyndt som
           Sværmeri for Katholicisme, Kongemagt og Middelalder, fuldstændig skiftede Charakter.
-            <persName>Chateaubriands</persName> Udstødelse af Ministeriet
-            <persName>Villèle</persName> havde jo givet Signalet<note place="bottom">Se
-              »<bibl>Reactionen i Frankrig</bibl>« S. 346.</note>. Og dernæst havde Aandslivet i
-          selve de høieste Samfundskredse, som bestemte Skjønlitteraturens Tone og Stil, kun staaet
-          i den mest udvortes Forbindelse med den politiske Reaktion. Restaurationen var jo fra een
-          Side seet en Efterblomstring af det attende Aarhundrede i det nittende, af Humanitetens
-          Tidsalder i Industriens. Fra det pudrede Hof udgik høvisk Sæd og Skik, fra den gamle Adels
-          Saloner den Frisindethed i religiøse og sædelige Spørgsmaal, der havde været det forrige
-          Aarhundredes Stolthed. Den nationale Overlevering, som de høieste Kredse gik ud paa at
-          hævde og fortsætte, havde bl. A. sin Styrke i det anerkjendende Forhold til Alt, hvad der
-          var af Aand, kom Literaturen og Kunsten imøde med mangesidig Dannelse og vidtgaaende
-          Sympathier. En overbærende Skep<pb n="10"/>sis i religiøs, en genial Ubundethed og
-          fintfølende Tolerance i sædelig Henseende, det var den Atmosfære, det gode Selskab
-          indaandede og udbredte om sig, og Ingen kunde være gunstigere og mere befrugtende for en i
-          fuld Grøde fremskydende poetisk Litteratur. Som Reaktionens Tryk avlede Frisind i det
-          Politiske, saaledes gav det bedste Selskabs Dannelse Litteraturen aabent Rum for fri Føle-
-          og Tænkemaade udenfor Politiken og fordrede kun Finhed og Fuldendthed i Formen. Den var
-          altsaa istand til paa den heldigste Maade at give en begyndende aandelig Bevægelse frie
-          Tøiler eller, som Englænderne sige, at »starte« den.</p>
+            <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName>
+          Udstødelse af Ministeriet <persName key="joseph-comte-de-villele">Villèle</persName> havde
+          jo givet Signalet<note place="bottom">Se »<bibl xml:id="reactionen-i-frankrig">Reactionen
+              i Frankrig</bibl>« S. 346.</note>. Og dernæst havde Aandslivet i selve de høieste
+          Samfundskredse, som bestemte Skjønlitteraturens Tone og Stil, kun staaet i den mest
+          udvortes Forbindelse med den politiske Reaktion. <ref target="n1624"/>Restaurationen var
+          jo fra een Side seet en Efterblomstring af det attende Aarhundrede i det nittende, af
+          Humanitetens Tidsalder i Industriens. Fra det pudrede Hof udgik høvisk Sæd og Skik, fra
+          den gamle Adels Saloner den Frisindethed i religiøse og sædelige Spørgsmaal, der havde
+          været det forrige Aarhundredes Stolthed. Den nationale Overlevering, som de høieste Kredse
+          gik ud paa at hævde og fortsætte, havde bl. A. sin Styrke i det anerkjendende Forhold til
+          Alt, hvad der var af Aand, kom Literaturen og Kunsten imøde med mangesidig Dannelse og
+          vidtgaaende Sympathier. En overbærende Skep<pb n="10"/>sis i religiøs, en genial
+          Ubundethed og fintfølende Tolerance i sædelig Henseende, det var den Atmosfære, det gode
+          Selskab indaandede og udbredte om sig, og Ingen kunde være gunstigere og mere befrugtende
+          for en i fuld Grøde fremskydende poetisk Litteratur. Som Reaktionens Tryk avlede Frisind i
+          det Politiske, saaledes gav det bedste Selskabs Dannelse Litteraturen aabent Rum for fri
+          Føle- og Tænkemaade udenfor Politiken og fordrede kun Finhed og Fuldendthed i Formen. Den
+          var altsaa istand til paa den heldigste Maade at give en begyndende aandelig Bevægelse
+          frie Tøiler eller, som Englænderne sige, at »starte« den.</p>
 
-        <p>Julidynastiet blev grundet, det trefarvede Borgerkongedømme oprettet,
-            <persName>Louis-Philippe</persName> intrigeret op paa den franske Trone, vanskeligt
-          stillet som Konge af Revolutionens Naade.</p>
+        <p><ref target="n1607"/>Julidynastiet blev grundet, det trefarvede Borgerkongedømme
+          oprettet, <persName key="louis-philippe">Louis-Philippe</persName> intrigeret op paa den
+          franske Trone, vanskeligt stillet som Konge af Revolutionens Naade.</p>
 
         <p>Alt i det første Femaar af hans Regjeringstid aabenbarede hans Regimentes afgjørende
           Eiendommeligheder sig. Først Mangelen paa Holdning udadtil, uundgaaelig for en Kongemagt,
           der udelukkende støttede sig paa den velhavende Middelstand. Den forsigtige og
           fredelskende Konge beredte Frankrig Ydmygelse paa Ydmygelse. I Verdensfredens Interesse
-          afslog han den Trone, Belgierne tilbøde <persName>hans anden
+          afslog han den Trone, Belgierne tilbøde <persName key="ferdinand-dorleans">hans anden
             Søn<!-- Ferdinand Orléans --></persName>, og af samme Grund lod han Østerrig uforstyrret
-          undertrykke de italienske Revolutioner, der af det franske Folk med Rette opfattedes som
-          Julirevolutionens Døtre. <pb n="11"/> Han var ude af Stand til at hindre den polske
-          Opstands Tilintetgjørelse og <placeName>Warschaus</placeName> Overgivelse, der i Frankrig
-          fremkaldte en formelig Folkesorg. Landet tabte som Stormagt med hver Dag mere i Anseelse
-          og Vægt. Hertil kom, at det indadtil i lige saa <app>
+          undertrykke <ref target="n1608"/>de italienske Revolutioner, der af det franske Folk med
+          Rette opfattedes som <ref target="n1609"/>Julirevolutionens Døtre. <pb n="11"/> Han var
+          ude af Stand til at hindre <ref target="n1610"/>den polske Opstands Tilintetgjørelse og
+            <placeName key="warszawa">Warschaus</placeName> Overgivelse, der i Frankrig fremkaldte
+          en formelig Folkesorg. Landet tabte som Stormagt med hver Dag mere i Anseelse og Vægt.
+          Hertil kom, at det indadtil i lige saa <app>
             <lem>høi Grad</lem>
             <rdg wit="A">høi</rdg>
             <rdg wit="B SS Fu 1923-24">høj Grad</rdg>
           </app> skortede Regjeringen paa Værdighed. Kongehusets uophørlige Pengefordringer, der
           næsten altid bleve afviste af Kamrene, gjorde det pinligste Indtryk.</p>
 
-        <p><persName>Louis-Philippe</persName> havde et Øieblik været populær, populær som Soldaten
-          fra <placeName>Valmy</placeName> og <placeName>Jemappes</placeName>, som Le Roi Citoyen,
-          forhenværende landflygtig Skolelærer, hvem <persName>Lafayette</persName> selv havde kaldt
-          »den bedste Republik«. Men han havde ikke Evne til at bevare den almindelige Yndest, hvor
-          ivrigt han end i Begyndelsen attraaede den. Han var en begavet, især en klog Mand. Han
-          førte et smukt Familieliv, var huslig, ordentlig; hans Sønner besøgte de offentlige
-          Skoler; han selv gik daglig, uden Ledsagelse, i borgerlig Dragt med den berømte Paraply i
-          Haanden gjennem <placeName>Paris’es</placeName> Gader, altid beredt til at gjengjælde en
-          Hilsen eller et »Leve« med et venligt Ord og et Haandtryk. Men de smaaborgerlige Dyder,
-          som han saaledes lagde for Dagen, ere ikke dem, som Franskmændene sætte Pris paa hos deres
-          Herskere. Det Ord »Nous voulons un pouvoir qui monte à cheval«, der i sin Tid blev
+        <p><persName key="louis-philippe">Louis-Philippe</persName> havde et Øieblik været populær,
+          populær som Soldaten fra <ref target="n1611"/><placeName key="valmy">Valmy</placeName> og
+            <placeName key="jemappes">Jemappes</placeName>, som <ref target="n1612"/>Le Roi Citoyen,
+          forhenværende <ref target="n1613"/>landflygtig Skolelærer, hvem <persName
+            key="joseph-marquis-de-la-fayette">Lafayette</persName> selv havde kaldt <ref
+            target="n1614"/>»den bedste Republik«. Men han havde ikke Evne til at bevare den
+          almindelige Yndest, hvor ivrigt han end i Begyndelsen attraaede den. Han var en begavet,
+          især en klog Mand. Han førte et smukt Familieliv, var huslig, ordentlig; hans Sønner
+          besøgte de offentlige Skoler; han selv gik daglig, uden Ledsagelse, i borgerlig Dragt med
+            <ref target="n2196"/>den berømte Paraply i Haanden gjennem <placeName key="paris"
+            >Paris’es</placeName> Gader, altid beredt til at gjengjælde en Hilsen eller et »Leve«
+          med et venligt Ord og et Haandtryk. Men de smaaborgerlige Dyder, som han saaledes lagde
+          for Dagen, ere ikke dem, som Franskmændene sætte Pris paa hos deres Herskere. Det Ord <ref
+            target="n1615"/>»Nous voulons un pouvoir qui monte à cheval«, der i sin Tid blev
           udslynget mod Podagristen <pb n="12"/>
-          <persName>Ludvig d. 18de</persName>, betegner en Følelse, der bidrog Sit til at styrte
-            <persName>Louis-Philippe</persName>.</p>
+          <persName key="ludvig-18-louis-18">Ludvig d. 18de</persName>, betegner en Følelse, der
+          bidrog Sit til at styrte <persName key="louis-philippe">Louis-Philippe</persName>.</p>
 
         <p>Og naar han sad til Hest, tog han sig ikke ud. Da han i Juni 1832 efter en af de utallige
-          Tumulter i <placeName>Paris</placeName> havde erklæret Byen i Beleiringstilstand, og holdt
-          Revue over 50,000 Nationalgardister og Linietropper, der dannede Spalier paa Boulevarden,
-          red Kongen ikke i Midten af Gaden, men først paa høire Side, hvor Nationalgarden stod,
-          hele Veien bøiet ned over Hestens Side for at trykke saa Mange som mulig i Haanden, og to
-          Timer senere red han paa samme Maade tilbage langs ad Linien; det saae ud, som om hans
-          Ribben maatte knækkes. Dertil smilte han i Et væk; hans trekantede Hat gled ham ned i
-          Panden og gav ham et ulykkeligt Udseende; han syntes med Øinene at bede om Velvillie og
-          Tilgivelse for at han havde erklæret dem Alle i Beleiringstilstand. Hvilket Syn for en
-          letbevægelig, fantasirig Befolkning! for en Befolkning, hvis ældre Slægt havde seet
-            <persName>Napoleon Bonaparte</persName> ride forbi »med sit marmoragtige Cæsaraasyn,
-          sine ubevægede Øine og sine unærmelige Herskerhænder!«<note place="bottom">Et Udtryk af
-              <persName>Heinrich Heine</persName>, der som Tilskuer overværede Scenen og anstillede
-            Sammenligningen.</note></p>
+          Tumulter i <placeName key="paris">Paris</placeName> havde erklæret Byen i
+          Beleiringstilstand, og holdt Revue over 50,000 Nationalgardister og Linietropper, der
+          dannede Spalier paa Boulevarden, red Kongen ikke i Midten af Gaden, men først paa høire
+          Side, hvor <ref target="n1616"/>Nationalgarden stod, hele Veien bøiet ned over Hestens
+          Side for at trykke saa Mange som mulig i Haanden, og to Timer senere red han paa samme
+          Maade tilbage langs ad Linien; det saae ud, som om hans Ribben maatte knækkes. Dertil
+          smilte han i Et væk; hans trekantede Hat gled ham ned i Panden og gav ham et ulykkeligt
+          Udseende; han syntes med Øinene at bede om Velvillie og Tilgivelse for at han havde
+          erklæret dem Alle i Beleiringstilstand. Hvilket Syn for en letbevægelig, fantasirig
+          Befolkning! for en Befolkning, hvis ældre Slægt havde seet <persName key="napoleon-1"
+            >Napoleon Bonaparte</persName> ride forbi »med sit marmoragtige Cæsaraasyn, sine
+          ubevægede Øine og sine unærmelige Herskerhænder!«<note place="bottom">Et Udtryk af
+              <persName key="heinrich-heine">Heinrich Heine</persName>, der som Tilskuer overværede
+            Scenen og anstillede Sammenligningen.</note></p>
 
-        <p>Trods <persName>Kongens</persName> Popularitetsjagt var der et dybere Svælg mellem hans
-          Hof og Folket, end der havde været mellem det og Restaurationstidens <pb n="13"/>
-          patriarkalske Kongedømme. Den gamle Adel holdt sig fjernt fra det nye Hof, og Stænderne
-          skilte sig ud fra hinanden; Landeiendomsbesidderne saae med Uvillie og Had Børskongerne
-          tilrive sig Magten; Legitimister og borgerlige Optimater, Politikere og Kunstnere ophørte
-          at omgaaes. Restaurationstidens Saloner lukkedes een efter een; den aristokratiske
-          Munterhed og Naturlighed forsvandt med dem. Med det gamle Regime begravedes tillige den
-          storstilede Elegance, den gratiøse Frivolitet, den fornemme Dames aandsfri Vid og ved Ynde
-          mildnede Livlighed og Kjækhed. I Stedet traadte i de rige Bankierkredse, som Kongehuset
-          protegerede og <persName>Kronprindsen </persName> før sit Giftermaal besøgte, engelske
-          Sport- og Klub-Vaner tilligemed en plump Tilbøielighed til materielle Nydelser og en
-          smagløs Luxus. Kongen havde fra først af været Voltairianer og havde i sine
-          Familieforbindelser hældet til Protestantismen; men urolig for sin Trone, som han var,
-          slog han hurtig om, ydmygede sig (iøvrigt forgjæves) for at vinde Geistlighedens
-          Beskyttelse, og snart blev Hoffets Tone devot. Samtidig udviklede sig i den høiere
-          Borgerstands Kredse en halv ængstelig, halv affekteret Fromhed, grundet paa Frygten for
-          den fjerde Stand. Hykleriet, som den fornemme reactionære Litteratur havde fremmet,
-          begyndte at forplante sig til Bourgeoisiet og Fritænkeri at ansees for en »Smagløshed« for
-          Kvinden. Sæderne bleve ud<pb n="14"/>vortes strængere, fik et mere engelsk Præg, men bleve
-          i Virkeligheden raaere; Samfundets Omdømme blev tolerant overfor Millionærens Kunstgreb og
-          farisæisk overfor Kvindehjærtets Vildfarelser. »Den tidligere Generation havde«, som en af
-          Tidens Historieskrivere bemærker, »ikke unddraget den Præst, der forlod sin Kirke, eller
-          den Kvinde, der forlod sin Mand, den sociale Agtelse, i Fald kun Bevæggrundene vare
-          uegennyttige; nu blev det Tegn paa slet Tone at ønske Gjenindførelse af Skilsmisse,
-          endsige Præsternes Ægteskab.« <placeName>Faubourg St. Honoré</placeName>, Finanskvarteret,
-          gav Tonen an.</p>
+        <p>Trods <persName key="louis-philippe">Kongens</persName> Popularitetsjagt var der et
+          dybere Svælg mellem hans Hof og Folket, end der havde været mellem det og <ref
+            target="n1618"/>Restaurationstidens <pb n="13"/> patriarkalske Kongedømme. Den gamle
+          Adel holdt sig fjernt fra det nye Hof, og Stænderne skilte sig ud fra hinanden;
+          Landeiendomsbesidderne saae med Uvillie og Had Børskongerne tilrive sig Magten;
+          Legitimister og borgerlige Optimater, Politikere og Kunstnere ophørte at omgaaes.
+          Restaurationstidens Saloner lukkedes een efter een; den aristokratiske Munterhed og
+          Naturlighed forsvandt med dem. Med det gamle Regime begravedes tillige den storstilede
+          Elegance, den gratiøse Frivolitet, den fornemme Dames aandsfri Vid og ved Ynde mildnede
+          Livlighed og Kjækhed. I Stedet traadte i de rige Bankierkredse, som Kongehuset protegerede
+          og <persName>Kronprindsen </persName> før sit Giftermaal besøgte, engelske Sport- og
+          Klub-Vaner tilligemed en plump Tilbøielighed til materielle Nydelser og en smagløs Luxus.
+          Kongen havde fra først af været Voltairianer og havde i sine Familieforbindelser hældet
+          til Protestantismen; men urolig for sin Trone, som han var, slog han hurtig om, ydmygede
+          sig (iøvrigt forgjæves) for at vinde Geistlighedens Beskyttelse, og snart blev Hoffets
+          Tone devot. Samtidig udviklede sig i den høiere Borgerstands Kredse en halv ængstelig,
+          halv affekteret Fromhed, grundet paa Frygten for den fjerde Stand. Hykleriet, som den
+          fornemme reactionære Litteratur havde fremmet, begyndte at forplante sig til Bourgeoisiet
+          og Fritænkeri at ansees for en »Smagløshed« for Kvinden. Sæderne bleve ud<pb n="14"
+          />vortes strængere, fik et mere engelsk Præg, men bleve i Virkeligheden raaere; Samfundets
+          Omdømme blev tolerant overfor Millionærens Kunstgreb og farisæisk overfor Kvindehjærtets
+          Vildfarelser. »Den tidligere Generation havde«, som en af Tidens Historieskrivere
+          bemærker, »ikke unddraget den Præst, der forlod sin Kirke, eller den Kvinde, der forlod
+          sin Mand, den sociale Agtelse, i Fald kun Bevæggrundene vare uegennyttige; nu blev det
+          Tegn paa slet Tone at ønske Gjenindførelse af Skilsmisse, endsige Præsternes Ægteskab.«
+            <placeName>Faubourg St. Honoré</placeName>, Finanskvarteret, gav Tonen an.</p>
 
         <p>Intet Under, at Paraplyen snart blev dette Kongedømmes Symbol og Ordet Juste-milieu, som
             <persName>Louis-Philippe</persName> en Gang fint havde brugt om den Bane, der burde
@@ -7735,10 +7749,10 @@
 
         <p>Saaledes ender det lidenskabelige Stykke »<bibl>L’occasion</bibl>«. Den vittigste Kritik,
           der er skrevet <pb n="385"/> over disse Stykker og denne Manér, er en Passus i
-            <persName>Alfred de Mussets</persName> »Lettres de Dupuis et Cotonet«: »Og
-          saa har vi Spanien med sine Castillanere, der skjære Halsen over paa hverandre, som man
-          drikker et Glas Vand, og med sine Andalusierinder, der hurtigere endnu indlade sig paa en
-          mindre affolkende Idræt, med sine Tyre, Toreadorer, Matadorer o. s. v.«</p>
+            <persName>Alfred de Mussets</persName> »Lettres de Dupuis et Cotonet«: »Og saa har vi
+          Spanien med sine Castillanere, der skjære Halsen over paa hverandre, som man drikker et
+          Glas Vand, og med sine Andalusierinder, der hurtigere endnu indlade sig paa en mindre
+          affolkende Idræt, med sine Tyre, Toreadorer, Matadorer o. s. v.«</p>
 
         <p>Den unge romantiske Skoles Spanien, til hvilket <persName>Musset</persName> med sin
           Andalusierinde fra Barcelona, som man kan kjende paa det blege Ansigt og den brune Hals,
