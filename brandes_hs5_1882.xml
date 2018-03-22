@@ -21,6 +21,22 @@
         </listWit>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <creation>
+        <placeName>empty</placeName>
+      </creation>
+      <abstract>
+        <ab>Femte bind af Georg Brandes' Hovedstrømninger (1882)</ab>
+      </abstract>
+      <langUsage>
+        <language ident="da"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>empty</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>
