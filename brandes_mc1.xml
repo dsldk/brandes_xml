@@ -22,6 +22,24 @@
     </listWit>
    </sourceDesc>
   </fileDesc>
+  
+  <profileDesc>
+   <creation>
+    <placeName>empty</placeName>
+   </creation>
+   <abstract>
+    <ab>First volume of Main Currents ... by Georg Brandes (1901)</ab>
+   </abstract>
+   <langUsage>
+    <language ident="da"/>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term>empty</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  
  </teiHeader>
  <text>
   <front>
