@@ -21,6 +21,22 @@
         </listWit>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <creation>
+        <placeName>empty</placeName>
+      </creation>
+      <abstract>
+        <ab>Tredje bind af Georg Brandes' Hovedstrømninger (1874)</ab>
+      </abstract>
+      <langUsage>
+        <language ident="da"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>empty</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>
@@ -48,7 +64,7 @@
           <cit>
             <quote>
               <lg>
-                <l><pb n="[2]"/>Hätt’ ich gezaudert zu werden,</l>
+                <l><pb n="[2]"/><ref target="n336"/>Hätt’ ich gezaudert zu werden,</l>
                 <l>Bis man mir’s Leben gegönnt,</l>
                 <l>Ich wäre noch nicht auf Erden,</l>
                 <l>Wie ihr begreifen könnt,</l>
@@ -56,7 +72,7 @@
               </lg>
             </quote>
             <bibl>
-              <persName>Goethe.</persName>
+              <persName key="johann-wolfgang-goethe">Goethe.</persName>
             </bibl>
           </cit>
         </epigraph>
@@ -65,10 +81,10 @@
         <epigraph>
           <cit>
             <quote>
-              <p>There is no philosophy possible, where fear of consequences is a stronger principle
-                than love of truth.</p>
+              <p><ref target="n337"/>There is no philosophy possible, where fear of consequences is
+                a stronger principle than love of truth.</p>
             </quote>
-            <bibl><persName>John Stuart Mill.</persName></bibl>
+            <bibl><persName key="john-stuart-mill">John Stuart Mill.</persName></bibl>
           </cit>
         </epigraph>
       </div>
@@ -76,10 +92,11 @@
         <head><pb n="[3]"/>REACTIONEN I FRANKRIG.</head>
       </div>
       <div>
-        <p><pb n="[5]"/>Et vist Indbegreb af Ideer og Værker, Personligheder, Handlinger, Følelser
-          og Stemninger, som opstaae eller virke i Frankrig i Begyndelsen af det 19de Aarhundrede,
-          danner for mit Øie en naturligt sammenhørende Gruppe af sociale og litterære Phænomener,
-          der alle ordne sig om Gjenoprettelsen af en falden Storhed. Denne faldne Storhed er
+        <head><pb n="[5]"/>[Indledning]</head>
+        <p>Et vist Indbegreb af Ideer og Værker, Personligheder, Handlinger, Følelser og Stemninger,
+          som opstaae eller virke i Frankrig i Begyndelsen af det 19de Aarhundrede, danner for mit
+          Øie en naturligt sammenhørende Gruppe af sociale og litterære Phænomener, der alle ordne
+          sig om Gjenoprettelsen af en falden Storhed. Denne faldne Storhed er
           Autoritetsprincipet.</p>
         <p>Ved Autoritetsprincipet forstaaer jeg det Princip, i Kraft af hvilket det enkelte
           Menneskes og Folkenes Liv hviler paa Respect for Traditionen. Autoriteten er en Magt og
@@ -92,7 +109,7 @@
           Tid, hvis Aandsliv jeg vil skildre, styrtet og kuldkastet paa dem alle. Det er for at
           forstaae, hvorledes det paany blev fremdraget og fastslaaet, hvorledes det blev befæstet
           og hvorledes det endnu en Gang blev sprængt, nødvendigt at see, hvorledes og i Kraft af
-          hvilke Principer det under Revolutionen blev fældet.</p>
+          hvilke Principer det under <ref target="n338"/>Revolutionen blev fældet.</p>
         <p>Det var ikke paa een Gang blevet angrebet paa alle aandelige Omraader; men det havde vist
           sig, at dets Bestaaen i alle de forskjellige Livssphærer afhang af dets Bestaaen i den
           Sphære, der blev anseet for den høieste: Kirkens. Thi det var Kirken, der som Autoritet
@@ -102,57 +119,68 @@
           undergravet, drog den alle de andre Autoriteter efter sig i sit Fald.</p>
         <p>Ikke at den enkelte Mand, som i det 18de Aarhundrede kraftigere og med mere Held end
           nogen anden havde virket for Tankens Emancipation fra Kirke og Dogmer, havde forudseet en
-          saadan Virkning af sin Stræben. Langtfra! <persName>Voltaire</persName> vilde ingen ydre
-          Omvæltning. I hans lille Fortælling »Le monde comme il va« bliver den vise <persName
-            type="fictional">Babouc</persName> vel først meget oprørt ved Skuet af <pb n="7"/>
-          Fordærvelsen i den store By <placeName>Persepolis</placeName> og seer meget klart, hvor
-          langt Alting er fra at være som det burde, men lidt efter lidt faaer han ogsaa Øie for de
-          slette Forholds gode Sider, og da det afhænger af hans Rapport til Engelen <persName
-            type="fictional">Ituriel</persName>, om Byen skal tilintetgjøres eller skaanes, er han
+          saadan Virkning af sin Stræben. Langtfra! <persName key="francois-voltaire"
+            >Voltaire</persName> vilde ingen ydre Omvæltning. I hans lille Fortælling »<bibl
+            xml:id="voltaire-le-monde-comme-il-va">Le monde
+            comme il va</bibl>« bliver den vise <persName type="fictional" key="babouc"
+            >Babouc</persName> vel først meget oprørt ved Skuet af <pb n="7"/> Fordærvelsen i den
+          store By <placeName>Persepolis</placeName> og seer meget klart, hvor langt Alting er fra
+          at være som det burde, men lidt efter lidt faaer han ogsaa Øie for de slette Forholds gode
+          Sider, og da det afhænger af hans Rapport til Engelen <persName type="fictional"
+            key="ituriel">Ituriel</persName>, om Byen skal tilintetgjøres eller skaanes, er han
           absolut imod dens Ødelæggelse, ja der tænkes tilsidst end ikke af Engelen paa nogen Reform
-          af <placeName>Persepolis</placeName>’s Sæder, da »om Alt end ikke er godt, det dog i
-          ethvert Fald er taaleligt«. Man kan neppe kalde dette Raisonnement revolutionært, og
-            <persName>Voltaire</persName> er, idetmindste til Tider, af samme Mening som <persName
-            type="fictional">Babouc</persName>. Man erindrer ogsaa, at <persName>Voltaire</persName>
-          bestandig søgte til Fyrsterne, ikke til Folkene for at faae sine Ideer omsatte i Handling
-          og ofte nok erklærede, at Kongernes og Philosophernes Sag var een. Da derfor
-            <persName>Holbach</persName> og hans Medarbeidere lode sig forlyde med, at der »blandt
-          hine Magthavere af Guds Naade, hine Guddommens Repræsentanter neppe engang hvert tusinde
-          Aar fandtes en, der besad den mest almindelige Retfærdigheds- eller Medlidenhedsfølelse
-          eller de simpleste Talenter og Dyder«, kunde <persName>Voltaire</persName> ikke styre sin
-          Harme. Hans Brevvexling med <persName>Kongen af Preussen</persName> indeholder ogsaa de
-          heftigste Vredesudbrud over »<bibl>Système de la nature</bibl>«. Han kjendte ikke sig selv
-          igjen i disse Disciple og i disse Consequentser.</p>
-        <p>Ikke desmindre er det <persName>Voltaire</persName>, der udgjør <pb n="8"/> det
-          nedbrydende Princip under hele Revolutionen, ligesom <persName>Rousseau</persName> er den
-          forenende og samlende Aand. Thi <persName>Voltaire</persName> havde knækket
-          Autoritetsprincipet i Kraft af den individuelle Tankes Frihed,
-            <persName>Rousseau</persName> havde fortrængt og erstattet det ved den almindelige
-          Følelse af Broderskab og Solidaritet. Revolutionen satte Punkt for Punkt Alt i Værk hvad
-          disse to store Aander havde forberedt; den exequerede deres Testamente; den individuelle
-          Tanke blev til nedbrydende Bedrift og den sociale Følelse til samlende Constitution.
-            <persName>Voltaire</persName> var Indignationen, <persName>Rousseau</persName>
-          Begeistringen.</p>
+          af <placeName key="persepolis">Persepolis</placeName>’s Sæder, da <ref target="n339"/>»om
+          Alt end ikke er godt, det dog i ethvert Fald er taaleligt«. Man kan neppe kalde dette
+          Raisonnement revolutionært, og <persName key="francois-voltaire">Voltaire</persName> er,
+          idetmindste til Tider, af samme Mening som <persName type="fictional" key="babouc"
+            >Babouc</persName>. Man erindrer ogsaa, at <persName key="francois-voltaire"
+            >Voltaire</persName> bestandig søgte til Fyrsterne, ikke til Folkene for at faae sine
+          Ideer omsatte i Handling og ofte nok erklærede, at <ref target="n340"/>Kongernes og
+          Philosophernes Sag var een. Da derfor <persName key="paul-henri-d-holbach"
+            >Holbach</persName> og hans Medarbeidere lode sig forlyde med, at der <ref target="n341"
+          />»blandt hine Magthavere af Guds Naade, hine Guddommens Repræsentanter neppe engang hvert
+          tusinde Aar fandtes en, der besad den mest almindelige Retfærdigheds- eller
+          Medlidenhedsfølelse eller de simpleste Talenter og Dyder«, kunde <persName
+            key="francois-voltaire">Voltaire</persName> ikke styre sin Harme. Hans <ref
+            target="n3406"/>Brevvexling med <persName key="frederik-2-den-store">Kongen af
+            Preussen</persName> indeholder ogsaa de heftigste Vredesudbrud over »<bibl
+            xml:id="holbach-systeme-de-la-nature">Système de la nature</bibl>«. Han kjendte ikke sig
+          selv igjen i disse Disciple og i disse Consequentser.</p>
+        <p>Ikke desmindre er det <persName key="francois-voltaire">Voltaire</persName>, der udgjør
+            <pb n="8"/> det nedbrydende Princip under hele Revolutionen, ligesom <persName
+            key="jean-jacques-rousseau">Rousseau</persName> er den forenende og samlende Aand. Thi
+            <persName key="francois-voltaire">Voltaire</persName> havde knækket Autoritetsprincipet
+          i Kraft af den individuelle Tankes Frihed, <persName key="jean-jacques-rousseau"
+            >Rousseau</persName> havde fortrængt og erstattet det ved den almindelige Følelse af
+          Broderskab og Solidaritet. Revolutionen satte Punkt for Punkt Alt i Værk hvad disse to
+          store Aander havde forberedt; den exequerede deres Testamente; den individuelle Tanke blev
+          til nedbrydende Bedrift og den sociale Følelse til samlende Constitution. <persName
+            key="francois-voltaire">Voltaire</persName> var Indignationen, <persName
+            key="jean-jacques-rousseau">Rousseau</persName> Begeistringen.</p>
       </div>
       <div>
-        <head><pb n="[9]"/>I.</head>
+        <head><pb n="[9]"/>I. [Revolutionen]</head>
         <epigraph>
           <cit>
             <quote>
-              <p>On accuse la génération de tout renverser et de ne rien édifier. Mais ne faut-il
-                pas avoir détruit la Bastille avant de rien éléver sur son emplacement? Déja maint
+              <p><ref target="n342"/>On accuse la génération de tout renverser et de ne rien
+                édifier. Mais ne faut-il pas avoir détruit la <placeName key="bastillen"
+                  >Bastille</placeName> avant de rien éléver sur son emplacement? Déja maint
                 architecte s’évertue à imaginer un palais digne des augustes représentants de la
-                nation. Bientôt vous le verrez sortir de dessous les ruines de cette Bastille.</p>
+                nation. Bientôt vous le verrez sortir de dessous les ruines de cette <placeName
+                  key="bastillen">Bastille</placeName>.</p>
             </quote>
-            <bibl><persName>Camille Desmoulins</persName>: Discours de la lanterne.</bibl>
+            <bibl xml:id="desmoulins-le-discours-de-la-lanterne-aux-parisiens"><persName
+                key="camille-desmoulins">Camille Desmoulins</persName>: Discours de la
+              lanterne.</bibl>
           </cit>
         </epigraph>
 
-        <p>Da Autoriteten principielt er kirkelig og religiøs, saa er en Charakteristik af
-          Revolutionens Forhold til Kirke og Religion under dette Forholds forskjellige Phaser den
-          uundværlige Betingelse for at begribe den aandelige Reaction, der fulgte. Thi da denne
-          gaaer ud paa Gjenoprettelsen af Autoritetsprincipet, begynder den saavel historisk som
-          logisk med Kirkens Restauration.</p>
+        <p>Da Autoriteten principielt er kirkelig og religiøs, saa er en Charakteristik af <ref
+            target="n3407"/>Revolutionens Forhold til Kirke og Religion under dette Forholds
+          forskjellige Phaser den uundværlige Betingelse for at begribe den aandelige Reaction, der
+          fulgte. Thi da denne gaaer ud paa Gjenoprettelsen af Autoritetsprincipet, begynder den
+          saavel historisk som logisk med Kirkens Restauration.</p>
         <p>Revolutionen var i sit Væsen fuldt saa meget af religiøs som af politisk Natur. Den var
           Kronen paa det store philosophiske Værk, som det 18de Aarhundredes fritænkerske Skribenter
           havde opført. Det er Revolutionen af 1789 som vi skylde hin Menneskeaandens største
@@ -167,23 +195,23 @@
           store Tournering staae paa deres Poster, ubekjendte for hverandre, ubekjendte for Verden,
           som de snart skulle fylde med deres Navne. De ere af høist forskjellig Herkomst og have en
           høist forskjellig Fortid. Det er Adelsmænd som <persName>Mirabeau</persName>, Geistlige
-          som <persName>Maury</persName>, <persName>Fauchet</persName> og Talleyrrand, Læger som
-            <persName>Marat</persName>, Advocater som <persName>Robespierre</persName>, Digtere,
-          Philosopher, Talere, Skribenter som <persName>Chénier</persName>,
-            <persName>Condorcet</persName>, <persName>Danton</persName> og
-            <persName>Desmoulins</persName>, en hel Hærskare af Talenter og Charakterer. Kirken
-          samler sine Vaaben til en fortvivlet Kamp, som forud er tabt, Revolutionen rykker frem,
-          først usikker og med Vaklen, saa truende, saa uimodstaaelig og snart seiersdrukken.
-          Saasnart Rigsstænderne blive sammenkaldte, er Kamppladsen aaben, Skrankerne falde paa
-          begge <pb n="11"/> Sider og den store Kampdommer, Verdenshistorien giver Signalet til
-          Sammenstødet.</p>
+          som <persName>Maury</persName>, <persName>Fauchet</persName> og
+            <persName>Talleyrand</persName>, Læger som <persName>Marat</persName>, Advocater som
+            <persName>Robespierre</persName>, Digtere, Philosopher, Talere, Skribenter som
+            <persName>Chénier</persName>, <persName>Condorcet</persName>,
+            <persName>Danton</persName> og <persName>Desmoulins</persName>, en hel Hærskare af
+          Talenter og Charakterer. Kirken samler sine Vaaben til en fortvivlet Kamp, som forud er
+          tabt, Revolutionen rykker frem, først usikker og med Vaklen, saa truende, saa
+          uimodstaaelig og snart seiersdrukken. Saasnart Rigsstænderne blive sammenkaldte, er
+          Kamppladsen aaben, Skrankerne falde paa begge <pb n="11"/> Sider og den store Kampdommer,
+          Verdenshistorien giver Signalet til Sammenstødet.</p>
         <p>Hvad er strax efter Stændernes Sammenkaldelse den geistlige Stands første og enstemmige
           Forlangende? At faae »den katholske, apostoliske og romerske Religion« anerkjendt som
           Nationalreligion, som den eneste, der skulde have Tilladelse til offentlig Cultus. Og dog
           var der Republikanere og ikke faa blandt den lavere Geistlighed; men til den Frihed, de
           fordrede, regnede de ikke den religiøse. De demokratiske Abbeder declamerede vel imod
           Inquisitionen, kaldte den menneskeæderisk og tigeragtig, men de advarede mod Tolerancen.
-          Den revolutionære <persName>Abbed Fauchet</persName>, den samme, der efter Bastillens
+          Den revolutionære Abbed <persName>Fauchet</persName>, den samme, der efter Bastillens
           Indtagelse velsignede Nationalgardens trefarvede Uniformer og skabte Tricoloren som
           Nationalflag, betegner Tolerancen haanligt som »den almindelige Tolerantisme« og spaaer,
           at, hvis den blev indført, vilde det kun lede til alle gode Sæders fuldstændige Forfald.
@@ -195,21 +223,21 @@
           bestandig <pb n="12"/> med at iklæde sig de mildeste og hensynsfuldeste Former. Da f. Ex.
           i Februar 1790 <persName>Garat</persName> havde brugt det Udtryk om Præsteordinationen, at
           den var et borgerligt Selvmord, og en Række Geistlige, hvoriblandt <persName>Abbed
-            Maury</persName> og Biskopperne af <persName>Nancy</persName> og
-            <persName>Clermont</persName> i Forbitrelse herover fore i Veiret, raabte paa
-          Gudsbespottelse og indgav et Forslag om at den katholske Religion skulde erklæres for
-          Nationalreligion, saa blev Forslaget vel forkastet, men paa en saadan Maade, at man føler
-          Demokratiets Frygtsomhed og Usikkerhed i Motiveringen af dette Skridt. Det vilde, hed det,
-          være en Krænkelse af Religionen og af de Følelser, der besjælede Forsamlingen med Hensyn
-          til den, at forudsætte endog blot en Tvivl herom. Man vovede endnu ikke at sige, hvad man
-          mente, og saaledes saa man endnu en Forsamling, hvis Flertal bestod af Fritænkere, deltage
-          i Processioner og overvære den katholske Gudstjeneste. Kun to Maaneder senere kom da
-          Forslaget om at erklære Katholicismen for Nationalreligion frem paany, denne Gang efter
-            <persName>Maury’s</persName> rasende Invectiver imod Forslaget om Kirkegodsernes
-          Inddragning under Staten. Det blev denne Gang stillet af en Geistlig, <persName>Dom
-            Gerle</persName>, der senere som Jakobiner viste sig meget ivrig for at bringe denne sin
-          første offentlige Optræden i Forglemmelse. <persName>Mirabeau</persName> svarede med en
-          Apostrophe til det Vindue i <pb n="13"/>
+            Maury</persName> og Biskopperne af <persName>Nancy</persName><!--Henri de La Fare--> og
+            <persName>Clermont</persName><!--Francois de Bonal--> i Forbitrelse herover fore i
+          Veiret, raabte paa Gudsbespottelse og indgav et Forslag om at den katholske Religion
+          skulde erklæres for Nationalreligion, saa blev Forslaget vel forkastet, men paa en saadan
+          Maade, at man føler Demokratiets Frygtsomhed og Usikkerhed i Motiveringen af dette Skridt.
+          Det vilde, hed det, være en Krænkelse af Religionen og af de Følelser, der besjælede
+          Forsamlingen med Hensyn til den, at forudsætte endog blot en Tvivl herom. Man vovede endnu
+          ikke at sige, hvad man mente, og saaledes saa man endnu en Forsamling, hvis Flertal bestod
+          af Fritænkere, deltage i Processioner og overvære den katholske Gudstjeneste. Kun to
+          Maaneder senere kom da Forslaget om at erklære Katholicismen for Nationalreligion frem
+          paany, denne Gang efter <persName>Maury’s</persName> rasende Invectiver imod Forslaget om
+          Kirkegodsernes Inddragning under Staten. Det blev denne Gang stillet af en Geistlig,
+            <placeName>Dom Gerle</placeName>, der senere som Jakobiner viste sig meget ivrig for at
+          bringe denne sin første offentlige Optræden i Forglemmelse. <persName>Mirabeau</persName>
+          svarede med en Apostrophe til det Vindue i <pb n="13"/>
           <placeName>Louvre</placeName>, som han fra Tribunen havde for Øie, »det samme«, raabte
           han, »fra hvilket en fransk Monarch, der blandede de verdslige Interesser med Religionens
           aandelige Interesser, affyrede den Arquebuse, der gav Signalet til Bartholomæusnatten«. Og
@@ -507,27 +535,28 @@
           Lidenskabers Tid <pb n="30"/> er begyndt. Og Lidenskaberne følge Overbevisningernes Spor.
           Hadet til Katholicismen naaer sin Høide. Dette Had staaer i een samlet Flamme over
           Frankrig. Det er Klubbernes gyldne Tid.</p>
-        <p>Cordeliererne havde deres Klub i en Klosterkirke. <persName>Chateaubriand</persName> har
-          som Øienvidne beskrevet den i sine Memoirer. Alle Malerierne, alt det udskaarne Arbeide,
-          Tapeter og Billeder vare revne ned, kun det blotte Skelet af Kirken stod tilbage. I
-          Kirkens Chor, hvor Regn og Blæst trængte ind igjennem de ituslaaede Ruder i Rosen, var
-          Præsidentens Sæde. Hans Bord dannedes af Høvlebænke, der vare stillede ved Siden af
-          hinanden. Paa dem stod en Række røde Huer, og Enhver, som vilde tale, tog først en rød Hue
-          paa. Bag Præsidenten stod en Statue af Friheden med sønderbrudte Marterredskaber i sin
-          Haand. Tømmerværk, itubrukne Bænke og Kirkestole, Stumper af ituslagne Helgener afgave
-          Sæder og Skamler for den store Hob af støvede og vildt udseende Tilskuere i hullede
-          Carmagnoler (saadan kaldtes deres Trøier) og med Spyd paa Skuldrene eller de nøgne Arme
-          over Kors. Talerne udtrykte sig drøit og ligefrem, enhver Ting blev nævnet ved sit rette
-          Navn. Et cynisk Ord og en cynisk Gestus vakte Bifald. Modstandere afbrød dem, undertiden
-          afbrødes de ogsaa af de smaa, mørke, skrigende Ugler, der havde boet under Klostertaget og
-          som nu fløi ud og ind gjennem de itu<pb n="31"/>brukne Vinduer i Haab om at finde nogen
-          Føde. Præsidentens Klokke formaaede ikke at bringe dem til Taushed, undertiden skjød man
-          efter dem, og de faldt blødende og sprællende ned i Forsamlingen. Her talte
-            <persName>Danton</persName>, <persName>Marat</persName> og <persName>Camille
-            Desmoulins</persName>, den elskværdige og vittige Camille, der gjaldt for saa moderat,
-          at han maatte forsvare sig imod Beskyldningen for Skinhellighed og som endnu for
-          Revolutionstribunalet førte Sansculotten Jesus i Munden. Han havde sine private Grunde til
-          Had mod Præsterne. Da han i December 1790 vilde giftes med sin elskede
+        <p>Cordeliererne havde deres Klub i en
+          <placeName>Klosterkirke</placeName><!--couvent des cordeliers-->.
+            <persName>Chateaubriand</persName> har som Øienvidne beskrevet den i sine Memoirer. Alle
+          Malerierne, alt det udskaarne Arbeide, Tapeter og Billeder vare revne ned, kun det blotte
+          Skelet af Kirken stod tilbage. I Kirkens Chor, hvor Regn og Blæst trængte ind igjennem de
+          ituslaaede Ruder i Rosen, var Præsidentens Sæde. Hans Bord dannedes af Høvlebænke, der
+          vare stillede ved Siden af hinanden. Paa dem stod en Række røde Huer, og Enhver, som vilde
+          tale, tog først en rød Hue paa. Bag Præsidenten stod en Statue af Friheden med
+          sønderbrudte Marterredskaber i sin Haand. Tømmerværk, itubrukne Bænke og Kirkestole,
+          Stumper af ituslagne Helgener afgave Sæder og Skamler for den store Hob af støvede og
+          vildt udseende Tilskuere i hullede Carmagnoler (saadan kaldtes deres Trøier) og med Spyd
+          paa Skuldrene eller de nøgne Arme over Kors. Talerne udtrykte sig drøit og ligefrem,
+          enhver Ting blev nævnet ved sit rette Navn. Et cynisk Ord og en cynisk Gestus vakte
+          Bifald. Modstandere afbrød dem, undertiden afbrødes de ogsaa af de smaa, mørke, skrigende
+          Ugler, der havde boet under Klostertaget og som nu fløi ud og ind gjennem de itu<pb n="31"
+          />brukne Vinduer i Haab om at finde nogen Føde. Præsidentens Klokke formaaede ikke at
+          bringe dem til Taushed, undertiden skjød man efter dem, og de faldt blødende og sprællende
+          ned i Forsamlingen. Her talte <persName>Danton</persName>, <persName>Marat</persName> og
+            <persName>Camille Desmoulins</persName>, den elskværdige og vittige Camille, der gjaldt
+          for saa moderat, at han maatte forsvare sig imod Beskyldningen for Skinhellighed og som
+          endnu for Revolutionstribunalet førte Sansculotten Jesus i Munden. Han havde sine private
+          Grunde til Had mod Præsterne. Da han i December 1790 vilde giftes med sin elskede
             <persName>Lucile</persName>, uden Tvivl en af Revolutionens skjønneste og reneste
           Kvindeskikkelser, og da hans Forening med hende kun manglede Præstens Stadfæstelse, var
           der ingen Præst, som vilde vie ham, fordi han i en Bladartikel havde sagt, at Mahomeds
@@ -1088,7 +1117,7 @@
           I-II.</note></p>
       </div>
       <div>
-        <head>II.</head>
+        <head>II. [Concordatet]</head>
         <p>En Octobernat i Aaret 1801 blev en lukket Vogn, escorteret af Vagt hemmeligt ført ind i
             <placeName>Paris</placeName>. Hvad skjultes vel i denne Vogn? Var det en Forbryder, var
           det Smuglervarer? I Vognen sad en gammel Mand, en Præst, Pavens Legat til General
@@ -1391,7 +1420,7 @@
         <p>Med Hensyn til denne Religionens Opfattelse som Ordenen synes der at være nogen Lighed
           mellem <persName>Napoleon</persName> og Jacobinerne, ligesom overhovedet
             <persName>Napoleons</persName> Restaurationsforsøg frembyder en bestemt Analogi med
-            <persName>Robespierre</persName> Bestræbelser for at gjenoplive den religiøse Følelse.
+            <persName>Robespierres</persName> Bestræbelser for at gjenoplive den religiøse Følelse.
           Som Politiker troer <persName>Robespierre</persName> paa Religionens ordnende og
           regulerende Magt, og som Politiker i en Tidsalder, hvor den uhyre Majoritet af de Dannede
           staaer paa Deismens Grund, frygter han Atheismen som et for Tidens Ideer fremmed Princip.
@@ -1419,7 +1448,7 @@
           charme d’une <pb n="81"/> religion) ligger i Erindringen. Jeg hører aldrig i
             <placeName>Malmaison</placeName> Kirkeklokken i den nærmeste Landsby uden at blive
           bevæget. Og hvem kunde i Frankrig føle sig rørt i en protestantisk Kirke, hvorhen Ingen er
-          gaaet som Barn, og hvis kolde og strenge Udseende saa lidet passer til Folkets Sæder.
+          gaaet som Barn, og hvis kolde og strenge Udseende saa lidet passer til Folkets Sæder.«<!-- cit slut indsat -->
           »Desuden«<!-- cit slut indsat -->, sagde han til <persName>Las Cases</persName>,
           »<!-- cit start indsat -->naaede jeg med Katholicismen meget sikrere til alle mine store
           Resultater. Udadtil bevarede Katholicismen mig Paven, og med min Indflydelse i Italien og
@@ -1488,7 +1517,7 @@
           mere, den Dag idag maaskee dybere end nogensinde. Bittert maatte han snart selv fortryde,
           at han, ledet af en kortsynet Politik, havde allieret sig med de laveste og mest uvidende
           Elementer i Folket imod de ædleste og bedste. <persName>De Pradt</persName> fortæller, at
-          han atter og atter har hørt <persName>Napoleon</persName> gjentage, af »Concordatet var
+          han atter og atter har hørt <persName>Napoleon</persName> gjentage, at »Concordatet var
           hans Regjerings største Feil«. Om <persName>Hertugen af Enghiens</persName> Justitsmord
           blev det bekjendte Udtryk brugt: »Det var mere end en Forbrydelse, det var en Feil.« Om
           Concordatet kan man vende Ordene om. Det var mere end <persName>Napoleons</persName>
@@ -1504,7 +1533,7 @@
             concordat</bibl>«<!-- cit start og slut indsat -->.</note></p>
       </div>
       <div>
-        <head>III.</head>
+        <head>III. [Autoritetsprincipet]</head>
         <p>Kan man forstaae, at alt det Skete skulde betragtes som uskeet, at alle de uhyre
           Anstrengelser skulde være spildte? Naar man betænker, hvad det var lykkedes at udrette,
           maa man for<pb n="86"/>bauses. En Emancipationsbevægelse, der var begyndt i
@@ -1626,7 +1655,7 @@
           under Begivenhedernes følgende Udvikling, da den Bourbonske Restauration fandt Sted, alle
           de Mange, der til alle Tider hylde Magthavernes Religion, <pb n="93"/> alle Tilhængerne af
           Rævens Morale hos <persName>Holberg</persName>: »Scrupuleer ikke udi Religionen, men holdt
-          Dig blindt til den herskende Tro!« Fra de Hersk endes Side føres jo i religiøse
+          Dig blindt til den herskende Tro!« Fra de Herskendes Side føres jo i religiøse
           Anliggender aldrig Kampen med Grunde mod Grunde. Man besvarede ikke de Opponerendes
           Argumenter med Argumenter, men med Berøvelse af Suppe og Steg. Flertallet af de Mænd, der
           uden Formue havde forberedt sig til Embedsveien og som ikke kunde overvinde en
@@ -2203,7 +2232,7 @@
             XVI.</note></p>
       </div>
       <div>
-        <head>IV.</head>
+        <head>IV. [Traditionen i Religion, Stat og Familie]</head>
         <p>Det er <persName>Chateaubriand’s</persName> »<bibl>Le génie du
           christianisme</bibl>«<!-- cit start og slut indsat -->, der betegner Overgangen fra
           Reactionens første til dens andet Stadium, idet dette Værk, som alt bemærket, søgte at
@@ -2878,7 +2907,7 @@
           sig.</p>
       </div>
       <div>
-        <head><pb n="163"/>V.</head>
+        <head><pb n="163"/>V. [En Pilgrim og hans seraphiske Epopee]</head>
         <p>Der fandtes i Frankrig under Keiserdømmet ingen Poesi. <persName>Napoleon</persName> var
           Tidens eneste Digter. Rækken af hans Krige og Seirvindinger var een stor Iliade, Felttoget
           til Rusland en gigantisk Tragoedie, hvormed ingen, der var udarbeidet ved en Pult, kunde
@@ -3670,7 +3699,7 @@
         </p>
       </div>
       <div>
-        <head><pb n="203"/>VI.</head>
+        <head><pb n="203"/>VI. [En Prophetinde og hendes hellige Værk]</head>
         <p>Af Restaurationstidens Personligheder er der en egen Klasse, som særligt skarpt betegner
           Perioden, det er de Omvendte. Denne Race maatte nødvendigvis forekomme temmelig talrig, da
           en saa anstrengt troende Tid fulgte paa en saa lidet troende.
@@ -4364,7 +4393,7 @@
               Carstensen</persName>.</note></p>
       </div>
       <div>
-        <head><pb n="241"/>VII.</head>
+        <head><pb n="241"/>VII. [Lyrik og Erotik]</head>
         <p>Da de 100 Dage vare forbi og <persName>Ludvig d. 18de</persName> for anden Gang vendt
           tilbage, udbredte en forunderlig blandet og vemodig Stemning sig over Frankrig.
           Restaurationen frembød et dobbelt Physiognomi, det var Gjenoprettelsen af et Dynasti, om
@@ -5020,7 +5049,7 @@
               Restauration</bibl>«<!-- cit start og slut indsat -->.</note></p>
       </div>
       <div>
-        <head><pb n="274"/>VIII.</head>
+        <head><pb n="274"/>VIII. [Det formelle Autoritetsprincips Opløsning]</head>
         <p>Det er da ogsaa under disse Ideers ugunstige Auspicier, at den Digter, der skulde blive
           Frankrigs største i dette Aarhundrede, først vandt sig et Navn. Tidsaandens Magt tvinger
           ham bort fra den voldsomme, næsten om de førshakspearske Digtere mindende Maneer i hans
@@ -5507,7 +5536,7 @@
             templiers</bibl>«<!-- cit start og slut indsat -->.</note></p>
       </div>
       <div>
-        <head>IX.</head>
+        <head>IX. [Det reelle Autoritetsprincips Opløsning]</head>
         <p>En mørk og taaget Dag for omtrent <app>
             <lem wit="rett.bl.2">20</lem>
             <rdg wit="A">30 <note>ændret ordlyd pga. omarbejdelse i B og senere udgaver</note></rdg>

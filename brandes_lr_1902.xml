@@ -2,7 +2,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title><emph>L'école romantique en France</emph> (1902)</title>
+    <title>L'école romantique en France (1902)</title>
    </titleStmt>
    <publicationStmt>
     <publisher>dsl</publisher>
@@ -21,6 +21,23 @@
     </listWit>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>empty</placeName>
+   </creation>
+   <abstract>
+    <ab>Le cinquième volume des Grands courants par Georg Brandes (1902)</ab>
+   </abstract>
+   <langUsage>
+    <language ident="fr"/>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term>empty</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  
  </teiHeader>
  <text>
   <body>
