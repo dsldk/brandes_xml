@@ -2,7 +2,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title><emph>Forklaring og Forsvar</emph> (1872)</title>
+    <title>Forklaring og Forsvar (1872)</title>
    </titleStmt>
    <publicationStmt>
     <publisher>dsl</publisher>
@@ -21,6 +21,23 @@
     </listWit>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>empty</placeName>
+   </creation>
+   <abstract>
+    <ab>Georg Brandes' forsvarsskrift imod kritikken af Emigrantlitteraturen (1872)</ab>
+   </abstract>
+   <langUsage>
+    <language ident="da"/>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term>empty</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  
  </teiHeader>
  <text>
 
