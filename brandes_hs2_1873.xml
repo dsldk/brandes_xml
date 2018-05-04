@@ -21,6 +21,22 @@
         </listWit>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <creation>
+        <placeName>empty</placeName>
+      </creation>
+      <abstract>
+        <ab>Andet bind af Georg Brandes' Hovedstrømninger (1873)</ab>
+      </abstract>
+      <langUsage>
+        <language ident="da"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>empty</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
     <!-- 30.1.17  : tjekket og tilrettet <pb>; tilføjet enkelte andre småting -->
     <!-- 31.1.17  : påbegyndt indførsel af rettelser m.m.; omdøbt alle <hi rend="spaced"> til <emph> -->
     <!-- 1.2.17   : fortsat indførsel af rettelser m.m.; erstattet alle [...] med […] (ALT+0133) -->
