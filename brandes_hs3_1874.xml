@@ -1732,7 +1732,7 @@
           1824, at være Bourbonernes trofaste Tjener; det var en Rolle, han spillede saa alvorligt,
           og som saaledes var ham paatvungen af Omstændighederne, at han udførte den til
           Fuldkommenhed. Hvad den næste Generation angaaer, da har <persName>Lamartine</persName> i
-          Fortalen til sine »<bibl>Meditationer</bibl>« fortalt, hvorledes han som ung Gardeofficier
+          Fortalen til sine »<bibl xml:id="Oeuvres-de-Lamartine">Meditationer</bibl>« fortalt, hvorledes han som ung Gardeofficier
           galopperede ved Siden af <persName>Ludvig den 18des</persName> Vogn, naar denne drog fra
             <placeName>Paris</placeName> til <placeName>Versailles</placeName> eller <placeName>St.
             Germain</placeName>. <persName>De Vigny</persName> var ligeledes kongelig Officier og
@@ -1868,7 +1868,7 @@
           ført ud fra den moderne Tids Principer. <persName>Hegel</persName> indlod sig i sin Tid
           paa en saadan ved en ny Definition af Folkesouverainiteten, der indadtil blev bestemt som
           Statens Souverainitet, <note place="bottom"><persName>Hegel</persName>: Werke 8ter Band,
-              <bibl>Philosophie des Rechts</bibl> 367.</note> og <persName>Heiberg</persName>, der
+            »<bibl>Philosophie des Rechts</bibl>« 367.</note> og <persName>Heiberg</persName>, der
           gjerne sætter de Hegelske Tanker paa Spidsen, har i sin Afhandling »<bibl>Om
             Autoritet</bibl>« givet <persName>Hegels</persName> Idee den paradoxe og reactionære
           Form, at »om Borgerne ved Statens Udvikling komme i Besiddelse af flere Goder eller ikke,
@@ -1901,7 +1901,7 @@
         <p>I sin Ivren mod Samfundet lod <persName>Rousseau</persName> sig forlede til at sige:
           »Samfundet følger ikke af Menneskets Natur. – Alt, hvad der ikke ligger i Naturen, fører
           Ulemper med sig, og det borgerlige Samfund mere end alt det Øvrige.« – »Samfundet!«
-          udraaber <persName>Bonald</persName> ikke uden Veltalenhed, som om Samfundet bestod i vore
+          udraaber <persName>Bonald</persName> ikke uden Veltalenhed, <!-- cit start indsat -->»som om Samfundet bestod i vore
           Huses Mure eller vore Byers Volde, og som om der ikke overalt, hvor der fødes et Menneske,
           var en Fader, en Moder, et Barn, et Sprog, Himlen, Jorden, Gud og Samfundet.« Han lærer da
           sin Samtid, at det første Samfund var en Familie, og at i Familien er Magten ikke kaaret
@@ -2092,7 +2092,7 @@
         <p>Ikke nok med, at man selv havde gaaet deri, man vilde ogsaa have Slægten derhen. Tredie
           Del af <persName>Bonalds</persName> »<bibl>Législation primitive</bibl>« behandler særligt
           Opdragelsen og er særligt rettet mod <persName>Rousseau’s</persName>
-          <bibl>Émile</bibl>. Han kan ikke tilgive denne Bog at have lært, at man ikke bør give
+          »<bibl>Émile</bibl>«. Han kan ikke tilgive denne Bog at have lært, at man ikke bør give
           Barndommen en religiøs Opdragelse. Han citerer (med hellig Alvor) som Exempel paa de
           skjæbnesvangre Virkninger af <persName>Rousseau’s</persName> Opdragelsestheorier, at »75
           Børn i de sidste fem Maaneder ere blevne <pb n="117"/> dømte af Politiretten« for
