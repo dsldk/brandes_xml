@@ -1732,7 +1732,7 @@
           1824, at være Bourbonernes trofaste Tjener; det var en Rolle, han spillede saa alvorligt,
           og som saaledes var ham paatvungen af Omstændighederne, at han udførte den til
           Fuldkommenhed. Hvad den næste Generation angaaer, da har <persName>Lamartine</persName> i
-          Fortalen til sine »<bibl>Meditationer</bibl>« fortalt, hvorledes han som ung Gardeofficier
+          Fortalen til sine »<bibl xml:id="Oeuvres-de-Lamartine">Meditationer</bibl>« fortalt, hvorledes han som ung Gardeofficier
           galopperede ved Siden af <persName>Ludvig den 18des</persName> Vogn, naar denne drog fra
             <placeName>Paris</placeName> til <placeName>Versailles</placeName> eller <placeName>St.
             Germain</placeName>. <persName>De Vigny</persName> var ligeledes kongelig Officier og
@@ -1868,7 +1868,7 @@
           ført ud fra den moderne Tids Principer. <persName>Hegel</persName> indlod sig i sin Tid
           paa en saadan ved en ny Definition af Folkesouverainiteten, der indadtil blev bestemt som
           Statens Souverainitet, <note place="bottom"><persName>Hegel</persName>: Werke 8ter Band,
-              <bibl>Philosophie des Rechts</bibl> 367.</note> og <persName>Heiberg</persName>, der
+            »<bibl>Philosophie des Rechts</bibl>« 367.</note> og <persName>Heiberg</persName>, der
           gjerne sætter de Hegelske Tanker paa Spidsen, har i sin Afhandling »<bibl>Om
             Autoritet</bibl>« givet <persName>Hegels</persName> Idee den paradoxe og reactionære
           Form, at »om Borgerne ved Statens Udvikling komme i Besiddelse af flere Goder eller ikke,
@@ -1901,7 +1901,7 @@
         <p>I sin Ivren mod Samfundet lod <persName>Rousseau</persName> sig forlede til at sige:
           »Samfundet følger ikke af Menneskets Natur. – Alt, hvad der ikke ligger i Naturen, fører
           Ulemper med sig, og det borgerlige Samfund mere end alt det Øvrige.« – »Samfundet!«
-          udraaber <persName>Bonald</persName> ikke uden Veltalenhed, som om Samfundet bestod i vore
+          udraaber <persName>Bonald</persName> ikke uden Veltalenhed, <!-- cit start indsat -->»som om Samfundet bestod i vore
           Huses Mure eller vore Byers Volde, og som om der ikke overalt, hvor der fødes et Menneske,
           var en Fader, en Moder, et Barn, et Sprog, Himlen, Jorden, Gud og Samfundet.« Han lærer da
           sin Samtid, at det første Samfund var en Familie, og at i Familien er Magten ikke kaaret
@@ -2092,7 +2092,7 @@
         <p>Ikke nok med, at man selv havde gaaet deri, man vilde ogsaa have Slægten derhen. Tredie
           Del af <persName>Bonalds</persName> »<bibl>Législation primitive</bibl>« behandler særligt
           Opdragelsen og er særligt rettet mod <persName>Rousseau’s</persName>
-          <bibl>Émile</bibl>. Han kan ikke tilgive denne Bog at have lært, at man ikke bør give
+          »<bibl>Émile</bibl>«. Han kan ikke tilgive denne Bog at have lært, at man ikke bør give
           Barndommen en religiøs Opdragelse. Han citerer (med hellig Alvor) som Exempel paa de
           skjæbnesvangre Virkninger af <persName>Rousseau’s</persName> Opdragelsestheorier, at »75
           Børn i de sidste fem Maaneder ere blevne <pb n="117"/> dømte af Politiretten« for
@@ -2426,7 +2426,7 @@
           Ordet Hykleri skjøndt stygt er for grovt et Ord.</p>
         <p>Saaledes er denne Bog og saaledes blev den til. Dens colossale succès og dens uhyre
           Indflydelse give den en Betydning, som den ikke vilde <pb n="135"/> have ved sig selv. Den
-          var Øieblikkets Bog, den indsmuglede Antoritetsprincipet, som snart skulde bestige Tronen,
+          var Øieblikkets Bog, den indsmuglede Autoritetsprincipet, som snart skulde bestige Tronen,
           i en Emballage af Føleri. – Lad os da see dette Princip, udsondret fra Alt, hvad der kan
           tilhylle det, i et andet af Tidens Hovedværker, i <persName>Bonalds</persName> berømte Bog
             »<bibl>Le divorce</bibl>«, efter min Anskuelse det mest originale og mest interessante
@@ -2487,7 +2487,7 @@
           Philosophien, som overalt stiller Mennesket høiest, stadigt kryber for Fødderne af et
           eller andet Idol, i Asien for <persName>Muhameds</persName> Fødder, i Europa for
             <persName>Luthers</persName>, <persName>Rousseaus</persName> eller
-            <persName>Voltaires</persName> (»<bibl>Le
+          <persName>Voltaires</persName>«<!-- slut indsat --> (»<bibl>Le
           divorce</bibl>«<!-- cit start og slut indsat --> 42).</p>
         <p>Man seer, at <persName>Luther</persName> af <persName>Bonald</persName> uden videre
           stilles sammen med Antichristne som <persName>Muhamed</persName> eller
@@ -2504,8 +2504,8 @@
             Aragonien</persName> for at ægte <persName>Anna <pb n="139"/> Boleyn</persName>, og i
           Frankrig af <persName>Margrethe af Navarra</persName>, en Fyrstinde af mere end tvivlsomme
           Sæder. Saaledes gik Occidenten til Grunde ved Skilsmisse, som Orienten ved Polygami.« I
-          sin engelske Litteraturhistorie »<note place="bottom"
-            ><bibl>Oeuvres</bibl>«<!-- cit start og slut indsat --> Tome VI S. 75.</note> siger
+          sin engelske Litteraturhistorie <note place="bottom"
+            >»<bibl>Oeuvres</bibl>«<!-- cit start og slut indsat --> Tome VI S. 75.</note> siger
             <persName>Chateaubriand</persName> om <persName>Luthers</persName> Ægteskab: »Han
           giftede sig saavel for at give et godt Exempel som for at befrie sig for sine Anfægtelser.
           Den, som har overtraadt Reglerne, søger altid at trække de Svage efter sig og at dække sig
