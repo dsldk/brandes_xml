@@ -734,7 +734,7 @@
             key="johann-wolfgang-goethe">Goethes</persName> Modpol som senere Romantikernes. En
           Anekdote fra <pb n="34"/> den Tid vil give Dem et levende Indtryk heraf:<note
             place="bottom">Goethe: »<bibl xml:id="goethe-tag-und-jahreshefte">Tag- und Jahreshefte</bibl>« 1802. <persName
-              key="georg-waitz">G. Waitz</persName>: »<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste,-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>« II. 207. <persName
+              key="georg-waitz">G. Waitz</persName>: »<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>« II. 207. <persName
               key="rudolf-gottschall">Gotschall<!-- Gottschall - husk korrekt id --></persName> I.
             33.</note></p>
 
@@ -846,7 +846,7 @@
           Tydeligt nok har Publicums Uforstand drevet de store Digtere bort fra den profane Vei til
           Hæder, men da ogsaa omvendt den antikiserende Retning, de slog ind paa, været stigende
           Aarsag til deres Upopularitet. I <persName key="johann-wolfgang-goethe">Goethes</persName>
-          Liv findes egentlig kun to store succés: »<bibl xml:id="goethe-die-leiden-des-jungen-werthers-vol-1-2">Werther</bibl>« og »<bibl xml:id="goethe-hermann-und-dorothea">Hermann og
+          Liv findes egentlig kun to store succés: »<bibl n="goethe-die-leiden-des-jungen-werthers-vol-1-2">Werther</bibl>« og »<bibl n="goethe-hermann-und-dorothea">Hermann og
             Dorothea</bibl>«, hvilken sidste idylliske Digtning dæmpede Forbitrelsen over »<bibl xml:id="goethe-die-wahlverwandtschaften-vol-1-2">Die
             Wahlverwandtschaften</bibl>«, der gjennemgaaende opfattedes som et Forsvar for
           Immoraliteten og et Angreb paa Ægteskabet.</p>
@@ -2295,7 +2295,7 @@
             key="friedrich-schlegel;august-wilhelm-schlegel">Schlegelerne</persName>, <persName
             key="friedrich-wilhelm-joseph-von-schelling">Schelling</persName>, som ogsaa maatte
           bringes til at flytte herhen, og vi een Familie, leie et stort Logis, holde een Kokkepige
-          o. s. v.«<note place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste,-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«<!-- rettet --> I. 254, 259,
+          o. s. v.«<note place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«<!-- rettet --> I. 254, 259,
             261.</note> Det blev ved Projectet. <persName
             key="friedrich-schlegel;august-wilhelm-schlegel">Brødrene Schlegels</persName> Damer
           kunde ikke komme ud af det sammen. Men kommer det nu ikke som et Pust fra en anden Verden,
@@ -2307,7 +2307,7 @@
           mig. Det synes mig, at jeg selv ikke havde kunnet vælge mig nogen anden Helgen, hun passer
           ret for mig. Billederne og de katholske Sange have rørt mig saaledes, at jeg har
           besluttet, at naar jeg bliver Christen, vil jeg absolut blive Katholik.«<note
-            place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste,-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«<!-- rettet --> I. 293.</note> Ingensteds føler
+            place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«<!-- rettet --> I. 293.</note> Ingensteds føler
           man vel tydeligere end her den romantiske Aandsretnings religiøse Confusion. Man seer, at
           Katholicismen da spiller ganske samme Rolle som Grundtvigianismen senere her.</p>
 
@@ -2358,7 +2358,7 @@
               <rdg wit="A">Saint-Beuve</rdg>
             </app></persName><!-- rettet: Sainte-Beuve < Saint-Beuve ; (100,21) --> vilde have
           grebet det anderledes an. Men Originalen til dette Billede er den Kvinde, der siden
-          Udgivelsen af hendes Brevsamling med Titel »<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste,-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«, næsten som en Dronning
+          Udgivelsen af hendes Brevsamling med Titel »<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«, næsten som en Dronning
           kun gaaer under dette sit Fornavn, og som man lettest kalder saaledes, fordi hun har havt
           saa mange Efternavne, at man ei ret veed, hvorledes man skal betegne hende. Hun er født
             <persName key="caroline-schelling"
@@ -2428,7 +2428,7 @@
           Han er ikke forudindtaget for hende, han er ei langt fra at føle Ringeagt. Og under
           saadanne Forhold er det, at han skriver: <ref target="n758"/>»Denne Enfold og denne
           formeligt guddommelige Sands for Sandhed havde jeg aldeles ikke ventet.«<note
-            place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste,-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>« I.
+            place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>« I.
             347.<!-- rettet: 347. < 347,; fejl i OCR (103, noten) --></note>
           <ref target="n759"/>»Hun gjorde et meget levende Indtryk paa mig; jeg ønskede heftigt at
           turde stræbe efter Meddelelse og
@@ -2554,7 +2554,7 @@
           Samtykke. Det kom til Skilsmisse, og som <persName key="caroline-schelling"
             >Caroline</persName> siger: <ref target="n766"/>»vi løste et Baand, som vi altid havde
           betragtet os selv som Herre over« – die wir unter uns nie anders als wie ganz frei
-          betrachteten<note place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste,-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«<!-- rettet --> II. 237.</note>
+          betrachteten<note place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«<!-- rettet --> II. 237.</note>
           – og et nyt Ægteskab, der fra begge Sider var absolut lykkeligt, blev indgaaet.</p>
 
         <p> Høist interessant for Skolens Theorier og disses Overensstemmelse med Førernes Liv er
@@ -3066,8 +3066,8 @@
           sig i »<bibl xml:id="wackenroder-herzensergießungen-eines-kunstliebenden-klosterbruders">Klosterbroderens Hjerteudgydelser</bibl>«<!-- rettet --> den simple
           Selvbiographi, som tænkes forfattet af en ung Musiker, <persName type="fictional"
             key="joseph-berglinger">Joseph Berglinger</persName>, en Skikkelse, der i sin Finhed og
-          Blødhed har ikke ringe Lighed med den <ref target="n4353"/><persName Joseph
-          Delorme, under hvis Træk <persName key="charles-augustin-sainte-beuve"
+    Blødhed har ikke ringe Lighed med den <ref target="n4353"/><persName>Joseph
+	    Delorme</persName>, under hvis Træk <persName key="charles-augustin-sainte-beuve"
             >Sainte-Beuve</persName> som ung, begyndende Romantiker skildrede sig selv.<!--  --> <persName
             type="fictional" key="joseph-berglinger">Berglinger</persName> er <persName
             key="wilhelm-heinrich-wackenroder">Wackenroder</persName>. Som hin kjæmper han for at
@@ -3682,7 +3682,7 @@
           italienske Mesteres Storhed og sjælelige Høihed. Han forherliger f. Ex. <persName
             key="leonardo-da-vinci">Leonardo</persName>, dog ikke efter hans Eiendommelighed, ikke
           som dette bestemte Individ eller gjennem kunstforstandig Kritik, men under Titlen:
-          »<bibl xml:id="wackenroder-das-muster-eines-kunstreichen-und-dabey-tiefgelehrten-mahlers-vorgestellt-in-dem-leben-des-Leonardo-da-vinci-berühmten-stammvaters-der-florentiniſchen-schule">Mønsteret paa en kunstrig og tilmed høilærd Maler, fremstillet i <persName
+          »<bibl xml:id="wackenroder-das-muster-eines-kunstreichen-und-dabey-tiefgelehrten-mahlers-vorgestellt-in-dem-leben-des-Leonardo-da-vinci-beruhmten-stammvaters-der-florentinischen-schule">Mønsteret paa en kunstrig og tilmed høilærd Maler, fremstillet i <persName
               key="leonardo-da-vinci">Leonardo da Vincis</persName> Liv</bibl>«, og Afhandlingen
           indledes med disse sværmeriske Ord: <ref target="n851"/>»Den Tidsalder, da Malerkunsten
           gjenopstod i Italien, har bragt Mænd til Verden, til hvem vor Tid med Rette burde see op
@@ -3740,7 +3740,7 @@
           blevet adlet til Kunst. Her var hvert Hus et Mindesmærke om Fortiden, hver Brønd, hver
           Bænk et Vidnesbyrd om Fædrenes stille, simple og tankerige Liv. Endnu havde ingen bleg
           Overkalkning gjort Husene ens. De prangede stateligt med brogede Billeder, der vare laante
-          af Digtninge og Sagn. <ref target="n4357"/>Ottnit</persName><!--  --><!-- her: https://archive.org/details/heroesheroinesof00walsuoft --> og
+          af Digtninge og Sagn. <ref target="n4357"/><persName>Ottnit</persName><!--  --><!-- her: https://archive.org/details/heroesheroinesof00walsuoft --> og
             <ref target="n4356"/>Siegmot<!--  -->, <ref target="n4355"/>Dietrich<!--  --> og andre gammeltydske Helte stode ud<pb n="156"/>skaarne som
           Beskyttere og Vogtere over Dørene. Der hvilede over den gamle, ærværdige Rigsstad med dens
           Vidundere og Underligheder en Duft af Poesi, som Politikens og Oplysningens Trækvind paa
@@ -3754,7 +3754,7 @@
             Sachs's</persName> Grave, og idet en svunden Verden nu steg op for deres Blik, blev det
           gamle <placeName key="nurnberg">Nürnbergs</placeName> Liv af sig selv til en Kunstroman for dem. Det
           Afsnit i »<bibl xml:id="wackenroder-herzensergießungen-eines-kunstliebenden-klosterbruders">Hjerteudgydelserne</bibl>«<!-- rettet -->, som fører Titlen
-          »<bibl xml:id="wackenroder-ehrengedächtniß-unſers-ehrwürdigen-ahnherrn-albrecht-dürers"><persName key="albrecht-durer">Albrecht Dürer's</persName> Æresminde</bibl>«,
+          »<bibl xml:id="wackenroder-ehrengedächtniss-unsers-ehrwürdigen-ahnherrn-albrecht-dürers"><persName key="albrecht-durer">Albrecht Dürer's</persName> Æresminde</bibl>«,
           bliver det første Foster af disse Stemninger og samtidigt et Udtryk for den unge Mands
           varme Nationalfølelse. <ref target="n856"/>»Da Albrecht førte Penslen, da var Tydskeren
           endnu en eiendommelig og udpræget Charakter paa Verdensskuepladsen, og hans Billede
@@ -3804,7 +3804,7 @@
           sin Overflod paa Valdhornmusik.</p>
 
         <p> Det er derfor unægteligt en fin og slaaende Dom af <persName
-          key="johann-wolfgang-goethe">Goethe</persName>, som vi gjennem et af <bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste,-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Carolines
+          key="johann-wolfgang-goethe">Goethe</persName>, som vi gjennem et af <bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Carolines
             Breve</bibl> (I. 219) erfare. <persName key="johann-wolfgang-goethe">Goethe</persName>
           har sagt: <ref target="n860"/>»man burde egentlig heller kalde Bogen musikalske Van<pb
             n="159"/>dringer paa Grund af de mange musikalske Fornemmelser og Stemninger; Alt var i
@@ -6212,7 +6212,7 @@
         <p>
           <persName type="fictional" key="sophie">Sophie</persName> spiller <ref target="n1240"
           />samme Rolle i dette Digt som <persName type="fictional" key="beatrice"
-            >Beatrice</persName> i <bibl xml:id="dante-alighieri-la- divina-commedia"><persName key="dante-alighieri"
+            >Beatrice</persName> i <bibl xml:id="dante-alighieri-la-divina-commedia"><persName key="dante-alighieri"
           >Dantes</persName></bibl>.</p>
 
         <p> Ligesom nu Verdensskjæbnen er fremstillet her som et Eventyr, saaledes skulde i Romanen
@@ -7362,7 +7362,7 @@
             Fofnersbane</bibl>«<!-- rettet -->, anden Del »<bibl xml:id="sigurds-rache">Sigurds Hævn</bibl>«<!-- rettet -->,
           tredie Del »<bibl xml:id="aslauga">Aslaug</bibl>«<!-- rettet -->. Det er, som De seer, en dramatiseret
           Fremstilling af
-          <ref target="n4370">/»Vølsungasaga«<!--  --><!-- rettet ; ikke if. SS:4:464, men det er da en titel; ja, men får en kom i stedet for bibl ?!-->.
+          <ref target="n4370"/>»Vølsungasaga«<!--  --><!-- rettet ; ikke if. SS:4:464, men det er da en titel; ja, men får en kom i stedet for bibl ?!-->.
             <persName key="heinrich-heine">Heine</persName> siger herom: <ref target="n1329"
             />»<!-- rettet: TR: »»Sigurd < »Sigurd ; bringer orden i cit.tegn ; (307,10)-->»<bibl xml:id="sigurd-der-schlangentodter">Sigurd
             Fofnersbane</bibl>« er et dristigt Værk, hvori den gammelskandinaviske Heltesaga
@@ -7992,7 +7992,7 @@
           Udfordring. I alle hans Digtninge gjenfindes det sygelige Træk. Endog i
           »<bibl xml:id="kleist-michael-kohlhaas">Kohlhaas</bibl>«<!-- rettet: »Kohlhaas« < Kohlhaas ; (331,10) -->, der er saa
           berømt for sin Bestemthed, ender Alt i Drømmelivet. Tilsidst optræder en vidunderlig
-          Zigeunerske, der er <persName type="fictional" key="kleist-michael-kohlhaas">Kohlhaas's</persName> afdøde <persName type="fictional" key="kleist-michael-kohlhaas-lisbeth">Hustru, den
+          Zigeunerske, der er <persName type="fictional" key="kleist-michael-kohlhaas">Kohlhaas's</persName> afdøde <persName type="fictional" key="kleist-michael-kohlhaas-lisbeth">Hustru</persName>, den
           syge, halvt afsindige Kurfyrste og andre spøgelseagtige Skikkelser, der staae i den
           skarpeste Modsætning til det friske Dagslys i Fortællingens Begyndelse. »<bibl xml:id="kleist-die-heilige-cacilie-oder-die-gewalt-der-musik">Den hellige
             Cecilie</bibl>« fører os ind i Galehusets Mysterier, og Afsindigheden har her faaet en
