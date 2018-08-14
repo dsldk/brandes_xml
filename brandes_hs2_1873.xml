@@ -734,7 +734,11 @@
             key="johann-wolfgang-goethe">Goethes</persName> Modpol som senere Romantikernes. En
           Anekdote fra <pb n="34"/> den Tid vil give Dem et levende Indtryk heraf:<note
             place="bottom">Goethe: »<bibl xml:id="goethe-tag-und-jahreshefte">Tag- und Jahreshefte</bibl>« 1802. <persName
+<<<<<<< HEAD
+              key="georg-waitz">G. Waitz</persName>: »<bibl xml:id="schlegel-caroline-briefe">Caroline</bibl>« II. 207. <persName
+=======
               key="georg-waitz">G. Waitz</persName>: »<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>« II. 207. <persName
+>>>>>>> 52f2ade41ea3708ce5d4eeec78bf5fef95a610ca
               key="rudolf-gottschall">Gotschall<!-- Gottschall - husk korrekt id --></persName> I.
             33.</note></p>
 
@@ -2124,8 +2128,8 @@
             key="dorothea-schlegel">Dorothea</persName> end den ædle <persName
             key="friedrich-schleiermacher">Schleiermacher</persName>. I ingen af <persName
             key="friedrich-schlegel">Friedrichs</persName><!-- Schlegel --> Venner var
-            »<bibl xml:id="schlegel-lucinde">Lucinde</bibl>«<!-- rettet --> slaaet ned som i ham. Han var dengang Præst ved
-            <placeName>Charité-Kirken</placeName> i <placeName key="berlin">Berlin</placeName>. Allerede længe
+            »<bibl xml:id="schlegel-lucinde">Lucinde</bibl>«<!-- rettet --> slaaet ned som i ham. Han var dengang <reg target="n"/>Præst ved
+            Charité-Kirken<!--  --> i <placeName key="berlin">Berlin</placeName>. Allerede længe
           havde han med varm Sympathi, ja Beundring fulgt <persName key="friedrich-schlegel"
             >Friedrichs</persName><!-- Schlegel --> Emancipationsbestræbelser. I sin Afhandling
           »<bibl xml:id="schlegel-uber-die-diotima">Diotima</bibl>«, saavelsom i sin <ref target="n735"/>hvasse Bedømmelse af
@@ -2295,7 +2299,11 @@
             key="friedrich-schlegel;august-wilhelm-schlegel">Schlegelerne</persName>, <persName
             key="friedrich-wilhelm-joseph-von-schelling">Schelling</persName>, som ogsaa maatte
           bringes til at flytte herhen, og vi een Familie, leie et stort Logis, holde een Kokkepige
+<<<<<<< HEAD
+          o. s. v.«<note place="bottom">»<bibl xml:id="schlegel-caroline-briefe">Caroline</bibl>«<!-- rettet --> I. 254, 259,
+=======
           o. s. v.«<note place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«<!-- rettet --> I. 254, 259,
+>>>>>>> 52f2ade41ea3708ce5d4eeec78bf5fef95a610ca
             261.</note> Det blev ved Projectet. <persName
             key="friedrich-schlegel;august-wilhelm-schlegel">Brødrene Schlegels</persName> Damer
           kunde ikke komme ud af det sammen. Men kommer det nu ikke som et Pust fra en anden Verden,
@@ -2307,7 +2315,11 @@
           mig. Det synes mig, at jeg selv ikke havde kunnet vælge mig nogen anden Helgen, hun passer
           ret for mig. Billederne og de katholske Sange have rørt mig saaledes, at jeg har
           besluttet, at naar jeg bliver Christen, vil jeg absolut blive Katholik.«<note
+<<<<<<< HEAD
+            place="bottom">»<bibl xml:id="schlegel-caroline-briefe">Caroline</bibl>«<!-- rettet --> I. 293.</note> Ingensteds føler
+=======
             place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«<!-- rettet --> I. 293.</note> Ingensteds føler
+>>>>>>> 52f2ade41ea3708ce5d4eeec78bf5fef95a610ca
           man vel tydeligere end her den romantiske Aandsretnings religiøse Confusion. Man seer, at
           Katholicismen da spiller ganske samme Rolle som Grundtvigianismen senere her.</p>
 
@@ -2358,7 +2370,11 @@
               <rdg wit="A">Saint-Beuve</rdg>
             </app></persName><!-- rettet: Sainte-Beuve < Saint-Beuve ; (100,21) --> vilde have
           grebet det anderledes an. Men Originalen til dette Billede er den Kvinde, der siden
+<<<<<<< HEAD
+          Udgivelsen af hendes Brevsamling med Titel »<bibl xml:id="schlegel-caroline-briefe">Caroline</bibl>«, næsten som en Dronning
+=======
           Udgivelsen af hendes Brevsamling med Titel »<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«, næsten som en Dronning
+>>>>>>> 52f2ade41ea3708ce5d4eeec78bf5fef95a610ca
           kun gaaer under dette sit Fornavn, og som man lettest kalder saaledes, fordi hun har havt
           saa mange Efternavne, at man ei ret veed, hvorledes man skal betegne hende. Hun er født
             <persName key="caroline-schelling"
@@ -2428,7 +2444,11 @@
           Han er ikke forudindtaget for hende, han er ei langt fra at føle Ringeagt. Og under
           saadanne Forhold er det, at han skriver: <ref target="n758"/>»Denne Enfold og denne
           formeligt guddommelige Sands for Sandhed havde jeg aldeles ikke ventet.«<note
+<<<<<<< HEAD
+            place="bottom">»<bibl xml:id="schlegel-caroline-briefe">Caroline</bibl>« I.
+=======
             place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>« I.
+>>>>>>> 52f2ade41ea3708ce5d4eeec78bf5fef95a610ca
             347.<!-- rettet: 347. < 347,; fejl i OCR (103, noten) --></note>
           <ref target="n759"/>»Hun gjorde et meget levende Indtryk paa mig; jeg ønskede heftigt at
           turde stræbe efter Meddelelse og
@@ -2554,7 +2574,11 @@
           Samtykke. Det kom til Skilsmisse, og som <persName key="caroline-schelling"
             >Caroline</persName> siger: <ref target="n766"/>»vi løste et Baand, som vi altid havde
           betragtet os selv som Herre over« – die wir unter uns nie anders als wie ganz frei
+<<<<<<< HEAD
+          betrachteten<note place="bottom">»<bibl xml:id="schlegel-caroline-briefe">Caroline</bibl>«<!-- rettet --> II. 237.</note>
+=======
           betrachteten<note place="bottom">»<bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Caroline</bibl>«<!-- rettet --> II. 237.</note>
+>>>>>>> 52f2ade41ea3708ce5d4eeec78bf5fef95a610ca
           – og et nyt Ægteskab, der fra begge Sider var absolut lykkeligt, blev indgaaet.</p>
 
         <p> Høist interessant for Skolens Theorier og disses Overensstemmelse med Førernes Liv er
@@ -3804,7 +3828,11 @@
           sin Overflod paa Valdhornmusik.</p>
 
         <p> Det er derfor unægteligt en fin og slaaende Dom af <persName
+<<<<<<< HEAD
+          key="johann-wolfgang-goethe">Goethe</persName>, som vi gjennem et af <bibl xml:id="schlegel-caroline-briefe">Carolines
+=======
           key="johann-wolfgang-goethe">Goethe</persName>, som vi gjennem et af <bibl xml:id="caroline-briefe-an-ihre-geschwister-ihre-tochter-auguste-die-familie-gotter-F-L-W-Meyer-A-W-und-Fr-Schlegel-J-Schelling-u-a-vol-1-2">Carolines
+>>>>>>> 52f2ade41ea3708ce5d4eeec78bf5fef95a610ca
             Breve</bibl> (I. 219) erfare. <persName key="johann-wolfgang-goethe">Goethe</persName>
           har sagt: <ref target="n860"/>»man burde egentlig heller kalde Bogen musikalske Van<pb
             n="159"/>dringer paa Grund af de mange musikalske Fornemmelser og Stemninger; Alt var i
@@ -4110,12 +4138,12 @@
             >Tiecks</persName> eget Levnet. Læs i hans Biographi Fremstillingen af Opholdet i
           <placeName key="halle">Halle</placeName> 1792:<note place="bottom"><bibl xml:id="kopke-ludwig-tieck-erinnerungen-aus-dem-leben-des-dichters-vol-1-2">Köpke</bibl> I. 139.</note>
           <ref target="n885"/>»Hvor meget anderledes, rigere og venligere traadte ikke Naturen ham
-          imøde i den grønne <placeName>Saaledal</placeName> end paa de flade Heder om
+          imøde i den grønne <!-- ingen kom; blot et grønt område ved Saale, der løber gennem/forbi Halle -->Saaledal<!--  -->end paa de flade Heder om
             <placeName key="berlin">Berlin</placeName>. Med dobbelt Magt greb ham hin Følelse af uendelig
           Længsel, som indtil den smerteligste Ophidselse fyldte hans Hjerte, naar han om Foraaret
           streifede igjennem Skoven. Da vendte hin Naturdrukkenskab tilbage, en hemmelighedsfuld
           Magt syntes at drive ham frem. Intetsteds dvælede han hellere end paa den saakaldte
-            <placeName>Høltybænk</placeName> i Nærheden af <placeName>Giebichenstein</placeName>.
+          <ref target="n"/>Høltybænk<!--  --> i Nærheden af <placeName key="giebichenstein">Giebichenstein</placeName>.
           Herfra oversaa han Flod og Dal. Hvor ofte saa han ei Solen synke bag Aftenskyerne og
           Maanen i tusinde gyldne Straaler speile sig i de blidt bevægede Bølger og drømmerisk
           blinke gjennem Buske og Grene! Her har han hvilet mangen Sommernat og drukket Natur i
@@ -4340,15 +4368,15 @@
         <p> Jeg har nylig for at opfriske Erindringen atter tilbragt nogle Dage i den klare
           Bjergluft, skuende ud over <placeName key="bohmen">Böhmens</placeName> Klippeland og Høisletter, der
           ligne et Hav, af hvilket skarptrandede Bjerge dukke op som Øer, med uoverskuelig Rigdom af
-          Marker og granbevoxede Fjelde. Man gaaer gjennem <placeName>Uttenwalder Grund</placeName>
-          op paa <placeName>Bastei</placeName>. Dalen er indesluttet af høie, lagvis optaarnede
+          Marker og granbevoxede Fjelde. Man gaaer gjennem <placeName key="uttenwalder-grund">Uttenwalder Grund</placeName>
+          op paa <placeName key="bastei">Bastei</placeName>. Dalen er indesluttet af høie, lagvis optaarnede
           phantastiske Sandstensfjelde med Graner klyngende sig ind i hver Revne. Tidt ligger den
           øvre Del af Bjerget truende helt ud over den lavere og synes at ville falde ned. Mange
           underlige Luner af Naturen forekomme: Porte, endog tredobbelte Porte i Klippen. Naar man
           stiger op paa <placeName key="bastei">Bastei</placeName>, har man paa venstre Haand det vidunderlige
           Landskab, i hvilket de steile Klipper ligne uhyre Gravstene som paa en Jødekirkegaard, et
           forfærdeligt, tragisk Landskab, passende til Decoration for <ref target="n896"/>de døde
-          Nonners Dands i »<bibl xml:id="meyerbeer-robert-le-diable">Robert le diable</bibl>.« Fra <placeName>Bastei</placeName> har man
+          Nonners Dands i »<bibl xml:id="meyerbeer-robert-le-diable">Robert le diable</bibl>.« Fra <placeName key="bastei">Bastei</placeName> har man
           endelig lige for sig den uhyre Slette med sine steile Klippeøer – Klippefæstningen
             <placeName key="festung-konigstein">Königsstein</placeName> ligger paa en saadan – med lige, sikre Linier,
           haarde, uden ringeste malerisk Skjønhed. – <placeName key="kuhstall">Kuhstall</placeName> er en uhyre
@@ -4364,7 +4392,7 @@
           som Guldpletter. Ellers var der intet andet Gult end Lavarterne langs nogle Klippesider.
           Disse Klipper saae ud<!-- rettet: ud < nd ; fejl i tekst (182,17) -->, som om Kjæmper i
           Tidernes Morgen havde sloges med dem, ligesom Børn slaaes med Sten eller havde stablet dem
-          ovenpaa hverandre i Leg. Fra <placeName>Vinterbjerget</placeName> see Bjergene ud som
+          ovenpaa hverandre i Leg. Fra <placeName key="grosser-winterberg">Vinterbjerget</placeName> see Bjergene ud som
           Levninger af Cyclopernes By. Man seer f. Ex. en vældig Bjergside, steil og glat som en
           Mur, grandækket midt i et Landskab af umaadelig Vidde. <placeName key="prebischtor">Prebischthor</placeName>
           endelig er maaskee det skjønneste af det Alt. Atter der har Klippen dannet noget
@@ -8116,7 +8144,7 @@
           det afsindigste Liv, dagligt delt mellem de mest dyriske Udsvævelser og bræn<pb n="336"
           />dende Ekstase, mellem de gemeneste Sandsenydelser og Andagt og Bøn. Som Præst i
           <placeName key="wien">Wien</placeName> holdt han saa under uhyre Tilløb Prædikener i <persName key="abraham-a-santa-clara">Abraham a
-          Santa Claras</persName> Maneer, om hvilken <persName type="fictional">Munken</persName> i
+            Santa Claras</persName> Maneer, om hvilken <persName type="fictional" key="schiller-wallenstein-kapuziner">Munken</persName> i
           »<bibl xml:id="schiller-wallenstein">Wallenstein</bibl>«<!-- rettet: »Wallenstein« < Wallenstein ; (336,5) --> kan
           give Dem en Idee, fulde af den høieste Svulst og de platteste Cynismer og Obscøniteter, af
           Forbandelser mod Kjætterne og Lovprisninger af den hellige Rosenkrands.<note
@@ -8124,7 +8152,7 @@
           Skrifter, disse Skrifter, som i saa høi Grad imponerede de Samtidige, og som nærmest
           interessere os som Sygdomssymptomer. Han besidder store Egenskaber som Poet. Hans Vers ere
           altid høist melodiske og smigre Øret som sydlandsk Kirkemusik. Charaktererne ere ofte
-          dygtigt anlagte (se f. Ex. Skildringen af <persName type="fictional">Frantz af
+          dygtigt anlagte (se f. Ex. Skildringen af <persName type="fictional" key="werner-franz-von-poitou">Frantz af
             Poitou</persName> i 1ste og 2den Act af »<bibl xml:id="werner-die-templer-auf-cypern">Tempelherrerne paa Cypern</bibl>«), og
           Handlingen spænder og interesserer; men det Heles Kjærne, den tredobbelte: Vellyst,
           Religion og Grusomhed, er ildesmagende og usund. Hans første større Værk »<bibl xml:id="werner-die-sohne-des-thales">Die Söhne
@@ -8175,8 +8203,7 @@
         <p> Tempelherreordenen er geraadet i Forfald. Moderlogen beslutter derfor at tilintetgjøre
           den, og »Dalen« dømmer dens Stormester, den vidunderligt ædle og heltemodige <persName
             type="fictional" key="jakob-molay">Jacob Molay</persName> til Flammedøden, skjøndt han er aldeles uskyldig
-          i Ordenens Decadence, ja med yderste Energi har bekjæmpet den. <persName type="fictional"
-            >Erkebiskoppen</persName>, der leder Inqvisitionen imod ham, er overbevist om Anklagens
+          i Ordenens Decadence, ja med yderste Energi har bekjæmpet den. <persName type="fictional" key="werner-wilhelm-von-paris">Erkebiskoppen</persName>, der leder Inqvisitionen imod ham, er overbevist om Anklagens
           Uretfærdighed, elsker og beundrer Ridderen, – men han maa lyde høiere Instruxer. <persName
             type="fictional" key="jakob-molay">Molay</persName> selv staaer overfor Baalet saa rolig som <persName
             key="frederik-paludan-muller">Paludan-Müllers</persName>
@@ -8189,13 +8216,13 @@
           Høiagtelse. De ere blødagtige og grusomme Hængehoveder som <persName
             key="zacharias-werner">Werner</persName> selv. Det modbydeligt Rørende er udbredt over
           alle Stykkets Personer. Saaledes siger <persName type="fictional" key="jakob-molay">Molays</persName>
-          <persName type="fictional">gamle Vaabenkammerat</persName>, da han ei kan faae Lov til at
+          <persName type="fictional" key="werner-heinrich-von-brienne">gamle Vaabenkammerat</persName>, da han ei kan faae Lov til at
           befrie ham ved Retterstedet, (<ref target="n1701"/>»gutmüthig«):</p>
 
         <cit>
           <quote><lg>
-              <l>Du böser Jakob du! – Pfuy! sterben will er,</l>
-              <l>Verlassen seinen Waffenbruder! – Jakob!</l>
+            <l>Du böser <persName type="fictional" key="jakob-molay">Jakob</persName> du! – Pfuy! sterben will er,</l>
+            <l>Verlassen seinen Waffenbruder! – <persName type="fictional" key="jakob-molay">Jakob</persName>!</l>
               <l>Du musst nicht sterben! hörst Du?</l>
             </lg></quote>
         </cit>
@@ -8225,7 +8252,7 @@
           Munden knust med Næveslag, medens Nagler gjennembore den neppe mere Aandendes Fødder, og
           glødende Ertsstænger, lagte paa de bløde Steder, brænde sig dybt ind o. s. v.« I <persName
             key="zacharias-werner">Werners</persName> »<bibl xml:id="werner-attila-konig-der-hunnen">Attila</bibl>« bliver <persName
-            type="fictional">en ung Mand</persName>, som <persName type="fictional" key="attila"
+              type="fictional" key="werner-attila-wladimir">en ung Mand</persName>, som <persName type="fictional" key="attila"
             >Attila</persName> elsker, anklaget for Mened og tilstaaer sin Brøde. <persName
             type="fictional" key="attila">Attila</persName> omfavner ham under glødende Taarer og lader ham saa
           rive i Stykker af Heste. <persName type="fictional" key="attila">Attila</persName> er overhovedet
@@ -8262,14 +8289,14 @@
         <p> I <persName key="zacharias-werner">Werners</persName> sidste Tragoedie
           »<bibl xml:id="werner-die-mutter-der-makkabaer">Makkabæernes Moder</bibl>« behandlede han et Stof, der var som skabt til at give
           alle Martyrlegendernes Pinsler Rum, og som tilbød en Overflod af legemlige Kvaler og
-          hellige Ekstaser. Makkabæerinden <persName type="fictional">Salomes</persName> Sønner
-          skulle spise af <persName type="fictional">Zeus's</persName> Offerspiser eller henrettes
+          hellige Ekstaser. Makkabæerinden <persName type="fictional" key="werner-mutter-salome">Salomes</persName> Sønner
+          skulle spise af <!-- udgår: optræder ikke i teksten --><persName type="fictional"><!--  -->Zeus's<!--  --></persName><!--  --> Offerspiser eller henrettes
           paa den forfærdeligste Maade. Det komiske Motiv, at det betragtes som Livssag, om Børn
           smage paa nogen Mad eller ei, er behandlet med den høiest spændte Pathos. <persName
-            type="fictional">Salome</persName>
+            type="fictional" key="werner-mutter-salome">Salome</persName>
           <pb n="342"/> opfordrer i henrykte Ekstaser sine Børn, et for et, til at lade sig spidde,
-          flaae, brænde o. s. v. <persName type="fictional">Antiochus</persName> beundrer høiligt
-            <persName type="fictional">Salome</persName>, ja, denne sentimentale Overbøddel kaster
+          flaae, brænde o. s. v. <persName type="fictional" key="werner-mutter-antiochus-epiphanes">Antiochus</persName> beundrer høiligt
+          <persName type="fictional" key="werner-mutter-salome">Salome</persName>, ja, denne sentimentale Overbøddel kaster
           sig endog paa Knæ for hende med Ordene:</p>
 
         <cit>
@@ -8279,17 +8306,14 @@
             </lg></quote>
         </cit>
 
-        <p>Og <persName type="fictional">Salome</persName> er selv sentimental nok til at velsigne
-          ham. (4de Act, 2den Scene). Sønnen <persName type="fictional">Benoni</persName> faaer,
+        <p>Og <persName type="fictional" key="werner-mutter-salome">Salome</persName> er selv sentimental nok til at velsigne
+          ham. (4de Act, 2den Scene). Sønnen <persName type="fictional" key="werner-mutter-benoni">Benoni</persName> faaer,
           efter ligeledes at have velsignet sin Morder, Hænder og Fødder afhuggede, og bliver derpaa
-          kogt i Olie. Derpaa høres to stærke Øxeslag: det er <persName type="fictional"
-            >Abirs</persName> Fødder, som blive huggede af, <persName type="fictional"
-            >Juda</persName> bliver martret o. s. v. <persName type="fictional"
-          >Antiochus</persName>, den barbariske Konge, og <persName key="zacharias-werner"
+          kogt i Olie. Derpaa høres to stærke Øxeslag: det er <persName type="fictional" key="werner-mutter-abir">Abirs</persName> Fødder, som blive huggede af, <persName type="fictional" key="werner-mutter-juda">Juda</persName> bliver martret o. s. v. <persName type="fictional" key="werner-mutter-antiochus-epiphanes">Antiochus</persName>, den barbariske Konge, og <persName key="zacharias-werner"
             >Werner</persName>, den ligesaa barbariske Digter, lader Børnene blive radbrækkede Led
           for Led og saa Lemmerne afrive. Han skaaner os ikke for et eneste Ledemod. Under alt dette
           føler Moderen, som tvinges til at overvære Alt, kun Martyrfrydens høieste Vellyst, og da
-            <persName type="fictional">Antiochus</persName> nu anden Gang i sin vanvittige
+          <persName type="fictional" key="werner-mutter-antiochus-epiphanes">Antiochus</persName> nu anden Gang i sin vanvittige
           Sentimentalitet bøier sig for hende <ref target="n1708"/>»dybt bevæget« med Ordene:</p>
 
         <cit>
@@ -8312,9 +8336,9 @@
         <pb n="343"/>
 
         <p>Tilsidst aabner Baggrunden sig: Marterredskaberne, den uhyre Kjedel med kogende Olie, i
-          hvilken <persName type="fictional">Benoni</persName> ligger, præsenteres; hans Hustru
+          hvilken <persName type="fictional" key="werner-mutter-benoni">Benoni</persName> ligger, præsenteres; hans Hustru
           stirrer med Hovedet over Kjedlens Rand ned i den. Ved Siden deraf et brændende Baal.
-            <persName type="fictional">Salomes</persName> Aand aabenbarer sig over Flammerne og
+          <persName type="fictional" key="werner-mutter-salome">Salomes</persName> Aand aabenbarer sig over Flammerne og
           slukker Ilden.</p>
 
         <p> Man tænke sig, at der var en Tid, da dette syntes Poesi. <persName
