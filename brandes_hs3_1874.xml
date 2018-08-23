@@ -92,41 +92,9 @@
             </cit>
           </epigraph>
         </front>
-        <body>
-         
-                <epigraph>
-                    <cit>
-                        <quote>
-                            <lg>
-                                <l>
-                                    <pb n="[2]"/>
-                                    <ref target="n336"/>Hätt’ ich gezaudert zu werden,</l>
-                                <l>Bis man mir’s Leben gegönnt,</l>
-                                <l>Ich wäre noch nicht auf Erden,</l>
-                                <l>Wie ihr begreifen könnt,</l>
-                                <l>Wenn ihr seht, wie sie sich geberden.</l>
-                            </lg>
-                        </quote>
-                        <bibl>
-                            <persName key="johann-wolfgang-goethe">Goethe.</persName>
-                        </bibl>
-                    </cit>
-                </epigraph>
-            
-
-                <epigraph>
-                    <cit>
-                        <quote>
-                            <p>
-                                <ref target="n337"/>There is no philosophy possible, where fear of consequences is
-                a stronger principle than love of truth.</p>
-                        </quote>
-                        <bibl>
-                            <persName key="john-stuart-mill">John Stuart Mill.</persName>
-                        </bibl>
-                    </cit>
-                </epigraph>
-            
+       
+      <body>
+                    
             <div type="half-title">
                 <head>
                     <pb n="[3]"/>REACTIONEN I FRANKRIG.</head>
@@ -4465,11 +4433,8 @@
           i hvilket de kjæmpende Aander og Systemer laae bundne, man havde Lov til at discutere Alt:
           Revolutionen og Keiserdømmet, det 18de og det 19de Aarhundrede, Fortid, Nutid og
           Fremtid.</p>
-<<<<<<< HEAD
-        <p>Man havde Lov dertil, men havde man Lyst? Nei, Lysten var ringe. Frankrigs Stemning var
-=======
-                <p>Man havde Lov dertil, men havd e man Lyst? Nei, Lysten var ringe. Frankrigs Stemning var
->>>>>>> 426c52d7359bce64120d74af317d48f99d25b032
+
+              <p>Man havde Lov dertil, men havde man Lyst? Nei, Lysten var ringe. Frankrigs Stemning var
             <pb n="242"/> Stemningen efter en langvarig Sygdom eller efter et tabt Slag. Ikke at man
           længtes efter Seire. I Slutningen af <persName>Napoleons</persName> Regjering havde
           allerede Kanonen foran <placeName>Invalidehotellet</placeName> ikke mere vakt noget Echo i
@@ -4757,7 +4722,7 @@
           Jomfruelighed. »Jeg er Jomfru, <placeName>Seine</placeName>øens Jomfru; hvad enten jeg
           bevarer eller overtræder mit Løfte, døer jeg deraf, og Du er Skyld deri.« Hun behager vel
             <persName type="fictional">Eudorus</persName>, men han elsker hende ikke. Han staaer
-          overfor hende omtrent som pius Æneas overfor Dido, om hvem Digteren endog lader <persName type="fictional">Eudorus</persName> minde sine Tilhørere. Den Ulykkelige forsøger enhver
+                  overfor hende omtrent som pius <persName type="fictional">Æneas</persName> overfor <persName type="fictional">Dido</persName>, om hvem Digteren endog lader <persName type="fictional">Eudorus</persName> minde sine Tilhørere. Den Ulykkelige forsøger enhver
           Art Trolddom. Hun vil snige sig ind til ham med Maanens Straaler. Hun vil flyve ind i det
           Taarn, han beboer, vinde hans Kjærlighed under en fremmed Skikkelse, og vægrer sig dog
           selv af Skinsyge ved Tanken. <persName type="fictional">Eudorus</persName> deler ikke
@@ -4770,8 +4735,8 @@
           Undergang; thi den berøvede mig Resten af min Kraft.« Der er rent æsthetisk seet noget
           saare Uskjønt ved at høre en Mand udbrede sig saaledes over de haarde Kampe, han har
           bestaaet for at hævde sin Dyd, og <persName type="fictional">Eudorus’s</persName> Udbrud
-          af Skam og Anger klæde ham ikke. »O <persName type="fictional">Cyril</persName>, siger
-          han, hvorledes skal jeg fortsætte denne Fortælling, jeg rødmer af Skam og Forvirring.« Da
+                  af Skam og Anger klæde ham ikke. »O <persName type="fictional">Cyril</persName>,« siger
+                  han,<!-- cit start og slut indsat --> »hvorledes skal jeg fortsætte denne Fortælling, jeg rødmer af Skam og Forvirring.« Da
           endelig denne Ridder af den bedrøvelige Skikkelse er kommen saa vidt, at han, efter at
             <persName type="fictional">Velleda</persName> har forsøgt et Selvmord, ligger for hendes
           Fødder, saa kan han ikke nøies med mindre end at sætte hele Helvede i Bevægelse i den
@@ -4794,7 +4759,7 @@
           Associationen af Lidelse og Lyst, var dog dette saa lidet mente og følte Anathema endnu
           ikke udslynget over den jordiske Kjærlighed.</p>
                 <p>Man gjenfinder denne Opfattelse i <persName>De Vigny’s</persName> betydelige og skjønne
-          Ungdomsdigt »<bibl>e</bibl>«<!-- cit start og slut indsat -->, som skildrer, hvorledes
+          Ungdomsdigt »<bibl>Eloa</bibl>«<!-- cit start og slut indsat -->, som skildrer, hvorledes
           Mørkets Fyrste forfører en ung og deilig kvindelig Engel. Var Satan i
             »<bibl>Martyrerne</bibl>« en Revolutionær, saa er han her ikke meget forskjellig fra de
           Gamles Eros. Uden at nævne hvem han er, besnærer han ved sin Skjønhed og Veltalenhed
@@ -5966,8 +5931,8 @@
             underordnet Loven, Staten underordnet Kirken</emph>. I modsat Fald maatte man antage to
           uafhængige Magter, den ene Retfærdighedens og Sandhedens Bevarer, den anden blind og
           derfor efter sin Natur ødelæggende for Retfærdighed og Sandhed.«
-            <!-- cit start og slut indsat -->»<note place="bottom">Du progrès de la révolution et de
-            la guerre contre l’église.</note>« En stolt og det 19de Aarhundrede værdig
+                  <!-- cit start og slut indsat --><note place="bottom">»Du progrès de la révolution et de
+                    la guerre contre l’église.«</note> En stolt og det 19de Aarhundrede værdig
           Consequents!</p>
                 <p>Man lærer heraf, hvad Magt <persName>Lamennais</persName> vilde have den katholske Kirke
           tillagt. Vi have endnu tilbage at see Slutningsspringet, hvorved det bevises, at den
@@ -6340,7 +6305,7 @@
           Almisse i den, og Andre rakte ham et Crucifix, og han kyssede det. Og naar de Unge talte
           om Hæder, svarte man dem »Bliv Præster!«<!-- cit slut indsat --> og naar de talte om Ære,
           svarte man »Bliv Præster!«<!-- cit slut indsat --> og naar de talte om Haab, om Elskov, om
-          Kraft og Liv, bestandig: Bliv Præster!«<!-- cit slut indsat -->« <note place="bottom">
+          Kraft og Liv, bestandig: Bliv Præster!«<!-- cit slut indsat --> <note place="bottom">
                         <persName>Alfred de Musset</persName>: »<bibl>Confessions d’un enfant du
               siècle</bibl>«<!-- cit start og slut indsat -->.</note>
                 </p>
