@@ -89,7 +89,8 @@
     <body>
 
       <div>
-        <head><pb n="[3]"/>I. [<ref target="n2093"/>Psychologisk Litteraturbetragtning.]</head>
+        <head type="add">1. Psykologisk litteraturbetragtning</head>
+        <head><pb n="[3]"/>I.<ref target="n2093"/></head>
 
         <p>Det vil være mine Tilhørere bekjendt, hvorledes den første Række af disse Forelæsninger
           er bleven modtaget. Den Reaction, som det er min Agt at skildre og afsløre, har forsøgt at
@@ -564,8 +565,8 @@
       </div>
 
       <div>
-
-        <head> II. [<ref target="n2095"/>Romantikens negative Forberedelse, Subjectivisme.]</head>
+        <head type="add">2. Romantikkens negative forberedelse, subjektivisme</head>  
+        <head>II.<ref target="n2095"/></head>
 
         <p> Den, som ved Hjælp af Reiser og Bøger opnaaer et Indtryk af det nuværende Tydskland,
           kan, naar han seer tilbage til det Tydskland, der existerede for 80 Aar siden, ikke noksom
@@ -1306,7 +1307,8 @@
             >Linda</persName>.</p>
       </div>
       <div>
-        <head>III. [<ref target="n2100"/>Freigeisterei der Leidenschaft.]</head>
+        <head type="add">3. Freigeisterei der Leidenschaft</head>
+        <head>III.<ref target="n2100"/></head>
 
         <p> Jeg har skildret Dem, hvorledes Romantiken fra sin negative Side: Virkelighedsskyen og
           Vilkaarligheden var forberedt ved den ældre Litteratur, ved <persName
@@ -1607,7 +1609,8 @@
           med at udkaste revolutionære eller dog skandaløse Phantasier.</p>
       </div>
       <div>
-        <head>IV. [<ref target="n2101"/>Lucinde.]</head>
+        <head type="add">4. Lucinde</head>
+        <head>IV.<ref target="n2101"/></head>
 
         <p> I Juni 1801 stod en ung Mand paa et Katheder i <placeName key="jena">Jena</placeName> for at
           disputere for Doctorgraden. <pb n="71"/> Man chikanerede ham af alle Kræfter, ja hvad der
@@ -1780,7 +1783,8 @@
           ville tilbage, men frem.</p>
       </div>
       <div>
-        <head>V. [<ref target="n2103"/>Romantikernes sociale Forsøg.]</head>
+        <head type="add">5. Romantikernes sociale forsøg</head>
+        <head>V.<ref target="n2103"/></head>
 
         <p> Man træffer da altsaa i »<bibl n="schlegel-lucinde">Lucinde</bibl>«<!-- rettet --> i en Nød alle de
           Læresætninger, som senere i Romantikens Historie udfoldes og exemplificeres. I en
@@ -2650,9 +2654,9 @@
           christelige og saa katholske.</p>
       </div>
       <div>
-
-        <head>VI. [<ref target="n2108"/><persName key="friedrich-schleiermacher"
-            >Schleiermachers</persName> Breve.]</head>
+        
+        <head type="add">6. Schleiermachers breve</head>
+        <head>VI.<ref target="n2108"/></head>
 
         <p> Det var meget langt fra, at de forbundne Romantikere med Tilfredshed saa
             »<bibl n="schlegel-lucinde">Lucinde</bibl>« komme frem. Vi have seet, hvorledes <persName
@@ -2985,9 +2989,9 @@
           Tarv.</p>
       </div>
       <div>
-
-        <head>VII. [<persName key="wilhelm-heinrich-wackenroder"><ref target="n2109"
-            />Wackenroder</persName>.]</head>
+        
+        <head type="add">7. Wackenroder</head>
+        <head>VII.<ref target="n2109"/></head>
 
         <p> Den fine og redelige <persName key="friedrich-schleiermacher">Schleiermacher</persName>
           anvendte al sin Skarpsindighed paa at faae noget Helt og Fornuftigt ud af
@@ -3661,7 +3665,8 @@
 
       </div>
       <div>
-        <head>VIII. [<ref target="n2114"/>Forhold til Kunsten og Naturen. Landskabet.]</head>
+        <head type="add">8. Forhold til kunsten og naturen. Landskabet</head>
+        <head>VIII.<ref target="n2114"/></head>
 
         <p>
           <persName key="wilhelm-heinrich-wackenroder">Wackenroders</persName> <bibl n="wackenroder-phantasien-uber-die-kunst-fur-freunde-der-kunst">Bog</bibl>, der
@@ -4393,7 +4398,8 @@
           den romantiske Naturbetragtning.</p>
       </div>
       <div>
-        <head> IX. [<ref target="n2115"/>Romantisk Reflexion og Psychologi.]</head>
+        <head type="add">9. Romantisk refleksion og psykologi</head>
+        <head>IX.<ref target="n2115"/></head>
 
         <p> Har De nogensinde staaet i et Speilkabinet, seet Dem selv og alle Gjenstande fordoblede
           i det Uendelige ovenover, nedefter, til alle Sider? I saa Fald har De en Forestilling om
@@ -5076,8 +5082,8 @@
           naaet.</p>
       </div>
       <div>
-
-        <head>X. [<ref target="n2119"/>Det romantiske Gemyt.]</head>
+        <head type="add">10. Det romantiske gemyt</head>
+        <head>X.<ref target="n2119"/></head>
 
         <p> Er De nogensinde steget ned i et Bjergværk, har De af en Mand med en Fakkel ladet Dem
           hidse ned i en underjordisk Schacht, og ved Faklens usikre Skjær seet Dem om i Gruben? I
@@ -5913,7 +5919,8 @@
             >Shelley</persName> gjort, men <persName key="novalis">Novalis</persName> ikke.</p>
       </div>
       <div>
-        <head><pb n="247"/>XI. [<ref target="n2121"/>Længselen, den blaa Blomst.]</head>
+        <head type="add">11. Længslen, den blå blomst</head>
+        <head><pb n="247"/>XI.<ref target="n2121"/></head>
 
         <p> Jeg skildrede Dem det romantiske Gemyt som den dumpe Inderlighed uden Stræben og uden
           Tendents, som den gloende Ovn, i hvilken Friheden kvaltes, og enhver Retning udefter
@@ -6825,7 +6832,8 @@
 
       </div>
       <div>
-        <head><pb n="283"/>XII. [<ref target="n2124"/>Den romantiske Poesi og Politiken.]</head>
+        <head type="add">12. Den romantiske poesi og politikken</head>
+        <head><pb n="283"/>XII.<ref target="n2124"/></head>
 
         <p> I sin første Periode var Romantiken absolut upolitisk. Den forherliger som hos <persName
             key="novalis">Novalis</persName> det Bestaaende, den stiller sig underdanigt til Konge-
@@ -7378,7 +7386,8 @@
           politiske Tendents den samme.</p>
       </div>
       <div>
-        <head>XIII. [<ref target="n2130"/>Mystiken i det romantiske Drama.]</head>
+        <head type="add">13. Mystikken i det romantiske drama</head>
+        <head>XIII.<ref target="n2130"/></head>
 
         <p> Der gives en Digtart, i hvilken Mennesket fortrinsvis fremstilles fra den Side, fra
           hvilken dets Væsen er Frihed og Aand: det er Dramet. I den lyriske Poesi er det
@@ -8349,7 +8358,8 @@
         </p>
       </div>
       <div>
-        <head><pb n="345"/>XIV. [<ref target="n2132"/>Romantisk Politik.]</head>
+        <head type="add">14. Romantisk politik</head>
+        <head><pb n="345"/>XIV.<ref target="n2132"/></head>
 
         <p>
           <persName key="joseph-von-gorres">Görres</persName> siger i sin »<bibl n="gorres-die-christliche-mystik-vol-1-4">Christelige
@@ -9095,6 +9105,7 @@
           vi i Tide vilde besinde os og vise os forstandigere end hine Oldtidens Folk!</p>
       </div>
       <div>
+        <head type="add">Efterskrift til hr. professor H. Brøchner</head>
         <head><pb n="379"/>Efterskrift</head>
 
         <head type="sub">til Hr. Professor <persName key="hans-brochner">H.
