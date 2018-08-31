@@ -88,11 +88,13 @@
     </front>
     <body>
       <div type="half-title">
+        <head type="add">Den romantiske skole i Frankrig</head>
         <head><pb n="[3]"/>Den romantiske Skole i Frankrig</head>
       </div>
 
       <div>
-        <head><pb n="[5]"/>I. [Den politiske Baggrund]</head>
+        <head type="add">1. Den politiske baggrund</head>
+        <head><pb n="[5]"/>I.</head>
 
         <p>I Aarene 1824-48 frembringes i Frankrig en stor og beundringsværdig Literatur. Efter
           Revolutionens Omvæltninger, <ref target="n1597"/>Keiserdømmets Krige og Trætheden under
@@ -288,8 +290,8 @@
           maatte synes trøstesløst.</p>
       </div>
       <div>
-
-        <head>II. [Slægten fra 1830]</head>
+        <head type="add">2. Slægten fra 1830</head>
+        <head>II.</head>
 
         <p>Paa denne Baggrund af Graat i Graat, paa denne Folie af Restaurationstidens Kutter og
           Julikongedømmets Paraplyer, i dette Samfund, hvor Kapitalmagten, stærk som Herkules, alt
@@ -565,7 +567,8 @@
           velsigner Menneskeheden, der for sent erkjender dets Værd.</p>
       </div>
       <div>
-        <head>III. [Romantismen]</head>
+        <head type="add">3. Romantismen</head>
+        <head>III.</head>
 
         <p>Romantismen var fra først af i sit Væsen en local Befrielseskrig. Man sværmede for
           Middelalderen, som det attende Aarhundrede havde lyst i Kulturens Ban, og for det sextende
@@ -1039,8 +1042,8 @@
           seer man ligesom de Pile flyve, der vise de aandelige Strømningers Gang.</p>
       </div>
       <div>
-
-        <head>IV. [Charles Nodier]</head>
+        <head type="add">4. Charles Nodier</head>
+        <head>IV.</head>
 
         <p>Fra 1824 af gaves der i en Udkant af <placeName>Paris</placeName> helt ude ved
             <placeName>Arsenalet</placeName> en beskeden Salon, der gik under Navn af de smaa
@@ -1430,7 +1433,8 @@
             n="69"/></p>
       </div>
       <div>
-        <head>V. [Tilbageblik. Fremmede Forudsætninger]</head>
+        <head type="add">5. Tilbageblik. Fremmede forudsætninger</head>
+        <head>V.</head>
 
         <p>Det nye digteriske og kunstneriske Gjennembrud havde fremmede og indenlandske Kilder.
           Paavirkningen fra Udlandet er den mest iøinefaldende.</p>
@@ -1903,7 +1907,8 @@
           kunstneriske Uanfægtelighed, som fremtraadte i den tydske Digters senere Leveaar.</p>
       </div>
       <div>
-        <head>VI. [Tilbageblik. Indenlandske Forudsætninger]</head>
+        <head type="add">6. Tilbageblik. Indenlandske forudsætninger</head>
+        <head>VI.</head>
 
         <p>Det var dog ikke Indtryk fra Udlandet, der bidroge mest til den store poetiske
           Renaissance. Nei, det var Gjenfindelsen, Opdagelsen af en national Storhed, hvis
@@ -2304,7 +2309,8 @@
           Basreliefets skjønne Linier, usammensatte Farver og strenge Form.</p>
       </div>
       <div>
-        <head>VII. [De Vigny’s Poesier og Hugos østerlandske Digte]</head>
+        <head type="add">7. De Vignys poesier og Hugos østerlandske digte</head>
+        <head>VII.</head>
 
         <p>Den Digter, der tidligst røber Paavirkning af <persName>Chénier</persName> var en af
           Skolens kunstnerisk dristigste Aander, en af dens oprindelige Førere, <persName>Alfred de
@@ -2553,7 +2559,8 @@
           og – slutter han – Alt dette udgjør en Stjerne paa Himlen.</p>
       </div>
       <div>
-        <head>VIII. [Hugo og Musset]</head>
+        <head type="add">8. Hugo og Musset</head>
+        <head>VIII.</head>
 
         <p>Neppe havde <persName>Hugo</persName> fuldendt »<bibl>Orientalerne</bibl>« før han
           begyndte paa en Digtsamling, der udgjør den fuldstændigste Modsætning til dem.
@@ -2982,8 +2989,8 @@
           Tidsalderens Følelser og Ideer – han er den fødte og den blivende Fører.</p>
       </div>
       <div>
-
-        <head>IX. [Musset og George Sand]</head>
+        <head type="add">9. Musset og George Sand</head>
+        <head>IX.</head>
 
         <p>Nogle faa Aar ind i Trediverne – og man kan sige, at den af <persName>Hugo</persName> og
           hans Venner ledede litterære Revolution havde seiret, men den havde <pb n="144"/> seiret
@@ -3409,7 +3416,8 @@
           af helt Mand, helt Aand.</p>
       </div>
       <div>
-        <head>X. [Alfred de Musset]</head>
+        <head type="add">10. Alfred de Musset</head>
+        <head>X.</head>
 
         <p><persName>Alfred de Musset</persName> blev 47 Aar gammel, men med Undtagelse af tre
           yndige smaa Dramer og nogle Digte falder hans hele Production før hans <pb n="166"/>
@@ -3759,7 +3767,8 @@
           Tendenser. Da han døde i 1857, havde han allerede i adskillige Aar overlevet sin Muse.</p>
       </div>
       <div>
-        <head>XI. [George Sand]</head>
+        <head type="add">11. George Sand</head>
+        <head>XI.</head>
 
         <p>»Jeg troer«, siger <persName>George Sand</persName> i Indledningen til »<bibl>La mare au
             diable</bibl>«<!-- cit start og slut indsat -->, »at Kunstens Sendelse er en Følelsens
@@ -4551,7 +4560,8 @@
           nittende Aarhundredes Hyrdedigt.</p>
       </div>
       <div>
-        <head>XII. [Balzac (1)]</head>
+        <head type="add">12. Balzac (1)</head>
+        <head>XII.</head>
 
         <p>Overfor hende og hendes Digtning hæver sig nu i Samtiden den Mand, hvis Kunst hun selv
           definerede som Modsætningen til hendes. Medens hun, i dette Punkt ægte romantisk, med
@@ -4905,8 +4915,8 @@
           Taknemmelighed, der hos ham er Kjærlighedens Form.</p>
       </div>
       <div>
-
-        <head>XIII. [Balzac (2)]</head>
+        <head type="add">13. Balzac (2)</head>
+        <head>XIII.</head>
 
         <p>Hans første Forbillede som Forfatter var, som alt berørt, en Digter, om hvem han sikkert
           ikke har mindet nogen og hvem han i sin Modenheds Aar staaer uendelig fjernt, nemlig
@@ -5049,7 +5059,8 @@
           bleven opfattet som den skjønne Løgns.</p>
       </div>
       <div>
-        <head>XIV. Balzac (3)</head>
+        <head type="add">14. Balzac (3)</head>
+        <head>XIV.</head>
 
         <p>Dog <persName>Balzac</persName> var endnu ung; ogsaa hans, saa tidligt vintervante
           Digtersjæl havde sit Foraar; ogsaa han følte Kald til at gjøre Kjærligheden og Kvinden til
@@ -5202,8 +5213,8 @@
           Egoismens og Lasternes Afgrunde aabne sig for Læserens Øine.</p>
       </div>
       <div>
-
-        <head>XV. [Balzac (4)]</head>
+        <head type="add">15. Balzac (4)</head>
+        <head>XV.</head>
 
         <p>Blandt de af <persName>Balzac</persName> i Aarene 1833 og 1834 udgivne Bøger, fortjene
           især to at fremhæves, den fine og klassiske Fortælling »<bibl>Eugénie Grandet</bibl>« og
@@ -5353,8 +5364,8 @@
             >Goneril</persName> menneskeligere og sandere end den store Britte. <pb n="265"/></p>
       </div>
       <div>
-
-        <head>XVI. [Balzac (5)]</head>
+        <head type="add">16. Balzac (5)</head>
+        <head>XVI.</head>
 
         <p>En Dag i 1836 traadte <persName>Balzac</persName> i den høieste Oprømthed ind hos sin
           Søster, svang med en Tambourmajors Armbevægelser sin tykke Stok med Karneolknappen, i
@@ -5700,7 +5711,8 @@
           Sindsligevægt, har her pidsket med Skorpioner.</p>
       </div>
       <div>
-        <head>XVII. [Balzac (6)]</head>
+        <head type="add">17. Balzac (6)</head>
+        <head>XVII.</head>
 
         <p><persName>Michelet</persName> daterer i sin »<bibl>Frankrigs
           Historie</bibl>«<!-- cit start og slut indsat --> en ny Epoche i det franske Aandsliv fra
@@ -5845,7 +5857,8 @@
           anerkjende hans Geni.</p>
       </div>
       <div>
-        <head>XVIII. [Beyle (1)]</head>
+        <head type="add">18. Beyle (1)</head>
+        <head>XVIII.</head>
 
         <p>Side om Side med <persName>Balzac</persName> sees fra vore Dages Synspunkt en anden
           fransk Forfatter, hvem i Datiden Ingen faldt paa at sidestille med ham og hvis litterære
@@ -6236,7 +6249,8 @@
         </p>
       </div>
       <div>
-        <head><pb n="309"/>XIX. [Beyle (2)]</head>
+        <head type="add">19. Beyle (2)</head>
+        <head><pb n="309"/>XIX.</head>
 
         <p><persName>Henri Beyle</persName> er uden Tvivl en af de mest sammensatte Aander i hin
           rige Periode. Det Grundtræk, som skarpest skiller ham fra hans Omgivelser blandt de
@@ -6609,7 +6623,8 @@
           paa samme Tid saa lidet aaben og ligefrem.</p>
       </div>
       <div>
-        <head>XX. [Beyle (3)]</head>
+        <head type="add">20. Beyle (3)</head>
+        <head>XX.</head>
 
         <p>Før 1830 har <persName>Beyle</persName> af poetiske Arbeider ikke udgivet stort mere end
           Romanen »<bibl>Armance</bibl>« (1827), en mislykket Bog, hvis Helt, en begavet ung Mand,
@@ -6973,7 +6988,8 @@
           Vigtigmageri.</note></p>
       </div>
       <div>
-        <head>XXI. [Mérimée (1)]</head>
+        <head type="add">21. Mérimée (1)</head>
+        <head>XXI.</head>
 
         <p>De Nulevende, der i <persName>Victor Hugo’s</persName> »<bibl>Histoire d’un crime</bibl>«
           have læst de haanlige Ord om <persName>Mérimée</persName> og som ere tilbøielige til i
@@ -7189,7 +7205,8 @@
           Farver udførte, Selvskildring.</p>
       </div>
       <div>
-        <head>XXII. [Beyle og Mérimée]</head>
+        <head type="add">22. Beyle og Mérimée</head>
+        <head>XXII.</head>
 
         <p>Saaledes forberedt lærte <persName>Mérimée</persName> i sit nittende Aar den tyve Aar
           ældre <persName>Henri Beyle</persName> at kjende hos den berømte Sangerinde
@@ -7597,7 +7614,8 @@
           </app> kunstnerisk Form.</p>
       </div>
       <div>
-        <head>XXIII. [Mérimée (2)]</head>
+        <head type="add">23. Mérimée (2)</head>
+        <head>XXIII.</head>
 
         <p><persName>Mérimée’s</persName> Udgangspunkt som Dramatiker og Novellist er et literært
           polemisk. Skjøndt han er anlagt til Iagttager, forfølger han ikke – som
@@ -7811,8 +7829,8 @@
           for sin antikirkelige Vens Frelse. <pb n="388"/></p>
       </div>
       <div>
-
-        <head>XXIV. [Mérimée (3)]</head>
+        <head type="add">24. Mérimée (3)</head>
+        <head>XXIV.</head>
 
         <p>Da <persName>Mérimée</persName> som Digter debuterede i spansk Forklædning, var man i den
           klassiske dramatiske Litteratur kommet saa vidt, at Personerne i et Drama som Brikkerne i
@@ -8046,8 +8064,8 @@
           videst drevne Selvfølelse isolerer den, der benytter den som Form.</p>
       </div>
       <div>
-
-        <head>XXV. [Mérimée (4)]</head>
+        <head type="add">25. Mérimée (4)</head>
+        <head>XXV.</head>
 
         <p>Hans Væsens Form er den strenge eller spotske Forbeholdenhed. Den aabenbarer sig
           tydeligst i den officielle Del af hans Forfatterskab, i hans knappe, i Fagord sig
@@ -8255,8 +8273,8 @@
           Contrasten som kunstnerisk Virkemiddel.</p>
       </div>
       <div>
-
-        <head>XXVI. [Mérimée og Gautier]</head>
+        <head type="add">26. Mérimée og Gautier</head>
+        <head>XXVI.</head>
 
         <p>I et Brev fra 22. November 1821 skriver Maleren
           <persName>Mérimée</persName><!-- Mérimée, Léonor -->: »Jeg har en stor Søn paa atten Aar,
@@ -8441,8 +8459,8 @@
           er den sorte Ridder i den store romantiske Turnering.</p>
       </div>
       <div>
-
-        <head>XXVII. [Th. Gautier (1)]</head>
+        <head type="add">27. Th. Gautier (1)</head>
+        <head>XXVII.</head>
 
         <p>En af de første Dage i 1830 gik tre unge Mennesker ned ad en nys afstukken Gade ved
             <placeName>Champs Élysées</placeName> i <placeName>Paris</placeName> henimod et
@@ -8785,8 +8803,8 @@
         <p>Det gjælder om Vers, som dem, han skrev.</p>
       </div>
       <div>
-
-        <head>XXVIII. [Th. Gautier (2)]</head>
+        <head type="add">28. Th. Gautier (2)</head>
+        <head>XXVIII.</head>
 
         <p>Vil man have et livfuldt og overgivent Billede af den unge romantiske Zigeunerbande, <pb
             n="435"/> der sluttede sig til <persName>Hugo</persName>, et Billede, der udmærker sig
@@ -9088,8 +9106,8 @@
             <persName>Victor Hugo’s</persName> »<bibl>Hernani</bibl>«.</p>
       </div>
       <div>
-
-        <head>XXIX. [Sainte-Beuve (1)]</head>
+        <head type="add">29. Sainte-Beuve (1)</head>
+        <head>XXIX.</head>
 
         <p>Medens <persName>Théophile Gautiers</persName> litteraturkritiske Arbeider, saa stor en
           Plads de end indtage i hans hele Production, næsten allerede ere gaaede i Glemme for hvad
@@ -9486,8 +9504,8 @@
           af er Sainte-Benve udelukkende Kritiker.</p>
       </div>
       <div>
-
-        <head>XXX. [Sainte-Beuve (2)]</head>
+        <head type="add">30. Sainte-Beuve (2)</head>
+        <head>XXX.</head>
 
         <p>Det var <persName>Sainte-Beuves</persName> egentlige og større Kald, der førte ham bort
           fra Digtekunsten. Det førte ham ikke bort fra Poesien. Poesien blev fra nu af en
@@ -9668,8 +9686,8 @@
           male.</p>
       </div>
       <div>
-
-        <head>XXXI. [Sainte-Beuve og den moderne Kritik]</head>
+        <head type="add">31. Sainte-Beuve og den moderne kritik</head>
+        <head>XXXI.</head>
 
         <p>Det største sammenhængende Værk, <persName>Sainte-Beuve</persName> har skrevet, er
             »<bibl>Port-Royal</bibl>« (1840-59). Det er i sin Art enestaaende. Med den Ulyst til at
@@ -10000,8 +10018,8 @@
           Magts og den døde Overleverings Bjerge.</p>
       </div>
       <div>
-
-        <head>XXXII. [Dramet: Vitet, Dumas, de Vigny, Hugo]</head>
+        <head type="add">32. Dramaet: Vitet, Dumas, de Vigny, Hugo</head>
+        <head>XXXII.</head>
 
         <p>Medens den romantiske Skoles Triumfer i Lyriken, Romanen, Novellen og Kritiken snart <pb
             n="498"/> stode som uomtvistelige, formaaede den paa et enkelt Omraade ikke at
@@ -10530,8 +10548,8 @@
           hvilket det romantiske Drama havde overlevet sig selv.</p>
       </div>
       <div>
-
-        <head>XXXIII. [Den socialpolitiske Ideebevægelse og Poesien]</head>
+        <head type="add">33. Den socialpolitiske idebevægelse og poesien</head>
+        <head>XXXIII.</head>
 
         <p>Man kan sammenligne det Arbeide, der fuldføres af en stor litterær Skole som den
           romantiske i Frankrig, med Opførelsen af en hel By; kun at man bygger, som altid i
@@ -11242,8 +11260,8 @@
           1848 udmunder det romantiske Frankrigs Ideestrøm.</p>
       </div>
       <div>
-
-        <head>XXXIV. [De oversete og Glemte]</head>
+        <head type="add">34. De oversete og glemte</head>
+        <head>XXXIV.</head>
 
         <p>Naar man overskuer en Litteratur en halv Snes Aar efter at et stærkt Gjennembrud har
           fundet Sted, i det Øieblik, da den nye Epoches Hær har vundet Slaget, da bliver man
@@ -11828,8 +11846,8 @@
           enfants perdus.</p>
       </div>
       <div>
-
-        <head>XXXV. [Slutning]</head>
+        <head type="add">35. Slutning</head>
+        <head>XXXV.</head>
 
         <p>Saadan var denne Skole, dens Triumfatorer og dens Ulykkelige, dens kunstnerisk og dens
           menneskeligt begeistrede. Saaledes opstod den; saaledes blev den stor ved en uhyre Sum af
