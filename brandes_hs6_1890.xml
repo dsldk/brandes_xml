@@ -77,13 +77,14 @@
 
         <body>
 
-            <div type="half-title">
+            <!--  <div type="half-title">
                 <head><pb n="[3]"/>Det unge Tyskland</head>
-            </div>
+            </div>--><!-- forekommer ikke i 1.-trykket -->
 
 
             <div>
-                <head>I. <ref target="n"/>[Den politiske Baggrund.]</head>
+                <head type="add">1. Den politiske baggrund</head>
+                <head>I.<ref target="n"/></head>
 
                 <p> Over de tyske Lande rugede fra <ref target="n1879"/>den hellige
                     Alliances<!-- lemma slut --> Dage af den store systematiske Reaktion, som var
@@ -574,7 +575,8 @@
                     Lystenhed.</p>
             </div>
             <div>
-                <head>II. [Videnskab og Reaktion.]</head>
+                <head type="add">2. Videnskab og reaktion</head>
+                <head>II.</head>
 
                 <p> Den tyske Videnskab, der efterat Romantikens Oversvømmelser havde befrugtet
                     Jordsmonet med sit Dynd, var skudt mægtigt i Vejret med alle sine Grene,
@@ -712,7 +714,8 @@
                     eller maatte synes mere fransk end tysk.</p>
             </div>
             <div>
-                <head>III. [Oppositionel Grundstemning.]</head>
+                <head type="add">3. Oppositionel grundstemning</head>
+                <head>III.</head>
 
                 <p> I de fremragende blandt denne Tidsalders frihedselskende Digtere og Skribenter
                     personificeres forskjellige af de nu berørte Afskygninger. <persName
@@ -826,7 +829,8 @@
                     Regelen den, som greb Sindene stærkest.</p>
             </div>
             <div>
-                <head>IV. [Julirevolutionens Indflydelse.]</head>
+                <head type="add">4. Julirevolutionens indflydelse</head>
+                <head>IV.</head>
 
                 <p> I denne Stillestaaen, denne Undertrykthed og denne Gjæring, med Elementer af
                     Selvopgiven og Haab, af Selvbespotten og Frihedsattraa, faldt nu i 1830 <ref
@@ -1256,8 +1260,8 @@
                     ogsaa i det tyske Folks politiske og aandelige Liv.</p>
             </div>
             <div>
-                <head>V. [Paavirkning af <persName key="george-gordon-byron"
-                    >Byron</persName>.]</head>
+                <head type="add">5. Påvirkning af Byron</head>
+                <head>V.</head>
 
                 <p> Tysklands klassiske Litteratur fra Tiden før og om Aarhundredeskiftet havde
                     været antikiserende i Stof eller Form; den romantiske Litteratur, som fulgte,
@@ -1400,7 +1404,8 @@
                     ledende Personligheders Sind.</p>
             </div>
             <div>
-                <head>VI. [Den ny Litteraturs Værdi.]</head>
+                <head type="add">6. Den nye litteraturs værdi</head>
+                <head>VI.</head>
 
                 <p> Under Forhold og Indflydelser som de fremstilte var det nu, at Tysklands
                     oppositionelle Litteratur mellem 1820 og 1848 blev startet. Naar man overskuer
@@ -1545,7 +1550,8 @@
                     er blevet af det Bedste, disse kjæmpede for. </p>
             </div>
             <div>
-                <head><pb n="53"/>VII. [<persName key="ludwig-borne">Börne</persName>.]</head>
+                <head type="add">7. Börne (1)</head>
+                <head><pb n="53"/>VII.</head>
 
                 <p> Blandt de Forfattere, som i Datiden stode i første Række, er neppe nogen bleven
                     skudt til Side som <persName key="ludwig-borne">Ludwig Börne</persName>. De
@@ -2686,8 +2692,8 @@
                         n="lamennais-paroles-dun-croyant">En Troendes Ord</bibl>«.</p>
             </div>
             <div>
-                <head>VIII. [<persName key="ludwig-borne">Börne</persName> og <persName
-                        key="wolfgang-menzel">Menzel</persName>.]</head>
+                <head type="add">8. Börne og Menzel</head>
+                <head>VIII.</head>
 
                 <p> Uden denne Mangel paa poetisk-kunstnerisk Modtagelighed vilde <persName
                         key="ludwig-borne">Börnes</persName> Deltagelse i den af flere blandt
@@ -3119,7 +3125,8 @@
                         key="johann-wolfgang-goethe">Goethe</persName>.</p>
             </div>
             <div>
-                <head><pb n="110"/> IX. [<persName key="ludwig-borne">Börne</persName>.]</head>
+                <head type="add">9. Börne (2)</head>
+                <head><pb n="110"/>IX.</head>
 
                 <p>
                     <persName key="ludwig-borne">Börne</persName> kulminerer som Forfatter med sine
@@ -3381,7 +3388,8 @@
                     meddele <persName key="ludwig-borne">Börne</persName> Vidnesbyrdene derom.</p>
             </div>
             <div>
-                <head>X. [<persName key="ludwig-borne">Börne</persName>.]</head>
+                <head type="add">10. Börne (3)</head>
+                <head>X.</head>
 
                 <p>
                     <ref target="n1369"/>Oprøret i Polen, der varede fra Vinteren 1830 til Sommeren
@@ -4069,7 +4077,8 @@
                     lignende Omfang eller paa samme Maade som sin store Forgjænger.</p>
             </div>
             <div>
-                <head>XI. [<persName key="heinrich-heine">Heine</persName>.]</head>
+                <head type="add">11. Heine (1)</head>
+                <head>XI.</head>
 
                 <p> Ogsaa for <persName key="heinrich-heine">Heinrich Heine</persName> er, som alt
                     berørt, i det nye tyske Rige Øjeblikket lidet gunstigt. Hvad man har at bebrejde
@@ -4678,7 +4687,8 @@
                     Middelmaadigheds Alter.</p>
             </div>
             <div>
-                <head>XII. [<persName key="heinrich-heine">Heine</persName>.]</head>
+                <head type="add">12. Heine (2)</head>
+                <head>XII.</head>
 
                 <p> Den sandsynligste Datum for <persName key="heinrich-heine">Heinrich
                         Heines</persName> Fødsel er 13. December <app>
@@ -4978,7 +4988,8 @@
                     store digteriske Evner.</p>
             </div>
             <div>
-                <head><pb n="177"/>XIII. [<persName key="heinrich-heine">Heine</persName>.]</head>
+                <head type="add">13. Heine (3)</head>
+                <head><pb n="177"/>XIII.</head>
 
                 <p> Den Bog, der i vore Dage er <persName key="heinrich-heine">Heines</persName>
                     mest populære og til hvilken hans Navn især er knyttet, <bibl
@@ -5614,7 +5625,8 @@
                     Menneskes lystige Rus.</p>
             </div>
             <div>
-                <head>XIV. [<persName key="heinrich-heine">Heine</persName>.]</head>
+                <head type="add">14. Heine (4)</head>
+                <head>XIV.</head>
 
                 <p> Det er umuligt for en Nordbo, i modnere Aar og med en nogenlunde sikker
                     kunstnerisk Dannelse at fordybe sig i <persName key="heinrich-heine">Heinrich
@@ -5995,9 +6007,8 @@
                     fuldtbelyst.</p>
             </div>
             <div>
-                <head>XV. [<persName key="heinrich-heine">Heine</persName>. <persName
-                        key="heinrich-heine">Heine</persName> og <persName
-                        key="johann-wolfgang-goethe">Goethe</persName>.]</head>
+                <head type="add">15. Heine. Heine og Goethe</head>
+                <head>XV.</head>
 
                 <p> Vi have set, at <persName key="heinrich-heine">Heine</persName> som Student i
                         <placeName key="bonn">Bonn</placeName> blev i høj Grad henrevet af den
@@ -7029,8 +7040,8 @@
                     hidsende Drikke end til simpel Næring og ren Vin.</p>
             </div>
             <div>
-                <head>XVI. [<persName key="heinrich-heine">Heine</persName> og <persName
-                        key="aristofanes">Aristofanes</persName>.]</head>
+                <head type="add">16. Heine og Aristofanes</head>
+                <head>XVI.</head>
 
                 <p>Vistnok Intet har i Efterverdenens almindelige Omdømme skadet <persName
                         key="heinrich-heine">Heine</persName> mere end hans Aabenmundethed paa det
@@ -7771,7 +7782,8 @@
                     tilhørte.</p>
             </div>
             <div>
-                <head>XVII. [<persName key="heinrich-heine">Heine</persName>.]</head>
+                <head type="add">17. Heine (5)</head>
+                <head>XVII.</head>
 
                 <p>
                     <persName key="heinrich-heine">Heines</persName> Prosa staar ikke i Højde med
@@ -8012,8 +8024,8 @@
                     fyldig og skjælvende moderne i sin betagende halvt syge Blødhed.</p>
             </div>
             <div>
-
-                <head>XVIII. [Partitagen i Poesien.]</head>
+                <head type="add">18. Partitagen i poesien</head>
+                <head>XVIII.</head>
 
                 <p>
                     <persName key="ludwig-borne">Börne</persName> og saare Mange efter ham have
@@ -8316,7 +8328,8 @@
                     Daarskab og Ondskab have udvist af Fædrelandet.</p>
             </div>
             <div>
-                <head>XIX. [<persName key="karl-immermann">Immermann</persName>.]</head>
+                <head type="add">19. Immermann</head>
+                <head>XIX.</head>
 
                 <p>Kjenderne af <persName key="heinrich-heine">Heines</persName> Skrifter og Breve
                     ville have bemærket det inderlige Venskab og Vaabenbroderskab, der i hans Ungdom
@@ -9018,7 +9031,8 @@
                     Europa.</p>
             </div>
             <div>
-                <head>XX. [Hegelianismen.]</head>
+                <head type="add">20. Hegelianismen</head>
+                <head>XX.</head>
 
                 <p> Det var den Hegelske Filosofi, der i Forening med <ref target="n2348"
                     />Julirevolutionen<!-- lemma slut --> tvang Aanderne ind i den moderne Histories
@@ -9433,7 +9447,8 @@
                     Filosofi.</p>
             </div>
             <div>
-                <head>XXI. [Den nye Gruppe.]</head>
+                <head type="add">21. Den nye gruppe</head>
+                <head>XXI.</head>
 
                 <p> Kommer man fra det altomfattende Blik hos <persName
                         key="georg-wilhelm-friedrich-hegel">Hegel</persName>, den høje Kunst hos
@@ -10156,9 +10171,8 @@
                     Forgrundsfigurerne som i gamle Tragedier Misunderen og Spionen til Helten.</p>
             </div>
             <div>
-                <head>XXII. [<persName key="karl-gutzkow">Gutzkow</persName>, <persName
-                        key="heinrich-laube">Laube</persName>, <persName key="theodor-mundt"
-                        >Mundt</persName>.]</head>
+                <head type="add">22. Gutzkow, Laube, Mundt</head>
+                <head>XXII.</head>
 
                 <p> Forbundsraadets Beslutning om Undertrykkelse af det unge Tysklands Skrifter
                     kvalte ikke blot i Fødselen den lovede »<bibl>Deutsche Revue</bibl>«, men ogsaa
@@ -11217,9 +11231,8 @@
                         <placeName key="berlin">Berlin</placeName>.</p>
             </div>
             <div>
-                <head>XXIII. [<persName key="rahel-varnhagen-von-ense">Rahel</persName>, <persName
-                        key="bettina-bettine-von-arnim">Bettina</persName>, <persName
-                        key="charlotte-stieglitz">Charlotte Stieglitz</persName>.]</head>
+                <head type="add">23. Rahel, Bettina, Charlotte Stieglitz</head>
+                <head>XXIII.</head>
 
                 <p>Hverken Fremstilling af Forholdet mellem Litteraturen og Politiken eller den af
                     de litterære Begivenheders Gang eller Tegning af de vigtigste Mandskarakterer i
@@ -12342,8 +12355,8 @@
                     der stræbe at bryde den politiske Frihed en Vej.</p>
             </div>
             <div>
-                <head>XXIV. [Tronskiftet i <placeName key="preussen">Preussen</placeName>, <persName
-                        key="friedrich-wilhelm-4">Fr. Wilhelm IV</persName>.]</head>
+                <head type="add">24. Tronskiftet i Preussen, Fr. Wilhelm IV</head>
+                <head>XXIV.</head>
 
                 <p> Ved Aaret 1840 træder den litterære Bevægelse ind i et nyt Stadium, et mere
                     filosofisk og politisk. Endnu en Generation var skudt i Vejret, som skyldte
@@ -13246,8 +13259,8 @@
                         S. 237 ff., 367, 516 og II. 379 ff.</note>.</p>
             </div>
             <div>
-
-                <head>XXV. [Den neutrale Litteratur.]</head>
+                <head type="add">25. Den neutrale litteratur</head>
+                <head>XXV.</head>
 
                 <p> Alligevel var og blev <persName key="friedrich-wilhelm-4">Fr. Wilhelm
                         IV.</persName> den aandrigste Konge i Datidens Europa, lagde i sine <pb
@@ -13824,7 +13837,8 @@
                     Veje.</p>
             </div>
             <div>
-                <head>XXVI. [Politisk Lyrik, filosofisk Revolution.]</head>
+                <head type="add">26. Politisk lyrik, filosofisk revolution</head>
+                <head>XXVI.</head>
 
                 <p> Blandt <persName key="anastasius-alexander-von-auersperg-grun">Anastasius
                         Grün’s</persName> (<persName key="anastasius-alexander-von-auersperg-grun"
@@ -14550,7 +14564,8 @@
                     havt.</p>
             </div>
             <div>
-                <head>XXVII. [Den revolutionære Poesi.]</head>
+                <head type="add">27. Den revolutionære poesi (1)</head>
+                <head>XXVII.</head>
 
                 <p> Det dybeste Særkjende for hvad der beholdt Navnet af
                         <emph>Bevægelseslitteratur</emph>
@@ -14956,7 +14971,8 @@
                     Landets officielle Magthavere. Fremtiden tilhører alene det. <pb n="514"/></p>
             </div>
             <div>
-                <head>XXVIII. [Den revolutionære Poesi.]</head>
+                <head type="add">28. Den revolutionære poesi (2)</head>
+                <head>XXVIII.</head>
 
                 <p> Der gaves opadstræbende Aander, virkelige Digtere, som stode afsides fra
                     Litteraturens almindelige Bane i disse Aar. Det var Mænd som den udmærkede
@@ -15503,7 +15519,8 @@
                     1848.</p>
             </div>
             <div>
-                <head><pb n="533"/>XXIX. [Revolutionen.]</head>
+                <head type="add">29. Revolutionen</head>
+                <head><pb n="533"/>XXIX.</head>
 
                 <cit>
                     <quote><ref target="n2942"/><lg>
@@ -16461,7 +16478,8 @@
                 <p> Det er Jubelaaret, Sørgeaaret, Grænseaaret.</p>
             </div>
             <div>
-                <head>XXX. [Slutning.]</head>
+                <head type="add">30. Slutning</head>
+                <head>XXX.</head>
 
                 <p> Det er et stort Maleri, som under Studiet af de oppositionelle, tilsidst
                     revolutionære, Følelser og <pb n="565"/> Tanker i Tyskland fra 1815 til 1848,

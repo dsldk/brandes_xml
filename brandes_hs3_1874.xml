@@ -96,13 +96,13 @@
       <body>
                     
             <div type="half-title">
+              <head type="add">Reaktionen i Frankrig</head>
                 <head>
                     <pb n="[3]"/>REACTIONEN I FRANKRIG.</head>
             </div>
             <div>
-                <head>
-                    <pb n="[5]"/>[Indledning]</head>
-                <p>Et vist Indbegreb af Ideer og Værker, Personligheder, Handlinger, Følelser og Stemninger,
+              <head type="add">Indledning</head>
+                <pb n="[5]"/><p>Et vist Indbegreb af Ideer og Værker, Personligheder, Handlinger, Følelser og Stemninger,
           som opstaae eller virke i Frankrig i Begyndelsen af det 19de Aarhundrede, danner for mit
           Øie en naturligt sammenhørende Gruppe af sociale og litterære Phænomener, der alle ordne
           sig om Gjenoprettelsen af en falden Storhed. Denne faldne Storhed er
@@ -153,8 +153,9 @@
           til nedbrydende Bedrift og den sociale Følelse til samlende Constitution. <persName key="francois-voltaire">Voltaire</persName> var Indignationen, <persName key="jean-jacques-rousseau">Rousseau</persName> Begeistringen.</p>
             </div>
             <div>
+              <head type="add">1. Revolutionen</head>
                 <head>
-                    <pb n="[9]"/>I. [Revolutionen]</head>
+                    <pb n="[9]"/>I.</head>
                 <epigraph>
                     <cit>
                         <quote>
@@ -1120,7 +1121,8 @@
                 </p>
             </div>
             <div>
-                <head>II. [Concordatet]</head>
+              <head type="add">2. Konkordatet</head>
+                <head>II.</head>
                 <p>En Octobernat i Aaret 1801 blev en lukket Vogn, escorteret af Vagt hemmeligt ført ind i
             <placeName>Paris</placeName>. Hvad skjultes vel i denne Vogn? Var det en Forbryder, var
           det Smuglervarer? I Vognen sad en gammel Mand, en Præst, Pavens Legat til General
@@ -1538,7 +1540,8 @@
                 </p>
             </div>
             <div>
-                <head>III. [Autoritetsprincipet]</head>
+              <head type="add">3. Autoritetsprincippet</head>
+                <head>III.</head>
                 <p>Kan man forstaae, at alt det Skete skulde betragtes som uskeet, at alle de uhyre
           Anstrengelser skulde være spildte? Naar man betænker, hvad det var lykkedes at udrette,
           maa man for<pb n="86"/>bauses. En Emancipationsbevægelse, der var begyndt i
@@ -2244,7 +2247,8 @@
                 </p>
             </div>
             <div>
-                <head>IV. [Traditionen i Religion, Stat og Familie]</head>
+              <head type="add">4. Traditionen i religion, stat og familie</head>
+                <head>IV.</head>
                 <p>Det er <persName>Chateaubriand’s</persName> »<bibl>Le génie du
           christianisme</bibl>«<!-- cit start og slut indsat -->, der betegner Overgangen fra
           Reactionens første til dens andet Stadium, idet dette Værk, som alt bemærket, søgte at
@@ -2923,8 +2927,9 @@
           sig.</p>
             </div>
             <div>
+              <head type="add">5. En pilgrim og hans serafiske epopé</head>
                 <head>
-                    <pb n="163"/>V. [En Pilgrim og hans seraphiske Epopee]</head>
+                    <pb n="163"/>V.</head>
                 <p>Der fandtes i Frankrig under Keiserdømmet ingen Poesi. <persName>Napoleon</persName> var
           Tidens eneste Digter. Rækken af hans Krige og Seirvindinger var een stor Iliade, Felttoget
           til Rusland en gigantisk Tragoedie, hvormed ingen, der var udarbeidet ved en Pult, kunde
@@ -3728,8 +3733,9 @@
                 </p>
             </div>
             <div>
+              <head type="add">6. En profetinde og hendes hellige værk</head>
                 <head>
-                    <pb n="203"/>VI. [En Prophetinde og hendes hellige Værk]</head>
+                    <pb n="203"/>VI.</head>
                 <p>Af Restaurationstidens Personligheder er der en egen Klasse, som særligt skarpt betegner
           Perioden, det er de Omvendte. Denne Race maatte nødvendigvis forekomme temmelig talrig, da
           en saa anstrengt troende Tid fulgte paa en saa lidet troende.
@@ -4418,8 +4424,9 @@
                 </p>
             </div>
             <div>
+              <head type="add">7. Lyrik og erotik</head>
                 <head>
-                    <pb n="241"/>VII. [Lyrik og Erotik]</head>
+                    <pb n="241"/>VII.</head>
                 <p>Da de 100 Dage vare forbi og <persName>Ludvig d. 18de</persName> for anden Gang vendt
           tilbage, udbredte en forunderlig blandet og vemodig Stemning sig over Frankrig.
           Restaurationen frembød et dobbelt Physiognomi, det var Gjenoprettelsen af et Dynasti, om
@@ -5062,8 +5069,9 @@
                 </p>
             </div>
             <div>
+              <head type="add">8. Det formelle autoritetsprincips opløsning</head>
                 <head>
-                    <pb n="274"/>VIII. [Det formelle Autoritetsprincips Opløsning]</head>
+                    <pb n="274"/>VIII.</head>
                 <p>Det er da ogsaa under disse Ideers ugunstige Auspicier, at den Digter, der skulde blive
           Frankrigs største i dette Aarhundrede, først vandt sig et Navn. Tidsaandens Magt tvinger
           ham bort fra den voldsomme, næsten om de førshakspearske Digtere mindende Maneer i hans
@@ -5568,7 +5576,8 @@
                 </p>
             </div>
             <div>
-                <head>IX. [Det reelle Autoritetsprincips Opløsning]</head>
+              <head type="add">9. Det reelle autoritetsprincips opløsning</head>
+                <head>IX.</head>
                 <p>En mørk og taaget Dag for omtrent <app>
                         <lem wit="rett.bl.2">20</lem>
                         <rdg wit="A">30 <note>ændret ordlyd pga. omarbejdelse i B og senere udgaver</note>
