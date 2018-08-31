@@ -92,41 +92,9 @@
             </cit>
           </epigraph>
         </front>
-        <body>
-         
-                <epigraph>
-                    <cit>
-                        <quote>
-                            <lg>
-                                <l>
-                                    <pb n="[2]"/>
-                                    <ref target="n336"/>Hätt’ ich gezaudert zu werden,</l>
-                                <l>Bis man mir’s Leben gegönnt,</l>
-                                <l>Ich wäre noch nicht auf Erden,</l>
-                                <l>Wie ihr begreifen könnt,</l>
-                                <l>Wenn ihr seht, wie sie sich geberden.</l>
-                            </lg>
-                        </quote>
-                        <bibl>
-                            <persName key="johann-wolfgang-goethe">Goethe.</persName>
-                        </bibl>
-                    </cit>
-                </epigraph>
-            
-
-                <epigraph>
-                    <cit>
-                        <quote>
-                            <p>
-                                <ref target="n337"/>There is no philosophy possible, where fear of consequences is
-                a stronger principle than love of truth.</p>
-                        </quote>
-                        <bibl>
-                            <persName key="john-stuart-mill">John Stuart Mill.</persName>
-                        </bibl>
-                    </cit>
-                </epigraph>
-            
+       
+      <body>
+                    
             <div type="half-title">
                 <head>
                     <pb n="[3]"/>REACTIONEN I FRANKRIG.</head>
@@ -4465,7 +4433,8 @@
           i hvilket de kjæmpende Aander og Systemer laae bundne, man havde Lov til at discutere Alt:
           Revolutionen og Keiserdømmet, det 18de og det 19de Aarhundrede, Fortid, Nutid og
           Fremtid.</p>
-                <p>Man havde Lov dertil, men havd e man Lyst? Nei, Lysten var ringe. Frankrigs Stemning var
+
+              <p>Man havde Lov dertil, men havde man Lyst? Nei, Lysten var ringe. Frankrigs Stemning var
             <pb n="242"/> Stemningen efter en langvarig Sygdom eller efter et tabt Slag. Ikke at man
           længtes efter Seire. I Slutningen af <persName>Napoleons</persName> Regjering havde
           allerede Kanonen foran <placeName>Invalidehotellet</placeName> ikke mere vakt noget Echo i
@@ -4551,7 +4520,7 @@
           forstod, at Gud ikke aabenbarer Mennesket Andet end dets sociale Tilbøieligheder, og at de
           forskjellige Regjeringssystemer ere Aabenbaringer af Tidsalderen, Situationen,
           Aarhundredet og Menneskeslægtens Laster og Dyder«. <persName>Lamartine</persName>
-          antidaterer meget betydeligt denne sin Indsigt. Hans Meditationer gaae i Regelen alle i
+          antidaterer meget betydeligt denne sin Indsigt. Hans »<bibl>Meditationer</bibl>«<!-- cit start og slut indsat --> gaae i Regelen alle i
           samme Retning som Oden til <persName>Bonald</persName>. Den, der betitles Gud, er
           dediceret til <persName>Lamennais</persName>, Dithyramben over den hellige Poesi til
           Bibelens Oversætter <persName>Genoude</persName>. Selv er han Medlem af Redactionen af
@@ -4753,7 +4722,7 @@
           Jomfruelighed. »Jeg er Jomfru, <placeName>Seine</placeName>øens Jomfru; hvad enten jeg
           bevarer eller overtræder mit Løfte, døer jeg deraf, og Du er Skyld deri.« Hun behager vel
             <persName type="fictional">Eudorus</persName>, men han elsker hende ikke. Han staaer
-          overfor hende omtrent som pius Æneas overfor Dido, om hvem Digteren endog lader <persName type="fictional">Eudorus</persName> minde sine Tilhørere. Den Ulykkelige forsøger enhver
+                  overfor hende omtrent som pius <persName type="fictional">Æneas</persName> overfor <persName type="fictional">Dido</persName>, om hvem Digteren endog lader <persName type="fictional">Eudorus</persName> minde sine Tilhørere. Den Ulykkelige forsøger enhver
           Art Trolddom. Hun vil snige sig ind til ham med Maanens Straaler. Hun vil flyve ind i det
           Taarn, han beboer, vinde hans Kjærlighed under en fremmed Skikkelse, og vægrer sig dog
           selv af Skinsyge ved Tanken. <persName type="fictional">Eudorus</persName> deler ikke
@@ -4766,8 +4735,8 @@
           Undergang; thi den berøvede mig Resten af min Kraft.« Der er rent æsthetisk seet noget
           saare Uskjønt ved at høre en Mand udbrede sig saaledes over de haarde Kampe, han har
           bestaaet for at hævde sin Dyd, og <persName type="fictional">Eudorus’s</persName> Udbrud
-          af Skam og Anger klæde ham ikke. »O <persName type="fictional">Cyril</persName>, siger
-          han, hvorledes skal jeg fortsætte denne Fortælling, jeg rødmer af Skam og Forvirring.« Da
+                  af Skam og Anger klæde ham ikke. »O <persName type="fictional">Cyril</persName>,« siger
+                  han,<!-- cit start og slut indsat --> »hvorledes skal jeg fortsætte denne Fortælling, jeg rødmer af Skam og Forvirring.« Da
           endelig denne Ridder af den bedrøvelige Skikkelse er kommen saa vidt, at han, efter at
             <persName type="fictional">Velleda</persName> har forsøgt et Selvmord, ligger for hendes
           Fødder, saa kan han ikke nøies med mindre end at sætte hele Helvede i Bevægelse i den
@@ -4790,7 +4759,7 @@
           Associationen af Lidelse og Lyst, var dog dette saa lidet mente og følte Anathema endnu
           ikke udslynget over den jordiske Kjærlighed.</p>
                 <p>Man gjenfinder denne Opfattelse i <persName>De Vigny’s</persName> betydelige og skjønne
-          Ungdomsdigt »<bibl>e</bibl>«<!-- cit start og slut indsat -->, som skildrer, hvorledes
+          Ungdomsdigt »<bibl>Eloa</bibl>«<!-- cit start og slut indsat -->, som skildrer, hvorledes
           Mørkets Fyrste forfører en ung og deilig kvindelig Engel. Var Satan i
             »<bibl>Martyrerne</bibl>« en Revolutionær, saa er han her ikke meget forskjellig fra de
           Gamles Eros. Uden at nævne hvem han er, besnærer han ved sin Skjønhed og Veltalenhed
@@ -4964,7 +4933,7 @@
           som jeg selv i min Barndom havde fundet deri.« Det lykkes kun halvveis <persName type="fictional">Raphael</persName> at foretage <pb n="268"/> Omvendelsen. Imidlertid er
           han tilfreds med Resultatet. En strengere Orthodox end han vilde neppe finde det
           beroligende. Bogen fremstiller Bevægelsen i <persName>Julies</persName> Indre saaledes, at
-          det er Kjærligheden, der lærer hende Troen paa Gud: »Der er en Gud, siger hun, der gives
+                  det er Kjærligheden, der lærer hende Troen paa Gud: »Der er en Gud,« siger hun, »<!-- cit start og slut indsat -->der gives
           en evig Kjærlighed, hvoraf vor kun er en Draabe. Denne Draabe strømmer tilbage i det
           guddommelige Ocean, hvoraf vi have øst den. Men dette Ocean er Gud. Jeg har seet ham, jeg
           har følt ham, jeg har forstaaet ham i dette Øieblik gjennem min Lykke […] Ja, tilføiede
@@ -5007,11 +4976,11 @@
           i saa høi Grad har været Herre over sit Hjerte og sine Sandser, har i meget ringe Grad
           været det over sin Pen. Vi vide da af hans »<bibl>
                         <app>
-                            <lem wit="B SS Fu 1923-24">Confidence</lem>
+                            <lem wit="B SS Fu 1923-24">Confidences</lem>
                             <rdg wit="A">Confessions</rdg>
                         </app>
                     </bibl>«, hvorledes han i Frostveir havde sine Stævnemøder med den skjønne
-          16aarige Lucy og var kold som Vinternatten; vi erindre den Sætning af <persName type="fictional">Graziella</persName>: »Vi sov to Skridt fra hinanden, jeg var beskyttet
+                  16aarige Lucy og var kold som Vinternatten; vi erindre den Sætning af »<bibl>Graziella</bibl>«: »Vi sov to Skridt fra hinanden, jeg var beskyttet
           ved min kolde Ligegyldighed.« Men er det uvist, om <persName>Julie</persName> har udtalt
           Theorien, saa bære hendes følgende Ord alt Præg af Ægthed. Hun tilføier høitrødmende, at
           det Offer, hun fordrer af ham, er nødvendigt – af Helbredshensyn, paa Grund af
@@ -5036,7 +5005,7 @@
           syntes at begjære Andet end at turde dele denne Lidelse med Dig? Gjør den os ikke begge
           til frivillige og rene Ofre? Er dette ikke det Kjærlighedens evige Brændoffer, som fra
             <persName>Héloises</persName> Tid indtil os maaskee aldrig var bleven frembudt til Skue
-          for Englene.»</p>
+                  for Englene.«</p>
                 <p>Naar man efter at have studeret »<bibl>Raphael</bibl>« atter læser
             <persName>Lamartines</persName> Meditationer til <persName type="fictional">Elvire</persName>
                     <pb n="272"/> igjennem, har man da en ny Nøgle til Forstaaelsen af det Abstracte og Vage i
@@ -5071,7 +5040,7 @@
           Forsagelse i alle Blade, medens hun paa den Tid, Bogen udgives, netop er særligt uskikket
           til Lærerinde i Moral. <persName>Lamartine</persName> har privat en anden Forklaring af
           sit Forhold til <persName type="fictional">Elvire</persName> end den, Publicum nødvendigt
-          maatte danne sig efter Meditationernes ætheriske Sværmeri.</p>
+                  maatte danne sig efter »<bibl>Meditationernes</bibl>«<!-- cit start og slut indsat --> ætheriske Sværmeri.</p>
                 <p>Man gik her som overalt ud paa at være overnaturlig og naaede under denne Bestræbelse kun
           til snart at lemlæste snart at bortlyve Naturen. <note place="bottom">
                         <persName>Lamartine</persName>: »<bibl>Méditations
@@ -5962,8 +5931,8 @@
             underordnet Loven, Staten underordnet Kirken</emph>. I modsat Fald maatte man antage to
           uafhængige Magter, den ene Retfærdighedens og Sandhedens Bevarer, den anden blind og
           derfor efter sin Natur ødelæggende for Retfærdighed og Sandhed.«
-            <!-- cit start og slut indsat -->»<note place="bottom">Du progrès de la révolution et de
-            la guerre contre l’église.</note>« En stolt og det 19de Aarhundrede værdig
+                  <!-- cit start og slut indsat --><note place="bottom">»Du progrès de la révolution et de
+                    la guerre contre l’église.«</note> En stolt og det 19de Aarhundrede værdig
           Consequents!</p>
                 <p>Man lærer heraf, hvad Magt <persName>Lamennais</persName> vilde have den katholske Kirke
           tillagt. Vi have endnu tilbage at see Slutningsspringet, hvorved det bevises, at den
@@ -6336,7 +6305,7 @@
           Almisse i den, og Andre rakte ham et Crucifix, og han kyssede det. Og naar de Unge talte
           om Hæder, svarte man dem »Bliv Præster!«<!-- cit slut indsat --> og naar de talte om Ære,
           svarte man »Bliv Præster!«<!-- cit slut indsat --> og naar de talte om Haab, om Elskov, om
-          Kraft og Liv, bestandig: Bliv Præster!«<!-- cit slut indsat -->« <note place="bottom">
+          Kraft og Liv, bestandig: Bliv Præster!«<!-- cit slut indsat --> <note place="bottom">
                         <persName>Alfred de Musset</persName>: »<bibl>Confessions d’un enfant du
               siècle</bibl>«<!-- cit start og slut indsat -->.</note>
                 </p>
