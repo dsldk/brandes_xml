@@ -73,7 +73,7 @@
                         </lg>
                     </quote>
                     <bibl>
-                        <persName key="friedrich-hebbel">HEBBEL</persName>.</bibl>
+                        <persName key="">HEBBEL</persName>.</bibl>
                 </cit>
             </epigraph>
         </front>
@@ -2905,8 +2905,8 @@
                         Hjemkomst Schillers »<bibl>Wallenstein</bibl>«<!-- lemma slut -->, som <ref target="n"/>
                         <persName key="benjamin-constant-de-rebecque">Benjamin Constant</persName> ikke længe efter skulde bearbeide for
                         den franske Scene<!-- lemma slut -->. Saa er det, at han bosætter sig ved
-                        hine »Søer« i Nordengland, hvor <persName>Wordsworth</persName> og
-                            <persName>Southey</persName> noget tidligere havde opslaaet deres
+                        hine »Søer« i Nordengland, hvor <persName key="william-wordsworth">Wordsworth</persName> og
+                            <persName key="robert-southey">Southey</persName> noget tidligere havde opslaaet deres
                         Pauluner, og efter hvilke den litterære Skole, de efter de Samtidiges
                         Opfattelse udgjorde, fik Navn. Navnet betyder imidlertid ei stort meer end
                             <ref target="n"/>om man 1830 havde villet kalde
@@ -2914,8 +2914,8 @@
                             <persName key="christian-wilster">Wilster</persName> og <persName key="peder-hjort">Peder Hjort</persName>
                         Soranere<!-- lemma slut -->. De engelske Digtere af Søskolen vare fuldt saa
                         forskjelligt anlagte som de nævnte Lectorer i Sorø. Men Kritiken slog
-                            <persName>Coleridge</persName> bestandig sammen med
-                            <persName>Wordsworth</persName> og <persName>Southey</persName>, fordi
+                            <persName key="samuel-taylor-coleridge">Coleridge</persName> bestandig sammen med
+                            <persName key="william-wordsworth">Wordsworth</persName> og <persName key="robert-southey">Southey</persName>, fordi
                         det vidstes, at han stod i venskabelig og intim Forbindelse med disse Mænd,
                         fordi han aldrig forsømte nogen Leilighed til at rose dem, saa lidt som de
                         nogen Leilighed til at rose ham, og fordi han og de øvrige
@@ -2924,16 +2924,16 @@
                                 <lem wit="B SS Fu 1923-24">Quarterly</lem>
                                 <rdg wit="A">Quaterly</rdg>
                             </app> Review</bibl>«<!-- tilføjet --> bleve krandsede med friske
-                        Laurbær og Synderen <persName>Byron</persName> samtidigt fugtlet med friske
-                        Skorpioner. Heraf var Følgen, at <persName>Wordsworth</persName> og
-                            <persName>Southey</persName> næsten aldrig vare under Kritikens Vandfald
+                        Laurbær og Synderen <persName key="george-gordon-byron">Byron</persName> samtidigt fugtlet med friske
+                        Skorpioner. Heraf var Følgen, at <persName key="william-wordsworth">Wordsworth</persName> og
+                            <persName key="robert-southey">Southey</persName> næsten aldrig vare under Kritikens Vandfald
                         uden at han, som dog næsten aldrig lod høre fra sig, tillige blev alvorligt
                         dyppet. Den Omstændighed, at Søskolen, omtrent som <ref target="n"/>Prærafaeliterne<!-- lemma slut --> og <ref target="n"/>Nazarenerne<!-- lemma slut --> i Malerkunsten, <ref target="n"/>gik ud
                         paa<!-- lemma slut --> at være lutter poetisk <pb n="127"/> Fordybelse,
                         lutter Barnesind og Barnetro, lutter præstelig Blidhed og Salvelse aabnede
                         en skarp og bidende Kritik en stadig Adgang til Spot og Løier mod Den, der
                         for Alle maatte staae som Skolens Theoretiker. Som Yngling havde
-                            <persName>Coleridge</persName> i sit Digt »<bibl>Ild, Hungersnød og
+                            <persName key="samuel-taylor-coleridge">Coleridge</persName> i sit Digt »<bibl>Ild, Hungersnød og
                             Slagteri</bibl>« ladet alle Rædslerne en efter en besvare ethvert
                         Spørgsmaal om hvo der bød dem at rase, med dette frygtelige Omkvæd om
                         Pitt:</p>
@@ -2948,7 +2948,7 @@
                             </lg>
                         </quote>
                     </cit>
-                    <p>Nu var han <persName>Mr. Pitt’s</persName> tro Journalist og han som alle
+                    <p>Nu var han <persName key="william-pitt-d-y">Mr. Pitt’s</persName> tro Journalist og han som alle
                         Søskolens andre Medlemmer en streng Tory, de liberale Ideers Fjende saavel
                         paa Statens, som paa Kirkens Omraade, hvad Under da, at han i Flæng med de
                         Andre fra det liberale Parties Side var udsat for partiske og uophørlige
@@ -2956,37 +2956,37 @@
                         som Digter ud fra alle de Andre og give ham den Ære, der tilkom hans
                         Originalitet. De ganske faa Digte, han i Løbet af et temmelig langt Liv har
                         skrevet, hævde sig ved Sprogets udsøgte Melodiøsitet; deres Harmonier ere
-                        ikke blot fine og iørefaldende som <persName>Shelleys</persName>, men
+                        ikke blot fine og iørefaldende som <persName key="percy-bysshe-shelley">Shelleys</persName>, men
                         contrapunktisk sammensatte og rige, af en egen tung og vægtig <pb n="128"/>
                         Sødme; hver Linie har en Honningdraabes Smag og Vægt. I Digte som
                             »<bibl>Love</bibl>« eller som »<bibl>Lewti</bibl>« sikkert de sødeste af
                         hans Poesier, i en østerlandsk Phantasi som »<bibl>Kubla Khan</bibl>«, der
-                        udsprang af en Drøm, hører man <persName>Coleridge’s</persName>
+                        udsprang af en Drøm, hører man <persName key="samuel-taylor-coleridge">Coleridge’s</persName>
                         Nattergalerøst fløite og lokke, hvisle og synge med alle den ypperste
                         Sangfuglstemmes vexlende Cadencer.</p>
                     <p>
                         <ref target="n"/>
-                        <persName>Shelley</persName> er, som <persName>Swinburne</persName> slaaende
+                        <persName key="percy-bysshe-shelley">Shelley</persName> er, som <persName key="algernon-charles-swinburne">Swinburne</persName> slaaende
                         har sagt, naar han med Hensyn til Sprogets Harmonier sammenlignes med
-                            <persName>Coleridge</persName>, hvad en Lærke er i Sammenligning med en
-                        Nattergal<!-- lemma slut -->. Men <persName>Coleridge’s</persName> Poesi er
+                            <persName key="samuel-taylor-coleridge">Coleridge</persName>, hvad en Lærke er i Sammenligning med en
+                        Nattergal<!-- lemma slut -->. Men <persName key="samuel-taylor-coleridge">Coleridge’s</persName> Poesi er
                         ligesaa uplastisk som den er melodiøs og ligesaa lidenskabsløs som
                         vellydsmættet. Den er rent romantisk-phantastisk, det vil sige, at den
                         hverken fremstiller et energisk levet personligt Sjæleliv eller
                         gjenfremstiller Iagttagelser fra den omgivende Verden. Det er i den sidste
-                        Henseende interessant, at <persName>Coleridges</persName> store Reise til
+                        Henseende interessant, at <persName key="samuel-taylor-coleridge">Coleridges</persName> store Reise til
                         Syden blev aldeles uden Frugt for hans Poesi; det eneste, han hjembragte fra
                         den, Hymnen »<bibl>Før Solopgang i Chamounidalen</bibl>«, hvor han aldrig
                         satte sin Fod, er omskrevet efter den i vor Litteratur velbekjendte
                         Digterinde <ref target="n"/>
-                        <persName>Friederike Brun’s</persName> Beskrivelse af
+                        <persName key="friederike-brun">Friederike Brun’s</persName> Beskrivelse af
                         Dalen<!-- lemma slut -->. Hans historiske Sands var ligesaa ringe som hans
-                        Localsands. Han siger selv: <ref target="n"/>»Den kjære Sir <persName>Walter
+                        Localsands. Han siger selv: <ref target="n"/>»Den kjære Sir <persName key="sir-walter-scott">Walter
                             Scott</persName> og jeg vare nøiagtigt men harmonisk modsatte deri, at
                         enhver gammel Ruin, Høi, Flod eller Træbul i hans Sind fremkaldte en
                         Hærskare af historiske og biographiske Ideeforbindelser […] hvor<pb n="129"/>imod jeg troer, at jeg selv kunde gaae over <ref target="n"/>Sletten ved
                             <placeName>Marathon</placeName><!-- lemma slut --> uden at føle mere
-                        Interesse for den end for enhver lignende Slette […] <persName>Charles
+                        Interesse for den end for enhver lignende Slette […] <persName key="charles-lamb">Charles
                             Lamb</persName> har skrevet <bibl>et Essay</bibl> om en Mand, der levede
                         i Fortiden – jeg har tænkt paa at tilføie et om en Mand der overhovedet ikke
                         levede i <emph>Tiden</emph>, men udenfor den eller jævnsides med den«<!-- lemma slut -->
@@ -3005,17 +3005,17 @@
                         Ophold i sine Venners Huse, under hvilket han skiftevis holdt
                         litteraturhistoriske Forelæsninger og gav Bidrag til Tidsskrifter, gav han
                         sig som uskikket til at lede sit eget Liv fra 1816 <pb n="130"/> af i Huset
-                        hos en Læge ved Navn <persName>Gillmann</persName> og levede i
+                        hos en Læge ved Navn <persName key="0">Gillmann</persName> og levede i
                             <placeName>Highgate</placeName> hos denne Mand og under hans Herredømme
                         i en frivillig Adskillelse fra sin Familie, hvilken han overgav til Vennen
-                        og Svogeren <persName>Robert Southey’s</persName> Forsorg. Paa Opiumsrusen
+                        og Svogeren <persName key="robert-southey">Robert Southey’s</persName> Forsorg. Paa Opiumsrusen
                         fulgte nu en Katzenjammer med Anger og Selvbebreidelse og stedse mere
                         orthodox Religiøsitet. Hvad han i denne Periode skrev har gjennemgaaende til
                         Formaal at gjendrive hans Ungdoms Kjætterier og hævde i Dogmatiken
                         Treenigheden, i Politiken den engelske Statskirke mod alle kritiske
                             Anfægtelser<note place="bottom">»<bibl>On the constitution of Church and
                                 State according to the idea of each</bibl>«. – Lay Sermons.</note>.
-                            <persName>Emerson</persName> har efter et Besøg hos ham malt os ham som
+                            <persName key="ralph-waldo-emerson">Emerson</persName> har efter et Besøg hos ham malt os ham som
                             <ref target="n"/>»gammel og fuld af Fordomme«<!-- lemma slut -->
                         ophidset over den Uforskammethed, den Haandfuld Priestleyanere beviste ved
                         at vove at negte Paulus’s i Aarhundreder uantastede
@@ -3027,11 +3027,11 @@
                         boende ikke langt fra <placeName>London</placeName> og paa Grund af sit
                         sprudlende Conversationstalent uafladeligt søgt af de bedste Skribenter
                         levede han som Tilskuer til Livet under <pb n="131"/> Samtaler med Mænd som
-                            <persName>Charles Lamb</persName>, <persName>Wordsworth</persName>,
-                            <persName>Southey</persName>, <persName>Leigh Hunt</persName>,
-                            <persName>Hazlitt</persName>, <persName>Carlyle</persName>, netop i de
+                            <persName key="charles-lamb">Charles Lamb</persName>, <persName key="william-wordsworth">Wordsworth</persName>,
+                            <persName key="robert-southey">Southey</persName>, <persName key="leigh-hunt">Leigh Hunt</persName>,
+                            <persName key="william-hazlitt">Hazlitt</persName>, <persName key="thomas-carlyle">Carlyle</persName>, netop i de
                         samme Aar, under hvilke Aanderne af den hans modsatte Retning,
-                            <persName>Shelley</persName> og <persName>Byron</persName> med ildfuld
+                            <persName key="percy-bysshe-shelley">Shelley</persName> og <persName key="george-gordon-byron">Byron</persName> med ildfuld
                         Kraft udtalte sig mod den politiske og sociale Ordning, om hvis
                         Fortrinlighed han var overbevist. Medens han villieløs og Disciplin
                         underkastet som et Barn lod sit Liv conservere af Andre, og selv conserveret
@@ -3047,17 +3047,17 @@
                 <div>
                     <head type="add">8. Søskolens frihedsbegreb</head>
                     <head>VIII.</head>
-                    <p> Vistnok er det langtfra, at <persName>Coleridge</persName> og Søskolens
+                    <p> Vistnok er det langtfra, at <persName key="samuel-taylor-coleridge">Coleridge</persName> og Søskolens
                         øvrige Medlemmer skulde have kaldt sig andet end varme Venner af Frihed; den
                         Tid var forbi, da de Reactionære kaldte sig anderledes:
-                            <persName>Coleridge</persName> har skrevet et af sine smukkeste Digte,
+                            <persName key="samuel-taylor-coleridge">Coleridge</persName> har skrevet et af sine smukkeste Digte,
                             <pb n="132"/> Oden »<bibl>France</bibl>« som en Hymne til Friheden og
                         kræver her Skyer, Bølger og Skove til Vidne paa, at han altid har elsket
-                        den, og <persName>Wordsworth</persName>, der udtrykkeligt har tilegnet den
+                        den, og <persName key="william-wordsworth">Wordsworth</persName>, der udtrykkeligt har tilegnet den
                         to store Grupper af sine Digte, betragter sig endog som dens givne Talsmand.
                         Efter en flygtig Læsning kunde man antage disse Digtere for fuldt saa
-                        frihedselskende som <persName>Moore</persName> eller
-                            <persName>Shelley</persName> eller <persName>Byron</persName>. Men selve
+                        frihedselskende som <persName key="thomas-moore">Moore</persName> eller
+                            <persName key="percy-bysshe-shelley">Shelley</persName> eller <persName key="george-gordon-byron">Byron</persName>. Men selve
                         Ordet Frihed betyder i hines Mund noget Andet end i disses. Man maa for at
                         forstaae det analysere det med de to simple Spørgsmaal: Frihed – for hvad?
                         Frihed – til hvad?</p>
@@ -3067,26 +3067,26 @@
                         Stamme. Det Land, der har dette Privilegium, er frit. Ved Frihed forstaaes
                         altsaa i denne Leir Frihed <emph>for</emph> fremmed politisk Despoti; om
                         Frihed <emph>til</emph> Noget er saa at sige i den ikke Tale. Man kaste et
-                        Blik henover <persName>Wordsworth’s</persName> Frihedssonetter og see, hvad
+                        Blik henover <persName key="william-wordsworth">Wordsworth’s</persName> Frihedssonetter og see, hvad
                         det er han besynger. Det er de europæiske Folkeslags Kamp mod
-                            <persName>Napoleon</persName>, der betegnes som en Art Antichristen.
+                            <persName key="napoleon-1">Napoleon</persName>, der betegnes som en Art Antichristen.
                             (<ref target="n"/>»Djævlen paa sin Flammetrone«<!-- lemma slut -->
-                        kalder <persName>Scott</persName> ham.)</p>
+                        kalder <persName key="sir-walter-scott">Scott</persName> ham.)</p>
                     <p> Digteren sørger ved <ref target="n"/>Spaniens, ved Schweiz’s ved
                             <placeName>Venedigs</placeName>, ved <placeName>Tyrols</placeName>
                         Erobring af de Franske<!-- lemma slut -->. Han besynger den tapre
-                            <persName>Hofer</persName>, den brave <pb n="133"/>
-                        <persName>Schill</persName>, den forvovne <persName>Toussaint
+                            <persName key="andreas-hofer">Hofer</persName>, den brave <pb n="133"/>
+                        <persName key="ferdinand-von-schill">Schill</persName>, den forvovne <persName key="toussaint-louverture">Toussaint
                             L’ouverture</persName>, der have vovet at byde Voldsmændene Spidsen, og
-                        ikke mindre <persName>Gustav den 4de Adolf af Sverrig</persName>, der med
-                        romantiskridderlig Evneløshed havde tilkastet <persName>Napoleon</persName>
+                        ikke mindre <persName key="0">Gustav den 4de Adolf af Sverrig</persName>, der med
+                        romantiskridderlig Evneløshed havde tilkastet <persName key="napoleon-1">Napoleon</persName>
                         Handsken og forkyndt sit Sværmeri for en Bourbonistisk Restauration. Kort
-                        efter skulde jo ogsaa <persName>Victor Hugo</persName> og
-                            <persName>Lamartine</persName> som Legitimister besynge hans Søn
-                            <persName>Prinds Gustav af Vasa</persName>. Fra
-                            <persName>Napoleon</persName> gaaer Hadet og Afskyen over paa Frankrig.
+                        efter skulde jo ogsaa <persName key="victor-hugo">Victor Hugo</persName> og
+                            <persName key="alphonse-de-lamartine">Lamartine</persName> som Legitimister besynge hans Søn
+                            <persName key="0">Prinds Gustav af Vasa</persName>. Fra
+                            <persName key="napoleon-1">Napoleon</persName> gaaer Hadet og Afskyen over paa Frankrig.
                         I en af Sonetterne (»<bibl>Inland within a hollow vale I stood</bibl>«)
-                        fortæller <persName>Wordsworth</persName>, hvorledes Canalen mellem England
+                        fortæller <persName key="william-wordsworth">Wordsworth</persName>, hvorledes Canalen mellem England
                         og Frankrig et Øieblik havde forekommet ham smal som en Indsø og Angest
                         grebet ham for at England kunde været landfast med hint fortabte Land; da
                         styrker den Tanke ham atter, hvor stor den engelske Folkesjæl er, og hvor
@@ -3101,15 +3101,15 @@
                         som er det eneste, paa hvilket nu <ref target="n"/>»alle Jordens Forhaab<pb n="134"/>ninger hvile«<!-- lemma slut -->
                         <note place="bottom">»<bibl>Sonnets dedicated to Liberty</bibl>«. I, XVII og
                             XXI.</note>. Han følger i sine Digte sit Land under dets Kampe, han
-                        lovsynger som <persName>Southey</persName> enhver af dets Seire og hans
+                        lovsynger som <persName key="robert-southey">Southey</persName> enhver af dets Seire og hans
                         Frihedssonetter udmunde derfor ogsaa høist betegnende i den store pompøse
                             »<bibl>Taksigelsesode</bibl>« for <ref target="n"/>Slaget ved
                             <placeName>Waterloo</placeName><!-- lemma slut -->. Vi spørge os
                         nutildags, hvad det var for en Art Frihed,
                         Waterloo<!-- ikke opfattet som sted, men som begivenhed --> bragte; men vi
                         forstaae fuldt vel, at den Gruppe af Digtere, hvis Helte vare selve
-                        Nationalheltene <persName>Pitt</persName>, <persName>Nelson</persName> og
-                            <persName>Wellington</persName>, hvis Lovsange gjaldt den engelske
+                        Nationalheltene <persName key="william-pitt-d-y">Pitt</persName>, <persName key="horatio-viscount-nelson">Nelson</persName> og
+                            <persName key="arthur-wellesley-1-duke-of-wellington">Wellington</persName>, hvis Lovsange gjaldt den engelske
                         Forfatning i dens Egenskab af at være Friheden selv og England som Mønsteret
                         for alle Stater, vandt en Popularitet hos Folkets store Flertal, som det
                         endnu den Dag idag ikke er lykkedes deres store poetiske Modstandere at naae
@@ -3117,13 +3117,13 @@
                         deres Folk til at rette Blikket mod et ikke naaet, ja end ikke erkjendt
                         Ideal; hine smigrede Folket og lønnedes med Laurbær, disse opdroge og
                         tugtede Folket og stødtes ud af dets Skjød. Medens Æresposten som <ref target="n"/>Poeta laureatus<!-- lemma slut --> tilbødes
-                            <persName>Scott</persName> og beklædtes saavel af
-                            <persName>Southey</persName> som af <persName>Wordsworth</persName>, har
+                            <persName key="sir-walter-scott">Scott</persName> og beklædtes saavel af
+                            <persName key="robert-southey">Southey</persName> som af <persName key="william-wordsworth">Wordsworth</persName>, har
                         det engelske Folk endnu den Dag idag ikke aflagt et eneste offentligt
-                        Vidnesbyrd om hvad det skylder <persName>Shelley</persName> og
-                            <persName>Byron</persName>
+                        Vidnesbyrd om hvad det skylder <persName key="percy-bysshe-shelley">Shelley</persName> og
+                            <persName key="george-gordon-byron">Byron</persName>
                         <note place="bottom">
-                            <ref target="n"/>Først i disse Dage har <persName>Disraeli</persName>
+                            <ref target="n"/>Først i disse Dage har <persName key="benjamin-disraeli-beaconsfield">Disraeli</persName>
                             som Præsident for Byron Memorial Committee stillet sig i Spidsen for
                             Indsamlingen til en Statue af Digteren, som skal reises paa en af
                             Londons Pladser<!-- lemma slut -->.</note>. <pb n="135"/> Aarsagen er
@@ -3156,15 +3156,15 @@
                         Skole, der i Ungdommens Hede vare gaaede fuldt saa vidt som de selv, give
                         sig til at forherlige Englands Toryregjering med en Renegatgruppes hele
                         Iver, da kunde de ikke betragte dem som andet end som Frihedsfjender. Derfor
-                        sørger <persName>Shelley</persName> i sin Sonet til
-                            <persName>Wordsworth</persName> over at han <ref target="n"/>»har
+                        sørger <persName key="percy-bysshe-shelley">Shelley</persName> i sin Sonet til
+                            <persName key="william-wordsworth">Wordsworth</persName> over at han <ref target="n"/>»har
                         svigtet Sandhed og Frihed«<!-- lemma slut -->, derfor fristes
-                            <persName>Byron</persName> atter og atter overfor
-                            <persName>Southey</persName> til at <ref target="n"/>»skjære ham op som
+                            <persName key="george-gordon-byron">Byron</persName> atter og atter overfor
+                            <persName key="robert-southey">Southey</persName> til at <ref target="n"/>»skjære ham op som
                         et Græskar«<!-- lemma slut -->, og derfor er der overhovedet i disse
                         Digteres Lidenskab for Friheden et helligt Raseri, en ædel Ild, hvoraf ingen
                         Gnist er at finde i Søskolens platoniske Kjærlighed til den. Naar
-                            <persName>Shelley</persName> synger til Friheden: <ref target="n"/>»Men
+                            <persName key="percy-bysshe-shelley">Shelley</persName> synger til Friheden: <ref target="n"/>»Men
                         skarpere er dit Glimt end Lynets Blinken og hurtigere dit Fjed end
                         Jordskjælvets Trampen! <pb n="137"/> Du døver Oceanets Raseri, din Stjerne
                         blinder Vulkanerne, Solens klare Lampe er en Lygtemand mod dit
@@ -3190,9 +3190,9 @@
                         hyppigt skjød ud over Maalet. I Svækkelsen af al bestaaende Regjering saa de
                         kun Svækkelsen af slet Regjering, i undertrykte Folkestammers halv
                         barbariske Oprør saa de den evige Friheds Morgenrøde.
-                            <persName>Shelley</persName> var saa abstract, at han ansaa Slaget for
+                            <persName key="percy-bysshe-shelley">Shelley</persName> var saa abstract, at han ansaa Slaget for
                         vundet, hvis han med eet Slag kunde udrydde alle Konger og Præster, og
-                            <persName>Byron</persName> lærte først sent ad Erfaringens Vei, hvor faa
+                            <persName key="george-gordon-byron">Byron</persName> lærte først sent ad Erfaringens Vei, hvor faa
                         republikanske Dyder de i Frihedens Navn sammensvorne europæiske
                         Revolutionsmænd besad. Søskolens Mænd vare sikrede mod de radicale Digteres
                         ædelmodige Vildfarelser og Anticipationer, men Efterverdenen har havt større
@@ -3203,25 +3203,25 @@
                     <head type="add">9. Søskolens østerlandske romantik</head>
                     <head>IX.</head>
                     <p> Her er Stedet til at unde den Mand en Plads, som var
-                            <persName>Byrons</persName> og <persName>Shelleys</persName> værste
-                        Fjende og <persName>Coleridges</persName> bedste Ven og som i det Hele
-                        staaer <persName>Coleridge</persName> nær som fremragende engelsk
+                            <persName key="george-gordon-byron">Byrons</persName> og <persName key="percy-bysshe-shelley">Shelleys</persName> værste
+                        Fjende og <persName key="samuel-taylor-coleridge">Coleridges</persName> bedste Ven og som i det Hele
+                        staaer <persName key="samuel-taylor-coleridge">Coleridge</persName> nær som fremragende engelsk
                         Romantiker, hvor langt hans Productioner end i Indholdsværd staae tilbage
                         for Vennens.</p>
                     <p>
-                        <persName>Robert Southey</persName>, født 1774 i
+                        <persName key="robert-southey">Robert Southey</persName>, født 1774 i
                             <placeName>Bristol</placeName>, var Søn af en Lærredshandler der og
                         beholdt hele sit Liv igjennem Præget af at være kommet til Verden <pb n="139"/> i snevre Kaar og med en snever Horizont for Øie. Efter en kort
                         Tid at have studeret i <placeName>Oxford</placeName> blev han som Søskolens
                         øvrige Digtere grebet af Revolutionsaanden og forfattede i 1794 et høist
                         jakobinsk Poem »<bibl>Wat Tyler</bibl>«<note place="bottom">
                             <ref target="n"/>Som Indskrift til det Værelse, hvor Kongemorderen
-                                <persName>Martin</persName><!-- = Henry Marten --> havde siddet
+                                <persName key="0">Martin</persName><!-- = Henry Marten --> havde siddet
                             fængslet, forfattede han paa den Tid følgende Linier: <cit>
                                 <quote>
                                     <lg>
                                         <l>»For thirty years secluded from mankind</l>
-                                        <l>Here <persName>Martin</persName> lingered. Often have
+                                        <l>Here <persName key="0">Martin</persName> lingered. Often have
                                             these walls</l>
                                         <l>Echo’d his footsteps, as with even tread</l>
                                         <l>He paced around his prison. Not to him</l>
@@ -3230,26 +3230,26 @@
                                         <l>Save when through yon high bars he pour’d a sad</l>
                                         <l>And broken splendour. Dost thou ask his crime?</l>
                                         <l>
-                                            <emph>He had rebell’d against <persName>the
+                                            <emph>He had rebell’d against <persName key="0">the
                                                   King</persName>, and sat</emph>
                                         </l>
                                         <l>
                                             <emph>Jn judgment on him;</emph> for his ardent mind</l>
                                         <l>Shaped goodliest plans of happiness on earth</l>
                                         <l>And peace and liberty. Wild dreams! but such</l>
-                                        <l>As <persName>Plato</persName> loved«<!-- lemma slut -->
+                                        <l>As <persName key="platon">Plato</persName> loved«<!-- lemma slut -->
                                             o. s. v.</l>
                                     </lg>
                                 </quote>
-                            </cit> Herpaa forfattede dengang <persName>Canning</persName> følgende
+                            </cit> Herpaa forfattede dengang <persName key="george-canning">Canning</persName> følgende
                             ganske morsomme Parodi: <ref target="n"/>»<bibl>Indskrift paa den Celle
-                                i <placeName>Newgate</placeName>, hvor <persName>Mrs.
+                                i <placeName>Newgate</placeName>, hvor <persName key="0">Mrs.
                                     Brownrigg</persName>, Lærlinge-Mordersken, sad
                                 indespærret</bibl>«<!-- tilføjet »« -->: <cit>
                                 <quote>
                                     <lg>
                                         <l>»For one long terme or ere her trial came,</l>
-                                        <l>Here <persName>Brownrigg</persName> linger’d. Often have
+                                        <l>Here <persName key="0">Brownrigg</persName> linger’d. Often have
                                             these cells</l>
                                         <l>Echo’d her blasphemies, as with shrill voice</l>
                                         <l>She screamd for fresh geneva. Not to her</l>
@@ -3268,27 +3268,27 @@
                                             <emph>And hid them in the coalhole</emph>. For her
                                             mind</l>
                                         <l>Shaped strictest plans of discipline. Sage schemes!</l>
-                                        <l>Such as <persName>Lycurgus</persName>
+                                        <l>Such as <persName key="0">Lycurgus</persName>
                                             taught«<!-- lemma slut --> o. s. v.</l>
                                     </lg>
                                 </quote>
                             </cit>
                         </note>. Da ogsaa han havde <pb n="140"/> opgivet sine Udvandringsplaner og
                         havde faaet <emph>sin</emph>
-                        <persName>Miss Fricker</persName>, bosatte han sig i
+                        <persName key="0">Miss Fricker</persName>, bosatte han sig i
                             <placeName>London</placeName> 1797. Fra 1807 af nød han en Statspension
-                        af 150 Pund aarlig. Efter Digteren <persName>Pye’s</persName> Død blev han
+                        af 150 Pund aarlig. Efter Digteren <persName key="henry-lames-pye">Pye’s</persName> Død blev han
                             <ref target="n"/>Poeta laureatus<!-- lemma slut --> med 300 Pund aarlig.
                         Denne Stilling, som medførte Forpligtelse til at besynge alle de det
                         kongelige Hus vedrørende Begivenheder, blev først af
-                            <persName>Prindsregenten</persName> tilbudt <persName>Walter
-                            Scott</persName>, der spurgte sin Velynder <persName>Hertugen af
+                            <persName key="0">Prindsregenten</persName> tilbudt <persName key="sir-walter-scott">Walter
+                            Scott</persName>, der spurgte sin Velynder <persName key="0">Hertugen af
                             Buccleugh</persName> om Raad. I Hertugens Svar hedder det: <ref target="n"/>»Hvorledes kunde De udholde paa en kongelig Fødselsdag at
                         høre en Hob hæse og kvækkende Chorister aflire Deres Vers i Recitativer til
                         Opbyggelse for Biskopper, Pager, Hofdamer og Livgardister! o skrækkeligt,
                         tre Gange skrækkeligt!«<!-- lemma slut -->
-                        <persName>Scott</persName> afslog da den tiltænkte Udmærkelse, men foreslog
-                            <persName>Southey</persName> til den som loyal og trængende Digter. I
+                        <persName key="sir-walter-scott">Scott</persName> afslog da den tiltænkte Udmærkelse, men foreslog
+                            <persName key="robert-southey">Southey</persName> til den som loyal og trængende Digter. I
                         største Delen af sit Liv var han henvist til at leve af sin Pen og skrev
                         saaledes nødtvungen Meget. Flittig som han var, økonomisk og prydet med alle
                         gode huslige Egenskaber efterlod han sig en Kapital af 12000 Pund.
@@ -3296,30 +3296,30 @@
                         Bedste forligtes med dem. Den havde jo nu engang saa lidt med Livet at
                         gjøre. Til Gjengjæld forhindrede hans ærbare Philisteri ham ingenlunde i at
                         lade sin Phantasi foretage de vildeste østerlandske Flugter.</p>
-                    <p>Der var i <persName>Southeys</persName> første Periode, den frisindede,
+                    <p>Der var i <persName key="robert-southey">Southeys</persName> første Periode, den frisindede,
                         øiensynligt noget Smukt og Varmt ved hans Begavelse. Han havde Begeistring
                         og han havde Mod. Hans Epos »<bibl>Joan of Arc</bibl>« fra 1797 er et Digt,
-                        som fremgaaer af ligesaa inderlig en Følelse for <persName>Frankrigs
-                            Heltinde</persName> som den <persName>Schiller</persName> fem Aar senere
+                        som fremgaaer af ligesaa inderlig en Følelse for <persName key="0">Frankrigs
+                            Heltinde</persName> som den <persName key="friedrich-schiller">Schiller</persName> fem Aar senere
                         lagde for Dagen i sit Drama »<bibl>Jomfruen fra Orleans</bibl>«. Som
-                            <persName>Schillers</persName> Digtning er
-                            <persName>Southey’s</persName> et Modstykke til
-                            <persName>Voltaires</persName>
+                            <persName key="friedrich-schiller">Schillers</persName> Digtning er
+                            <persName key="robert-southey">Southey’s</persName> et Modstykke til
+                            <persName key="francois-voltaire">Voltaires</persName>
                         »<bibl>Pucelle</bibl>«<!-- La Pucelle d'Orléans -->, ja den decente engelske
                         Poet forsikrer endog i sin Fortale, at han aldrig <ref target="n"/>»har
                         gjort sig skyldig i at kaste et Blik«<!-- lemma slut --> i dette Digt. I
-                            »<bibl>Joan of Arc</bibl>« er <persName>Southey</persName> endnu ikke
+                            »<bibl>Joan of Arc</bibl>« er <persName key="robert-southey">Southey</persName> endnu ikke
                         Romantiker. Han kaster nu og da sit Blik fremad lige til sin Samtid. I
-                        tredie Sang forherliger han <persName>Madame Roland</persName> som den
+                        tredie Sang forherliger han <persName key="jeanne-manon-roland">Madame Roland</persName> som den
                         heroiske Kvinde, der blev Martyr for Fædrelandskjærligheden, i tiende Sang
                             <persName>Lafayette</persName>, hvis Navn <ref target="n"/>»Friheden
                         bestandig vil elske«<!-- lemma slut -->, og selv i Fremstillingen af
                             <persName type="fictional">Jeanne’s</persName> Bedrifter er ganske
-                        anderledes end hos <persName>Schiller</persName> enhver Appel til det
+                        anderledes end hos <persName key="friedrich-schiller">Schiller</persName> enhver Appel til det
                         Magiske undgaaet. Paa et afgjørende Sted i Digtet, hvor <persName type="fictional">Jomfruen</persName> udspørges om sin Tro, aflægger
                         endog hun og gjennem hende Dig<pb n="142"/>teren en saa ærlig Bekjendelse
                         til Naturen, at man tilfulde føler, hvorledes ogsaa for
-                            <persName>Southeys</persName> Vedkommende den i Datidens engelske Poesi
+                            <persName key="robert-southey">Southeys</persName> Vedkommende den i Datidens engelske Poesi
                         Alt beherskende Naturalisme er den Grundvold, hvorpaa han staaer.</p>
                     <p>
                         <ref target="n"/>»Kvinde,«<!-- tilføjet --> siger en Præst til <persName type="fictional">Jeanne d’Arc</persName>, »Du synes at lade haant om vor
@@ -3373,12 +3373,12 @@
                         Drømme, og af Blandingen fremgik hans to Hovedværker »<bibl>Kehamas
                             Forbandelse</bibl>« og »<bibl>Thalaba, Ødelæggeren</bibl>«. Retningen
                         mod Østerland er en fælles romantisk, vi finde den samtidigt hos
-                            <persName>Oehlenschläger</persName>, og da Bevægelsen naaer Frankrig hos
-                            <persName>Hugo</persName> (»<bibl>Aly og Gulhyndi</bibl>« – »<bibl>Les
+                            <persName key="adam-oehlenschlager">Oehlenschläger</persName>, og da Bevægelsen naaer Frankrig hos
+                            <persName key="victor-hugo">Hugo</persName> (»<bibl>Aly og Gulhyndi</bibl>« – »<bibl>Les
                             orientales</bibl>«<!-- tilføjet »« på begge -->). Men hvad der særligt
                         maatte lokke de engelske Digtere til Orienten var det farveløse
                         protestantiske Liv i Hjemmet med dets strenge og kolde Decorum. Dog der
-                        udfordredes en Irlænder, <persName>Thomas Moore</persName>, en Colorist med
+                        udfordredes en Irlænder, <persName key="thomas-moore">Thomas Moore</persName>, en Colorist med
                         celtisk Blod i sine Aarer til om saa blot tilnærmelsesvis at forstaae <pb n="145"/> et Folk og en Sagnverden som det gamle Persiens og til i det
                         engelske Sprog at gjenfremstille Østens Natur i en Stil, der er som
                         overstrøet med Juveler og barbariske Ornamenter. »<bibl>Lalla
@@ -3408,7 +3408,7 @@
                         en eller anden syrisk Moskee, der har ledet dem hid fra det fjerne Khorasan?
                         Nei Allah ene, som bestemte hin Slægt til Menneskets Straf og Plage
                         […]«<!-- lemma slut --> Det er umuligt for en indfødt Araber at udtrykke sig
-                        med mere Kritik. Og saaledes gjennemgaaende. <persName>Southey</persName>
+                        med mere Kritik. Og saaledes gjennemgaaende. <persName key="robert-southey">Southey</persName>
                         opdynger phantastiske Motiver, for saa, naar han selv bliver kjed deraf
                         eller synes, at Læseren kan trænge til en Lære, selv at slaae dem sønder og
                         sammen med en eller anden evangelisk Text. <persName type="fictional">Thalaba</persName> har paa sin Finger en Talisman, som beskytter ham
@@ -3485,16 +3485,16 @@
                         Straf.«<!-- lemma slut --> O <persName type="fictional">Thalaba</persName>!
                         du taler som en Bog, men som en af de Bøger, man lukker. Lad os lukke den og
                         kaste et Afskedsblik paa dens Forfatter. <ref target="n"/>Selv
-                            <persName>Thackeray</persName>, der overroser
-                            <persName>Southey</persName> som Charakter, maa om hans Hovedværk
+                            <persName key="william-makepeace-thackeray">Thackeray</persName>, der overroser
+                            <persName key="robert-southey">Southey</persName> som Charakter, maa om hans Hovedværk
                         tilstaae, at det vel turde være muligt at i Kampen mellem <persName type="fictional">Thalaba</persName><!-- ikke værket if. SS, s. 355 -->
                         og Tiden er det den sidste »Ødelægger«, der har beholdt
                         Valpladsen<!-- lemma slut -->. Jeg gad vide hvor mange nulevende
                         Engelskmænd, der have læst dette Digt. For Efterslægten er og bliver
-                            <persName>Southeys</persName> Navn kun bekjendt ved hans hysteriske
-                        Udfald mod <persName>Byron</persName> og dennes guddommelige Contrahug. <ref target="n"/>Vi have <persName>Southeys</persName>
+                            <persName key="robert-southey">Southeys</persName> Navn kun bekjendt ved hans hysteriske
+                        Udfald mod <persName key="george-gordon-byron">Byron</persName> og dennes guddommelige Contrahug. <ref target="n"/>Vi have <persName key="robert-southey">Southeys</persName>
                             »<bibl>Domsvision</bibl>« at takke for
-                        <persName>Byrons</persName><!-- lemma slut --> og for den sidstes Skyld
+                        <persName key="george-gordon-byron">Byrons</persName><!-- lemma slut --> og for den sidstes Skyld
                         tilgive vi ham gjerne baade »<bibl>Kehama</bibl>« og
                         »<bibl>Thalaba</bibl>«<!-- if. SS er der tale om værkerne, ikke personerne - SS s. 355 -->.
                         Og dog – hvor meget tomt Phantasteri disse Digte end indeholde: til
@@ -3502,7 +3502,7 @@
                         Romantikerne i Tydskland. Selv midt under al denne romantiske Forvildelse
                         fornegter Englænderens ædrue og naturalistiske Anlæg sig ikke. Hvor smuk er
                         ikke strax Digtets første Strophe med dens Skildring af Ørkennatten, hvis
-                        milde Tonefald <persName>Shelley</persName> som Yngling efterlignede i sin
+                        milde Tonefald <persName key="percy-bysshe-shelley">Shelley</persName> som Yngling efterlignede i sin
                             »<bibl>Queen Mab</bibl>«!</p>
                     <cit>
                         <quote>
@@ -3523,7 +3523,7 @@
                     </cit>
                     <p> Karavansangen i 5te Akt af »<bibl>Aladdin</bibl>«<!-- tilføjet --> giver
                         ikke et skjønnere Billede af Maaneskinnet paa Ørkenens Sand. Og af saadanne
-                        Billeder er der hos <persName>Southey</persName> ikke faa. Naar han skildrer
+                        Billeder er der hos <persName key="robert-southey">Southey</persName> ikke faa. Naar han skildrer
                         den frygtsomme Antilope, der hører de Vandrendes Skridt og som staaer stille
                         tvivlsom, hvorhen den skal vende sig i det usikre Skjær, eller Strudsen, som
                         i sin blinde Hast iler lige mod dem, medens de ubevægelige Taager udbrede
@@ -3532,37 +3532,37 @@
                             <lem wit="B SS Fu 1923-24">udført</lem>
                             <rdg wit="A">adført</rdg>
                         </app> paa Grundlag af engelsk Iagttagelsesaand.</p>
-                    <p> Der er blevet aflagt varmere Vidnesbyrd til Fordel for <persName>Robert
+                    <p> Der er blevet aflagt varmere Vidnesbyrd til Fordel for <persName key="robert-southey">Robert
                             Southeys</persName> Charakter af hans Samtidige og Venner end ret let om
                         nogen anden Mand af et saa tvivlsomt politisk og literært Renommée. Han var
-                        for <persName>Wordsworth</persName> en paalidelig Ven, for
-                            <persName>Coleridge</persName> den bedste og mest trofaste Støtte og
-                        hvad der ikke falder mindst tungt i Vægtskaalen <persName>Walter Savage
+                        for <persName key="william-wordsworth">Wordsworth</persName> en paalidelig Ven, for
+                            <persName key="samuel-taylor-coleridge">Coleridge</persName> den bedste og mest trofaste Støtte og
+                        hvad der ikke falder mindst tungt i Vægtskaalen <persName key="walter-savage-landor">Walter Savage
                             Landor</persName> hædrede ham trods sit stikmodsatte politiske
                         Standpunkt med et Venskab, der først sluktes ved Døden og som har sat sig
                         talrige Mindesmærker i Landors »<bibl>Imaginary Conversations</bibl>«. Da
-                            <persName>Emerson</persName> 15de Mai 1833 har spist til Middag hos
-                            <persName>Landor</persName> skriver han: <ref target="n"/>»Jeg spiste
-                        med <persName>Landor</persName> – han pinte mig med
-                            <persName>Southey</persName> – men hvem er
-                        <persName>Southey</persName>?«<!-- lemma slut --> Man seer, at
-                            <persName>Landor</persName> har stræbt at gjøre Proselyter for sin Ven.
-                            <ref target="n"/>Endelig har <persName>Thackeray</persName>, hvor han
+                            <persName key="ralph-waldo-emerson">Emerson</persName> 15de Mai 1833 har spist til Middag hos
+                            <persName key="walter-savage-landor">Landor</persName> skriver han: <ref target="n"/>»Jeg spiste
+                        med <persName key="walter-savage-landor">Landor</persName> – han pinte mig med
+                            <persName key="robert-southey">Southey</persName> – men hvem er
+                        <persName key="robert-southey">Southey</persName>?«<!-- lemma slut --> Man seer, at
+                            <persName key="walter-savage-landor">Landor</persName> har stræbt at gjøre Proselyter for sin Ven.
+                            <ref target="n"/>Endelig har <persName key="william-makepeace-thackeray">Thackeray</persName>, hvor han
                         søger om Typen for en engelsk Gentleman, ikke betænkt sig paa at nævne den
-                        fattige, flittige og hjælpsomme <persName>Robert Southey</persName> som
+                        fattige, flittige og hjælpsomme <persName key="robert-southey">Robert Southey</persName> som
                         Mønsteret paa en saadan<!-- lemma slut -->.</p>
                     <p> Men intet Vidnesbyrd til Fordel for hans personlige Charakter vil kunne
                         redde hans litterære. Den er stemplet af hans Lovsange over Englands
                         Kongehus, og af <ref target="n"/>hans Denunciation af
-                            <persName>Byron</persName><!-- lemma slut -->. At han som Søskolens
+                            <persName key="george-gordon-byron">Byron</persName><!-- lemma slut -->. At han som Søskolens
                         øvrige Medlemmer stillede sig koldt og fjendtligt til dette nye og
                         hensynsløse litterære Phænomen, var naturligt. Men <pb n="152"/> at han –
                         selv en Digter – hidsede den dannede Pøbel mod en anden og saa uendeligt
                         større Digter med den perfide Anklage for Immoralitet og Irreligiøsitet, det
                         er en Forbrydelse, som Historien ikke tilgiver og som den straffer ved kun
-                        at opbevare <persName>Southeys</persName> Navn i en Note til
-                            <persName>Byrons</persName> Virksomhed. Da »<bibl>Don Juan</bibl>« kom
-                        ud, skrev <persName>Southey</persName>:</p>
+                        at opbevare <persName key="robert-southey">Southeys</persName> Navn i en Note til
+                            <persName key="george-gordon-byron">Byrons</persName> Virksomhed. Da »<bibl>Don Juan</bibl>« kom
+                        ud, skrev <persName key="robert-southey">Southey</persName>:</p>
                     <p>
                         <ref target="n"/>»Jeg er ikke blind for, at Publikum er særligt intolerant
                         mod litterære Reformforsøg […] Men jeg vilde ønske, at den litterære
@@ -3610,15 +3610,15 @@
                         Kraftextract nok til at forsyne et helt Dusin ledende Artikler i
                         anti-fritænkerske Organer, og ethvert kraftigt Udbrud af en mægtig Partiaand
                         har culturhistorisk Værdi. Men var det ikke som en Nemesis over
-                            <persName>Southey</persName> at en Boghandler i Aaret 1821, samme Aar
+                            <persName key="robert-southey">Southey</persName> at en Boghandler i Aaret 1821, samme Aar
                         som han affyrede denne Salve, skulde falde paa at gjøre sig en Indtægt ved
                         hemmeligt at optrykke hans gamle oprørske »<bibl>Wat
                         Tyler</bibl>«<!-- tilføjet -->, saa at Digteren maatte henvende sig til
                         Domstolene for at faae Oplaget undertrykt og Ophavsmanden straffet, – og at
-                            <persName>Lord Eldon</persName> da svarede med at afvise Sagen, fordi
+                            <persName key="john-scott-1-earl-of-eldon">Lord Eldon</persName> da svarede med at afvise Sagen, fordi
                         han ikke ansaa det for rigtigt at understøtte nogen Forfatter i hans Ret med
                         Hensyn til direkte skadelige og <pb n="155"/> Sædeligheden nedbrydende
-                        Producter! Samme Aar var det saa, at <persName>Southey</persName> i
+                        Producter! Samme Aar var det saa, at <persName key="robert-southey">Southey</persName> i
                         Anledning af den gamle sindssvage <persName>Kong Georg den 3dies</persName>
                         Død skrev sit lange triste Hexameterdigt »<bibl>The vision of
                             judgment</bibl>«<app>
@@ -3626,12 +3626,12 @@
                             <rdg wit="A B">et</rdg>
                         </app> Digt som det ikke blot paa Grund af Sujettes Lighed men ogsaa paa
                         Grund af Overensstemmelsen med Hensyn til Benyttelsen af det Overnaturlige
-                        er interessant at sammenligne med <persName>Victor Hugos</persName>
+                        er interessant at sammenligne med <persName key="victor-hugo">Victor Hugos</persName>
                         legitimistiske Digt »<bibl>Visionen</bibl>«<note place="bottom">G. Brandes:
                                 »<bibl>Reactionen i Frankrig</bibl>« S. 279.</note>. Charakteristisk
-                        nok apotheoserede <persName>Southey</persName> den stakkels gamle
+                        nok apotheoserede <persName key="robert-southey">Southey</persName> den stakkels gamle
                             <persName>Georg den 3die</persName> for de eneste Dyder, han havde
-                        besiddet og som <persName>Southey</persName> selv forstod, de huslige og
+                        besiddet og som <persName key="robert-southey">Southey</persName> selv forstod, de huslige og
                         borgerlige Dyder: at han var tro mod sin Kone, god mod sine Børn o. s. v.,
                         Egenskaber, der lige saa lidt udgjøre en god Konge som en god Digter. Saa
                         var for <persName>Byron</persName> Maalet fuldt. Den krænkede <ref target="n"/>Apollo reiste sig i sin Vrede, med ubeskrivelig Humor greb
