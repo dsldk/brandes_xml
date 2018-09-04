@@ -73,7 +73,7 @@
                         </lg>
                     </quote>
                     <bibl>
-                        <persName key="">HEBBEL</persName>.</bibl>
+                        <persName key="friedrich-hebbel">HEBBEL</persName>.</bibl>
                 </cit>
             </epigraph>
         </front>
@@ -3634,14 +3634,14 @@
                         besiddet og som <persName key="robert-southey">Southey</persName> selv forstod, de huslige og
                         borgerlige Dyder: at han var tro mod sin Kone, god mod sine Børn o. s. v.,
                         Egenskaber, der lige saa lidt udgjøre en god Konge som en god Digter. Saa
-                        var for <persName>Byron</persName> Maalet fuldt. Den krænkede <ref target="n"/>Apollo reiste sig i sin Vrede, med ubeskrivelig Humor greb
+                        var for <persName key="george-gordon-byron">Byron</persName> Maalet fuldt. Den krænkede <ref target="n"/>Apollo reiste sig i sin Vrede, med ubeskrivelig Humor greb
                         han den stakkels Marsyas<!-- lemma slut --> ved Øret og flaaede ham levende
                         i sin »<bibl>Domsvision</bibl>«.</p>
                 </div>
                 <div>
                     <head type="add">10. Den historiske og etnografiske naturalisme</head>
                     <head>X.</head>
-                    <p> Lad os fra <persName>Southey</persName> vende Blikket mod en bedre Mand end
+                    <p> Lad os fra <persName key="robert-southey">Southey</persName> vende Blikket mod en bedre Mand end
                         han, mod den Digter, der formede den eiendommeligt britiske Romantik paa
                         Folkenaturens og Historiens Grund, der ikke som <pb n="156"/> Søskolens Mænd
                         maatte gjøre sig til Renegat for at blive conservativ i religiøs og politisk
@@ -3653,12 +3653,12 @@
                         Indflydelse paa Europas Historieskrivning ikke blev ringere end den han
                         udøvede paa Romandigtningen i alle civiliserede Lande.</p>
                     <p>
-                        <persName>Walter Scott</persName> fødtes i <placeName>Edinburgh</placeName>
+                        <persName key="sir-walter-scott">Walter Scott</persName> fødtes i <placeName>Edinburgh</placeName>
                         den <app>
                             <lem wit="SS Fu 1923-24">15de</lem>
                             <rdg wit="A B">15</rdg>
                         </app> August 1771 som den niende Søn i en gammel adelig Familie.
-                            <persName>Faderen</persName> var Jurist og synes med sin strenge
+                            <persName key="0">Faderen</persName> var Jurist og synes med sin strenge
                         Ordenssands at have havt nogen Lighed med <persName>Goethes
                         Fader</persName>; Sønnen har malt ham, siges der, som den gamle Kjøbmand i
                             »<bibl>Rob Roy</bibl>«. Der herskede i Familien en stærk monarchisk
@@ -3676,7 +3676,7 @@
                         Høilændernes og Skotternes gamle Kampe; allerede i den spædeste Alder kunde
                         han lange Stykker udenad af hin <bibl>Ballade</bibl> om
                             <persName>Hardiknut</persName>, <ref target="n"/>hvormed han i 1815
-                        skulde aflokke <persName>Byron</persName> Taarer<!-- lemma slut -->. Alt
+                        skulde aflokke <persName key="george-gordon-byron">Byron</persName> Taarer<!-- lemma slut -->. Alt
                         hvad der var Anekdotagtigt især i Rim og Balladeform lærte han med Lethed,
                         derimod bemærkes det udtrykkeligt, hvad der allerede antyder Charakteren af
                         hans senere Production, at Aarstal og <emph>almindelige Principer</emph>
