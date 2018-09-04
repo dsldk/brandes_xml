@@ -2910,8 +2910,8 @@
                         Pauluner, og efter hvilke den litterære Skole, de efter de Samtidiges
                         Opfattelse udgjorde, fik Navn. Navnet betyder imidlertid ei stort meer end
                             <ref target="n"/>om man 1830 havde villet kalde
-                            <persName>Hauch</persName>, <persName>Ingemann</persName>,
-                            <persName>Wilster</persName> og <persName>Peder Hjort</persName>
+                            <persName key="carsten-hauch">Hauch</persName>, <persName key="b-s-ingemann">Ingemann</persName>,
+                            <persName key="christian-wilster">Wilster</persName> og <persName key="peder-hjort">Peder Hjort</persName>
                         Soranere<!-- lemma slut -->. De engelske Digtere af Søskolen vare fuldt saa
                         forskjelligt anlagte som de nævnte Lectorer i Sorø. Men Kritiken slog
                             <persName>Coleridge</persName> bestandig sammen med
