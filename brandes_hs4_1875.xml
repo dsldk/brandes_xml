@@ -4589,9 +4589,9 @@
                         og <persName key="victor-hugo">Hugo</persName> og <persName key="alexandre-dumas-den-aeldre">den ældre Dumas</persName>
                             (»<bibl>Les Mousquetaires</bibl>«), i Italien en Discipel som
                             <persName key="alessandro-manzoni">Manzoni</persName>, i Tydskland Aandsbeslægtede som
-                            <persName>Fouqué</persName>, i Danmark Beundrere og Elever som
-                            <persName>Poul Møller</persName>, <persName key="b-s-ingemann">Ingemann</persName> og
-                            <persName>Hauch</persName>, er i vore Dage ved Tidens stumme, men
+                            <persName key="friedrich-baron-de-la-motte-fouque">Fouqué</persName>, i Danmark Beundrere og Elever som
+                            <persName key="poul-martin-moller">Poul Møller</persName>, <persName key="b-s-ingemann">Ingemann</persName> og
+                            <persName key="carsten-hauch">Hauch</persName>, er i vore Dage ved Tidens stumme, men
                         lærerige Kritik bleven Yndlingsdigteren for Drenge og Piger omkring
                         Fjortenaarsalderen, en Digter, som alle Voxne <emph>have</emph> læst og
                         ingen Voxen nogensinde læser.</p>
@@ -4599,7 +4599,7 @@
                 <div>
                     <head type="add">11. Universel sensualisme</head>
                     <head>XI.</head>
-                    <p> I <persName>Keats’s</persName> beundringsværdige Fragment
+                    <p> I <persName key="john-keats">Keats’s</persName> beundringsværdige Fragment
                             »<bibl>Hyperion</bibl>« forekommer der en Scene, hvor hele den styrtede
                         Gudeæt ligger overvunden i en dyb Klippehule under Jorden. Man er ved at
                         holde Raad, og Titanernes Gud, den gamle <persName type="fictional">Saturn</persName>, slutter sin modløse Tale: <ref target="n"/>»Her ere
@@ -4675,21 +4675,21 @@
                             »<persName type="fictiona">Apollo</persName>, ung <persName type="fictional">Apollo</persName>! morgenlyse <persName type="fictional">Apollo</persName>! hil dig, ung <persName type="fictional">Apollo</persName>!«<!-- lemma slut --> Jeg flyede, det
                         fulgte mig og raabte »<persName type="fictional">Apollo</persName>!««<!-- tilføjet slut.cit. --> –</p>
                     <p>
-                        <persName>Keats</persName> har aldrig skrevet noget saa smukt som dette
+                        <persName key="john-keats">Keats</persName> har aldrig skrevet noget saa smukt som dette
                         Sted, og det er ligesaa tankedybt som deiligt. Jeg stiller det ikke i
                         Spidsen for hvad jeg har at sige om ham alene som Prøve paa hans Poesies
                         Storhed og Fylde, men som Indledning ikke blot til hans, men til den hele
-                        yngre Digterslægts Optræden efter at Søskolen og <persName>Scott</persName>
+                        yngre Digterslægts Optræden efter at Søskolen og <persName key="sir-walter-scott">Scott</persName>
                         havde erobret det poetiske Scepter. I de regjerende Guders Navn er den
                         menneskelige Aand altid fordømt til Ubevægelighed og Stillestaaen. <pb n="201"/> Fremskridtet behøver et Tronskifte.
-                            <persName>Wordsworth</persName> og <persName>Scott</persName> vare som
+                            <persName key="william-wordsworth">Wordsworth</persName> og <persName key="sir-walter-scott">Scott</persName> vare som
                         mægtige Titanguder, hvis Glands blegnede for den unge Slægts, og
-                            <persName>Keats</persName> selv var den straalende Fugl, der hævede sig
-                        høit op i Luften fra <persName>Wordsworth’s</persName> gamle storbladede
-                        Steneg. Var ikke <persName>Byron</persName> den nye Havets Gud, der befoer
+                            <persName key="john-keats">Keats</persName> selv var den straalende Fugl, der hævede sig
+                        høit op i Luften fra <persName key="william-wordsworth">Wordsworth’s</persName> gamle storbladede
+                        Steneg. Var ikke <persName key="george-gordon-byron">Byron</persName> den nye Havets Gud, der befoer
                         Lidenskabens Vande med en Skjønhed i sit Øie, som bragte Tidens største
                         digteriske Genius til at forlade sit Rige, sikker paa ei at kunne bestaae i
-                        Væddekampen? Og løde ikke <persName>Shelleys</persName> Melodier saa sødt
+                        Væddekampen? Og løde ikke <persName key="percy-bysshe-shelley">Shelleys</persName> Melodier saa sødt
                         berusende og uhørt dristigt gjennem Luften, at de endnu den Dag idag trænge
                         igjennem overalt, skjøndt man med <persName type="fictional">Clymene</persName> holder for sine Øren og saa længe som muligt vægrer
                         sig ved at laane de nye Toner villigt Øre? Det nytter ikke Noget, thi fra
@@ -4697,31 +4697,31 @@
                         morgenlyse <persName type="fictional">Apollo</persName><!-- lidt tricky mht. opmærkning; der er jo ikke tale om Keats' figur, men om en slags citat/genbrug -->!
                         –</p>
                     <p> De gamle Guder indtoge som i Digtet en forskjellig Holdning.
-                            <persName>Scott</persName>, den ædleste af dem alle, <ref target="n"/>strøg, som vi have seet, Flag<!-- lemma slut --> for
-                            <persName>Byron</persName> med en Adel og Mildhed som har føiet en
-                        Krands til hans mange andre, <persName>Wordsworth</persName> trak sig
+                            <persName key="sir-walter-scott">Scott</persName>, den ædleste af dem alle, <ref target="n"/>strøg, som vi have seet, Flag<!-- lemma slut --> for
+                            <persName key="george-gordon-byron">Byron</persName> med en Adel og Mildhed som har føiet en
+                        Krands til hans mange andre, <persName key="william-wordsworth">Wordsworth</persName> trak sig
                         knurrende tilbage til sine Søer med <ref target="n"/>en
                         Plagiatbeskyldning<!-- lemma slut --> mellem sine Læber,
-                            <persName>Southey</persName> spyede Galde og Gift – og imens indtoge de
+                            <persName key="robert-southey">Southey</persName> spyede Galde og Gift – og imens indtoge de
                         nye, unge Guder deres Troner og slyngede Solstraalerne som Glorier om deres
-                        Isse. <persName>Keats</persName> var den aller yngste af de unge og udrustet
+                        Isse. <persName key="john-keats">Keats</persName> var den aller yngste af de unge og udrustet
                         med eiendommelige Attributer og et eget Rige, i hvilket Ingen af de an<pb n="202"/>dre<!-- her mangler en bindestreg; ikke noteret som TR; der er gjort plads til den i org. -->
                         gjorde noget Indgreb. Han er et af de mange Exempler paa, hvorledes de
                         fineste og sjeldneste Organismer kunne opdukke i grove ydre Forhold og
                         udfolde sig næsten uden Begunstigelse af Omstændighederne. Denne Yngling,
                         der død i sit 26de Aar har efterladt sig Mesterværker, som Ingen der har
-                        læst dem, kan glemme, og hvis Navn <persName>Shelley</persName> i sin
+                        læst dem, kan glemme, og hvis Navn <persName key="percy-bysshe-shelley">Shelley</persName> i sin
                             »<bibl>Adonais</bibl>« har skrevet ind blandt sine Stjerner, var Søn af
                         en Londonerhyrekudsk og opdraget som Apothekerlærling. For de fleste af den
-                        ældre Slægt var han ubekjendt. <persName>Wordsworth</persName> – den eneste
+                        ældre Slægt var han ubekjendt. <persName key="william-wordsworth">Wordsworth</persName> – den eneste
                         ældre, mod hvem hans Blik stadig var vendt, og med større Ærefrygt, end
-                        nogen Anden af de unge følte for ham, – selv <persName>Wordsworth</persName>
-                        viste sig kold. Da <persName>Keats</persName> en Aften hos Maleren
-                            <persName>Haydon</persName>, hvor Veteranen fra Rydal Mount var
+                        nogen Anden af de unge følte for ham, – selv <persName key="william-wordsworth">Wordsworth</persName>
+                        viste sig kold. Da <persName key="john-keats">Keats</persName> en Aften hos Maleren
+                            <persName key="benjamin-haydon">Haydon</persName>, hvor Veteranen fra Rydal Mount var
                         tilstede, blev opfordret til at foredrage den skjønne Hymne til Pan af hans
                             »<bibl>Endymion’s</bibl>« første Bog, hørte den graahærdede Digter den
                         til Ende uden Afbrydelse og bemærkede saa blot, at det var <ref target="n"/>»et smukt Stykke Hedenskab«<!-- lemma slut -->. Det var det, og Ære være
-                            <persName>Keats</persName> derfor! Men <persName>Wordsworth</persName>
+                            <persName key="john-keats">Keats</persName> derfor! Men <persName key="william-wordsworth">Wordsworth</persName>
                         vilde neppe sige noget Smigrende<!-- alle udgaver har denne form --> dermed.
                         Saaledes lød da den vægtigste Stemme fra den gamle Digterskole. En anden lød
                         fra Tidens kritiske Oldermænd. Den var skrattende og hæs. Baade <ref target="n"/>»<bibl>Quarterly</bibl>« og »<bibl>Blackwood Review</bibl>«
@@ -4733,27 +4733,27 @@
                         der var vist ham. Det er høist usandsynligt, at den Tradition, der strax
                         dannede sig mellem <app>
                             <lem wit="B SS Fu 1923-24">
-                                <persName>Keats’</persName>
+                                <persName key="john-keats">Keats’</persName>
                             </lem>
                             <rdg wit="A">Keats</rdg>
                         </app> Bekjendte, om den nedbrydende Virkning, som disse Artikler havde paa
                         hans Helbredstilstand, skulde, som det nu altid paastaaes, savne al Grund.
                             <ref target="n"/>Dræbt af en Artikel, som det hedder i
-                            <persName>Byrons</persName> »<bibl>Don Juan</bibl>«<!-- lemma slut -->,
-                        blev <persName>Keats</persName> visselig ikke, og hans Udtalelser godtgjøre
+                            <persName key="george-gordon-byron">Byrons</persName> »<bibl>Don Juan</bibl>«<!-- lemma slut -->,
+                        blev <persName key="john-keats">Keats</persName> visselig ikke, og hans Udtalelser godtgjøre
                         i ethvert Fald tilfulde, hvor dyb en Foragt han nærede for de nævnte
                         Udgydelser imod hans Kunst og Person; men hans Ærgjerrighed var heftig, hans
                         Sind modtageligt for Indtryk og hans Legeme havde Dødens Spire i sig; intet
                         Under da om hadske Anfald udenfra rystede en Organisme, der indenfra blev
                         bestormet af tærende Lidenskab og tærende Sygdom.</p>
                     <p>
-                        <persName>Keats</persName> fødtes i October 1795, mistede 9 Aar gammel sin
+                        <persName key="john-keats">Keats</persName> fødtes i October 1795, mistede 9 Aar gammel sin
                         Fader, sattes af sin Moder i en god Skole og mistede hende til sin
                         ubeskrivelige Sorg endnu som Dreng. Hans Udseende svarede til det Indtryk
                         man nu faaer af hans Poesi. Medens den ætheriske og kvindelige
-                            <persName>Shelley</persName> havde en slank, fin og smalskuldret
+                            <persName key="percy-bysshe-shelley">Shelley</persName> havde en slank, fin og smalskuldret
                         Skikkelse og en skinger Røst, havde den ægte jordiske og tungfodede
-                            <persName>Keats</persName> til <pb n="204"/> en noget vel lille
+                            <persName key="john-keats">Keats</persName> til <pb n="204"/> en noget vel lille
                         Underkrop et bredt kraftfuldt Bryst med stærke Skuldre og en dyb alvorlig
                         Stemme. Hans lille Hoved var omgivet af tykke brune Lokker, Øinene store,
                         glødende mørkeblaae og glimtende ved stærk Sindsbevægelse, Munden smukt
@@ -4772,15 +4772,15 @@
                         Litteraturen. Efter nogle Aars Samliv med en Del af de unge Mænd i Datiden,
                         hvis Interesser grupperede sig om Kunst og Poesi, og som bare Landets
                         litterære Fremtid, ramtes han af den Sygdom, der alt havde dræbt
-                            <persName>hans Moder</persName> og <persName>yngre Broder</persName>.
+                            <persName>hans Moder</persName> og <persName key="thomas-keats">yngre Broder</persName>.
                         Den udvikledes under Bekymringen for, hvor<pb n="205"/>ledes han skulde
                         skaffe sig sit Livsophold og under den bestandig mere trykkende Følelse af
                         Trang. Den fremskyndedes af en dyb og gjengjældt, men paa Grund af
-                            <persName>Keats’s</persName> Fattigdom haabløs Lidenskab for en ung
+                            <persName key="john-keats">Keats’s</persName> Fattigdom haabløs Lidenskab for en ung
                         engelsk-ostindisk Dame. Den nødvendiggjorde hans Adskillelse fra hende paa
                         en Reise til Syden. Den dræbte ham i <placeName>Rom</placeName>.</p>
                     <p> Jeg finder, naar jeg kaster Blikket hen over den ikke-litterære Del af
-                            <persName>Keats’s</persName> Levnet kun tre biographiske Hovedfacta:
+                            <persName key="john-keats">Keats’s</persName> Levnet kun tre biographiske Hovedfacta:
                         Udsigtsløsheden med Hensyn til hans Udkomme, den dybe og haabløse Lidenskab
                         for hende, uden hvem Livet var ham Intet, og endelig den tærende Sygdom. I
                         Aaret 1820 efter de første Anfald af Brystsygen synes han at have boet i Hus
@@ -4801,12 +4801,12 @@
                         Lidelser og ønsker saa atter Døden bort, da Døden vilde tilintetgjøre selve
                         disse Lidelser, som ere bedre end Intet. Land og Hav, Svaghed og Tæring ere
                         store Adskillere, men Døden er den store Adskiller for bestandig […] Jeg
-                        tænker sjældent paa <persName>min Broder</persName> og
+                        tænker sjældent paa <persName key="george-keats">min Broder</persName> og
                             <persName>Søster</persName> i Amerika; men Tanken om at skulde forlade
                         Miss ** er skrækkelig fremfor alt Andet; en Følelse af Mørke kommer over mig
                         ved den; jeg seer uafladeligt hendes uafladeligt forsvindende
                         Aasyn.«<!-- lemma slut --> Og i et andet Brev skriver han: <ref target="n"/>»Overbevisningen om at jeg ikke mere skal gjensee hende vil dræbe mig. Min
-                        kjære <persName>Brown</persName>, jeg skulde have havt hende, mens jeg var
+                        kjære <persName key="fanny-brawne">Brown</persName>, jeg skulde have havt hende, mens jeg var
                         rask, og jeg var ikke bleven syg. Jeg kan ei udholde at døe – jeg kan ei
                         udholde at forlade hende. O Gud, Gud, Gud! Alt hvad jeg har i mine
                         Kufferter, som erindrer mig om hende, gaaer igjennem mig som et Spyd. Det
@@ -4818,21 +4818,21 @@
                             <placeName>Neapel</placeName>; jeg føler mig ikke i ringeste Maade
                         berørt af de tusind nye Ting rundt omkring mig. Jeg frygter for at skrive
                         til hende. Men det vilde være mig kjært, om hun vidste, jeg ikke har glemt
-                        hende. O <persName>Brown</persName>! jeg har glødende Kul i mit Bryst. Det
+                        hende. O <persName key="fanny-brawne">Brown</persName>! jeg har glødende Kul i mit Bryst. Det
                         overrasker mig, at det menneskelige Hjerte er istand til at udholde og bære
                         saa megen Elendighed. Blev jeg født for at ende
                         saaledes?«<!-- lemma slut -->
                     </p>
                     <p> Paa den sidste Dag i November 1820 skrev han sit sidste Brev. En kyndig
-                        Læge, en fortrolig Ungdomsven af <persName>Keats</persName>, <persName>Dr.
+                        Læge, en fortrolig Ungdomsven af <persName key="john-keats">Keats</persName>, <persName key="james-clark">Dr.
                             Clark</persName> bevarede hans Liv endnu Vinteren over. I
                             <placeName>Neapel</placeName> havde han modtaget <ref target="n"/>et
-                        hjerteligt Brev fra <persName>Shelley</persName><!-- lemma slut -->, der
+                        hjerteligt Brev fra <persName key="percy-bysshe-shelley">Shelley</persName><!-- lemma slut -->, der
                         indbød ham til at komme til <placeName>Pisa</placeName>, hvor han skulde
                         modtage enhver Art Pleie og Hjælp. Han modtog ikke Tilbudet. Efter nogle
                         Ugers kvalfulde Lidelser kom en Tilstand af Resignation og Ro med Hvile og
                         Søvn. Han ønskede at et Brev fra hans Elskede, som han ikke vovede at læse,
-                        sammen med en Pung og et Brev fra <persName>hans Søster</persName> skulde
+                        sammen med en Pung og et Brev fra <persName key="fanny-keats">hans Søster</persName> skulde
                         lægges i hans Kiste og bestemte, at paa hans Grav de Ord skulde skrives:</p>
                     <cit>
                         <quote>
@@ -4843,7 +4843,7 @@
                             </lg>
                         </quote>
                     </cit>
-                    <p>Berøringen af <persName>Shelleys</persName> magiske Stav stivnede <pb n="208"/> Vandet til Is og lod Navnet staae som indridset i Krystal for alle
+                    <p>Berøringen af <persName key="percy-bysshe-shelley">Shelleys</persName> magiske Stav stivnede <pb n="208"/> Vandet til Is og lod Navnet staae som indridset i Krystal for alle
                         følgende Tider. <note place="bottom">
                             <cit>
                                 <quote>
@@ -4860,36 +4860,36 @@
                         </note>
                     </p>
                     <p>
-                        <persName>Keats’s</persName> Poesi er den engelske Naturalismes stærkest
+                        <persName key="john-keats">Keats’s</persName> Poesi er den engelske Naturalismes stærkest
                         duftende Blomst. Den havde jo allerede, da han opstod, havt en lang og
                         kraftig Væxt. Dens Løsen var, som vi saa, først bleven formuleret af
-                            <persName>Wordsworth</persName> og af ham bragt saaledes i Methode, at
+                            <persName key="william-wordsworth">Wordsworth</persName> og af ham bragt saaledes i Methode, at
                         han inddeler sine Digte i Grupper, svarende til Livets forskjellige Aldre og
-                        til Sjælens forskjellige Evner. Den fik hos <persName>Coleridge</persName>
+                        til Sjælens forskjellige Evner. Den fik hos <persName key="samuel-taylor-coleridge">Coleridge</persName>
                         Rygstød i en halvt Schellingsk Naturphilosophi, den optraadte seirrig hos
-                            <persName>Scott</persName> som et af Fædrelandskjærligheden baaret
+                            <persName key="sir-walter-scott">Scott</persName> som et af Fædrelandskjærligheden baaret
                         Menneske- og Landskabsstudium, som historisk Begeistring og som Geniets
                         Opdagerblik for Racernes gjennemgribende Betydning. Den opstaaer endelig
-                        baade hos <persName>Moore</persName> og <persName>Keats</persName> som rig
+                        baade hos <persName key="thomas-moore">Moore</persName> og <persName key="john-keats">Keats</persName> som rig
                         og pragtfuld Sensualisme, baaret af Organismer, hvis Sandser besidde en
                         Modtagelighed for Yderverdenens Skjønhedsindtryk, mod hvilken <app>
                             <lem wit="B SS Fu 1923-24">Menneskenes</lem>
                             <rdg wit="A">Mennekenes</rdg>
                         </app> sædvanlige Paavirkelighed synes sløv og stump. Men hos
-                            <persName>Moore</persName> er Sandseligheden, medens den kunstnerisk
+                            <persName key="thomas-moore">Moore</persName> er Sandseligheden, medens den kunstnerisk
                         aabenbarer sig i en varm og glimrende Colorit, ensidigt rettet paa det
-                        Erotiske og af en let og legende Natur. Hos <persName>Keats</persName> er
+                        Erotiske og af en let og legende Natur. Hos <persName key="john-keats">Keats</persName> er
                         den omfattende, gediegen og tung, paa ingen <pb n="209"/> Maade særligt
                         erotisk, men alsidig og i denne sin Alsidighed et beundringsværdigt Extrem
                         af den fællesengelske Naturalisme. Denne førte hos
-                            <persName>Wordsworth</persName> til een, allerede skildret, Yderlighed;
-                        hos <persName>Keats</persName> er den drevet til en ganske anden og poetisk
+                            <persName key="william-wordsworth">Wordsworth</persName> til een, allerede skildret, Yderlighed;
+                        hos <persName key="john-keats">Keats</persName> er den drevet til en ganske anden og poetisk
                         langt mere værdifuld.</p>
-                    <p> Blandt alle Englands Digteraander var <persName>Keats</persName> mest af en
+                    <p> Blandt alle Englands Digteraander var <persName key="john-keats">Keats</persName> mest af en
                         Artist. Han var den mindst dogmatiske af dem alle. Hans Poesi har ingen
-                        Støtte i Fædrelandskjærligheden som <persName>Scotts</persName> og
-                            <persName>Moores</persName>, prædiker intet Frihedsevangelium som
-                            <persName>Shelleys</persName> og <persName>Byrons</persName>, den er ren
+                        Støtte i Fædrelandskjærligheden som <persName key="sir-walter-scott">Scotts</persName> og
+                            <persName key="thomas-moore">Moores</persName>, prædiker intet Frihedsevangelium som
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> og <persName key="george-gordon-byron">Byrons</persName>, den er ren
                         Kunst og bæres af Indbildningskraften alene. Det hørte til hans
                         Yndlingssætninger, at <ref target="n"/>den sande Digter ingen Lære eller
                         Mening kunde have, ingen Moral, ja <emph>intet Selv</emph>. Og hvorfor?
@@ -4898,16 +4898,16 @@
                         Digtere, der have glemt sig selv over Gjenstandene for deres Phantasi,
                         gjælder det, at de i Productionens Timer have lagt deres private
                         Eiendommelighed og Forkjærlighed saa vidt muligt tilside; men om
-                            <persName>Keats</persName> gjælder det i den høieste Grad. Ryddede de
+                            <persName key="john-keats">Keats</persName> gjælder det i den høieste Grad. Ryddede de
                         andre deres Arbeidskammer for en Del af deres private Forhaabninger,
                         Sværmerier og Principer, de gjorde det dog ikke saa fuldstændigt som han.
                         Hans Arbeidsværelse var som en af hans Beundrere har sagt det om ham, <ref target="n"/>»en Malers Atelier med lidet andet Bohave end <pb n="210"/>
-                        Staffeliet«<!-- lemma slut -->. – Men selve hin <persName>Keats’s</persName>
+                        Staffeliet«<!-- lemma slut -->. – Men selve hin <persName key="john-keats">Keats’s</persName>
                         poetiske Indifferentisme overfor Anskuelser og Principer var selv en
                         Livsanskuelse og et Princip, nemlig den poetiske Pantheismes. For den
                         consequente poetiske Pantheist ere alle Former, alle Skikkelser, alle
                         Livsytringer paa Jorden, i hvilke Phantasien fordyber sig, kjære og lige
-                        kjære. <persName>Keats</persName> anerkjender for Digteren ingen Sandhed af
+                        kjære. <persName key="john-keats">Keats</persName> anerkjender for Digteren ingen Sandhed af
                         den Art, der reformerer og udelukker; men han nærer en næsten religiøs Tro
                         paa selve Indbildningskraften som Sandhedskilde. Det hedder i et af hans
                         Breve: <ref target="n"/>»Jeg er ikke vis paa Noget uden paa at Hjertets
@@ -4925,16 +4925,16 @@
                         rather than of thoughts!«<!-- lemma slut --><!-- tilføjet »« -->)</p>
                     <p> Han levede for en stor Del et Liv i passive Sandseindtryk, i Fornøielse og
                         Smerte gjennem <pb n="211"/> Sandserne. <ref target="n"/>»Tag,« siger
-                            <persName>Masson</persName>, »<!-- tilføjet -->en Physiologi og
+                            <persName key="david-masson">Masson</persName>, »<!-- tilføjet -->en Physiologi og
                         gjennemgaae de saakaldte Klasser af Sandsninger en efter en – de
                         Sandsninger, der ere knyttede til de blotte Muskeltilstande, dem, der ere
                         forenede med saadanne Livsprocesser som Blodomløb, Ernæring, Aandedræt og
                         elektrisk Forbindelse med omgivende Legemer, Smagssandsningerne,
                         Lugtfornemmelserne, Berørings-, Hørelses-, Synssandsningerne – og man vil
-                        finde at <persName>Keats</persName> var usædvanlig begavet med dem
+                        finde at <persName key="john-keats">Keats</persName> var usædvanlig begavet med dem
                         alle.«<!-- lemma slut --> Han var f. Ex. overordentlig modtagelig for Ganens
                         Fornøielser. <ref target="n"/>En af hans Venner fortæller, at han har seet
-                            <persName>Keats</persName> en Dag bedække sin Tunge med Cayennepeber
+                            <persName key="john-keats">Keats</persName> en Dag bedække sin Tunge med Cayennepeber
                         for, som han sagde, bedre at nyde den behagelige Smag af en Slurk kold
                         Claret derefter<!-- lemma slut -->. <ref target="n"/>»Siden vi tale om
                         Fornøielser,« siger han selv i et Brev, »<!-- tilføjet -->saa skriver jeg i
@@ -4943,7 +4943,7 @@
                         fra denne Sphære ere hyppige hos ham. I hans med Rette berømte »<bibl>Ode
                             til Melancholien</bibl>« hedder det om denne Guddom, at den har sit
                         Alter i selve Glædens Tempel, skjøndt useet af andre end den, der med <ref target="n"/>»<emph>kraftig Tunge kan sprænge Glædens Drue mod sin fine
-                            Gane</emph>«<!-- lemma slut -->, og i en af <persName>Keats’s</persName>
+                            Gane</emph>«<!-- lemma slut -->, og i en af <persName key="john-keats">Keats’s</persName>
                         sidste Sonetter beskriver han Dødens Komme med de betegnende Ord, <ref target="n"/>»<emph>at hans Sjæls Gane mister sin
                         Smag</emph>.«<!-- lemma slut --> Det forstaaer sig, at Høre- og Synssandsen
                             for<pb n="212"/>synede ham med endnu mangfoldigt flere Udtryk end de
@@ -4958,9 +4958,9 @@
                     <p> At kunne gjengive den var fra først af hans Drøm, og han, der <ref target="n"/>om sig selv afgav det Vidnesbyrd, at han slet ingen
                         »Meninger« havde – undtagen med Hensyn til Kunsten<!-- lemma slut -->,
                         sluttede sig lidenskabeligt til den Revolution,
-                            <persName>Wordsworth</persName> og <persName>Coleridge</persName> havde
+                            <persName key="william-wordsworth">Wordsworth</persName> og <persName key="samuel-taylor-coleridge">Coleridge</persName> havde
                         afstedkommet i Bedømmelsen af det forrige Aarhundredes Digtere.
-                            <persName>Spenser</persName> var hans Afgud, den klassiske Kunstdigtning
+                            <persName key="edmund-spenser">Spenser</persName> var hans Afgud, den klassiske Kunstdigtning
                         hans Rædsel og i Digtet »<bibl>Søvn og Poesi</bibl>« har han nedlagt en
                         æsthetisk Troesbekjendelse, der ikke kunde afgives i voldsommere Udtryk.
                         Efter at have skildret Englands gamle poetiske Triumpher, udbryder han: <ref target="n"/>»Kunde Alt dette gaae iglemme? Ja, et Frafald, avlet af
@@ -4972,29 +4972,29 @@
                         Kostbarheder, Skjønheden var vaagen! hvorfor vare I ikke vaagne! […] I gik
                         med en stakkels affældig Standart mærket med det flaueste Motto, hvorpaa med
                         brede Bogstaver stod skrevet det ene Navn
-                        <persName>Boileau</persName>!«<!-- lemma slut --> Saa længe før Stormen i
+                        <persName key="nicolas-boileau-despreaux">Boileau</persName>!«<!-- lemma slut --> Saa længe før Stormen i
                         Frankrig reiser sig mod dette stakkels gamle Navn, støder
-                            <persName>Keats</persName> i Krigstrompeten imod det;
-                            <persName>Théophile Gautier</persName> har ikke nævnet det med større
+                            <persName key="john-keats">Keats</persName> i Krigstrompeten imod det;
+                            <persName key="theophile-gautier">Théophile Gautier</persName> har ikke nævnet det med større
                         Indignation end han. Det maa vel være denne Passus, hvis energiske Stil
                         minder En om <ref target="n"/>
-                        <persName>Kaulbachs</persName> Maleri i <placeName>München</placeName>, hvor
+                        <persName key="wilhelm-von-kaulbach">Kaulbachs</persName> Maleri i <placeName>München</placeName>, hvor
                         Paryktidens Kunstner slumrer med Lededukken i sin Arm<!-- lemma slut -->,
-                        der har givet Anledning til <persName>Byrons</persName> stadige Udfald mod
-                            <persName>Keats</persName> som Angriber af <persName>Pope</persName>.
-                        Men <persName>Keats</persName> har aldrig offentliggjort en Linie mod
-                            <persName>Pope</persName> og naar <persName>Grevinde
+                        der har givet Anledning til <persName key="george-gordon-byron">Byrons</persName> stadige Udfald mod
+                            <persName key="john-keats">Keats</persName> som Angriber af <persName key="alexander-pope">Pope</persName>.
+                        Men <persName key="john-keats">Keats</persName> har aldrig offentliggjort en Linie mod
+                            <persName key="alexander-pope">Pope</persName> og naar <persName key="teresa-guiccioli">Grevinde
                             Guiccioli</persName> i sit naive
                         <bibl>Værk</bibl><!-- fransk: Lord Byron jugé par les témoins de sa Vie: https://catalog.hathitrust.org/Record/005798117S  -->
-                        om <persName>Byron</persName>
+                        om <persName key="george-gordon-byron">Byron</persName>
                         <ref target="n"/>kommer tilbage til disse Angreb, der skulle have opbragt
                         hendes Elskede<!-- lemma slut -->, saa er dette kun elskværdigt kvindeligt
-                        Eftersnakkeri. Derimod har <persName>Keats</persName> rimeligt nok
-                        indbefattet <persName>Pope</persName> blandt de ovenfor Udpegede, hvis Øre
+                        Eftersnakkeri. Derimod har <persName key="john-keats">Keats</persName> rimeligt nok
+                        indbefattet <persName key="alexander-pope">Pope</persName> blandt de ovenfor Udpegede, hvis Øre
                         var lukket for Havets og Vindenes Musik og som sov over sig, naar Morgenen
                         udfoldede sin Skjønhed. <pb n="214"/>
                     </p>
-                    <p> Han var ikke af dem. Analysere vi <persName>Keats’s</persName>
+                    <p> Han var ikke af dem. Analysere vi <persName key="john-keats">Keats’s</persName>
                         Eiendommelighed, finde vi som alt berørt Grundlaget for den i den alsidige
                         Sandselighed. Læs i »<bibl>Oden til Nattergalen</bibl>« denne Strophe:</p>
                     <p>
@@ -5015,7 +5015,7 @@
                         paa et Barn«<!-- tilføjet -->.</p>
                     <p> Til den forfinede og rige Smagssands svarer Lugte- og Følesandsens ideale
                         Finhed. I »<bibl>Isabella</bibl>«, et Digt, der efter
-                            <persName>Boccacio</persName> behandler samme Sujet som <persName>H. C.
+                            <persName key="giovanni-boccaccio">Boccacio</persName> behandler samme Sujet som <persName key="h-c-andersen">H. C.
                             Andersens</persName> Eventyr »<bibl>Rosen-Alfen</bibl>«, staaer der paa
                         det Sted, hvor den unge Pige griber sin Elskedes afhuggede Hoved:</p>
                     <p>
@@ -5049,10 +5049,10 @@
                     <p> Det er unødvendigt at gjøre Læseren opmærksom paa de enkelte Finheder i
                         disse Brudstykker, der endda tabe saa meget ved Oversættelsen i Prosa. Men
                         idet jeg nu gaaer over til Synssandsens Territorium, kommer jeg først til
-                            <persName>Keats’s</persName> egentlige Felt, skjøndt Synssandsen i hans
+                            <persName key="john-keats">Keats’s</persName> egentlige Felt, skjøndt Synssandsen i hans
                         Poesi aldrig paavirkes alene. Skulde jeg sammenligne hans Naturmaleri med
-                            <persName>Wordworth’s</persName>, vilde jeg sige: denne fører os ud i
-                        den egentlige Flora, men med <persName>Keats</persName> træde vi ind i et
+                            <persName key="william-wordsworth">Wordworth’s</persName>, vilde jeg sige: denne fører os ud i
+                        den egentlige Flora, men med <persName key="john-keats">Keats</persName> træde vi ind i et
                         Drivhus: en mild, fugtig <pb n="216"/> Hede slaaer os imøde, brogede
                         Blomster og saftdryppende Frugter møde vort Øie og slanke Palmer, gjennem
                         hvis Grene ingen ublid Vind formaaer at suse, bevæge svagt nikkende deres
@@ -5073,7 +5073,7 @@
                         nærmeste Række Ax og under dens sammenfylkede Blomster en
                         Frist.«<!-- lemma slut -->
                     </p>
-                    <p> Det er <persName>Keats</persName> umuligt at nævne Navnet paa noget Begreb
+                    <p> Det er <persName key="john-keats">Keats</persName> umuligt at nævne Navnet paa noget Begreb
                         eller nogen Tanke uden at han strax fremstiller dem i legemlig eller
                         plastisk Form. Hans talrige Allegorier have et Liv og en Ild, som vare de
                         udførte i Sten af det 16de Aarhun<pb n="217"/>dredes bedste italienske
@@ -5084,14 +5084,14 @@
                         uudtømmelig Strøm af Lys; den er den høieste Styrke, den er <emph>Magt selv,
                             halvt slumrende paa sin høire Arm</emph>.«<!-- lemma slut -->
                     </p>
-                    <p> Saaledes see vi <persName>Keats’s</persName> digteriske Evne vinde stedse
+                    <p> Saaledes see vi <persName key="john-keats">Keats’s</persName> digteriske Evne vinde stedse
                         mere og mere i Omfang. Hans Udgangspunkt og Udgangspunktet i de smukkeste
                         blandt hans mindre Digte (som »<bibl>Oden til Nattergalen</bibl>«) er
                         Skildringen af en rent legemlig Tilstand, som Mathed, Nervøsitet,
                         Opiumsdøsighed, Tørst, Forsmægten; paa denne Baggrund af Sensibilitet hæve
                         saa Sandsebillederne sig frem, tydelige og runde, omtrent som Reliefer paa
                         et Skjold. Jeg veed ikke hvorfor, men Ordet Sammensveisning er flere Gange
-                        kommet mig paa Læben ved Tanken paa <persName>Keats’s</persName> Billeder.
+                        kommet mig paa Læben ved Tanken paa <persName key="john-keats">Keats’s</persName> Billeder.
                         De have noget vist Fuldtlødigt og Færdigt ved sig, som om de paasveisedes en
                         Flade. Man agte nøie paa, hvorledes Skikkelserne langsomt hæve sig frem i de
                         Brudstykker, jeg nu vil citere. Det er den første og tredie Strophe af den
@@ -5111,12 +5111,12 @@
                         stolte og strenge Mø Poesien.«<!-- lemma slut -->
                     </p>
                     <p> Dog det er først i de Par færdigblevne Sange af »<bibl>Hyperion</bibl>« at
-                        det lykkedes <persName>Keats</persName> at beherske sine Kunstmidler fuldt
+                        det lykkedes <persName key="john-keats">Keats</persName> at beherske sine Kunstmidler fuldt
                         og virkeliggjøre det Ideal af plastisk sandselig Bestemthed, der svævede for
                         hans Øie. Her er Reliefet svundet for Statuen og for Statuer af en Stil, som
-                        havde <persName>Michel Angelos</persName> Meisel været med i Spillet ved
-                        deres Fødsel. Lad være man føler Studiet af <persName>Milton</persName>, jeg
-                        tilstaaer, at for mig er dette mere end <persName>Milton</persName>.
+                        havde <persName key="michelangelo-buonarroti">Michel Angelos</persName> Meisel været med i Spillet ved
+                        deres Fødsel. Lad være man føler Studiet af <persName key="john-milton">Milton</persName>, jeg
+                        tilstaaer, at for mig er dette mere end <persName key="john-milton">Milton</persName>.
                         Allerede Sujettets Natur drev Billederne ud i det Colossale. Man læse disse
                         Ord om Gudinden <persName type="fictional">Thea</persName>: <ref target="n"/>»I Sammenligning med hende vilde den høie Amazone have syntes en Dværg i
                         Væxt; hun vilde kunnet gribe Achilles i Haaret og bøie hans Nakke, eller med
@@ -5146,8 +5146,8 @@
                         Pulse trak sig sammen i frygtelig Kamp.«<!-- lemma slut -->
                         <pb n="220"/>
                     </p>
-                    <p> Det var ikke for meget sagt af <persName>Byron</persName>, som tilforn havde
-                        været saa streng mod <persName>Keats</persName>, at Digtet
+                    <p> Det var ikke for meget sagt af <persName key="george-gordon-byron">Byron</persName>, som tilforn havde
+                        været saa streng mod <persName key="john-keats">Keats</persName>, at Digtet
                             »<bibl>Hyperion</bibl>« <ref target="n"/>»virkelig syntes inspireret af
                         Titanerne og var sublimt som
                         <persName>Æschylos</persName><!-- Aischylos -->.«<!-- lemma slut --> Man har
@@ -5166,15 +5166,15 @@
                         med sin Poesies rent kunstneriske Charakter Overgangen fra de conservative
                         til de fremskridtselskende Poeter, men dog med et tydeligt Hang til
                         Fremskridtet, et Hang, hvorpaa hans sværmeriske Venskab for
-                            »<bibl>Examiners</bibl>« radicale Redacteur <persName>Leigh
+                            »<bibl>Examiners</bibl>« radicale Redacteur <persName key="leigh-hunt">Leigh
                             Hunt</persName> er et talende Symptom. Han følte hvad han skrev, naar
                         han i Forbitrelsen over det Liverpool-Castlereaghske Regimente i sit Digt
                             »<bibl>Til Haabet</bibl>« udbrød: <ref target="n"/>»O lad mig see vort
                         Land bevare sin Sjæl, sin Stolthed, sin Frihed, og ikke Frihedens
                         Skygge«<!-- lemma slut --> og Navnene <ref target="n"/>Wilhelm
-                        Tell<!-- lemma slut --><!-- sagnfigur = note -->, <persName>William
+                        Tell<!-- lemma slut --><!-- sagnfigur = note -->, <persName key="william-wallace">William
                             Wallace</persName> og fremfor alle
-                        <persName>Kosciusko</persName><!-- https://books.google.dk/books?id=WIBzoYE_dkYC&pg=PA108&lpg=PA108&dq=Kosciusko+keats&source=bl&ots=0K2s7yISFF&sig=OgEtJAoxpSOiCSU9kHKIFZ3FmFc&hl=da&sa=X&ved=0ahUKEwjSoN2b5ubZAhUHyaYKHTQsA58Q6AEIRTAD#v=onepage&q=Kosciusko%20keats&f=false -->
+                        <persName key="thadeusz-kosciuszko">Kosciusko</persName><!-- https://books.google.dk/books?id=WIBzoYE_dkYC&pg=PA108&lpg=PA108&dq=Kosciusko+keats&source=bl&ots=0K2s7yISFF&sig=OgEtJAoxpSOiCSU9kHKIFZ3FmFc&hl=da&sa=X&ved=0ahUKEwjSoN2b5ubZAhUHyaYKHTQsA58Q6AEIRTAD#v=onepage&q=Kosciusko%20keats&f=false -->
                         forekomme atter og atter nævnte med høieste Beundring i hans Vers. Hvad han
                         havde udviklet sig til, ifald han havde naaet Mandsalder, lader sig ikke
                         sige. Da han skrev <pb n="221"/> sine sidste og skjønneste Sange, var han jo
@@ -5182,16 +5182,16 @@
                     <p> Det bør ikke glemmes, at han skrev dem under store Kvaler og uden
                         nogetsomhelst Otium til Arbeid. Jeg troer det er derfor, de ere saa skjønne.
                         Lad Skribenten længe nok holde sit Privatliv ude fra sin Production, lad ham
-                        som <persName>Keats</persName> neppe nævne sin dybeste Lidenskab i sine
+                        som <persName key="john-keats">Keats</persName> neppe nævne sin dybeste Lidenskab i sine
                         Værker, det vil ikke feile, at intet Værk har det Liv, den Farve, den
                         guddommelige Tunge af Ild paa sin Pande, som det, der er udført, medens den,
                         som skrev det, ikke blot har skrevet, men levet og lidt. Hverken Bekymringen
                         for Brødet, eller Brystsygen eller Lidenskaben for den ostindiske Pige have
-                        direkte sat noget Stempel paa <persName>Keats’s</persName> Arbeid; men af al
+                        direkte sat noget Stempel paa <persName key="john-keats">Keats’s</persName> Arbeid; men af al
                         denne Gift for ham har han suget Næring for det.</p>
                     <p> Saa sank han i sin tidlige Grav, og neppe begravet opstod han fra de Døde i
-                        det <bibl>Klagedigt</bibl>, som <persName>Shelley</persName> lod tone over
-                        hans Grav. Han ophørte at existere som <persName>Keats</persName>, han
+                        det <bibl>Klagedigt</bibl>, som <persName key="percy-bysshe-shelley">Shelley</persName> lod tone over
+                        hans Grav. Han ophørte at existere som <persName key="john-keats">Keats</persName>, han
                         forvandledes til en Mythe, til Adonais, til alle Musers og Elementers
                         skjønne Yndling, og mythevorden førte han fra da af i Slægtens Bevidsthed en
                         dobbelt Existents.</p>
