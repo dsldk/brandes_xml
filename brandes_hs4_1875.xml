@@ -5245,7 +5245,7 @@
                         godmodige Fyre, der heller nyde Øieblikket end anstrenge os for at holde vor
                         Løveværdighed vedlige, og vi kjende begge Verden nok til af vort Hjerte at
                         foragte saadanne høinæsede Personer, der i deres litterære Vigtigmageri
-                        minde om <ref target="n"/>den Mand, <persName>Johnson</persName> mødte i et
+                        minde om <ref target="n"/>den Mand, <persName key="samuel-johnson">Johnson</persName> mødte i et
                         Værtshus og som forestillede sig selv <pb n="224"/> som den store Twalmly,
                         Opfinder af de sluseformige Strygejern<!-- lemma slut --> […] Det vilde være
                         en glædelig Tilvæxt i min Lykke, om <persName key="thomas-moore">Thomas Moore</persName> havde
@@ -5404,7 +5404,7 @@
                         Religionsforskjellen, der opflammede disse Bødlers Grusomhed; thi alle »de
                         forenede Irlænderes« bedste Førere (<persName key="edward-lord-fitzgerald">Fitzgerald</persName>,
                             <persName>O’Connor</persName>, <persName key="beauchamp-bagenal-harvey">Harvey</persName>,
-                            <persName>Thomas Emmet</persName>) vare Protestanter, der med ædel
+                            <persName key="thomas-addis-emmet">Thomas Emmet</persName>) vare Protestanter, der med ædel
                         Uegennyttighed toge sig af deres katholske Landsmænds <pb n="231"/>
                         retfærdige Sag, nei det var Saxerens gamle Racehad mod den celtiske
                         Stamme.</p>
@@ -5460,7 +5460,7 @@
                         levende kan have for Øie, under hvilke Indtryk det var, at den unge
                             <persName key="thomas-moore">Thomas Moore</persName>, da 18 Aar gammel, modnedes til Mand.
                         En Efteraarsaften i 1798 gik Gensdarmer, førte af en vis
-                            <persName>Whollaghan</persName>, ind i et Hus i Landsbyen
+                            <persName key="whollagan">Whollaghan</persName>, ind i et Hus i Landsbyen
                             <placeName>Delbary</placeName>, der tilhørte en Arbeidsmand
                             <persName>Dogherty</persName>, som var mistænkt, og spurgte om der var
                         nogle blodige Rebeller der? De eneste Mennesker i Huset vare
@@ -5524,16 +5524,16 @@
                         Aandedræt til Indsigelse mod et Forslag som det
                         forelagte<!-- lemma slut -->, og da Skatkammerkantsleren
                             <persName>Corry</persName> vovede at besvare disse Ord med en
-                        Beskyldning for Landsforræderi, svarte <persName>Grattan</persName> med en
+                        Beskyldning for Landsforræderi, svarte <persName key="henry-grattan">Grattan</persName> med en
                         Udfordring, som faa Dage efter fulgtes af en Pistol-Duel, i hvilken
-                            <persName>Corry</persName> til sin Lykke blev saaret i Armen; havde han
+                            <persName key="isaac-corry">Corry</persName> til sin Lykke blev saaret i Armen; havde han
                         seiret, var han sikkert bleven revet i Stykker af Befolkningen. Men selv
-                            <persName>Grattan</persName> kunde Intet udrette mod de Vaaben,
+                            <persName key="henry-grattan">Grattan</persName> kunde Intet udrette mod de Vaaben,
                         Regjeringen havde anvendt. <ref target="n"/>Den Veltalenhed, hvis Glands og
                         Fasthed <persName key="thomas-moore">Moore</persName> har sammenlignet med
                         Ædelstenens<!-- lemma slut --> og <ref target="n"/>som
                             <persName key="george-gordon-byron">Byron</persName> har tillagt ikke blot alle de Fortrin,
-                            <persName>Demosthenes</persName> besad, men ogsaa dem, der fattedes
+                            <persName key="demosthenes">Demosthenes</persName> besad, men ogsaa dem, der fattedes
                         ham<!-- lemma slut -->, fandt intet Echo<note place="bottom">
                             <cit>
                                 <quote>
@@ -5555,10 +5555,10 @@
                                     <lg>
                                         <l>
                                             <ref target="n"/>»Ever glorious
-                                                <persName>Grattan</persName>! the best of the
+                                                <persName key="henry-grattan">Grattan</persName>! the best of the
                                             good!</l>
                                         <l>So simple in heart, so sublime in the rest!</l>
-                                        <l>With all which <persName>Demosthenes</persName> wanted
+                                        <l>With all which <persName key="demosthenes">Demosthenes</persName> wanted
                                             endued,</l>
                                         <l>And his rival and victor in all he
                                             possess’d«<!-- »« --><!-- lemma slut -->.</l>
@@ -5587,8 +5587,8 @@
                             Melodier</bibl>.«</p>
                     <p> Den sjeldne irske Digter, der kom til Verden samme Aar som
                             <persName key="adam-oehlenschlager">Oehlenschläger</persName>, var Søn af en lille Vinhandler i
-                            <placeName>Dublin</placeName>, havde en brav <persName>Fader</persName>,
-                        en kjærlig og dygtig <persName>Moder </persName>(ivrig Katholikinde), og
+                            <placeName>Dublin</placeName>, havde en brav <persName key="john-moore-ukendt-levetid">Fader</persName>,
+                        en kjærlig og dygtig <persName key="anastasia-moore">Moder </persName>(ivrig Katholikinde), og
                         tilbragte en lykkelig Barndom i sin Families Skjød. Han var fra den
                         tidligste Barndom af en ualmindelig begavet og særligt
                             <emph>talentfuld</emph> Dreng. Han reciterede, spillede Komedie, skrev
@@ -5698,10 +5698,10 @@
                         udadlelige Renhed og sit Væsens Blidhed og Ynde som ved sine Kundskaber og
                         sin Veltalenhed<!-- LEMMA SLUT -->. Da i Aaret 1797 Bladet »<bibl>The
                             Press</bibl>« blev grundet af de irske Førere
-                            <persName>O’Connor</persName>, <persName>Brødrene Emmet</persName> og
-                        flere, var <persName>Moore</persName> ikke lidet begjærlig efter at see et
+                            <persName key="0">O’Connor</persName>, <persName key="0">Brødrene Emmet</persName> og
+                        flere, var <persName key="thomas-moore">Moore</persName> ikke lidet begjærlig efter at see et
                         eller andet Product af sin Muse i dette Blads patriotiske og meget læste
-                        Spalter. Men hans <persName>Moders</persName> stadige og i de Tider langtfra
+                        Spalter. Men hans <persName key="anastasia-moore">Moders</persName> stadige og i de Tider langtfra
                         ugrundede Ængstelighed for ham indjog ham paa den anden Side Bekymring for
                         at gjøre noget Skridt, hun vilde tage sig nær, og han besluttede at debutere
                         anonymt. Han indsendte <bibl>en Efterligning af Ossian</bibl>, der gik glat
@@ -5709,26 +5709,26 @@
                         Haand til Postkassen et Brev, »<bibl>Til Trinity College’s
                         Studenter</bibl>«, <ref target="n"/>rigt krydret med »Landsforræderi«, som
                         han selv bemærker<!-- LEMMA SLUT -->, en vittig Satire over
-                            <persName>Castlereagh</persName>, der saa længe han levede var den
-                        aldrig opgivne Skive for <persName>Moores</persName> Vid. <ref target="n"/>»Jeg ventede neppe,« siger <persName>Moore</persName>,
+                            <persName key="robert-stewart-castlereagh">Castlereagh</persName>, der saa længe han levede var den
+                        aldrig opgivne Skive for <persName key="thomas-moore">Moores</persName> Vid. <ref target="n"/>»Jeg ventede neppe,« siger <persName key="thomas-moore">Moore</persName>,
                         »<!-- tilføjet -->at Brevet vilde blive trykt, men se, næste Aften, da jeg
                         som sædvanlig sad i min Kakkelovnskrog og udfoldede Avisen for at læse den
                         høit for mine Forældre, saa stod der aller forrest i Bladet mit eget Brev og
                         stirrede mig lige ind i Ansigtet og var naturligvis noget af det første,
                         mine Tilhørere ønskede at høre.«<!-- LEMMA SLUT --> Efter at have nedkjæmpet
                         sin Sindsbevægelse, læste han Brevet høit, havde den Tilfredsstillelse at
-                        høre det <pb n="244"/> i høi Grad rost af sin <persName>Fader</persName> og
-                            <persName>Moder</persName>, skjøndt begge betragtede det som <ref target="n"/>»meget forvovent«<!-- LEMMA SLUT -->, da næste Dag
-                            <persName>Edward Hudson</persName>, den eneste i Hemmeligheden indviede
-                        af <persName>Moores</persName> Venner, under et Morgenbesøg med et meget
-                        sigende Blik henkastede til <persName>Moore</persName>: <ref target="n"/>»Naa saae Du – ?« – »Brevet var af Dig,
-                        <persName>Tom</persName>«<!-- LEMMA SLUT --> raabte
-                            <persName>Moderen</persName>, og man forstaaer, at nye Bønner om
+                        høre det <pb n="244"/> i høi Grad rost af sin <persName key="john-moore-ukendt-levetid">Fader</persName> og
+                            <persName key="anastasia-moore">Moder</persName>, skjøndt begge betragtede det som <ref target="n"/>»meget forvovent«<!-- LEMMA SLUT -->, da næste Dag
+                            <persName key="edward-hudson">Edward Hudson</persName>, den eneste i Hemmeligheden indviede
+                        af <persName key="thomas-moore">Moores</persName> Venner, under et Morgenbesøg med et meget
+                        sigende Blik henkastede til <persName key="thomas-moore">Moore</persName>: <ref target="n"/>»Naa saae Du – ?« – »Brevet var af Dig,
+                        <persName key="thomas-moore">Tom</persName>«<!-- LEMMA SLUT --> raabte
+                            <persName key="anastasia-moore">Moderen</persName>, og man forstaaer, at nye Bønner om
                         Forsigtighed fulgte paa Tilstaaelsen.</p>
                     <p>
                         <ref target="n"/>»Et Par Dage efter hændte det,« siger
-                            <persName>Moore</persName>, »<!-- tilføjet -->paa en af de lange
-                        Spadsereture ud i Landet, som <persName>Emmet</persName> og jeg pleiede at
+                            <persName key="thomas-moore">Moore</persName>, »<!-- tilføjet -->paa en af de lange
+                        Spadsereture ud i Landet, som <persName key="robert-emmet">Emmet</persName> og jeg pleiede at
                         foretage sammen, at vor Samtale kom til at dreie sig om Brevet, og jeg gav
                         ham at forstaae, det var af mig. Da tilstod han mig med den næsten
                         kvindelige Blidhed han besad og som saa ofte findes hos saadanne
@@ -5749,15 +5749,15 @@
                         helt igjennem en ædel Skabning og saa rig paa Indbildningskraft og Hjertets
                         Ømhed som paa mandig Forvovenhed.«<!-- LEMMA SLUT -->
                     </p>
-                    <p> Det er tydeligt nok, at <persName>Robert Emmet</persName> med al sin
-                        hjertelige Velvillie mod <persName>Moore</persName> godt har følt, at han
+                    <p> Det er tydeligt nok, at <persName key="robert-emmet">Robert Emmet</persName> med al sin
+                        hjertelige Velvillie mod <persName key="thomas-moore">Moore</persName> godt har følt, at han
                         ikke var af det Malm, hvoraf en Mand maa være gjort, der skal sætte sin
                         Fremtid og sit Liv paa Spil i en Revolution. Men han holdt af den unge
                         Digter og søgte ham ofte; han har sikkert mærket, hvilken sjelden Klangbund
-                        hans Ideer og Drømmerier fandt i den Harpe, <persName>Thomas
+                        hans Ideer og Drømmerier fandt i den Harpe, <persName key="thomas-moore">Thomas
                             Moore</persName> bar i sin Sjæl. Han pleiede at sidde ved
-                            <persName>Moores</persName> Pianoforte, medens denne <ref target="n"/>spillede Melodierne i <persName>Buntings</persName> irske
-                        Samling<!-- LEMMA SLUT -->, og <persName>Moore</persName> bevarede endnu som
+                            <persName key="thomas-moore">Moores</persName> Pianoforte, medens denne <ref target="n"/>spillede Melodierne i <persName key="edward-bunting">Buntings</persName> irske
+                        Samling<!-- LEMMA SLUT -->, og <persName key="thomas-moore">Moore</persName> bevarede endnu som
                         gammel Erindringen om, hvorledes <bibl>Robert Emmet</bibl> en Dag, da han
                         spillede Melodien »<bibl>Let Erin remember the day</bibl>« med Lidenskab <app>
                             <lem wit="B SS Fu 1923-24">udraabte:</lem>
@@ -5775,15 +5775,15 @@
                             <bibl>Robert Emmet</bibl>, hvis pludselige Udeblivelse lærte deres
                         Kammerater, hvor dybt de havde været indviede i de forraadte Planer. Den
                         døde Taushed, der daglig fulgte deres Navne, hver Gang de raabtes op, gjorde
-                        et rystende Indtryk paa <persName>Moore</persName>. Han selv viste sig under
+                        et rystende Indtryk paa <persName key="thomas-moore">Moore</persName>. Han selv viste sig under
                         sit Forhør som den brave lille Student han var, han erklærede den frygtede
-                            <persName>Lord Fitzgibbon</persName> i Ansigtet, at han ikke vilde
+                            <persName key="john-earl-of-clare-fitzgibbon">Lord Fitzgibbon</persName> i Ansigtet, at han ikke vilde
                         aflægge den Ed, der afkrævedes ham, uden under det Forbehold ei at ville
                         besvare noget Spørgsmaal, som kunde lede en Kammerat i Ulykke, og udholdt
                         med mandig Fatning de Vredesudbrud, som fulgte. Da han ikke havde været
                         Medlem af »United Irishmen« og i Virkeligheden ingen Kundskab havde til
                         Selskabets Planer, frigaves han hurtigt.</p>
-                    <p> I de Aar, som nu følge, falder <persName>Moores</persName> første Optræden
+                    <p> I de Aar, som nu følge, falder <persName key="thomas-moore">Moores</persName> første Optræden
                         som Digter. De Rædsler, som ledsagede Oprørets Undertrykkelse, afgave ham
                         intet Stof for Poesi; dertil stod han dem altfor nær. <bibl>Emmet</bibl> var
                         bortreist, Paavirkningen fra ham for en Tid lang ophørt, politisk Digtning
@@ -5797,7 +5797,7 @@
                         irske Frivolitet minder meget om den, som er saa hyppig i Svenskernes
                         erotiske Digte og har samme Charakter af at være en
                         Nationaleiendommelighed.</p>
-                    <p> Efterat <persName>Moore</persName> i nogle Aar havde flagret om i
+                    <p> Efterat <persName key="thomas-moore">Moore</persName> i nogle Aar havde flagret om i
                             <placeName>Londons</placeName> bedste Kredse, yndet og søgt for sine
                         selskabelige Talenter og sin hele irske Sociabilitet, tvang hans
                         Formueløshed ham til i 1803 at reise til <placeName>Bermuda</placeName> i
@@ -5805,28 +5805,28 @@
                         tænke, slet ikke til denne Plads, lod den ogsaa efter en kort Tids Forløb
                         udfylde af en Stedfortræder, og blev, da denne udviste svigagtigt Forhold og
                         bedrog Staten for en større Sum, uden egen Skyld kastet i en ganske lignende
-                        Ulykke som <persName>Scott</persName>, erholdt som denne hjælpsomme Tilbud
-                        fra mange Sider, afviste ligesaa ærekjært som <persName>Scott</persName>
+                        Ulykke som <persName key="sir-walter-scott">Scott</persName>, erholdt som denne hjælpsomme Tilbud
+                        fra mange Sider, afviste ligesaa ærekjært som <persName key="sir-walter-scott">Scott</persName>
                         alle disse og betalte sin Gjæld ved nogle Aars Sparsommelighed og
                         samvittighedsfulde Flid. Hans amerikanske Reise varede fra October 1803 <pb n="248"/> til November 1804. Han hjembragte fra Amerika de i andet Bind
                         af hans <bibl>Værker</bibl> samlede amerikanske Breve og Poesier, hvis
                         Naturskildringer ere lige fremragende ved Farveglød og Portraitlighed. Som
-                        ægte engelsk Naturalist har <persName>Moore</persName> større Ambition med
+                        ægte engelsk Naturalist har <persName key="thomas-moore">Moore</persName> større Ambition med
                         Hensyn til Ligheden end til Coloriten og han er ikke lidet stolt af de mange
                         Vidnesbyrd han fra Indfødte og Reisende har modtaget om disse Beskrivelsers
                         graphiske og geographiske Naturtroskab. Den bekjendte engelske Reisende <ref target="n"/>
-                        <persName>Capitain Basil Hall</persName> (den samme som besøgte
-                            <persName>Scott</persName> paa <ref target="n"/>Abbotsford<!-- LEMMA SLUT --> og som syg modtog
-                            <persName>Byrons</persName> Pleie i <placeName>Venedig</placeName>)
-                        paastaaer, at <persName>Moores</persName> Oder og Epistler give den
+                        <persName key="basil-hall">Capitain Basil Hall</persName> (den samme som besøgte
+                            <persName key="sir-walter-scott">Scott</persName> paa <ref target="n"/>Abbotsford<!-- LEMMA SLUT --> og som syg modtog
+                            <persName key="george-gordon-byron">Byrons</persName> Pleie i <placeName>Venedig</placeName>)
+                        paastaaer, at <persName key="thomas-moore">Moores</persName> Oder og Epistler give den
                         smukkeste og nøiagtigste (»most exact«<!-- tilføjet »« -->) Beskrivelse af
                             <placeName>Bermuda</placeName>, som gives, og viser hvorledes den
                         sikkert smukkeste Sang derimellem »<bibl>Canadian Boat Song</bibl>«, saavel
                         hvad Melodien som hvad Texten angaaer, er grundet paa de Sange, der virkelig
-                        synges paa Skibene der, dog saaledes, at <persName>Moore</persName> har
+                        synges paa Skibene der, dog saaledes, at <persName key="thomas-moore">Moore</persName> har
                         bortkastet Alt, hvad der ikke var smukt og charakteristisk i disse
                         Sange<!-- LEMMA SLUT -->. Og <ref target="n"/>
-                        <persName>Moore</persName> fortæller selv, hvor nøie hans Beskrivelser selv
+                        <persName key="thomas-moore">Moore</persName> fortæller selv, hvor nøie hans Beskrivelser selv
                         af Landskaber og Træer holdt sig til Virkeligheden. I Anledning af
                         Linierne</p>
                     <cit>
@@ -5850,7 +5850,7 @@
                         begyndende Verdensreaction mod det 18de Aarhundrede allerede var ifærd med
                         at gjøre sin Virkning. <bibl>Hans Epistler om de amerikanske
                             Samfundstilstande</bibl> have kun Øie for Republikens Skyggesider. Han
-                        havde Audients hos Præsidenten; men <persName>Jeffersons</persName>
+                        havde Audients hos Præsidenten; men <persName key="thomas-jefferson">Jeffersons</persName>
                         skjødesløse Klædedragt – blaa Strømper og Slæber paa Fødderne – skjæmmede,
                         som man mærker, i hans Øine Billedet af den Mand, der havde udkastet <ref target="n"/>den amerikanske Uafhængighedserklæring<!-- LEMMA SLUT -->.
                         Fremfor Alt forfærdedes han ved at træffe den franske Philosophi, der for
@@ -5872,7 +5872,7 @@
                                 </quote>
                                 <bibl>Epistelen: »To the Lord Viscount Forbes«.</bibl>
                             </cit>
-                        </note>. »Det var,«<!-- tilføjet --> skriver <persName>Moore</persName>
+                        </note>. »Det var,«<!-- tilføjet --> skriver <persName key="thomas-moore">Moore</persName>
                         mange Aar senere, <ref target="n"/>»den eneste Periode af mit <pb n="250"/>
                         Liv, i hvilket jeg har følt mig selv skeptisk med Hensyn til Sundheden af
                         den frisindede politiske Tro, som hvis Bekjender og Advocat jeg næsten
@@ -5881,7 +5881,7 @@
                         og Ungdomsindtrykkene fra den mishandlede Fødeø vare begravne under
                         anakreontiske Stemninger, Reiseerindringer og det muntre fashionable Liv i
                             <placeName>Londons</placeName> høieste, lethenlevende Kredse.</p>
-                    <p> Da udkom i Aaret 1807 de første Bind af <persName>Moores</persName>
+                    <p> Da udkom i Aaret 1807 de første Bind af <persName key="thomas-moore">Moores</persName>
                             »<bibl>Irske Melodier</bibl>« – hans Adkomstbrev til Udødelighed. Alt,
                         hvad hans stakkels Land havde følt og lidt i de lange Forsmædelsens Aar,
                         dets Smerter og Sukke, dets begeistrede Opsving, dets krigerske Kjækhed og
@@ -5896,7 +5896,7 @@
                         Kvinde med en Høihed, saa man følte ingen jor<pb n="251"/>disk Kvinde var
                         ment, og Udtrykkets Mystik forøgede som i de gamle christeligt allegoriske
                         Lovsange den poetiske Virkning. – Hvad var der skeet i Mellemtiden mellem
-                            <persName>Moore’s</persName> letfærdige Digtes Fremkomst og disse
+                            <persName key="thomas-moore">Moore’s</persName> letfærdige Digtes Fremkomst og disse
                         beundringsværdige Poesiers Undfangelse? Det er en lang og sørgelig Historie.
                         De besvare selv hint Spørgsmaal ved at neddysse Svaret. Allerede det fjerde
                         Digt i Samlingen begynder:</p>
@@ -5972,17 +5972,17 @@
                         </quote>
                     </cit>
                     <p>Læseren har alt anet, at den unge Helt, over hvem saa rørende Klagetoner
-                        løde, ingen anden var end <persName>Moores</persName> fordums
-                        Universitetsven <persName>Robert Emmet</persName>. Det forekommer mig
-                        utvivlsomt, at det er hans Skjæbne, der gav <persName>Moore</persName> den
+                        løde, ingen anden var end <persName key="thomas-moore">Moores</persName> fordums
+                        Universitetsven <persName key="robert-emmet">Robert Emmet</persName>. Det forekommer mig
+                        utvivlsomt, at det er hans Skjæbne, der gav <persName key="thomas-moore">Moore</persName> den
                         Inspiration, som fremkaldte de ypperste Frihedspoesier blandt <pb n="253"/>
                         de <bibl>irske Melodier</bibl><!-- uden »«; som i SS 417 -->. Medens som
                         Følge af <ref target="n"/>Revolutionen 1798<!-- LEMMA SLUT -->
-                        <persName>den ældre Emmet</persName><!-- = Thomas Addis Emmet --> blev holdt
+                        <persName key="thomas-addis-emmet">den ældre Emmet</persName><!-- = Thomas Addis Emmet --> blev holdt
                         fængslet paa <ref target="n"/>Fortet St. Georges<!-- LEMMA SLUT --> og
-                        derpaa forvist, lykkedes det <persName>Robert</persName> at undgaae
+                        derpaa forvist, lykkedes det <persName key="robert-emmet">Robert</persName> at undgaae
                         Fængsling, men han benyttede strax og udelukkende sin Frihed i den Sags
-                        Tjeneste, der havde bragt hans <persName>Broder</persName> i Ulykke, og
+                        Tjeneste, der havde bragt hans <persName key="thomas-addis-emmet">Broder</persName> i Ulykke, og
                         hvortil han havde indviet sit Liv. Han reiste i 1802 til
                             <placeName>Paris</placeName> og havde en Sammenkomst med
                             <persName>Førsteconsulen</persName>, der iøvrigt gjorde det Indtryk paa
