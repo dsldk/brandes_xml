@@ -79,7 +79,8 @@
 
             <!--  <div type="half-title">
                 <head><pb n="[3]"/>Det unge Tyskland</head>
-            </div>--><!-- forekommer ikke i 1.-trykket -->
+            </div>-->
+            <!-- forekommer ikke i 1.-trykket -->
 
 
             <div>
@@ -533,9 +534,10 @@
                         >Sie wird tanzen und somit ist grosse Freude und Beschäftigung vollauf [...]
                         die Mimik der Grazien der <persName key="marie-taglioni">Taglioni</persName>
                         haben die drohenden Zeichen der Zeit verdrängt.</note> Ordet Beskjæftigelse
-                    er her især betegnende. Sligt glædede ikke blot; det sysselsatte. (»<bibl n="rochow-preussen-und-frankreich-zur-zeit-der-julirevolution"
-                        >Preussen und Frankreich zur Zeit der Julirevolution. Vertraute Briefe des
-                        Generals von Rochow</bibl>« herausgegeben von E. Kelchner und K.
+                    er her især betegnende. Sligt glædede ikke blot; det sysselsatte. (»<bibl
+                        n="rochow-preussen-und-frankreich-zur-zeit-der-julirevolution">Preussen und
+                        Frankreich zur Zeit der Julirevolution. Vertraute Briefe des Generals von
+                        Rochow</bibl>« herausgegeben von E. Kelchner und K.
                     Mendelssohn-Bartholdy.)</p>
 
                 <p> I litterær Henseende svælgede den dalevende Slægt efter at <persName
@@ -2159,19 +2161,19 @@
                     Det var en fremragende Læge, en klar Tænker og en dygtig Taler, Ven af <persName
                         key="gotthold-ephraim-lessing">Lessing</persName>, hvis Poesi han satte ikke
                     mindre højt end hans Kritik, hvorfor den romantiske Skoles, særligt <persName
-                        key="friedrich-von-hardenberg">Hardenbergs</persName>, Mystik var ham en
-                    Meningsløshed og en Gru. Da han døde allerede 1803, kunde han ikke faa nogen
-                    betydelig Indflydelse paa den unge <persName key="ludwig-borne"
-                        >Börnes</persName> Udvikling. Et des stærkere Indtryk paa Ynglingen gjorde
-                    hans berømte, sytten Aar yngre Hustru <persName key="henriette-herz"
-                        >Henriette</persName>, født Lemos, der kun tolv Aar gammel uadspurgt var
-                    bleven forlovet med ham. Udmærket smuk, overordentlig sprogkyndig, søgt af
-                    Datidens ypperste Videnskabsmænd og Skribenter i meget stort Antal, førte hun et
-                    af de mest omtalte, ansete, yndede Huse i <placeName key="berlin"
-                        >Berlin</placeName>. Hun var da 38 Aar gammel, <persName key="ludwig-borne"
-                        >Börne</persName> 16; men dette forhindrede naturligvis ikke det unge
-                    Menneske i at styrte sig hovedkulds ned i en haabløs Forelskelse i det
-                    skjønneste og ypperligste kvindelige Væsen, han endnu havde set.</p>
+                        key="novalis">Hardenbergs</persName>, Mystik var ham en Meningsløshed og en
+                    Gru. Da han døde allerede 1803, kunde han ikke faa nogen betydelig Indflydelse
+                    paa den unge <persName key="ludwig-borne">Börnes</persName> Udvikling. Et des
+                    stærkere Indtryk paa Ynglingen gjorde hans berømte, sytten Aar yngre Hustru
+                        <persName key="henriette-herz">Henriette</persName>, født Lemos, der kun
+                    tolv Aar gammel uadspurgt var bleven forlovet med ham. Udmærket smuk,
+                    overordentlig sprogkyndig, søgt af Datidens ypperste Videnskabsmænd og
+                    Skribenter i meget stort Antal, førte hun et af de mest omtalte, ansete, yndede
+                    Huse i <placeName key="berlin">Berlin</placeName>. Hun var da 38 Aar gammel,
+                        <persName key="ludwig-borne">Börne</persName> 16; men dette forhindrede
+                    naturligvis ikke det unge Menneske i at styrte sig hovedkulds ned i en haabløs
+                    Forelskelse i det skjønneste og ypperligste kvindelige Væsen, han endnu havde
+                    set.</p>
 
                 <p> Den dejlige <persName key="henriette-herz">Henriette</persName> var som
                     Personlighed allerede i det Ydre den skarpeste Kontrast til sin lille kloge og
@@ -4144,15 +4146,14 @@
                 <p> Gammelpreusserne nærede Uviljens Mistro til Rhinlænderne, og disse gjengjældte
                     denne Følelse med Renter. Preusseren var og blev ved <placeName key="rhinen"
                         >Rhinen</placeName> noget Fremmed, Uhyggeligt. Om Sønnen, der tjente i
-                    Hæren, hed det: <ref target="n"/>»Han er hos Preusserne«<!-- lemma slut -->.
-                    Berlineren bar sig som Embedsmand i <placeName key="koln">Köln</placeName> eller
-                        <placeName key="dusseldorf">Düsseldorf</placeName> overmodigt ad, nedsatte
-                    Alt, og Rhinlænderen betragtede længe en Ansættelse i de gamle preussiske
-                    Provinser som en Forvisning til <placeName key="sibirien">Sibirien</placeName>.
-                    Overalt hørte man Klage over Preussernes Mangel paa Evne til at vinde Hjerterne
-                    i de Stammer, de havde tilerobret sig.<note place="bottom"><persName
-                            key="karl-mendelssohn-bartholdy">K. Mendelssohn-Bartholdy</persName>:
-                            <bibl
+                    Hæren, hed det: »Han er hos Preusserne«. Berlineren bar sig som Embedsmand i
+                        <placeName key="koln">Köln</placeName> eller <placeName key="dusseldorf"
+                        >Düsseldorf</placeName> overmodigt ad, nedsatte Alt, og Rhinlænderen
+                    betragtede længe en Ansættelse i de gamle preussiske Provinser som en Forvisning
+                    til <placeName key="sibirien">Sibirien</placeName>. Overalt hørte man Klage over
+                    Preussernes Mangel paa Evne til at vinde Hjerterne i de Stammer, de havde
+                    tilerobret sig.<note place="bottom"><persName key="karl-mendelssohn-bartholdy"
+                            >K. Mendelssohn-Bartholdy</persName>: <bibl
                             n="mendelssohn-bartholdy-preussen-und-frankreich-zur-zeit-der-julirevolution"
                             >Preussen und Frankreich zur Zeit der Julirevolution</bibl>. S. XXV
                         ff.</note></p>
@@ -4448,14 +4449,14 @@
                         <persName key="viktor-hehn">Hehn</persName> vil man finde denne <persName
                         key="heinrich-heine">Heines</persName> politiske Kamp omtalt med dybeste
                     Foragt. Selv <persName key="wilhelm-scherer">Scherer</persName> er kold og
-                    afvisende. Ja, da <ref target="n4185"/>den italienske Digter <persName
-                        key="giosue-carducci">Carducci</persName> for nogle Aar siden i en Ode
-                    forherligede <persName key="heinrich-heine">Heine</persName> som Frihedshelt,
-                    nedlagde endog <persName key="karl-hillebrand">Karl Hillebrand</persName>,
-                    Tysklands bedste Kritiker og <persName key="heinrich-heine">Heines</persName>
-                    tidligere Sekretær, der altid havde talt med Pietet og Beundring om den store
-                    Afdøde, en Art Protest<!-- lemma slut -->: <persName key="heinrich-heine"
-                        >Heine</persName> selv havde aldrig taget dette saa højtideligt.</p>
+                    afvisende. Ja, da den italienske Digter <persName key="giosue-carducci"
+                        >Carducci</persName> for nogle Aar siden i en Ode forherligede <persName
+                        key="heinrich-heine">Heine</persName> som Frihedshelt, nedlagde endog
+                        <persName key="karl-hillebrand">Karl Hillebrand</persName>, Tysklands bedste
+                    Kritiker og <persName key="heinrich-heine">Heines</persName> tidligere Sekretær,
+                    der altid havde talt med Pietet og Beundring om den store Afdøde, en Art
+                    Protest: <persName key="heinrich-heine">Heine</persName> selv havde aldrig taget
+                    dette saa højtideligt.</p>
 
                 <p> Sagen er først og fremmest, at <persName key="heinrich-heine">Heine</persName>
                     manglede <ref target="n1426"/>»de pathetiske Gebærder«<!-- lemma slut -->, var
@@ -10684,8 +10685,8 @@
                 <p> Af <persName key="karl-gutzkow">Gutzkows</persName> øvrige Dramer fra Fyrrerne
                     er »<bibl n="gutzkow-das-urbild-des-tartuffe">Das Urbild des Tartüffe</bibl>«
                     det, som har gjort mest Lykke, men det er et saare overvurderet Arbejd. Meget
-                    nydeligt er derimod det fordringsløse Lejlighedsskuespil <bibl
-                        n="gutzkow-der-konigslieutnant">Der Königslieutenant</bibl>, som behandler
+                    nydeligt er derimod det fordringsløse Lejlighedsskuespil »<bibl
+                        n="gutzkow-der-konigslieutnant">Der Königslieutenant</bibl>«, som behandler
                         <persName key="johann-wolfgang-goethe">Goethe</persName> i halvvoxen Alder
                     og som blev skrevet til hans Hundredaarsfest.</p>
 
@@ -11046,7 +11047,7 @@
                     Liv og Levnet. Forfatteren træffer hende i en lille bøhmisk Landsby, standser
                     slagen over hendes sælsomme Skjønhed, da han ser hende paa Gaden som
                     Deltagerinde i en katholsk Procession. Ved et Tilfælde tyer han senere paa Dagen
-                    netop ind i hendes gamle Faders Hus, vinder (ret forrykt) den gamle bonerte
+                    netop ind i hendes gamle Faders Hus, vinder (ret forrykt) den gamle bornerte
                     Mands Hjerte ved den Salvelse, hvormed han fortæller ham om <persName
                         key="giovanni-giacomo-casanova">Casanova</persName>, der har levet der i
                     Egnen paa Slottet <placeName key="dux">Dux</placeName>, opnaar en Indbydelse til
@@ -11202,7 +11203,7 @@
                         key="benjamin-franklin">Franklin</persName>, <persName
                         key="thadeusz-kosciuszko">Kosciuszko</persName>. I Almanakkerne fordrer han
                     Maaneden Juli’s Navn trykt med røde Bogstaver for at holde Erindringen frisk om
-                    den gloværdige <ref target="n2640"/>Julirevolution<!-- lemma slut -->, og han
+                    den glorværdige <ref target="n2640"/>Julirevolution<!-- lemma slut -->, og han
                     haaber, at »alle Ædle« ville forene sig om at lade Substantiverne Fyrste, Herre,
                     Konge, Hertug, Greve, Junker osv. trykke med smaa Forbogstaver for saaledes at
                     vise Ringeagt for disse Begreber.</p>
@@ -11218,7 +11219,7 @@
                     allerede har bemægtiget sig de fleste og mest <pb n="382"/> læste Blade, er de i
                     Stand til at stifte et usynligt og dog aabenbart Forbund, der strækker sig over
                     hele Tyskland, slaar enhver Forfatter ned, der ikke hører til dem, og ved
-                    hensynsløs brug af den gjensidige Lovprisning driver dem alle i Vejret.<note
+                    hensynsløs Brug af den gjensidige Lovprisning driver dem alle i Vejret.<note
                         place="bottom"><persName key="ludwig-tieck">L. Tieck</persName>: »<bibl
                             n="tieck-gesammelte-novellen-vol-1">Gesammelte Novellen</bibl>«. Breslau
                         1835, I. 38, 79.</note></p>
@@ -11244,7 +11245,7 @@
                     under Vejr med, hvorledes der i en vis Tidsalder aandeligt er <pb n="383"/>
                     bleven <emph>levet</emph>, saa maa man stræbe at komme de følende Personligheder
                     saa nær som muligt, og man maa ikke forsømme at fuldstændiggjøre det Indtryk,
-                    man modtager ved Iagtagelse af Tidens ledende Mænd med Studiet af periodens
+                    man modtager ved Iagtagelse af Tidens ledende Mænd med Studiet af Periodens
                     typiske Kvindeskikkelser.</p>
 
                 <p>Hvor der føles mere og virkes mindre, hvor Formningsevnen er for svag til at
