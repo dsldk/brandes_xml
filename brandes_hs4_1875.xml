@@ -3312,7 +3312,7 @@
                         Romantiker. Han kaster nu og da sit Blik fremad lige til sin Samtid. I
                         tredie Sang forherliger han <persName key="jeanne-manon-roland">Madame Roland</persName> som den
                         heroiske Kvinde, der blev Martyr for Fædrelandskjærligheden, i tiende Sang
-                            <persName>Lafayette</persName>, hvis Navn <ref target="n"/>»Friheden
+                            <persName key="0">Lafayette</persName>, hvis Navn <ref target="n"/>»Friheden
                         bestandig vil elske«<!-- lemma slut -->, og selv i Fremstillingen af
                             <persName type="fictional">Jeanne’s</persName> Bedrifter er ganske
                         anderledes end hos <persName key="friedrich-schiller">Schiller</persName> enhver Appel til det
@@ -3816,7 +3816,7 @@
                         Bedrifter, som Digterens Stammefrænder eller Forfædre have udført. Og derfor
                         har han i sin Egenskab af Skotte den mest fremtrædende Familiefølelse. Han
                         var en mønsterværdig Søn, han var en exemplarisk Ægtefælle, han var – som
-                        hans Breve til <persName>den ældste Søn</persName> udvise – den kjærligste
+                        hans Breve til <persName key="0">den ældste Søn</persName> udvise – den kjærligste
                         Fader; han var en god Opdrager af sine Børns Legeme og Sjæl, der nærmest kun
                         stillede <ref target="n"/>den gammelpersiske Fordring til dem, at de skulde
                         sidde godt til Hest og tale Sandhed<!-- lemma slut -->; men selv i disse
@@ -4288,7 +4288,7 @@
                         Romaner den største Indflydelse paa det nye Aarhundredes Historieskrivning.
                         Det skal ikke glemmes, at det var <persName key="sir-walter-scott">Walter Scotts</persName>
                             »<bibl>Ivanhoe</bibl>«, som bragte <persName key="augustin-thierry">Augustin Thierry</persName>
-                        paa den Tanke, at der bag <persName>Clovis’</persName>, C<persName>arl den
+                        paa den Tanke, at der bag <persName>Clovis’</persName>, C<persName key="0">arl den
                             Stores</persName> og <persName key="hugo-hughes-capet">Hugo Capets</persName> Bedrifter laae som
                         de sande Aarsager til Begivenhederne Racekampen mellem Normanner og Saxer og
                         Sporene af en frankisk Erobring<note place="bottom">G. Brandes: »<bibl>Den
@@ -4510,7 +4510,7 @@
                         Historien, at de reelle og de tildigtede Elementer i Forening frembringe en
                         høist uharmonisk Concert. Hvor stødende er f. Ex. ikke den Maade, hvorpaa i
                         tiende Capitel af »<bibl>Fængslet i Edinburgh’s</bibl>« 3die Del historiske
-                        og opdigtede Repliker af <persName>Hertugen af Argyle</persName> ere nittede
+                        og opdigtede Repliker af <persName key="john-campbell-2-duke-of-argyle">Hertugen af Argyle</persName> ere nittede
                         sammen! Hertil kommer, at det er blevet os stedse mere klart, hvor afvigende
                         det Totalbillede, der her gives, er fra den fjerne Tids virkelige Charakter,
                         der hyppigt slet ikke vilde forstaaes eller dog slet ikke vække Sympathi,
@@ -4672,7 +4672,7 @@
                         Glæde og Sorg paa een Gang. Dog Sorgen overvældede mig og jeg holdt mig for
                         mine beruste Øren, da der gjennem mine skjælvende Hænders Lukke trængte en
                         Røst sødere, sødere end alle Melodier, og utallige Stemmer raabte :
-                            »<persName type="fictiona">Apollo</persName>, ung <persName type="fictional">Apollo</persName>! morgenlyse <persName type="fictional">Apollo</persName>! hil dig, ung <persName type="fictional">Apollo</persName>!«<!-- lemma slut --> Jeg flyede, det
+                            »<persName type="fictiona" key="0">Apollo</persName>, ung <persName type="fictional">Apollo</persName>! morgenlyse <persName type="fictional">Apollo</persName>! hil dig, ung <persName type="fictional">Apollo</persName>!«<!-- lemma slut --> Jeg flyede, det
                         fulgte mig og raabte »<persName type="fictional">Apollo</persName>!««<!-- tilføjet slut.cit. --> –</p>
                     <p>
                         <persName key="john-keats">Keats</persName> har aldrig skrevet noget saa smukt som dette
@@ -4772,7 +4772,7 @@
                         Litteraturen. Efter nogle Aars Samliv med en Del af de unge Mænd i Datiden,
                         hvis Interesser grupperede sig om Kunst og Poesi, og som bare Landets
                         litterære Fremtid, ramtes han af den Sygdom, der alt havde dræbt
-                            <persName>hans Moder</persName> og <persName key="thomas-keats">yngre Broder</persName>.
+                            <persName key="0">hans Moder</persName> og <persName key="0">yngre Broder</persName>.
                         Den udvikledes under Bekymringen for, hvor<pb n="205"/>ledes han skulde
                         skaffe sig sit Livsophold og under den bestandig mere trykkende Følelse af
                         Trang. Den fremskyndedes af en dyb og gjengjældt, men paa Grund af
@@ -4802,7 +4802,7 @@
                         disse Lidelser, som ere bedre end Intet. Land og Hav, Svaghed og Tæring ere
                         store Adskillere, men Døden er den store Adskiller for bestandig […] Jeg
                         tænker sjældent paa <persName key="george-keats">min Broder</persName> og
-                            <persName>Søster</persName> i Amerika; men Tanken om at skulde forlade
+                            <persName key="fanny-keats">Søster</persName> i Amerika; men Tanken om at skulde forlade
                         Miss ** er skrækkelig fremfor alt Andet; en Følelse af Mørke kommer over mig
                         ved den; jeg seer uafladeligt hendes uafladeligt forsvindende
                         Aasyn.«<!-- lemma slut --> Og i et andet Brev skriver han: <ref target="n"/>»Overbevisningen om at jeg ikke mere skal gjensee hende vil dræbe mig. Min
@@ -5150,7 +5150,7 @@
                         været saa streng mod <persName key="john-keats">Keats</persName>, at Digtet
                             »<bibl>Hyperion</bibl>« <ref target="n"/>»virkelig syntes inspireret af
                         Titanerne og var sublimt som
-                        <persName>Æschylos</persName><!-- Aischylos -->.«<!-- lemma slut --> Man har
+                        <persName key="aischylos">Æschylos</persName><!-- Aischylos -->.«<!-- lemma slut --> Man har
                         ogsaa nu tilstrækkelige Prøver paa Digterynglingens Phantasikraft; hvor søde
                         hans Melodier end ere<note place="bottom">Man agte f. Ex. paa Vellyden i
                             hans
@@ -5385,7 +5385,7 @@
                         den ene to, tre, den anden fjorten Saar, indtil den tredie med et Pistolskud
                         afvæbnede ham, og han førtes i Fængsel. Han var bekjendt med <pb n="230"/>
                         den franske Revolutions bedste Mænd, en Ven af <persName key="thomas-paine">Thomas
-                            Payne</persName> og gift med en deilig <persName>Datter</persName> af
+                            Payne</persName> og gift med en deilig <persName key="0">Datter</persName> af
                             <persName key="louis-philippe-joseph-dorleans-philippe-egalite">Philippe Egalité</persName>. Han stod i stadig Brevvexling med
                         Frankrig og kun ved sin Død i Fængslet undgik han Henrettelse.
                             <persName key="thomas-moore">Moore</persName> har, skjøndt levende i Kredse hvor
@@ -5403,7 +5403,7 @@
                             Crosbie</persName>) der blev hængt og derefter lemlæstet. Det var ikke
                         Religionsforskjellen, der opflammede disse Bødlers Grusomhed; thi alle »de
                         forenede Irlænderes« bedste Førere (<persName key="edward-lord-fitzgerald">Fitzgerald</persName>,
-                            <persName>O’Connor</persName>, <persName key="beauchamp-bagenal-harvey">Harvey</persName>,
+                            <persName key="0">O’Connor</persName>, <persName key="beauchamp-bagenal-harvey">Harvey</persName>,
                             <persName key="thomas-addis-emmet">Thomas Emmet</persName>) vare Protestanter, der med ædel
                         Uegennyttighed toge sig af deres katholske Landsmænds <pb n="231"/>
                         retfærdige Sag, nei det var Saxerens gamle Racehad mod den celtiske
@@ -5462,28 +5462,28 @@
                         En Efteraarsaften i 1798 gik Gensdarmer, førte af en vis
                             <persName key="whollagan">Whollaghan</persName>, ind i et Hus i Landsbyen
                             <placeName>Delbary</placeName>, der tilhørte en Arbeidsmand
-                            <persName>Dogherty</persName>, som var mistænkt, og spurgte om der var
+                            <persName key="0">Dogherty</persName>, som var mistænkt, og spurgte om der var
                         nogle blodige Rebeller der? De eneste Mennesker i Huset vare
-                            <persName>Doghertys</persName>
-                        <persName>Kone</persName> og en syg <app>
+                            <persName key="0">Doghertys</persName>
+                        <persName key="0">Kone</persName> og en syg <app>
                             <lem wit="B SS Fu 1923-24">Dreng,</lem>
                             <rdg wit="A">Dreng</rdg>
-                        </app> hendes Søn. <persName>Whollaghan</persName> spurgte, om Drengen var
-                            <persName>Dogherty’s</persName> Søn, og paa Svaret »Ja« raabte han: <ref target="n"/>»Saa skal du døe, din Hund.«<!-- lemma slut --> Drengen bad
+                        </app> hendes Søn. <persName key="whollagan">Whollaghan</persName> spurgte, om Drengen var
+                            <persName key="0">Dogherty’s</persName> Søn, og paa Svaret »Ja« raabte han: <ref target="n"/>»Saa skal du døe, din Hund.«<!-- lemma slut --> Drengen bad
                         for sig. Under en Strøm af Skjældsord forsøgte Underofficeren to Gange at
                         fyre, men Geværet slog Klik. En Kammerat rakte ham da et andet Gevær,
                         Moderen kastede sig foran sit Barn, men Kuglen knuste Drengens Arm. Da han
-                        faldt, forlode Morderne Hytten. Men <persName>Whol<pb n="234"/>laghan</persName> vendte tilbage og da han saae Moderen bøiet over
+                        faldt, forlode Morderne Hytten. Men <persName key="whollagan">Whol<pb n="234"/>laghan</persName> vendte tilbage og da han saae Moderen bøiet over
                         Sønnen, raabte han: <ref target="n"/>»Hvad, er den Hund endnu ikke død?« –
                         »Aa Gud, Herre,« sagde den stakkels Kone, »<!-- tilføjet »« -->han er død
                         nok.« – »Jeg er bange for, han ikke er det,« svarte
-                            <persName>Whollaghan</persName>, »<!-- tilføjet »« -->lad ham faae dette
+                            <persName key="whollagan">Whollaghan</persName>, »<!-- tilføjet »« -->lad ham faae dette
                         endnu!«<!-- lemma slut --> fyrede saa for fjerde Gang og Drengen faldt død
-                        tilbage i sin Moders Arme. – Da <persName>Whollaghan</persName> blev
+                        tilbage i sin Moders Arme. – Da <persName key="whollagan">Whollaghan</persName> blev
                         anklaget for Overskridelse af sin Myndighed og Sagen oplyst, støttede
                         Forsvaret sig derpaa, at den Anklagede og hans Ledsagere <ref target="n"/>»vare blevne udsendte med almindelig Ordre til at skyde hvem de
                         behagede.«<!-- lemma slut --> Domstolen var ikke af den Mening, at en saadan
-                        Ordre havde noget Usædvanligt eller Ufornuftigt ved sig. Den fandt, <ref target="n"/>»at den Anklagede havde skudt og dræbt <persName>Thomas
+                        Ordre havde noget Usædvanligt eller Ufornuftigt ved sig. Den fandt, <ref target="n"/>»at den Anklagede havde skudt og dræbt <persName key="thomas-dogherty">Thomas
                             Dogherty</persName>, en Rebel«, men frikjendte ham for »at have villet
                         begaae nogetsomhelst hadefuldt eller forsætligt Mord.«<!-- lemma slut -->
                     </p>
@@ -5505,17 +5505,17 @@
                         de faa irske Patrioter i Parlamentet paa at forsøge det eneste Middel, der
                         syntes at kunne være af nogen Betydning, nemlig den af Nationen endnu
                         bestandig forgudede, men saa længe tause og nu farligt syge
-                            <persName>Grattans</persName> pludselige Gjenopdukken i Parlamentet i
+                            <persName key="henry-grattan">Grattans</persName> pludselige Gjenopdukken i Parlamentet i
                         det Øieblik Unionsforslaget kom for. Med ægte irsk Hang til dramatisk Effect
                         blev Sagen sat i Scene. Da en Plads i Parlamentet faa Dage forud var bleven
-                        ledig, blev <persName>Grattan</persName> i al Stilhed valgt, den
-                        paagjældende Flækkes Patron, en <persName>Mr. Tighe</persName>, red i
+                        ledig, blev <persName key="henry-grattan">Grattan</persName> i al Stilhed valgt, den
+                        paagjældende Flækkes Patron, en <persName key="tighe">Mr. Tighe</persName>, red i
                         Carrière til Dublin for at forkynde Resultatet. Han ankom Kl. 5 om Morgenen,
-                            <persName>Grattan</persName>, der var udtæret af Sygdom, blev taget ud
+                            <persName key="henry-grattan">Grattan</persName>, der var udtæret af Sygdom, blev taget ud
                         af Sengen, viklet i et Sengetæppe og baaret til Parlamentsbygningen i en
                         Bærestol. Forhandlingerne havde varet 15 Timer i Træk og hele Natten
                         igjennem, da Huset Kl. 7 om Morgenen foer iveiret af sin Halvslummer ved
-                        Synet af <persName>Grattans</persName> spøgelseagtige Skikkelse paa dets
+                        Synet af <persName key="henry-grattan">Grattans</persName> spøgelseagtige Skikkelse paa dets
                         Tærskel. <pb n="236"/> Det var <ref target="n"/>Manden fra 1782, den Mand,
                         der havde gjort Irlænderne til et Folk<!-- lemma slut -->, der som sit Folks
                         døende Samvittighed steg op fra Graven for at nedlægge den sidste Protest
@@ -5523,7 +5523,7 @@
                             <ref target="n"/>om han laa døende paa Jorden, vilde bruge sit sidste
                         Aandedræt til Indsigelse mod et Forslag som det
                         forelagte<!-- lemma slut -->, og da Skatkammerkantsleren
-                            <persName>Corry</persName> vovede at besvare disse Ord med en
+                            <persName key="isaac-corry">Corry</persName> vovede at besvare disse Ord med en
                         Beskyldning for Landsforræderi, svarte <persName key="henry-grattan">Grattan</persName> med en
                         Udfordring, som faa Dage efter fulgtes af en Pistol-Duel, i hvilken
                             <persName key="isaac-corry">Corry</persName> til sin Lykke blev saaret i Armen; havde han
@@ -5988,16 +5988,16 @@
                             <persName>Førsteconsulen</persName>, der iøvrigt gjorde det Indtryk paa
                         ham, <ref target="n"/>»at han ikke bekymrede sig mere om Irland end om
                         Republiken og Friheden«<!-- LEMMA SLUT -->, og flere Sammenkomster med
-                            <persName>Talleyrand</persName>, hvis Væsen ikke behagede ham mere, for
+                            <persName key="charles-maurice-de-talleyrand-perigord">Talleyrand</persName>, hvis Væsen ikke behagede ham mere, for
                         gjennem Aftaler med dem at forberede Oprettelsen af en uafhængig irsk
                         Republik, støttet paa Alliance med den franske. Det var i det Øieblik, da
                         det ved <ref target="n"/>Freden i
                         <placeName>Amiens</placeName><!-- LEMMA SLUT --> en kort Tid gjenoprettede
                         gode Forhold mellem Frankrig og England stod paa Nippet til at brydes.
-                            <persName>Bonaparte</persName> synes en kort Tid at have tænkt alvorligt
+                            <persName key="napoleon-1">Bonaparte</persName> synes en kort Tid at have tænkt alvorligt
                         paa en Landgang i Irland – <ref target="n"/>endnu paa <placeName>St.
                             Helena</placeName> beklagede han jo at han ikke var gaaet til Irland
-                        istedenfor til Ægypten<!-- LEMMA SLUT --> – og <persName>Robert
+                        istedenfor til Ægypten<!-- LEMMA SLUT --> – og <persName key="robert-emmet">Robert
                             Emmet</persName> ankom i November 1802 til sin Fødeø med bestemt Løfte
                         om, at den franske Armees Landsættelse skulde finde Sted i August 1803. Med
                         rastløs Dristighed bragte han paany en Sammensværgelse over hele Irland
@@ -6018,17 +6018,17 @@
                         deres Gjerning, <ref target="n"/>»de arbeidede,« sagde en af dem, hvem
                         Forfatteren af »<bibl>United Irishmen</bibl>« traf som Olding,
                         »<!-- tilføjet »« -->ikke for Penge, men for Sagens Skyld; de havde stor
-                        Tillid til <persName>Robert Emmet</persName>, de kunde have givet deres Liv
+                        Tillid til <persName key="robert-emmet">Robert Emmet</persName>, de kunde have givet deres Liv
                         for ham.«<!-- lemma slut --> Da indtraf i Juli Maaned et af hine
                         uforudseelige Tilfælde, som ingen menneskelig Beregning kan forebygge: et af
                         Krudtmagasinerne sprang i Luften og dræbte to Mænd, af hvilke den ene
-                        udaandede i <persName>Robert Emmets</persName> Arme. Den næste Dag
+                        udaandede i <persName key="robert-emmet">Robert Emmets</persName> Arme. Den næste Dag
                         underrettede <bibl>et protestantisk
                         Blad</bibl><!-- kan det identificeres? --> Regjeringen om at den sov paa en
                         Mine. Man maatte, ufærdig <pb n="255"/> som man var og uden at oppebie
                         Franskmændenes Ankomst bryde løs, hvis man ikke vilde udsætte sig for en
                         Tilintetgjørelse uden Kamp. Den 23de Juli stod en ædel og mandig
-                        Proclamation til Irlands Befolkning, forfattet af <persName>Robert
+                        Proclamation til Irlands Befolkning, forfattet af <persName key="robert-emmet">Robert
                             Emmet</persName> selv, opslaaet paa Gaderne i
                             <placeName>Dublin</placeName>; men da Aftenen kom, og han i Spidsen for
                         en Skare forsøgte Slottets Overrumpling, maatte han med Bitterhed føle, hvor
@@ -6040,21 +6040,21 @@
                             <placeName>Wicklows</placeName> Bjergegne og her samledes de allerede
                         næste Dag i en afsides beliggende Dal for at raadslaae. De fleste vare
                         overbeviste om, at Intet endnu var tabt: et Signal – og Irland vilde reise
-                        sig som een Mand o. s. v., <persName>Robert Emmet</persName> alene havde
+                        sig som een Mand o. s. v., <persName key="robert-emmet">Robert Emmet</persName> alene havde
                         mistet alle Illusioner og viste med Klarhed sine Venner, at en fortsat
                         Stræben i dette Øieblik og med Stridsmænd, som de udisciplinerede Oprørere
                         afgave dem, kun vilde føre ny Blodsudgydelse over Landets allerede saa
                         haardt prøvede Befolkning. I det Øieblik, man skiltes, opfordrede man fra
-                        alle Sider <persName>Emmet</persName> til at flye; en enestaaende Leilighed
+                        alle Sider <persName key="robert-emmet">Emmet</persName> til at flye; en enestaaende Leilighed
                         frembød sig dertil med Fiskerbaade, som <pb n="256"/> tilhørte
-                        Insurgenterne. Da var det, at <persName>Robert Emmet</persName> med nogen
+                        Insurgenterne. Da var det, at <persName key="robert-emmet">Robert Emmet</persName> med nogen
                         Forlegenhed erklærede, at han absolut endnu engang maatte til
                             <placeName>Dublin</placeName> for at tage Afsked med en Person, der var
                         ham saa kjær, at han ei kunde forlade Irland for mange Aar uden et Gjensyn
                         med hende. <ref target="n"/>»Han maatte see hende, om han saa skulde døe
                         tusinde Gange derfor.«<!-- LEMMA SLUT -->
                     </p>
-                    <p> Soldaterne søgte ham overalt, <persName>hans trofaste
+                    <p> Soldaterne søgte ham overalt, <persName key="0">hans trofaste
                             Husholderske</persName>, en ung modig Pige, blev forgjæves prikket med
                         Bajonetter over hele Legemet og underkastet <ref target="n"/>»Halvhængningen«<!-- LEMMA SLUT -->, hun vilde Intet røbe om hans
                         Opholdssted. Endelig fandt man ham, lammede ethvert Flugtforsøg ved et
@@ -6063,33 +6063,33 @@
                         der bemægtigede sig ham, vilde undskylde Skuddet, <ref target="n"/>svarede
                         han kort, at Alt var tilladt i Krig (»all is fair in
                         war«<!-- tilføjet »« -->)<!-- LEMMA SLUT -->.</p>
-                    <p> Et Par Dage efter sin Fængsling skrev <persName>Robert Emmet</persName> et
+                    <p> Et Par Dage efter sin Fængsling skrev <persName key="robert-emmet">Robert Emmet</persName> et
                         Brev til den unge Pige, for hvis Skyld han havde udsat sit Liv. Det var
-                            <persName>Miss Sarah Curran</persName>, Datter af <persName>den berømte
+                            <persName key="sarah-curran">Miss Sarah Curran</persName>, Datter af <persName key="john-philpot-curran">den berømte
                             Advocat</persName>, hvis Navn saa hyppigt forekommer i
-                            <persName>Byrons</persName> Poesier, <ref target="n"/>de irske
+                            <persName key="george-gordon-byron">Byrons</persName> Poesier, <ref target="n"/>de irske
                         Anklagedes ufortrødne og begeistret veltalende Forsvarer i
                         1798<!-- LEMMA SLUT -->, en af Landets mest ansete og anerkjendte Mænd. I
-                        hans Hus havde <persName>Robert Emmet</persName> som ganske ung færdedes
-                        meget; men da <persName>Curran</persName> opdagede hans og
-                            <persName>Datterens</persName> varme Interesse for hinanden og frygtede,
-                        at <persName>Emmets</persName>
+                        hans Hus havde <persName key="robert-emmet">Robert Emmet</persName> som ganske ung færdedes
+                        meget; men da <persName key="john-philpot-curran">Curran</persName> opdagede hans og
+                            <persName key="sarah-curran">Datterens</persName> varme Interesse for hinanden og frygtede,
+                        at <persName key="robert-emmet">Emmets</persName>
                         <pb n="257"/> politiske Retning skulde tilintetgjøre hans Fremtid, havde han
                         skilt de to Unge ad, og det var mod hans Vidende de bestandig havde
                         vedligeholdt Brevvexling med hinanden. Fangevogteren, der lod sig give en
-                        stor Sum for at bringe <persName>Emmets</persName> Brev til dets Adresse,
+                        stor Sum for at bringe <persName key="robert-emmet">Emmets</persName> Brev til dets Adresse,
                         bragte det strax til Statsadvocaten. I sin Angest for at have compromitteret
-                        den, han elskede, skrev <persName>Emmet</persName> øieblikkeligt til sine
+                        den, han elskede, skrev <persName key="robert-emmet">Emmet</persName> øieblikkeligt til sine
                         Dommere, og da han vidste, hvor stor Frygt man nærede for hans Veltalenhed,
                         tilbød han selv at erklære sig skyldig for Retten og tilmed ikke sige et
                         eneste Ord til sit Forsvar, hvis man til Gjengjæld vilde lade være at
-                        inddrage hans Breve til <persName>Miss Curran</persName> i Processen.
+                        inddrage hans Breve til <persName key="sarah-curran">Miss Curran</persName> i Processen.
                         Forgjæves, næste Dag allerede lærte en Husundersøgelse den fortørnede
-                            <persName>Curran</persName> det inderlige Forhold, som bestod mellem
-                            <persName>Emmet</persName> og hans <persName>Datter</persName>. Om selve
+                            <persName key="john-philpot-curran">Curran</persName> det inderlige Forhold, som bestod mellem
+                            <persName key="robert-emmet">Emmet</persName> og hans <persName key="cur;sarah-curran;sarah-curran">Datter</persName>. Om selve
                         Sagens Udfald var der ingen Tvivl; den Anklagede kjendte sin Skjæbne. Da
                             <persName>Fængselsdirecteuren</persName> en Dag overraskede ham,
-                        flettende en Haarlok, som <persName>Miss Curran</persName> havde skjænket
+                        flettende en Haarlok, som <persName key="sarah-curran">Miss Curran</persName> havde skjænket
                         ham, saae han op og sagde: <ref target="n"/>»Jeg fletter den for at kunne
                         have den hos mig paa Skafottet.«<!-- LEMMA SLUT --> Paa hans Bord fandt man
                         en yderst omhyggeligt udført Pennetegning: hans eget Portrait, slaaende
@@ -6097,7 +6097,7 @@
                     <p> Processen begyndte Kl. 10 om Morgenen. Efterat
                             <persName>Statsadvocaten</persName> i sin Tale havde forsikret, <pb n="258"/> at denne Sammensværgelse ingen anden Virkning havde havt end
                         yderligere at lade Irlands Kjærlighed til dets <persName>Konge</persName>
-                        komme til Udbrud, bad <persName>Robert Emmet</persName> til Svar kun om at
+                        komme til Udbrud, bad <persName key="robert-emmet">Robert Emmet</persName> til Svar kun om at
                         følgende Paragraph af den provisoriske Regjerings Manifest, <app>
                             <lem>som</lem>
                             <!-- simpel fejl, rettes uden kilder - men de støtter rettelsen -->
@@ -6106,8 +6106,8 @@
                         af er al Brug af Pidskning og Tortur forbudt paa Irlands Grund og kan ikke
                         under noget Paaskud gjenindføres.«<!-- LEMMA SLUT --> Derefter fulgte en
                         Tale af en modbydelig irsk Renegat, det forhenværende Medlem af
-                        Oprørspartiet <persName>Lord Plunket</persName>, der som offentlig Anklager
-                        overvældede <persName>Emmet</persName> med Haansord. Saa reiste denne sig og
+                        Oprørspartiet <persName key="william-conyngham-1-baron-plunket">Lord Plunket</persName>, der som offentlig Anklager
+                        overvældede <persName key="robert-emmet">Emmet</persName> med Haansord. Saa reiste denne sig og
                         holdt med den visse og nære Død for Øie en Forsvarstale, som endnu den Dag
                         idag enhver Irlænder kjender. Han sagde, at hvis han, naar han var bleven
                         erklæret for skyldig, kun skulde lide Døden, vilde han ikke have trættet de
@@ -6120,25 +6120,25 @@
                         Røst, at man tydeligt hørte den ved Retssalens ydre Døre og dog uden at der
                         var det ringeste overdrevent eller declamatorisk i hans <pb n="259"/>
                         Foredrag; <ref target="n"/>hans Stemme var tverimod, siger
-                            <persName>Madden</persName>, som hørte ham, moduleret med den største
+                            <persName key="richard-robert-madden">Madden</persName>, som hørte ham, moduleret med den største
                         Finhed<!-- lemma slut -->, han gik frem og tilbage mod Skranken med visse
                         Bevægelser, der vare ham eiendommelige og som besadde en særegen Ynde.
                         Tredive Aar efter tale Vidnerne til denne gjennemtrængende Veltalenhed endnu
                         ikke uden Sindsbevægelse om den Gratie og den Høihed, hvormed han trodsede
-                        sine Dommere. En <persName>Correspondent</persName> til
+                        sine Dommere. En <persName key="0">Correspondent</persName> til
                         »<bibl>Times</bibl>«, der absolut fordømmer selve Oprøret, siger i sit Brev
-                        om <persName>Emmet</persName>: <ref target="n"/>»Men det maa jeg tilstaae:
+                        om <persName key="robert-emmet">Emmet</persName>: <ref target="n"/>»Men det maa jeg tilstaae:
                         han var stor midt i sine Vildfarelser; da han paa Processens Dag, i det
                         Øieblik Graven aabnede sig for at modtage ham, rystede selv Rettens Mure ved
                         sin Veltalenheds Energi og Glands, saae jeg hin Snog, som hans Fader havde
-                        næret ved sin Barm (<persName>Lord Plunket</persName>) zitre under hans Blik
+                        næret ved sin Barm (<persName key="william-conyngham-1-baron-plunket">Lord Plunket</persName>) zitre under hans Blik
                         og hint Udskud af Menneskeheden, der dømte <app>
-                            <lem wit="SS Fu 1923-24">ham (<persName>Lord Norbury</persName>),</lem>
+                            <lem wit="SS Fu 1923-24">ham (<persName key="john-toler-1-earl-of-norbury">Lord Norbury</persName>),</lem>
                             <rdg wit="A B">ham, (Lord Norbury)</rdg>
                         </app> blegne og skjælve paa sin Stol.«<!-- lemma slut -->
                     </p>
                     <p>
-                        <persName>Emmet</persName> endte med disse Ord: <ref target="n"/>»Mylords, I
+                        <persName key="robert-emmet">Emmet</persName> endte med disse Ord: <ref target="n"/>»Mylords, I
                         vente utaalmodigt Eders Offer. Alle de Rædsler, hvormed I have omgivet mig,
                         have ikke formaaet at isne det Blod i mine Aarer, hvorefter I ere saa
                         begjærlige, og om faa Timer vil det skrige om Hævn til Himlen; men
@@ -6156,7 +6156,7 @@
                         indtager sin Plads mellem Jordens Nationer, lad <emph>da</emph> og ikke før
                         da min Gravskrift blive skreven. Jeg har talt ud.«<!-- LEMMA SLUT -->
                     </p>
-                    <p> Dommen faldt og lød paa, at <persName>Robert Emmet</persName> skulde først
+                    <p> Dommen faldt og lød paa, at <persName key="robert-emmet">Robert Emmet</persName> skulde først
                         hænges, saa halshugges endnu samme Nat <app>
                             <lem wit="B SS Fu 1923-24">Kl.</lem>
                             <rdg wit="A">Kl</rdg>
@@ -6171,37 +6171,37 @@
                         samme Mand gav ham Noget at <pb n="261"/> spise; thi fra Kl. 10 om Morgenen
                         af, da Processen begyndte, havde han ingen Næring faaet. Saa faldt han i en
                         kort dyb Søvn, vaagnede og benyttede de faa Øieblikke, han havde tilbage,
-                        til at skrive Breve, et til sin <persName>Broder</persName> i Amerika, et
-                        til <persName>Miss Curran’s</persName>
-                        <persName>Broder</persName> og et til hende selv, da han blev afbrudt af en
-                        Ven, som ønskede at see ham sidste Gang. <persName>Roberts</persName> første
-                        Ord til ham var, hvorledes det gik hans <persName>Moder</persName>, og
+                        til at skrive Breve, et til sin <persName key="thomas-addis-emmet">Broder</persName> i Amerika, et
+                        til <persName key="sarah-curran">Miss Curran’s</persName>
+                        <persName key="curran">Broder</persName> og et til hende selv, da han blev afbrudt af en
+                        Ven, som ønskede at see ham sidste Gang. <persName key="robert-emmet">Roberts</persName> første
+                        Ord til ham var, hvorledes det gik hans <persName key="0">Moder</persName>, og
                         Vennen maatte da dybtnedbøiet meddele ham, at hun var død to Dage forud af
                         Græmmelse. Med Ro havde hun seet <ref target="n"/>den ene af sine Sønner
                         forvist for Irlands Skyld<!-- LEMMA SLUT -->, med Fasthed havde hun
-                        bestandig opmuntret <persName>Robert</persName> paa hans Vei, men da hun
+                        bestandig opmuntret <persName key="robert-emmet">Robert</persName> paa hans Vei, men da hun
                         saae den Søn, der var hendes Livs Stolthed, ikke tre og tyve Aar gammel
                         indviet til en saa frygtelig Død, brast hendes Hjerte.
-                            <persName>Robert</persName> modtog Efterretningen med Fatning og svarte:
+                            <persName key="robert-emmet">Robert</persName> modtog Efterretningen med Fatning og svarte:
                             <ref target="n"/>»Det er bedre saaledes«<!-- LEMMA SLUT -->. I Brevet
-                        til <persName>Miss Currans</persName>
-                        <persName>Broder</persName> skriver han: <ref target="n"/>»Jeg har aldrig
+                        til <persName key="sarah-curran">Miss Currans</persName>
+                        <persName key="curran">Broder</persName> skriver han: <ref target="n"/>»Jeg har aldrig
                         for min egen Skyld ønsket Embeder eller Æresbevisninger; jeg vilde ikke have
                         bekymret mig om Ros af Nogen, men jeg havde ønsket i
-                            <persName>Sarahs</persName> straalende Ansigt at kunne læse, at hendes
+                            <persName key="sarah-curran">Sarahs</persName> straalende Ansigt at kunne læse, at hendes
                         Mand var agtet.«<!-- LEMMA SLUT --> Hans Haandskrift i dette Brev er saa
                         fast og regelmæssig som nogensinde. Kl. 1 blev han hentet til Skafottet. Saa
                         stort var det Herredømme, hans Væsens Blidhed og Ynde udøvede over alle raa
                         Naturer, at en af Fangevogterne, da han <pb n="262"/> ført af Sherifferne og
                         fulgt af Bøddelen gik ud af Fængslet, sagde ham Farvel med strømmende
-                        Taarer; <persName>Emmet</persName>, hvis Arme vare bundne, bøiede sig og
+                        Taarer; <persName key="robert-emmet">Emmet</persName>, hvis Arme vare bundne, bøiede sig og
                         kyssede Manden paa Kinden, og denne Mand, som tyve Aar igjennem var bleven
                         hærdet og vænnet til Fængselsscener, faldt uden Bevidsthed om for hans
-                        Fødder. Ved Skafottets Fod gav <persName>Robert Emmet</persName> en af sine
-                        Venner det Brev, han havde skrevet til <persName>Miss Curran</persName>, men
+                        Fødder. Ved Skafottets Fod gav <persName key="robert-emmet">Robert Emmet</persName> en af sine
+                        Venner det Brev, han havde skrevet til <persName key="sarah-curran">Miss Curran</persName>, men
                         Vennen blev arresteret og Brevet kom aldrig til sin Adresse. Han tog selv
                         sit Halstørklæde af og hjalp til med at lægge Strikken om sin Hals. Bødlen
-                        viste det afskaarne Hoved til Folket og raabte med høi Røst: <ref target="n"/>»Dette er Hovedet af <persName>Robert Emmet</persName>, en
+                        viste det afskaarne Hoved til Folket og raabte med høi Røst: <ref target="n"/>»Dette er Hovedet af <persName key="robert-emmet">Robert Emmet</persName>, en
                         Forræder«<!-- LEMMA SLUT --><!-- tilføjet »« -->. – Ikke en Lyd hørtes til
                         Svar.</p>
                     <p> Næste Dag stod i Regjeringsbladet »<bibl>London Chronicle</bibl>«: <ref target="n"/>»Han forblev til det sidste Øieblik den Samme, som han viste
@@ -6216,7 +6216,7 @@
                         forandre dem.«<!-- LEMMA SLUT --> Saaledes talte den officielle Presse; det
                         undertrykte Irland tav om sin treogtyveaarige Yndlings Skafot og tro mod
                         hans Bud, satte det ingen Indskrift paa hans Grav.</p>
-                    <p> Men da <persName>Moores</persName>
+                    <p> Men da <persName key="thomas-moore">Moores</persName>
                         <bibl>irske Melodier</bibl><!-- uden »« --> kom ud, da hørte man med Et i
                         disse Sange et helt Folks Smerte og Indignation stige og synke, hviske og
                         raabe, klage og mumle som Havets Bølger og med et Naturelements
@@ -6225,19 +6225,19 @@
                             <rdg wit="A B">Dag</rdg>
                         </app> ikke en Bonde paa<!-- ok? ja, vel --> Irland, som ikke kjender
                         Sangen: »<bibl>When he who adores thee</bibl>«. I Amerika læses
-                            <persName>Robert Emmets</persName> sidste Tale endnu den Dag idag i alle
+                            <persName key="robert-emmet">Robert Emmets</persName> sidste Tale endnu den Dag idag i alle
                         Skoler. Den er Evangeliet for Rebellionen mod England. Men underligt nok:
-                        ikke <persName>Robert Emmets</persName> heroiske Død gjorde ham saa berømt
+                        ikke <persName key="robert-emmet">Robert Emmets</persName> heroiske Død gjorde ham saa berømt
                         hos hans Landsmænd som hans rørende Kjærlighedshistorie. Hans
-                            <persName>Brud</persName> stod for det irske Folk som Heltens Enke og
+                            <persName key="sarah-curran">Brud</persName> stod for det irske Folk som Heltens Enke og
                         var Gjenstand for en stille Ærefrygt. Hendes Ulykke forøgedes end mere ved
-                        at hun levede i en engelsksindet Kreds, der vel beklagede <persName>Robert
+                        at hun levede i en engelsksindet Kreds, der vel beklagede <persName key="robert-emmet">Robert
                             Emmet</persName>, men mente at han havde fortjent sin Skjæbne. <ref target="n"/>Hendes Udseende var, siger <persName>Admiral
                             Napier</persName>, der saae hende i Italien, »en vandrende
                         Statues«<!-- LEMMA SLUT -->. Hun døde faa Aar efter paa
                             <placeName>Sicilien</placeName>
                         <ref target="n"/>»langt fra det Land, hvor hendes unge Heros sover.«<!-- LEMMA SLUT -->
-                        <persName>Washington Irving</persName> har skildret hende i sin smukke
+                        <persName key="washington-irving">Washington Irving</persName> har skildret hende i sin smukke
                         Skizze »<bibl>Det knuste Hjerte</bibl>« i »<bibl>The sketch book</bibl>«.
                         Men <pb n="264"/> hendes skjønneste Monument er Sangen »<bibl>She is far
                             from the land</bibl>«<note place="bottom">Madden: »<bibl>United
@@ -6262,7 +6262,7 @@
                     <p>med dens vilde Klage over at hin første Frihedsstraale, som Menneskeheden har
                         velsignet, atter er forsvunden og i sin Forsvinden ligesom har gjort
                         Trældommens og Sorgens Nat dybere og mørkere end den var, men dybest og
-                        mørkest for Erin. <persName>Moore</persName> hæver sig til den høieste og
+                        mørkest for Erin. <persName key="thomas-moore">Moore</persName> hæver sig til den høieste og
                         ædleste Flugt i en Strophe som denne:</p>
                     <cit>
                         <quote>
@@ -6334,10 +6334,10 @@
                             </cit>
                         </note>.</p>
                     <p>
-                        <persName>Wordsworth</persName> skrev Kjærlighedserklæringer til England, da
-                        det var seirrigt og stort, <persName>Scott</persName> besang Skotland paa en
+                        <persName key="william-wordsworth">Wordsworth</persName> skrev Kjærlighedserklæringer til England, da
+                        det var seirrigt og stort, <persName key="sir-walter-scott">Scott</persName> besang Skotland paa en
                         Tid, da dette Land var begyndt i lykkelig Blomstring at hævde sin Plads ved
-                        Siden af Søsterriget, men <persName>Moore</persName> sendte sine <pb n="267"/> brændende Sange til et Land, der laa ydmyget og blødende for sine Bødlers
+                        Siden af Søsterriget, men <persName key="thomas-moore">Moore</persName> sendte sine <pb n="267"/> brændende Sange til et Land, der laa ydmyget og blødende for sine Bødlers
                         Fødder. Han siger i Digtet »<bibl>Remember thee</bibl>«:</p>
                     <p>
                         <ref target="n"/>»Huske Dig! ja saalænge der er Liv i dette Hjerte, skal jeg
@@ -6350,13 +6350,13 @@
                         Hjerter, som Ungerne fra Ørkenfuglens Rede, drikke Kjærlighed i hver
                         Livsdraabe, der flyder fra dit
                         Bryst«<!-- LEMMA SLUT --><!-- tilføjet »« -->.</p>
-                    <p> I hele sin Production mindes da <persName>Moore</persName> ogsaa Irland.
+                    <p> I hele sin Production mindes da <persName key="thomas-moore">Moore</persName> ogsaa Irland.
                         Hans store østerlandske Digt »<bibl>Lalla Rookh</bibl>«, der udkom i 1817,
                         er udført efter de samvittighedsfuldeste Studier; der er her ikke en
                         Lignelse, ikke en Beskrivelse, et Navn, et Træk af Historien eller en
                         Allusion til en Romance, som ligger indenfor Europas Horizont, og som ikke
                         viser Digterens Fortrolighed med Østens Liv og Natur. Men ikke desmindre
-                        begyndte Sujettet først at faa Interesse for <persName>Moore</persName>, da
+                        begyndte Sujettet først at faa Interesse for <persName key="thomas-moore">Moore</persName>, da
                         han saae en Mulighed til at benytte Kampen mellem Ildtilbederne og
                         Mahomedanerne som et Paaskud til at prædike Tolerance i Overensstemmelse med
                         den Lære, han <pb n="268"/> havde givet sine Landsmænd i Digtet »<bibl>Come
@@ -6366,13 +6366,13 @@
                             fire-worshippers</bibl>« er derfor Digtningens eneste helt vellykkede
                         Parti. Selve Navnene Iran og Erin flyde efterhaanden sammen for Læserens
                         Øre. <ref target="n"/>
-                        <persName>Moore</persName> siger selv, at den Aand, som havde udtalt sig i
+                        <persName key="thomas-moore">Moore</persName> siger selv, at den Aand, som havde udtalt sig i
                         de <bibl>irske Melodier</bibl><!-- uden »« -->, først følte sig hjemme i
                         Østen, da han kom til »<bibl>Ildtilbederne</bibl>«<!-- LEMMA SLUT -->, og
                         virkelig synes dette skjønne Digt, hvis Helt er en ædel og ulykkelig Rebel,
                         og hvis Heltinde lever i en Kreds, hvor hun altid hører ham omtale med
-                        Afsky, direkte inspireret af Mindet om <persName>Robet Emmet</persName> og
-                            <persName>Sarah Curran</persName>. Der er Lighed i mange Enkeltheder:
+                        Afsky, direkte inspireret af Mindet om <persName key="robert-emmet">Robet Emmet</persName> og
+                            <persName key="sarah-curran">Sarah Curran</persName>. Der er Lighed i mange Enkeltheder:
                             <persName type="fictional">Hafed</persName> har kort før han kalder <ref target="n"/>Gheberne<!-- LEMMA SLUT --> til Oprør, flakket landflygtig
                         om i Udlandet; <persName type="fictional">Hinda</persName> maa under sin
                         Hjerteangst for <persName type="fictional">Hafed</persName> daglig høre om
@@ -6417,11 +6417,11 @@
                                 </quote>
                             </cit>
                         </note>.</p>
-                    <p> Det var <persName>Moores</persName> polemiske Stilling som Irlænder, der
+                    <p> Det var <persName key="thomas-moore">Moores</persName> polemiske Stilling som Irlænder, der
                         gjorde ham det umuligt at see den store Politik i samme Lys, hvori den stod
-                        for Søskolen og <persName>Scott</persName>. Han sendte en Hagl af
+                        for Søskolen og <persName key="sir-walter-scott">Scott</persName>. Han sendte en Hagl af
                         Vittighedspile imod <ref target="n"/>den hellige
-                        Alliance<!-- lemma slut -->. <ref target="n"/>I de <persName>Lord
+                        Alliance<!-- lemma slut -->. <ref target="n"/>I de <persName key="george-gordon-byron">Lord
                             Byron</persName> dedicerede Fabler, han bar helliget det fromme
                         Fyrsteforbund<!-- lemma slut -->, driver han med elskværdig Dristighed Gjæk
                         med den hele europæiske Reaction. Han drømmer f. Ex. at <persName>Czar
@@ -6445,7 +6445,7 @@
                         sig under et almindeligt »sauve qui peut«. Men alle Decorationerne i Isen,
                         de flakte Ørne, de kongelige Vaaben, tydske Rovfugle og franske Lilier, Alt
                         smelter og opløser sig i Vand. – <ref target="n"/>Hvorfor, spørger
-                            <persName>Moore</persName>, ville Monarcherne ogsaa gjøre deres
+                            <persName key="thomas-moore">Moore</persName>, ville Monarcherne ogsaa gjøre deres
                         Kaprioler i Paladser uden Grundvold?<!-- LEMMA SLUT --> – Man seer, at han
                         har stillet sangvinske Forhaabninger til <ref target="n"/>den da lige
                         udbrudte spanske Revolution<!-- LEMMA SLUT -->.</p>
@@ -6466,7 +6466,7 @@
                         og kaste dem paa Hovedet ind i den Ild, de ikke vilde lade brænde i
                         Fred.</p>
                     <p>
-                        <persName>Moores</persName> satiriske og humoristiske Hovedværk »<bibl>The
+                        <persName key="thomas-moore">Moores</persName> satiriske og humoristiske Hovedværk »<bibl>The
                             Fudge family in Paris</bibl>«, der sprudler af Vittigheder over <ref target="n"/>det nysoprettede, bovlamme bourbonske
                         Regimente<!-- LEMMA SLUT -->, vender sig tillige med modig Pathos mod
                         England. Det hedder her: <ref target="n"/>»Medens tapre Hjerter og sanddru
@@ -6478,18 +6478,18 @@
                         kun søger sit Eget og træder al fremmed Ret under Fødder<!-- LEMMA SLUT -->.
                         Man gjennemlæse særligt det fjerde og syvende Brev med deres Spotterier over
                             <persName>Prindsregentens</persName> Ladhed og Fedme, og med deres
-                        frygtelige Invectiver mod <persName>Castlereagh</persName>, som kaldes <ref target="n"/>»hin Incarnation af al Forraadnelsens Smitte og Stank, som
+                        frygtelige Invectiver mod <persName key="robert-stewart-castlereagh">Castlereagh</persName>, som kaldes <ref target="n"/>»hin Incarnation af al Forraadnelsens Smitte og Stank, som
                         Irland gav England til Skjænk, ligesom det slagne Lig opsender Pest imod sin
                         Morder«<!-- LEMMA SLUT -->; her findes ogsaa de mest hensynsløse Udfald mod
                         de allierede Konger, <ref target="n"/>»denne Bande af Vampyrer, der suge
                         Blodet ud af det slumrende Europa.«<!-- LEMMA SLUT -->
                     </p>
                     <p> Det lyder meget slemt og meget farligt, Afstanden fra den ældre Digterslægt
-                        er tydelig nok, Springet herfra til <persName>Shelley</persName> og
-                            <persName>Byron</persName> synes ringe. Men i Virkeligheden er det meget
+                        er tydelig nok, Springet herfra til <persName key="percy-bysshe-shelley">Shelley</persName> og
+                            <persName key="george-gordon-byron">Byron</persName> synes ringe. Men i Virkeligheden er det meget
                         stort og alle disse Udfald ikke <emph>saa</emph> alvorligt mente, som de
                         synes. Det var ingen irsk Home-Ruler, som her talte Irlands Sag; thi
-                            <persName>Moore</persName> vilde ingenlunde have sin Fødeø løsrevet fra
+                            <persName key="thomas-moore">Moore</persName> vilde ingenlunde have sin Fødeø løsrevet fra
                         England, kun have den bedre og retfærdigere regjeret. Det var ingen
                         Republikaner, der her udtalte sig saa djærvt mod Kongerne, men en oprigtig
                         Monarchist, der ønskede slette Konger afløste af gode. Det var endelig ingen
@@ -6499,10 +6499,10 @@
                         Protestanter og selv skrev en tyk Bog »<bibl>Travels of <pb n="273"/> an
                             irish Gentleman in search of a Religion</bibl>« til Forsvar for den
                         katholske Læres Hoveddogmer. Med al sin tilsyneladende Ubundenhed holdt
-                            <persName>Moore</persName> sig indenfor de Grændser og iagttog de
+                            <persName key="thomas-moore">Moore</persName> sig indenfor de Grændser og iagttog de
                         Hensyn, som den Kreds, hvori han levede, paalagde ham. Whiggernes Førere
                         havde, strax da han kom til <placeName>London</placeName>, modtaget ham med
-                        aabne Arme, og <persName>Moore</persName> var og blev den erklærede
+                        aabne Arme, og <persName key="thomas-moore">Moore</persName> var og blev den erklærede
                         Whigdigter, der i en lang Række af satiriske og humoristiske Breve, rimede
                         Feuilletoner kunde man kalde dem, behandlede Dagens Spørgsmaal og de
                         parlamentariske Begivenheder med glimrende Vid og prægtigt Salonlune i
@@ -6515,23 +6515,23 @@
                         var skabt til som de gamle irske Barder at sidde høithædret ved høie Herrers
                         Bord og korte dem Tiden med Sang. Han bærer i den Grad Præget af en Lykkens
                         Yndling, at han tidt, naar han er mest alvorlig, dog synes halvt at spøge,
-                        lige modsat <persName>Byron</persName>, der selv naar han spøger, er
-                        alvorlig, ja mørk. <persName>Moore</persName> leger med sit Æmne og
-                        kjærtegner det, <persName>Byron</persName> sønderdeler det og vender sig fra
+                        lige modsat <persName key="george-gordon-byron">Byron</persName>, der selv naar han spøger, er
+                        alvorlig, ja mørk. <persName key="thomas-moore">Moore</persName> leger med sit Æmne og
+                        kjærtegner det, <persName key="george-gordon-byron">Byron</persName> sønderdeler det og vender sig fra
                         det med Lede. Begge de to Venner leve i Skuet og Gjenfremstillingen af den
-                        ydre Natur, men naar <persName>Byron</persName> seer paa den, synes selv
-                        Solen at formørkes derved, <pb n="274"/> medens <persName>Moore</persName>
+                        ydre Natur, men naar <persName key="george-gordon-byron">Byron</persName> seer paa den, synes selv
+                        Solen at formørkes derved, <pb n="274"/> medens <persName key="thomas-moore">Moore</persName>
                         med sin Forkjærlighed for Rosenrødt og Lys i Lys og Glimmer ligesom selv
                         skaber <ref target="n"/>»en Morgensol, der staaer op om
                         Middagen«<!-- LEMMA SLUT -->.</p>
                     <p> Heri ligger ogsaa, at man faaer et ensidigt Billede af
-                            <persName>Moore</persName>, naar man, som vor Plan førte det med sig,
+                            <persName key="thomas-moore">Moore</persName>, naar man, som vor Plan førte det med sig,
                         fortrinsvis studerer ham som politisk Digter. Han er tillige en Erotiker og
                         en af de største, sikkert den mest musikalske, som nogensinde har levet. Kun
                         hans utroligt fine Øre for Musik kan tilnærmelsesvis forklare den Trolddom,
                         der er i hans Sprogbehandling. En lokkende, blussende Sandselighed og en
                         brændende Ømhed har i hans erotiske Poesier fundet Udtryk, hvis iørefaldende
-                        Velklang drager som Toner fra Elverhøi. Lad <persName>Shelleys</persName>
+                        Velklang drager som Toner fra Elverhøi. Lad <persName key="percy-bysshe-shelley">Shelleys</persName>
                         engelske Beundrere, vante til finere og den Profane mindre let fattelige
                         Harmonier, kun kalde disse Sange altfor søde (oversweet)<note place="bottom">Et Udtryk, jeg i en mundtlig Discussion har hørt anvendt.</note>;
                         erotisk Lyrik kan ikke være for erotisk; <ref target="n"/>»dans l’amour trop
@@ -6551,17 +6551,17 @@
                         </quote>
                     </cit>
                     <p>
-                        <pb n="275"/> Det forekommer mig, at Sange af <persName>Mozart</persName> og
-                            <persName>Moore</persName> beholde deres Værd, selv om Verden efter dem
-                        har havt en <persName>Schubert</persName> og en
-                        <persName>Shelley</persName>. Ingensteds afspeiler de store engelske
+                        <pb n="275"/> Det forekommer mig, at Sange af <persName key="wolfgang-amadeus-mozart">Mozart</persName> og
+                            <persName key="thomas-moore">Moore</persName> beholde deres Værd, selv om Verden efter dem
+                        har havt en <persName key="franz-schubert">Schubert</persName> og en
+                        <persName key="percy-bysshe-shelley">Shelley</persName>. Ingensteds afspeiler de store engelske
                         Digteres Eiendommelighed i denne Periode sig skarpere end i deres Erotik,
                         paa samme Tid som den hele Periodes Naturalisme paa dette Omraade sees i sin
                         skarpeste Modsætning til Overnaturlighederne i den tydske og franske
                         Reactionsperiodes Skildringer af Elskov<note place="bottom">Se G. Brandes:
                                 »<bibl>Den romant. Skole i Tydskland</bibl>«. S. 222 ff. og
                                 »<bibl>Reactionen i Frankrig</bibl>«. S. 241 ff.</note>. Hvad
-                            <persName>Byron</persName> siger om sin skjønneste Kvindeskikkelse, at
+                            <persName key="george-gordon-byron">Byron</persName> siger om sin skjønneste Kvindeskikkelse, at
                         hun var <ref target="n"/>»<emph>Naturens Brud</emph> og Lidenskabens
                         Barn«<!-- LEMMA SLUT --> (»<bibl>Don Juan</bibl>« II, 202) og hvad han
                         udtaler om <persName type="fictional">Don Juan’s</persName> og <persName type="fictional">Haidée’s</persName> Elskov: <ref target="n"/>»Hos Andre
@@ -6569,7 +6569,7 @@
                         og Læsning, i dem var det deres <emph>Natur</emph> eller deres
                         Skjæbne«<!-- LEMMA SLUT --> (ib IV, 19), det gjælder om de erotiske
                         Skildringer i hele dette Tidsrum. Men kun i »<bibl>Don Juan</bibl>« har
-                            <persName>Byron</persName> malt en lykkelig Elskov. Hans erotiske Digte
+                            <persName key="george-gordon-byron">Byron</persName> malt en lykkelig Elskov. Hans erotiske Digte
                         ere lutter Kval og Klage. Det vidunderligste af dem alle »<bibl>When we two
                             parted</bibl>« har Hulken i selve sin Rytme og udtaler Adskillelsens
                         hele Smerte allerede i den Maade, hvorpaa Rytmen i den sidste Strophe
@@ -6609,7 +6609,7 @@
                         </quote>
                     </cit>
                     <p>Den Byronske Erotiks eiendommeligste Omraade er Elskovens Kval. Hos
-                            <persName>Keats</persName> er Erotiken, som det var at vente,
+                            <persName key="john-keats">Keats</persName> er Erotiken, som det var at vente,
                         tungtaandende, hed, sensuel og svælgende i Duft og Toner. Man læse denne
                         mesterlige Strophe:</p>
                     <cit>
@@ -6631,9 +6631,9 @@
                     </cit>
                     <p>
                         <pb n="277"/>
-                        <persName>Shelleys</persName> Erotik er hyperaandig og hypersandselig paa
-                        een Gang. Den minder om <persName>Correggios</persName>. Hos
-                            <persName>Shelley</persName> som hos <persName>Correggio</persName>
+                        <persName key="percy-bysshe-shelley">Shelleys</persName> Erotik er hyperaandig og hypersandselig paa
+                        een Gang. Den minder om <persName key="antonio-allegri-da-correggio">Correggios</persName>. Hos
+                            <persName key="percy-bysshe-shelley">Shelley</persName> som hos <persName key="antonio-allegri-da-correggio">Correggio</persName>
                         smelter Udtrykket for den høieste Hengivelse sammen med Udtrykket for den
                         heftigste sandselige Rus; hvad han skildrer er den erotiske Dødskamp. Man
                         læse f. Ex. <bibl>den indiske
@@ -6686,14 +6686,14 @@
                             </lg>
                         </quote>
                     </cit>
-                    <p> Er <persName>Byrons</persName> Territorium den ulykkeligt eller ensomt
-                        Elskendes Kval, saa er <persName>Shelleys</persName>, som man seer, den
+                    <p> Er <persName key="george-gordon-byron">Byrons</persName> Territorium den ulykkeligt eller ensomt
+                        Elskendes Kval, saa er <persName key="percy-bysshe-shelley">Shelleys</persName>, som man seer, den
                         lykkelige Elskovs Smerte, Selvtilintetgjørelsen i den lykkelige Kjærligheds
                         Ekstase. Men netop fordi begge de store Digteres erotiske Omraade er saa
                         snevert afgrændset, har ingen af dem skrevet mange erotiske Digte eller havt
                         et Centrum for sin Production paa dette Felt.</p>
                     <p>
-                        <persName>Moore</persName> derimod er født Erotiker som <persName>Christian
+                        <persName key="thomas-moore">Moore</persName> derimod er født Erotiker som <persName key="christian-winther">Christian
                             Winther</persName> er det. Han har den erotiske <emph>Phantasi</emph>,
                         som de andre Digtere den erotiske Passion, og i Poesien er
                         Indbildningskraften, ikke Lidenskaben den skabende Magt. Han elsker Alt,
@@ -6706,7 +6706,7 @@
                         mere end Hjertet, de ombyttes med andre med samme Egenskaber, det er en evig
                         Glimten og Flagren. <pb n="279"/> Men alle centralterotiske Digtere have
                         Sommerfuglenatur. Der gives i dette Punkt ingen mere slaaende Contrast end
-                        den mellem <persName>Wordsworth</persName> og <persName>Moore</persName>.
+                        den mellem <persName key="william-wordsworth">Wordsworth</persName> og <persName key="thomas-moore">Moore</persName>.
                         Den første valgte med Flid Sujetter, der ere ringe og frastødende, ja
                         hæslige i sig selv, for at udruste dem med en moralsk og aandig Skjønhed;
                         den anden afskyer Menneskelivets smudsige Enkeltheder, viger tilbage fra
@@ -6716,28 +6716,28 @@
                         Overbebyrdelse med prægtige Adjectiver, dens Tilbøielighed til at lade
                         enhver Følelse tabe sig i en Lignelse, dens hele urolige Glimren og Glitren
                         – man har kaldt den kunstig i Sammenligning med
-                            <persName>Wordsworth’s</persName>. <ref target="n"/>»Kunstig!« udraaber
+                            <persName key="william-wordsworth">Wordsworth’s</persName>. <ref target="n"/>»Kunstig!« udraaber
                         en af hans irske Beundrere, »<!-- tilføjet »« -->og det naar ethvert
-                        Menneske kan nyde <persName>Moore1s</persName> Digte, medens man maa skabe
+                        Menneske kan nyde <persName key="thomas-moore">Moore1s</persName> Digte, medens man maa skabe
                         sig en ny Smag for at nyde
-                        <persName>Wordsworth’s</persName>!«<!-- LEMMA SLUT --> Behøves der, maa man
+                        <persName key="william-wordsworth">Wordsworth’s</persName>!«<!-- LEMMA SLUT --> Behøves der, maa man
                         vel spørge, Studium og progressiv Smag til at nyde det Naturlige og kun
                         almindelig Følelse til at glæde sig over den kunstige Skjønhed?
-                            <persName>Wordsworth</persName> og <persName>Coleridge</persName> vare
-                        Digtere for Digtere, <persName>Moore</persName> var Digter for et Folk. Hvad
+                            <persName key="william-wordsworth">Wordsworth</persName> og <persName key="samuel-taylor-coleridge">Coleridge</persName> vare
+                        Digtere for Digtere, <persName key="thomas-moore">Moore</persName> var Digter for et Folk. Hvad
                         man kan indvende mod ham, følger kun af hans naturlige Begrændsning, den, at
                         han er Musiker og Colorist, ikke Tegner; han er ude af Stand til at tegne
                         eller beskrive en <emph>hel</emph> Gjenstand, <pb n="280"/> han maler kun
                         abstracte Egenskaber ved skjønne Gjenstande. Han forherliger en Blussen, et
                         Smil, en Stemmes Velklang hele Stropher igjennem, han giver snarere en
                         Fortegnelse over Skjønheder, end en skjøn Contour, og tager man
-                            <persName>Voltaires</persName> gamle line Definition paa Kjærlighed:
+                            <persName key="francois-voltaire">Voltaires</persName> gamle line Definition paa Kjærlighed:
                             <ref target="n"/>»Naturens Stof, som Indbildningskraften har
-                        broderet«<!-- LEMMA SLUT -->, saa finder man i <persName>Moores</persName>
+                        broderet«<!-- LEMMA SLUT -->, saa finder man i <persName key="thomas-moore">Moores</persName>
                         erotiske Poesier ofte Broderiet saa pragtfuldt og overdaadigt, at det neppe
                         lader Stoffet skinne igjennem. Men derfor er og bliver det dog Naturens.</p>
                     <p> Og det er ikke mere end billigt at tilføie, at i
-                            <persName>Moore’s</persName> bedste og beundringsværdigste Digte er hin
+                            <persName key="thomas-moore">Moore’s</persName> bedste og beundringsværdigste Digte er hin
                         Billedluxus fuldstændigt forsvunden. Hvor den ægte irske Vemod har <app>
                             <lem wit="B SS Fu 1923-24">behersket</lem>
                             <rdg wit="A">beherket</rdg>
@@ -6753,14 +6753,14 @@
                         til den anden, sikkert stolende paa, at dets Sønner elskede Æren høiere end
                         Kvinder og gyldne Skatte. (»Rich and rare«<!-- tilføjet »« --> o. s. v.). Om
                         den, der har skrevet <pb n="281"/> en saadan Sang, kunde
-                            <persName>Byron</persName> med Sandhed sige de hædrende Ord: <ref target="n"/>»<persName>Moores</persName>
+                            <persName key="george-gordon-byron">Byron</persName> med Sandhed sige de hædrende Ord: <ref target="n"/>»<persName key="thomas-moore">Moores</persName>
                         <bibl>irske Melodier</bibl><!-- uden »« --> ville gaae til Efterverdenen med
                         deres Musik; og begge ville vare saalænge som Irland eller som Musik og
                         Poesi«.<!-- tilføjet »« som i den eng. s. 187 - det er citat -->
                     </p>
                     <p>
-                        <persName>Moores</persName> Levnet var lykkeligt. Han giftede sig, 31 Aar
-                        gammel, med en smuk og elskelig Pige (<persName>Miss Dyke</persName>), og
+                        <persName key="thomas-moore">Moores</persName> Levnet var lykkeligt. Han giftede sig, 31 Aar
+                        gammel, med en smuk og elskelig Pige (<persName key="elizabeth-bessy-moore">Miss Dyke</persName>), og
                         levede i et fuldstændig harmonisk Ægteskab med sin trofaste »Bessy«. Hans
                         Kaar vare vel ikke altid gode, men fra det Øieblik af, da hans Ry var
                         almindelig anerkjendt, havde han en rigelig Indtægt af sine Skrifter. Han,
@@ -6770,8 +6770,8 @@
                         Hjerneskaller, havde personligt ingen Grund til at klage over sin Forlægger.
                         Denne tilbød ham f. Ex. 3000 Pund for »<bibl>Lalla Rookh</bibl>«, før han
                         saae en Linie af Digtet, og gav ham 4,200 Pund for hans fortræffelige
-                            <bibl>Biographi</bibl> af <persName>Byron</persName>.
-                            <persName>Moore</persName> blev ligeligt feiret af Irlændere og af
+                            <bibl>Biographi</bibl> af <persName key="george-gordon-byron">Byron</persName>.
+                            <persName key="thomas-moore">Moore</persName> blev ligeligt feiret af Irlændere og af
                         Engelskmænd. Man gjorde 1818 Festmaaltid for ham i
                             <placeName>Dublin</placeName>, hvor han hyldedes af Alt, hvad der
                         udmærkede sig i Litteratur og Politik, og da han i 1822 kom til
@@ -6798,7 +6798,7 @@
                         Sydamerika<!-- LEMMA SLUT -->, og <ref target="n"/>
                         <persName>Admiral Cochrane</persName>, der først i den brasilianske og
                         senere i den græske Frihedskrig gjorde sit Navn berømt<!-- LEMMA SLUT -->.
-                        Til denne Klasse af Mænd hører <persName>Walter Savage Landor</persName>,
+                        Til denne Klasse af Mænd hører <persName key="walter-savage-landor">Walter Savage Landor</persName>,
                         den særeste og stolteste Aand i Tidsalderens poetiske Litteratur.</p>
                     <p> Landor fødtes <app>
                             <lem wit="B">30.</lem>
@@ -6820,8 +6820,8 @@
                         hans Families Besiddelse i 700 Aar, for at leve som fri Verdensborger. Han
                         udførte dette Forsæt i 1806.</p>
                     <p>
-                        <ref target="n"/>Det spanske Oprør mod <persName>Napoleons</persName>
-                        Tyranni<!-- LEMMA SLUT --> brød ud. <persName>Landor</persName> reiste til
+                        <ref target="n"/>Det spanske Oprør mod <persName key="napoleon-1">Napoleons</persName>
+                        Tyranni<!-- LEMMA SLUT --> brød ud. <persName key="walter-savage-landor">Landor</persName> reiste til
                         Spanien, udrustede for egne Midler et helt lille Troppecorps og kjæmpede i
                         Insurgenternes Rækker. Han modtog i den Anledning en offentlig Takskrivelse
                         af den øverste Junta og Titel som Oberst i den spanske Hær. Ved <ref target="n"/>
@@ -6832,7 +6832,7 @@
                         Forræder«<!-- LEMMA SLUT --> som dets Konge. Man har i dette ene Træk
                         Mandens Temperament – fremfusende og hensynsløst som det var, men stolt og
                         stort. Der slog en Soldats Hjerte i denne Digters Bryst.</p>
-                    <p> 1815 bosatte <persName>Landor</persName> sig i Italien og blev der mere end
+                    <p> 1815 bosatte <persName key="walter-savage-landor">Landor</persName> sig i Italien og blev der mere end
                         30 Aar i Træk. Først 1857 tog han stadigt Ophold i England (i Byen
                             <placeName>Bath</placeName>). Han forblev hele sit Liv igjennem en
                         Dødsfjende af <pb n="284"/> Tyranniet i alle dets Skikkelser og Former og en
@@ -6840,18 +6840,18 @@
                         var han politiske Flygtninges og Forfulgtes trofaste Understøtter. Den
                         indtraf først i hans 90de Aar 1864.</p>
                     <p> Hans lange ærefulde Liv indbefatter en stor litterær Production; han har
-                        skrevet dobbelt saa Meget som <persName>Byron</persName> og mangt et Værk,
+                        skrevet dobbelt saa Meget som <persName key="george-gordon-byron">Byron</persName> og mangt et Værk,
                         som man ikke nærmer sig uden med Respect. Men hans Poesi blev i den hele
                         Periode, vi gjennemgaae, uforstaaet og upaaskjønnet;
-                            <persName>Landor</persName> skrev uden noget Forhold til et Publicum,
+                            <persName key="walter-savage-landor">Landor</persName> skrev uden noget Forhold til et Publicum,
                         uden af Kritiken at modtage anden Opmuntring end den at blive kaldt stiv og
                         kold og mindes om, at hans Engelsk lignede Oversættelser fra et fremmed
                         Sprog, han opnaaede aldrig Skygge af Popularitet og nød ikke en eneste
                         litterær Triumph. En halv Snes Aar før sin Død begyndte han at beundres og
                         nu omtrent begynder han at virke.</p>
-                    <p> Kommer man fra <persName>Moore</persName> til <persName>Landor</persName>,
+                    <p> Kommer man fra <persName key="thomas-moore">Moore</persName> til <persName key="walter-savage-landor">Landor</persName>,
                         da er det som kom man fra vuggende Bølger iland paa fast Grund.
-                            <persName>Landors</persName> Hovedegenskab er en mandig Fasthed; han
+                            <persName key="walter-savage-landor">Landors</persName> Hovedegenskab er en mandig Fasthed; han
                         rager høit op i sin Samtid som Digter, men han er endnu større som Mand. Han
                         er saa lidt læst, at man desværre næsten ikke kan forudsætte Noget af ham
                         bekjendt og ikke finde noget Støttepunkt for Udtalelser om ham i Læserens
@@ -6867,17 +6867,17 @@
                         mine Kritikere tage de ti daarligste af dem, og hvis han i ti Aar kan gjøre
                         noget saa Godt, saa vil jeg give ham et varmt Franskbrød og en halv Pot
                         stærkt Øl til Frokost.«<!-- LEMMA SLUT --> En ringere Mand vilde en saadan
-                        Arrogance have gjort komisk, <persName>Landor</persName> skjæmmer den ikke;
+                        Arrogance have gjort komisk, <persName key="walter-savage-landor">Landor</persName> skjæmmer den ikke;
                         engang imellem klæder den ham endog. Den minder En undertiden om
-                            <persName>Schopenhauer’s</persName> i sig selv ikke uberettigede, men
+                            <persName key="arthur-schopenhauer">Schopenhauer’s</persName> i sig selv ikke uberettigede, men
                         ustyrlige og fordringsfulde Følelse af sit Værd; kun at
-                            <persName>Landor</persName> i sit Væsen var og blev den fornemme, fint
-                        dannede Gentleman af adelig Fødsel, medens <persName>Schopenhauer</persName>
+                            <persName key="walter-savage-landor">Landor</persName> i sit Væsen var og blev den fornemme, fint
+                        dannede Gentleman af adelig Fødsel, medens <persName key="arthur-schopenhauer">Schopenhauer</persName>
                         med sin fuldkomne Tilsidesættelse af Høflighedens Bud var og blev en stor
                         Plebeier. Dog oftere minder hans sære Temperament med dets Voldsomheder i
                         stor Stil og dets Productioner i endnu større om en Mand, hvis Navn er for
                         stort, til at det skulde nævnes letsindigt men som, <pb n="286"/> skjøndt
-                            <persName>Landor</persName> uendeligt overlegen i Aand, visselig vilde
+                            <persName key="walter-savage-landor">Landor</persName> uendeligt overlegen i Aand, visselig vilde
                         have erkjendt en Aandsbeslægtet i ham. Den ensomme og barske
                             <persName>Michel Angelo</persName> mener jeg.</p>
                     <p> Der var noget Strengt i <persName>Landors</persName> Natur, den Strenghed,
