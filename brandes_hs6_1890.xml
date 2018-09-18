@@ -2807,7 +2807,7 @@
                     />Höflingsbekenntniss<!-- lemma slut -->), hvori han har røbet Opkomlingens
                     Forfængelighed, der søger det Fornemme hos Kvinderne.<note place="bottom"><ref
                             target="n995"/>Die Eitelkeit des Emporkömmlings, die in den Frauen
-                        zugleieh das Vornehme, das Königliche, begehrt.<!-- lemma slut --></note>
+                        zugleich das Vornehme, das Königliche, begehrt.<!-- lemma slut --></note>
                     Hvad moralsk <persName key="wolfgang-menzel">Menzel</persName> kan forebringe om
                         »<bibl n="goethe-die-mitschuldigen">Die Mitschuldigen</bibl>«, »<bibl
                         n="goethe-die-geschwister">Die Geschwister</bibl>«, i hvilken <ref
@@ -2822,7 +2822,7 @@
                     uværdige Ringeagt for Dydens indre Værdighed og Attraa efter Adelstandens ydre
                         Kaar.<note place="bottom"><ref target="n1001"/>Geadelt zu werden, im
                         Reichthum zugleich den <emph>haut goût</emph> der Vornehmigkeit in
-                        behaglicher Sicherheit zu geniessen, war ihm fur dieses Leben das
+                        behaglicher Sicherheit zu geniessen, war ihm für dieses Leben das
                         Höchste.<!-- lemma slut --></note> Endelig er »<bibl
                         n="goethe-die-wahlverwandtschaften-vol-1-2">Valgslægtskaberne</bibl>« ham
                     Typen paa en <ref target="n998"/>»Ægteskabsbrudsroman«<!-- lemma slut -->
@@ -4645,14 +4645,16 @@
                     klassiske Udtryk. Paa Bunden af sit Væsen er <persName key="heinrich-heine"
                         >Heine</persName> saa overbevist om det Modsatte, at han kan gaa til den
                     gale Yderlighed, i <persName key="nikolaj-1">Nikolaj</persName>, al Tvangs
-                    forstokkede Repræsentant i Datiden at se Frihedsmændenes Høvding i Europa. Men
-                        <persName key="nikolaj-1">Nikolaj</persName> var idetmindste en
-                    Personlighed, en Kraft. Og <persName key="heinrich-heine">Heine</persName> var
-                    Geni nok til at føle, det i sidste Instans ene <pb n="165"/> og alene kommer an
-                    paa Personligheder og Kræfter. Tallet gjør det ikke, Monarker gjør det heller
-                    ikke, end ikke Monarker i rigeligt Flertal. Derfor <persName
-                        key="heinrich-heine">Heines</persName> evige Løjer med de tre Dusin tyske
-                    Monarker.</p>
+                    forstokkede Repræsentant i <app>
+                        <lem>Datiden,</lem>
+                        <rdg wit="A">Datiden</rdg>
+                    </app> at se Frihedsmændenes Høvding i Europa. Men <persName key="nikolaj-1"
+                        >Nikolaj</persName> var idetmindste en Personlighed, en Kraft. Og <persName
+                        key="heinrich-heine">Heine</persName> var Geni nok til at føle, det i sidste
+                    Instans ene <pb n="165"/> og alene kommer an paa Personligheder og Kræfter.
+                    Tallet gjør det ikke, Monarker gjør det heller ikke, end ikke Monarker i
+                    rigeligt Flertal. Derfor <persName key="heinrich-heine">Heines</persName> evige
+                    Løjer med de tre Dusin tyske Monarker.</p>
 
                 <p> Hvad <persName key="heinrich-heine">Heine</persName> ræddedes for, var maaske
                     først et Liv uden Skjønhed. <ref target="n2212"/>Den Fourier’ske
@@ -5807,11 +5809,14 @@
                     herskende i hin romantiske Skole, i hvilken jeg har tilbragt mine behageligste
                     Ungdomsaar og tilsidst har banket Skolemesteren.«<!-- lemma slut --> Og dog er
                     det Romantiske her kun det rige funklende Gevandt, <pb n="203"/> hvori den
-                    moderne Aand hyller og maskerer sig for tilsidet at lade det falde. Ingen af
-                    Romantikens Elementer fattes: Dyrene tale, Bjørne udvexle deres Tanker, vi er
-                    Vidne til en Moppes Hjerteudgydelse og vi føres overhovedet ned i et stort af
-                    Legenden behandlet Sceneri, <placeName key="roncesvallesdalen"
-                        >Roncesvallesdalen</placeName>. End ikke den blaa Blomst mangler:</p>
+                    moderne Aand hyller og maskerer sig for <app>
+                        <lem>tilsidst</lem>
+                        <rdg wit="A">tilsidet</rdg>
+                    </app> at lade det falde. Ingen af Romantikens Elementer fattes: Dyrene tale,
+                    Bjørne udvexle deres Tanker, vi er Vidne til en Moppes Hjerteudgydelse og vi
+                    føres overhovedet ned i et stort af Legenden behandlet Sceneri, <placeName
+                        key="roncesvallesdalen">Roncesvallesdalen</placeName>. End ikke den blaa
+                    Blomst mangler:</p>
 
                 <cit>
                     <quote><lg>
@@ -6476,7 +6481,10 @@
                     <quote><lg>
                             <l><ref target="n1513"/>Freudvoll und leidvoll,</l>
                             <l>Gedankenvoll sein,</l>
-                            <l>Hangen und bangen</l>
+                            <l><app>
+                                    <lem>Langen</lem>
+                                    <rdg wit="A">Hangen</rdg>
+                                </app> und bangen</l>
                             <l>In schwebender Pein,</l>
                             <l>Himmelhoch jauchzend,</l>
                             <l>Zum Tode betrübt osv.<!-- lemma slut --></l>
@@ -6588,9 +6596,10 @@
                     Elskovstaknemmelighed, for indbyrdes Forstaaen. For dette vinder <persName
                         key="heinrich-heine">Heine</persName> først Udtryk under Skyggelidenskaben
                     for <persName key="camilla-elise-von-krinitz-selden">den unge Kvinde</persName>,
-                    der var Engelen ved hans Dødsleje, <emph>la Mouche</emph>. Ellers er det aldrig
-                    det i Kjærligheden, som er Sundhed, Beroligelse, Lykke, der er hans Sag. Det
-                    Omraade, hvor han er Herre, er et andet:</p>
+                    der var Engelen ved hans Dødsleje, <ref target="n5165"/><emph>la
+                    Mouche</emph><!-- lemma slut -->. Ellers er det aldrig det i Kjærligheden, som
+                    er Sundhed, Beroligelse, Lykke, der er hans Sag. Det Omraade, hvor han er Herre,
+                    er et andet:</p>
 
                 <p> Den lidenskabelige Attraa gjengiver han som moderne Poet med en <persName
                         key="antonio-allegri-da-correggio">Correggio</persName>’agtig
@@ -6607,7 +6616,10 @@
                             <l>Du reife Pomeranze!</l>
                             <l>Du süsse Pomeranze!</l>
                             <l>Ich schüttle, fühl’, ich schüttle,</l>
-                            <l>O fall in meinen Schoos!<!-- lemma slut --></l>
+                            <l>O fall in meinen <app>
+                                    <lem>Schooss</lem>
+                                    <rdg wit="A">Schoos</rdg>
+                                </app>!<!-- lemma slut --></l>
                         </lg></quote>
                 </cit>
 
@@ -8770,17 +8782,18 @@
                     fire Gange hundredtusind Fyrster.«<!-- lemma slut --></p>
 
                 <p>Hvor Bogen slutter, føle vi, at nu, da Hemmeligheden er røbet og Sværdet borte,
-                    vil Fristolen gaa ind. Men Forfatteren har næsten direkte udtalt sin Mening med
-                    dette Parti af Handlingen, idet han lader den forstandige <persName
-                        type="fictional" key="diakonus">Diaconus</persName> udtale, at <pb n="295"/>
-                    det Selvstændighedens Ord, som denne Bonde og hans Venner have fundet og formet,
-                    det er det virkelige Løsen, som ikke gaar tabt, selv om det røbes, og at den
-                    Ide, de have sluttet sig om, nemlig at Mennesket afhænger af sin Næste, ikke af
-                    Fremmede, der paa forkunstlet Maade drive deres Spil med ham, ikke behøver <ref
-                        target="n2335"/>Stenene under gamle Linde<!-- lemma slut --> for at være i
-                    sin gode Ret. For ham er endelig selve Storbonden, dette gamle vældige Menneske,
-                        <persName key="karl-den-store">Karl den Stores</persName> sande Sværd, som
-                    ingen Tyvshaand kan stjæle, Rigets sande Marv.</p>
+                    vil <ref target="n5176"/>Fristolen<!-- lemma slut --> gaa ind. Men Forfatteren
+                    har næsten direkte udtalt sin Mening med dette Parti af Handlingen, idet han
+                    lader den forstandige <persName type="fictional" key="diakonus"
+                        >Diaconus</persName> udtale, at <pb n="295"/> det Selvstændighedens Ord, som
+                    denne Bonde og hans Venner have fundet og formet, det er det virkelige Løsen,
+                    som ikke gaar tabt, selv om det røbes, og at den Ide, de have sluttet sig om,
+                    nemlig at Mennesket afhænger af sin Næste, ikke af Fremmede, der paa forkunstlet
+                    Maade drive deres Spil med ham, ikke behøver <ref target="n2335"/>Stenene under
+                    gamle Linde<!-- lemma slut --> for at være i sin gode Ret. For ham er endelig
+                    selve Storbonden, dette gamle vældige Menneske, <persName key="karl-den-store"
+                        >Karl den Stores</persName> sande Sværd, som ingen Tyvshaand kan stjæle,
+                    Rigets sande Marv.</p>
 
                 <p> Man mærke, at dette er skrevet af en Digter, som var juridisk Embedsmand og en
                     preussisk Embedsmands Søn.</p>
@@ -11012,8 +11025,8 @@
                     overlevet ham, og det er Gjenstandens Skyld. Han kunde være baade hvas og bidsk
                     og uretfærdig, som svage Naturer tidt ere eller blive det, men selv hans
                     hvasseste Udfald er ikke Udbrud af noget krigerisk Naturel, kun Selvforsvar og
-                    Selvhævdelse, grundet paa Misforstaaen af en Modpart, kun ufarlige Stød af en
-                    rasende Bede.</p>
+                    Selvhævdelse, grundet paa Misforstaaen af en Modpart, kun <ref target="n5136"
+                    />ufarlige Stød af en rasende Bede<!-- lemma slut -->.</p>
 
                 <p>Det overrasker den moderne Læser, at et Arbejde som <persName key="theodor-mundt"
                         >Mundts</persName> »<bibl
@@ -11380,7 +11393,7 @@
                         key="friedrich-von-gentz">Friedrich Gentz</persName>; hun lykønsker ham med
                     Varme, da han, over 60 Aar gammel, har vundet <persName key="fanny-elssler"
                         >Fanny Elslers</persName> Kjærlighed; hun ser i ham det lysende Prosatalent
-                    og Politikeren, der i et algjørende Øjeblik havde havt national Betydning.
+                    og Politikeren, der i et afgjørende Øjeblik havde havt national Betydning.
                     Menneskene er for hende paa Goethe’sk Vis Naturprodukter.</p>
 
                 <p> At hun imidlertid, strængt sædelig og politisk frihedselskende, som hun var,
@@ -14104,7 +14117,7 @@
                 <cit>
                     <quote><ref target="n2887"/><lg>
                             <l>O, sie will es nie begreifen, ihre Prosa und Gemeinheit,</l>
-                            <l>Dass ein Geist wie Du, ein Name, bürgt fur der Gesinnung
+                            <l>Dass ein Geist wie Du, ein Name, bürgt für der Gesinnung
                                 Reinheit,</l>
                             <l>Nur das Schlechte glaubt sie willig o. s. v.</l>
                         </lg><!-- lemma slut --></quote>
@@ -14232,9 +14245,9 @@
 
                 <cit>
                     <quote><ref target="n2892"/><lg>
-                            <l>Warum er nicht schlaft? warum er in Wuth die Spitzen am Hemde
+                            <l>Warum er nicht schläft? warum er in Wuth die Spitzen am Hemde
                                 zerrissen?</l>
-                            <l>Ein gutes Gewissen schlaft überall gut, und nirgends ein schlechtes
+                            <l>Ein gutes Gewissen schläft überall gut, und nirgends ein schlechtes
                                 Gewissen.</l>
                             <l>Er hat an des Landes Mark, die Schlang’, sich voll gefressen,
                                 gesogen,</l>
@@ -15597,7 +15610,7 @@
 
                 <p> Under saadanne Forhold havde Borgerstandens politiske Førere let ved at rive
                     deres Standsfæller med sig, og i Haab om forbedrede Vilkaar og i Had til den
-                    herskende Politivilkaarliglied fulgte Arbejderstanden overalt i Borgerstandens
+                    herskende Politivilkaarlighed fulgte Arbejderstanden overalt i Borgerstandens
                     Spor.</p>
 
                 <p> Den nulevende Slægt forstaar ikke mere 1848’s Stemning. Den Stemning, som
@@ -16176,7 +16189,7 @@
                         <lg>
                             <l>Durchs grosse, ungläubige <placeName key="altberlin"
                                     >Altberlin</placeName> gehn wunderbare Witze,</l>
-                            <l>Ein König hült sich in Schwarz-Roth-Gold und stellt sich an
+                            <l>Ein König hüllt sich in Schwarz-Roth-Gold und stellt sich an
                                 Deutschlands Spitze,</l>
                             <l>Ein König wird Ober-Demagog mit deutsch einheitlicher Sendniss,</l>
                             <l>Doch Deutschland lacht und ruft mit Macht: Das ist ein
