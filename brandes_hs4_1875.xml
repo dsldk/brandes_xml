@@ -4004,7 +4004,7 @@
                         glimrende skildrede end i »<bibl>Marmion</bibl>« og »<bibl>Jomfruen fra
                             Søen</bibl>«<!-- lemma slut -->. Jeg gad endog vide, om der ikke i
                             »<bibl>Marmion</bibl>« findes direkte Hentydninger til
-                            <persName>Prindsregenten</persName> og <persName>hans Hustru</persName>.
+                            <persName>Prindsregenten</persName> og <persName key="">hans Hustru</persName>.
                         Den første kunde neppe uden Sindsbevægelse læse Skildringen af <persName type="fictional">Kong James’</persName> Optræden i den pragtfulde
                             Hofdragt<note place="bottom">
                             <cit>
@@ -6879,10 +6879,10 @@
                         stort, til at det skulde nævnes letsindigt men som, <pb n="286"/> skjøndt
                             <persName key="walter-savage-landor">Landor</persName> uendeligt overlegen i Aand, visselig vilde
                         have erkjendt en Aandsbeslægtet i ham. Den ensomme og barske
-                            <persName>Michel Angelo</persName> mener jeg.</p>
-                    <p> Der var noget Strengt i <persName>Landors</persName> Natur, den Strenghed,
+                            <persName key="michelangelo-buonarroti">Michel Angelo</persName> mener jeg.</p>
+                    <p> Der var noget Strengt i <persName key="walter-savage-landor">Landors</persName> Natur, den Strenghed,
                         som urokkelig Fasthed og fuldstændig Sanddruhed mod sig selv og Andre
-                        medfører. Læser man ham efter <persName>Moore</persName> føles denne
+                        medfører. Læser man ham efter <persName key="thomas-moore">Moore</persName> føles denne
                         Strenghed ovenpaa det Bløde som en vis velgjørende Haardhed. Digtet
                             »<bibl>Hyperbion</bibl>« i »<bibl>Hellenics</bibl>« er et godt, ægte
                         Landorsk Exempel paa den.</p>
@@ -6923,7 +6923,7 @@
                         aldrig igjen.«<!-- LEMMA SLUT -->
                     </p>
                     <p> Sjeldent har en Apollo udtalt sig mindre blødsødent om Middelmaadigheden i
-                        Kunsten. <persName>Lan<pb n="288"/>dors</persName> Foragt for den havde sin
+                        Kunsten. <persName key="walter-savage-landor">Lan<pb n="288"/>dors</persName> Foragt for den havde sin
                         Grund i hans alvorsfulde kunstneriske Fordringer til sig selv. Han er den
                         engelske Prosas strengeste Stilist; ikke Stilist i den Mening, at han besad
                         sjelden Sprogvirtuositet – ingen engelsk Digter er mindre smidig end han –
@@ -6942,13 +6942,13 @@
                         <placeName>Forum</placeName><!-- LEMMA SLUT -->, leve i hans Dialoger med
                         deres egen Tids Liv. Den moderne Conversation derimod laa langt mindre godt
                         for hans Pen; Samtalerne fra den nye Historie lykkes ham kun helt, hvor
-                        Situationen er af den Art, at <persName>Landors</persName> skjulte
+                        Situationen er af den Art, at <persName key="walter-savage-landor">Landors</persName> skjulte
                         Indignation giver Talen Liv og Ild. Vil man see Landor i hans Friskhed og
                         Glands, da læse man hans Roman i Brevform »<bibl>Pericles and
-                        Aspasia</bibl>«, et Værk af samme Art som <persName>Wielands</persName>
-                            »<bibl>Aristippus</bibl>«, men forfattet i en ganske anden Aand <pb n="289"/> og Stil. Hvor <persName>Wieland</persName> er yppig og
-                        coquet,der har <persName>Landor</persName> en mandig Ynde; hvor
-                            <persName>Wieland</persName> er blødagtig, der er han adelig og stolt.
+                        Aspasia</bibl>«, et Værk af samme Art som <persName key="christoph-martin-wieland">Wielands</persName>
+                            »<bibl>Aristippus</bibl>«, men forfattet i en ganske anden Aand <pb n="289"/> og Stil. Hvor <persName key="christoph-martin-wieland">Wieland</persName> er yppig og
+                        coquet,der har <persName key="walter-savage-landor">Landor</persName> en mandig Ynde; hvor
+                            <persName key="christoph-martin-wieland">Wieland</persName> er blødagtig, der er han adelig og stolt.
                         Denne Brevvexling er snarere meislet end skrevet; den forherliger <persName type="fictional">Perikles</persName> som den republikanske Type for ædel
                         Menneskelighed og politisk Visdom, den fremstiller i <persName type="fictional">Aspasia</persName> ikke Hetæren, men en Incarnation af
                         hellenisk Skjønhed og Finfølelse, af hedensk Kvindelighed og af aandsfri
@@ -6956,27 +6956,27 @@
                         Stænk af Lefleri; alt hvad der er Smaat og Uværdigt synes at ligge udenfor
                         Bogens og dens Forfatters Horizont. Men Bogen trætter ved sin gammeldags og
                         altfor vidtløftige Brevform og jeg henviser den utaalmodigere Læser fra den
-                        til <persName>Landors</persName> Mesterværk, <bibl>Dialogen</bibl> mellem
+                        til <persName key="walter-savage-landor">Landors</persName> Mesterværk, <bibl>Dialogen</bibl> mellem
                             <persName type="fictional">Epicurus</persName>, <persName type="fictional">Leontion</persName> og <persName type="fictional">Ternissa</persName>
                         <note place="bottom">Landor: »<bibl>Works</bibl>« vol. I. S. 497.</note>.
                         Den staaer sikkert kun ved sit mindre vægtige Tankeindhold, men visselig
                         hverken i Henseende til Ynde eller Charakteristik eller Samtalens
-                        Naturlighed tilbage for en Dialog af <persName>Platon</persName>. Den
+                        Naturlighed tilbage for en Dialog af <persName key="platon">Platon</persName>. Den
                         middelaldrende elskværdige Philosoph spadserer frem og tilbage i sin
                         yndefulde Have med to ganske unge græske Piger i Samtale om Dagens lette og
                         Livets alvorsfulde Begivenheder, og der er en Duft af Atticisme, en ædel og
                         behersket Sandselighed, en kydsk og henrivende Gratie udbredt over den <pb n="290"/> hele Scene, først og fremmest over alle de Smaatræk, der
                         skildre de to unge Piger, særligt den Sextenaarige med hendes Blanding af
                         Undseelighed og elskelig Ligefremhed. Jeg betænker mig ikke paa at sige, at
-                            <persName>Landor</persName> her har skabt det kvindelige Sidestykke til
-                            <persName>Platons</persName> unge Mænd, at han har opdaget den unge
-                        græske Pige, som <persName>Platon</persName> forsømte, som Tragoedien kun
+                            <persName key="walter-savage-landor">Landor</persName> her har skabt det kvindelige Sidestykke til
+                            <persName key="platon">Platons</persName> unge Mænd, at han har opdaget den unge
+                        græske Pige, som <persName key="platon">Platon</persName> forsømte, som Tragoedien kun
                         fremstilte i pathetiske og heroisk-tragiske Situationer og af hvem kun
                         enkelte af de skjønneste Relieffer havde opbevaret os den ydre Contour. Det
                         lønner Umagen at følge denne Samtales Slyngninger. Den begynder med et fint
                         Naturmaleri, og med en Forherligelse af den Ensomhed, der er Den nødvendig,
                         som vil leve og frembringe aandigt, og allerede her skimter man i <persName type="fictional">Epicurus’s</persName> Skikkelse Omridsene af
-                            <persName>Landors</persName>, der havde den samme Forkjærlighed for et
+                            <persName key="walter-savage-landor">Landors</persName>, der havde den samme Forkjærlighed for et
                         tilbagetrukket og mod al Yderverdenens Støi og Larm velbefæstet Liv. (Se
                         Indledningen til Dialogen »<bibl>Southey and Landor</bibl>«,
                             »<bibl>Works</bibl>« <ref target="n"/>I<!-- LEMMA SLUT -->, 57). Saa
@@ -7004,7 +7004,7 @@
                                     were inglorious. The greater? it were
                                     vain«<!-- LEMMA SLUT --><!-- tilføjet »« -->.</quote>
                             </cit>
-                        </note>. Atter her skimtes <persName>Landors</persName> eget Aasyn. Thi
+                        </note>. Atter her skimtes <persName key="walter-savage-landor">Landors</persName> eget Aasyn. Thi
                         dette var nøie den Mands Tankegang, der faa Aar før sin Død forsynede sin
                         sidste Bog med disse fire Linier som Motto:</p>
                     <cit>
@@ -7034,7 +7034,7 @@
                                 <lem wit="B SS Fu 1923-24">30.</lem>
                                 <rdg wit="A">30</rdg>
                             </app> Jan. 1875, forfattet af den høit begavede unge Digter og Kritik
-                            er <persName>Edmund W. Gosse</persName>, der blandt os især fortjener at
+                            er <persName key="edmund-gosse">Edmund W. Gosse</persName>, der blandt os især fortjener at
                             nævnes som en af de fineste fremmede Kjendere af den dansk-norske
                             Litteratur.</note>. Ligheden mellem disse Linier og <persName type="fictional">Epicurus’s</persName> Udtalelser er paafaldende.
                             <persName type="fictional">Leontion</persName> fortsætter Samtalen. <ref target="n"/>»De Gamle,« siger hun, »<!-- tilføjet »« -->ere alle imod
@@ -7044,18 +7044,18 @@
                         kalde tørt, det kalde de sundt; Intet maa beholde nogen Saft i sig; deres
                         Fornøielse bestaaer i at tygge hvad der er haardt, ikke i at smage hvad der
                         er saftigt og velsmagende.«<!-- LEMMA SLUT -->
-                        <persName>Landor</persName>, der selv <pb n="293"/>
-                        <ref target="n"/>af <persName>Byron</persName> (se Fortalen til
+                        <persName key="walter-savage-landor">Landor</persName>, der selv <pb n="293"/>
+                        <ref target="n"/>af <persName key="george-gordon-byron">Byron</persName> (se Fortalen til
                             »<bibl>Vision of Judgment</bibl>«) maatte høre ilde for sine Digtes
-                        Frivolitet<!-- LEMMA SLUT -->, udleder tydeligt nok, som <persName>Stuart
+                        Frivolitet<!-- LEMMA SLUT -->, udleder tydeligt nok, som <persName key="john-stuart-mill">Stuart
                             Mill</persName> noget senere gjorde det, sin egen hedenske
                         Lykkephilosophi fra <persName type="fictional">Epicurs</persName>. Imedens
                         springer Samtalen tilhøire og venstre, dvæler snart ved <persName type="fictional">Ternissas</persName> Rødmen ved Erindringen om
                         Statuerne af Satyrer og Fauner i Badeværelset, snart ved <persName type="fictional">Leontions</persName> kvindelige Indvendinger mod
-                            <persName>Aristoteles</persName> og <persName>Theophrast</persName>,
+                            <persName key="aristoteles">Aristoteles</persName> og <persName key="theofrast-theofrastos">Theophrast</persName>,
                         indtil den ægte græsk, erotisk og epikuræisk ender med <persName type="fictional">Epicurs</persName> og <persName type="fictional">Ternissas</persName> Opførelse af Scenen mellem <ref target="n"/>Peleus
                         og Thetis<!-- LEMMA SLUT --> og med det Kys der vexles imellem dem. – I
-                        denne Dialog staaer <persName>Landor</persName> paa sin Kunsts og sin rolige
+                        denne Dialog staaer <persName key="walter-savage-landor">Landor</persName> paa sin Kunsts og sin rolige
                         Humanismes Høide. Men gaae vi nu til de moderne Dialoger, da lære vi
                         Soldaten i ham at kjende, den altid væbnede, altid kampberedte Skribent, der
                         under tusind forskjellige Forklædninger blotter og rammer enhver Form af
@@ -7064,16 +7064,16 @@
                         bevæge sig, udførte med forbausende Lærdom, over hele Jordens Kreds, fra
                             <placeName>London</placeName> til China, fra
                             <placeName>Paris</placeName> til Sydhavsøerne og gjennem hele Historiens
-                        Længde fra <persName>Cicero</persName> til <persName>Bossuet</persName>, fra
-                            <persName>Cromwell</persName> til <persName>Petrarcha</persName>, fra
-                            <persName>Tasso</persName> til <persName>Talleyrand</persName> for i
+                        Længde fra <persName key="marcus-tullius-cicero">Cicero</persName> til <persName key="jacques-benigne-bossuet">Bossuet</persName>, fra
+                            <persName key="oliver-cromwell">Cromwell</persName> til <persName key="francesco-petrarca">Petrarcha</persName>, fra
+                            <persName key="torquato-tasso">Tasso</persName> til <persName key="charles-maurice-de-talleyrand-perigord">Talleyrand</persName> for i
                         ethvert Land og i enhver Tidsalder at nedlægge en energisk Protest mod
                         Tyranni og tale et sværdskarpt Ord for Frihed. <ref target="n"/>Vi belure
                             <persName type="fictional">Keiserinde Catharina</persName>
                         <pb n="294"/> med hendes kjæreste Hofdame i det Øieblik Mordet paa hendes
                             <persName type="fictional">Ægtefælle</persName>
                         foregaaer<!-- LEMMA SLUT --> – <bibl>Dialogen</bibl> staaer ikke meget
-                        tilbage for <persName>Vitet’s</persName> i hans <ref target="n"/>uforlignelige historiske Scener<!-- LEMMA SLUT -->, Idealerne for den Art
+                        tilbage for <persName key="louis-ludovic-vitet">Vitet’s</persName> i hans <ref target="n"/>uforlignelige historiske Scener<!-- LEMMA SLUT -->, Idealerne for den Art
                         Fremstilling. <ref target="n"/>Vi høre <persName type="fictional">Ludvig den
                             18de</persName> passiare om Politik med den fine, overlegne <persName type="fictional">Talleyrand</persName> og bemærke, hvorledes den
                         ubetvingelige Lyst til ret mange Fasaner og Fasanæg som den røde Traad
@@ -7081,26 +7081,26 @@
                         Majestæts politiske Projecter<!-- LEMMA SLUT -->. <ref target="n"/>Vi see
                             <persName type="fictional">General Kleber</persName> i sin Stab med sine
                         Officierer i Ægypten og høre Forbitrelsen over
-                            <persName>Bonapartes</persName> Frihedshad som dæmpet Mumlen klinge
+                            <persName key="napoleon-1">Bonapartes</persName> Frihedshad som dæmpet Mumlen klinge
                         gjennem deres Tale<!-- LEMMA SLUT -->. <ref target="n"/>Vi overvære
                             <persName type="fictional">Kotzebue’s</persName> Mord og høre fra
                             <persName type="fictional">Sandt’s</persName> Læber hans
                         Selvfrikjendelse under Forsøgene paa at bevæge <persName type="fictional">Kotzebue</persName> til at forlade den Bane, han var slaaet ind paa<!-- LEMMA SLUT -->
                         <note place="bottom">Se Landor: »<bibl>Works</bibl>« I, 515, II, 189, I, 48,
                             II, <ref target="n"/>4<!-- LEMMA SLUT -->.</note>. Det hørte til
-                            <persName>Landors</persName> politiske Katechismus, at Undertrykkeren
+                            <persName key="walter-savage-landor">Landors</persName> politiske Katechismus, at Undertrykkeren
                         burde falde for Sværdet. Han har hele sit Liv prædiket Mord paa Tyranner og
                         skyede end ikke med Voldsomhed direkte og offentligt at udtale Ønsket om
-                            <persName>Napoleon den Tredies</persName> Mord. Han var en Ven og
+                            <persName key="napoleon-3">Napoleon den Tredies</persName> Mord. Han var en Ven og
                         Aandsbeslægtet af de store europæiske Revolutionsmænd, der med
-                            <persName>Mazzini</persName> i Spidsen havde svoret Folkenes
+                            <persName key="giuseppe-mazzini">Mazzini</persName> i Spidsen havde svoret Folkenes
                         Undertrykkere et hensynsløst Had. Men det er ikke blot som Politiker, at han
                         skyder ud over Maalet; Hovedmassen af hans historiske Dialoger lide
                         æsthetisk under den for <pb n="295"/> tydeligt udtalte Tendens; man seer
                         hvert Øieblik Digteren selv stikke Hovedet frem. Skildrer han f. Ex. <ref target="n"/>
                         <persName type="fictional">Catharina af Rusland</persName> i hint frygtelige
                         Øieblik kan han ikke lade være at benytte Leiligheden til gjennem <persName type="fictional">Prindsesse Daschkoff’s</persName> Mund at vise os
-                        Ugudeligheden af <persName>Voltaires</persName> Charakter og Immoraliteten
+                        Ugudeligheden af <persName key="francois-voltaire">Voltaires</persName> Charakter og Immoraliteten
                         af hans »<bibl>Pucellé</bibl>« for saaledes at lade Læseren skimte den
                         franske Aands slette Indflydelse i Rusland<!-- LEMMA SLUT -->. Thi med al
                         sin Aandsfrihed er han Datids-Englænder nok til at udlede alt Slet mellem
@@ -7109,82 +7109,82 @@
                         <persName type="fictional">Ludvig den 18de’s</persName> Samtaler med
                             <persName type="fictional">Talleyrand</persName><!-- LEMMA SLUT -->, kan
                         han ikke dye sig for at gjøre Satiren saa blodig, <persName type="fictional">Ludvigs</persName> Dumheder saa plumpe, <persName type="fictional">Talleyrands</persName> Holdning overfor sin Herre saa ironisk, at Ingen
-                        troer paa den historiske Sandhed. <persName>Landor</persName> trænger til at
-                        høre Englænderne og <persName>Wellington</persName> rose, han trænger til at
-                        faae <persName>Ludvigs</persName> Usselhed tydeligt paavist, og hans Pen er
+                        troer paa den historiske Sandhed. <persName key="walter-savage-landor">Landor</persName> trænger til at
+                        høre Englænderne og <persName key="arthur-wellesley-1-duke-of-wellington">Wellington</persName> rose, han trænger til at
+                        faae <persName key="ludvig-18-louis-18">Ludvigs</persName> Usselhed tydeligt paavist, og hans Pen er
                         ustyrlig nok til at lægge baade Lovprisningen af England og Spotten over
-                            <persName>Ludvig</persName> i Munden paa den fine franske Hofmand.</p>
+                            <persName key="ludvig-18-louis-18">Ludvig</persName> i Munden paa den fine franske Hofmand.</p>
                     <p> Han kunde have lært en god Del med Hensyn til den satiriske Kaardes Brug af
                         sine forhadte Franskmænd. Men han foragtede i lige saa høi Grad deres Poesi
                         som deres Politik og havde ikke mindre Ringeagt for
-                            <persName>Voltaire</persName> som Skribent end som Charakter. <ref target="n"/>Hans egen Samtale med <pb n="296"/>
+                            <persName key="francois-voltaire">Voltaire</persName> som Skribent end som Charakter. <ref target="n"/>Hans egen Samtale med <pb n="296"/>
                         <persName type="fictional">Abbé Délille</persName><!-- LEMMA SLUT -->
                             (»<bibl>Works</bibl>« I, 90) viser os ham som Kritiker af den franske
-                        Tragoedie, talende et endnu haardere Sprog end <persName>Lessing</persName>
-                        og som <persName>Lessing</persName> uden Blik for den franske Aands store
+                        Tragoedie, talende et endnu haardere Sprog end <persName key="gotthold-ephraim-lessing">Lessing</persName>
+                        og som <persName key="gotthold-ephraim-lessing">Lessing</persName> uden Blik for den franske Aands store
                         stilistiske Evne. Det gjør et underligt Indtryk at høre en Mand med den
                         størst mulige Grovhed bebreide en anden, at han er altfor poleret. Man vil
                         let forstaae, at han med dette Omdømme om den klassisk-franske Poesi var en
-                        stor Ringeagter af <persName>Pope</persName>, en lidenskabelig Beundrer af
-                            <persName>Milton</persName> og en erklæret Tilhænger af den
+                        stor Ringeagter af <persName key="alexander-pope">Pope</persName>, en lidenskabelig Beundrer af
+                            <persName key="john-milton">Milton</persName> og en erklæret Tilhænger af den
                         Wordsworth’ske Reform i engelsk Poesi. Næsten alle de mange
                         litterærhistoriske og kritiske Samtaler, der forekomme blandt Dialogerne,
-                        gaae ud paa at forherlige <persName>Wordsworth</persName> og
-                            <persName>Southey</persName> som Digtere og bebreide Læseverdenen dens
+                        gaae ud paa at forherlige <persName key="william-wordsworth">Wordsworth</persName> og
+                            <persName key="robert-southey">Southey</persName> som Digtere og bebreide Læseverdenen dens
                         Mangel paa Skjønsomhed overfor en saa sjelden Poesi<note place="bottom">Se
                             f. Ex. Dialogen »<bibl>Southey and Porson</bibl>«, I. 16, I, 68 smlgn.
                             I, 340 og Udsigten over de engelske Digtere i
                                 »<bibl>Miscellaneous</bibl>« CXVI.</note>. Ogsaa
-                            <persName>Keats</persName> og <persName>Shelley</persName> priser han i
+                            <persName key="john-keats">Keats</persName> og <persName key="percy-bysshe-shelley">Shelley</persName> priser han i
                         varme Udtryk og beklager, at han ikke lærte Nogen af dem at kjende
-                        personligt, især at en usandfærdig Historie om <persName>Shelleys</persName>
-                        Forhold til hans <persName>første Hustru</persName> holdt ham tilbage fra at
-                        besøge <persName>Shelley</persName> i <placeName>Pisa</placeName>. <ref target="n"/>Han siger om <persName>Shelley</persName>, at han forenede
+                        personligt, især at en usandfærdig Historie om <persName key="percy-bysshe-shelley">Shelleys</persName>
+                        Forhold til hans <persName key="harriet-shelley">første Hustru</persName> holdt ham tilbage fra at
+                        besøge <persName key="percy-bysshe-shelley">Shelley</persName> i <placeName>Pisa</placeName>. <ref target="n"/>Han siger om <persName key="percy-bysshe-shelley">Shelley</persName>, at han forenede
                         Digterens Ild med Philosopliens Taalmodighed og Tolerance og mener at han i
                         Ædelmodighed og Godgjørenhed overgik <pb n="297"/> enhver levende
                         Mand<!-- LEMMA SLUT --> (I, 341). Men saa snart Talen falder paa
-                            <persName>Byron</persName>, udtaler han sig ganske som en Søskole-Poet.
+                            <persName key="george-gordon-byron">Byron</persName>, udtaler han sig ganske som en Søskole-Poet.
                         Den Mand, som mente, at han <ref target="n"/>»med Pennen i sin Haand havde
                         mere Magt i sine to Fingre end Parlamentets to Huse besad«<!-- LEMMA SLUT -->
                         <note place="bottom">Se Slutningen af <bibl>Dialogen mellem Landor og
                                 Marchese Pallavicini</bibl><!-- et værk - ikke persname -->.</note>
-                        kunde aldrig glemme <persName>Byron</persName>
+                        kunde aldrig glemme <persName key="george-gordon-byron">Byron</persName>
                         <ref target="n"/>hans Spottegloser over
                         »<bibl>Gebir</bibl>«<!-- LEMMA SLUT -->. Heller ikke kunde han, der trods
                         alle politiske og religiøse Divergentser nærede et saa besynderligt Venskab
-                        for <persName>Southey</persName>, glemme <ref target="n"/>de Stød, som
-                            <persName>Byron</persName> havde tilføiet hans beundrede
+                        for <persName key="robert-southey">Southey</persName>, glemme <ref target="n"/>de Stød, som
+                            <persName key="george-gordon-byron">Byron</persName> havde tilføiet hans beundrede
                         Beundrer<!-- LEMMA SLUT -->. Vistnok var den egoistiske og rastløse Side af
-                            <persName>Byrons</persName> Væsen ham imod, men det var dog mest
-                        Forholdet til <persName>Southey</persName>, som paavirkede ham og gjorde ham
-                        blind for mange af <persName>Byrons</persName> bedste Egenskaber.
-                        Overhovedet skjæmmer <persName>Southey</persName>
-                        <persName>Landors</persName> Liv, og <persName>Forsters</persName> lange
+                            <persName key="george-gordon-byron">Byrons</persName> Væsen ham imod, men det var dog mest
+                        Forholdet til <persName key="robert-southey">Southey</persName>, som paavirkede ham og gjorde ham
+                        blind for mange af <persName key="george-gordon-byron">Byrons</persName> bedste Egenskaber.
+                        Overhovedet skjæmmer <persName key="robert-southey">Southey</persName>
+                        <persName key="walter-savage-landor">Landors</persName> Liv, og <persName key="john-forster">Forsters</persName> lange
                         ulæselige Fremstilling af hans Levnet er dobbelt ulæselig, fordi Brevene fra
-                        og til en saa uinteressant Personnage som <persName>Southey</persName>
+                        og til en saa uinteressant Personnage som <persName key="robert-southey">Southey</persName>
                         indtage en uforholdsmæssig Plads deri<note place="bottom">John Forster:
                                 »<bibl>Life of W. S. Landor</bibl>«. 2 voll.</note>. Men
-                            <persName>Southey</persName> havde i <persName>Landor’s</persName> Øine
+                            <persName key="robert-southey">Southey</persName> havde i <persName key="walter-savage-landor">Landor’s</persName> Øine
                         den store og i ethvert Fald sjeldne Dyd at han var den ene af de to
                         Personer, der havde læst og kjøbt Digtet »<bibl>Gebir</bibl>«, da det kom
                         ud. <ref target="n"/>
-                        <persName>De Quincey</persName>, som var den anden, fortæller, at han i sin
+                        <persName key="thomas-de-quincey">De Quincey</persName>, som var den anden, fortæller, at han i sin
                         Ungdom blev udpeget paa <placeName>Oxfords</placeName> Grader <pb n="298"/>
                         som eneste Læser af dette Digt i
                         <placeName>Oxford</placeName><!-- LEMMA SLUT -->. Man begriber altsaa, at
-                            <persName>Southey</persName>, som ikke blot kjøbte og læste, men roste
+                            <persName key="robert-southey">Southey</persName>, som ikke blot kjøbte og læste, men roste
                         det og som senere i <ref target="n"/>»<bibl>Quarterly
-                        Review</bibl>«<!-- tilføjet »« --> anmeldte <persName>Landors</persName>
+                        Review</bibl>«<!-- tilføjet »« --> anmeldte <persName key="walter-savage-landor">Landors</persName>
                         ikke morsomme »<bibl>Count Julian</bibl>« med Hæder<!-- LEMMA SLUT -->,
                         maatte synes den til Beskedenhed lidet tilbøielige Digter en Mand med høist
                         ualmindelige Evner.</p>
                     <p> Ikke desmindre var »<bibl>Gebir</bibl>« med al sin heftige Republikanisme et
                         stivt og daarligt Digt, der bærer tydelige Spor af at det – en høist
                         charakteristisk Grille af dets sære og urimelige Forfatter – først var
-                        skrevet paa latinske Vers. <persName>Landors</persName> Vers vedblev hele
+                        skrevet paa latinske Vers. <persName key="walter-savage-landor">Landors</persName> Vers vedblev hele
                         hans Liv igjennem at være en Smule latinske. <ref target="n"/>Selv
-                            <persName>Gosse</persName>, der beundrer dem, er saa god at indrømme, at
-                        Charakteren af <persName>Landors</persName> Vers ligesom Smagen af Oliven er
+                            <persName key="edmund-gosse">Gosse</persName>, der beundrer dem, er saa god at indrømme, at
+                        Charakteren af <persName key="walter-savage-landor">Landors</persName> Vers ligesom Smagen af Oliven er
                         tilstrækkeligt ualmindelig til at det ikke behøver at være noget Tegn paa
                         Affektation, at man ikke synes om dem<!-- LEMMA SLUT -->. Det er i hans
                         Prosa alene, at hans Styrke maa søges.</p>
@@ -7196,10 +7196,10 @@
                         kunde tilveiebringe et frisindet Omslag i Europas offentlige <pb n="299"/>
                         Mening. <ref target="n"/>Han frastødte ved Særheder og Griller, som f. Ex.
                         den, <ref target="n"/>at tage <ref target="n"/>
-                        <persName>Neros</persName> Brand af Rom i Forsvar som hygieinisk
+                        <persName key="nero">Neros</persName> Brand af Rom i Forsvar som hygieinisk
                         Foranstaltning<!-- LEMMA SLUT --> (»<bibl>Works</bibl>« I, 41) eller den,
-                            <ref target="n"/>at betegne <persName>Pitt</persName> som en
-                        Middelmaadighed og <persName>Fox</persName> som en
+                            <ref target="n"/>at betegne <persName key="william-pitt-d-y">Pitt</persName> som en
+                        Middelmaadighed og <persName key="charles-james-fox">Fox</persName> som en
                         Charlatan<!-- LEMMA SLUT -->, eller den allerværste <ref target="n"/>at
                         raade Grækerne til i deres Kamp med Tyrkerne at opgive Brugen af Ildvaaben
                         og vende tilbage til deres gamle Vaaben,
@@ -7207,12 +7207,12 @@
                         faae Beundrere og Efterlignere; han var altfor upopulært anlagt til at
                         trænge igjennem hos den store Mængde, upopulær ved sine Dyder som ved sine
                         Feil, ved sin vilde Mandhaftighed som ved sin utæmmede Arrogance. Og kunde
-                        han end aldrig som <persName>Moore</persName> indlade sig paa en
+                        han end aldrig som <persName key="thomas-moore">Moore</persName> indlade sig paa en
                         Accommodation, aldrig blive Whigdigter, saa formaaede han til Gjengjæld ikke
                         at forme sin Radicalisme saaledes poetisk, at den kunde rive en Læseverden
                         med sig. Ved sin dybe Forstaaelse af den moderne Tids store religiøse,
                         politiske og sociale Bevægelse hører han hen i Gruppe med de to yngre og
-                        større Mænd: <persName>Shelley</persName> og <persName>Byron</persName>, og
+                        større Mænd: <persName key="percy-bysshe-shelley">Shelley</persName> og <persName key="george-gordon-byron">Byron</persName>, og
                         han tjente Ideen som en brav og stolt republikansk Soldat. Men han var ikke
                         kaldet til Høvding, og han formaaede aldrig at underkaste sig og elektrisere
                         en Hærskare af Aander<note place="bottom">En satirisk Brochure, han udgav
@@ -7222,20 +7222,20 @@
                     </p>
                     <p> Han som var den ældste af de tre helt frisindede Poeter, overlevede dem
                         begge og levede saa længe, at han blev samtidig med den yngste Slægt af
-                        engelske Skribenter: <persName>Browning</persName> blev hans Ven,
-                            <persName>Swinburne’s</persName> inderlige Beundring forsødede de sidste
+                        engelske Skribenter: <persName key="robert-browning">Browning</persName> blev hans Ven,
+                            <persName key="algernon-charles-swinburne">Swinburne’s</persName> inderlige Beundring forsødede de sidste
                         Aar af Oldingens Existens, og <ref target="n"/>ham blev
-                            <persName>Swinburne’s</persName> »<bibl>Atalanta</bibl>« tilegnet med
+                            <persName key="algernon-charles-swinburne">Swinburne’s</persName> »<bibl>Atalanta</bibl>« tilegnet med
                         hjertelige Ord<!-- LEMMA SLUT -->. Saaledes synes hans store Skygge med sin
-                        ene Haand i <persName>Wordsworth’s</persName>, sin anden i
-                            <persName>Swinburne’s</persName> Haand at omspænde Englands hele
+                        ene Haand i <persName key="william-wordsworth">Wordsworth’s</persName>, sin anden i
+                            <persName key="algernon-charles-swinburne">Swinburne’s</persName> Haand at omspænde Englands hele
                         poetiske Udvikling i de sidste firsindstyve Aar.</p>
                 </div>
                 <div>
                     <head type="add">15. Radikal naturalisme</head>
                     <head>XV.</head>
                     <p>Ifald man i Aaret 1820 havde spurgt en retskaffen og velbelæst Engelskmand:
-                        Hvem er <persName>Shelley</persName>? da vilde han, hvis han var istand til
+                        Hvem er <persName key="percy-bysshe-shelley">Shelley</persName>? da vilde han, hvis han var istand til
                         at give et Svar, uden Tvivl have svaret:</p>
                     <p> Det skal være en daarlig Poet med afskyelige Meninger og af en mere end
                         tvivlsom Charakter. »<bibl>Quarterly Review</bibl>«, der ikke løber med
@@ -7264,7 +7264,7 @@
                             Magazine</bibl>«, det eneste Tidsskrift, der har behandlet denne Poet
                         nogenlunde naadigt, siger om hans »<bibl>Prometheus</bibl>«, at der <ref target="n"/>»umuligt kan existere en mere pestførende Blanding af
                         Gudsbespottelse, Oprørsaand og Sandselighed«<!-- LEMMA SLUT --> – og De har
-                        vel hørt <persName>Campbells</persName> udmærkede Vittighed om Bogen: <ref target="n"/>»Den løsbundne Prometheus, det troer jeg, hvem vilde vel
+                        vel hørt <persName key="thomas-campbell">Campbells</persName> udmærkede Vittighed om Bogen: <ref target="n"/>»Den løsbundne Prometheus, det troer jeg, hvem vilde vel
                         la’e den binde!«<!-- LEMMA SLUT -->
                     </p>
                     <p> Og havde man 2 Aar senere, da denne saa ufordelagtigt bedømte Digter var
@@ -7272,18 +7272,18 @@
                         hans saa <pb n="302"/> stærkt angrebne Poesier ikke i det mindste havde
                         fundet Kjøbere, da vilde <persName>Forlæggeren</persName> ganske sikkert
                         have beklaget den daarlige Forretning og oplyst Spørgeren om, at der i
-                            <persName>Shelleys</persName> hele Levetid ikke var blevet solgt 100
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> hele Levetid ikke var blevet solgt 100
                         Exemplarer af noget af hans Digte (»<bibl>Queen Mab</bibl>« og
                             »<bibl>Cencierne</bibl>« undtagne) ja at selv 10 Exemplarer vilde være
                         for meget sagt for »<bibl>Adonais’s</bibl>« og
                         »<bibl>Epipsychidion’s</bibl>« Vedkommende.</p>
                     <p> Hvor ganske anderledes vilde Svaret lyde nu, hvis Nogen nutildags spurgte,
-                        hvem <persName>Shelley</persName> var – dog nutildags er der i England ikke
+                        hvem <persName key="percy-bysshe-shelley">Shelley</persName> var – dog nutildags er der i England ikke
                         mere Nogen, der spørger.</p>
                     <p> Den 4de August 1792 blev Englands største Lyriker født. Paa samme Dag, som i
                             <placeName>Paris</placeName>
                         <ref target="n"/>Revolutionens<!-- LEMMA SLUT --> Høvdinge
-                            <persName>Santerre</persName>, <persName>Camille Desmoulins</persName>
+                            <persName key="antoine-joseph-santerre">Santerre</persName>, <persName key="camille-desmoulins">Camille Desmoulins</persName>
                         og Andre holdt Møde i et Hus paa <placeName>Boulevarden</placeName> for at
                         træffe Aftaler, der faa Dage efter skulde styrte Monarchiet i Frankrig,
                         fødtes i <placeName>Field Place</placeName>, i <placeName>Sussex</placeName>
@@ -7293,28 +7293,28 @@
                         1792<!-- LEMMA SLUT -->. Hans Navn blev – ikke fuldt 30 Aar derefter –
                         indristet paa den Gravsten paa <placeName>den protestantiske Kirkegaard i
                                 <placeName>Rom</placeName>
-                        </placeName>, under hvilken hans Aske hviler: <persName>Percy Bysshe
+                        </placeName>, under hvilken hans Aske hviler: <persName key="percy-bysshe-shelley">Percy Bysshe
                             Shelley</persName>, og derefter er tilføiet disse Ord: <ref target="n"/>Cor cordium<!-- LEMMA SLUT -->.</p>
                     <p>
                         <ref target="n"/>Cor cordium<!-- LEMMA SLUT -->, Hjerternes Hjerte, det var
-                        de <pb n="303"/> simple og dybe Ord, i hvilke <persName>Shelleys</persName>
-                        <persName>unge Hustru</persName> indbefattede hans Væsen, de sandeste og
+                        de <pb n="303"/> simple og dybe Ord, i hvilke <persName key="percy-bysshe-shelley">Shelleys</persName>
+                        <persName key="mary-wollstonecraft;mary-wollstonecraft-godwin;mary-wollstonecraft-godwin">unge Hustru</persName> indbefattede hans Væsen, de sandeste og
                         dybeste, der kunde siges om ham.</p>
-                    <p> Han fødtes i en gammel adelig og anseet Familie. <persName>Hans
+                    <p> Han fødtes i en gammel adelig og anseet Familie. <persName key="timothy-shelley">Hans
                             Fader</persName> var Baron og Besidder af en betydelig Formue, en
                         borneret Mand, Tilhænger af alt Bestaaende blot fordi det bestod. Men
-                        Uregelmæssighed var ligefuldt traditionel i <persName>Shelleys</persName>
-                        Slægt som Vildskab og Voldsomhed i <persName>Byrons</persName>.
-                            <persName>Bedstefaderen</persName>, en urolig <app>
+                        Uregelmæssighed var ligefuldt traditionel i <persName key="percy-bysshe-shelley">Shelleys</persName>
+                        Slægt som Vildskab og Voldsomhed i <persName key="george-gordon-byron">Byrons</persName>.
+                            <persName key="bysshe-shelley">Bedstefaderen</persName>, en urolig <app>
                             <lem wit="B SS Fu 1923-24">og</lem>
                             <rdg wit="A">eg</rdg>
                         </app> excentrisk Mand, havde bortført tre Kvinder, og to af hans Døtre
                         bleve atter bortførte – Træk, hvorom man mindes ved Begivenhederne i
-                            <persName>Sønnesønnens</persName> Liv paa samme Maade som man ved saa
-                        mangen en Handling af <persName>Byron</persName> mindes om at et Fond af
+                            <persName key="percy-bysshe-shelley">Sønnesønnens</persName> Liv paa samme Maade som man ved saa
+                        mangen en Handling af <persName key="george-gordon-byron">Byron</persName> mindes om at et Fond af
                         utæmmet og hensynsløs Lidenskabelighed var hans uomtvistelige Fædrene- og
                         Mødrene-Arv. Dog, Uregelmæssigheden var kun den ydre og lidet betydende Side
-                        af <persName>Shelleys</persName> Natur og Existens. Den var kun et Symptom
+                        af <persName key="percy-bysshe-shelley">Shelleys</persName> Natur og Existens. Den var kun et Symptom
                         paa den dybe Modtagelighed og Sensibilitet, der tidligt møder Betragteren af
                         hans Liv. I Skolen oprøres han selv mishandlet over de Mishandlinger,
                         hvorfor de svagere og yngre Disciple efter engelsk Vis vare udsatte af de
@@ -7354,11 +7354,11 @@
                     </p>
                     <p> Den Slægt, der fødtes samtidigt med <ref target="n"/>den første franske
                         Republik<!-- LEMMA SLUT --> og under samme Stjerner, var tidligt modnet til
-                        Kritik af den hele bestaaende Tradition. <persName>Shelley</persName>, der
+                        Kritik af den hele bestaaende Tradition. <persName key="percy-bysshe-shelley">Shelley</persName>, der
                         allerede i Skolen saae Undertrykkelseslyst og paataget Religiøsitet følges
                         ad, og i hvis Hænder meget tidligt <ref target="n"/>de franske
-                        Encyclopædisters<!-- LEMMA SLUT --> og <persName>Humes</persName>,
-                            <persName>Godwins</persName> og andre engelske Fritænkeres Skrifter
+                        Encyclopædisters<!-- LEMMA SLUT --> og <persName key="david-hume">Humes</persName>,
+                            <persName key="william-godwin">Godwins</persName> og andre engelske Fritænkeres Skrifter
                         faldt, raisonnerede allerede som halv Dreng over Menneskeslægtens Historie,
                         Formaal og Vildfarelser ungdommeligt, men frit, i det 18de Aarhundredes
                         Aand.</p>
@@ -7368,64 +7368,64 @@
                         og saaledes blev for første Gang det hadefulde Ord knyttet til hans Navn,
                         der hele hans Liv igjennem skulde forblive koblet til det, for at da atter
                         dertil enhver Forhaanelse og Forsmædelse kunde hægtes.</p>
-                    <p> Jeg kan ikke dvæle ved de Facta i <persName>Shelleys</persName> Liv, som
+                    <p> Jeg kan ikke dvæle ved de Facta i <persName key="percy-bysshe-shelley">Shelleys</persName> Liv, som
                         Enhver, der har hørt hans Navn, er <pb n="306"/> idetmindste overfladisk
                         bekjendt med: hvorledes han som 18aarig Student havde den snurrige Vane at
                         skrive sine politiske og sociale Tvivlsmaal ned i Brevform og sende disse
                         Breve til forskjellige mere eller mindre bekjendte men ham ubekjendte
                         Personer, hvem han bad gjendrive de og de Argumenter, som han for sin Part
                         ikke var istand til at finde Bevisgrunde imod, hvorledes af disse Breve, der
-                        for største Delen vare Excerpter af <persName>Humes</persName> og <ref target="n"/>de franske Materialisters<!-- LEMMA SLUT --> Værker en lille
+                        for største Delen vare Excerpter af <persName key="david-hume">Humes</persName> og <ref target="n"/>de franske Materialisters<!-- LEMMA SLUT --> Værker en lille
                         nu forsvunden anonym Brochure »<bibl>Atheismens Nødvendighed</bibl>«
                         fremgik, der endte med et <ref target="n"/>Q. E. D.<!-- LEMMA SLUT --> og
-                        som <persName>Shelley</persName> i det naive Haab at indvirke reformerende
+                        som <persName key="percy-bysshe-shelley">Shelley</persName> i det naive Haab at indvirke reformerende
                         paa sin Samtids Bevidsthed indsendte til Biskoppernes Overret. Hvad der
                         fulgte er ligeledes bekjendt. Han blev angivet som Forfatter, bortjaget fra
                         Universitetet, udvist af sit Fædrenehjem. Vi tro ikke mere nutildags, at
                         nogen alvorlig videnskabelig Overbevisning, hvorledes den end lyder, bør
                         hidføre beskjæmmende Straf for den, der bekjender sig til den; men dobbelt
-                        urimelig bliver den Straf, der ramte <persName>Shelley</persName>, derved,
+                        urimelig bliver den Straf, der ramte <persName key="percy-bysshe-shelley">Shelley</persName>, derved,
                         at han i Virkeligheden i sin Brochure, hvis Hovedindhold udgjør Noterne til
                             »<bibl>Queen Mab</bibl>«, ikke er mere Atheist end f. Eks.
-                            <persName>Ørsted</persName> er det i sin bekjendte Bog »<bibl>Aanden i
+                            <persName key="h-c-orsted">Ørsted</persName> er det i sin bekjendte Bog »<bibl>Aanden i
                             Naturen</bibl>«. Han har paa hin Tid endnu ikke nogen consequent og
                         sammenhængende Livsbetragtning, han er kun klar over det ene Hovedpunkt, at
                         han hverken er en <pb n="307"/> Tilhænger eller nogensinde vil kunne blive
                         en Tilhænger af nogen positiv Religion. Men iøvrigt forenes materialistiske
                         Indtryk fra hans Lecture hos ham med en sværmerisk Pantheisme, som han
-                        aldrig opgav. Da <persName>Trelawny</persName> i
-                            <persName>Shelleys</persName> Dødsaar spurgte ham: <ref target="n"/>Hvorfor har De kaldt Dem selv en Atheist? svarede derfor
-                            <persName>Shelley</persName>: Jeg brugte Ordet for at udtrykke min Afsky
+                        aldrig opgav. Da <persName key="edward-john-trelawny">Trelawny</persName> i
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> Dødsaar spurgte ham: <ref target="n"/>Hvorfor har De kaldt Dem selv en Atheist? svarede derfor
+                            <persName key="percy-bysshe-shelley">Shelley</persName>: Jeg brugte Ordet for at udtrykke min Afsky
                         for Overtro; jeg tog det op som en Ridder, i gamle Dage tog en Handske op
                         for at trodse Uretfærdighed<!-- LEMMA SLUT -->.</p>
                     <p>
-                        <persName>Shelley</persName> var voxet op, høj og spinkel, smal over
+                        <persName key="percy-bysshe-shelley">Shelley</persName> var voxet op, høj og spinkel, smal over
                         Skuldrene, Trækkene uregelmæssige, men Munden ualmindelig skjøn, attraaende
                         og klog, Øiet kvindeligt og næsten seraphisk i sit Blik, Udtrykket uendelig
                         omskifteligt og vexlende, snart som var han kun 19, snart som var han 40 Aar
                         gammel. I de 10 Aar, han endnu havde tilbage at leve i, blev hans Udseende
                         mandigere, dog gjorde det imellemstunder et halvt drengeagtigt, halvt
-                        kvindeligt Indtryk. Man vil maaskee erindre <persName>Trelawnys</persName>
+                        kvindeligt Indtryk. Man vil maaskee erindre <persName key="edward-john-trelawny">Trelawnys</persName>
                         Forbauselse under hans tidt citerede første Møde med
-                            <persName>Shelley</persName>. <ref target="n"/>Var det muligt, at denne
+                            <persName key="percy-bysshe-shelley">Shelley</persName>. <ref target="n"/>Var det muligt, at denne
                         mildtudseende skægløse Yngling kunde være det Uhyre, der laa i Krig med
                         Verden og som af sine Rivaler blev denunceret som Grundlægger af en djævelsk
                         Skole i Litteraturen?<!-- LEMMA SLUT --> Paa hin Tid vexlede hans Udtryk,
                         hvis herskende Charakter var Raskhed og Bestemthed mellem Alvor, Glæde,
                         rørende Sorg og ligegyldig Træthed. Det har hyppigt stemt med <pb n="308"/>
-                        Ordene i hans <bibl>Digt</bibl> til <persName>Edward
+                        Ordene i hans <bibl>Digt</bibl> til <persName key="edward-williams">Edward
                         Williams</persName><!-- = Edward Ellerker Williams  -->: <ref target="n"/>»Af Had er jeg stolt, tilfreds med Haan; Ligegyldighed, der engang saarede
                         mig, er nu selv bleven mig ligegyldig«<!-- LEMMA SLUT -->. Iøvrigt saae han,
                         for at bruge <ref target="n"/>et Udtryk af en af hans Ungdomsvenner,
                         overnaturligt intelligent ud<!-- LEMMA SLUT -->, og
-                            <persName>Mulready</persName>, en dengang berømt Portraitmaler,
-                        erklærede det for umuligt at male <persName>Shelley</persName>, han var <ref target="n"/>»altfor deilig«<!-- LEMMA SLUT -->.</p>
+                            <persName key="william-mulready">Mulready</persName>, en dengang berømt Portraitmaler,
+                        erklærede det for umuligt at male <persName key="percy-bysshe-shelley">Shelley</persName>, han var <ref target="n"/>»altfor deilig«<!-- LEMMA SLUT -->.</p>
                     <p> Det er da som en Yngling af den beskrevne Natur, exalteret som en Poet,
                         modig som en Helt, blød som en Kvinde, sky og rødmende som en ung Pige, let
                         og rask som <persName type="fictional">Ariel</persName> hos
-                            <persName>Shakespeare</persName>, at man maa tænke sig
-                            <persName>Shelley</persName> gaae ind og ud bos sine Venner.
-                            <persName>Mrs. Williams</persName> sagde om ham: <ref target="n"/>»Han
+                            <persName key="william-shakespeare">Shakespeare</persName>, at man maa tænke sig
+                            <persName key="percy-bysshe-shelley">Shelley</persName> gaae ind og ud bos sine Venner.
+                            <persName key="0">Mrs. Williams</persName> sagde om ham: <ref target="n"/>»Han
                         kommer og gaaer som en Aand. Ingen veed naar og
                         hvorhen«<!-- LEMMA SLUT --><!-- tilføjet cit.tegn -->.</p>
                     <p> Hans Helbred var hele hans Liv igjennem utaaleligt svagt og vilde rimeligvis
@@ -7461,8 +7461,8 @@
                             <persName>en lille Skolepige</persName> paa 16 Aar, der elskede ham
                         lidenskabeligt, og som beklagede sig over <persName>sin Faders</persName>
                         Mishandlinger. Han vilde tvinge hende til at gaae i Skole (!) og ikke
-                        tillade hende at elske <persName>Shelley</persName>. Efter nogle Stevnemøder
-                        løb <persName>Shelley</persName> bort med <persName>Harriet
+                        tillade hende at elske <persName key="percy-bysshe-shelley">Shelley</persName>. Efter nogle Stevnemøder
+                        løb <persName key="percy-bysshe-shelley">Shelley</persName> bort med <persName key="harriet-westbrook">Harriet
                             Westbrook</persName> til Skotland og giftede sig i
                             <placeName>Edinburgh</placeName> med hende. Overfor de mange og haarde
                         Angreb, Digteren i den Anledning var Gjenstand for, turde <ref target="n"/>den Ytring af <persName>Rossetti</persName> være paa sin Plads, at just
@@ -7470,12 +7470,12 @@
                         en <persName>forhenværende Hotelværts Datter</persName>, der selv tilbød at
                         følge dem som deres Elskerinde<!-- LEMMA SLUT -->. Dette Ægteskab var
                         sluttet af for umodne Bevæggrunde til at blive lykkeligt. Det opløstes som
-                        bekjendt, da <persName>Shelley</persName> i 1814 lærte den 17aarige
-                            <persName>Mary Wollstonecraft Godwin</persName> at kjende, og fattede
+                        bekjendt, da <persName key="percy-bysshe-shelley">Shelley</persName> i 1814 lærte den 17aarige
+                            <persName key="mary-wollstonecraft-godwin">Mary Wollstonecraft Godwin</persName> at kjende, og fattede
                         den uimodstaaeligste og pludseligste Lidenskab for hende. Hun, der var en
-                        Datter af <persName>Kvindeemancipationens første berømte
+                        Datter af <persName key="mary-jane-godwin">Kvindeemancipationens første berømte
                             Forfægterinde</persName> og af den radicale Forfatter til de Skrifter,
-                        der i <persName>Shelleys</persName> tidligste Ungdom havde havt saa dyb en
+                        der i <persName key="percy-bysshe-shelley">Shelleys</persName> tidligste Ungdom havde havt saa dyb en
                         Indflydelse paa ham, gav ham sin Kjærlighed frit og varmt, og var idet hun
                         gav ham sit Ja i Overensstemmelse med sin egen Morallov. Begges Anskuelse af
                         Ægteskabet var altfor ideal til at den ikke skulde være ble<pb n="311"/>ven
@@ -7487,12 +7487,12 @@
                         ægteskabelige Baand, besluttede de Aaret efter af praktiske Grunde og for
                         deres Børns Skyld at lade sig vie. De forlode England sammen, først paa en
                         kortere Reise gjennem Frankrig, der næsten helt blev tilbagelagt tilfods,
-                        senere paa de større Reiser, under hvilke <persName>Shelleys</persName> Navn
-                        blev knyttet til <persName>Byrons</persName>, medens den engelske Presses
+                        senere paa de større Reiser, under hvilke <persName key="percy-bysshe-shelley">Shelleys</persName> Navn
+                        blev knyttet til <persName key="george-gordon-byron">Byrons</persName>, medens den engelske Presses
                         Raseri ligeligt faldt over dem begge, ja gik saa vidt, at Rygtet gav deres
                         skjønne og mandige Venskab en infam Fortolkning.</p>
-                    <p>Anledning til en sand Explosion tog <persName>Southey</persName> af den
-                        ubetydelige og uskyldige Omstændighed, at <persName>Shelley</persName> i det
+                    <p>Anledning til en sand Explosion tog <persName key="robert-southey">Southey</persName> af den
+                        ubetydelige og uskyldige Omstændighed, at <persName key="percy-bysshe-shelley">Shelley</persName> i det
                         lille Bjerghus paa <placeName>Montanvert</placeName> ved
                             <placeName>Chamounidalen</placeName> under en lang Række af
                         vammeltfromme Udgydelser om Naturen og Naturens Gud, havde sat denne lille
@@ -7506,12 +7506,12 @@
                             </lg>
                         </quote>
                         <bibl>
-                            <persName>Percy B. Shelley</persName>.</bibl>
+                            <persName key="percy-bysshe-shelley">Percy B. Shelley</persName>.</bibl>
                     </cit>
                     <p>Paa Dansk: Jeg er en Philanthrop, en Demokrat og en Atheist.
-                            <persName>Southeys</persName> ovennævnte <bibl>Manifest</bibl>
-                        <pb n="312"/> mod <persName>Byron</persName> tog sit Udgangspunkt heri.
-                        Dette er med faa Ord Ouverturen til <persName>Shelleys</persName> Levnet og
+                            <persName key="robert-southey">Southeys</persName> ovennævnte <bibl>Manifest</bibl>
+                        <pb n="312"/> mod <persName key="george-gordon-byron">Byron</persName> tog sit Udgangspunkt heri.
+                        Dette er med faa Ord Ouverturen til <persName key="percy-bysshe-shelley">Shelleys</persName> Levnet og
                         Poesi.</p>
                     <p>
                         <ref target="n"/>Cor cordium<!-- LEMMA SLUT --> blev han med Rette kaldt.
@@ -7520,22 +7520,22 @@
                         allerinderligste, for hvilke Ordet synes for grovt og som give sig Luft i
                         Musik eller som hos ham i Vers, der ere ligesaa musikalske som rigt
                         harmoniserede Melodier. Den tilbagetrængte Vemod i
-                            <persName>Shelleys</persName> Lyrik minder om
-                            <persName>Shakespeares</persName>, <ref target="n"/>
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> Lyrik minder om
+                            <persName key="william-shakespeare">Shakespeares</persName>, <ref target="n"/>
                         <persName type="fictional">Spinderskens</persName><!-- Beatrice Cenci, datter af grev Francesco Cenci -->
                         lille Sang i »<bibl>The Cenci</bibl>«<!-- LEMMA SLUT -->, f. Ex. om <ref target="n"/>
                         <persName type="fictional">Narrens</persName><!-- = Feste the Clown -->
                         Sange i »<bibl>Hvad I vil</bibl>«<!-- LEMMA SLUT --> eller om <ref target="n"/>
                         <persName type="fictional">Desdemonas</persName> og <persName type="fictional">Ophelias</persName> Viser<!-- LEMMA SLUT -->.</p>
                     <p> Men i stærkeste Strid hermed synes den Eiendommelighed hos
-                            <persName>Shelley</persName> at staae, som rimeligvis Enhver, der kun
+                            <persName key="percy-bysshe-shelley">Shelley</persName> at staae, som rimeligvis Enhver, der kun
                         kjender ham af Anthologier, vil have paa Læben, den nemlig, at de berømteste
                         af hans lyriske Poesier have et Thema, der ligger udenfor Følelseslivet, ja
                         udenfor Menneskeverdenen, handle om Vind og Skyer, om de ydre Elementers
                         bevægede Liv, om Vandenes og Vindenes umaalelige Frihed og stormende Styrke.
                         Det er meteorologiske og kosmiske Poesier. Men der ligger ingen Modsigelse
                         i, at den mest inderlige Lyriker tilsyneladende er den mest udvortes. Vi
-                        finde Aarsagen udtalt i en lille Afhandling af <persName>Shelley</persName>,
+                        finde Aarsagen udtalt i en lille Afhandling af <persName key="percy-bysshe-shelley">Shelley</persName>,
                         der fører Titlen »<bibl>Om Kjærlighed</bibl>«. Han skildrer <pb n="313"/>
                         Kjærlighedens Væsen som en uimodstaaelig Trang til Sympathi.</p>
                     <p>
@@ -7554,7 +7554,7 @@
                     </p>
                     <p>
                         <ref target="n"/>I en Note til »<bibl>Feen fra Atlas</bibl>« siger
-                            <persName>Mrs. Shelley</persName> ligeledes, at det var Forvisningen om,
+                            <persName key="mary-wollstonecraft-godwin">Mrs. Shelley</persName> ligeledes, at det var Forvisningen om,
                         hverken at finde Sympathi eller Bifald hos sine Landsmænd, der – i Forening
                         med en Sky for ved Fordybelse i Lidenskaberne at aabne sit eget Hjertes Saar
                         – bragte ham til at søge Glemsel i Phantasiens luftige
@@ -7562,11 +7562,11 @@
                     <p> Men hin dybe Trang til en Sympathi, som den omgivende Menneskeverden negtede
                         ham, var <pb n="314"/> det da ogsaa, som gjorde hans Opfattelse af Naturen
                         til en aldrig før set ildfuld Attraa efter Naturen, og som gav den dens dybe
-                        Originalitet. Uhørt var Sligt i engelsk Poesi. <persName>Popes</persName>
-                        stive Kunstskole var bleven afløst af Søskolen. <persName>Pope</persName>
+                        Originalitet. Uhørt var Sligt i engelsk Poesi. <persName key="alexander-pope">Popes</persName>
+                        stive Kunstskole var bleven afløst af Søskolen. <persName key="alexander-pope">Pope</persName>
                         havde parfumeret Luften med Affektation, Søskolen havde slaaet Vinduerne op
                         for Bjergenes og Søernes friske Atmosphære. Men
-                            <persName>Wordsworth’s</persName> Naturkjærlighed var lidenskabsløs,
+                            <persName key="william-wordsworth">Wordsworth’s</persName> Naturkjærlighed var lidenskabsløs,
                         hvad andet han saa i »<bibl>Tintern Abbey</bibl>« havde sagt. Naturen var
                         ham en Forfriskning og et Stof til protestantiske Reflexioner. <ref target="n"/>Hin ringeste Blomst, der gav ham Tanker, som ofte laa altfor
                         dybt for Taarer<!-- LEMMA SLUT -->
@@ -7587,14 +7587,14 @@
                             </cit>
                         </note>, den tog han i sit Knaphul og pyntede sig med og betragtede den nu
                         og da med med stille Værdighed, pønsende paa en Sammenligning.
-                            <persName>Shelley</persName> kaster sig ud i Naturen, da
+                            <persName key="percy-bysshe-shelley">Shelley</persName> kaster sig ud i Naturen, da
                         Menneskeverdenen lukker sig bag ham. Derfor føler ikke han som Andre den
                         udenfor sig som kold eller ligegyldig eller grusom. Dens stenhaarde Ro
                         overfor Menneskets Ve og Vel, dens guddommelige Følelsesløshed overfor vort
                         Liv og vor Død, vore korte Triumpher og lange Kvaler, er Mildhed for ham i
                         Sammenligning med Menneskeverdenens Dumhed og Raahed. <ref target="n"/>Han
                         haaner i »<bibl>Peter Bell den 3die</bibl>« <pb n="315"/>
-                        <persName>Wordsworth</persName>, fordi han elsker Naturen som en Art moralsk
+                        <persName key="william-wordsworth">Wordsworth</persName>, fordi han elsker Naturen som en Art moralsk
                         Eunuch, der aldrig har vovet at løse dens Belte<!-- LEMMA SLUT -->; han selv
                         elsker den, som man elsker en Elskerinde, han forfølger dens hemmeligste
                         Skridt som dens Skygge, hans Puls banker i hemmelighedsfuld Sympathi med
@@ -7624,15 +7624,15 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         ikke har – det Skjønne.«<!-- LEMMA SLUT -->
                     </p>
                     <p> Endnu eiendommeligere, endnu personligere fremtræder
-                            <persName>Shelleys</persName> inderste Væsen, hans Hjertes Hjerte,
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> inderste Væsen, hans Hjertes Hjerte,
                         saaledes som de tungeste Skjæbner formede og prægede det, i den deilige
-                            <bibl>Elegi</bibl> over <persName>Keats</persName>, forfattet under den
-                        brændende Indignation, der greb <persName>Shelley</persName> over <ref target="n"/>det lave og hadske Angreb i »<bibl>Quarterly
+                            <bibl>Elegi</bibl> over <persName key="john-keats">Keats</persName>, forfattet under den
+                        brændende Indignation, der greb <persName key="percy-bysshe-shelley">Shelley</persName> over <ref target="n"/>det lave og hadske Angreb i »<bibl>Quarterly
                         Review</bibl>«<!-- LEMMA SLUT -->. Idet jeg gjengiver disse fine og
                         melodiøse Stropher i et andet Sprogs Prosa, mindes jeg vel, at <ref target="n"/>
-                        <persName>Shelley</persName> etsteds i sine Essays har sammenlignet dette
+                        <persName key="percy-bysshe-shelley">Shelley</persName> etsteds i sine Essays har sammenlignet dette
                         med den Idræt at kaste en Viol i en Smeltedigel for at faae fat paa dens
-                        Farve og dens Duft<!-- LEMMA SLUT -->. <persName>Shelley</persName>
+                        Farve og dens Duft<!-- LEMMA SLUT -->. <persName key="percy-bysshe-shelley">Shelley</persName>
                         skildrer, hvorledes alle Tidens Digtere indfinde sig til Klagesangen over
                         den Døde.</p>
                     <p>
@@ -7668,7 +7668,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         det at han oplevede Natur-Indtryk, som det, der er fastholdt i de henrivende
                             »<bibl>Linier, skrevne i en nedslaaet Stemning nær ved Neapel</bibl>«,
                         Linier, der kunne betragtes som en Mikrokosme af
-                            <persName>Shelleys</persName> hele Poesi. Han skildrer ikke Landskabet,
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> hele Poesi. Han skildrer ikke Landskabet,
                         han skildrer overhovedet aldrig. Han beskriver ikke Tingenes ydre Former og
                         Farver, men han fornemmer med den yderste Modtagelighed hvad jeg kaldte
                         Tingenes Aand og Sjæl.</p>
@@ -7705,23 +7705,23 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         sammen, føler med den mildeste Vemod sit Væsen opløse sig i Naturens
                         velgjørende Elementer, og sammenligner sin Udaanden med den deilige
                         sydlandske Sommerdags. Han elskede Naturen ikke alene i dens ophidsede
-                        Tilstande som <persName>Byron</persName>, men simpel af Hjerte, som han var,
+                        Tilstande som <persName key="george-gordon-byron">Byron</persName>, men simpel af Hjerte, som han var,
                         elskede han dens ædle Simpelhed, dens hellige Enfold.</p>
                     <p> Dog, dette Træk er ikke det mest charak<pb n="320"/>teristiske. Hertil
                         kommer et andet: Selv titanisk og gigantisk anlagt elsker han Naturens
                         titaniske og gigantiske Skjønhed, og atter her paa en ganske anden Maade end
-                            <persName>Byron</persName> gjør dette. Det er ikke Naturens
+                            <persName key="george-gordon-byron">Byron</persName> gjør dette. Det er ikke Naturens
                         haandgribelige og let tilgjængelige Poesi som Blomsternes eller Skovens, han
                         besynger, nei, hans storladne Sjæl beruses især af det Store og Fjærne, af
                         Rummets brede Bevægelser og Klodernes Dands gjennem Himmelrummet. I denne
                         Fortrolighed med Naturens store Skikkelser og store Bevægelser ligner
-                            <persName>Shelley</persName>
-                        <persName>Byron</persName>, men han ligner ham som en blond Genius ligner en
+                            <persName key="percy-bysshe-shelley">Shelley</persName>
+                        <persName key="george-gordon-byron">Byron</persName>, men han ligner ham som en blond Genius ligner en
                         tilsvarende brunet, som <persName type="fictional">Ariel</persName> ligner
                             <ref target="n"/>Morgenstjernens flammebringende
-                        Engel<!-- LEMMA SLUT -->. For <persName>Byron</persName> samlede Søens Poesi
+                        Engel<!-- LEMMA SLUT -->. For <persName key="george-gordon-byron">Byron</persName> samlede Søens Poesi
                         sig i Skibbrudets Poesi, i Uveirets og Hvirvelvindenes Kamp og Rasen, i
-                        Havets Raab efter mere og mere Bytte. For <persName>Byron</persName> samlede
+                        Havets Raab efter mere og mere Bytte. For <persName key="george-gordon-byron">Byron</persName> samlede
                         Himlens Poesi sig i Forestillingen om Stormens Tuden og Tordenens Tonefald
                         og Lynildens Knitren. Han lever med og i den tilintetgjørende Natur. Den
                         berømte Passus i fjerde Sang af »<bibl>Childe Harold</bibl>«: <ref target="n"/>»Rul, du dybe mørkeblaa Ocean, rul frem!«<!-- LEMMA SLUT -->
@@ -7732,11 +7732,11 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             »<bibl>Himmel og Jord</bibl>«, og som er en Tilintetgjørelseslystens
                             Dithyrambe<note place="bottom">
                             <ref target="n"/>
-                            <persName>Swinburne</persName>, der i sit lille mesterlige Essay om
-                                <persName>Byron</persName> paapeger det Naturomraade, han har
-                            tilfælles med <persName>Shelley</persName><!-- LEMMA SLUT -->, har ladet
+                            <persName key="algernon-charles-swinburne">Swinburne</persName>, der i sit lille mesterlige Essay om
+                                <persName key="george-gordon-byron">Byron</persName> paapeger det Naturomraade, han har
+                            tilfælles med <persName key="percy-bysshe-shelley">Shelley</persName><!-- LEMMA SLUT -->, har ladet
                             den Modsætning, som trods Ligheden findes, uomtalt.</note>.</p>
-                    <p> Læs saa derefter <persName>Shelleys</persName> berømte Digt
+                    <p> Læs saa derefter <persName key="percy-bysshe-shelley">Shelleys</persName> berømte Digt
                             »<bibl>Skyen</bibl>«. Man hører alle Naturens elementære Kræfter lege og
                         spøge deri i løsladt Munterhed, med titanisk Fryd, med kjæmpemæssig
                         Velgjørenhed og Gavmildhed mod Jorden. Hvilken stormende Friskhed i Skyens
@@ -7760,12 +7760,12 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             <rdg wit="A">der</rdg>
                         </app> kun deraf, og med Latter stiger den paany fra sit Intet og river
                         Luftens blaa Kuppel ned igjen. – Det er ikke blot Modsætningen til
-                            <persName>Byrons</persName> mørke Lidenskab, der slaaer i denne Skyens
+                            <persName key="george-gordon-byron">Byrons</persName> mørke Lidenskab, der slaaer i denne Skyens
                         storartede Barnlighed og Gavmildhed og Alkjærlighed, det er desuden et Træk,
                         jeg her kun accentuerer for senere at vende tilbage dertil, denne Poesies
                         primære og primitive Charakter, der gjenkalder <ref target="n"/>de ældste
                         ariske Hymner, Vederne og de homeriske<!-- LEMMA SLUT -->.
-                            <persName>Byron</persName> er i Sammenligning hermed rent moderne. Naar
+                            <persName key="george-gordon-byron">Byron</persName> er i Sammenligning hermed rent moderne. Naar
                         Skyen taler om <ref target="n"/>hin Mø klædt i hvide Luer, som de Dødelige
                         kalde Maanen, der skinnende glider hen over dens Bomuldsflade, og hvis
                         usynlige Fod med lette Trin, som kun Englene høre, bryder Væven i dens Telts
@@ -7773,7 +7773,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         blodige Solopgang med Meteorøinene<!-- LEMMA SLUT -->, da har Digteren i
                         Kraft af sin Phantasis Urfriskhed rykket Læseren tilbage til den Tid, da
                         Natursynene i fuld Nyhed formede sig til Mythologier.</p>
-                    <p> Men for <persName>Shelley</persName> vare disse Natursyn ogsaa <pb n="323"/>
+                    <p> Men for <persName key="percy-bysshe-shelley">Shelley</persName> vare disse Natursyn ogsaa <pb n="323"/>
                         evigt nye. Han levede imellem dem paa en anden Maade end nogen Digter før
                         eller siden har gjort. Dette hans korte Liv af 29 Aar er næsten helt blevet
                         tilbragt under aaben Himmel, Søen var hans Lidenskab, han seilede bestandig,
@@ -7785,7 +7785,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         dem seile; en Dag, da han intet Papir mere havde hos sig, tog han en 50 Pds.
                         Note og satte den ud paa Kanalen i en Have som Baad. Svømme kunde han ikke.
                         Da han under sine uophørlige Dag og Nat fortsatte Seiladser med
-                            <persName>Byron</persName> paa <placeName>Genfersøen</placeName> engang
+                            <persName key="george-gordon-byron">Byron</persName> paa <placeName>Genfersøen</placeName> engang
                         var paa Nippet til at kuldseile, afslog han al Hjælp, sad fuldkommen rolig
                         og ventede Døden. <ref target="n"/>»Mine Følelser«, skriver han,
                         »<!-- tilføjet cit.tegn -->vilde have været mindre pinlige, hvis jeg havde
@@ -7794,10 +7794,10 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         udsat for at bevare mit.«<!-- LEMMA SLUT --> Men faa Aar efter var det end
                         ikke med pinlige Følelser, han tænkte paa en saadan Død. Da han, nogle
                         Maaneder før han døde, en Dag var lige ved at <pb n="324"/> drukne, men blev
-                        frelst af <persName>Trelawny</persName>, sagde han blot: <ref target="n"/>»Det er en stor Fristelse; hvis gamle Kjærlinger have Ret, kunde jeg i
+                        frelst af <persName key="edward-john-trelawny">Trelawny</persName>, sagde han blot: <ref target="n"/>»Det er en stor Fristelse; hvis gamle Kjærlinger have Ret, kunde jeg i
                         dette Minut have været paa en anden Planet.«<!-- LEMMA SLUT --> I Italien
                         levede han bestandig i fri Luft, snart paa de lange Rideture med
-                            <persName>Byron</persName> i <placeName>Venedig</placeName>,
+                            <persName key="george-gordon-byron">Byron</persName> i <placeName>Venedig</placeName>,
                             <placeName>Ravenna</placeName> og <placeName>Pisa</placeName>, snart i
                         Robaad paa <placeName>Arno</placeName> og <placeName>Serchio</placeName>,
                         eller i Seilbaad paa <placeName>det toskanske Hav</placeName>. Det er ogsaa
@@ -7810,7 +7810,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Himmel og Foraarets kraftige, næsten bedøvende Opvaagnen i dette herlige
                         Klima. »<bibl>Livets Triumph</bibl>« skrev han dels siddende paa Husets Tag
                         i <placeName>Lerici</placeName>, dels i Baad under den mest overvældende
-                        Hede og Tørke. Men <persName>Shelley</persName> havde Salamandernaturen og
+                        Hede og Tørke. Men <persName key="percy-bysshe-shelley">Shelley</persName> havde Salamandernaturen og
                         levede først ret under stegende Sol.</p>
                     <p> Det var liggende i en Lund ved <placeName>Arnoen</placeName> nær ved
                             <placeName>Florents</placeName>, at han skrev sit mægtigste Digt,
@@ -7823,7 +7823,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Regnskyer, der nedrystes paa Vindens Flade fra Himlens og Havets
                         sammenslyngede Grene, om Stormens Lokker, der spredes over den luftige Flade
                         som det lyse Haar, der løfter sig fra en ildfuld Mænades Hoved! Men
-                        Vestenvindens og <persName>Shelleys</persName> hele Sjæl er i dette
+                        Vestenvindens og <persName key="percy-bysshe-shelley">Shelleys</persName> hele Sjæl er i dette
                         Slutningsudbrud:</p>
                     <p>
                         <ref target="n"/>»<!-- tilføjet mgl. » -->O, løft mig som en Bølge, et Blad,
@@ -7839,15 +7839,15 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         naar Vinteren er kommen, kan da Vaaren være fjern?«<!-- LEMMA SLUT -->
                     </p>
                     <p> Man sammenligne denne Ode med det deilige Sted i 3die Sang af »<bibl>Childe
-                            Harold</bibl>«, hvor <persName>Byron</persName> raaber: <ref target="n"/>»O, kunde jeg samle Alt, hvad der er <pb n="326"/> stærkest i mig, Elskov,
+                            Harold</bibl>«, hvor <persName key="george-gordon-byron">Byron</persName> raaber: <ref target="n"/>»O, kunde jeg samle Alt, hvad der er <pb n="326"/> stærkest i mig, Elskov,
                         Had, Lidenskaber, Haab og Fortvivlelse i et eneste Ord og dette Ord var
                             <emph>Lynet</emph>!«<!-- LEMMA SLUT --> eller med det Sted, hvor han ved
                             <placeName>Genfersøen</placeName> under det rasende Uveir tilraaber
                         Natten: <ref target="n"/>»O, lad mig nyde dit Uveirs Kamp, jeg, som er en
                         Del af Stormen og Dig!«<!-- LEMMA SLUT --> og man har i et prægnant Exempel
                         Modsætningen mellem en alt omfattende og en alt udfordrende Digteraands
-                        Sværmen med Naturen. <persName>Shelley</persName> vil ikke som
-                            <persName>Byron</persName> fravriste den dens Tordenkile. Han elsker den
+                        Sværmen med Naturen. <persName key="percy-bysshe-shelley">Shelley</persName> vil ikke som
+                            <persName key="george-gordon-byron">Byron</persName> fravriste den dens Tordenkile. Han elsker den
                         ikke som sit Vaaben, men som sit Instrument, sit Plekter, elsker den
                         uskræmmet af dens uhyre Proportioner, fortrolig med dens kjæmpemæssige
                         Storhed, følende sig i Verdensaltet som i sit Hjem. Allerhelst tumler hans
