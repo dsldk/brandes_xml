@@ -1789,7 +1789,7 @@
                 <div>
                     <head type="add">6. Landliv og skildringer fra landet</head>
                     <head>VI.</head>
-                    <p> Man forstaaer ikke <persName>Wordsworth’s</persName> poetiske Styrke og Begrændsning
+                    <p> Man forstaaer ikke <persName key="william-wordsworth">Wordsworth’s</persName> poetiske Styrke og Begrændsning
                         tilbunds uden et Blik paa hans Levnet. Man forefinder da et særligt idyllisk
                         og beskyttet Liv. Han fødtes i den velhavende Middelstand (<persName key="john-wordsworth">Faderen</persName> var Sagfører), studerede i
                             <placeName>Cambridge</placeName>, reiste, kom tilbage og arvede allerede
@@ -6213,7 +6213,7 @@
                             <persName key="sarah-curran">Brud</persName> stod for det irske Folk som Heltens Enke og
                         var Gjenstand for en stille Ærefrygt. Hendes Ulykke forøgedes end mere ved
                         at hun levede i en engelsksindet Kreds, der vel beklagede <persName key="robert-emmet">Robert
-                            Emmet</persName>, men mente at han havde fortjent sin Skjæbne. <ref target="n"/>Hendes Udseende var, siger <persName>Admiral
+                            Emmet</persName>, men mente at han havde fortjent sin Skjæbne. <ref target="n"/>Hendes Udseende var, siger <persName key="0">Admiral
                             Napier</persName>, der saae hende i Italien, »en vandrende
                         Statues«<!-- LEMMA SLUT -->. Hun døde faa Aar efter paa
                             <placeName>Sicilien</placeName>
@@ -6775,9 +6775,9 @@
                         Europa om, at England til alle Tider havde gjaldt for Folkefrihedens fødte
                         Beskytter. Saadanne Englændere vare <ref target="n"/>
                         <persName>General Wilson</persName>, der under
-                        <persName>Bolivar</persName><!-- præsident vist --> befriede
+                        <persName key="simon-bolivar">Bolivar</persName><!-- præsident vist --> befriede
                         Sydamerika<!-- LEMMA SLUT -->, og <ref target="n"/>
-                        <persName>Admiral Cochrane</persName>, der først i den brasilianske og
+                        <persName key="thomas-cochrane">Admiral Cochrane</persName>, der først i den brasilianske og
                         senere i den græske Frihedskrig gjorde sit Navn berømt<!-- LEMMA SLUT -->.
                         Til denne Klasse af Mænd hører <persName key="walter-savage-landor">Walter Savage Landor</persName>,
                         den særeste og stolteste Aand i Tidsalderens poetiske Litteratur.</p>
@@ -6805,7 +6805,7 @@
                         Tyranni<!-- LEMMA SLUT --> brød ud. <persName key="walter-savage-landor">Landor</persName> reiste til
                         Spanien, udrustede for egne Midler et helt lille Troppecorps og kjæmpede i
                         Insurgenternes Rækker. Han modtog i den Anledning en offentlig Takskrivelse
-                        af den øverste Junta og Titel som Oberst i den spanske Hær. Ved <ref target="n"/><persName>Kong Ferdinands</persName> Restauration<!-- LEMMA SLUT --> sendte
+                        af den øverste Junta og Titel som Oberst i den spanske Hær. Ved <ref target="n"/><persName key="ferdinand-7">Kong Ferdinands</persName> Restauration<!-- LEMMA SLUT --> sendte
                         han Kongen sit Diplom tilbage med en Skrivelse, i hvilken han erklærede, at
                         han, skjøndt Spaniens Sag hengiven for stedse, ikke kunde have noget
                         Berøringspunkt med <ref target="n"/>»en Meneder og
@@ -7245,9 +7245,9 @@
                         la’e den binde!«<!-- LEMMA SLUT -->
                     </p>
                     <p> Og havde man 2 Aar senere, da denne saa ufordelagtigt bedømte Digter var
-                        død, henvendt sig til <persName>hans Forlægger</persName> for at høre om
+                        død, henvendt sig til <persName key="1">hans Forlægger</persName> for at høre om
                         hans saa <pb n="302"/> stærkt angrebne Poesier ikke i det mindste havde
-                        fundet Kjøbere, da vilde <persName>Forlæggeren</persName> ganske sikkert
+                        fundet Kjøbere, da vilde <persName key="0">Forlæggeren</persName> ganske sikkert
                         have beklaget den daarlige Forretning og oplyst Spørgeren om, at der i
                             <persName key="percy-bysshe-shelley">Shelleys</persName> hele Levetid ikke var blevet solgt 100
                         Exemplarer af noget af hans Digte (»<bibl>Queen Mab</bibl>« og
@@ -7413,7 +7413,7 @@
                         Opium for at dulme Smerterne: i Perioder, hvor han led mere end ellers, kom
                         Opiumsflasken ikke ud af hans Haand. Medens han i 1816 besøgte Hospitalerne
                         i <placeName>London</placeName> og studerede Medicin for at kunne pleie de
-                        Fattige, blev han selv alvorligt <pb n="309"/> syg og <persName>en
+                        Fattige, blev han selv alvorligt <pb n="309"/> syg og <persName key="0">en
                             fremragende Læge</persName> spaaede ham Døden af Svindsot. Ligefuldt
                         rettede hans Bryst sig nogle Aar derefter. Under hans Besøg hos de Fattige i
                         deres smittebefængte Landsbyer paadrog han sig en farlig Øienbetændelse; den
@@ -7435,16 +7435,16 @@
                         overgik hans Evne.</p>
                     <p> Man kjender Historien om hans første Ægte<pb n="310"/>skab. Af misfornøiet
                         og overdreven Ridderlighedsfølelse bortførte han, 19 Aar gammel,
-                            <persName>en lille Skolepige</persName> paa 16 Aar, der elskede ham
-                        lidenskabeligt, og som beklagede sig over <persName>sin Faders</persName>
+                            <persName key="harriet-westbrook">en lille Skolepige</persName> paa 16 Aar, der elskede ham
+                        lidenskabeligt, og som beklagede sig over <persName key="john-westbrook">sin Faders</persName>
                         Mishandlinger. Han vilde tvinge hende til at gaae i Skole (!) og ikke
                         tillade hende at elske <persName key="percy-bysshe-shelley">Shelley</persName>. Efter nogle Stevnemøder
                         løb <persName key="percy-bysshe-shelley">Shelley</persName> bort med <persName key="harriet-westbrook">Harriet
                             Westbrook</persName> til Skotland og giftede sig i
                             <placeName>Edinburgh</placeName> med hende. Overfor de mange og haarde
-                        Angreb, Digteren i den Anledning var Gjenstand for, turde <ref target="n"/>den Ytring af <persName>Rossetti</persName> være paa sin Plads, at just
+                        Angreb, Digteren i den Anledning var Gjenstand for, turde <ref target="n"/>den Ytring af <persName key="dante-gabriel-rossetti">Rossetti</persName> være paa sin Plads, at just
                         ikke mange <emph>kristne</emph> unge rige Baroner vilde have giftet sig med
-                        en <persName>forhenværende Hotelværts Datter</persName>, der selv tilbød at
+                        en <persName key="harriet-westbrook">forhenværende Hotelværts Datter</persName>, der selv tilbød at
                         følge dem som deres Elskerinde<!-- LEMMA SLUT -->. Dette Ægteskab var
                         sluttet af for umodne Bevæggrunde til at blive lykkeligt. Det opløstes som
                         bekjendt, da <persName key="percy-bysshe-shelley">Shelley</persName> i 1814 lærte den 17aarige
@@ -7828,12 +7828,12 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Phantasi med Verdenskloderne, han tiltrækkes af deres Skjønhed og Liv som
                         andre af Forglemmigeiens og Rosens.</p>
                     <p> Hvilken mægtig, verdensbeherskende Phantasi er der ikke i det Digt, han
-                        nedskriver ved Efterretningen om <persName>Napoleons</persName> Død:</p>
+                        nedskriver ved Efterretningen om <persName key="napoleon-1">Napoleons</persName> Død:</p>
                     <p>
                         <ref target="n"/>»Hvad ilive? og saa kjæk, o Jord, er du ei altfor kjæk?
                         Hvad springer du frem som i gamle Dage i Glandsen af din Morgenglæde, du den
                         sidste af Flokken i Stjernefolden? Ere Lemmerne ikke stille, naar Sjælen er
-                        flyet, og kan du bevæge dig, nu <persName>Napoleon</persName> er død?
+                        flyet, og kan du bevæge dig, nu <persName key="napoleon-1">Napoleon</persName> er død?
                         Hvorledes? Er ikke dit bankende Hjerte blevet koldt, er en Gnist endnu ilive
                         paa din Arne? <emph>Du varmede</emph>
                         <pb n="327"/>
@@ -7843,7 +7843,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         mere med Hast og Ild og Lyst. Jeg var skyet og vranten og kold som et
                         frossent og sammenrullet Chaos, til mit Hjerte ved Aanden af hin mægtige
                         Døde paany blev varmt«<!-- LEMMA SLUT --><!-- tilføjet cit.tegn -->.</p>
-                    <p> Med sin Sjæls Øie saae <persName>Shelley</persName> Kloderne i Verdensrummet
+                    <p> Med sin Sjæls Øie saae <persName key="percy-bysshe-shelley">Shelley</persName> Kloderne i Verdensrummet
                         dreie sig besjælede, glødende indadtil, lysende udadtil i Natten, hans Blik
                         loddede de dybe Afgrunde, hvor grønne Verdener gled hverandre forbi,
                         Vandrestjerner med glimrende Lokker, kolde og klare Ismaaner. Han ligner dem
@@ -7851,22 +7851,22 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         rulle Verden efter Verden fra Tilblivelse til Undergang som Bobler paa en
                         Flod, gnistrende, bristende og dog udødelige, bestandig vævende nye Væsener,
                         nye Love, nye Guder, lyse eller mørke, som Kjortler, de kaste over Dødens
-                        nøgne Ribben. Han seer dem <ref target="n"/>som <persName>Raphael</persName>
+                        nøgne Ribben. Han seer dem <ref target="n"/>som <persName key="rafaello-santi-rafael">Raphael</persName>
                         malte dem i <placeName>Rom</placeName> i <placeName>Santa Maria del
                             Popolo</placeName><!-- LEMMA SLUT -->, hver behersket og ført af sin
                         Engel<!-- LEMMA SLUT -->, og i Kraft af sin Phantasis poetiske
-                        Magtfuldkommenhed anviser han den stakkels afdøde <persName>Keats</persName>
+                        Magtfuldkommenhed anviser han den stakkels afdøde <persName key="john-keats">Keats</persName>
                         en saadan ledig Throne, en kongeløs Sol. Hans »<persName type="fictional">Atlasbjergets Fe</persName>« har sit Hjem i Ætheren. Som <ref target="n"/>Arion paa <app>
                             <lem wit="B SS Fu 1923-24">Delfinens</lem>
                             <rdg wit="A">Delflnens</rdg>
                         </app> Ryg<!-- LEMMA SLUT --> rider hun paa Skyen <pb n="328"/> syngende
                         gjennem Luften og leer, naar hun hører Ildkuglernes brølende Susen bag sig.
-                        Her spiller <persName>Shelley</persName> med Himmellegemerne som en Jongleur
+                        Her spiller <persName key="percy-bysshe-shelley">Shelley</persName> med Himmellegemerne som en Jongleur
                         med sine Kugler, i »<bibl>Prometheus</bibl>« aabner han dem som Botanikeren
                         aabner en Blomst. I fjerde Akt skildres Jorden gjennemsigtig som Krystal og
                         alle dens Lag over hverandre, dens Bølger af Ild, dens uhyre Kilder, hvoraf
                         Havet dies, dens Forsteninger, begravne Trophæer og Ruiner og Byer, og
-                            <persName>Shelleys</persName> Genius svæver udenom den, indaander
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> Genius svæver udenom den, indaander
                         Skovenes stærke Duft og seer det smaragdgrønne Lys, Bladene kaste tilbage,
                         og hører <ref target="n"/>Sphærernes vilde Musik<!-- LEMMA SLUT -->. Men
                         Jorden er ham ikke et Aggregat; den er en levende Aand, i hvis ubekjendte
@@ -7895,7 +7895,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         som græd i Drømme, her to Elskende uskyldigt sammenslyngede, hvilende i
                         deres løse Lokker, der sneg sig hen over begge som Efeu over en Stamme, og
                         her laa rolig Alderdom med hvide Haar og foldede Hænder«<!-- LEMMA SLUT -->.
-                            <persName>Shelley</persName> føler med Floderne, der elskes af Søerne og
+                            <persName key="percy-bysshe-shelley">Shelley</persName> føler med Floderne, der elskes af Søerne og
                         forsvinde i deres Leie, synger om Naturens Død og Ligbegjængelse i Efteraar
                         og Vinter, mindes Blomsterne, der kastes over <ref target="n"/>Adonis<!-- LEMMA SLUT -->, skildrer Sommerens og Skjønhedens Gudinde, der
                         som en kvindelig <ref target="n"/>Balder<!-- LEMMA SLUT --> holder Havernes
@@ -7926,13 +7926,13 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         og mig, hvad Forskjel er der da? […] o, tag endnu engang Bolig i mit
                         Hjerte!«<!-- LEMMA SLUT --><!-- tilføjet cit.tegn -->
                     </p>
-                    <p> Men ud af disse elegiske Stemninger stiger <persName>Shelleys</persName>
+                    <p> Men ud af disse elegiske Stemninger stiger <persName key="percy-bysshe-shelley">Shelleys</persName>
                         Aand i Kraft af sin herlige Frihedsbegeistring med Lærkeflugt snorlige
                         iveiret. Hans »<bibl>Ode til Lærken</bibl>«<!-- = To a Skylark -->, der
                         betegner Overgangen til hans Frihedsdigte, er skrevet under en Rus af
                         befriet <pb n="331"/> og jublende Stemning. Neppe overtraf i ældre engelsk
                         Litteratur nogen lignende Sang den bedste af
-                            <persName>Wordsworth’s</persName> Sange til Lærken, der er saa typisk
+                            <persName key="william-wordsworth">Wordsworth’s</persName> Sange til Lærken, der er saa typisk
                         for Søskolens Aand og Poesi. <ref target="n"/>»Overlad Nattergalen dens
                         skyggefulde Skov; et Rige af straalende Lys er dit«<!-- LEMMA SLUT -->, og
                         hvori disse for hin conservative Digter saa betegnende Ord: <ref target="n"/>»Du, Type for den Vise, der svæver over Jorden, men aldrig flyver bort som
@@ -7950,13 +7950,13 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                                 </quote>
                             </cit>
                         </note>.</p>
-                    <p> Gaa nu til <persName>Shelleys</persName> Lærke, <ref target="n"/>som
+                    <p> Gaa nu til <persName key="percy-bysshe-shelley">Shelleys</persName> Lærke, <ref target="n"/>som
                         syngende stedse stiger og stigende stedse synger<!-- LEMMA SLUT -->. Her er
                         det som om alle Vinde ringede med Melodier, som gled vi ind og hvirvledes
                         ned i et Hav af evige morgenfriske Toner. Det er den rene Frihedsfølelses
                         yngste klareste Triumphsang af Glæde og Lykke. Den danner Overgangen til den
                         lange Række af Frihedssange, den store Gruppe, i hvilke
-                            <persName>Shelleys</persName> Genius er de kommende Revolutioners
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> Genius er de kommende Revolutioners
                         stormende Herold. Hans Frihedssang er et eneste langt Krigsskrig, klædt i
                         vexlende Melodier. Som Oder til Friheden og dens Forsvarere – Digte saa
                         skjønne og store som Marseillaisen – som politiske Satirer mod Tilstande og
@@ -7970,22 +7970,22 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         bønfaldt det om at undgaae de Voldsomheder, der havde plettet <ref target="n"/>den franske Revolution<!-- LEMMA SLUT -->, og var saa naiv,
                         at han fra sin Balkon paa Hotellet kastede den ned for Fødderne af de
                         Forbigaaende, der syntes ham at see ud som om de vare stemte til at modtage
-                        Opraab. Hvor barnligt baade han og hans <persName>unge Hustru</persName>
+                        Opraab. Hvor barnligt baade han og hans <persName key="harriet-westbrook">unge Hustru</persName>
                         toge Sagen, kan sees deraf, at han en Dag, da han spadserede med
-                            <persName>Harriet</persName>, ikke kunde negte sig den Fornøielse at
+                            <persName key="harriet-westbrook">Harriet</persName>, ikke kunde negte sig den Fornøielse at
                         putte Adressen ned i Hætten paa en Dames Kaabe, hvorover hans unge Brud var
                         – <ref target="n"/>efter eget Sigende<!-- LEMMA SLUT --> – nær ved at døe af
                         Latter. Han var tilstede ved flere Møder og talte en Gang en hel Time i
-                            <persName>O’Connels</persName> og andre Celebriteters Nærværelse. De
+                            <persName key="0">O’Connels</persName> og andre Celebriteters Nærværelse. De
                         Samtidiges Vidnesbyrd er saa enthusiastisk, at han, hvis man kan slutte
                         deraf, var endnu større som Taler end som Digter.</p>
-                    <p> Den næste Gang <persName>Shelley</persName> stødte sammen med <pb n="333"/>
+                    <p> Den næste Gang <persName key="percy-bysshe-shelley">Shelley</persName> stødte sammen med <pb n="333"/>
                         det regjerende Parti, havde Sammenstødet en helt anden tragisk Charakter.
-                            <persName>Harriet</persName> var død, og paa Forlangende af hendes Fader
+                            <persName key="harriet-westbrook">Harriet</persName> var død, og paa Forlangende af hendes Fader
                         blev der for Kantslerretten indledet en Undersøgelse om, hvem der besad
                         flest intellectuelle og moralske Betingelser for Opdragelsen af
-                            <persName>Shelleys</persName> Børn, den forhenværende Værtshusholder
-                            <persName>Westbrook</persName> eller Forfatteren til »<bibl>Queen
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> Børn, den forhenværende Værtshusholder
+                            <persName key="john-westbrook">Westbrook</persName> eller Forfatteren til »<bibl>Queen
                             Mab</bibl>« og »<bibl>Alastor</bibl>«, der denunceret som Atheist var
                         mistænkt for at ville opdrage sine Børn til Atheister.</p>
                     <p>
