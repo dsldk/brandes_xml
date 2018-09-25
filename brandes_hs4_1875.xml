@@ -4009,7 +4009,7 @@
                                 </quote>
                                 <bibl>»Marmion« V, 8.</bibl>
                             </cit>
-                        </note>, og den fra Hoffet forstødte <persName>Prindsesse af
+                        </note>, og den fra Hoffet forstødte <persName key="caroline">Prindsesse af
                             Wales</persName>, hvem <persName key="sir-walter-scott">Scott</persName> havde lært personligt
                         at kjende, da han i 1806 første Gang feiredes som Løve i
                             <placeName>London</placeName>, og til hvis Parti han som Tory sluttede
@@ -8204,13 +8204,13 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             <p>»<bibl>The trial at large of her Majesty Caroline Amelia Elisabeth,
                                     Queen of Great Britain in the house of lords on charges of
                                     adulterous intercourse</bibl>«. London 1821. 2 voll.<lb/><!-- tilføjet linjebrud -->
-                                »At Carlsruhe her <persName>Majesty</persName> was
-                                one day found in <persName>Bergamis</persName> room; she was sitting
+                                »At Carlsruhe her <persName key="caroline">Majesty</persName> was
+                                one day found in <persName key="bartolommeo-bergami">Bergamis</persName> room; she was sitting
                                 upon his bed, and he was in bed with his arms around the neck of her
-                                    <persName>majesty</persName>. She was surprised in this
+                                    <persName key="caroline">majesty</persName>. She was surprised in this
                                 extraordinary situation by one of the <emph>femmes de
                                 chambre</emph>, who was going into the room by chance […] In that
-                                bed was found a cloak, which her <persName>majesty</persName> was
+                                bed was found a cloak, which her <persName key="caroline">majesty</persName> was
                                 afterwards seen wearing; and in that bed, also, certain marks were
                                 observed by one of the servants. These marks, without his saying any
                                 thing farther at present, would lead their lordships, perhaps to
@@ -8219,8 +8219,8 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                                 <lb/>
                                 <lb/>
                                 »What was the state of
-                                    <persName>Bergami’s</persName> dress at the time you saw him in
-                                the passage going towards the bedroom of her <persName>royal
+                                    <persName key="bartolommeo-bergami">Bergami’s</persName> dress at the time you saw him in
+                                the passage going towards the bedroom of her <persName key="caroline">royal
                                     highness</persName>?<lb/>He was not dressed.<lb/>When you say he
                                 was not dressed, what do you mean; what had he on?<lb/>He was not
                                 dressed at all.«<!-- tilføjet cit.tegn -->
@@ -8229,29 +8229,29 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                                 <lb/>
                                 »On the 12th of that month she arrived at
                                     <placeName>Salona</placeName> […] A large bed was provided in
-                                the inner room for her <persName>majesty</persName>; the outer room
-                                assigned for <persName>Bergami</persName> had no bed. There was no
+                                the inner room for her <persName key="caroline">majesty</persName>; the outer room
+                                assigned for <persName key="bartolommeo-bergami">Bergami</persName> had no bed. There was no
                                 access to the bed in the inner room except through
-                                    <persName>Bergami’s</persName>. It would be proved in evidence,
-                                that, in the morning after <persName>her majesty</persName> had
+                                    <persName key="bartolommeo-bergami">Bergami’s</persName>. It would be proved in evidence,
+                                that, in the morning after <persName key="caroline">her majesty</persName> had
                                 slept here, her bed had the appearance of having been slept in by
                                 two persons. There was only one passage to her
-                                    <persName>majesty’s</persName> bed-room; that passage led from
-                                    <persName>Bergami’s</persName> room, and in his room there was
+                                    <persName key="caroline">majesty’s</persName> bed-room; that passage led from
+                                    <persName key="bartolommeo-bergami">Bergami’s</persName> room, and in his room there was
                                 no bed.«<!-- tilføjet cit.tegn -->
                                 <bibl>(vol. I 136).</bibl>
                             </p>
                         </note>. Det er Undersøgelser om Sove<pb n="342"/>kamres Beliggenhed og
-                        Senges Stilling, om en <persName>Dronning</persName> og hendes
-                            <persName>Kammerherre</persName> observerede i allerdybeste Negligée,
+                        Senges Stilling, om en <persName key="caroline">Dronning</persName> og hendes
+                            <persName key="bartolommeo-bergami">Kammerherre</persName> observerede i allerdybeste Negligée,
                         som Dag efter Dag fyldte <pb n="343"/> alle Englands Aviser, indtil –
                         Anklagen pludselig toges tilbage, dels paa Grund af Bevisernes formentlige
                         Utilstrækkelighed, dels paa Grund af den grændseløse Høide, hvortil Foragten
-                        for <persName>Kongen</persName> som Skandalens Ophav var stegen. I Anledning
-                        af denne Proces er det, at <persName>Shelley</persName> skriver sin
+                        for <persName key="george-4">Kongen</persName> som Skandalens Ophav var stegen. I Anledning
+                        af denne Proces er det, at <persName key="percy-bysshe-shelley">Shelley</persName> skriver sin
                         kostelige Satire »<bibl>Oedipus eller Swellfoot the Tyrant</bibl>« ↄ: den
                         podagristiske Tyran, et Forsøg i den politiske Komedie, mindst saa vellykket
-                        som <persName>Prutz’s</persName> »<bibl>Die politische Wochenstube</bibl>«.
+                        som <persName key="robert-prutz">Prutz’s</persName> »<bibl>Die politische Wochenstube</bibl>«.
                         Handlingen foregaaer i Bøotien. De <ref target="n"/>engelske
                         Bulls<!-- LEMMA SLUT --> optræde her som Svin. Engelsk Aand, Væsen og Magt
                         betegnes derfor som Svineri og Tonen falder saaledes: <ref target="n"/>»Skatterne, denne sande Kilde til Svineri, jeg siger Svineri, thi
@@ -8262,9 +8262,9 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         </app> den Moral, den Fred og den Velstand, kort alt Det, der gjør Bøotien
                         til et Mønster for Nationer«<!-- LEMMA SLUT -->. Den kronede Ægtemands
                         Hykleri, Dronningens frække Pukken paa sin Renhed,
-                            <persName>Castlereaghs</persName> og <persName>Sidmouths</persName>
+                            <persName key="robert-stewart-castlereagh">Castlereaghs</persName> og <persName key="henry-addington-1-viscount-sidmouth">Sidmouths</persName>
                         forløiede Holdning, Alt er ramt med den sikreste Satire.</p>
-                    <p> Men <persName>Shelleys</persName> Geni var ikke skabt til ret længe at dvæle
+                    <p> Men <persName key="percy-bysshe-shelley">Shelleys</persName> Geni var ikke skabt til ret længe at dvæle
                         ved Spotten over Tidens Karrikaturer. Hans frie og himmelske Aand var som
                         ingen anden skikket til at stille den moderne Tids gigantiske Frihedsideal i
                         Straaleglands frem for Tidens Bevidsthed.</p>
@@ -8287,7 +8287,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Impuls, vække en brændende Tørst hos ham efter
                         Fuldkommenhed<!-- LEMMA SLUT -->.</p>
                     <p>
-                        <ref target="n"/>»Den Panik,« siger <persName>Shelley</persName>,
+                        <ref target="n"/>»Den Panik,« siger <persName key="percy-bysshe-shelley">Shelley</persName>,
                         »<!-- tilføjet cit.tegn -->der som en Epidemi greb alle Klasser under <ref target="n"/>den franske Revolutions<!-- LEMMA SLUT --> Udskeielser,
                         begynder lidt efter lidt at vige for Sundhed. Man har ophørt at tro, at hele
                         Generationer af Menneskeslægten behøve at indskrænke sig til en Arv af
@@ -8300,25 +8300,25 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Bevægelse af sine Fingre, i Stedet for at de i Virkeligheden med giftig Rust
                         æde sig ind i Sjælen.«<!-- LEMMA SLUT -->
                     </p>
-                    <p> Saaledes besluttede da <persName>Shelley</persName> at føre <ref target="n"/>Revolutionens<!-- LEMMA SLUT --> Forsætter videre i forklaret Skikkelse.
+                    <p> Saaledes besluttede da <persName key="percy-bysshe-shelley">Shelley</persName> at føre <ref target="n"/>Revolutionens<!-- LEMMA SLUT --> Forsætter videre i forklaret Skikkelse.
                         Hans Sang blev en Prædiken, hans Indbildningskraft aabenbarede ikke hans
                         Iagttagelser, men hans Ønsker.</p>
                     <p> Indbildningskraften var nu imidlertid ogsaa efter hans System den i Sandhed
                         reformatoriske Evne. Han, hvem kras Uvidenhed har udskjældt for Materialist,
-                        havde ikke forgjæves gaaet i <persName>Hume’s</persName> og
-                            <persName>Berkeley’s</persName> Skole og inddrukket den mest extreme
+                        havde ikke forgjæves gaaet i <persName key="david-hume">Hume’s</persName> og
+                            <persName key="george-berkeley">Berkeley’s</persName> Skole og inddrukket den mest extreme
                         Immaterialisme. For ham var Alt kun Tanke, Tingene Lag af Tanker, Universet
                         en uhyre Coagulation af gamle, sammenløbne og størknede Tanker, Billeder,
                         Forestillinger. Heri ligger, at Digteren, hvis Fag og Hverv det er at skabe
                         nye Billeder af den Art, der gjør det stærkeste Indtryk paa Andre, bestandig
                         reformerer om paa Verden. <ref target="n"/>»Phantasien«, siger
-                            <persName>Shelley</persName>, <ref target="n"/>»er den <pb n="346"/>
+                            <persName key="percy-bysshe-shelley">Shelley</persName>, <ref target="n"/>»er den <pb n="346"/>
                         Evne, af hvilken ethvertsomhelst Fremskridt, selv det ringeste,
                         afhænger.«<!-- LEMMA SLUT --><!-- tilføjet »« --> Enten ved med Blidhed at
                         bringe de størknede Tanker i Strømning paany eller ved med konvulsivisk
                         Kraft at sprænge de traditionelle Forestillingers Vane-Skorpe, optræder
                         Digteren som den sande Reformator.</p>
-                    <p> Philosophisk og uhistorisk anlagt, som <persName>Shelley</persName> i sine
+                    <p> Philosophisk og uhistorisk anlagt, som <persName key="percy-bysshe-shelley">Shelley</persName> i sine
                         Ynglingeaar er, søger han sig i den eneste Periode af sit Liv, han kom til
                         at leve tilende – den før »<bibl>Cencierne</bibl>« – intet Grundlag i Tid og
                         Rum for sine reformatoriske Syner, thi som Ønsker have de ingen historisk
@@ -8326,64 +8326,64 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         væsentlige Egenskaber, som kun de historiske og locale Forhold kunne give,
                         og de Egenskaber, de besidde, ere fortrinsvis Menneskenaturens primære og
                         primitive Træk. Ogsaa i Charakterdannelsen gaaer
-                            <persName>Shelley</persName> tilbage til Slægtens Urhistorie. Personerne
+                            <persName key="percy-bysshe-shelley">Shelley</persName> tilbage til Slægtens Urhistorie. Personerne
                         blive halvt mythologiske Personligheder, gigantiske og ubestemte af Omfang,
                         aandige af Skikkelse, og ingen almindelig menneskelig Interesse kan knytte
                         sig til dem, fordi »Historien«, det i vulgær Forstand Interessante ved
-                        Digtningen, rent foragtes og overspringes af <persName>Shelley</persName>.
-                        Heraf hans fuldstændige Upopularitet. Medens en <persName>Walter
+                        Digtningen, rent foragtes og overspringes af <persName key="percy-bysshe-shelley">Shelley</persName>.
+                        Heraf hans fuldstændige Upopularitet. Medens en <persName key="sir-walter-scott">Walter
                             Scott</persName> til alle Tider vil kunne vinde sig Læsere blandt alle
-                        dem, der kunne læse, vil <persName>Shelley</persName> til alle Tider være
+                        dem, der kunne læse, vil <persName key="percy-bysshe-shelley">Shelley</persName> til alle Tider være
                         indskrænket til at skrive for the happy few.</p>
-                    <p> Det gjaldt for <persName>Shelley</persName> imidlertid kun om at <pb n="347"/> møde Stoffer, hvortil disse Evner netop svarede, for at yde det Høieste i
+                    <p> Det gjaldt for <persName key="percy-bysshe-shelley">Shelley</persName> imidlertid kun om at <pb n="347"/> møde Stoffer, hvortil disse Evner netop svarede, for at yde det Høieste i
                         Poesien. Denne Side af hans Begavelse var fuldstændig græsk, ligesom
-                            <persName>Shelley</persName> overhovedet ved Arten af sin Religiøsitet,
+                            <persName key="percy-bysshe-shelley">Shelley</persName> overhovedet ved Arten af sin Religiøsitet,
                         ved sin hele poetiske og philosophiske Dannelse var gjennemgræsk. <ref target="n"/>»Vi ere alle Grækere«<!-- LEMMA SLUT -->, siger han et Sted.
                         Det gjaldt om ham.</p>
                     <p> Dog heroisk og mythologisk og primitiv som hans Poesi var den græske kun i
                         sit Udspring. Det er derfor ogsaa kun med denne ældste græske Poesi, at
-                            <persName>Shelley</persName> kan og maa sammenlignes. Som hans Lyrik
+                            <persName key="percy-bysshe-shelley">Shelley</persName> kan og maa sammenlignes. Som hans Lyrik
                         gjenkalder <ref target="n"/>de homeriske Hymner<!-- LEMMA SLUT -->, og
                         ligesom hans politiske Komoedie saavel ved sin hensynsløse Satire som ved
-                        Sangenes lyriske Flugt er <persName>Aristophanes</persName> lig og
-                            <persName>Aristophanes</persName> værdig, saaledes blev han nu i det
-                        alvorlige Drama <persName>Æschylos’</persName>
+                        Sangenes lyriske Flugt er <persName key="aristofanes">Aristophanes</persName> lig og
+                            <persName key="aristofanes">Aristophanes</persName> værdig, saaledes blev han nu i det
+                        alvorlige Drama <persName key="aischylos">Æschylos’</persName>
                         <app>
                             <lem wit="B SS Fu 1923-24">sideordnede</lem>
                             <rdg wit="A">side ordnede</rdg>
                         </app> Rival. Hans »<bibl>Den løste Prometheus</bibl>« er det moderne
-                        Modstykke til <persName>Æschylos’</persName> »<bibl>Den bundne
+                        Modstykke til <persName key="aischylos">Æschylos’</persName> »<bibl>Den bundne
                             Prometheus</bibl>«, hans »<bibl>Hellas</bibl>«, en Profeti om
-                        Grækenlands Seir, det moderne Sidestykke til <persName>Æschylos’</persName>
+                        Grækenlands Seir, det moderne Sidestykke til <persName key="aischylos">Æschylos’</persName>
                             »<bibl>Perserne</bibl>«. Jeg kan kun dvæle ved
                         »<bibl>Prometheus</bibl>«. Dette storartede Digterværk kroner al
-                            <persName>Shelleys</persName> Frihedsdigtning. Her forsøgte
-                            <persName>Shelley</persName> første Gang med Held at skabe sin Poesies
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> Frihedsdigtning. Her forsøgte
+                            <persName key="percy-bysshe-shelley">Shelley</persName> første Gang med Held at skabe sin Poesies
                         og sin Tidsalders herskende Type. Mange Typer jog igjennem hans Hjerne,
-                        Hjobs<!-- = Job (GT) -->, <persName>Tassos</persName>, den samme, der
-                        samtidig greb <persName>Byron</persName> og <persName>Goethe</persName>. Det
+                        Hjobs<!-- = Job (GT) -->, <persName key="torquato-tasso">Tassos</persName>, den samme, der
+                        samtidig greb <persName key="george-gordon-byron">Byron</persName> og <persName key="johann-wolfgang-goethe">Goethe</persName>. Det
                         blev ved <persName type="fictional">Prometheus</persName><!-- ikke en titel if. SS; der er jo også tale om typer her -->.
                         Over den samtidige engelske Poesies Søer og Sletter hæve sig
-                            <persName>Byrons</persName> Alper med hans »<bibl>Manfred</bibl>« og <pb n="348"/>
-                        <persName>Shelleys</persName>
+                            <persName key="george-gordon-byron">Byrons</persName> Alper med hans »<bibl>Manfred</bibl>« og <pb n="348"/>
+                        <persName key="percy-bysshe-shelley">Shelleys</persName>
                         <placeName>Kaukasus</placeName> med hans »<bibl>Prometheus</bibl>«. Siden
                         Menneskeaandens Frigjørelse for Alvor var begyndt, sysselsatte denne Type
                         alle de store Digtere. Den opstaaer omkring vort Aarhundredes Begyndelse i
-                            <persName>Goethes</persName>, <persName>Byrons</persName> og
-                            <persName>Shelleys</persName> Hjerner. <persName>Goethes</persName>
+                            <persName key="johann-wolfgang-goethe">Goethes</persName>, <persName key="george-gordon-byron">Byrons</persName> og
+                            <persName key="percy-bysshe-shelley">Shelleys</persName> Hjerner. <persName key="johann-wolfgang-goethe">Goethes</persName>
                         deilige <bibl>Digt</bibl><!-- Goethes Prometheus-digt --> fremstiller den
                         fra Gudetroen løsrevne Menneskeaand i dens Arbeiden og kunstneriske
                         Frembringen, stolt af sin Hytte, som Guden ei har bygget, og dannende
-                        Skikkelser i sit Billede. <persName>Goethes</persName>
+                        Skikkelser i sit Billede. <persName key="johann-wolfgang-goethe">Goethes</persName>
                         <persName type="fictional">Prometheus</persName> er den formende og frie.
-                            <persName>Byrons</persName> haarde, korte, ildfulde <bibl>Vers</bibl>
+                            <persName key="george-gordon-byron">Byrons</persName> haarde, korte, ildfulde <bibl>Vers</bibl>
                         skildrer Martyren, der lider med sammenbidte Tænder i Tavshed, hvem ingen
                         Tortur kan fravriste Tilstaaelsen, og som sætter sin høieste Ære i ikke at
                         lade sine Kvaler ane; denne Titan vilde aldrig <ref target="n"/>som den
                         antike have ladet sig trøste af Oceanets Døtre eller have klaget for
-                        dem<!-- LEMMA SLUT --> – <persName>Byrons</persName> Prometheus er den
+                        dem<!-- LEMMA SLUT --> – <persName key="george-gordon-byron">Byrons</persName> Prometheus er den
                         trodsende og bundne.</p>
-                    <p> Men <persName>Shelleys</persName> ligner ingen af dem. Han er den
+                    <p> Men <persName key="percy-bysshe-shelley">Shelleys</persName> ligner ingen af dem. Han er den
                         velgjørende Menneskeaand, som kriger mod det onde Princip, som en uendelig
                         lang Tid igjennem undertrykkes af det og ei af det alene, men af alle andre
                         Væsener, de Gode med, der ere narrede til at antage det Onde for nødvendigt
@@ -8411,29 +8411,29 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         prometheiske Tidsalder begynder, og Luften forvandles til et Ocean af evige
                         og deilige Kjærlighedsmelodier, <persName type="fictional">Jordens</persName> tunge, dumpe Jubel vexler med <persName type="fictional">Maanens</persName> henrivende Salighedssang, til Altet
                         smelter sammen i en Glædeshymne, <pb n="350"/> som ikke
-                            <persName>Beethovens</persName> overgaaer i den niende Symfonis
+                            <persName key="ludwig-van-beethoven">Beethovens</persName> overgaaer i den niende Symfonis
                         Finale.</p>
-                    <p> Jeg kan kun berøre, hvorledes <persName>Shelley</persName> nu efter at have
-                        kappedes med <persName>Æschylos</persName> rivaliserede med
-                            <persName>Shakespeare</persName> og med et pludseligt Spring ind i den
+                    <p> Jeg kan kun berøre, hvorledes <persName key="percy-bysshe-shelley">Shelley</persName> nu efter at have
+                        kappedes med <persName key="aischylos">Æschylos</persName> rivaliserede med
+                            <persName key="william-shakespeare">Shakespeare</persName> og med et pludseligt Spring ind i den
                         historiske Virkelighed gav England, <ref target="n"/>selv efter
-                            <persName>Byrons</persName> Vidnesbyrd, den bedste Tragoedie, det siden
-                            <persName>Shakespeares</persName> Dage havde
+                            <persName key="george-gordon-byron">Byrons</persName> Vidnesbyrd, den bedste Tragoedie, det siden
+                            <persName key="william-shakespeare">Shakespeares</persName> Dage havde
                         besiddet<!-- LEMMA SLUT -->. »<bibl>Cencierne</bibl>« minder mest om
-                        saadanne af <persName>Shakespeares</persName> Stykker som »<bibl>Lige for
-                            Lige</bibl>«, skjøndt end ikke <persName>Shakespeare</persName> besad
+                        saadanne af <persName key="william-shakespeare">Shakespeares</persName> Stykker som »<bibl>Lige for
+                            Lige</bibl>«, skjøndt end ikke <persName key="william-shakespeare">Shakespeare</persName> besad
                         det glødende Had til Tyranni, som har indblæst det sin Aand.
-                            <persName>Beatrice Cencis</persName> Navn er endnu den Dag i Dag for
+                            <persName key="beatrice-cenci">Beatrice Cencis</persName> Navn er endnu den Dag i Dag for
                         Romerne det store Frihedssymbol. <ref target="n"/>Den unge Pige, som værnede
                         sin Ære overfor sin skrækkelige Fader<!-- LEMMA SLUT -->, hvis Voldsgjerning
                         indirekte understøttedes af Pavens og alle Myndigheders Corruption, staaer
                         for Romeren endnu som Heltinde og Martyr. Saa tidt der under Pavedømmets
                         Tryk i Tidernes Løb er kommen blot en Smule Lysning i Luften, er hendes Navn
                         og hendes Billede dukket op overalt i <placeName>Rom</placeName>.
-                            <persName>Shelley</persName> fortabte sig her helt i Historien og glemte
+                            <persName key="percy-bysshe-shelley">Shelley</persName> fortabte sig her helt i Historien og glemte
                         alle Theorier. Men dog er det mig klart, at hvad der egentlig greb ham i
                         denne tragiske Conflikt, var det dybe Brud med al Tradition, som
-                            <persName>Faderens</persName> Forbrydelse her havde gjort til
+                            <persName key="0">Faderens</persName> Forbrydelse her havde gjort til
                         Nødvendighed og til Pligt, samt den Anledning, den gav til at stille de
                         gjængse theologiske Begreber om Verdensstyrelsens Fadergod<pb n="351"/>hed i
                         en grel Belysning. <persName type="fictional">Beatrice</persName> siger:
@@ -8452,7 +8452,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Undertrykte.«<!-- LEMMA SLUT --><!-- tilføjet cit.tegn -->
                     </p>
                     <p> Tydeligt nok har Foreningen af Energi og Godhed især tiltrukket
-                            <persName>Shelley</persName> i <persName>Beatrices</persName> Skikkelse.
+                            <persName key="percy-bysshe-shelley">Shelley</persName> i <persName key="beatrice-cenci">Beatrices</persName> Skikkelse.
                         I Dødsøieblikket, da Rædsel griber hende for at gjenfinde <persName type="fictional">Faderen</persName> efter Døden, under Jorden, i Himlen,
                         udbryder hun endelig:</p>
                     <p>
@@ -8464,12 +8464,12 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         død, i Alt, hvad der aander, og skaber Undergang, Haan, Nød og Fortvivlelse
                         for mig og mine!«<!-- LEMMA SLUT --><!-- tilføjet cit.tegn -->
                     </p>
-                    <p> Det var om dette <persName>Shelleys</persName> modneste og bedst componerede
+                    <p> Det var om dette <persName key="percy-bysshe-shelley">Shelleys</persName> modneste og bedst componerede
                         Værk, at »<bibl>Litterary Gazette</bibl>« erklærede: <ref target="n"/>»»<bibl>Cencierne</bibl>« er Tidens mest afskyelige Frembringelse og
                         synes at være et Product af en eller anden Djævel.«<!-- LEMMA SLUT -->
                         Kritikeren haaber aldrig igjen at faae en Bog at see, der er saaledes <ref target="n"/>»stemplet med Besmittelse, Ugudelighed og
                         Infami«<!-- LEMMA SLUT -->.</p>
-                    <p> Denne Modstand nedslog <persName>Shelley</persName>. Han mente denne Gang at
+                    <p> Denne Modstand nedslog <persName key="percy-bysshe-shelley">Shelley</persName>. Han mente denne Gang at
                         have gjort sit Bedste. Ikke at han forknyttedes, men han tabte Lysten til at
                         producere. Hans to sidste Leveaar ere blottede for større Arbeider. Han
                         skriver i November 1820: <ref target="n"/>»Sikkert nok kan den Modtagelse,
@@ -8485,7 +8485,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         af dem. Jeg smigrer mig med, at det Første kun er en skyldig Tribut.«<!-- LEMMA SLUT --><!-- tilføjet cit.tegn -->
                     </p>
                     <p> 
-                        <pb n="353"/> I 1821 er det, at han skriver Digtet over <persName>Keats</persName> med det
+                        <pb n="353"/> I 1821 er det, at han skriver Digtet over <persName key="john-keats">Keats</persName> med det
                         frygtelige Udfald mod <ref target="n"/>den Kritiker, som mentes at have
                         dræbt ham<!-- LEMMA SLUT -->: <ref target="n"/>»Hed Skam skal hemmeligt
                         brænde dit Bryn, og Du skal skjælve som en banket Hund!«<!-- LEMMA SLUT -->
@@ -8495,7 +8495,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         krænkende Artikel, at sende mig den. Hidtil har jeg leet deraf. Men vee de
                         Slyngler, hvis de engang skulde bringe mig ud af Ligevægt. Jeg har opdaget,
                         at <ref target="n"/>min Bagvasker i »<bibl>Quarterly
-                        Review</bibl>«<!-- LEMMA SLUT --> er den velærværdige <persName>Mr.
+                        Review</bibl>«<!-- LEMMA SLUT --> er den velærværdige <persName key="henry-hart-milman">Mr.
                             Milman</persName>. Præster have deres
                         Privilegium.«<!-- LEMMA SLUT --><!-- tilføjet cit.tegn -->
                     </p>
@@ -8505,35 +8505,35 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         </app>: <ref target="n"/>»Jeg skriver Intet og vil sandsynligvis ikke skrive
                         mere.«<!-- LEMMA SLUT --><!-- tilføjet cit.tegn -->
                     </p>
-                    <p> Naar <persName>Byron</persName> paa denne Maade blev tirret af sine Fjender,
+                    <p> Naar <persName key="george-gordon-byron">Byron</persName> paa denne Maade blev tirret af sine Fjender,
                         da standsede han et Øieblik i sit Arbeide og viste dem Løvens Klo. Med
-                            <persName>Shelley</persName> var det anderledes. Hvad der i hans
+                            <persName key="percy-bysshe-shelley">Shelley</persName> var det anderledes. Hvad der i hans
                             »<bibl>Peter Bell den 3die</bibl>« findes mod Kritikerne er en overgiven
-                        Spøg i Sammenligning med <persName>Byrons</persName> blodige Haan mod
-                            <persName>Southey</persName> og de Andre. Saa tidt han optraadte,
+                        Spøg i Sammenligning med <persName key="george-gordon-byron">Byrons</persName> blodige Haan mod
+                            <persName key="robert-southey">Southey</persName> og de Andre. Saa tidt han optraadte,
                         vrimlede det litterære Krapyl og Kryb under hans Fod. <ref target="n"/>De
                         saarede hans Hæl. Han kunde ikke knuse deres Hoved<!-- LEMMA SLUT -->. Thi
                             <ref target="n"/>saadanne Kreaturer have, som
-                            <persName>Swinburne</persName> har sagt, altfor lidt Hoved til at man
-                        kan skjælne og knuse det<!-- LEMMA SLUT -->. <persName>Byron</persName>
+                            <persName key="algernon-charles-swinburne">Swinburne</persName> har sagt, altfor lidt Hoved til at man
+                        kan skjælne og knuse det<!-- LEMMA SLUT -->. <persName key="george-gordon-byron">Byron</persName>
                         havde desuden i Europa erhvervet sig Ven<pb n="354"/>ner og Beundrere i
                         Tusindtal ved sin Poesi; han delte Parnasset med
-                        <persName>Goethe</persName>, han havde begyndt at stemple Kontinentet med
+                        <persName key="johann-wolfgang-goethe">Goethe</persName>, han havde begyndt at stemple Kontinentet med
                         sin Aands Præg. Shelley var altfor langt forud for sin Samtid. En Fører, der
                         gaaer 20 Skridt forud, drager endnu Flokken efter sig; men er han 1000
                         Skridt forud for de Andre, da see og følge de ham ikke, og den første den
                         bedste litterære Krybskytte kan ustraffet skyde ham ned fra et Baghold.</p>
                     <p>
-                        <persName>Moore</persName> var et Talent og virkede som saadant.
-                            <persName>Shelley</persName> var intet Talent, hverken lidet eller
+                        <persName key="thomas-moore">Moore</persName> var et Talent og virkede som saadant.
+                            <persName key="percy-bysshe-shelley">Shelley</persName> var intet Talent, hverken lidet eller
                         stort, men en Genius, Sangens egen Genius, med al Geniets Kraft, men tillige
                         med Geniets hele Mangel paa Virkelighedssands; han var udseet til endnu 50
                         Aar efter sin Død at beherske Englands yngre Digterslægt, men han opnaaede
-                        ikke Tyvendedelen af den kun talentfulde <persName>Moores</persName>
-                        Indflydelse paa sin Samtid. <persName>Byron</persName> var Individualitetens
+                        ikke Tyvendedelen af den kun talentfulde <persName key="thomas-moore">Moores</persName>
+                        Indflydelse paa sin Samtid. <persName key="george-gordon-byron">Byron</persName> var Individualitetens
                         Digter som Ingen før ham og som saadan i høi Grad selvisk; Fordom og
                         Forfængelighed kunde ikke helt udbrændes af ham uden at ædle Dele vilde
-                        lide. Uforfængelig og uselvisk som <persName>Shelley</persName> var, gik han
+                        lide. Uforfængelig og uselvisk som <persName key="percy-bysshe-shelley">Shelley</persName> var, gik han
                         ubetinget op i sine Idealer; han udfoldede sit Selv til det omspændte
                         Verdensaltet; men hvad der var en rent ideal Dyd hos ham som Menneske,
                         betingede og medførte en skjæbnesvanger Mangel i hans Poesi, i ethvert
@@ -8546,57 +8546,57 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         med alle sine skjønne Enkeltheder ubestemt og vag, abstract og metaphysisk.
                         Den var med sine skyggelignende blodløse Skikkelser fremfor Alt saa bred og
                         lang, at det blev en Opgave at læse Digtet til Ende, og en Opgave, som kun
-                        løstes af Faa. Lige til <persName>Shelley</persName> skrev »<bibl>The
+                        løstes af Faa. Lige til <persName key="percy-bysshe-shelley">Shelley</persName> skrev »<bibl>The
                             Cenci</bibl>« synes han at have manglet enhver Sands for den uendelige
                         Tiltrækning og den uendelige Værdi, som det <emph>Individuelle</emph> har.
                         Selv <persName type="fictional">Prometheus</persName> og <persName type="fictional">Asia</persName> mangle i deres Egenskab af Typer enhver
                         Gnist af Individualitet, deres Navne ere kun Overskrifter over den
                         skjønneste Lyrik, England nogensinde har frembragt. Hvor tydeligt »<bibl>The
-                            Cenci</bibl>« end viser, at <persName>Shelley</persName> vilde have
+                            Cenci</bibl>« end viser, at <persName key="percy-bysshe-shelley">Shelley</persName> vilde have
                         kunnet indvinde Alt, hvad der i denne Henseende fattedes ham, saa reves han
                         dog bort, før han naaede til at indløse de rige Løfter, han havde givet, og
                         før Samtiden havde faaet Øinene op for hvad den i ham besad. Og skjøndt hans
                         mindre lyriske Stykker efter min og Manges Overbevisning overgaae Alt, hvad
-                        dette Aarhundrede har skabt i lyrisk Form, saa kunde dog heller <pb n="356"/> ikke disse Digte paavirke Tidsalderen, da de bedste af dem <ref target="n"/>end ikke bleve trykte i <persName>Shelley’s</persName>
+                        dette Aarhundrede har skabt i lyrisk Form, saa kunde dog heller <pb n="356"/> ikke disse Digte paavirke Tidsalderen, da de bedste af dem <ref target="n"/>end ikke bleve trykte i <persName key="percy-bysshe-shelley">Shelley’s</persName>
                         Levetid<!-- LEMMA SLUT -->.</p>
-                    <p> Saaledes kunde da han saa lidet som <persName>Moore</persName> og
-                            <persName>Landor</persName> udføre den Bevidsthedsrevolution, som Europa
+                    <p> Saaledes kunde da han saa lidet som <persName key="thomas-moore">Moore</persName> og
+                            <persName key="walter-savage-landor">Landor</persName> udføre den Bevidsthedsrevolution, som Europa
                         trængte til og ventede paa. Der udfordredes en Digter, der var lige saa
-                        individuel som <persName>Shelley</persName> kosmisk, ligesaa lidenskabelig
-                        som <persName>Shelley</persName> ideal, ligesaa skjærende satirisk som
-                            <persName>Shelley</persName> harmonisk og gratiøs til at udrette det
+                        individuel som <persName key="percy-bysshe-shelley">Shelley</persName> kosmisk, ligesaa lidenskabelig
+                        som <persName key="percy-bysshe-shelley">Shelley</persName> ideal, ligesaa skjærende satirisk som
+                            <persName key="percy-bysshe-shelley">Shelley</persName> harmonisk og gratiøs til at udrette det
                         grove og herkuliske Arbeide at rydde op i Europas politiske og religiøse
                         Bevidsthed, vække de Sovende og støde de Triumpherende ned i Latterdybet.
                         Der udfordredes en Aand, som i lige Grad kunde vinde Tidsalderens Interesse
                         ved sine Laster og Dyder, sine Fortrin og Feil.
-                            <persName>Shelley’s</persName> Instrument var en ædel Violin; det var en
+                            <persName key="percy-bysshe-shelley">Shelley’s</persName> Instrument var en ædel Violin; det var en
                         Lur, som behøvedes til at rense Luften og give Kampsignalet.</p>
-                    <p> Hvad der endnu staaer tilbage at fortælle om <persName>Shelley’s</persName>
+                    <p> Hvad der endnu staaer tilbage at fortælle om <persName key="percy-bysshe-shelley">Shelley’s</persName>
                         Liv er kun lidet: Hans sidste Reise fra <placeName>Livorno</placeName> til
                             <placeName>Lerici</placeName>, da han overfaldtes af den uforudsete
                         Storm, og hvorfra han aldrig kom levende iland – de lange Dage,
-                            <persName>hans Hustru</persName> tilbragte i frygtelig Angst, søgende
+                            <persName key="mary-wollstonecraft-godwin">hans Hustru</persName> tilbragte i frygtelig Angst, søgende
                         ham langs ad den italienske Kyst – saa Fundet af det ukjendelige Lig. En
                         Forordning bestemte, at Alt, hvad der kastedes iland paa Kysten, skulde
-                        brændes. <persName>Byron</persName> benyttede sig heraf til at give
-                            <persName>Shelley</persName> en græsk og hedensk Ligfærd
+                        brændes. <persName key="george-gordon-byron">Byron</persName> benyttede sig heraf til at give
+                            <persName key="percy-bysshe-shelley">Shelley</persName> en græsk og hedensk Ligfærd
                         overensstemmende med <pb n="357"/> hans Charakter. Paa Baalet strøedes
                         Røgelse, Vin, Salt, Olie som i det gamle <placeName>Hellas</placeName>. Det
                         var en skjøn Dag og et pragtfuldt Skue – det rolige Hav og
                             <placeName>Apenninerne</placeName> i Baggrunden. En lille Fugl kredsede
                         om Baalet og var ikke til at jage bort. Flammen steg høi og gylden. Legemet
                         fortæredes, men til Alles Forundring forblev Hjertet helt, og
-                            <persName>Trelawny</persName> snappede denne Reliquie bort fra den
+                            <persName key="edward-john-trelawny">Trelawny</persName> snappede denne Reliquie bort fra den
                         glødende Ovn og forbrændte sin Haand derved. Asken nedlagdes nær
                             <placeName>Cestius’s Pyramide</placeName> i <placeName>Rom</placeName>,
-                        hvor <persName>Shelley</persName> havde fundet det saa skjønt at hvile.</p>
+                        hvor <persName key="percy-bysshe-shelley">Shelley</persName> havde fundet det saa skjønt at hvile.</p>
                     <p> Den Mand, der havde overgivet hans Legeme til Ilden, overtog hans aandelige
                         Arv. Vi have mødt hans Navn paa hver Side af Tidens Historie. Vi see ham
-                        forberedt af <persName>Wordsworth</persName>, <persName>Coleridge</persName>
-                        og <persName>Scott</persName>, hadet af <persName>Southey</persName>,
-                        misforstaaet af <persName>Landor</persName>, elsket af
-                            <persName>Moore</persName>, beundret, paavirket og besunget af
-                            <persName>Shelley</persName>: Han spiller en Rolle i Alles Liv. I
+                        forberedt af <persName key="william-wordsworth">Wordsworth</persName>, <persName key="samuel-taylor-coleridge">Coleridge</persName>
+                        og <persName key="sir-walter-scott">Scott</persName>, hadet af <persName key="robert-southey">Southey</persName>,
+                        misforstaaet af <persName key="walter-savage-landor">Landor</persName>, elsket af
+                            <persName key="thomas-moore">Moore</persName>, beundret, paavirket og besunget af
+                            <persName key="percy-bysshe-shelley">Shelley</persName>: Han spiller en Rolle i Alles Liv. I
                         Virkeligheden er det ham som giver Tidsalderens poetiske Litteratur dens
                         endelige og afgjørende Præg.</p>
                 </div>
@@ -8604,56 +8604,56 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                     <head type="add">16. Byron. Den individuelle lidenskabelighed (1)</head>
                     <head>XVI.</head>
                     <p> Naar man træder ind i <placeName>
-                            <persName>Thorvaldsens</persName> Museum</placeName>, er det første
+                            <persName key="bertel-thorvaldsen">Thorvaldsens</persName> Museum</placeName>, er det første
                         Billedværk, man har paa sin høire Haand, en Marmorbuste, som forestiller en
                         smuk ung Mand med fine og ædle Træk og med <pb n="358"/> krøllet Haar,
-                        Busten af <persName>Lord Byron</persName>. Man forefinder den samme Buste i
+                        Busten af <persName key="george-gordon-byron">Lord Byron</persName>. Man forefinder den samme Buste i
                         Gibs i Salen Nr. XII og den Portraitstatue, hvortil den efter
-                            <persName>Byrons</persName> Død blev benyttet i Salen Nr. XIII. Stiller
+                            <persName key="george-gordon-byron">Byrons</persName> Død blev benyttet i Salen Nr. XIII. Stiller
                         man sig foran Gibsbusten, der uden Sammenligning siger mest, vil det første
                         Indtryk være det af elegant og fornem Skjønhed; i næste Øieblik vil man
                         sikkert gribes af det Udtryk af Liv, der er udbredt over den og som nærmest
                         bestaaer i en urolig Zitren over Panden, som kunde der lægge sig Skyer over
                         den og Lyn udgaae fra disse Skyer, og i noget Voldsomt ved Bryn og Blik.
                         Denne Pande har Uimodstaaelighedens Præg.</p>
-                    <p> Naar man betænker Afstanden mellem <persName>Thorvaldsens</persName> og
-                            <persName>Byrons</persName> Naturer, naar man erindrer, at
-                            <persName>Thorvaldsen</persName> sikkert aldrig har læst en Linie af den
-                        engelske Digter, og naar man tilmed veed, at <persName>Byron</persName> ikke
-                        viste sig fra sin fordelagtigste Side for <persName>Thorvaldsen</persName>,
+                    <p> Naar man betænker Afstanden mellem <persName key="bertel-thorvaldsen">Thorvaldsens</persName> og
+                            <persName key="george-gordon-byron">Byrons</persName> Naturer, naar man erindrer, at
+                            <persName key="bertel-thorvaldsen">Thorvaldsen</persName> sikkert aldrig har læst en Linie af den
+                        engelske Digter, og naar man tilmed veed, at <persName key="george-gordon-byron">Byron</persName> ikke
+                        viste sig fra sin fordelagtigste Side for <persName key="bertel-thorvaldsen">Thorvaldsen</persName>,
                         maa man høilig beundre Resultatet af <ref target="n"/>hint Møde mellem de to
                         store Mænd<!-- LEMMA SLUT -->. Busten giver om end nødvendigvis en svag og
                         meget ufuldstændig, dog en sand og skjøn Forestilling om en Hovedside af
-                            <persName>Byrons</persName> Charakter, der laa
-                            <persName>Thorvaldsen</persName> uendelig fjernt. Det Omraade, paa
+                            <persName key="george-gordon-byron">Byrons</persName> Charakter, der laa
+                            <persName key="bertel-thorvaldsen">Thorvaldsen</persName> uendelig fjernt. Det Omraade, paa
                         hvilket han er størst, er Idyllens; vil han fremstille <ref target="n"/>
-                        <persName>Alexanders</persName> Indtog i
+                        <persName key="alexander-den-store">Alexanders</persName> Indtog i
                         <placeName>Babylon</placeName><!-- LEMMA SLUT -->, lykkes Hyrderne, Faarene,
                         Fiskeren, Børnene, Kvinderne, det hele festlige Optog ham bedre end Helten
                         selv; thi det Heroiske er ikke i samme <pb n="359"/> Grad hans Sag; hvor
                         meget mindre da det krigerske Naturel i den sammensatte og moderne Form
                         deraf, man har betegnet som dæmonisk! Og dog har han anet
-                            <persName>Byron</persName>. Han har i Busten (ikke i
+                            <persName key="george-gordon-byron">Byron</persName>. Han har i Busten (ikke i
                         Statuen) sat ham et Mindesmærke, der skjøndt det hverken tilfredsstillede
-                            <persName>Grevinde Guiccioli</persName> eller <persName>Thomas
+                            <persName key="teresa-guiccioli">Grevinde Guiccioli</persName> eller <persName key="thomas-moore">Thomas
                             Moore</persName>, dog er saavel Digteren som
-                        Kunstneren værdigt. Ifald han havde kjendt <persName>Byron</persName>
+                        Kunstneren værdigt. Ifald han havde kjendt <persName key="george-gordon-byron">Byron</persName>
                         personligt, vilde Værket formodentlig være blevet endnu fortrinligere, have
                         havt et Træk af det Aabne og Sympathetiske, der har slaaet Enhver, som
-                        kjendte <persName>Byron</persName> nøie. Dette kom nu ikke frem. Men det
+                        kjendte <persName key="george-gordon-byron">Byron</persName> nøie. Dette kom nu ikke frem. Men det
                         lykkedes den danske Kunstner bag det mørke Udtryk, som han antog for
                         paataget, at trænge ind til det virkelige, dybt originale Stempel af Smerte,
                         Uro, Geni, ædel og frygtelig Kraft.</p>
-                    <p> Det er sikkert nok denne <persName>Byron</persName>,
-                            <persName>Byron</persName>, som man kjendte ham fra Museet, med hvilken
+                    <p> Det er sikkert nok denne <persName key="george-gordon-byron">Byron</persName>,
+                            <persName key="george-gordon-byron">Byron</persName>, som man kjendte ham fra Museet, med hvilken
                         den yngre Slægt i Danmark er voxet op. Men med Billedet fulgte tillige
                         haardnakket <ref target="n"/>Anekdoten om Besøget i
-                            <persName>Thorvaldsens</persName> Værksted og dennes Udbrud: »Han vilde
+                            <persName key="bertel-thorvaldsen">Thorvaldsens</persName> Værksted og dennes Udbrud: »Han vilde
                         nu engang være saa ulykkelig«<!-- LEMMA SLUT -->
                         <note place="bottom">Thiele: »<bibl>Thorvaldsen i Rom</bibl>« I,
                         342.</note>, og man undrede sig uvilkaarligt over at en saa stor Mand ikke
                         skulde være fuldstændigt naturlig. Saaledes kom vi fra først af i et skjævt
-                        eller usikkert Forhold til <persName>Byron</persName>. Og i de 50 <pb n="360"/> Aar, der ere hengaaede siden den store Digters Død er Slægten
+                        eller usikkert Forhold til <persName key="george-gordon-byron">Byron</persName>. Og i de 50 <pb n="360"/> Aar, der ere hengaaede siden den store Digters Død er Slægten
                         kommet i et lignende fremmed Forhold til ham. Han er saa langt fra at være
                         vore Dages Helt. Hvad der endnu langt mere end hans poetiske Storhed bragte
                         vore Bedstefædre og Bedstemødre til at sværme for ham, det har netop stødt
@@ -8664,7 +8664,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Elskovseventyr bleve ligesaa navnkundige som hans Vers, endelig
                         Aristokraten, hvis høie Hang var ham selv saa værdifuld, men hvis Titel ikke
                         længer virker imponerende paa en mere demokratisk Efterslægt. Vor praktiske
-                        og positive Tidsalder ringeagter den Figur som <persName>Byron</persName>
+                        og positive Tidsalder ringeagter den Figur som <persName key="george-gordon-byron">Byron</persName>
                         snart satte sin Ære i at være, snart i Virkeligheden var: Dilettanten. Det
                         var ham en Æressag at drive sin Kunst som Amateur og Dilettant. I Fortalen
                         til sine <bibl>første Poesier</bibl>
@@ -8674,7 +8674,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Hæder, hans <bibl>første poetiske Fortællinger</bibl> have skaffet ham,
                         aldrig mere at skrive Poesi og at undertrykke Alt, hvad han allerede havde
                         forfattet. En Maaned efter digter <pb n="361"/> han »<bibl>Lara</bibl>«, og
-                        da <ref target="n"/><persName>Jeffrey</persName> har kaldt Heltens Charakter altfor
+                        da <ref target="n"/><persName key="francis-lord-jeffrey">Jeffrey</persName> har kaldt Heltens Charakter altfor
                         udarbeidet<!-- LEMMA SLUT -->, skriver han (i et Brev fra 1822): <ref target="n"/>»Hvad mene Kritikerne med udarbeidet? »<bibl>Lara</bibl>«
                         skrev jeg, mens jeg klædte mig af, naar jeg kom hjem fra Baller og
                         Maskerader i det Svirens Aar 1814.«<!-- LEMMA SLUT --> Man føler, at han
@@ -8690,14 +8690,14 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Grund Følelses- og Eventyrerpolitik, hvad enten han deltog i
                         Sammensværgelser som Carbonari i <placeName>Ravenna</placeName>, eller som
                         Feltherre stod i Spidsen for <placeName>Missolunghi’s</placeName>
-                        <ref target="n"/>Sulioter<!-- LEMMA SLUT -->. <persName>Byrons</persName>
+                        <ref target="n"/>Sulioter<!-- LEMMA SLUT -->. <persName key="george-gordon-byron">Byrons</persName>
                         første Handling, da han besluttede at <ref target="n"/>gaae til Grækenland<!--  --> var at lade gjøre
                         forgyldte Hjelme til sig og sine Venner med <ref target="n"/>sin adelige
                         Devise<!-- LEMMA SLUT --> som Indskrift. Vore Dages Politiker er den, som
                         lægger bestemte Planer, fastholder og udvikler dem Aar <pb n="362"/> efter
                         Aar og som endelig udfører dem haardnakket og hensynsløst uden Heltens
                         Apparat, men med Heltens Fasthed.</p>
-                    <p> Endelig har den hele Række af <persName>Byrons</persName> Beundrere og
+                    <p> Endelig har den hele Række af <persName key="george-gordon-byron">Byrons</persName> Beundrere og
                         Efterlignere trængt sig frem imellem ham og os, fordunklet Billedet og
                         blandet Indtrykket af den store Afdøde. Man har paaduttet ham deres
                         Egenskaber og tillagt ham Skylden for deres Feil. Da Reactionen i
@@ -8706,69 +8706,69 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         at det store Navn blev skudt tilside med alle de mindre, som fortrængtes.
                         Det havde fortjent en bedre Lod.</p>
                     <p>
-                        <persName>George Gordon Byron</persName> fødtes den <app>
+                        <persName key="george-gordon-byron">George Gordon Byron</persName> fødtes den <app>
                             <lem wit="B">22.</lem>
                             <rdg wit="A">22</rdg>
                             <rdg wit="SS Fu 1923-24">22de</rdg>
                         </app> Januar 1788 af en lidenskabelig og ulykkelig
-                            <persName>Moder</persName>, der kort iforveien havde forladt en raa og
-                        hensynsløs Mand. Denne Mand, <persName>Capitain Byron</persName> ved Navn,
+                            <persName key="catherine-byron">Moder</persName>, der kort iforveien havde forladt en raa og
+                        hensynsløs Mand. Denne Mand, <persName key="john-byron-1756-1791">Capitain Byron</persName> ved Navn,
                         der som Gardeofficier nogen Tid havde gjort Tjeneste i Amerika, havde
                         allerede i sin Ungdom ved sit vilde Liv gjort sig almindelig kjendt under
                         Navnet den gale Jack Byron; han blev retslig anklaget, da han bortførte
-                            <persName>Marquis’en af Carmarthens</persName>
-                        <persName>Hustru</persName>; Processen endte med Skilsmisse; han ægtede
-                            <persName>Marquisen</persName>, satte hendes Formue overstyr og
+                            <persName key="francis-marquis-5-duke-of-leeds-carmarthen">Marquis’en af Carmarthens</persName>
+                        <persName key="amelia-baroness-conyers-byron">Hustru</persName>; Processen endte med Skilsmisse; han ægtede
+                            <persName key="amelia-baroness-conyers-byron">Marquisen</persName>, satte hendes Formue overstyr og
                         behandlede hende saa slet, at hun faa Aar efter døde af Græmmelse. Med sin
-                        lille Datter <persName>Augusta</persName> reiste han saa tilbage til England
+                        lille Datter <persName key="augusta-leigh">Augusta</persName> reiste han saa tilbage til England
                         og giftede sig udelukkende af pekuniære Hensyn med <pb n="363"/> en rig
-                        skotsk Arving <persName>Miss Catharina Gordon</persName>, der blev Moder til
+                        skotsk Arving <persName key="catherine-byron">Miss Catharina Gordon</persName>, der blev Moder til
                         det Barn, hvis Ry endnu beskjæftiger Verden. Strax efter Brylluppet begyndte
-                            <persName>Capitain Byron</persName> at valte med sin anden Hustrus
+                            <persName key="john-byron-1756-1791">Capitain Byron</persName> at valte med sin anden Hustrus
                         Formue som med sin førstes, og i Løbet af et Aar havde han bragt den ned fra
                         24000 Pund til 3000. Hun forlod ham i Frankrig og fødte i
                             <placeName>London</placeName> sit eneste Barn. Ved Fødselen blev Barnets
                         Fod forvredet eller beskadiget.</p>
                     <p> To Aar efter drog Moderen med sit Barn til <placeName>Aberdeen</placeName> i
-                        Skotland, hvorhen <persName>Capitain Byron</persName> i det Haab at pumpe
+                        Skotland, hvorhen <persName key="john-byron-1756-1791">Capitain Byron</persName> i det Haab at pumpe
                         Penge af sin Hustru under en Pause i sine Udsvævelser fulgte dem.
-                            <persName>Mrs. Byron</persName> optog ham nogen Tid godmodigt i sit Hus,
+                            <persName key="catherine-byron">Mrs. Byron</persName> optog ham nogen Tid godmodigt i sit Hus,
                         senere vedblev han endnu længe at besøge hende, indtil han for at undgaae
                         sine Creditorer vendte tilbage til Frankrig, hvor han kort efter døde. Da
-                        Efterretningen om hans Død naaede til <persName>hans Hustru</persName>, der
+                        Efterretningen om hans Død naaede til <persName key="catherine-byron">hans Hustru</persName>, der
                         aldrig havde ophørt at elske ham, udbrød hun i saa lidenskabelige
                         Klageskrig, at de hørtes over hele Gaden. Kun i forskjellig Form og Grad
-                        findes da hos begge <persName>Byrons</persName> Forældre som fælles
+                        findes da hos begge <persName key="george-gordon-byron">Byrons</persName> Forældre som fælles
                         Charaktertræk en stærk Lidenskabelighed, forenet med en stor Mangel paa
                         Selvbeherskelse. Og gaaer man tilbage opefter i begge Slægter finder man
                         samme Træk, i Moderens Familie som Selvmords- og Forgiftningsforsøg, i
                         Faderens snart under Form af heltemodig Forvovenhed, snart i Skikkelse af
-                        vild Brutalitet. <persName>Byrons</persName> Bedstefader <pb n="364"/> paa
-                        fædrene Side, <persName>Admiral John Byron</persName>, almindelig kaldt
+                        vild Brutalitet. <persName key="george-gordon-byron">Byrons</persName> Bedstefader <pb n="364"/> paa
+                        fædrene Side, <persName key="john-byron">Admiral John Byron</persName>, almindelig kaldt
                         »hardy Byron«, den kjække, deltog i Søkrig mod Spanierne og Franskmændene,
                         gjorde Opdagelsesreiser i Sydhavet, seilede Jorden rundt og oplevede Farer,
                         Eventyr og Skibbrud uden Tal; den Eiendommelighed, at han aldrig kunde gjøre
                         nogen Reise uden at overfaldes af heftige Storme, skaffede ham hos
-                        Matroserne Tilnavnet »Foulweather-Jack«. <persName>Byron</persName>
+                        Matroserne Tilnavnet »Foulweather-Jack«. <persName key="george-gordon-byron">Byron</persName>
                         sammenligner sin Skjæbne med hans. Hos Digterens Grandonkel
-                            <persName>William</persName> træder Slægtmærket uhyggeligst frem. Han
+                            <persName key="william-5-lord-of-byron">William</persName> træder Slægtmærket uhyggeligst frem. Han
                         var en udsvævende Slagsbroder, hvis Livs afgjørende Begivenhed var den, at
-                        han efter en Trætte dræbte sin Nabo <persName>Mr. Chaworth</persName> i en
+                        han efter en Trætte dræbte sin Nabo <persName key="william-chaworth">Mr. Chaworth</persName> i en
                         Duel uden Secundanter. Kun som <ref target="n"/>Pair<!-- LEMMA SLUT --> af
                         England undgik han at blive dømt for Mord, og levede skyet som en Spedalsk
                         paa sin Eiendom <ref target="n"/>Newstead<!-- LEMMA SLUT -->. Hans
-                        Omgivelser hadede ham; <persName>hans Hustru</persName> skilte sig fra ham;
+                        Omgivelser hadede ham; <persName key="0">hans Hustru</persName> skilte sig fra ham;
                         Egnens Overtro fortalte de urimeligste Mordhistorier om ham.</p>
                     <p> Uroligt Blod havde Digteren da i sine Aarer. Men dette urolige Blod var
                         tillige høiadeligt Blod. Paa mødrene Side var han beslægtet med <ref target="n"/>Stuarterne<!-- LEMMA SLUT --> og kunde føre sin Familie
-                        tilbage til <persName>Kong Jacob den anden</persName>; paa fædrene Side
+                        tilbage til <persName key="james-2-jakob-2">Kong Jacob den anden</persName>; paa fædrene Side
                         nedstammede han – dog med et enkelt illegitimt Led i Stamtræet, en
-                        Omstændighed, <persName>Byron</persName> selv aldrig nævner – fra en gammel
-                        normannisk Adelsslægt, hvis ældste bekjendte Ahne <persName>Radulphus de
+                        Omstændighed, <persName key="george-gordon-byron">Byron</persName> selv aldrig nævner – fra en gammel
+                        normannisk Adelsslægt, hvis ældste bekjendte Ahne <persName key="radulphus-de-burun">Radulphus de
                             Burun</persName> deltog <pb n="365"/> i Englands normanniske Erobring.
-                        Og da den nysnævnte <persName>Grandonkel</persName> mistede sin eneste
-                            <persName>Søn</persName> og i 1794 sin eneste
-                            <persName>Sønnesøn</persName>, var der al Udsigt til at hans Eiendom
+                        Og da den nysnævnte <persName key="william-5-lord-of-byron">Grandonkel</persName> mistede sin eneste
+                            <persName key="0">Søn</persName> og i 1794 sin eneste
+                            <persName key="0">Sønnesøn</persName>, var der al Udsigt til at hans Eiendom
                             <ref target="n"/>Newstead<!-- LEMMA SLUT --> og med den hans <ref target="n"/>Pairstitel og Pairsrettigheder<!-- LEMMA SLUT --> vilde
                         tilfalde det lille Barn, som han aldrig havde seet, men som han pleiede at
                         kalde <ref target="n"/>»den lamme Dreng, der boer i
@@ -8779,13 +8779,13 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         fordi han havde plettet sin nye Bluse, svarede han intet Ord, men bleg som
                         Døden greb han sig med begge Hænder foran i Brystet, og rev i et af sine
                         (senere ikke sjeldne) Anfald af stumt Raseri Blusen i Stykker fra øverst til
-                        nederst. <persName>Moderens</persName> Opdragelse var af den Art, at hun
+                        nederst. <persName key="catherine-byron">Moderens</persName> Opdragelse var af den Art, at hun
                         snart overøste Barnet med Skjældsord, snart med de heftigste Kjærtegn, snart
-                        lod det høre ilde for den Uret, dets <persName>Fader</persName> havde gjort
+                        lod det høre ilde for den Uret, dets <persName key="john-byron-1756-1791">Fader</persName> havde gjort
                         mod hende, snart endog for dets Legemsfeil. Hun har saaledes sin Del af
                         Skylden for, at denne Legemsfeil strax kastede en mørk Skygge over den lille
-                            <persName>Geordie’s</persName> Sind; han hørte sig kaldt Krøbling af sin
-                            <persName>Moders</persName> Læber. Ved orthopædiske Maskiner og Bandager
+                            <persName key="george-gordon-byron">Geordie’s</persName> Sind; han hørte sig kaldt Krøbling af sin
+                            <persName key="catherine-byron">Moders</persName> Læber. Ved orthopædiske Maskiner og Bandager
                         havde man forværret Ondet; Foden smertede og den stolte lille Dreng anvendte
                         al sin Villieskraft paa at skjule denne Smerte og Besværligheden ved Gangen.
                         Undertiden taalte han ingen <pb n="366"/> Hentydning til sin Vanførhed,
@@ -8796,7 +8796,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             <ref target="n"/>Han siger selv, at han ikke 10 Aar gammel havde læst
                         mere end sex store Værker over Tyrkiet, desuden Reiser og arabiske
                         Eventyr<!-- LEMMA SLUT -->. Hans Yndlingsroman som lille Dreng var
-                            »<bibl>Zeluco</bibl>« af <persName>John Moore</persName>, hvis Helt ved
+                            »<bibl>Zeluco</bibl>« af <persName key="john-moore">John Moore</persName>, hvis Helt ved
                         Moderens slette Opdragelse efter Faderens Død bringes til at hengive sig til
                         ethvert Lune, og hvis Temperament tilsidst bliver <ref target="n"/>»saa
                         fængeligt som Krudt«<!-- LEMMA SLUT -->. Barnet saae sig i Speil i denne om
@@ -8804,7 +8804,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Blandt de Egenskaber, der skulde spille en afgjørende Rolle i Digterens Liv
                         viste den lidenskabelige Tiltrækning til det andet Kjøn sig allerede hos
                         Barnet. Kun fem Aar gammel blev han saa heftigt forelsket i en lille Pige,
-                            <persName>Mary Duff</persName>, at han, da han 11 Aar efter erfarede
+                            <persName key="mary-duff">Mary Duff</persName>, at han, da han 11 Aar efter erfarede
                         hendes Giftermaal, blev som lynslagen ved Efterretningen.</p>
                     <p> Til Stoltheden, Lidenskabeligheden, Melancholien og den phantastiske
                         Reiselængsel kom som det afgjørende Charaktertræk en brændende
@@ -8814,16 +8814,16 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Formerne for hans Sandhedskærlighed. En Anekdote fra hans Barndom viser,
                         hvor tidligt Sandheden brændte ham som en Glød paa Tungen. Da Tjenestepigen
                         en Dag havde taget Barnet med i Theatret for at see
-                            <persName>Shakespeare’s</persName> »<bibl>Taming of a shrew</bibl>«, og
+                            <persName key="william-shakespeare">Shakespeare’s</persName> »<bibl>Taming of a shrew</bibl>«, og
                         man var kommen til det Sted, hvor <persName type="fictional">Catharina</persName> siger <ref target="n"/>»Det er jo
                         Maanen«<!-- LEMMA SLUT -->, og <persName type="fictional">Petruchio</persName> for at tæmme hende svarer <ref target="n"/>»Hvor
                         Du lyver! det er jo den kjære Sol«<!-- LEMMA SLUT -->, sprang den lille
-                            <persName>Geordie</persName> indigneret over denne Usandhed op og raabte
+                            <persName key="george-gordon-byron">Geordie</persName> indigneret over denne Usandhed op og raabte
                         til Skuespilleren: <ref target="n"/>»Og jeg siger Dem, Sir, at det er dog
                         Maanen.«<!-- LEMMA SLUT -->
                     </p>
-                    <p> Da George var 10 Aar gammel, døde hans <persName>Grandonkel</persName>.
-                        Barnets første Bevægelse var at løbe ind til sin <persName>Moder</persName>
+                    <p> Da George var 10 Aar gammel, døde hans <persName key="william-5-lord-of-byron">Grandonkel</persName>.
+                        Barnets første Bevægelse var at løbe ind til sin <persName key="catherine-byron">Moder</persName>
                         og spørge om hun ingen Forandring kunde bemærke paa ham, siden han var
                         bleven Lord. Da næste Morgen Eleverne i Skolen bleve raabte op og hans Navn
                         under hans Kammeraters Jubel blev ledsaget af Titelen Dominus, var
@@ -8837,18 +8837,18 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         udrustet med en næsten uindskrænket politisk og social Indflydelse, ansees
                         neppe ringere end en regjerende Fyrste, og i Almindelighed svarer hans
                         Rigdom til hans Rang; dette var dog her ikke Tilfældet; thi
-                            <persName>Byron</persName> var formueløs og <ref target="n"/>Newstead
+                            <persName key="george-gordon-byron">Byron</persName> var formueløs og <ref target="n"/>Newstead
                         Abbedi<!-- LEMMA SLUT --> forfaldent og dybt forgjældet.</p>
                     <p>
-                        <ref target="n"/>I Efteraaret 1798 begav <persName>Mrs. Byron</persName> sig
+                        <ref target="n"/>I Efteraaret 1798 begav <persName key="catherine-byron">Mrs. Byron</persName> sig
                         paa Reisen til <ref target="n"/>Newstead<!-- LEMMA SLUT --> med sin lille
-                            <persName>Søn</persName>. Da de kom til Bomhuset foran <ref target="n"/>Newstead<!-- LEMMA SLUT -->, lod <persName>Moderen</persName> som om hun
+                            <persName key="george-gordon-byron">Søn</persName>. Da de kom til Bomhuset foran <ref target="n"/>Newstead<!-- LEMMA SLUT -->, lod <persName key="catherine-byron">Moderen</persName> som om hun
                         ikke kjendte Stedet og spurgte Konen ved Bommen, hvem Parken og Slottet
-                        tilhørte. Konen svarte, at den sidste <persName>Eier</persName> af Abbediet
+                        tilhørte. Konen svarte, at den sidste <persName key="william-5-lord-of-byron">Eier</persName> af Abbediet
                         var død for nogle Maaneder siden. – Og hvem er hans Arving? spurgte hun i
                         sin Lykke. – Det skal være en lille Dreng, som boer i
                             <placeName>Aberdeen</placeName>. – Da kunde Tjenestepigen ikke længer
-                        holde sin Glæde tilbage. Hun kyssede den lille <persName>George</persName>,
+                        holde sin Glæde tilbage. Hun kyssede den lille <persName key="george-gordon-byron">George</persName>,
                         som hun havde paa Skjødet og raabte triumpherende: »Og ham er det, og Gud
                         velsigne ham!«<!-- LEMMA SLUT -->
                     </p>
@@ -8860,30 +8860,30 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Skolevenskaber,« siger han i sin Dagbog fra <pb n="369"/> 1821,
                         »<!-- tilføjet cit.tegn -->vare Lidenskaber; thi jeg var altid
                         voldsom.«<!-- LEMMA SLUT --> Han var som Ven altid ædelmodig og helst
-                        Beskytter. Da <persName>Peel</persName>, den senere Minister, en Dag blev
+                        Beskytter. Da <persName key="robert-2-baronet-peel">Peel</persName>, den senere Minister, en Dag blev
                         ubarmhjertigt pryglet af en større Dreng, hvis <ref target="n"/>Fag<!-- LEMMA SLUT --> han var, blev hans Plageaand af
-                            <persName>Byron</persName> afbrudt med en Bøn om at turde faae Halvdelen
-                        af de Kammeraten tiltænkte Slag. Da den lille <persName>Lord Gort</persName>
+                            <persName key="george-gordon-byron">Byron</persName> afbrudt med en Bøn om at turde faae Halvdelen
+                        af de Kammeraten tiltænkte Slag. Da den lille <persName key="john-vereker-3-viscount-gort">Lord Gort</persName>
                         af en yngre Lærer var bleven brændt med et glødende Jern i Haanden til Straf
                         for at han havde ristet hans Franskbrød daarligt, og Drengen, da Sagen blev
                         undersøgt, haardnakket vægrede sig ved at nævne Gjerningsmanden, tilbød
-                            <persName>Byron</persName> ham at blive <ref target="n"/>Fag<!-- LEMMA SLUT --> hos ham istedenfor hos Læreren med det Løfte, at
+                            <persName key="george-gordon-byron">Byron</persName> ham at blive <ref target="n"/>Fag<!-- LEMMA SLUT --> hos ham istedenfor hos Læreren med det Løfte, at
                         han saa ikke behøvede at frygte for Mishandling. <ref target="n"/>»Jeg blev
-                        hans <ref target="n"/>Fag<!-- LEMMA SLUT -->,« siger <persName>Lord
-                            Gort</persName> (se <persName>Grevinde Guiccioli’s</persName>
+                        hans <ref target="n"/>Fag<!-- LEMMA SLUT -->,« siger <persName key="john-vereker-3-viscount-gort">Lord
+                            Gort</persName> (se <persName key="teresa-guiccioli">Grevinde Guiccioli’s</persName>
                         <bibl>Memoirer</bibl>), »<!-- tilføjet cit.tegn -->og var yderst lykkelig
                         over at have faaet saa god og ædelmodig en Herre, der bestandig forærede mig
                         Kager og Slikkerier og altid bar over med mine Feil.«<!-- LEMMA SLUT --> Til
                         sin <ref target="n"/>Yndlingsfag<!-- LEMMA SLUT -->, <persName>Hertugen af
-                            Dorset</persName> har <persName>Byron</persName> i sine »<bibl>Hours of
+                            Dorset</persName> har <persName key="george-gordon-byron">Byron</persName> i sine »<bibl>Hours of
                             idleness</bibl>« henvendt smukke Vers til Erindring om Skolelivet.</p>
-                    <p> Naar <persName>Byron</persName> i Ferietiden var hjemme, vedblev
-                            <persName>Moderen</persName> sin ustyrlige Færd overfor ham, men
+                    <p> Naar <persName key="george-gordon-byron">Byron</persName> i Ferietiden var hjemme, vedblev
+                            <persName key="catherine-byron">Moderen</persName> sin ustyrlige Færd overfor ham, men
                         istedenfor at være bange for hende, kunde han ikke lade være at lee af den
                         lille tykke Kones Lidenskabelighed. Ikke nok med at hun slog Tallerkener og
                         Kopper i Stykker; stundom drev <pb n="370"/> hun ogsaa Sønnen paa Flugt med
                         Ildrageren og Kniven<note place="bottom">Forholdet mellem Moder og Søn er af
-                                <persName>D’Israeli</persName>, Englands nuværende Førsteminister,
+                                <persName key="benjamin-disraeli-beaconsfield">D’Israeli</persName>, Englands nuværende Førsteminister,
                             skildret i Romanen »<bibl>Venetia</bibl>« paa en saa sand og levende
                             Maade, at jeg med Forandring af de opdigtede Navne (<persName type="fictional">Cadurcis</persName>, <persName type="fictional">Plantagenet</persName>, <persName type="fictional">Morpeth</persName> o. s. v.) til de rette anfører en sammentrængt
                             Scene af denne Bog. Vi tænke os en Formiddag paa Herresædet
@@ -8896,32 +8896,32 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             hvis Glimt nu og da paa en behagelig Maade oplive et Ansigt, der i
                             Almindelighed har et sky og utilfreds Udtryk. Det er et første Besøg.
                             Man kommer ind træt og varm efter Kjørslen. En skrækkelig Reise! udbrød
-                                <persName>Mrs. Byron</persName>, viftende sig, idet hun tog Plads,
-                            og i den Grad hed! <persName>George</persName>, min Skat, buk for Fruen;
+                                <persName key="catherine-byron">Mrs. Byron</persName>, viftende sig, idet hun tog Plads,
+                            og i den Grad hed! <persName key="catherine-byron">George</persName>, min Skat, buk for Fruen;
                             har jeg ikke altid sagt dig, at du skulde bukke, naar du kom ind i en
                             Stue? Buk for <persName>Mrs. Chaworth</persName>! – Drengen gav et Slags
                             fortrædeligt Nik; men <persName>Mrs. Chaworth</persName> tog saa
                             hjerteligt imod ham, at hans Træk opklaredes en Smule, skjøndt han
                             forholdt sig ganske taus og sad paa Randen af sin Stol som et Billede
                             paa haardnakket Ligegyldighed. – En yndig Egn, <persName>Mrs.
-                                Chaworth</persName>, sagde <persName>Mrs. Byron</persName> […]
+                                Chaworth</persName>, sagde <persName key="catherine-byron">Mrs. Byron</persName> […]
                                 <placeName>Annesley</placeName> er et deiligt Sted, meget
                             forskjelligt fra Abbediet, men skrækkeligt ensomt er her. Det er en stor
                             Forandring for os, der komme fra en lille By og alle vore venlige
                             Naboer. Meget forskjelligt fra <placeName>Dulwich</placeName> – er det
                             ikke, George? – Jeg hader <placeName>Dulwich</placeName>, sagde Drengen.
-                            – Hade <placeName>Dulwich</placeName>, raabte <persName>Mrs.
+                            – Hade <placeName>Dulwich</placeName>, raabte <persName key="catherine-byron">Mrs.
                                 Byron</persName>, naa det maa jeg kalde Utaknemmelighed mod alle de
-                            kjære Venner. Desuden, <persName>George</persName>, har jeg ikke sagt
+                            kjære Venner. Desuden, <persName key="george-gordon-byron">George</persName>, har jeg ikke sagt
                             dig, at du ikke maa hade Nogen? Aa De troer ikke, <persName>Mrs.
                                 Chaworth</persName>, hvad Møie det koster at opdrage det Barn, men
                             naar han vil, kan han være saa artig som Nogen. Kan du ikke,
-                                <persName>George</persName>? – <persName>Lord Byron</persName>
+                                <persName key="george-gordon-byron">George</persName>? – <persName key="george-gordon-byron">Lord Byron</persName>
                             smilte haanligt, satte sig helt tilbage i den dybe Stol og svingede frem
                             og tilbage med sine Fødder, der ikke mere naaede Gulvet. – Jeg er sikker
-                            paa, at <persName>Lord Byron</persName> altid er artig, sagde
+                            paa, at <persName key="george-gordon-byron">Lord Byron</persName> altid er artig, sagde
                                 <persName>Mrs. Chaworth</persName>. – Naa,
-                                <persName>George</persName>, sagde <persName>Mrs. Byron</persName>,
+                                <persName key="george-gordon-byron">George</persName>, sagde <persName key="catherine-byron">Mrs. Byron</persName>,
                             hør blot hvad der blev sagt. Hør hvad <persName>Mrs. Chaworth</persName>
                             siger. Pas nu paa aldrig at give Fruen Anledning til at skifte Mening. –
                                 <persName>George</persName> krummede sin Læbe og vendte halvveis
