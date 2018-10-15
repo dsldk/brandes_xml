@@ -21,7 +21,11 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
+    
         <profileDesc>
+            <creation>
+                <placeName>empty</placeName>
+            </creation>
             <abstract>
                 <ab>Erster Band der Hauptströmungen ... von Georg Brandes (1872)</ab>
             </abstract>
@@ -34,6 +38,7 @@
                 </keywords>
             </textClass>
         </profileDesc>
+
     </teiHeader>
     <text>
         <front>
@@ -41,32 +46,34 @@
                 <pb ed="A" n="[I]" facs="xyz"/>
 
                 <docTitle>
-                    <titlePart>Die Hauptströmungen der Literatur des neunzehnten
-                        Jahrhunderts.</titlePart>
+                    <titlePart>Die Hauptströmungen<lb/>der<lb/>Literatur des neunzehnten Jahrhunderts.</titlePart>
                     <lb/>
                     <lb/>
-                    <titlePart type="desc">Vorlesungen, <lb/>gehalten an der Kopenhagener
-                        Universität<lb/>von</titlePart>
+                    <titlePart type="desc">Vorlesungen,<lb/>gehalten an der Kopenhagener Universität<lb/>von</titlePart>
                 </docTitle>
                 <byline>G. Brandes</byline>
                 <docTitle>
-                    <titlePart type="desc">Uebersetzt und eingeleitet von<lb/>Adolf
-                        Strodtmann.</titlePart>
-                    <titlePart type="sub">Erster Band: Die Emigrantenliteratur. <lb/></titlePart>
+                    <titlePart type="desc">Uebersetzt und eingeleitet von<lb/>Adolf Strodtmann.</titlePart>
+                    <titlePart type="sub">Erster Band: Die Emigrantenliteratur.</titlePart>
                     <lb/>
                     <lb/>
-                    <titlePart type="desc">Einzig autorisirte deutsche Ausgabe.<lb/>
-                        <lb/></titlePart>
+                    <titlePart type="desc">Einzig autorisirte deutsche Ausgabe.</titlePart>
                 </docTitle>
+  <lb/>
 
-                <docImprint><pubPlace>Berlin.</pubPlace><publisher>Verlag von Franz
-                        Duncker.</publisher><docDate>1872</docDate></docImprint>
+                <docImprint><pubPlace>Berlin.</pubPlace>
+                    <publisher>Verlag von Franz Duncker.</publisher>
+                    <docDate>1872</docDate>
+                </docImprint>
 
             </titlePage>
-
+            
+<!-- her har originalen bindets indholdsfortegnelse p. [III}-[IV] -->
+            
             <div type="preface">
-                <pb ed="A" n="[V]" facs="xyz"/>
-                <head>Vorwort des Herausgeber</head>
+                
+                <head type="add">Vorwort des Herausgebers</head>
+                <head><pb ed="A" n="[V]" facs="xyz"/><!-- forberedt til facsimile-vining; skal muligvis ikke bruges; aftalt med TH, at vi p.t. lader dem står --> Vorwort des Herausgebers</head>
                 <p>Bücher haben ihre Schicksale. Auch das Werk, dessen ersten Band ich hier dem
                     deutschen Publikum vorlege, hat bereits seine Geschichte. Es rief in der Heimat
                     seines Verfassers einen Sturm leidenschaftlicher Angriffe hervor, deren letzte
@@ -204,7 +211,7 @@
                     und von dort in mißtönendem Echo zurück klingt. Vom Redakteur des Schmutzblattes
                     »Heimdal« bis zum ehrwürdigen Bischof Monrad hinauf schwingt Alles den <pb
                         n="XII" facs="nil"/> Flamberg »sittlicher Entrüstung«, um »bis auf den
-                    letzten Mann« die »gesellschastsauflösenden Tendenzen-« des Dr. Brandes zu
+                    letzten Mann« die »gesellschastsauflösenden Tendenzen« des Dr. Brandes zu
                     bekämpfen, der die Sache der freien Forschung in der Wissenschaft, der freien
                     Entfaltung der Humanität in der Dichtung vertritt. Kein Mittel der Verleumdung
                     und boshasten Verdächtigung ist niedrig genug, um von seinen Gegnern verschmäht
@@ -238,6 +245,7 @@
                     ausländischen Literaturen vorzugsweise für die Fortbildung der heimischen Poesie
                     fruchtbar zu machen sucht, wie vor Allem auch Ton und Haltung des vorliegenden
                     Werkes jedem unbefangenen Leser bekunden.</p>
+                
                 <p> Diese ganze unredliche Art der Polemik gegen die von den edelsten Motiven
                     geleitete schriftstellerische Thätigkeit des Dr. Brandes beweist leider klar,
                     auf welchem niedrigen Standpunkte die Kritik in Dänemark steht, und wie sehr er
@@ -247,17 +255,7 @@
                     Kopenhagener Journale dem so meuchlerisch Angegriffenen das Recht der
                     Vertheidigung, sondern sie gehen so weit in ihrem wahnwitzigen Hasse, daß selbst
                     eine warme Erklärung zu Gunsten des Dr. Brandes, welche der edle Dichter C.
-                    Hauch auf seinem Todbette schrieb *), erst nach monatelanger Verzögerung, von
-                    allen Hauptblättern der Residenz zurückgewiesen, endlich in einem der letzten
-                    Hefte der »Neuen dänischen Monatsschrist« zum Abdruck gelangen konnte. Diese
-                    Zeitschrift war »zugleich die einzige, welche dem mißhandelten Schriftsteller
-                    nicht ihre Spalten verschloß. Er veröffentlichte dort unlängst ein satirisches
-                    Märchen, dessen Sinn nach dem Vorausgehenden keiner weiteren Erklärung
-                    bedarf:—</p>
-
-                <p rend="center"><emph>Die Geschichte vom kleinen Rothkäppchen.</emph></p>
-                <p> Es war einmal ein kleiner freier Gedanke. Da er gewöhnlich eine rothe Mütze
-                    trug, so nannte man ihn das kleine <note>*) Dieselbe lautet, wie folgt:
+                    Hauch auf seinem Todbette schrieb,<hi rend="sup">*)</hi><note place="bottom">Dieselbe lautet, wie folgt:
                         »Von'allen jungen Männern, mit denen ich zu der Zeit, während ich in
                         Kopenhagen Universitätsprofessor war, in Berührung gekommen bin, wüßte ich
                         Keineu, der an ästhetischer Begabung und an Kenntnissen in diesem Fache dem
@@ -266,8 +264,17 @@
                         welcher jetzt durch meinen Tod erledigt wird.« So mächtig aber war der
                         Einfluß der böswilligen Tagespresse, daß bei der Neubesetzung des
                         Lehrstuhles der Aesthetik nur ein einziger von allen Universitätsprosessoren
-                        den Muth besaß, dem Dr. Brandes seine Stimme zu geben.</note>
-                    <pb n="XV" facs="nil"/>Rothkäppchen. Eines schönen Tages, als sein Großvater,
+                        den Muth besaß, dem Dr. Brandes seine Stimme zu geben.</note> erst nach monatelanger Verzögerung, von
+                    allen Hauptblättern der Residenz zurückgewiesen, endlich in einem der letzten
+                    Hefte der »Neuen dänischen Monatsschrist« zum Abdruck gelangen konnte. Diese
+                    Zeitschrift war »zugleich die einzige, welche dem mißhandelten Schriftsteller
+                    nicht ihre Spalten verschloß. Er veröffentlichte dort unlängst ein satirisches
+                    Märchen, dessen Sinn nach dem Vorausgehenden keiner weiteren Erklärung
+                    bedarf:—</p>
+                
+                <p> <emph>Die Geschichte vom kleinen Rothkäppchen.</emph></p>
+                <p> Es war einmal ein kleiner freier Gedanke. Da er gewöhnlich eine rothe Mütze
+                    trug, so nannte man ihn das kleine <pb n="XV" facs="nil"/> Rothkäppchen. Eines schönen Tages, als sein Großvater,
                     die Gesellschaft, einige Veränderungen im Hause vorzunehmen gedachte, sagte er
                     zum kleinen Rothkäppchen: »Geh mein Kind, geh hin und sieh, wie Deine
                     Großmutter, die Freiheit, sich befindet, und bring ihr einen kräftigenden Trank
@@ -303,7 +310,7 @@
 
                 <p>»Um Sonntags besser die Predigten hören zu können.«</p>
 
-                <p><pb n="XVI" facs="nil"/>»Aber, Großmutter, ei, was für große Zähne hast Du!«</p>
+                <p><pb n="XVI" facs="nil"/> »Aber, Großmutter, ei, was für große Zähne hast Du!«</p>
 
                 <p>»Um Dich besser ausfressen zu können.«</p>
 
@@ -345,7 +352,7 @@
                     unters Gewehr zu rufen. Die Bajonette der gesammten Bürgerwehr vermögen nicht
                     einen Gedanken zu spießen.« — »Man stellt sich hier zu Lande«, sagt Dr. Brandes
                     an einer anderen Stelle seiner Vertheidigungsschrift, »den Freidenker als einen
-                    Menschen vor, welcher einen verzweifelten <pb n="XVIII" facs="nil"/>und
+                    Menschen vor, welcher einen verzweifelten <pb n="XVIII" facs="nil"/> und
                     verbrecherischen Kampf wider alles Höchste im Leben, wider Moral und Religion
                     kämpft. Ich für mein Theil denke: welche Ansicht man auch im Einzelnen über die
                     Moral hege, so muß man doch glauben, daß eine der wichtigsten Stützen der Moral
@@ -448,7 +455,7 @@
                         <emph>denken</emph> anders, als »die ungeheure Arbeit des
                     Menschengeschlechts von vorn beginnen?« — nicht in dem Sinne natürlich, daß das
                     denkende Individuum so gestellt würde, als wäre es der erste Mensch auf Erden,
-                    und auch nicht <pb n="XXIII" facs="nil"/>als würde mit einem absolut
+                    und auch nicht <pb n="XXIII" facs="nil"/> als würde mit einem absolut
                     voraussetzungslosen Denken begonnen, sondern in solcher Weise, daß das
                     Individuum ohne Rücksicht nach rechts oder nach links, ohne Rücksicht auf
                     officielle Autoritäten oder von Staat und Kirche patentirte Inhaber der fertigen
@@ -467,7 +474,7 @@
                     Produktivetät; man kann nicht fühlen, wenn man nicht erster Hand, selbständig
                     fühlt, man kann nicht als Künstler schaffen, wenn man nicht »ganz von vorn
                     beginnt.« Erst dann kommen Einem die Resultate der Andern zu Statten. Wer hier
-                    nicht von vorn beginnen will, Der ist, so ungern er <pb n="XXIV" facs="nil"/>es
+                    nicht von vorn beginnen will, Der ist, so ungern er <pb n="XXIV" facs="nil"/> es
                     hören mag, kein wahrer, kein wirklicher Mensch. Es ist das schöne und große
                     Vorrecht des Menschen, von vorn zu beginnen. Er überläßt es den Papageien, nach
                     dem Munde zu plappern, und den Affen, nachzuäffen. Es wundert mich, daß ein so
@@ -487,7 +494,7 @@
                     seine Ansichten geheim für sich zu behalten. Je stärkeren Drang er durch den
                     Verkehr mit jenen großen Geistern empfindet, sich selbst auf eigene Hand eine
                     Ueberzeugung zu bilden, desto sicherer mag er sein, daß die Gesellschaft um ihn
-                    her ihn wie einen Em-<pb n="XXV" facs="nil"/>pörer oder wie einen Feind
+                    her ihn wie einen Em<pb n="XXV" facs="nil"/>pörer oder wie einen Feind
                     behandeln wird, bis sie selber allmählich die Ueberzeugungen annimmt, welche er
                     vertritt.</p>
 
@@ -508,7 +515,7 @@
                     derselben zu erhalten, bis wir völlig erwachsen waren und uns selbst unseren Weg
                     suchen mußten. Andererseits konntet ihr uns nicht Scheuklappen vor die Augen
                     binden, noch uns Baumwolle in die Ohren stopfen. Das Geschlecht, zu welchem ihr
-                    redet, ist ein Geschlecht, das Feuerbach studirt <pb n="XXVI" facs="nil"/>. Und
+                    redet, ist ein Geschlecht, das Feuerbach studirt <pb n="XXVI" facs="nil"/> und
                     wieder studirt hat, das die vergleichende Mythologie entstehen sah, das der
                     religionsgeschichtlichen Kritik bei ihrem ersten großen Feldzuge gefolgt ist und
                     Zeuge ihrer Eroberungen war. Wir haben Strauß und Renan <emph>in succum et
@@ -550,11 +557,11 @@
                     geläuterten Humanitätsideales zu fördern, gleichsam zu einem dramatischen
                     Gemälde. Die sechs Literaturgruppen, in welche sein Stoff sich ihm gliedert,
                     entsprechen in der That ziemlich ungezwungen den sechs Akten eines großartigen
-                    Dramas. Schon diese Grup-<pb n="XXVIII" facs="nil"/>pirung läßt erkennen, daß
+                    Dramas. Schon diese Grup<pb n="XXVIII" facs="nil"/>pirung läßt erkennen, daß
                     er, ähnlich wie Hettner, vor Allem bemüht ist, die Wechselwirkung der Ideen in
                     den Literaturen der Hauptkulturvölker Europas nachzuweisen. Diese Absicht tritt
                     um so schärfer hervor, als er sich vorwiegend auf die Besprechung derjenigen
-                    Werke be- schränkt, in welchen die geistige Entwicklung der Menschheit zu einem
+                    Werke beschränkt, in welchen die geistige Entwicklung der Menschheit zu einem
                     wesentlich veränderten Standpunkte gelangt und durch die Aufstellung neuer
                     Ideale und Probleme, wenn auch oft auf seltsamen Umwegen, eine höhere Stufe
                     erklimmt. Da diese Entwicklung ihrer Natur nach keine einseitig nationale,
@@ -583,11 +590,11 @@
         </front>
         <body>
             <div>
-                <head><pb ed="A" n="[1]" facs="xyz"/>Einleitung.</head>
+                <head type="add">Einleitung</head>
+                <head><pb ed="A" n="[1]" facs="xyz"/> Einleitung.</head>
 
                 <p>Der Hauptgegenstand der nachfolgenden Vorträge ist die Reaktion, welche das
-                    neunzehnte Jahrhundert in seinen ersten Decennien gegen die Literatur des acht-
-                    zehnten ins Werk setzte, und die Ueberwindung dieser Reaktion.</p>
+                    neunzehnte Jahrhundert in seinen ersten Decennien gegen die Literatur des achtzehnten ins Werk setzte, und die Ueberwindung dieser Reaktion.</p>
 
                 <p>Dies historische Ereignis ist seinem Wesen nach europäisch und läßt sich nur
                     mittels einer vergleichenden Literaturbetrachtung verstehen. Eine solche will
@@ -621,7 +628,7 @@
                     ganze Geschichte seiner Anschauungen und Gefühle dar. Große Literaturen, wie die
                     englische und französische, enthalten solchermaßen eine genügende Anzahl
                     Dokumente, um aus denselben bestimmen zu können, wie das englische und das
-                        franzö-<pb n="3"/>sische Volk in jeder geschichtlichen Periode gedacht und
+                        franzö<pb n="3"/>sische Volk in jeder geschichtlichen Periode gedacht und
                     gefühlt hat. Andere Literaturen, wie z. B. die deutsche in ihrer zweiten
                     Blüthenperiode, welche erst ungefähr um die Mitte des vorigen Jahrhunderts
                     beginnt, sind in diesem Bezug wegen ihrer Unvollständigkeit nicht so
@@ -640,10 +647,9 @@
                     einer großen Kirche, sie hat ihren Altar, aber der Hauptaltar ist hier nicht zu
                     finden. Nicht genug also, daß es Zeiten giebt, von welchen man nicht weiß, wie
                     damals gedacht und gefühlt wurde, es giebt auch Zeiten, wo man gedacht und
-                    gefühlt hat, aber auf zweite Hand, <pb n="4" facs="130019387349_0037"/>schwächer
+                    gefühlt hat, aber auf zweite Hand, <pb n="4" facs="130019387349_0037"/> schwächer
                     und matter als anderswo. So geschieht es zuweilen, daß eine der großen
-                    europäischen Bewegungen uns erreicht, eine andere nicht. Ein Losungswort er-
-                    greift uns, ein anderes nicht. Ja, zuweilen, wenn wir gar nicht an der Aktion
+                    europäischen Bewegungen uns erreicht, eine andere nicht. Ein Losungswort ergreift uns, ein anderes nicht. Ja, zuweilen, wenn wir gar nicht an der Aktion
                     theilgenommen haben, deren breite Wogen unsere sandigen Ufer erst flach und
                     kraftlos erreichen, trifft es sich, daß wir in die Reaktion mit hinein
                     gerathen.</p>
@@ -662,7 +668,7 @@
                     theologischen Rationalismus. Hegel hat die schönen Worte gesprochen: »So lange
                     die Sonne am Firmamente stand, und so lange die Planeten sich um die Sonne
                     drehten, war es nicht erlebt worden, daß der Mensch sich auf den reinen Gedanken
-                    gestellt, man könnte<pb n="5" facs="130019387349_0038"/> sagen, sich auf den
+                    gestellt, man könnte <pb n="5" facs="130019387349_0038"/> sagen, sich auf den
                     Kopf gestellt und versucht hätte, die ganze Wirklichkeit nach seinem Kopfe
                     umzubilden und auszubauen. Alle früheren Revolutionen hatten lokale Zwecke
                     gehabt, erst diese wollte die Menschheit umschaffen.« Man kann nicht leugnen,
@@ -725,7 +731,7 @@
                     wie Heine, Börne und später Auerbach, von südischer Abstammung.</p>
 
                 <p>Ich glaube, wir Dänen können aus diesem großen Drama eine Lehre für uns felber
-                    ziehn. Wir sind nämlich <pb n="8" facs="130019387349_0041"/>diesmal, wie
+                    ziehn. Wir sind nämlich <pb n="8" facs="130019387349_0041"/> diesmal, wie
                     gewöhnlich, circa vierzig Jahre hinter dem übrigen Europa zurückgeblieben. Seit
                     lange schon hat in den Literaturen jener großen Hauptländer der Revolutionsstrom
                     seine Nebenflüsse aufgenommen und die Dämme gesprengt, welche ihm den Weg
@@ -734,8 +740,7 @@
                     Aber wir haben nur die Entwicklung unserer Literatur gehemmt.</p>
 
                 <p>Es wird kaum schwierig sein, ein übereinstimmendes Urtheil darüber zu erlangen,
-                    daß die dänische Literatur sich niemals in diesem Jahrhundert in einem so hin-
-                    siechenden Zustande befunden hat, wie in unseren Tagen. Die poetische Produktion
+                    daß die dänische Literatur sich niemals in diesem Jahrhundert in einem so hinsiechenden Zustande befunden hat, wie in unseren Tagen. Die poetische Produktion
                     ist so gut wie völlig erstorben, und kein Problem allgemein menschlicher oder
                     gesellschaftlicher Art vermag Interesse zu erwecken oder eine andere Diskussion
                     hervorzurufen, als in der Tagespresse und in der Tagesliteratur. Eine starke
@@ -747,7 +752,7 @@
                 <p>Daß eine Literatur in unseren Tagen lebt, zeigt sich dadurch, daß sie Probleme
                     zur Debatte bringt. So bringt z. B. George Sand die Ehe zur Debatte, Voltaire,
                     Byron und Feuerbach die Religion, Proudhon das Eigenthum, der jüngere Alexandre
-                    Dumas das Ver-<pb n="9" facs="130019387349_0042"/>hältnis zwischen den beiden
+                    Dumas das Ver<pb n="9" facs="130019387349_0042"/>hältnis zwischen den beiden
                     Geschlechtern, und Emile Augier die Gesellschaftsverhältnisse. Daß eine
                     Literatur Nichts zur Debatte bringt, heißt, daß sie im Begriffe steht, alle
                     Bedeutung zu verlieren. Das Volk, welches sie erzeugt, mag sich dann noch
@@ -758,8 +763,7 @@
                     unbedeutenden Stich gab.</p>
 
                 <p>Eine solche Gesellschaft kann noch manche Tugenden bewahren, den kriegerischen
-                    Muth zum Beispiel, aber diese Tugenden können nicht die Literatur aufrecht er-
-                    halten, wenn der intellektuelle Muth gesunken und entwichen ist. Jede
+                    Muth zum Beispiel, aber diese Tugenden können nicht die Literatur aufrecht erhalten, wenn der intellektuelle Muth gesunken und entwichen ist. Jede
                     stagnirende Reaktion ist tyrannisch, und wenn eine Gesellschaft sich allmählich
                     so entwickelt hat, daß sie unter der Maske der Freiheit die Züge der Tyrannei
                     trägt, wenn das öffentliche Aussprechen jeder rücksichtslos freisinnigen
@@ -768,7 +772,7 @@
                     hat, so werden natürlich weit ungewöhnlichere Bedingungen als sonst erforderlich
                     sein, um die Art von Anlagen und die Art von Charakteren zu bilden, auf denen
                     der Fortschritt eines Gemeinwesens beruht. Wenn eine solche Gesellschaft nun
-                    eine Art von Poesie erzeugt, <pb n="10" facs="130019387349_0043"/>so kann man
+                    eine Art von Poesie erzeugt, <pb n="10" facs="130019387349_0043"/> so kann man
                     sich nicht allzu sehr darüber wundern, daß ihr wesentlicher Inhalt darin
                     besteht, ihr Zeitalter zu verhöhnen und zu schmähen. Eine solche Poesie wird den
                     Menschen ihres Zeitalters immer und immer wieder einen erbärmlichen Wicht
@@ -787,8 +791,8 @@
                     einer Literatur die neuen Gedanken zurückdrängt, und wenn die Gesellschaft von
                     welcher sie ausgegangen ist, wohl zu merken, nicht, wie die englische z. B.,
                     sich tagtäglich wegen ihrer Heuchelei und Konvenienz hat müssen anklagen,
-                    verhöhnen, ja verwünschen hören, sondern im Gegentheil<pb n="11"
-                        facs="130019387349_0044"/>von ihrer Freisinnigkeit überzeugt ist und man ihr
+                    verhöhnen, ja verwünschen hören, sondern im Gegentheil <pb n="11"
+                        facs="130019387349_0044"/> von ihrer Freisinnigkeit überzeugt ist und man ihr
                     täglich um deswillen ein Weihrauchfaß vor der Nase schwingt, so sind bei denen,
                     welche sonst vielleicht der Literatur neues Blut einflößen könnten, besondere
                     Eigenschaften und besondere Verhältnisse erforderlich. Ein Soldat bedarf keines
@@ -808,7 +812,7 @@
                     Literatur hervor. Dieselbe handelt nicht von unserm Leben, sondern von unseren
                     Träumen. Dieser Idealismus hat, wie der Idealismus und die Scheu vor der
                     Wirklichkeit in allen Literaturen, seine Ursache darin, daß unsere Poesie
-                    sichunter einem politisch jammervollen und ge-<pb n="12"
+                    sichunter einem politisch jammervollen und ge<pb n="12"
                         facs="130019387349_0045"/>brochenen Zustande als eine Art Trost in der
                     Widerwärtigkeit des realen Lebens, als eine Art geistiger Eroberung entwickelte,
                     die uns trösten sollte über die materiellen Verluste. Aber sie hat einen
@@ -829,7 +833,7 @@
                     zwischen Schleiermacher’s Freisinnigkeit und Mynsters Orthodoxie! Und Schritt
                     für Schritt haben wir uns vom Rationalismus entfernt, ohne ihn aufzunehmen oder
                     ihn weiter zu bilden. Clausen war eine Zeitlang der Wortführer desselben, aber
-                    er ist <pb n="13" facs="130019387349_0046"/>es nicht mehr. Auf Heiberg folgt
+                    er ist <pb n="13" facs="130019387349_0046"/> es nicht mehr. Auf Heiberg folgt
                     Martensen, und Martensens »Spekulative Dogmatik« wird von der »Christlichen
                     Dogmatik« abgelöst. In Oehlenschlägers Dichtungen weht noch ein
                     rationalistischer Hauch, aber das Geschlecht Oehlenschlägers und Oersted’s zeugt
@@ -853,7 +857,7 @@
                     Ueberlieferungen, den Fortschritt möglich Und die Menschheit glücklich machen
                     wollte.</p>
 
-                <p>Mit solchen Typen hinter sich beginnt unsere dänische Literatur. Bildet es sie
+                <p>Mit solchen Typen hinter sich beginnt unsere dänische Literatur. Bildet es sie<!-- Tekstrettelseslisten bag i bindet retter her: sie > sie dieselben; efter aftale rettes ikke -->
                     weiter? Man kann das nicht sagen. Denn woran würde der Fortschritt beruhen? Er
                     beruht auf Dem, was seither geschehen ist. Es ist nicht in dieser Form gedruckt
                     worden, aber ich will es hier aussprechen. Eines schönen Tages, als Werther wie
@@ -871,7 +875,7 @@
                     Recht der Poesie und der Naivetät, zu existiren und zu siegen. Es ist eine
                     Dichtung über die Dichtung, es ist die Poesie, welche ihr eigenes Recht geltend
                     macht, die Poesie, welche sich selbst im Spiegel beschaut und verwundert ihre
-                        eigene<pb n="15" facs="130019387349_0048"/> Schönheit erblickt, ein Thun,
+                        eigene <pb n="15" facs="130019387349_0048"/> Schönheit erblickt, ein Thun,
                     das sie nicht dauernd fortsetzen kann, ohne zur Strafe dafür ein schlasfer und
                     wollüstiger Narcissus zu werden. Und noch ein Zug: Aladdin ist das Genie, und
                     mit der ganzen sublimen Kühnheit des göttlich begabten Geistes entthront
@@ -882,7 +886,7 @@
                     welcherlei geniale Naturen passt dies Bild? Aus Geister vielleicht wie
                     Oehlenschläger selbst oder wie sein Zeitgenosse Lamartine, aber sicherlich nicht
                     auf Geister wie Shakspeare, wie Leonardo, wie Michel Angelo, Beethoven, Goethe
-                    und Schiller, Hugo und Byron am allerwenigsten auf Napoleon, der viel- leicht am
+                    und Schiller, Hugo und Byron am allerwenigsten auf Napoleon, der vielleicht am
                     unmittelbarsten den Anlaß zu »Aladdin« gegeben hat. Denn das Genie ist nicht der
                     geniale Müßiggänger, sondern der geniale Arbeiter, und die angeborenen Gaben
                     sind nur das Werkzeug, nicht das Werk.</p>
@@ -892,7 +896,7 @@
                     Stärke der Phantasie erschaffen zu sein, daß sie antik wären, doch unserm
                     Zeitalter allzu fern stehen, um ein wirkliches Verhältnis zu demselben zu haben.
                     Bei all’ ihrer Schönheit sind sie zu abstrakt und ideal, um mehr als <pb n="16"
-                        facs="130019387349_0049"/>unvollkommen die Zeit abzuspiegeln, in welcher sie
+                        facs="130019387349_0049"/> unvollkommen die Zeit abzuspiegeln, in welcher sie
                     entstanden, und ihre praktische Wirkung auf die Gemüther ist schon dadurch stark
                     begrenzt, daß sie sich ja als Vorzeitsideale ankündigen. Es ist nicht mehr der
                     Seeleninhalt der modernen Zeit, der sich in ihnen formen will; mit Bewußtsein
@@ -911,7 +915,7 @@
                     Mittelalter behandelt, nachdem jene unsere Vorzeit behandelt haben. Ich meine
                     Ingemann’s Romane. Die Lebenserfahrung und das Lebensstudium, worauf diese Werke
                     beruhen, ist äußerst gering. Sie behalten einen anderen Werth; aber zum Leben
-                    haben sie kein oder fast <pb n="17" facs="130019387349_0050"/>gar kein
+                    haben sie kein oder fast <pb n="17" facs="130019387349_0050"/> gar kein
                     Verhältnis, obschon sie zu den Büchern gehören, welche im Uebrigen die größte
                     praktische Wirkung geübt haben. Sie gehören dem aus Schottland eingesührten
                     verfehlten und jetzt verlassenen Genre des historischen Romanes an, das von
@@ -957,8 +961,7 @@
                     und der abstrakt karikirten, auszudrücken. Auf all’ jene positiven Gestalten
                     folgt eine Reihe negativer Bilder. Heiberg sammelt die Charakterzüge aus all’
                     seinen Baudevilles zu einem Bilde des Kopenhagener Spießbürgers in dem Gedicht
-                    »Eine Seele nach dem Tode« <note>«) Deutsch von F. A. Leo. Berlin. 1861.
-                        2I</note>), und Paludan-Müller schreibt sein Meisterwerk »Adam Homo«, streng
+                    »Eine Seele nach dem Tode«,<hi rend="sup">*)</hi><note place="bottom">Deutsch von F. A. Leo. Berlin. 1861.</note> und Paludan-Müller schreibt sein Meisterwerk »Adam Homo«, streng
                     genommen der einzige wirklich typische und für einen Fremden lehrreiche dänische
                     Roman. Derselbe verdichtet gleichsam die ganze Schlafsheit und Nichtswürdigkeit
                     der europäischen Reaktionszeit zu einer Essenz. Adam Homo ist der Mensch im
@@ -994,7 +997,7 @@
                     entgegen und nimmt die Richtung nach Byzanz. Denn außerhalb dieser Bewegung sind
                     alle Bewegungen byzantinisch. In der Wissenschaft byzantinische Scholastik, in
                     der Poesie Gestalten und Geister, die nicht <pb n="21" facs="130019387349_0054"
-                    />mehr Gestalten und Geistern ähnlich sind, einsörmig und abstrakt.«</p>
+                    /> mehr Gestalten und Geistern ähnlich sind, einsörmig und abstrakt.«</p>
 
                 <p>Gebt einem Sirius-Bewohner, der nur unsere klassische moderne Poesie durchgelesen
                     hat, ein Paar ausländische Dramen in die Hand, z. B. Alexandre Dumas’ »Le fils
@@ -1015,7 +1018,7 @@
                     die Logik eben so erfolgreich zu Ehren, wie Jener die Poesie, er emancipirte die
                     ästhetische Kritik von dem Gefühlsraisonnement und eroberte der Philosophie ein
                     neues Gebiet. Dann kam das erste Verlangen nach <pb n="22"
-                        facs="130019387349_0055"/>politischer Freiheit. Aber die Bannerführer der
+                        facs="130019387349_0055"/> politischer Freiheit. Aber die Bannerführer der
                     Literatur antworteten: Was ruft ihr nach politischer Freiheit? Die wahre
                     Freiheit ist die eigene innere Freiheit des Willens, die zu erringen ist euch
                     stets erlaubt, und die andere ist, wenn ihr jene habt, ohne alle Bedeutung.</p>
@@ -1034,14 +1037,14 @@
                     Kanälen die Strömungen, welche ihren Quell in der Revolution und den
                     Fortschrittsideen haben, in unser Land zu leiten und der Reaktion auf allen
                     Punkten Einhalt zu thun, wo ihre Aufgabe historisch beendet ist.</p>
-            </div>
+            </div><!-- afslutter indl. -->
 
-            <div>
-
-                <head><pb n="[23]" facs="130019387349_0064"/>Die Emigrantenliteratur.</head>
-
-                <div>
-                    <p><pb n="[25]" facs="130019387349_0064"/>Die Franzosen waren es, welche am
+            
+                <div><!-- begynder del 1 -->
+                    <head type="add">Die Emigrantenliteratur</head>
+                    <head type="original"><pb n="[23]" facs="130019387349_0064"/> Die Emigrantenliteratur.</head>
+                <pb/>
+                    <p><pb n="[25]" facs="130019387349_0064"/> Die Franzosen waren es, welche am
                         Schlusse des achtzehnten Jahrhunderts die politischen Zustände und die
                         Sitten revolutionirten. Die Deutschen waren es, welche die literarischen
                         Ideen reformirten. Frankreich bot von jeher den Gegensatz eines Landes, das,
@@ -1056,7 +1059,7 @@
                         Alexandrinerverse den Kampf zu erklären, ehe man die Autorität Corneille’s
                         und Boileau’s anzutasten oder daran zu zweifeln wagte, daß die Beobachtung
                         der drei Einheiten im Drama zur Rettung des guten Geschmacks absolut
-                        nothwendig sei.<pb n="26" facs="130019387349_0059"/> Voltaire, der vor Wenig
+                        nothwendig sei. <pb n="26" facs="130019387349_0059"/> Voltaire, der vor Wenig
                         zwischen Himmel und Erde Respekt hat, respektirt die Alexandriner. Er stellt
                         die ganze Tradition auf den Kopf, er verwendet die Tragödie als
                         Angriffswaffe wider die Mächte, deren beste Stütze sie vor ihm gewesen
@@ -1078,7 +1081,7 @@
                         die gutmüthigen Leute, von denen man in Frankreich kaum mehr wußte, als daß
                         sie ihr Bier tranken, ihre Pfeife rauchten und ihr Sauerkraut in der
                         Ofenecke aßen, daß sie sich friedlich von einem Paar Dutzend <pb n="27"
-                            facs="130019387349_0060"/>stupider Duodeztyrannen quälen ließen, daß sie
+                            facs="130019387349_0060"/> stupider Duodeztyrannen quälen ließen, daß sie
                         ohne die mindeste unvernünftige Gleichheitssucht in tiefster Ehrfurcht ihre
                         Vorgesetzten »Rath« und »Graf« etc. titulirten, daß sie nur Krieg führten,
                         um Prügel zu bekommen, daß sie im Uebrigen patriarchalisch mit ihren
@@ -1099,7 +1102,7 @@
                         Kaiserreichs, welche alle Volksstämme Europas durch einander rüttelten,
                         lehrten sie gleichzeitig einander kennen. Aber am gründlichsten von den
                         fremden Umgebungen beeinflußt wurde doch diejenige Menschenklasse, welche
-                        durch all’ jene großen <pb n="28" facs="130019387349_0061"/>Ereignisse sich
+                        durch all’ jene großen <pb n="28" facs="130019387349_0061"/> Ereignisse sich
                         zu einem festen und langjährigen Aufenthalte außerhalb des Vaterlandes
                         gezwungen sah. Die Einwirkung eines fremden Geistes, welche bei dem Soldaten
                         flüchtig und vorübergehend war, wurde dauernd und bedeutungsvoll für den
@@ -1143,7 +1146,7 @@
                         der That fast alle großen literarischen Bewegungen am Ende des achtzehnten
                         und Anfange des neunzehnten Jahrhunderts zurück. Von ihm gehen in
                         Deutschland Herder, Kant, Fichte, Jacobi, Goethe, Jean Paul, Schiller <pb
-                            n="30" facs="130019387349_0063"/>und Tieck aus, in Frankreich
+                            n="30" facs="130019387349_0063"/> und Tieck aus, in Frankreich
                         Saint-Pierre, Robespierre, Diderot, Chateaubriand, Frau von Staël und George
                         Sand; von ihm geht in England Einer aus, dessen Name für Hunderte zählt:
                         Byron. Während Voltaire besonders auf die Geister im Allgemeinen wirkt, ist
@@ -1163,10 +1166,11 @@
                         welchem das absolute Kaiserreich hervorging, ein Verhältnis zum achtzehnten
                         Jahrhundert bewahrte und sich auf ursprünglich französische Voraussetzungen
                         stützen konnte.</p>
-                </div>
+                
 
                 <div>
-                    <head type="sub"><pb n="[31]" facs="130019387349_0064"/>1.</head>
+                    <head type="add">1. Rousseau's »Neue Héloise«</head>
+                    <head type="sub"><pb n="[31]" facs="130019387349_0064"/> 1.</head>
                     <p> Betrachten wir zum Beispiel eins der Hauptwerke der reaktionären Literatur.
                         Was das achtzehnte Jahrhundert hatte von Grund aus zerstören wollen, war mit
                         Einem Worte das Mittelalter. Ihm war das Mittelalter nur ein anderes Wort
@@ -1248,10 +1252,8 @@
                         sofort wieder erkennt, als Alfred de Musset viele Jahre nachher in seinen
                         kleinen Lustspielen die Schilderung wieder aufnimmt. Die Liebenden bei
                         Marivaux sind zwei Wesen von gleicher Erziehung und, wohlgemerkt, von
-                        gleichem <emph>Stande</emph>. Wir begegnen hier nicht, wie in<pb n="35"
-                            facs="130019387349_0068"/></p>
-
-                    <p>den Lustspielen und Romanen unseres Jahrhunderts, jenen Patricierinnen, die
+                        gleichem <emph>Stande</emph>. Wir begegnen hier nicht, wie in <pb n="35"
+                            facs="130019387349_0068"/> den Lustspielen und Romanen unseres Jahrhunderts, jenen Patricierinnen, die
                         einen Plebejer lieben, oder Gestalten wie der Lakai Ruy Blas, welcher sich
                         der Gunst einer Königin erfreut. Verkleiden sich bei Marivaux gelegentlich
                         einmal der Herr als Diener und das Fräulein als Kamnierkätzchen, so
@@ -1267,10 +1269,10 @@
                         und Seide. Das Geständnis schwebt auf den Lippen dieser jungen Mädchen und
                         Wittwen, aber es wird zurückgehalten im Augenblick, da es entschlüpfen will.
                         Das Sehnsuchtsverlangen des Liebhabers verliert sich in ein so tiefes
-                        Respekts- gefühl, daß er jeden Augenblick stockt, verlegen wird und
+                        Respektsgefühl, daß er jeden Augenblick stockt, verlegen wird und
                         schweigt. Die feine Dame bei Marivaux bedarf auch gar keiner ausgesprochenen
                         Erklärung wie sie selbst sich beherrscht und sich wie eine Schauspielerin
-                        hütet, ihre Leidenschaft preiszugeben, so versteht sie ein halbes<pb n="36"
+                        hütet, ihre Leidenschaft preiszugeben, so versteht sie ein halbes <pb n="36"
                             facs="130019387349_0069"/> Wort, ein Zittern der Stimme und wendet sich
                         von den Superlativen der Leidenschaft, von ihrem Aufschrei und ihrer
                         Selbstvergessenheit ab, wie von einem widerwärtigen und blutigen Schauspiel.
@@ -1325,7 +1327,7 @@
                         mit Leidenschaft geladene Elektrisirmaschine, eine Beute der Passion,
                         deklamirend, gewaltsam, selbstvergessen, und jener erste Kuß im Boskette von
                         Clarens ruft ein wahres Delirium hervor, ein Erbeben, einen Flammenzustand,
-                        als sei der Blitz herabgeschlagen, und wie Julie sich zu Samt-Preuss
+                        als sei der Blitz herabgeschlagen, und wie Julie sich zu Saint-Preux
                         hinbeugt und ihn küßt, schwindelt ihr auf der Stelle und sie fällt in eine
                         Ohnmacht, die nicht wie in der Perrückenzeit eine Koketterie ist, sondern
                         eine Folge der allüberwältigenden Macht der Leidenschaft bei dem jungen
@@ -1374,8 +1376,8 @@
                         Welcher Abstand von der Scenerie bei Marivaux und Watteau!</p>
 
                     <p>In welche Umgebungen stellt zur Zeit Ludwigs XV. die Poesie und Malerei ihre
-                        Personen? <note>Vgl. H. Hettner’s Literaturgeschichte des achtzehnten
-                            Jahrhunderts. </note> Was man unter Ludwig XIV. in der Baukunst erstrebt
+                        Personen?<hi rend="sup">*)</hi><note place="bottom">Vgl. H. Hettner’s Literaturgeschichte des achtzehnten
+                            Jahrhunderts.</note> Was man unter Ludwig XIV. in der Baukunst erstrebt
                         hatte, war das Imponirende. Man opferte sogar jede Rücksicht auf <pb n="41"
                             facs="130019387349_0074"/> Behagen und Bequemlichkeit der kalten
                         Prunksucht und der steifen Etikette auf. Wer das Schlafzimmer Ludwigs XIV.
@@ -1471,7 +1473,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="46" facs="130019387349_0079"/>2.</head>
+                    <head type="add">2. Goethe's »Werther«</head>
+                    <head type="sub"><pb n="46" facs="130019387349_0079"/> 2.</head>
 
                     <p>»Die neue Héloise« erschien 1761. Dreizehn Jahre später schrieb in einem
                         anderen Lande, unter sehr verschiedenen Umgebungen, ein junges Genie, das
@@ -1490,7 +1493,7 @@
 
                     <p>Im Jahre 1774 also erschien dies Buch, dessen Schlußblätter von keinem
                         Dichter erfunden sind. Sie sind mit dem Rechte, das jeder schaffende Geist
-                            besitzt,<pb n="47" facs="130019387349_0080"/> sein Eigenthum zu nehmen,
+                            besitzt, <pb n="47" facs="130019387349_0080"/> sein Eigenthum zu nehmen,
                         wo er es findet, wörtlich aus einem Manuskripte abgeschrieben, welches das
                         Ende des jungen Jerusalem behandelt. Das Manuskript ist in Kestner’s Buch
                         über Goethe und Lotte abgedruckt. Nur ein einziges Wort hat Goethe als
@@ -1534,7 +1537,7 @@
                         zur plumpsten Sentimentalität verdickt, bald zur subtilsten platonischen
                         Schwärmerei verdünnt wurde, wie in Ingemann’s frühesten Dramen und Romanen —
                         man vergleiche besonders die direkte Nachahmung Werther’s in »Warner’s
-                        Wanderungen«. Allein<pb n="49" facs="130019387349_0082"/>»Werther« selbst
+                        Wanderungen«. Allein <pb n="49" facs="130019387349_0082"/> »Werther« selbst
                         ist daran unschuldig; denn die Versunkenheit in Gefühlsschwelgerei ist nur
                         die eine Seite des Buches. Aus derselben, inmitten derselben sprudelt ein so
                         gesundes Natur- und Lebensgefühl hervor, ein so kraftvoller und
@@ -1556,7 +1559,7 @@
                         ergeht sich in Sätzen, wie folgendem: »In dem Grade sind alle menschlichen
                         Angelegenheiten ein Nichts, daß es, mit Ausnahme des Wesens, das durch sich
                         selbst existirt, nichts Schönes giebt, außer Dem, was nicht ist« — sie meint
-                        unsere <pb n="50" facs="130019387349_0083"/>Chimären Julie raisonnirt und
+                        unsere <pb n="50" facs="130019387349_0083"/> Chimären Julie raisonnirt und
                         deklamirt. Wie naiv und natürlich erscheint im Gegensatze zu ihr die
                         kräftige Charlotte, z. B. in jener ersten Situation, wo sie Brot für ihre
                         kleinen Geschwister schneidet. Wenn bei ihr Etwas über die Linie des
@@ -1597,7 +1600,7 @@
                         welche ahnt und verkündigt, nicht einer Zeit, welche resignirt und
                         verzweifelt. Wir werden ein Gegenstück zu ihm in Chateaubriand's René
                         erblicken. Die Grundquelle von Werther’s Unglück ist das Mißverhältnis
-                        zwischen der <pb n="52" facs="130019387349_0085"/>Unendlichkeit des Herzens
+                        zwischen der <pb n="52" facs="130019387349_0085"/> Unendlichkeit des Herzens
                         und den Schranken der Gesellschaft. Zuerst waren die Helden der Literatur
                         Fürsten und Könige, ihre Verhältnisse standen in Uebereinstimmung mit ihrer
                         geistigen Hoheit. Der Kontrast zwischen Innerem und Aeußerem, zwischen
@@ -1682,8 +1685,10 @@
                         René ist verloren in eine müßige Pein, deren er nicht Herr zu werden vermag,
                         er haßt die Menschen und sich selbst.</p>
                 </div>
+                
                 <div>
-                    <head type="sub"><pb n="56" facs="130019387349_0079"/>3.</head>
+                    <head type="add">3. Die Misanthropie bei Molière</head>
+                    <head type="sub"><pb n="56" facs="130019387349_0079"/> 3.</head>
 
                     <p>Zu diesem Zeitpunkte beginnt die Melancholie und die Misanthropie ein
                         poetisches Element zu werden. Um zu erklären, was ich hiemit meine, muß ich
@@ -1744,7 +1749,7 @@
                         Wahrheit. Es sind Umstände und Verhältnisse, die Stellung inmitten eines
                         verderbten Hofes, ein reizbarer und ehrliebender Sinn, ein
                         wahrheitsliebender Charakter, welche im Verein mit zufälligen persönlichen
-                        Unglücksfällen Alcest’s Misanthropie als Resultat erzeugen.<pb n="59"
+                        Unglücksfällen Alcest’s Misanthropie als Resultat erzeugen. <pb n="59"
                             facs="130019387349_0092"/> Er ist Misanthrop durch Raisonnement, nicht
                         von Temperament. Eben hiedurch ist er ein so echt französisches Erzeugnis.
                         Bei einem deutschen Melancholiker würde die Grundlage das Gemüth sein, bei
@@ -1761,7 +1766,7 @@
                         tiefsten und trefflichsten Gestalten, die naive Agnes in der »Schule der
                         Frauen« und der melancholische Alcest im »Misanthropen«, eine Ausnahme
                         bildeten. Aber es giebt Geistesgesetze, welche eben so unverbrüchlich wie
-                        die Naturgesetze sind. Ich habe an einer anderen Stelle <note>Aesthetische
+                        die Naturgesetze sind. Ich habe an einer anderen Stelle<hi rend="sup">*)</hi><note place="bottom">Aesthetische
                             Studien von G. Brandes, S. 310 ff.</note> nachgewiesen, bis zu welchem
                         Grade Agnes’ Naivetät eine vom Dichter durch Raisonnement erklügelte ist;
                         dasselbe läßt sich von Alcest’s Melancholie beweisen. Nehmen <pb n="60"
@@ -1769,67 +1774,47 @@
                         Misanthropen, z. B. Jacques in »Wie es euch gefällt.« Da haben wir den
                         Misanthropen von Temperament. Jacques ist eine Poetennatur, schwermüthig und
                         weich. Hören wir, wie er geschildert wird:</p>
-
-                    <p>Heut schlichen wir, Lord Amiens und ich selbst,</p>
-
-                    <p>Uns hinter ihn, wie er der Länge nach</p>
-
-                    <p>Im Schatten einer Eiche lag, die mit</p>
-
-                    <p>Den Wurzeln in den Waldbach niederhängt·</p>
-
-                    <p>An diese Stelle kam ein scheuer Hirsch,</p>
-
-                    <p>Der von des Jägers Pfeil getroffen worden,</p>
-
-                    <p>Um zu verenden; und fürwahr, mein Fürst,</p>
-
-                    <p>Das arme Thier stieß solche Seufzer aus,</p>
-
-                    <p>Daß sie beinah sein ledern Fell zersprengten.</p>
-
-                    <p>Die dicken, runden Thränen träufelten</p>
-
-                    <p>Ihm einzeln über das behaarte Maul.</p>
-
-                    <p>So stand der arme Narr, genau betrachtet</p>
-
-                    <p>Bom melanchol'schen Jacques, am Brink des Baches, </p>
-                    <p>Mit Thränen ihn vermehrend. Aber Jacques?</p>
-
-                    <p>Wie zog er die Moral von diesem Bild?</p>
-
-                    <p>In tausend Gleichnissen. Dieweil der Hirsch</p>
-
-                    <p>Ins Wasser überflüssig weinte, sprach er:</p>
-
-                    <p>»Du armes Thier, du machst dein Testament,</p>
-
-                    <p>Gleich manchem Weltkind, denen Geld erwerbend,</p>
-                    <p>Die schon zu viel besitzen. Weil das Wild</p>
-
-                    <p>Verlassen war von seinen sammtnen Freunden,</p>
-
-                    <p>Rief Jacques: »So ist es recht; das Unglück scheucht</p>
-                    <p>Ja stets die Menge fort.« Dann brach ein Rudel,</p>
-                    <p>Frisch von der Weide, ohne Halt und Gruß,</p>
-
-                    <p>Am kranken Hirsch vorbei. »Nur zu!« sprach Jacques,</p>
-                    <p>»Ihr Spießer und Spießbürger; fette, feiste;</p>
-
-                    <p>Das gleicht wohl eurer Art. Warum auch schauen</p>
-                    <p>Auf den gefallnen Bankrottirer hier?«</p>
-
-                    <p>Mit solchen Stachelreden traf er Alles,</p>
-
-                    <p>Das Land, die Stadt, den Hof, auch unser Leben;</p>
-
-                    <pb n="61" facs="130019387349_0094"/>
-
-                    <p>Er schwor, wir sei’n Tyrannen, Räuber und</p>
-                    <p>Was Schlimmres noch, weil wir das Wild verjagten</p>
-                    <p>Aus seinem eignen Sitz, und ganz vertilgten.</p>
-                    <p>So klagt' er mit dem schluchzenden Geschöpf.</p>
+                    
+                    <cit>
+                        <quote>
+                    <lg>
+                    <l>Heut schlichen wir, Lord Amiens und ich selbst,</l>
+                    <l>Uns hinter ihn, wie er der Länge nach</l>
+                    <l>Im Schatten einer Eiche lag, die mit</l>
+                    <l>Den Wurzeln in den Waldbach niederhängt·</l>
+                    <l>An diese Stelle kam ein scheuer Hirsch,</l>
+                    <l>Der von des Jägers Pfeil getroffen worden,</l>
+                    <l>Um zu verenden; und fürwahr, mein Fürst,</l>
+                    <l>Das arme Thier stieß solche Seufzer aus,</l>
+                    <l>Daß sie beinah sein ledern Fell zersprengten.</l>
+                    <l>Die dicken, runden Thränen träufelten</l>
+                    <l>Ihm einzeln über das behaarte Maul.</l>
+                    <l>So stand der arme Narr, genau betrachtet</l>
+                    <l>Bom melanchol'schen Jacques, am Brink des Baches, </l>
+                    <l>Mit Thränen ihn vermehrend. Aber Jacques?</l>
+                    <l>Wie zog er die Moral von diesem Bild?</l>
+                    <l>In tausend Gleichnissen. Dieweil der Hirsch</l>
+                    <l>Ins Wasser überflüssig weinte, sprach er:</l>
+                    <l>»Du armes Thier, du machst dein Testament,</l>
+                    <l>Gleich manchem Weltkind, denen Geld erwerbend,</l>
+                    <l>Die schon zu viel besitzen. Weil das Wild</l>
+                    <l>Verlassen war von seinen sammtnen Freunden,</l>
+                    <l>Rief Jacques: »So ist es recht; das Unglück scheucht</l>
+                    <l>Ja stets die Menge fort.« Dann brach ein Rudel,</l>
+                    <l>Frisch von der Weide, ohne Halt und Gruß,</l>
+                    <l>Am kranken Hirsch vorbei. »Nur zu!« sprach Jacques,</l>
+                    <l>»Ihr Spießer und Spießbürger; fette, feiste;</l>
+                    <l>Das gleicht wohl eurer Art. Warum auch schauen</l>
+                        <l>Auf den gefallnen Bankrottirer hier?«</l>
+                    <l>Mit solchen Stachelreden traf er Alles,</l>
+                    <l>Das Land, die Stadt, den Hof, auch unser Leben;</l>
+                   <l><pb n="61" facs="130019387349_0094"/> Er schwor, wir sei’n Tyrannen, Räuber und</l>
+                    <l>Was Schlimmres noch, weil wir das Wild verjagten</l>
+                    <l>Aus seinem eignen Sitz, und ganz vertilgten.</l>
+                    <l>So klagt' er mit dem schluchzenden Geschöpf.</l>
+                    </lg>
+                        </quote>
+                    </cit>
 
                     <p>Wir sehen ihn zu Thränen gerührt über die Leiden des verwundeten Thieres.
                         Nicht durch Raisonnement, nicht durch eine Verstandesreflexion wird er
@@ -1860,7 +1845,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="63" facs="130019387349_0079"/>4.</head>
+                    <head type="add">4. Chateaubriand's »René«</head>
+                    <head type="sub"><pb n="63" facs="130019387349_0079"/> 4.</head>
 
                     <p>Will man diese Krankheit des Jahrhunderts verstehen, so muß man zuerst
                         beachten, daß dasselbe in dem großen Manne, welcher als die Hauptgröße des
@@ -1878,7 +1864,7 @@
                         Hoheitswahnsinn, durch welchen so viele der großen Männer des Jahrhunderts
                         ihr Zeitalter verblüfft und verletzt haben. Aber, wird man fragen, was hat
                         Reue damit zu schaffen? Auf den paar Dutzend Blättern, aus welchen das Buch
-                        besteht, kommt ja fast Nichts anders vor, als die bittersten<pb n="64"
+                        besteht, kommt ja fast Nichts anders vor, als die bittersten <pb n="64"
                             facs="130019387349_0097"/> Selbstanklagen. Allein René schildert nur das
                         erste Stadium der Krankheit, und das Buch ist fortgesetzt und entwickelt
                         worden, zuerst in jenem Briefe von Reue, den man in den »Natchez« findet,
@@ -1937,7 +1923,7 @@
                         wahnwitzig im Gefühl seines Berufes.</p>
 
                     <p>Ihm wohnt zugleich etwas Göttliches und etwas Satanisches, eine
-                        eigenthümliche Zerstörungslust inne. <note>Vgl. Sainte-Beuve’s »Causeries de
+                        eigenthümliche Zerstörungslust inne.<hi rend="sup">*)</hi><note place="bottom">Vgl. Sainte-Beuve’s »Causeries de
                             lundi« über Chateaubriand.</note> Die Form, unter welcher er liebt, ist
                         die, zu verwirren und zu verzehren. Er verführt gleichsam durch
                         übernatürliche, durch <pb n="67" facs="130019387349_0100"/> giftige Mittel,
@@ -2063,7 +2049,7 @@
                         natürlichen Gefühle der Lust und des Glückes zu verbinden. René schreibt an
                         Celuta: »Ich habe Dich mitten in der Einöde an mein Herz gedrückt, ich hätte
                         Dich in jenem Augenblicke gern mit einem Dolche durchbohrt, um das Glück <pb
-                            n="6" facs="130019387349_0106"/> in Deinem Busen zu befestigen und um
+                            n="73" facs="130019387349_0106"/> in Deinem Busen zu befestigen und um
                         mich selbst dafür zu strafen, daß ich Dir solches Glück geschenkt.«</p>
                     <p>Und Atala, die sanfte, fromme Atala, dies anmuthvolle junge christliche
                         Indianermädchen, das unter so großen Versuchungen das Verlangen ihres
@@ -2078,7 +2064,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="74" facs="130019387349_0079"/>5.</head>
+                    <head type="add">5. Der neue Seelenzustand</head>
+                    <head type="sub"><pb n="74" facs="130019387349_0079"/> 5.</head>
 
                     <p>Wie in der körperlichen Welt zu gewissen Zeiten bisher unbekannte Krankheiten
                         entstehen, so auch im geistigen Leben. Was ich hier zu schildern versuche,
@@ -2091,8 +2078,7 @@
                         Befreiung des Gedankens.</p>
 
                     <p>Das Individuum wird emancipirt. Nicht mehr zufrieden damit, auf der Stätte zu
-                        bleiben, die ihm angewiesen oder wo er geboren ist, sich nicht mehr be-
-                        scheidend, das Feld seines Vaters zu pflügen, fühlt der Mann beim Anfange
+                        bleiben, die ihm angewiesen oder wo er geboren ist, sich nicht mehr bescheidend, das Feld seines Vaters zu pflügen, fühlt der Mann beim Anfange
                         der Demokratie zum ersten Mal in der buchstäblichen Bedeutung des Wortes die
                         Welt offen vor sich liegen. Welcher Fortschritt im Vergleich mit allen
                         früheren Zeiten! Es scheint mit Einem Male, als sei Alles möglich geworden
@@ -2140,7 +2126,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="77" facs="130019387349_0079"/>6.</head>
+                    <head type="add">6. Sénancour's »Obermann«</head>
+                    <head type="sub"><pb n="77" facs="130019387349_0079"/> 6.</head>
 
                     <p>Im schärfsten Gegensatze zu dem selbst in der Verzweiflung und dem Ekel vor
                         dem Leben so stolzen und gebieterischen René steht die nächste
@@ -2183,7 +2170,7 @@
                         fastunglaubliche Menge günstiger Umstände eintreten, welche Unglaubliche
                         Zahl kleiner und großer Hindernisse er überwinden, wie genau er auf den
                         Zeitpunkt achten, wie eifrig er die Gelegenheit und den Augenblick erfassen
-                        mußte, wie häufig er im Begriffe <pb n="1" facs="130019387349_0112"/> stand,
+                        mußte, wie häufig er im Begriffe <pb n="79" facs="130019387349_0112"/> stand,
                         das Ganze aufzugeben, wie viele Anfälle von Hoffnungslosigkeit und
                         Entmuthigung er besiegt hat, nur um dies geringe Ziel zu erreichen; das
                         kleinste lebende, ans Licht geborene Werk zeugt von tausend Triumphen. Und
@@ -2357,7 +2344,7 @@
                         ohne Willen.«</p>
 
                     <p>So sitzt er, dieser Lehrling von Jean Jacques, dieser »Energische ohne
-                        Willen«, denn das Wort paßt <pb n="1" facs="130019387349_0120"/> auf
+                        Willen«, denn das Wort paßt <pb n="87" facs="130019387349_0120"/> auf
                         Obermann, einsam in Jean Jacques’ Natur. »René« hatte den Kreis der
                         Natureindrücke erweitert. Statt eines Sees in den Schweizeralpen, einiger
                         Bosketts und Waldblumensträuße, womit wir in der »Neuen Héloise« begannen,
@@ -2393,7 +2380,7 @@
                         erwähnten Symptomen der Emancipation des Individuums. Es ist eine der
                         Formen, die negativste und radikalste, für die Befreiung und Losreißung des
                         Individuums von der ganzen Gesellschaftsordnung, in welche dasselbe von
-                        Geburt an hin- eingestellt ist. Wie hätten auch jene Zeiten, in welchen
+                        Geburt an hineingestellt ist. Wie hätten auch jene Zeiten, in welchen
                         Napoleon seinem Ehrgeize jährlich Hekatomben von Blutopfern schlachtete,
                         Achtung vor dem Menschenleben erwecken können? »Ich höre überall,« sagt
                         Obermann, »es sei ein Verbrechen, aus dem Leben zu scheiden; aber dieselben
@@ -2418,8 +2405,7 @@
                         meiner Unterdrückung ein Recht abgetreten habe, das ich nicht besaß, um mich
                         der Unterdrückung zu entziehen?«</p>
 
-                    <p>Ich habe vor Jahren in einer Abhandlung über das tragische Schicksal <note>
-                            Dieselbe ward 1862 als Einleitung zu einer, mit der goldenen Medaille
+                    <p>Ich habe vor Jahren in einer Abhandlung über das tragische Schicksal<hi rend="sup">*)</hi><note place="bottom">Dieselbe ward 1862 als Einleitung zu einer, mit der goldenen Medaille
                             der Kopenhagener Universität gekrönten Abhandlung über die
                             Schicksalsidee in der antiken Tragödie geschrieben und ist in den
                             »Aesthetischen Studien von G. Brandes« abgedruckt. <emph>Anm. des
@@ -2483,14 +2469,14 @@
                         werden.« </p>
 
                     <p>Diese letzten Worte kennzeichnen jene ganze Race von Geistern, welche, außer
-                        Stande, zu glänzen, jeden glänzenden Schimmer haßt, mit ihrem Einsamkeits-
-                        gefühl, ihrer Bitterkeit gegen die Vorgezogenen und die Mitwelt, und mit
+                        Stande, zu glänzen, jeden glänzenden Schimmer haßt, mit ihrem Einsamkeitsgefühl, ihrer Bitterkeit gegen die Vorgezogenen und die Mitwelt, und mit
                         ihrem Glauben, dereinst von einer gerechten und unbestochenen Nachwelt
                         gewürdigt zu werden.</p>
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="93" facs="130019387349_0079"/>7.</head>
+                    <head type="add">7. Constant's »Adolphe« (1)</head>
+                    <head type="sub"><pb n="93" facs="130019387349_0079"/> 7.</head>
 
                     <p>Wer in der Literaturgeschichte den Typus eines bestimmten Zeitraums von einer
                         Variation zur anderen begleitet, verfährt wie der Naturforscher, welcher die
@@ -2510,9 +2496,9 @@
                         Odenstil und die exakte Wissenschastlichkeit. Hier dagegen Gefühle, Träume,
                         Schwärmereien und Reflexionen.</p>
 
-                    <pb n="94" facs="130019387349_0127"/>
+                    
 
-                    <p>»Adolphe« gehört ferner bis zu einem gewissen Grade der Reaktionsliteratur
+                    <p><pb n="94" facs="130019387349_0127"/> »Adolphe« gehört ferner bis zu einem gewissen Grade der Reaktionsliteratur
                         an. Es läßt sich manche Parallele zwischen Chateaubriand und Constant
                         ziehen. Jener ist blendend und Dieser fein geschliffen; aber es drängen sich
                         viele Analogien auf. Constant’s Buch über den Geist der Religionen
@@ -2527,8 +2513,7 @@
                         glaube an Nichts«; meistens fügt er pflichtschuldigst hinzu: »ausgenommen in
                         der Religion,« zuweilen vergißt er es. Die Form, unter welcher bei Constant
                         die Religion empfohlen wird, ist gleichfalls eine solche, unter welcher die
-                        Religionslosigkeit hervorschimmert, und hinter derselben eine tiefe Melan-
-                        cholie. In »Adolphe« finden wir folgende Stelle: »Was mich überrascht, ist
+                        Religionslosigkeit hervorschimmert, und hinter derselben eine tiefe Melancholie. In »Adolphe« finden wir folgende Stelle: »Was mich überrascht, ist
                         nicht, daß der Mensch einer Religion bedarf; was mich wundert, ist, daß er
                         sich jemals stark genug, hinlänglich geschützt vor dem Unglück fühlt, um den
                         Muth zu haben, <emph>irgend eine</emph> zu verwerfen: er müßte, dünkt mich,
@@ -2717,8 +2702,7 @@
                         die er wie eine Kugel am Beine nachschleppt. Wie die Anderen gehört er zu
                         der Generation jener Söhne, denen ihre Väter keine That zu vollbringen
                         hinterlassen haben. Obschon er niemals geistig gesättigt worden, ist er doch
-                        nicht hungrig; obschon er Nichts erlebt hat, ist er über Alles hinaus.
-                            <note>Gustave Planche: Notice sur »Ado1phe«.</note> Das Zukünftige hat
+                        nicht hungrig; obschon er Nichts erlebt hat, ist er über Alles hinaus.<hi rend="sup">*)</hi><note place="bottom">Gustave Planche: Notice sur »Ado1phe«.</note> Das Zukünftige hat
                         kein Interesse für ihn, denn er hat in seiner Phantasie Allem vorgegriffen,
                         und das Vergangene hat ihn alt gemacht, denn «er hat in seinen Gedanken
                         mehrere Jahrhunderte gelebt. Er hat alles Mögliche begehrt, aber er hat
@@ -2746,9 +2730,9 @@
                         aber am besten mit dem Namen benannt wird, den er bei Balzac empfangen hat:
                         die Frau von dreißig Jahren.</p>
 
-                    <pb n="105" facs="130019387349_0138"/>
+                    
 
-                    <p>Das kraftvolle prometheische Geschlecht, dem Goethe angehörte, hatte seinen
+                    <p><pb n="105" facs="130019387349_0138"/> Das kraftvolle prometheische Geschlecht, dem Goethe angehörte, hatte seinen
                         kräftigen Typus in »Faust« hervorgebracht, dem entwickelten Manne, dem
                         hochbegabten Geiste, der, nachdem er alle Studien erschöpft, alle
                         Wissenschaften durchforscht hat, auf der Höhe des Mannesalters eine Leere in
@@ -2785,11 +2769,11 @@
                         Literatur eine Liebhaberin wird, die um mehrere Jahre älter als ihr
                         Liebhaber ist, tritt in der Auffassung des Gefühls eine Revolution ein. Wir
                         finden den großen Abstand überall wieder: in Balzac’s Romanen, z. B. in »La
-                        femme de trente ans-Z in »La femme abandonnée«, in »Le message«, bei George
+                        femme de trente ans« in »La femme abandonnée«, in »Le message«, bei George
                         Sand in so verschiedenartigen Werken wie »Francois le Champi« und »Lucretia
                         Floriani«, und das Altersverhältnis war von derselben Art bei den zwei
                         berühmtesten Schriftstellerpaaren in der neueren französischen Literatur,
-                        bei Frau von Staël und Benjamin <pb n="1" facs="130019387349_0140"/>
+                        bei Frau von Staël und Benjamin <pb n="107" facs="130019387349_0140"/>
                         Constant, bei George Sand und Alfred de Musset. Der Unterschied des Alters
                         stürzt die Auffassung der Liebe als Gesellschaftsmacht um. Die Leidenschaft
                         scheint, indem sie zwei einander so ungleiche Wesen verknüpft, etwas minder
@@ -2831,9 +2815,9 @@
                         Jahren giebt, welche lesen. Diese Frauen usurpirten jetzt den Roman und den
                         Schauplatz der Bühne in solchem Maasse, daß der Typus sich sogar in Scribe’s
                         Theater eindrängte. Wir haben ihn bei uns in dem »Damenkampfe« gesehen.</p>
-                    <pb n="109" facs="130019387349_0142"/>
+                    
 
-                    <p>Ich pflege bei jedem Typus zugleich seine Karikatur zu schildern. Ich
+                    <p><pb n="109" facs="130019387349_0142"/> Ich pflege bei jedem Typus zugleich seine Karikatur zu schildern. Ich
                         erwähnte die Zerrform der Selbstvergötterung bei »René«, die der Empfindelei
                         bei »Werther«, die der Verkennung bei »Obermann«. Die Karikatur der Frau von
                         dreißig Jahren bei Balzac ist die Frau von vierzig Jahren bei seinen
@@ -2892,7 +2876,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="112" facs="130019387349_0079"/>8.</head>
+                    <head type="add">8. Benjamin Constant</head>
+                    <head type="sub"><pb n="112" facs="130019387349_0079"/> 8.</head>
 
                     <p>Wir kehren also zu »Adolphe« zurück, und zur besseren Würdigung dieses Buches
                         werfen wir einen Blick auf seinen Verfasser.</p>
@@ -3023,7 +3008,7 @@
                         Verhältnissen stehen, und wie unglücklich dies Mißverhältnis uns machen
                         muss. Sollte nicht Gott, der Urheber unserer selbst und unsrer Umgebungen,
                         gestorben sein, ehe er sein Werk beendet hat, so daß die Welt eigentlich ein
-                        opus posthumum ist? Er hatte die schönsten und größten Weltprojekte<pb
+                        opus posthumum ist? Er hatte die schönsten und größten Weltprojekte <pb
                             n="118" facs="130019387349_0151"/> und die größten Mittel, sie
                         auszuführen. Er hatte schon mehrere dieser Mittel in Bewegung gesetzt, wie
                         man Gerüste errichtet, um zu bauen, und mitten in dieser Arbeit ist er
@@ -3093,7 +3078,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="121" facs="130019387349_0079"/>9.</head>
+                    <head type="add">9. Goethe's Frauengestalten</head>
+                    <head type="sub"><pb n="121" facs="130019387349_0079"/> 9.</head>
 
                     <p>Benjamin Constant ist in Frankreich nicht der Beschuldigung des Germanismus
                         entgangen. In der Schweiz geboren, verbrachte er seine Jugend zuerst in
@@ -3133,9 +3119,9 @@
                         vollen Pracht erscheint! Sie verlieren sich ganz in dem Geliebten, gehen in
                         ihm auf und verschwinden in ihm.</p>
 
-                    <p><pb n="123" facs="130019387349_0156"/></p>
+                    
 
-                    <p>Es sind nicht zwei ebenbürtige Persönlichkeiten, welche einander die Hand
+                    <p><pb n="123" facs="130019387349_0156"/> Es sind nicht zwei ebenbürtige Persönlichkeiten, welche einander die Hand
                         geben und sich einander verpflichten, es ist, ein verwirrtes und
                         bewunderndes Kind, das sich an einen Mann klammert. Er ist ihr Leben, aber
                         in seinem Leben ist sie nur eine Episode. Sein Blick umspannt und überschaut
@@ -3311,7 +3297,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="131" facs="130019387349_0079"/>10.</head>
+                    <head type="add">10. Constant's »Adolphe« (2)</head>
+                    <head type="sub"><pb n="131" facs="130019387349_0079"/> 10.</head>
 
                     <p>Es erübrigt nur noch, Rechenschaft von der Feinheit der psychologischen
                         Analyse in »Adolphe« zu geben und zu zeigen, zu welchem Resultate sie führt.
@@ -3461,7 +3448,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="138" facs="130019387349_0079"/>11.</head>
+                    <head type="add">11. Der Kampf mit der Gesellschaft</head>
+                    <head type="sub"><pb n="138" facs="130019387349_0079"/> 11.</head>
 
                     <p>Byron schreibt über »Adolphe« in seinen Memoiren: »Anbei sende ich Ihnen
                         »Adolphe,« er enthält finstere Wahrheiten, aber nach meiner Ansicht ist er
@@ -3613,9 +3601,8 @@
                         in demselben Augenblicke an, wo die Ehegesetze verschärft wurden und die
                         Kirche ihre alte Macht wiedergewann.</p>
 
-                    <pb n="145" facs="130019387349_0178"/>
-
-                    <p>Das Buch entspricht seinem Motto, sofern es durch das Schicksal seiner Heldin
+                    
+                    <p><pb n="145" facs="130019387349_0178"/> Das Buch entspricht seinem Motto, sofern es durch das Schicksal seiner Heldin
                         lehrt, dass die Frau, welche selbst nach einem noch so edelmüthigen und noch
                         so langwierigen Aufopfern ihres eigenen Wohles, und geschähe es auch nur um
                         den Untergang ihres Geliebten zu verhindern, in Opposition zur Gesellschaft
@@ -3901,7 +3888,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="159" facs="130019387349_0079"/>12.</head>
+                    <head type="add">12. Frau von Stäel</head>
+                    <head type="sub"><pb n="159" facs="130019387349_0079"/> 12.</head>
 
                     <p>Frau von Staël war wie geschaffen für ihre geschichtliche Sendung. Sie besaß
                         den höchsten Grad von Lebendigkeit. Man kann im Allgemeinen die
@@ -3922,7 +3910,7 @@
                             facs="130019387349_0193"/>pflichten; hätte sie Dies gesagt und es nicht
                         geschrieben, so hätte ich sie nie kritisiren können«, und eine große Dame,
                         Madame de Tessé, sagte von ihr: »Wenn ich Königin wäre, würde ich Frau von
-                        Staël befehlen, immer zu mir zu reden.« <note>Sainte-Beuve: Madame de
+                        Staël befehlen, immer zu mir zu reden.«<hi rend="sup">*)</hi><note place="bottom">Sainte-Beuve: Madame de
                             Staë1.</note></p>
 
                     <p>Und an die Fähigkeit, zu elektrisiren, knüpft sich ihre zweite große
@@ -3958,7 +3946,7 @@
                         d’Etallonde, bei sich auf und verhalf ihnen zu ihrem Rechte; hier entriß er
                         durch sein muthiges Einschreiten die Frau Montbailli dem gewissen Feuertode
                         und erzwang die Revision der Proceßakten in Sachen des an dem General Lally
-                        verübten Justizmordes. Und in derselben Periode, wo sich <pb n="162"
+                        verübten Justizmordes.<hi rend="sup">*)</hi><note place="bottom">Vgl. H. Hettner's Literaturgeschichte des achtzehnten Jahrhunderts, Bd. II., S. 157 ff.</note> Und in derselben Periode, wo sich <pb n="162"
                             facs="130019387349_0195"/> Voltaire so aufopferungsvoll des Lebens der
                         unschuldig Angeklagten und der Ehre der Todten annahm, fand er noch Zeit,
                         von Ferney aus leidenschaftlich für die Aufhebung der Leibeigenschaft in
@@ -4046,9 +4034,9 @@
                         von Staël überstrahlt zu werden, verrathen, die ihn mit gutem Grunde niemals
                         verließ.</p>
 
-                    <pb n="166" facs="130019387349_0199"/>
+                    
 
-                    <p>»Delphine« erschien, die Opposition ward stärker. Der bekannteste Kritiker
+                    <p><pb n="166" facs="130019387349_0199"/> »Delphine« erschien, die Opposition ward stärker. Der bekannteste Kritiker
                         der Zeit schrieb: »Nichts ist gefährlicher und unmoralischer, als die
                         Grundsätze, welche in diesem Werke entwickelt werden. Die Anschauungen, in
                         welchen sie erzogen ward, und die protestantische Lehre ihrer Familie
@@ -4181,8 +4169,7 @@
                         Ihnen öffnen,« da antwortete sie: »Ich wünsche ihm eine gute Amme.«</p>
 
                     <p>Und doch war sie damals nahe daran, zu unterliegen. Nicht genug, daß sie die
-                        Trauer empfand, selbst verbannt oder von so vielen ehemaligen Freunden ver-
-                        rathen zu sein, erlitt sie auch noch die Qual, jeden ihrer wirklichen
+                        Trauer empfand, selbst verbannt oder von so vielen ehemaligen Freunden verrathen zu sein, erlitt sie auch noch die Qual, jeden ihrer wirklichen
                         Freunde, der sie zu besuchen wagte, dafür mit Landesverweisung bestraft und
                         solchermaßen sich selber, gleich einem Orest des Exiles, wie sie sich nennt,
                         Unglück wie eine ansteckende Seuche um sich verbreiten zu sehen. Gewiß darf
@@ -4194,7 +4181,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="173" facs="130019387349_0079"/>[4.]</head>
+                    <head type="add">13. Frau von Stäel's Poetik</head>
+                    <head type="sub"><pb n="173" facs="130019387349_0079"/> 13.<!-- stiltiende rettet: 4. > 13. --></head>
 
                     <p>Frau von Staël begann ihre Schriftstellerthätigkeit mit einer Reihe
                         enthusiastischer Briefe über Jean Jacques, die mit demselben Gefühl einer
@@ -4351,7 +4339,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="181" facs="130019387349_0079"/>14.</head>
+                    <head type="add">14. Neue Betrachtung der Antike</head>
+                    <head type="sub"><pb n="181" facs="130019387349_0079"/> 14.</head>
 
                     <p>Rom ist der einzige Ort auf dem Erdballe, wo die Weltgeschichte gleichsam
                         sichtbar hervor tritt, indem die auf einander folgenden Epochen ihre
@@ -4377,8 +4366,15 @@
                         »Vergieb mir, lieber Vater, daß ich ohne Deine Erlaubnis über Schicksal
                         verfügt habe. Ich habe manches unschuldige Opfer gerächt. Denke an den Vers
                         von Corneille:</p>
-
-                    <p>Le crime fait la honte, et non pas 1’échafaud.</p>
+                    
+                    <cit>
+                        <quote>
+                            <lg>
+                    <l>Le crime fait la honte, et non pas 1’échafaud.</l>
+                            </lg>
+                        </quote>
+                    </cit>
+                    
                     <p>Morgen um acht Uhr wird der Urtheilsspruch an mir vollstreckt.« Und was die
                         Kunst betrifft, so rief der große Maler der Revolutionszeit, David, in
                         seinen Bildern das alte Rom wieder hervor: Brutus, Manlius sind seine
@@ -4449,126 +4445,150 @@
                         hervor. Ich citire beispielsweis einige Repliken; Wielands Schatten steht in
                         der Nachtmütze da und ist eben im Gespräch mit Admet und Aceste windelweich
                         geschlagen worden, als Herkules auftritt.</p>
+                    
+                    <sp>
+                        <speaker>Herkules</speaker>
+                        <p>Wo ist Wieland?</p>
+                    </sp>
+                    
+                    <sp><speaker>Admet.</speaker>
+                    <p>Da steht er.</p>
+                </sp>
 
-                    <p><emph>Herkules</emph>. Wo ist Wieland?</p>
+                    <sp><speaker>Herkules.</speaker>
+                    <p>Der? Nun, der ist klein genug. Hab ich mir ihn doch so vorgestellt. Seid Ihr der Mann, der den Herkules immer im Munde führt?</p>
+                    </sp>
+                    
+                    <sp><speaker>Wieland (zurückweichend).</speaker>
+                        <p>Ich habe Nichts mit Euch zu schaffen, Koloß.</p>
+                    </sp>
 
-                    <p><emph>Admet.</emph> Da steht er.</p>
+                    <sp><speaker>Herkules.</speaker>
+                    <p>Nun, wie dann? Bleibt nur!</p>
+                    </sp>
+                    
+                    <sp><speaker><pb n="186" facs="130019387349_0219"/> Wieland.</speaker>
+                    <p>Ich vermuthete einen stattlichen Mann mittlerer Größe.</p>
+                    </sp>
 
-                    <p><emph>Herkules.</emph> Der? Nun, der ist klein genug. Hab ich mir ihn doch so
-                        vorgestellt. Seid Jhr der Mann, der den Herkules immer im Munde führt?</p>
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>Mittlerer Größe? Ich?</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Wieland.</speaker>
+                        <p>Wenn Ihr Herkules seid, so seid Ihr’s nicht gemeint.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>Es ist mein Name, und auf den bin ich stolz. Ich weiß wohl, wenn ein Fratze keinen Schildhalter unter den Bären, Greifen und Schweinen finden kann, so nimmt er einen Herkules dazu. Denn meine Gottheit ist Dir niemals im Traum erschienen.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Wieland.</speaker>
+                        <p>Ich gestehe, das ist der erste Traum, den ich so habe.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>So geh in Dich, und bitte den Göttern ab Deine Roten übern Homer, wo wir Dir zu groß sind. Das glaub’ ich, zu groß.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Wieland.</speaker>
+                        <p>Wahrhaftig, ihr seid ungeheuer. Ich hab’ euch mir niemals so imaginirt.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>Was kann ich davor, daß Er so eine engbrüstige Imagination hat? Wer ist denn Sein Herkules, auf den Er sich so viel zu Gute thut? Und was will Er? Für die Tugend? Was heißt die Devise? Hast Du die Tugend gesehen, Wieland? Ich bin doch auch in der Welt herumgekommen, und ist mir Nichts so begegnet.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Wieland.</speaker>
+                        <p>Die Tugend, für die mein Herkules Alles thut, Alles wagt, Ihr kennt sie nicht?</p>
+                    </sp>
 
-                    <p><emph>Wieland</emph> (zurückweichend). Ich habe Nichts mit Euch zu schaffen,
-                        Koloß.</p>
-
-                    <p><emph>Herkules.</emph> Nun, wie dann? Bleibt nur!</p>
-
-                    <p><pb n="186" facs="130019387349_0219"/></p>
-
-                    <p><emph>Wieland.</emph> Ich vermuthete einen stattlichen Mann mittlerer
-                        Größe.</p>
-
-                    <p><emph>Herkules.</emph> Mittlerer Größe? Ich?</p>
-
-                    <p><emph>Wieland.</emph> Wenn Ihr Herkules seid, so seid Ihr’s nicht
-                        gemeint.</p>
-
-                    <p><emph>Herkules.</emph> Es ist mein Name, und auf den bin ich stolz. Ich weiß
-                        wohl, wenn ein Fratze keinen Schildhalter unter den Bären, Greifen und
-                        Schweinen finden kann, so nimmt er einen Herkules dazu. Denn meine Gottheit
-                        ist Dir niemals im Traum erschienen.</p>
-
-                    <p><emph>Wieland.</emph> Ich gestehe, das ist der erste Traum, den ich so
-                        habe.</p>
-
-                    <p><emph>Herkules.</emph> So geh in Dich, und bitte den Göttern ab Deine Roten
-                        übern Homer, wo wir Dir zu groß sind. Das glaub’ ich, zu groß.</p>
-
-                    <p><emph>Wieland.</emph> Wahrhaftig, ihr seid ungeheuer. Ich hab’ euch mir
-                        niemals so imaginirt.</p>
-
-                    <p><emph>Herkules.</emph> Was kann ich davor, daß Er so eine engbrüstige
-                        Imagination hat? Wer ist denn Sein Herkules, auf den Er sich so viel zu Gute
-                        thut? Und was will Er? Für die Tugend? Was heißt die Devise? Hast Du die
-                        Tugend gesehen, Wieland? Ich bin doch auch in der Welt herumgekommen, und
-                        ist mir Nichts so begegnet.</p>
-
-                    <p><emph>Wieland.</emph> Die Tugend, für die mein Herkules Alles thut, Alles
-                        wagt, Ihr kennt sie nicht?</p>
-
-                    <p><emph>Herkules.</emph> Tugend! Ich hab’ das Wort erst hier unten von ein paar
-                        albernen Kerls gehört, die keine Rechenschaft davon zu geben wußten.</p>
-
-                    <p><emph>Wieland.</emph> Ich bin’s eben so wenig im Stande. Doch laßt uns
-                        darüber keine Worte verderben. Ich wollte, Ihr hättet meine Gedichte
-                        gelesen, und Ihr würdet finden, daß <pb n="187" facs="130019387349_0220"/>
-                        ich selbst die Tugend wenig achte. Sie ist ein zweideutiges Ding.</p>
-
-                    <p><emph>Herkules.</emph> Ein Unding ist sie, wie alle Phantasie, die mit dem
-                        Gang der Welt nicht bestehen kann. Eure Tugend kommt mir vor wie ein
-                        Centaur; so lang der vor eurer Imagination herum tobt, wie herrlich, wie
-                        kräftig! und wenn der Bildhauer ihn auch hinstellt, welch übermenschliche
-                        Form! — Anatomirt ihn, und findet vier Lungen, zwei Herzen, zwei Meigen. Er
-                        stirbt in dem Augenblicke der Geburt, wie ein anderes Mißgeschöps, oder ist
-                        nie außer eurem Kopf gezeugt worden.</p>
-
-                    <p><emph>Wieland.</emph> Tugend muß doch was sein, sie muß wo sein.</p>
-
-                    <p><emph>Herkules.</emph> Bei meines Vaters ewigem Bart! Wer hat daran
-                        gezweifelt? Und mich dünkt, bei uns wohnte sie in Halbgöttern und Helden.
-                        Meinst Du, wir lebten wie das Vieh, weil eure Bürger sich vor den
-                        Faustrechtszeiten kreuzigen? Wir hatten die bravsten Kerls unter uns.</p>
-
-                    <p><emph>Wieland.</emph> Was nennt ihr brave Kerls?</p>
-
-                    <p><emph>Herkules.</emph> Einen, der mittheilt, was er hat. Und der Reichste ist
-                        der Bravste. Hatte Einer Ueberfluß an Kräften, so prügelte er den Andern
-                        aus. Und versteht sich, ein echter Mann giebt sich nie mit Geringern ab, nur
-                        mit seines Gleichen, auch Größern wohl. Hatte Einer denn Ueberfluß an
-                        Säften, machte er den Weibern so viel’ Kinder, als sie begehrten, wie ich
-                        denn selbst in Einer Nacht funfzig Buben ausgearbeitet habe. Fehlt’ es Einem
-                        denn an beiden und der Himmel hatte ihm, oder auch wohl dazu, Erb’ und Hab’
-                        vor Tausenden gegeben, eröffnete er seine Thüren und hieß Tausend
-                        willkommen, mit ihm zu genießen. Und da steht Admet, der wohl der Bravste in
-                        diesem Stücke genannt werden kann.</p>
-
-                    <p><pb n="188" facs="130019387349_0221"/></p>
-
-                    <p><emph>Wieland.</emph> Das Meiste davon wird zu unsern Zeiten für Laster
-                        gerechnet.</p>
-
-                    <p><emph>Herkules.</emph> Laster? Das ist wieder ein schönes Wort. Dadurch wird
-                        eben Alles so halb bei euch, daß ihr euch Tugend und Laster als zwei Extreme
-                        vorstellt, zwischen denen ihr schwankt, anstatt euren Mittelzustand als den
-                        positiven anzusehen und den besten, wies eure Bauern und Knechte und Mägde
-                        noch thun.</p>
-
-                    <p><emph>Wieland.</emph> Wenn Ihr diese Gesinnnngen in meinem Jahrhunderte
-                        merken ließet, man würde Euch steinigen. Haben sie mich wegen meiner kleinen
-                        Angriffe an Tugend und Religion so entsetzlich verketzert.</p>
-
-                    <p><emph>Herkules.</emph> Was ist da viel anzugreifen? Die Pferde,
-                        Menschenfresser und Drachen, mit denen hab’ ichs ausgenommen, mit Wolken
-                        niemals, sie wollten eine Gestalt haben, wie sie mochten. Die überläßt ein
-                        gescheiter Mann dem Winde, der sie zusammen geführt hat, wieder zu
-                        verwehen.</p>
-
-                    <p><emph>Wieland.</emph> Ihr seid ein Unmensch, ein Gotteslästerer.</p>
-
-                    <p><emph>Herkules.</emph> Will Dir das nicht in Kopf? Aber des Prodikus
-                        Herkules, das ist Dein Mann. Euer Herkules Grandison, eines Schulmeisters
-                        Herkules. Ein unbärtiger Sylvio am Scheidewege. Wären mir die Weiber
-                        begegnet, siehst Du, Eine unter den Arm, Eine unter den, und alle Beide
-                        hätten mit fortgemußt.<note><p>Man vergleiche hiemit Schillers Epigramm:
-                                    <emph>Meine Antipathie.</emph></p>
-                            <p>Herzlich ist mir das Laster zuwider, und doppelt zuwider</p>
-                            <p>Ist mir’s, weil es so viel schwatzen von Tugend gemacht.</p>
-                            <p>»Wie, Du hassest die Tugend?« — Ich wollte, wir übten sie Alle;</p>
-                            <p>Und so spräche, wills Gott, ferner kein Mensch mehr
-                        davon.</p></note></p>
-
-                    <p><pb n="189" facs="130019387349_0222"/></p>
-
-                    <p>Da haben wir aus Goethe’s erster Kraftperiode die neue Auffassung der Antike,
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>Tugend! Ich hab’ das Wort erst hier unten von ein paar albernen Kerls gehört, die keine Rechenschaft davon zu geben wußten.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Wieland.</speaker>
+                        <p>Ich bin’s eben so wenig im Stande. Doch laßt uns darüber keine Worte verderben. Ich wollte, Ihr hättet meine Gedichte gelesen, und Ihr würdet finden, daß <pb n="187" facs="130019387349_0220"/> ich selbst die Tugend wenig achte. Sie ist ein zweideutiges Ding.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>Ein Unding ist sie, wie alle Phantasie, die mit dem Gang der Welt nicht bestehen kann. Eure Tugend kommt mir vor wie ein Centaur; so lang der vor eurer Imagination herum tobt, wie herrlich, wie kräftig! und wenn der Bildhauer ihn auch hinstellt, welch übermenschliche Form! — Anatomirt ihn, und findet vier Lungen, zwei Herzen, zwei Meigen. Er stirbt in dem Augenblicke der Geburt, wie ein anderes Mißgeschöps, oder ist nie außer eurem Kopf gezeugt worden.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Wieland.</speaker>
+                        <p>Tugend muß doch was sein, sie muß wo sein.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>Bei meines Vaters ewigem Bart! Wer hat daran gezweifelt? Und mich dünkt, bei uns wohnte sie in Halbgöttern und Helden. Meinst Du, wir lebten wie das Vieh, weil eure Bürger sich vor den Faustrechtszeiten kreuzigen? Wir hatten die bravsten Kerls unter uns.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Wieland.</speaker>
+                        <p>Was nennt ihr brave Kerls?</p>
+                    </sp>
+         
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>Einen, der mittheilt, was er hat. Und der Reichste ist der Bravste. Hatte Einer Ueberfluß an Kräften, so prügelte er den Andern aus. Und versteht sich, ein echter Mann giebt sich nie mit Geringern ab, nur mit seines Gleichen, auch Größern wohl. Hatte Einer denn Ueberfluß an Säften, machte er den Weibern so viel’ Kinder, als sie begehrten, wie ich denn selbst in Einer Nacht funfzig Buben ausgearbeitet habe. Fehlt’ es Einem denn an beiden und der Himmel hatte ihm, oder auch wohl dazu, Erb’ und Hab’ vor Tausenden gegeben, eröffnete er seine Thüren und hieß Tausend willkommen, mit ihm zu genießen. Und da steht Admet, der wohl der Bravste in diesem Stücke genannt werden kann.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker><pb n="188" facs="130019387349_0221"/> Wieland.</speaker>
+                        <p>Das Meiste davon wird zu unsern Zeiten für Laster gerechnet.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>Laster? Das ist wieder ein schönes Wort. Dadurch wird eben Alles so halb bei euch, daß ihr euch Tugend und Laster als zwei Extreme vorstellt, zwischen denen ihr schwankt, anstatt euren Mittelzustand als den positiven anzusehen und den besten, wies eure Bauern und Knechte und Mägde noch thun.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Wieland.</speaker>
+                        <p>Wenn Ihr diese Gesinnnngen in meinem Jahrhunderte merken ließet, man würde Euch steinigen. Haben sie mich wegen meiner kleinen Angriffe an Tugend und Religion so entsetzlich verketzert.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>Was ist da viel anzugreifen? Die Pferde, Menschenfresser und Drachen, mit denen hab’ ichs ausgenommen, mit Wolken niemals, sie wollten eine Gestalt haben, wie sie mochten. Die überläßt ein gescheiter Mann dem Winde, der sie zusammen geführt hat, wieder zu verwehen.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Wieland.</speaker>
+                        <p>Ihr seid ein Unmensch, ein Gotteslästerer.</p>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Herkules.</speaker>
+                        <p>Will Dir das nicht in Kopf? Aber des Prodikus Herkules, das ist Dein Mann. Euer Herkules Grandison, eines Schulmeisters Herkules. Ein unbärtiger Sylvio am Scheidewege. Wären mir die Weiber begegnet, siehst Du, Eine unter den Arm, Eine unter den, und alle Beide hätten mit fortgemußt.<hi rend="sup">*)</hi><note place="bottom">Man vergleiche hiemit Schillers Epigramm:
+                                <cit>
+                                    <quote>
+                                        <lg>
+                                            <head>Meine Antipathie.</head>
+                                            <l>Herzlich ist mir das Laster zuwider, und doppelt zuwider</l>
+                                            <l>Ist mir’s, weil es so viel schwatzen von Tugend gemacht.</l>
+                                            <l>»Wie, Du hassest die Tugend?« — Ich wollte, wir übten sie Alle;</l>
+                                            <l>Und so spräche, wills Gott, ferner kein Mensch mehr davon.</l>
+                                        </lg>
+                                    </quote>
+                                </cit>
+                            </note></p>
+                    </sp>
+                    
+                    <p><pb n="189" facs="130019387349_0222"/> Da haben wir aus Goethe’s erster Kraftperiode die neue Auffassung der Antike,
                         als Gegensatz zu der französirten Wieland’s hingestellt, und wir haben
                         gleichzeitig das poetische Glaubensbekenntnis Dessen, der von seinen
                         Zeitgenossen der große Heide genannt wurde. Es ist die Philosophie Spinozas,
@@ -4598,14 +4618,24 @@
                         »Die Künstler«, »Die Ideale«, »Das Ideal und das Leben«. Denken wir nur an
                         die Zeile:</p>
 
-                    <p>»Auch ich war in Arkadien geboren,«</p>
+<cit>
+    <quote>
+<lg>
+                    <l>»Auch ich war in Arkadien geboren,«</l>
+</lg>
+    </quote>
+</cit>
                     <p>und an folgende Schilderung des Lebens der Götter:</p>
 
-                    <p>»Ewig klar und spiegelrein und eben</p>
-
-                    <p>Fließt das zephyrleichte Leben</p>
-
-                    <p>Im Olymp den Seligen dahin.«</p>
+                    <cit>
+                    <quote>
+                    <lg>
+                    <l>»Ewig klar und spiegelrein und eben</l>
+                    <l>Fließt das zephyrleichte Leben</l>
+                    <l>Im Olymp den Seligen dahin.«</l>
+                    </lg>
+                    </quote>
+                    </cit>
 
                     <p>Es ist diese ganz einseitige Auffassung der Antike, welche sich aus der in
                         »Götter, Helden und Wieland« angedeuteten entwickelt, und es ist endlich
@@ -4617,9 +4647,8 @@
                         friedlicher und gedämpfter Harmonie, welches die kräftige Tendenz
                         ablöste.</p>
 
-                    <p><pb n="191" facs="130019387349_0224"/></p>
-
-                    <p>Ich brauche diese ganze neue Auffassung der Antike, wie sie dem germanischen
+                    
+                    <p><pb n="191" facs="130019387349_0224"/> Ich brauche diese ganze neue Auffassung der Antike, wie sie dem germanischen
                         Stamme eigenthümlich ist und wie sie durch »Corinna« zum ersten Male in
                         Frankreich eingeführt wird, hier nicht umständlicher zu schildern; denn es
                         ist dieselbe Auffassung, welche allgemein in Dänemark herrscht, welche Jeder
@@ -4769,8 +4798,8 @@
 
                     <p>Wir wissen nun, welche Auffassung des Griechenthumes in Frankreich durch Frau
                         von Staëls »Corinna« zu Worte kam. Es war natürlich und nothwendig, daß sie
-                        nach der französischen Verzerrung des antiken Regel-<pb n="198"
-                            facs="130019387349_0231"/> systemes hervortrat; aber was ich zu erweisen
+                        nach der französischen Verzerrung des antiken Regel<pb n="198"
+                            facs="130019387349_0231"/>systemes hervortrat; aber was ich zu erweisen
                         gesucht habe, ist, daß auch diese neue Auffassung der Antike nur einen
                         relativen, keinen absoluten Werth besitzt.</p>
 
@@ -4787,7 +4816,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="199" facs="130019387349_0079"/>15.</head>
+                    <head type="add">15. Frau von Stäel's »Corinna«</head>
+                    <head type="sub"><pb n="199" facs="130019387349_0079"/> 15.</head>
 
                     <p>Frau von Staëls schriftstellerische Thätigkeit läßt sich beständig von zwei
                         Seiten betrachten. Sie zerfällt gleichsam in zwei Theile, eine männliche und
@@ -4826,8 +4856,8 @@
                         Männlichen eine Art Ideal für das Weib wird, aber ein Ideal, das sie nicht
                         versteht, das sie in der Wirklichkeit nicht wieder erkennt, und das sie
                         deshalb am liebsten und am schlechtesten schildert.</p>
-                    <pb n="201" facs="130019387349_0234"/>
-                    <p>Was ich hier gesagt habe, gilt von Oswald’s heldenmüthigem Benehmen bei dem
+                    
+                    <p><pb n="201" facs="130019387349_0234"/> Was ich hier gesagt habe, gilt von Oswald’s heldenmüthigem Benehmen bei dem
                         Brande in Ancona, wo er unter den schreckvollsten Umständen zum Retter der
                         ganzen Stadt wird. Er allein versucht mit seinen Engländern kaltblütig
                         denselben zu löschen, und es gelingt ihm. Er befreit die im Ghetto
@@ -4957,9 +4987,9 @@
                         sich als eine fliegende, schnell erloschene Flamme offenbart, und wo der
                         Vulkan beständig die Fruchtbarkeit bedroht?</p>
 
-                    <pb n="207" facs="130019387349_0240"/>
+                    
 
-                    <p>Sie sagt: »Christus erlaubte einem schwachen und vielleicht reuevollen Weibe,
+                    <p><pb n="207" facs="130019387349_0240"/> Sie sagt: »Christus erlaubte einem schwachen und vielleicht reuevollen Weibe,
                         seine Füße mit den kostbarsten Wohlgerüchen zu salben; und Denen, die für
                         dieselben eine bessere Verwendung anriethen, verwies er Das: »Laßt sie
                         gewähren,« sagte er, »denn ihr habt mich nicht allezeit bei euch.« Ach,
@@ -4989,11 +5019,12 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="209" facs="130019387349_0079"/>16.</head>
+                    <head type="add">16. Kampf gegen Nationalvorurtheile</head>
+                    <head type="sub"><pb n="209" facs="130019387349_0079"/> 16.</head>
 
                     <p>Man könnte »Corinna« ein Gedicht über Nationalvorurtheile nennen. Oswald
                         repräsentirt alle diejenigen Englands, der Graf d’Erfeuil alle diejenigen
-                        Frank- reichs, und gegen die Vorurtheile dieser beiden, zu jener Zeit
+                        Frankreichs, und gegen die Vorurtheile dieser beiden, zu jener Zeit
                         stärksten und selbstbegnügtesten Nationen Europas kämpft Corinna mit ihrer
                         ganzen Seele und mit aller Begeisternng ihres poetischen Gemüthes. Dieser
                         Kampf ist kein kaltblütiger, denn Corinna’s ganzes Glück hängt davon ab, in
@@ -5181,9 +5212,9 @@
                         ein Eroberer ohne Beute, der aus der Ewigkeit schöpft, um das Zeitliche zu
                         bereichern!«</p>
 
-                    <p><pb n="218" facs="130019387349_0251"/></p>
+         
 
-                    <p>Auf der Basis dieses Grundrisses von Gegensätzen zwischen dem katholischen
+                    <p><pb n="218" facs="130019387349_0251"/> Auf der Basis dieses Grundrisses von Gegensätzen zwischen dem katholischen
                         und dem protestantischen Gefühlsleben erhebt sich der Gegensatz zwischen
                         einer zwiefachen Kunstanschauung. Und auf diesem Punkte ist die Bedeutung
                         des Buches die, einen energischen Streich wider den ganzen protestantischen
@@ -5461,9 +5492,9 @@
                         zunehmenden Vorliebe für den Katholicismus verspüren, dessen vertrauliches
                         Verhältnis zur Kunst und Phantasie so ganz nach seinem Herzen ist.</p>
 
-                    <pb n="231" facs="130019387349_0264"/>
+                    
 
-                    <p>Ich nehme also als Beispiel und Beweis für meine Behauptung ein einzelnes
+                    <p><pb n="231" facs="130019387349_0264"/> Ich nehme also als Beispiel und Beweis für meine Behauptung ein einzelnes
                         katholisches Kunstwerk, die Markuskirche in Venedig. Wenn man sie zum ersten
                         Mal erblickt, so stutzt man draußen einen Augenblick über ihre orientalische
                         Facade, ihre blinkenden Kuppeln, ihre wunderlichen Bogen, die auf kurzen,
@@ -5519,7 +5550,8 @@
                 </div>
 
                 <div>
-                    <head type="sub"><pb n="234" facs="130019387349_0079"/>17.</head>
+                    <head type="add">17. Sympathie für die Religion</head>
+                    <head type="sub"><pb n="234" facs="130019387349_0079"/> 17.</head>
 
                     <p>Corinna, die kunstliebende Dichterin, nimmt daher dem protestantischen Oswald
                         gegenüber beständig Partei für den Katholicismus. Dieser schleicht sich aus
@@ -5669,8 +5701,8 @@
                         Gemüthes hat, im Verein mit dem Unheimlichen und der Gespensterfurcht, sich
                         einmischte und das seinem Ursprunge nach Romanische beseelte.</p>
 
-                    <pb n="241" facs="130019387349_0274"/>
-                    <p>Deutschlands große Geister theilten sich jetzt in zwei Schulen. Die eine, die
+                    
+                    <p><pb n="241" facs="130019387349_0274"/> Deutschlands große Geister theilten sich jetzt in zwei Schulen. Die eine, die
                         fortschreitende, schloß sich an Fichte und Schiller; die andere, welche nach
                         den großen politischen Revolutionen sich nach Frieden sehnte, die rein
                         artistische, die nicht einräumen wollte, daß die Kunst einen Zweck außerhalb
@@ -5681,13 +5713,14 @@
                         schließlichen Apotheose der orientalisch müßigen Träumereien des
                         »westöstlichen Divans«, als ihr natürlicher Vorgänger und Wegweiser
                         erschien.</p>
-                </div>
+                </div><!-- lukker kap. 17 -->
+                </div><!-- lukker del 1 -->
 
-                <div>
-                    <head><pb n="243" facs="130019387349_0064"/>Die romantische Schule in
-                        Deutschland.</head>
-
-                    <div>
+                <div><!-- begynder del 2 -->
+                    <head type="add">Die romantische Schule in Deutschland</head>
+                    <head type="original"><pb n="243" facs="130019387349_0064"/> Die romantische Schule in Deutschland.</head>
+<pb/>
+                    
                         <p><pb n="245" facs="130019387349_0064"/>Nachdem ich die reformatorische und
                             oppositionelle Seite der edlen und bedeutungsvollen
                             Schriftstellerthätigkeit der Frau von Staël geschildert, habe ich in
@@ -5737,11 +5770,12 @@
                             poetische Begeisterung, mit welcher sie auf unsern heimatlichen Boden
                             verpflanzt ward und die Jugend hinriß zu einer Zeit, wo es in Dänemark
                             noch eine Jugend gab.</p>
-                    </div>
+                    
 
 
                     <div>
-                        <head type="sub"><pb n="248" facs="130019387349_0079"/>1.</head>
+                        <head type="add">1. Antike Renaissance</head>
+                        <head type="sub"><pb n="248" facs="130019387349_0079"/> 1.</head>
 
                         <p>Man kann die deutsch-romantische Schule einerseits als eine Art
                             katholischer Renaissance bezeichnen, andererseits ist sie
@@ -5820,7 +5854,8 @@
                     </div>
 
                     <div>
-                        <head type="sub"><pb n="252" facs="130019387349_0079"/>2.</head>
+                        <head type="add">2. Romantische Reaktion wider die Renaissance der Antike</head>
+                        <head type="sub"><pb n="252" facs="130019387349_0079"/> 2.</head>
 
                         <p>Allein, wie es zu erwarten stand: das so äußerliche und in Wirklichkeit
                             für einen modernen Germanen so wenig natürliche Streben, antik und
@@ -5853,36 +5888,45 @@
                             Milchstraße vernehmen. Man wollte das Gras wachsen hören und die
                             Vogelsprache verstehen. Tief in die Mondscheinnacht führt uns Tieck
                             hinein mit der Beschwörungsformel:</p>
+                        
+                        <cit><quote><lg>
 
-                        <p>Mondbeglänzte Zaubernacht,</p>
-                        <p>Die den Sinn gefangen hält,</p>
-                        <p>Wundervolle Märchenwelt,</p>
-                        <p>Steig aus in der alten Pracht! — </p>
-                        <p>tief in die Waldeinsamkeit mit den Koseworten:</p>
-                        <p>Waldeinsamkeit,</p>
-                        <p>Die mich erfreut,</p>
-                        <p>So morgen wie heut,</p>
-                        <p>In ewiger Zeit! — </p>
+                        <l>Mondbeglänzte Zaubernacht,</l>
+                        <l>Die den Sinn gefangen hält,</l>
+                        <l>Wundervolle Märchenwelt,</l>
+                        <l>Steig aus in der alten Pracht! —</l>
+                        </lg></quote></cit>
+                            
+                            <p>tief in die Waldeinsamkeit mit den Koseworten:</p>
+                        
+                        <cit><quote><lg>
+                        <l>Waldeinsamkeit,</l>
+                        <l>Die mich erfreut,</l>
+                        <l>So morgen wie heut,</l>
+                        <l>In ewiger Zeit! — </l>
+                        </lg></quote></cit>
+                            
                         <p>in den Wald hinein, wo das Blaublümelein wuchs, die mystische Blume,
                             welche das poetische Haupt der <pb n="254" facs="130019387349_0287"/>
                             Schule, Novalis, in seinen Romanen und Gedichten befang.</p>
 
-                        <p>Man wollte, sagte ich, etwas <emph>Einsältiges.</emph> Erinnern wir uns
+                        <p>Man wollte, sagte ich, etwas <emph>Einsältiges</emph>. Erinnern wir uns
                             an das schöne Gedicht »Poesie« von Novalis:</p>
-
-                        <p>Wenn nicht mehr Zahlen und Figuren</p>
-                        <p>Sind Schlüssel aller Kreaturen,</p>
-                        <p>Wenn Die, so singen oder küssen,</p>
-                        <p>Mehr als die Tiefgelehrten wissen</p>
-                        <p>Wenn sich die Welt ins freie Leben</p>
-                        <p>Und in die Welt wird zurück begeben,</p>
-                        <p>Wenn dann sich wieder Licht und Schatten</p>
-                        <p>Zu echter Klarheit werden gatten,</p>
-                        <p>Und man in Märchen und in Gedichten</p>
-                        <p>Erkennt die ew’gen Weltgeschichten:</p>
-                        <p>Dann fliegt vor einem geheimen Wort</p>
-                        <p>Das ganze verkehrte Wesen fort.</p>
-
+<cit><quote><lg>
+                        <l>Wenn nicht mehr Zahlen und Figuren</l>
+                        <l>Sind Schlüssel aller Kreaturen,</l>
+                        <l>Wenn Die, so singen oder küssen,</l>
+                        <l>Mehr als die Tiefgelehrten wissen</l>
+                        <l>Wenn sich die Welt ins freie Leben</l>
+                        <l>Und in die Welt wird zurück begeben,</l>
+                        <l>Wenn dann sich wieder Licht und Schatten</l>
+                        <l>Zu echter Klarheit werden gatten,</l>
+                        <l>Und man in Märchen und in Gedichten</l>
+                        <l>Erkennt die ew’gen Weltgeschichten:</l>
+                        <l>Dann fliegt vor einem geheimen Wort</l>
+                        <l>Das ganze verkehrte Wesen fort.</l>
+</lg></quote></cit>
+                        
                         <p>Wir sehen hier leicht den Uebergang zu den erhabenen Aussprüchen der
                             Bergpredigt. Was ist Dies anders, als eine Rückkehr zu jenem Worte:
                             »Selig sind die Armen im Geiste!« »Das ganze verkehrte Wesen«, d. h.
@@ -6038,7 +6082,8 @@
                             und Vorkehrungsmaßregeln gegen den Genuß des Menschenfleisches treffen
                             mußte, als mit Einem Worte die Menschheit so tief wie möglich in der
                             schauerlichen Kloake des Mittelalters versunken war, da erhob sich die
-                            gothische Kunst.<note> Vgl. H. Taine: Philosophie de Part.</note></p>
+                            gothische Kunst.<hi rend="sup">*)</hi><note place="bottom"> Vgl. H. Taine: Philosophie de l'art.</note></p>
+                        
                         <p> Inmitten aller Schrecknisse und Verzagtheit offenbarte sich bei den
                             Menschen, wie bei Kranken, die lange an ihr Schmerzenslager gefesselt,
                             wie bei Gefangenen, die lange in ein dunkles und feuchtes Loch gesperrt
@@ -6049,8 +6094,8 @@
                             verzückt über alles Irdische hinaus, die Einbildungskraft wurde
                             launenhaft und schwärmerisch, wie niemals zuvor.</p>
 
-                        <pb n="262" facs="130019387349_0295"/>
-                        <p> Auf dieser Grundlage erhebt sich der neue Bau. Das Herz des Menschen,
+                        
+                        <p><pb n="262" facs="130019387349_0295"/> Auf dieser Grundlage erhebt sich der neue Bau. Das Herz des Menschen,
                             der in die neue Kirche tritt, ist voller Qualen, er weiß aus Erfahrung,
                             daß das Erdenleben eitel Prüfung und Jammer ist, daß seine Kürze der
                             einzige Trost sein würde, wenn nicht die ewige, unendliche Folterpein
@@ -6067,10 +6112,10 @@
                             überirdischen Illumination, und Dies mahnt uns an das Paradies.</p>
 
                         <p>Schon die Kreuzform der Kirche ist symbolisch, man wandelt da in dem
-                            hohlen Werkzeuge des Martyrthums selbst.<note>H. Heine’s sämmtl. Werke,
+                            hohlen Werkzeuge des Martyrthums selbst.<hi rend="sup">*)</hi><note place="bottom">H. Heine’s sämmtl. Werke,
                                 Bd. VI., S. 33.</note> Die gesunde, schlichte Säule ist dem riesigen
                             Pfeiler gewichen, der so hoch in die Höhe strebt, daß er seinen
-                            irdischen Halt vergißt. Der Reichthum, <pb n="260"
+                            irdischen Halt vergißt. Der Reichthum, <pb n="263"
                                 facs="130019387349_0296"/> die Seltsamkeit und Extravaganz aller
                             Formen entspricht der Unnatur und Unruhe der krankhaften Phantasie. Die
                             Absicht ist, überall zu verblüffen und zu blenden. Aber das Paradoxe des
@@ -6117,7 +6162,7 @@
                             an Fichte und Schiller an. Es war eigentlich diese Schule, welche das
                             große, reiche Herz der Frau von Staël begeisterte. An diese dachte sie,
                             als sie in ihrer Bewunderung des deutschen Idealismus und Enthusiasmus
-                            ihr Buch »Ueber <pb n="260" facs="130019387349_0298"/> Deutschland«
+                            ihr Buch »Ueber <pb n="265" facs="130019387349_0298"/> Deutschland«
                             schrieb, wie Taeitus zu seiner Zeit seine »Germania«, um ihren
                             Landsleuten ein großes Beispiel sittlicher Reinheit und geistiger
                             Frische vorzuführen. Es war diese Schule, welcher die Jünglinge der
@@ -6177,7 +6222,7 @@
                         <p>Noch ein weiterer Zug: Der Haß gegen den Fortschritt und gegen die
                             wirkliche Welt führte dahin, daß der Hang zum Phantastischen und
                             Wunderbaren die Seele dieser Poesie und Aesthetik ward, und daß Mythus
-                            und Märchen von jetzt an die mustergültigen Arten wurden. <note>Vergl.
+                            und Märchen von jetzt an die mustergültigen Arten wurden.<hi rend="sup">*)</hi><note place="bottom">Vergl.
                                 die Abhandlung über H. C. Andersen in den »Kritiken und Portraits,
                                 von G. Brandes«; deutsch in A. Strodtmann’s »Bilder und Skizzen aus
                                 Dänemark«.</note> Alle alten Volkssagen und Legenden werden
@@ -6190,7 +6235,7 @@
                             Herzen des Menschen hinweggenommen ist, so entstehen im Drama die
                             Schicksalstragödien mit ihren symbolischen Schattengestalten, ihren
                             fatalistischen Albernheiten und ihrem thörichten Aber<pb n="268"
-                                facs="130019387349_0301"/> glauben, und die dramatischen Satiren
+                                facs="130019387349_0301"/>glauben, und die dramatischen Satiren
                             nehmen durchgehends den Ton des Marionettenspieles an (bei uns
                             bezeichnet sogar Heiberg seine ersten Stücke ausdrücklich als
                             Marionettenspiele). Man wird immer kindlicher: aus Furcht vor dem Salon
@@ -6212,8 +6257,7 @@
                             Werner und Friedrich Schlegel, traten zur katholischen Religion über und
                             nahmen Dienste im Solde Metternich’s, des Papstes und der Jesuiten. Und
                             in Wien treffen wir nun den Verfasser der »Lucinde«, d. h. Deutschlands
-                            größten Libertin in der Litera<pb n="269" facs="130019387349_0302"/>
-                            tur, nebst seiner korpulenten Begleiterin, Dorothea Vett, damit
+                            größten Libertin in der Litera<pb n="269" facs="130019387349_0302"/>tur, nebst seiner korpulenten Begleiterin, Dorothea Vett, damit
                             beschäftigt, in der Religion und dem Kastenwesen der Inder das Vorbild
                             für die katholischen Dogmen und die katholische Religion zu finden, und
                             die absolute Monarchie als die einzige religiöse Staatsform zu
@@ -6239,7 +6283,8 @@
                     </div>
 
                     <div>
-                        <head type="sub"><pb n="270" facs="130019387349_0079"/>3.</head>
+                        <head type="add">3. Deutschland und Hindustan</head>
+                        <head type="sub"><pb n="270" facs="130019387349_0079"/> 3.</head>
 
                         <p>Es war kein Wunder, daß ein Augenblick in der Geschichte Deutschlands
                             erschien, wo man mit Leib und Seele begann, den Geist und die Kultur des
@@ -6258,16 +6303,15 @@
                             deutschen Dichter wie mit einem geheimen Zauber an; auch Heine singt
                             ja:</p>
 
-                        <p>Am Ganges dustet’s und leuchtet’s,</p>
+<cit><quote><lg>
+                        <l>Am Ganges dustet’s und leuchtet’s,</l>
+                        <l>Und Riesenbäume blühn,</l>
+                        <l>Und schöne, stille Menschen</l>
+                        <l>Vor Lotosblumen knien.</l>
+</lg></quote></cit>
+                        
 
-                        <p>Und Riesenbäume blühn,</p>
-
-                        <p>Und schöne, stille Menschen</p>
-                        <p>Vor Lotosblumen knien.</p>
-
-                        <pb n="271" facs="130019387349_0304"/>
-
-                        <p>Die Analogien zwischen Indien und Deutschland sind zahlreich und drängen
+                        <p><pb n="271" facs="130019387349_0304"/> Die Analogien zwischen Indien und Deutschland sind zahlreich und drängen
                             sich Einem von selber auf.</p>
 
                         <p>Der am tiefsten liegende gemeinsame Zug ist allerdings der Hang zur
@@ -6290,7 +6334,7 @@
                             Deutschland, so hat auch Indien nie eine klassische Prosa zu entwickeln
                             vermocht. Selbst die philosophischen Systeme sind in Indien in Versen
                             abgefaßt, und im Uebrigen: derselbe Mangel an dra<pb n="272"
-                                facs="130019387349_0305"/> matischer Begabung wie in Deutschland,
+                                facs="130019387349_0305"/>matischer Begabung wie in Deutschland,
                             dieselbe formlose Fülle, derselbe lyrische Reichthum, welcher eine
                             plastische Form und eine aktive, kraftvollsbewegte Handlung unmöglich
                             macht.</p>
@@ -6408,9 +6452,9 @@
                             er mit dem Winde, schwebt mit dem Monde durch den Himmelsraum, fühlt
                             sich als Eins mit dem formlosen Allleben.</p>
 
-                        <pb n="277" facs="130019387349_0310"/>
+                        
 
-                        <p> »Je mehr er die Natur betrachtet,« sagt Taine in seiner Geschichte der
+                        <p><pb n="277" facs="130019387349_0310"/> »Je mehr er die Natur betrachtet,« sagt Taine in seiner Geschichte der
                             englischen Literatur, »desto göttlicher findet er sie, göttlich bis zu
                             ihren Felsen und Pflanzen herab. Im Walde, der leblos scheint, athmet
                             jedes Blatt und die Säfte steigen unmerklich durch die knorrigen Stämme
@@ -6438,14 +6482,15 @@
 
                         <p> Es ist dieser Pantheismus, den Goethe in dem beißenden Epigramme
                             vertrat:</p>
+                        
+                        <cit><quote><lg>
 
-                        <p>Was soll mir euer Hohn</p>
-
-                        <p>Ueber das All und Eine?</p>
-
-                        <p>Der Professor ist eine Person,</p>
-
-                        <p>Gott ist keine.</p>
+                        <l>Was soll mir euer Hohn</l>
+                        <l>Ueber das All und Eine?</l>
+                        <l>Der Professor ist eine Person,</l>
+                        <l>Gott ist keine.</l>
+                            
+                        </lg></quote></cit>
 
                         <p>Es ist dieser Pantheismus, den er in »Faust« entwickelte, und den die
                             Romantiker fortsetzten, sie, von denen ich sagte, daß sie das Gras
@@ -6459,11 +6504,11 @@
                             das Volk dem französischen Joche zu entreißen, bezeichnet Schelling’s
                             Philosophie das extremste Rückschreiten nach innen. Er nennt selbst sein
                             ganzes System eine Reaktion gegen die Aufklärung und Abklärung des
-                            Verstandeszeitalters. <note>Gewinns, Geschichte des neunzehnten
+                            Verstandeszeitalters.<hi rend="sup">*)</hi><note place="bottom">Gervinus, Geschichte des neunzehnten
                                 Jahrhunderts.</note></p>
 
                         <p>Wie Goethe sich in den fernen Orient flüchtete, so flüchtete Schelling
-                            sich aus der störenden Außenwelt in <pb n="111" facs="130019387349_0312"
+                            sich aus der störenden Außenwelt in <pb n="279" facs="130019387349_0312"
                             /> die fernste Vorzeit und fand dort die Quellen der Wahreit und des
                             Lebens. Im Gegensatze zu der Ansicht der Aufklärungsperiode, daß die
                             Menschheit sich langsam von der Barbarei zur Kultur, vom Instinkte zur
@@ -6509,9 +6554,9 @@
                             steht, behauptet, sie allein bahne den Weg zur Philosophie, zur Einsicht
                             in die Identität des Ideellen und des Realen.</p>
 
-                        <p><pb n="281" facs="130019387349_0314"/></p>
+                       
 
-                        <p>Ja, diese intellektuelle Anschauung war sogar nicht blos der Weg, sie war
+                        <p><pb n="281" facs="130019387349_0314"/> Ja, diese intellektuelle Anschauung war sogar nicht blos der Weg, sie war
                             das Ziel. Und dies Verwechseln von Werkzeug und Werk bezeichnet den
                             Eintritt einer gänzlichen, allgemeinen Verwirrung in der romantischen
                             Poesie und Wissenschaft, indem die Wissenschaft bald mit den Mitteln der
@@ -6579,9 +6624,9 @@
                             freie Sinnlichkeit in den »Vertrauten Briefen über die Lucinde« zu
                             verrathen.</p>
 
-                        <pb n="284" facs="130019387349_0317"/>
+                        
 
-                        <p> Und überhaupt schaffte man sich erst spät das griechische Wesen vom
+                        <p><pb n="284" facs="130019387349_0317"/> Und überhaupt schaffte man sich erst spät das griechische Wesen vom
                             Halse. Jeder der beiden Schlegel schrieb sein Drama, das antik sein
                             sollte, und selbst die abgeschmacktesten Schicksalstragödien, wie z. B.
                             Werner’s »Vierundzwanzigster Februar« sind nur unechte Kinder von
@@ -6592,12 +6637,12 @@
                             geht so weit, daß sie, als an diesem Tage ein Huhn geschlachtet wird,
                             ausruft:</p>
 
-                        <p>Entgegen krisch es mir, das Huhn,</p>
-
-                        <p>Wie Fluch, wie Vater, als er röchelnd nun</p>
-
-                        <p>Im Sterben lag!</p>
-
+<cit><quote><lg>
+                        <l>Entgegen krisch es mir, das Huhn,</l>
+                        <l>Wie Fluch, wie Vater, als er röchelnd nun</l>
+                        <l>Im Sterben lag!</l>
+</lg></quote></cit>
+                        
                         <p> Aehnliche Albernheiten findet man in Müllner’s »Neunundzwanzigsten
                             Februar« und in Grillparzer’s »Ahnfrau«. Spuren dieses
                             Schicksalsglaubens, die im Uebrigen von Tieck ausgehen, treffen wir auch
@@ -6631,7 +6676,7 @@
                             von Staëls Buch »Ueber Deutschland«, zu vergleichen. Schlegel zeigt sich
                             Frankreich gegenüber eben so voll Mißverständnis und Gehässigkeit, wie
                             Frau von Staël sich Deutschland gegenüber ver<pb n="286"
-                                facs="130019387349_0319"/> ständnisvoll und sympathisch erweist. Er
+                                facs="130019387349_0319"/>ständnisvoll und sympathisch erweist. Er
                             hat nicht genug Worte des Hohns für Corneille und Racine, und er
                             behandelt den unsterblichen Dichter des »Tartusse« mit einer
                             Geringschätzung die allzu thöricht ist, um nicht auf Den zurück zu
@@ -6654,10 +6699,10 @@
                             ästhetisch-metaphysisch ist, daß die empirisch-historische Auffassung
                             gänzlich verdrängt wird und nicht zu ihrem Rechte gelangen kann.</p>
 
-                        <pb n="287" facs="130019387349_0320"/>
+                        
 
 
-                        <p>Man hat das eine absolute Muster nach dem andern. Wie die Griechen und
+                        <p><pb n="287" facs="130019387349_0320"/> Man hat das eine absolute Muster nach dem andern. Wie die Griechen und
                             Aristoteles in Frankreich unter Ludwig XIV. als die absoluten Muster
                             betrachtet wurden, so ward jetzt z. B. Shakspeare das absolute Muster in
                             der Poesie, oder (wie bei uns in Kierkegaard’s »Entweder—Oder«) Mozart
@@ -6670,7 +6715,7 @@
                             Dramas in lyrischer Form« Man wähnt, die Dichtungsarten und Dichterwerke
                             entwüchsen aus einander wie die Zweige auf einem Baume, statt sie in
                             ihrem Zusammenhange mit der Kultur, mit dem ganzen Leben zu studiren.
-                            Man glaubt z. B., die Tragödie habe eine ununter- brochen
+                            Man glaubt z. B., die Tragödie habe eine ununterbrochen
                             zusammenhängende Geschichte, d. h. die griechische Tragödie stehe in
                             einer Art direktem Verwandtschastsverhältnisse zu der englischen, statt
                             zu begreifen, das; die Tragödie nicht von den Tragödien anderer
@@ -6683,30 +6728,25 @@
                             die Erlaubnis, seine Stoffe zu wählen, wo es ihm beliebte. Wir haben
                             dies begeisterte Glaubensbekenntnis in unserer eigenen Literatur in
                             Oehlenschläger’s schönem Gedichte »Des Dichters Heimat«:</p>
-
-                        <p>Ihr Freunde, wünscht ihr zu erfahren</p>
-
-                        <p>Des Dichters Heimat, sein Gebiet?</p>
-
-                        <p>Dann will ich kühn es offenbaren:</p>
-
-                        <p>Es streckt sich hin von Norden bis nach Süd. </p>
-                        <p>Es reicht von Spitzberg’s kaltem Eise,</p>
-
-                        <p>Da, wo der Urwelt große Mumie ruht,</p>
-
-                        <p>Bis wo die letzte Insel leise,</p>
-
-                        <p>Unmerklich sich verliert in Südens Fluth.</p>
-                        <p>Gen Osten glänzt es an den lichten Morgen, </p>
-                        <p>An Eden’s jugendliche Pracht;</p>
-
-                        <p>Gen Westen, wo das Licht verborgen</p>
-                        <p>Umnerklich sich getaucht in Meeresnacht</p>
-                        <p>Dort klares Eis, hier blaue Wellen wieder;</p>
-                        <p>Und rund um das erhabne Vaterland</p>
-                        <p>Schlingt sich die Sonne Mittags wieder</p>
-                        <p>Als diamantnes Ordensband.</p>
+                        
+<cit><quote><lg>
+                        <l>Ihr Freunde, wünscht ihr zu erfahren</l>
+                        <l>Des Dichters Heimat, sein Gebiet?</l>
+                        <l>Dann will ich kühn es offenbaren:</l>
+                        <l>Es streckt sich hin von Norden bis nach Süd. </l>
+                        <l>Es reicht von Spitzberg’s kaltem Eise,</l>
+                        <l>Da, wo der Urwelt große Mumie ruht,</l>
+                        <l>Bis wo die letzte Insel leise,</l>
+                        <l>Unmerklich sich verliert in Südens Fluth.</l>
+                        <l>Gen Osten glänzt es an den lichten Morgen, </l>
+                        <l>An Eden’s jugendliche Pracht;</l>
+                        <l>Gen Westen, wo das Licht verborgen</l>
+                        <l>Umnerklich sich getaucht in Meeresnacht</l>
+                        <l>Dort klares Eis, hier blaue Wellen wieder;</l>
+                        <l>Und rund um das erhabne Vaterland</l>
+                        <l>Schlingt sich die Sonne Mittags wieder</l>
+                        <l>Als diamantnes Ordensband.</l>
+</lg></quote></cit>
 
                         <p>In welchem Grade all’ die neuen Anschauungen diesen größten Dichter
                             unseres eigenen Landes blitzartig durchzucken mußten, begreift sich
@@ -6746,10 +6786,10 @@
                             Romantik.</p>
 
                        
-                    </div>
+                    </div><!-- slutter kap. 3 -->
+                </div><!-- slutter del 2 -->
 
-                </div>
-            </div>
+                
         </body>
     </text>
 </TEI>
