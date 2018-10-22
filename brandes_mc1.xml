@@ -2,7 +2,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The emigrant literature (1906) [1901</title><!-- den engelske udgave kom 1901 -->
+    <title>The Emigrant Literature (1906) [1901]</title><!-- den engelske udgave kom 1901 -->
    </titleStmt>
    <publicationStmt>
     <publisher>dsl</publisher>
@@ -38,8 +38,7 @@
     </keywords>
    </textClass>
   </profileDesc>
-  
- </teiHeader>
+  </teiHeader>
  <text>
   <front>
    <figure><!-- skal vi reproducere dette? -->
@@ -324,7 +323,7 @@
     
     <div>
      <head type="add">1. Chateaubriand</head>
-     <head><pb n="[7]"/> I<lb/>CHATEAUBRIAND</head>
+     <head><pb n="[7]"/> I. CHATEAUBRIAND</head>
 
      <p>THE year 1800 was the first to produce a book bearing the imprint of the new era, a work
       small in size, but great in significance and mighty in the impression it made. <emph>Atala</emph> took
@@ -531,7 +530,7 @@
     
     <div>
      <head type="add">2. Rousseau</head>
-     <head><pb n="[15]"/> II<lb/>ROUSSEAU</head>
+     <head><pb n="[15]"/> II. ROUSSEAU</head>
 
      <p>ROUSSEAU'S chief work as an imaginative writer is <emph>La Nouvelle Héloïse</emph>.</p>
 
@@ -669,7 +668,7 @@
     
     <div>
      <head type="add">3. Werther</head>
-     <head><pb n="[20]"/> III<lb/>WERTHER</head>
+     <head><pb n="[20]"/> III. WERTHER</head>
 
      <p><emph>La Nouvelle Héloïse</emph> appeared in 1761. Thirteen years later, in another country and in very
       different environments, a youthful genius, who possessed little in common with Rousseau, but
@@ -892,7 +891,7 @@
    
     <div>
      <head type="add">4. René</head>
-     <head><pb n="[29]"/> IV<lb/>RENÉ</head>
+     <head><pb n="[29]"/> IV. RENÉ</head>
 
      <p>CHATEAUBRIAND was not, like Goethe, a man of peace. A star of destruction stood above his
       cradle; he was born in the same year as Napoleon, and the cruel and dark spirit of that age of
@@ -1247,7 +1246,7 @@
    
     <div>
      <head type="add">5. Obermann</head>
-     <head><pb n="[43]"/> V<lb/>OBERMANN</head>
+     <head><pb n="[43]"/> V. OBERMANN</head>
 
      <p>A STRIKING contrast to René, egotistical and imperious as he is despite his weariness of
       life, is presented by the next remarkable variant of the type of the age.</p>
@@ -1604,7 +1603,7 @@
     
     <div>
      <head type="add">6. Nodier</head>
-     <head><pb n="[56]"/> VI<lb/>NODIER</head>
+     <head><pb n="[56]"/> VI. NODIER</head>
 
      <p>SIMULTANEOUSLY with <emph>Obermann</emph> there appeared in the French book market a little romance
       which was a product of intellectual tendencies akin to those of Sénancour. Though its author
@@ -1771,7 +1770,7 @@
     
     <div>
      <head type="add">7. Constant: »On Religion« - »Adolphe«</head>
-     <head><pb n="[63]"/> VII<lb/>CONSTANT: »ON RELIGION«–»ADOLPHE«</head>
+     <head><pb n="[63]"/> VII. CONSTANT: »ON RELIGION«–»ADOLPHE«</head>
 
      <p>THE literary critic passing from one variety to another of the type of a certain period in a
       manner resembles the scientist tracking some structure through its metamorphoses in the
@@ -2485,7 +2484,7 @@
     
     <div>
      <head type="add">8. Madame de Stäel: »Delphine«</head>
-     <head><pb n="[89]"/> VIII<lb/>MADAME DE STAËL: »DELPHINE«</head>
+     <head><pb n="[89]"/> VIII. MADAME DE STAËL: »DELPHINE«</head>
 
      <p>IN one of his letters Byron writes of <emph>Adolphe</emph>: »The book contains some melancholy truths,
       though I believe that it is too triste a work ever to have been popular. The first time I ever
@@ -2915,7 +2914,7 @@
     
     <div>
      <head type="add">9. Exile</head>
-     <head><pb n="[105]"/> IX<lb/>EXILE</head>
+     <head><pb n="[105]"/> IX. EXILE</head>
 
      <p>When the edict banishing Mme. de Staël from Paris was made known to her, she inquired
       through Joseph Bonaparte, who was among the number of her friends, whether she would be
@@ -3331,7 +3330,7 @@
     
     <div>
      <head type="add">10. »Corinne«</head>
-     <head><pb n="[121]"/> X<lb/>»CORINNE«</head>
+     <head><pb n="[121]"/> X. »CORINNE«</head>
 
      <p>In her book, <emph>Essai sur les Fictions</emph>, Mme. de Staël makes the first attempt to define her
       literary ideal. Her motto is: Avoid legend and symbol, avoid the fantastic and the
@@ -3690,7 +3689,7 @@
 
     <div>
      <head type="add">11. Attack upon national and protestant prejudices</head>
-     <head><pb n="[135]"/> XI<lb/>ATTACK UPON NATIONAL AND PROTESTANT PREJUDICES</head>
+     <head><pb n="[135]"/> XI. ATTACK UPON NATIONAL AND PROTESTANT PREJUDICES</head>
 
      <p>ONE might call <emph>Corinne</emph> a work on national prejudices. Oswald represents all those of
       England; his travelling companion, Count d'Erfeuil, all those of France; and it is against the
@@ -4175,7 +4174,7 @@
     
     <div>
      <head type="add">12. New conception of the antique</head>
-     <head><pb n="[153]"/> XII<lb/>NEW CONCEPTION OF THE ANTIQUE</head>
+     <head><pb n="[153]"/> XII. NEW CONCEPTION OF THE ANTIQUE</head>
 
      <p>There is another part of this book on Italy where the influence of Germany makes itself
       profoundly felt, and where we are also sensible of the transition from the creative mood which
@@ -4533,7 +4532,7 @@
     
     <div>
      <head type="add">13. De l'Allemagne</head>
-     <head><pb n="[164]"/> XIII<lb/>DE L'ALLEMAGNE</head>
+     <head><pb n="[164]"/> XIII. DE L'ALLEMAGNE</head>
 
      <p>The strongly opposed and long suppressed book on Germany is the most mature production of
       Mme. de Staël's culture and intellect. It is the first of her longer works in which she so
@@ -5051,7 +5050,7 @@
     
     <div>
      <head type="add">14. Barante</head>
-     <head><pb n="[183]"/> XIV<lb/>BARANTE</head>
+     <head><pb n="[183]"/> XIV. BARANTE</head>
 
      <p>Mme. de Staël's book on Germany was a glance into the future, a glimpse of what was going on
       beyond the frontiers of France; it was in many ways a prophecy of the nature of the literature
@@ -5339,7 +5338,7 @@
     
     <div>
      <head type="add">15. Conclusion</head>
-     <head><pb n="[194]"/> XV<lb/>CONCLUSION</head>
+     <head><pb n="[194]"/> XV. CONCLUSION</head>
 
      <p>The literary group the formation and development of which we have been following, produces
       the impression of an interwoven whole. Multitudes of threads that cross and recross each other
