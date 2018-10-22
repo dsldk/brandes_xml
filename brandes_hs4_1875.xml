@@ -140,7 +140,7 @@
                         »<bibl n="gautier-les-grotesques">Les grotesques</bibl>«.) I <emph>Danmark</emph> fulgte Aanderne
                         ved Aarhundredets Begyndelse i Hovedsagen den tydske Strømning. Man
                         opponerede mod den franske Cultur. <persName key="adam-oehlenschlager">Oehlenschlägers</persName> Digt »<bibl>Busten</bibl>« i
-                            »<bibl>Langelandsreisen</bibl>« antyder den nye Bevægelses Charakter.
+                        »<bibl n="oehlenschlaeger-langelands-reise">Langelandsreisen</bibl>« antyder den nye Bevægelses Charakter.
                         Digteren antager først den Buste, han <pb n="8"/> finder i det fremmede
                         Værelse, for <persName key="francois-voltaire">Voltaires</persName>, og nu
                         følge Versene:</p>
@@ -155,7 +155,7 @@
                     </cit>
                     <p>Saa opdager han, at det er <persName key="johannes-ewald">Ewalds</persName>
                         Buste, for hvilken han staaer, og giver sin begeistrede Taknemmelighed mod
-                        Digteren Luft. En omstændelig Analyse af <persName key="carsten-hauch">Hauchs</persName> »<bibl>Hamadryaden</bibl>« har ligeledes ført mig til
+                        Digteren Luft. En omstændelig Analyse af <persName key="carsten-hauch">Hauchs</persName> »<bibl n="hauch-hamadryaden">Hamadryaden</bibl>« har ligeledes ført mig til
                         det Resultat, at det var den franske Aandsretning, især som denne tog sig ud
                         gjennem tydske Briller, hvilken den nye Skole vilde tillivs<note place="bottom">Se »<bibl>C. Hauch</bibl>« af G. Brandes. »<bibl>Nyt
                                 dansk Maanedsskrift</bibl>« 1873, 3die og 4de Hefte.</note>. <ref target="n2418"/><persName key="henrich-steffens">Steffens</persName> bragte jo desuden den
@@ -186,7 +186,7 @@
                             <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> i Frankrig. Saa følger i England <persName key="thomas-percy">Percy’s</persName>
                         <bibl>Samling af de engelske Folkeviser</bibl><!-- uden »« --> og i Skotland
                             <persName key="sir-walter-scott">Walter Scotts</persName>
-                        <bibl>Samling af gamle skotske Ballader</bibl><!-- uden »« -->. Men mellem
+                        <bibl n="scott-minstrelsy-of-the-scottish-border">Samling af gamle skotske Ballader</bibl><!-- uden »« -->. Men mellem
                         disse to ligger en af hine litterære Strøm<pb n="10"/>ninger fra Land til
                         Land og tilbage, som det er mit Hovedøiemed at paapege, og som her paa en
                         slaaende Maade træder for Dagen. Der sad, kort efter at <persName key="thomas-percy">Percys</persName>
@@ -196,9 +196,9 @@
                         med to Søstre, i hvis Hus denne Bog en Dag dumper ned. Den gjør et saadant
                         Indtryk paa <persName key="gottfried-august-burger">Bürger</persName>, at
                         den fremkalder en Revolte i hans Sind, og han plages af Lyst til at skrive
-                        Noget, der længe havde været banlyst fra al god Kunstdigtning, men <ref target="n2420"/>som han til <persName key="jens-baggesen">Baggesen</persName> (se »<bibl>Labyrinthen</bibl>«) betegnede som den
+                        Noget, der længe havde været banlyst fra al god Kunstdigtning, men <ref target="n2420"/>som han til <persName key="jens-baggesen">Baggesen</persName> (se »<bibl n="baggesen-labyrinten">Labyrinthen</bibl>«) betegnede som den
                         egentlige »Poesi«<!-- lemma slut -->: en Ballade. Saa begynder han da paa sin berømte
-                            »<bibl>Leonore</bibl>«, udarbeidende den langsomt, Uge efter Uge, og med
+                        »<bibl n="burger-lenore">Leonore</bibl>«, udarbeidende den langsomt, Uge efter Uge, og med
                         en saadan Overbevisning om Betydningen af det Skridt, han foretager sig, at
                         hans Breve til hans Venner derom strømme over af den heftigste Selvfølelse.
                         Saa kommer denne Ballade ud og gaaer snart Europa rundt. I Aaret 1795 gjør
@@ -208,7 +208,7 @@
                         Oversættelse af denne Ballade<!-- uden »« --> og en anden om »Den vilde
                         Jæger«<!-- lemma slut; ingen bibl i lemma - oplysninger i kom. -->. Da disse
                         Oversættelser modtoges med Bifald, begyndte han at ansee sig for Digter. Og
-                        det er paa Grundlag af disse Oversættelser og den af <ref target="n2423"/>»<bibl>Götz <pb n="11"/> v. Berlichingen</bibl>«, som <persName key="sir-walter-scott">Scott</persName> i 1799 udgav<!-- note slut -->,
+                        det er paa Grundlag af disse Oversættelser og den af <ref target="n2423"/>»<bibl n="scott-goethe-gotz-von-berlichingen">Götz <pb n="11"/> v. Berlichingen</bibl>«, som <persName key="sir-walter-scott">Scott</persName> i 1799 udgav<!-- note slut -->,
                         at den nationale skotske Romantik i hans Poesier reiste sig.</p>
                     <p> Her er altsaa oprindeligt i denne Litteratur et Pust af den fælleseuropæiske
                         Reaction mod det 18de Aarhundrede. Vi finde den levende Nationalfølelse, der
@@ -268,8 +268,8 @@
                         Nattergalemelodier og drukner den i Sødme. Vi leve med ham i en stadig
                         Vision af Vinger, Blomster, Regnbuer, Smil, Rødmen, Blussen, Taarer, Kys og
                         atter Kys. Naturalisme, det er den virkelig dybest liggende Tendens i Værker
-                        som <persName key="george-gordon-byron">Byrons</persName> »<bibl>Don
-                            Juan</bibl>« og <persName key="percy-bysshe-shelley">Shelley’s</persName> »<bibl>The Cenci</bibl>«. Med andre Ord, paa
+                        som <persName key="george-gordon-byron">Byrons</persName> »<bibl n="byron-don-juan">Don
+                            Juan</bibl>« og <persName key="percy-bysshe-shelley">Shelley’s</persName> »<bibl n="shelley-the-cenci">The Cenci</bibl>«. Med andre Ord, paa
                         engelsk Grund er Naturalismen saa stærk, at den gjennemtrænger den
                         romantiske Supranaturalisme hos <persName key="samuel-taylor-coleridge">Coleridge</persName> ikke mindre end den høikirkelige Theisme hos
                             <persName key="william-wordsworth">Wordsworth</persName>, <pb n="14"/>
@@ -313,7 +313,7 @@
                                             approaches«<!-- tilføjet »« --><!-- lemma slut -->.</l>
                                     </lg>
                                 </quote>
-                                <bibl>Moore: »Intercepted letters« Nr. 7.</bibl>
+                                <bibl n="moore-intercepted-letters">Moore: »Intercepted letters« Nr. 7.</bibl>
                             </cit>
                         </note> Og hvilken Rolle spille ikke disse Herre<pb n="15"/>sæder i to saa
                         polart modsatte Digternaturers Existents som <persName key="george-gordon-byron">Byrons</persName> og <persName key="sir-walter-scott">Scotts</persName>. <ref target="n2436"/>Newsteads<!-- lemma slut --> Navn er uadskilleligt knyttet til <persName key="george-gordon-byron">Byrons</persName> som <ref target="n2439"/>Abbotsfords<!-- lemma slut --> til <persName key="sir-walter-scott">Walter
@@ -341,10 +341,10 @@
                         havde <ref target="n2443"/>Newstead<!-- lemma slut --> den ved <ref target="n2446"/>Robin Hood og hans lystige Mænd berømte Sherwood Skov<!-- lemma slut -->.
                         Alligevel have disse Minder ingensomhelst kjendelig Indflydelse udøvet paa
                             <persName key="george-gordon-byron">Byrons</persName> Poesi, skjøndt han
-                        iøvrigt skildrer selve Abbediet fortræffeligt i 13de Sang af »<bibl>Don
+                        iøvrigt skildrer selve Abbediet fortræffeligt i 13de Sang af »<bibl n="byron-don-juan">Don
                             Juan</bibl>«. Minderne fra Ettrickskoven gaae derimod som et Omkvæd
                         gjennem <persName key="sir-walter-scott">Scotts</persName> hele Digtning, ja
-                        det er endog ham og ikke <persName key="george-gordon-byron">Byron</persName>, som (i »<bibl>Ivanhoe</bibl>«) kalder Sherwoodskovens
+                        det er endog ham og ikke <persName key="george-gordon-byron">Byron</persName>, som (i »<bibl n="scott-ivanhoe">Ivanhoe</bibl>«) kalder Sherwoodskovens
                         Liv og Poesi op fra de Døde.</p>
                     <p>En anden engelsk Betingelse for Naturalismen er Digternes Kjærlighed til de
                         høiere Dyr og deres stadige Forhold til Dyreverdenen. De <pb n="17"/> have
@@ -389,7 +389,7 @@
                         store Frihedssymbol paa samme Maade, som <placeName>Alperne</placeName> til
                         alle <pb n="19"/> Tider have gjort det for de frie Beboere af Schweiz. Med
                         Sandhed udbryder <persName key="william-wordsworth">Wordsworth</persName>
-                            (»<bibl>Sonnets dedicated to Liberty</bibl>« I, XII):</p>
+                        (»<bibl n="scott-sonnets">Sonnets dedicated to Liberty</bibl>« I, XII):</p>
                     <cit>
                         <quote>
                             <lg>
@@ -403,12 +403,12 @@
                     </cit>
                     <p> Derfor dukker da ogsaa den længst begravne Aand fra Vikingetiden op paany
                         hos Landets ypperste Digtere i denne Tidsalder, i hvilken den engelske Poesi
-                        i dette Aarhundrede synes at have culmineret. <persName key="samuel-taylor-coleridge">Coleridges</persName> Digt »<bibl>Den
+                        i dette Aarhundrede synes at have culmineret. <persName key="samuel-taylor-coleridge">Coleridges</persName> Digt »<bibl n="coleridge-the-rime-of-the-ancyent-marinere">Den
                             gamle Sømand</bibl>« samler al Havets Rædsel og Gru, <persName key="george-gordon-byron">Byrons</persName> Vikingefarter afspeile sig
-                        direkte i »<bibl>Childe Harold</bibl>« og »<bibl>Don Juan</bibl>«, <persName key="percy-bysshe-shelley">Shelleys</persName> Lidenskab for Sø og
+                        direkte i »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>« og »<bibl n="byron-don-juan">Don Juan</bibl>«, <persName key="percy-bysshe-shelley">Shelleys</persName> Lidenskab for Sø og
                         Seilads lever og aander i hans Rytmers Bølgeslag og i alle dem af hans
                         Sange, der forherlige Vind og Vove, først og fremmest i hans Mesterværk
-                            »<bibl>Oden til Vestenvinden</bibl>«.</p>
+                        »<bibl n="shelley-ode-to-the-west-wind">Oden til Vestenvinden</bibl>«.</p>
                     <p> Overført paa Samfundet bliver Naturalismen, som allerede hos <persName key="jean-jacques-rousseau">Rousseau</persName>, revolutionær, og bag
                         hin Kjærlighed til Grundbesiddelse og denne Lyst til at udsætte sig for
                         Havets Luner og beherske dem, der er Naturalismens dybtliggende Aarsag,
@@ -485,7 +485,7 @@
                         Idyllers<!-- lemma slut --> Tid; han svarer som Digter temmelig nøie til
                         Socialisten <persName key="robert-owen">Owen</persName>. <persName key="percy-bysshe-shelley">Shelley</persName>, der i Politiken havde saa
                         fin en Modtagelighed, at man bestandig mindes det Udtryk af ham, der findes
-                        i hans »<bibl>Julian og Maddolo</bibl>«:</p>
+                        i hans »<bibl n="shelley-julian-and-maddalo-a-conversation">Julian og Maddolo</bibl>«:</p>
                     <cit>
                         <quote>
                             <lg>
@@ -499,10 +499,10 @@
                         <persName key="percy-bysshe-shelley">Shelley</persName>, der forudfølte saa
                         mangen politisk Revolution, der 50 Aar før <ref target="n2469"/>Parlamentsreformen<!-- lemma slut --> gjennemførtes udkastede den
                         nøiagtige Plan til den i en politisk Brochure, og som i Dramet
-                            »<bibl>Hellas</bibl>« profeterede den græske Opstands lykkelige Udgang
+                        »<bibl n="shelley-hellas">Hellas</bibl>« profeterede den græske Opstands lykkelige Udgang
                         paa en Tid, da den for Statsmændene stod som haabløs, <persName key="percy-bysshe-shelley">Shelley</persName> er rent Phantast, saasnart
                         han kommer ind paa Kapitlet om Menneskeslægtens tilstundende Guldalder. Man
-                        efterlæse hvorledes han som Yngling skildrer den i »<bibl>Queen Mab</bibl>«:
+                        efterlæse hvorledes han som Yngling skildrer den i »<bibl n="shelley-queen-mab">Queen Mab</bibl>«:
                             <ref target="n2470"/>»Nordpolens Is smelter, Ørkenerne opdyrkes, Basilisken
                         slikker Barnets Fod, Vindene blive melodiske, Frugterne ere altid modne,
                         Blomsterne altid smukke. <pb n="24"/> Løven leger med Kiddet, Mennesket
@@ -539,7 +539,7 @@
                             <persName key="percy-bysshe-shelley">Shelley</persName> og man vil se,
                         at hans Moral er en ligesaa udpræget Nyttephilosophi som <persName key="jeremy-bentham">Benthams</persName> og <persName key="john-stuart-mill">Stuart Mills</persName>. Der forekommer med
                         Hensyn til dette Punkt en slaaende Passus i et af hans Essays. Han siger i
-                        2det Capitel af »<bibl>Speculations on Morals</bibl>«: <ref target="n2472"/>»Hvis Nogen fremturer i at spørge, <emph>hvorfor</emph> han bør fremme
+                        2det Capitel af »<bibl n="shelley-speculations-on-morals">Speculations on Morals</bibl>«: <ref target="n2472"/>»Hvis Nogen fremturer i at spørge, <emph>hvorfor</emph> han bør fremme
                         Menneskehedens Lykke, saa forlanger han en mathematisk eller metaphysisk
                         Grund for en moralsk Handling. Absurditeten af denne Skepticisme er mindre
                         aabenbar, men ikke mindre virkelig end den at fordre en moralsk Grund for en
@@ -640,7 +640,7 @@
                         herskende Kaste alle de andre. Af 30 Millioner Mennesker var <ref target="n2493"/>i dette Tidsrum kun een politisk stemmeberettiget<!-- lemma slut -->, og
                         den, som blot vil læse Udfaldene mod Englands Godsbesiddere
                         i <persName key="george-gordon-byron">Byrons</persName>
-                            »<bibl>Bronzealderen</bibl>«, vil kunne see, hvor
+                        »<bibl n="byron-the-age-of-bronze-or-carmen-seculare-et-annus-haud-mirabilis">Bronzealderen</bibl>«, vil kunne see, hvor
                         skamløst de under Krigen berigede sig paa de andre Klassers Bekostning og
                         hvor hensynsløst deres hele Politik gik ud paa at kunne vedblive hermed.</p>
                     <p> Denne Tilstand er det, som udøver en dels fordærvelig, dels i modsat Retning
@@ -690,7 +690,7 @@
                         men alle de Detailspørgsmaal, der ikke udfordrede nogen finere Sjæ<pb n="33"/>lens og Tankens Dannelse, forstod han at sætte sig ind i og behandle med
                         den Dygtighed, der var nødvendig for en Regent, som allernødigst vilde
                         indskrænke sig til at være Konge af Navn<note place="bottom">Massey:
-                                »<bibl>History of England</bibl>« I, 59 ff.</note>.</p>
+                            »<bibl n="massey-a-history">History of England</bibl>« I, 59 ff.</note>.</p>
                     <p> Skulde jeg paa en for Danske forstaaelig Maade med et eneste Ord betegne
                         Georg den 3die, da vilde jeg sige: han var Englands <persName key="frederik-6">Frederik den sjette</persName>. Han var en virkelig
                         patriarchalsk Regent og følte sig selv som sit Folks Fader. <ref target="n2501"/>Landet mistede under ham de nordamerikanske Colonier<!-- lemma slut -->,
@@ -801,18 +801,18 @@
                         Og se ham saa vinde <persName key="thomas-moore">Moore</persName> et kort
                         Minut! I dennes Brev til <persName key="anastasia-moore">sin
                             Moder</persName><!-- Anastasia Moore --> fra Juni 1811
-                            (»<bibl>Memoirs</bibl>« I, S. 225) seer man tydeligt, at han er smigret
+                        (»<bibl n="moore-memoirs">Memoirs</bibl>« I, S. 225) seer man tydeligt, at han er smigret
                         af Prindsregentens <ref target="n2515"/>»hjertelige
                         Familiaritet«<!-- lemma slut -->. Og det Samme gjælder et Øieblik om
                             <persName key="george-gordon-byron">Byron</persName>; <ref target="n2818"/>hans Forsoningsbrev til <persName key="sir-walter-scott">Walter
                             Scott</persName><!-- lemma slut --> viser tydeligt, hvor lidet ufølsom
-                        han var for Regentens Smigrerier i Anledning af »<bibl>Childe
+                        han var for Regentens Smigrerier i Anledning af »<bibl n="Childe-harold's-pilgrimage">Childe
                         Harold</bibl>«. Og nu <persName key="sir-walter-scott">Scott</persName>! I
                         sin Egenskab af haardnakket
                         <!-- <ref target="n"/> -->Tory<!-- lemma slut --> var han altid
                         Prindsregentens tro Mand, hvor ædel og brav han end var. Da <persName key="george-4">Georg den 4de</persName> som Konge ankom til Skotland,
                         hvor han optraadte i en Klanhøvdings Kostume med sine fede Lægge blottede og
-                        et skotsk Skjørt om sin uhyre Vom – Slutningen af <persName key="george-gordon-byron">Byrons</persName> »<bibl>Bronzealderen</bibl>«
+                        et skotsk Skjørt om sin uhyre Vom – Slutningen af <persName key="george-gordon-byron">Byrons</persName> »<bibl n="byron-the-age-of-bronze-or-carmen-seculare-et-annus-haud-mirabilis">Bronzealderen</bibl>«
                         spotter derover – gik <persName key="sir-walter-scott">Walter
                             Scott</persName> ombord i Kongens Jagt for at hilse paa ham, greb et
                         Glas, hvoraf Hs. Majestæt lige havde drukket, udbad sig den Naade at maatte
@@ -880,7 +880,7 @@
                             <ref target="n2524"/>»paa dem, der naar Fængslerne vare overfyldte med
                         Ulykkelige, ikke et Øieblik kunde opsætte deres tankeløse Fornøielser for at
                         gjøre Ende paa denne sørgelige Svæven mellem Liv og Død.«<!-- lemma slut -->
-                        Man efterslaa i denne Anledning <persName key="thomas-moore">Moore’s</persName> Satirer i »<bibl>Twopenny Post-bag</bibl>«. Her
+                        Man efterslaa i denne Anledning <persName key="thomas-moore">Moore’s</persName> Satirer i »<bibl n="moore-intercepted-letters">Twopenny Post-bag</bibl>«. Her
                         viser det sig, at den elskværdige irske Sangfugl havde Næb og Kløer. <ref target="n2526"/>Man seer af <persName key="sir-walter-scott">Scotts</persName> »<bibl>Levnet</bibl>« (III, 342), med hvilket roligt
                         Smil Regenten i 1815 skjemter med de Vers af <pb n="42"/>
                         <persName key="thomas-moore">Moore</persName>, der skildre hans Bord som
@@ -890,7 +890,7 @@
                         havde <persName key="robert-stewart-castlereagh">Castlereagh</persName>
                         sagt: <ref target="n2528"/>»Det er umuligt for Hans kongelige Høihed at frigjøre
                         sin Person fra den overvældende Dynge af Papirer, som ere ophobede paa hans
-                        Bord«<!-- lemma slut -->, og i <persName key="thomas-moore">Moores</persName> Satire »<bibl>The insurrection of the papers</bibl>«
+                        Bord«<!-- lemma slut -->, og i <persName key="thomas-moore">Moores</persName> Satire »<bibl n="moore-the-insurrection-of-the-papers-a-dream">The insurrection of the papers</bibl>«
                         hedder det:</p>
                     <cit>
                         <quote>
@@ -1022,7 +1022,7 @@
                         Rebellerne, var saa dyrisk og vildt, at neppe nogen Opstands Undertrykkelse
                         i den moderne Tid har ført saadanne Rædsler med sig. Jeg kommer tilbage
                         dertil sidenhen i Anledning af <persName key="thomas-moore">Moores</persName>
-                        <bibl>irske Melodier</bibl><!-- uden »« -->. Hadet til Revolutionen
+                        <bibl n="moore-irish-melodies">irske Melodier</bibl><!-- uden »« -->. Hadet til Revolutionen
                         fortsatte sig som Had til <persName key="napoleon-1">Napoleon</persName>.
                         Det gik over alle fornuftige Grændser. <ref target="n2548"/>
                         <persName key="william-makepeace-thackeray">Thackeray</persName> fortæller
@@ -1036,7 +1036,7 @@
                         lige stærkt i <persName key="william-wordsworth">Wordsworth’s</persName>
                         Sonetter, i <persName key="robert-southey">Southey’s</persName> Digte og i
                             <persName key="sir-walter-scott">Walter Scotts</persName> famøse
-                            <bibl>Napoleonsbiographi</bibl><!-- uden »« -->. <ref target="n2549"/>Napoleonskrigene<!-- lemma slut --> indlede den store britiske Reaction:
+                        <bibl n="scott-life-of-napoleon-buonaparte">Napoleonsbiographi</bibl><!-- uden »« -->. <ref target="n2549"/>Napoleonskrigene<!-- lemma slut --> indlede den store britiske Reaction:
                         Gjentagen Suspension af <ref target="n2551"/>Habeas-Corpus-Akten<!-- lemma slut -->, <ref target="n2552"/><persName key="edward-3">Eduard d. 3dies</persName> gamle
                         Høiforræderibestemmelse<!-- lemma slut --> skærpet, Forsamlings- og
                         Petitionsret indskrænket, Pressefriheden snart forvandlet til et tomt Ord.
@@ -1048,7 +1048,7 @@
                     <p> Kongen selv var gal, Prindsregenten værre end gal og Kirken forhyklet.
                         Misvæxt, Oversvømmelse, Hungersnød indtraf i 1816. Nagende Hunger drev rundt
                         i Landet den lavere Befolkning planløs fra Hus og Hjem. Man finder
-                        Stemningen udtalt i <persName key="percy-bysshe-shelley">Shelley’s</persName> »<bibl>Anarchiets Maske</bibl>«. I
+                        Stemningen udtalt i <persName key="percy-bysshe-shelley">Shelley’s</persName> »<bibl n="shelley-the-mask-of-anarchy">Anarchiets Maske</bibl>«. I
                             <placeName>Leicestershire</placeName> ødelagde Arbeiderne i deres
                         Fortvivlelse Kniplingsvæverierne og sloge Væverstolene i Stykker. Det er til
                         deres Forsvar, at <persName key="george-gordon-byron">Byron</persName>
@@ -1138,10 +1138,10 @@
                         han; men den 10de October samme Aar sloges <ref target="n2568"/>Slaget ved
                             <placeName>Navarino</placeName><!-- lemma slut -->, der ligesom var den
                         Dødes sidste Villie, og som for os nutildags er det politiske Symbol paa den
-                        nye Aands Vaagnen i Europa.<note place="bottom">Miss Martineau: »<bibl>The
+                        nye Aands Vaagnen i Europa.<note place="bottom">Miss Martineau: »<bibl n="martineau-the-history-of-england-during-the-thirty-years-peace">The
                                 history of England during the thirty years peace</bibl>« I, II.
-                            Massey: »<bibl>History of England during the reign of George the
-                                Third</bibl>« I–IV. Thackeray: »<bibl>The four Georges</bibl>«.
+                            Massey: »<bibl n="massey-a-history">History of England during the reign of George the
+                                Third</bibl>« I–IV. Thackeray: »<bibl n="thackeray-the-four-georges">The four Georges</bibl>«.
                             Reinhold Pauli: »<bibl>Geschichte Englands seit den
                                 Friedensschlüssen</bibl>« 1814 und 1815. Emerson: »<bibl>English
                                 characters</bibl>«.</note>
@@ -1173,8 +1173,8 @@
                         opholdt sig i Frankrig under <ref target="n2575"/>Revolutionens<!-- lemma slut --> Begyndelse og med stor Varme havde delt
                         Tidens sociale Begeistring, og at den yngste, Mr. <persName key="samuel-taylor-coleridge">Coleridge</persName>, tidligt havde gjort
                         sig bekjendt som ivrig Demokrat og Unitarier, havde skrevet et Drama:
-                            »<bibl>Robespierres Fald</bibl>«, havde udgivet to politiske Brochurer:
-                            »<bibl>Conciones ad populum</bibl>«, ja havde lagt en Plan til med nogle
+                        »<bibl n="coleridge-the-fall-of-robespierre-an-historic-drama">Robespierres Fald</bibl>«, havde udgivet to politiske Brochurer:
+                        »<bibl n="coleridge-conciones-ad-populum-or-adresses-to-the-people">Conciones ad populum</bibl>«, ja havde lagt en Plan til med nogle
                         Ligesindede at oprette en socialistisk Commune i det fjerne Amerika. Hvad
                         var det nødigt at tvivle mere? En kjærlig Sjæl i Nabolauget angav Vennerne
                         for Regjeringen i <placeName>London</placeName>, og denne ud<pb n="54"/>sendte en Spion, der skulde iagttage deres Spadseretures Maal og deres
@@ -1363,7 +1363,7 @@
                         Aarhundrede gjenfinde beherskende den poetiske Naturfølelse i alle
                         Litteraturer. Jeg har paavist den Pantheisme, der skjulte sig under
                             <persName key="ludwig-tieck">Tiecks</persName> romantiske
-                            Naturbetragtning<note place="bottom">Se »<bibl>
+                        Naturbetragtning<note place="bottom">Se »<bibl n="brandes-romantiske-skole-tydskland">
                                 <app>
                                     <lem>Den</lem>
                                     <rdg wit="A">den</rdg>
@@ -1373,7 +1373,7 @@
                                 </app> romantiske Skole i Tydskland</bibl>« S. 147.</note>, den
                         møder os her under Form af Menneskets selvforglemmende og halvt bevidstløse
                         Sammensmelten med Alnaturen som en enkelt Tone i dens store Samklang. Den
-                        har fundet Udtryk i et lille eiendommeligt Digt<note place="bottom">Wordsworth: »<bibl>Poetical works</bibl>«, 1832, II, S. 16.</note>:</p>
+                        har fundet Udtryk i et lille eiendommeligt Digt<note place="bottom">Wordsworth: »<bibl n="wordsworth-poetical-works-1-4">Poetical works</bibl>«, 1832, II, S. 16.</note>:</p>
                     <p>
                         <ref target="n2601"/>»<!-- tilføjet -->En Slummer lagde Segl for min Aand, jeg
                         havde ingen menneskelig Bekymring. Min Sjæl var som en Ting, der ikke kunde
@@ -1426,9 +1426,9 @@
                         hvor det kan høre Eventyr, Sagn og Røverhistorier, saa meget som det lyster,
                         vel at mærke, naar det sørger for som voxent Menneske at have glemt alt
                         dette Uværdige. I det nittende Aarhundredes Samfund indtræder Reactionen«<!-- lemma slut -->
-                        <note place="bottom">G. Brandes: »<bibl>Kritiker og Portraiter</bibl>«. S.
+                        <note place="bottom">G. Brandes: »<bibl n="brandes-kritiker-og-portraiter">Kritiker og Portraiter</bibl>«. S.
                             326.</note>. Vi finde den her med dens yderste Consequenser, selv hos
-                        saa reflecteret en Digter som <persName key="william-wordsworth">Wordsworth</persName>. I en af sine Sonetter (»<bibl>Poetical
+                        saa reflecteret en Digter som <persName key="william-wordsworth">Wordsworth</persName>. I en af sine Sonetter (»<bibl n="wordsworth-poetical-works-1-4">Poetical
                             works</bibl>« II S. 165) <pb n="65"/> skildrer han en Spadseretur, han
                         paa en deilig Aften foretager med en lille Pige, maler den milde
                         Aftenstemning, kalder den <ref target="n2604"/>»stille som en Nonne, der i sin
@@ -1443,7 +1443,7 @@
                     </p>
                     <p> Den theistiske Udgang er hos <persName key="william-wordsworth">Wordsworth</persName> obligat, men som enhver opmærksom Læser seer, kun
                         paaklæbet Grundtanken om Barnets i og for sig guddommelige Natur. I sin
-                        berømte »<bibl>Ode til
+                        berømte »<bibl n="wordsworth-intimations-of-immortality">Ode til
                         Udødeligheden</bibl>«<!-- if. SS 306 et værk = kursiv --><!-- = Ode: Intimations of Immortality from Recollections of Early Childhood; trykt 1807 i Poems, in Two Volumes -->
                         udfører han denne Grundtanke med et saadant Sværmeri, at det endog var en
                         saa vidtgaaende Dyrker af Naiveteten som <persName key="samuel-taylor-coleridge">Coleridge</persName> for stærkt. Han
@@ -1478,7 +1478,7 @@
                         </note>.</p>
                     <p> I talrige Digte kommer <persName key="william-wordsworth">Wordsworth</persName> tilbage til den Modtagelighed han som Yngling
                         besad for ethvert Naturskuespil. I et af dem, der som næsten alle hans Sager
-                        har en lang og slæbende Titel (»<bibl>Influence of natural <app>
+                        har en lang og slæbende Titel (»<bibl n="wordsworth-influence-of-natural-objects">Influence of natural <app>
                                 <lem>objects</lem>
                                 <rdg wit="A B SS Fu 1923-24">objets</rdg>
                             </app>, in calling forth and strengthening the imagination in boyhood
@@ -1529,7 +1529,7 @@
                         sin Natursands i Udtryk, <ref target="n2613"/>om hvilke han senere ikke med
                         Urette har paastaaet, at de gaae igjen i de berømteste og mest poetiske
                         Steder af <persName key="george-gordon-byron">Byron’s</persName>
-                            »<bibl>Childe Harold</bibl>«<!-- lemma slut -->, og som i ethvert
+                        »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>«<!-- lemma slut -->, og som i ethvert
                         Tilfælde utvivlsomt have gjort Epoche i engelsk Poesi. Han siger:</p>
                     <p>
                         <ref target="n2614"/>»<!-- tilføjet -->Thi Naturen var da – efter at mine
@@ -1542,30 +1542,30 @@
                         nogen Interesse, som ikke laantes fra Synet«<!-- tilføjet -->.</p>
                     <p> Lad det virke komisk, <ref target="n2615"/>naar <persName key="william-wordsworth">Wordsworth</persName> i 1820 underholder
                             <persName key="thomas-moore">Moore</persName> om <persName key="george-gordon-byron">Byrons</persName> Plagiater fra ham og
-                        fortæller, at hele tredie Sang af »<bibl>Childe Harold</bibl>« er grundet
+                        fortæller, at hele tredie Sang af »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>« er grundet
                         paa hans Følelser og Stil<!-- lemma slut -->, og <ref target="n2616"/>lad
                             <persName key="john-lord-1-earl-of-russell">Lord Russell</persName> have
                         Ret, naar han i den Anledning tørt bemærker, at hvis <persName key="william-wordsworth">Wordsworth</persName> var Ophavsmand til
-                            »<bibl>Childe Harold</bibl>«, saa er det hans bedste
+                        »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>«, saa er det hans bedste
                         Værk<!-- lemma slut -->, man begriber dog let, at det for <persName key="william-wordsworth">Wordsworth</persName> maatte staae som om
                         Hovedstederne i hin tredie Sang og de skjønne Steder om Ensomheden i de
                         tidligere Sange kun i antithetisk og kunstlet Form indeholdt, hvad der hos
                         ham var sagt naturligt og simpelt<note place="bottom">Se Thomas Moore:
-                                »<bibl>Memoirs</bibl>« III, 161.</note>. Det er ikke vanskeligt at
+                            »<bibl n="moore-memoirs">Memoirs</bibl>« III, 161.</note>. Det er ikke vanskeligt at
                         see en indskrænket og overstraalet Aands saarede Forfængelighed i disse
                         Udbrud, men det bør ikke glemmes, at <persName key="william-wordsworth">Wordsworth</persName> virkelig først havde anslaaet den Accord, som
                             <persName key="george-gordon-byron">Byron</persName> med saa overlegent
                         Talent varierte, heller ikke at enkelte særligt slaaende og levende Vers af
                             <persName key="william-wordsworth">Wordsworth</persName> øiensynligt ere
                         forblevne i <persName key="george-gordon-byron">Byrons</persName> Erindring.
-                        Hvo kan f. Ex. <pb n="70"/> læse denne Linie i »<bibl>Childe Harold</bibl>«
+                        Hvo kan f. Ex. <pb n="70"/> læse denne Linie i »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>«
                         (3die Sang, <app>
                             <lem>72.</lem>
                             <rdg wit="A B SS Fu 1923-24">72</rdg>
                         </app> Strophe): <ref target="n2617"/>»Og mig vare de høie Bjerge en
                         Følelse«<!-- lemma slut --> uden at mindes de nys citerede Ord og hvo kan
                         negte, at <persName key="george-gordon-byron">Byron</persName> optager og
-                        beriger hin Stemning hos <persName key="william-wordsworth">Wordsworth</persName>, naar han synger (»<bibl>C. H.</bibl>« III,
+                        beriger hin Stemning hos <persName key="william-wordsworth">Wordsworth</persName>, naar han synger (»<bibl n="Childe-harold's-pilgrimage">C. H.</bibl>« III,
                         65):</p>
                     <p>
                         <ref target="n2619"/>»Ere ikke Bjergene, Bølgerne og Skyerne en Del af mig og af
@@ -1654,7 +1654,7 @@
                         sin Domaine, bestemt og mildt betegnet det Omraade, som er hans. Hvilken
                         Modsætning til <persName key="george-gordon-byron">Byron</persName>, der
                         sjeldent eller aldrig hørte den humane Røst i Naturen og allermindst
-                        nogensinde hørte den klinge uden Skurren – han, som i »<bibl>Childe
+                        nogensinde hørte den klinge uden Skurren – han, som i »<bibl n="Childe-harold's-pilgrimage">Childe
                             Harold</bibl>« endog kalder <ref target="n2627"/>det hele Menneskeliv for
                         »den falske Tone«<!-- lemma slut --> i Altets store Accord.</p>
                     <p> Men vi ere endnu ikke naaede til de mest eiendommelige Udtalelser i
@@ -1731,7 +1731,7 @@
                         let henkastede Kvindefigurer, der ere sete med samme rolige og dog
                         forelskede Blik, hvormed <persName key="william-wordsworth">Wordsworth</persName> saae paa Træer og Fugle, ere Naturen selv. De ere
                         selve den engelske Kvindenatur, og Ingen har truffet dens Lineamenter med
-                        sikrere Haand end han. Man læse et af disse Smaadigte<note place="bottom">»<bibl>She was a phantom of delight</bibl>«<!-- tilføjet »« -->.
+                        sikrere Haand end han. Man læse et af disse Smaadigte<note place="bottom">»<bibl n="wordsworth-she-was-a-phantom-of-delight">She was a phantom of delight</bibl>«<!-- tilføjet »« -->.
                                 »<bibl>Poet. W.</bibl>« II. S. 13.</note> i min
                         Prosa-Oversættelse:</p>
                     <p>
@@ -1763,13 +1763,13 @@
                         Digtere i den nærmest følgende Tid morede sig med at tegne. Tag <persName key="percy-bysshe-shelley">Shelleys</persName> Fremstilling af
                         Blomsternes og Insekternes ætheriske
                         Beskytterinde<!-- har hun et navn? nej; --> i hans Digt
-                            »<bibl>Mimosen</bibl>«<!-- "The sensitive Plant" -->! Billedet af den
+                        »<bibl n="shelley-the-sensitive-plant">Mimosen</bibl>«<!-- "The sensitive Plant" -->! Billedet af den
                         feagtige Skjønhed er yndigt som Alt, hvad der kommer fra <persName key="percy-bysshe-shelley">Shelleys</persName> Pen; hendes Ømhed for
                         Planterne, hendes rørende Medlidenhed med alle de smaa stygge og foragtede
                         Dyr, <ref target="n2632"/>»hvis Hensigt, skjøndt de gjorde Skade, var
                         uskyldig«<!-- lemma slut --> giver hendes Alfevæsen menneskelige Træk – men
-                        et Menneske er hun dog ikke, hun saa lidt som <persName key="percy-bysshe-shelley">Shelley’s</persName> »<bibl>Feen fra
-                            Atlas</bibl>« eller »<bibl>Epipsychidion’s</bibl>« utydelige Heltinde.
+                        et Menneske er hun dog ikke, hun saa lidt som <persName key="percy-bysshe-shelley">Shelley’s</persName> »<bibl n="shelley-the-witch-of-atlas">Feen fra
+                            Atlas</bibl>« eller »<bibl n="shelley-epipsychidion">Epipsychidion’s</bibl>« utydelige Heltinde.
                             <persName key="percy-bysshe-shelley">Shelley</persName> var <ref target="n2633"/>som Lærken, han har besunget, en Foragter af Jorden
                         (»scorner of the ground«<!-- tilføjet --><!-- lemma slut -->). – Eller tag
                         de lidenskabelige østerlandske Heltinder i <persName key="george-gordon-byron">Byrons</persName> tidligste poetiske
@@ -1849,10 +1849,10 @@
                         af sine Omgivelser fordrede ethvert synligt Tegn paa Ærefrygt og den Alvor,
                         hvormed han repeterede det mindst betydende Ord, der var sagt til hans Pris.
                         Man finder en hel Del slaaende Anekdoter om hans Selvfølelse. <ref target="n2649"/><persName key="thomas-moore">Thomas Moore</persName> meddeler
-                            (»<bibl>Memoirs</bibl>« III, 163) hvorledes <persName key="william-wordsworth">Wordsworth</persName> en Dag, da han spiste til
+                        (»<bibl n="moore-memoirs">Memoirs</bibl>« III, 163) hvorledes <persName key="william-wordsworth">Wordsworth</persName> en Dag, da han spiste til
                         Middag hos <persName key="humphrey-davy">Lord Dawy</persName> pludseligt
                         uden at noget Ord var faldet, der kunde lede til denne Gjenstand, raabte fra
-                        den ene Ende af Bordet til den anden: »»<persName key="humphrey-davy">Dawy</persName>, veed De, hvorfor jeg lod »<bibl>Den hvide <app>
+                        den ene Ende af Bordet til den anden: »»<persName key="humphrey-davy">Dawy</persName>, veed De, hvorfor jeg lod »<bibl n="wordsworth-white-doe">Den hvide <app>
                                 <lem wit="rett.bl.1 B SS Fu 1923-24">Daa</lem>
                                 <rdg wit="A">Due</rdg>
                             </app>
@@ -1860,8 +1860,8 @@
                         det?« – »For at vise Verden min egen Mening om
                         den.««<!-- tilføjet »« i citatet - samt rundt om! --><!-- lemma slut --> –
                             <persName key="william-wordsworth">Wordsworth</persName> læste aldrig
-                        andre Værker høit end sine egne. Den Dag, da <persName key="sir-walter-scott">Walter Scotts</persName> »<bibl>Rob Roy</bibl>«
-                        var udkom<pb n="83"/>men, med <ref target="n2650"/>et Motto af <persName key="william-wordsworth">Wordsworths</persName> Digt »<bibl>Rob Roys
+                        andre Værker høit end sine egne. Den Dag, da <persName key="sir-walter-scott">Walter Scotts</persName> »<bibl n="scott-rob-roy">Rob Roy</bibl>«
+                        var udkom<pb n="83"/>men, med <ref target="n2650"/>et Motto af <persName key="william-wordsworth">Wordsworths</persName> Digt »<bibl n="scott-rob-roy">Rob Roys
                             Grave</bibl>«<!-- lemma slut -->, var <persName key="william-wordsworth">Wordsworth</persName> netop tilstede i en Familie, hvor Romanen var
                         ankommen og med Forventning imødesaaes. Han greb den, og man ventede, at han
                         vilde forelæse de første Kapitler; men istedenfor det gik han hen til
@@ -1884,7 +1884,7 @@
                         Samfundet ved overfladisk Cultur blev oplyst uden alt Hensyn til den <pb n="84"/> moralske Dannelse. Skoler nyttede ikke. Skolemestereren var ei
                         Opdragelse. Han vilde bringe mig og alle gode Amerikanere til at indsee, at
                         Moralen, det conservative Element maatte dyrkes. Han skjændte og smeldte
-                        over »<bibl>Wilhelm Meister</bibl>«. Den var fuld af Utugt af enhver Art.
+                        over »<bibl n="goethe-wilhelm-meisters-lehrjahre-vol-1-4">Wilhelm Meister</bibl>«. Den var fuld af Utugt af enhver Art.
                         Det var som om Fluer parrede sig i Luften. Han var aldrig kommen videre end
                         til første Del og havde kastet Bogen fra sig, saa oprørt var han bleven. Han
                         citerede sine Sonnetter: »<bibl>En høihjertet Spaniers Følelser</bibl>« og
@@ -1916,7 +1916,7 @@
                         skrækkelig gammel Æsel«<!-- lemma slut -->
                         <note place="bottom">
                             <ref target="n2658"/>»Like him! Not at all. He is a dreadfull old
-                            ass.«<!-- lemma slut --> R. S. Mackenzie: »<bibl>Life of
+                            ass.«<!-- lemma slut --> R. S. Mackenzie: »<bibl n="mackenzie-life-of-charles-dickens">Life of
                             Dickens</bibl>«.</note>. Læseren vil visselig ikke underskrive saa
                         peremptorisk en Dom. Men saa meget staaer klart, at der maa have været noget
                         for Taalmodigheden i høi Grad <app>
@@ -1936,7 +1936,7 @@
                         Lidenheden af vor Videns hele Sphære og det skrækindjagende Forhold, hvori
                         vi staae til det Overnaturliges Verden – det er, siger <persName key="david-masson">Masson</persName> de stadige og uundgaaelige
                         Gjenstande for den almenmenneskelige og særligt for <persName key="william-wordsworth">Wordsworth’s</persName> Contemplation og Bekymring<!-- lemma slut -->
-                        <note place="bottom">Se Masson: »<bibl>Wordsworth, Shelley, Keats and other
+                        <note place="bottom">Se Masson: »<bibl n="masson-wordsworth-shelley-keats-and-other-essays">Wordsworth, Shelley, Keats and other
                                 essays</bibl>«.</note>. Men disse Tanker bevæge sig ulykkeligvis, da
                         de ikke tilhøre Midtpunktet men den yderste Peripheri af vor Viden, ad
                         Baner, der ikke føre nogensteds hen, ad gamle opslidte og af dybe Spor
@@ -1991,7 +1991,7 @@
                         Begivenheder et Skjær af noget Overordentligt, Nyt, ja Overnaturligt ved at
                         udrive Sindet af dets Vanesøvn og tvinge det til at rette sig paa den
                         Skjønhed og de Undere, den virkelige Verden upaaagtet udfoldede for den
-                        menneskelige Sands. Han gjorde Forsøget første Gang i de »<bibl>Lyriske
+                        menneskelige Sands. Han gjorde Forsøget første Gang i de »<bibl n="wordsworth-lyrical-ballads">Lyriske
                             Ballader</bibl>«, <ref target="n2661"/>der i Fortalen betegnedes som et
                         »Experiment«<!-- lemma slut -->, nemlig det: om Gjenstande, der efter deres
                         Natur <pb n="89"/> ikke vare skikkede til <ref target="n2662"/>»ornamental«<!-- lemma slut --> Fremstilling, ikke alligevel skjøndt
@@ -2001,7 +2001,7 @@
                         landlige Beskjæftigelser og fremstillede i en Ramme af landligt Liv. Vi have
                         i vor danske Litteratur ingen Digtgruppe af denne Art. Derimod vil den, der
                         med Opmærksomhed studerer <persName key="william-wordsworth">Wordsworth</persName> nu og da træffe paa en Form for den poetiske
-                        Anekdote og paa en Fortællertone, der erindrer ham om <persName key="johan-ludvig-runeberg">Runebergs</persName> »<bibl>Fänrik
+                        Anekdote og paa en Fortællertone, der erindrer ham om <persName key="johan-ludvig-runeberg">Runebergs</persName> »<bibl n="runeberg-fanrik-stals-sagner">Fänrik
                             Stål</bibl>«. Selv i Rytme og Metrum er nu og da nogen Lighed; det vilde
                         være interessant at erfare om <persName key="johan-ludvig-runeberg">Runeberg</persName> overhovedet har kjendt den engelske Digter; maaskee
                         kommer den hele svage Lighed af at Begivenhederne hos begge bestandig
@@ -2016,7 +2016,7 @@
                         Maade minder om <persName key="william-wordsworth">Wordsworth’s</persName>
                         Tone og Stil, kun at det er langt mere dramatisk end Noget, han har
                         frembragt, det er <persName key="henrik-hertz">Henrik Hertz’s</persName>
-                            »<bibl>Frugthandleren</bibl>«. Dette Digt har altid, længe inden jeg
+                        »<bibl n="hertz-frugthandleren">Frugthandleren</bibl>«. Dette Digt har altid, længe inden jeg
                         kjendte <persName key="william-wordsworth">Wordsworth</persName>, syntes mig
                         at staae mærkværdigt alene iblandt <persName key="henrik-hertz">Hertz’s</persName> Poesier, saa mange Strenge de end anslaae. Dets Helt
                         er som skabt til at behandles af <persName key="william-wordsworth">Wordsworth</persName>, dets Evne til at røre uden at forherlige er
@@ -2073,7 +2073,7 @@
                         karrikeret sig selv, overalt nemlig, hvor hos ham en mystisk-religiøs eller
                         rædselsfuld Virkning foraarsages af en eller anden simpelthen uhyggelig
                         eller forunderlig Begivenhed, der udrustes med det saakaldte Overnaturliges
-                        Virkekraft. Det er høist puerilt, naar i Digtet »<bibl>The Thorn</bibl>« en
+                        Virkekraft. Det er høist puerilt, naar i Digtet »<bibl n="wordsworth-the-thorn">The Thorn</bibl>« en
                         Fortæller (hvis Stand eller Vil<pb n="93"/>kaar ikke angives, men om hvilken
                             <persName key="william-wordsworth">Wordsworth</persName> selv til
                             <persName key="samuel-taylor-coleridge">Coleridge</persName> sagde, at
@@ -2082,9 +2082,9 @@
                         fortæller om en stakkels afsindig Pige, der om Natten, klædt i en høirød
                         Kjole, sidder og jamrer sig under en Tjørn. Og rent parodisk bliver denne
                         Retning i <persName key="william-wordsworth">Wordsworth’s</persName> med saa
-                        stor Prætention Publicum forelagte »<bibl>Peter Bell</bibl>«, der uden
+                        stor Prætention Publicum forelagte »<bibl n="wordsworth-peter-bell-a-tale">Peter Bell</bibl>«, der uden
                             <persName key="percy-bysshe-shelley">Shelley’s</persName>
-                        <bibl>Satire af samme Navn</bibl><!-- uden »« --> visselig vilde være
+                        <bibl n="shelley-peter-bell-the-third">Satire af samme Navn</bibl><!-- uden »« --> visselig vilde være
                         fuldstændig glemt; her er det nemlig en raa og grusom Karls Forfærdelse over
                         den overnaturlige Standhaftighed, hvormed et stakkels Æsel taaler de
                         grueligste Prygl hellere end at ville flytte sig fra Stedet, der i Forening
@@ -2098,7 +2098,7 @@
                         Kjærlighed til det Simple og Jævne en virkelig Tiltrækning til Æslerne,
                         disse stædige, taalmodige og særligt <pb n="94"/> miskjendte Naturproducter,
                         som stedse overstraaledes af mindre nøisomme Dyr. <persName key="samuel-taylor-coleridge">Coleridge</persName> lod sig endog i sit
-                        bekjendte Digt »<bibl>Til et ungt Æsel, da dets Moder blev tøiret i Nærheden
+                        bekjendte Digt »<bibl n="coleridge-to-a-young-ass-its-mother-being-tethered-near-it">Til et ungt Æsel, da dets Moder blev tøiret i Nærheden
                             af det</bibl>« henrive til det varme Udbrud: <ref target="n2672"/>»Jeg
                         hilser Dig som min Broder«<!-- lemma slut -->
                         <note place="bottom">
@@ -2117,7 +2117,7 @@
                         skjænke Æslet en Græsgang i en overjordisk Fredens og Salighedens Dal – da
                         skulde dets glade Brægen klinge skjønnere i hans Øren end den sødeste Musik.
                         Det kan ikke undre, at Spottefuglen <persName key="george-gordon-byron">Byron</persName> strax fik fat i hin Broderhilsen og gjorde sig lystig
-                        over den i sin første Satire: »<bibl>English bards and scotch
+                        over den i sin første Satire: »<bibl n="byron-english-bards-and-scotch-reviewers">English bards and scotch
                             reviewers</bibl>«. For <persName key="samuel-taylor-coleridge">Coleridge</persName> var denne extreme Naturalisme dog ikke naturlig,
                         han var selv den første til at gjøre sig lystig over sine Extravagancer.
                             <persName key="william-wordsworth">Wordsworth</persName> derimod, som af
@@ -2171,19 +2171,19 @@
                         Egn, i hvilken han havde hjemme, spadserede, seilede, gik i Kirke og tog mod
                         Beundrerbesøg, saa var det med den aller omstændeligste Kundskab til de <pb n="97"/> lavere Klassers Liv der i Egnen og til det landlige Liv
                         overhovedet. Han har det samme Blik derfor som en god og værdig engelsk
-                        Landsbypræst af den Art, han selv har skildret i »<bibl>Excursionen</bibl>«.
+                        Landsbypræst af den Art, han selv har skildret i »<bibl n="wordsworth-the-excursion">Excursionen</bibl>«.
                         Hans Specialitet, det er alle de sædvanlige Sognebegivenheder og
                         Sogneulykker, som hændes i en landlig Egn i England: et længst forsvundet
                         Sognebarns Tilbagekomst til Egnen, hvor hans Hjem er forsvundet og hvor han
-                        finder alle sine Kjæres Navne paa Kirkegaarden (»<bibl>The
+                        finder alle sine Kjæres Navne paa Kirkegaarden (»<bibl n="wordsworth-the-brothers">The
                         brothers</bibl>«), en stakkels forført og forladt Piges Skjæbne
                             (»<bibl>Ruth</bibl>«), et idiotisk Barns natlige Ridt efter Lægen og
-                        Faren vild paa Veien (»<bibl>The idiot boy</bibl>«), det overraskende
+                        Faren vild paa Veien (»<bibl n="wordsworth-the-idiot-boy">The idiot boy</bibl>«), det overraskende
                         Eventyr, en blind lille Dreng har bestaaet uden at komme til Skade
-                            (»<bibl>The blind highland boy</bibl>«), en gammel ypperlig Faders Sorg
-                        over sin vanslægtede Søn (»<bibl>Michael</bibl>«), en i hele Egnen elsket
+                        (»<bibl n="wordsworth-the-blind-highland-boy">The blind highland boy</bibl>«), en gammel ypperlig Faders Sorg
+                        over sin vanslægtede Søn (»<bibl n="wordsworth-michael">Michael</bibl>«), en i hele Egnen elsket
                         Diligencekudsks beklagelige Forfalden til en lille Svir og paafølgende
-                        Afskedigelse fra Embedet (besunget i fire Sange under Navnet: »<bibl>The
+                        Afskedigelse fra Embedet (besunget i fire Sange under Navnet: »<bibl n="wordsworth-the-waggoner">The
                             waggoner</bibl>«). Det eneste U-engelske i Maaden, hvorpaa disse
                         Begivenheder, selv de lettere og lystigere iblandt dem, meddeles, er den
                         fuldstændige Mangel paa Humor i Fremstillingen. Istedenfor Humor har
@@ -2197,7 +2197,7 @@
                         ligner Præstens eller Lægens, og som, skjøndt mindre mild end professionel,
                         griber ved sit fuldendte Udtryk.</p>
                     <p> Ingensteds forekommer dette Udtryk mig skjønnere end i saadanne Digte som
-                            »<bibl>Simon Lee</bibl>« og »<bibl>Den gamle Tigger fra
+                        »<bibl>Simon Lee</bibl>« og »<bibl n="wordsworth-the-old-cumberland-beggar">Den gamle Tigger fra
                             Cumberland</bibl>«. Det første Digt er en Anekdote om en gammel Jæger,
                         der i sin Ungdom havde været den flinkeste med Horn og Hund, tilfods og
                         tilhest, men som nu paa sin gamle Alder var bleven saa svag, at Digteren en
@@ -2232,7 +2232,7 @@
                         </note>
                     </p>
                     <p> Faa Digtere have vist den skjønne Pietet som <persName key="william-wordsworth">Wordsworth</persName> mod de uden egen Skyld
-                        Unyttige, Menneskeslægtens ydmyge <ref target="n2682"/>»Venerabilia«<!-- lemma slut -->. »<bibl>Den gamle Tigger</bibl>« er et
+                        Unyttige, Menneskeslægtens ydmyge <ref target="n2682"/>»Venerabilia«<!-- lemma slut -->. »<bibl n="wordsworth-the-old-cumberland-beggar">Den gamle Tigger</bibl>« er et
                         Exempel fremfor alle. <persName key="william-wordsworth">Wordsworth</persName> skildrer hvorledes han, kjendt af Alle, gaaer
                         omkring fra Hus til Hus der i Egnen:</p>
                     <p>
@@ -2283,7 +2283,7 @@
                         moraliserende og protestantisk-christelige Element. Man vrage heller ikke
                         helt hans moralske Læredigte. Der er mange Gange en egen Storhed i Maaden,
                         hvorpaa den simple Lære er udtrykt. Jeg finder en sand Høihed i de Ord,
-                        hvormed det i »<bibl>Laodamia</bibl>« forkyndes den sørgende Hustru, at hun
+                        hvormed det i »<bibl n="wordsworth-laodamia">Laodamia</bibl>« forkyndes den sørgende Hustru, at hun
                         istedenfor at kræve sin Husbond tilbage, bør give Afkald paa ham for gjennem
                         Kjærligheden at lutres til et høiere aandigt Liv: <pb n="102"/>
                     </p>
@@ -2300,7 +2300,7 @@
                             </lg>
                         </quote>
                     </cit>
-                    <p> Ja selv den abstracte »<bibl>Ode til
+                    <p> Ja selv den abstracte »<bibl n="wordsworth-ode-to-duty">Ode til
                         Pligten</bibl>«<!-- flyttet » fra Pligten til Ode - den hedder Ode to Duty -->,
                         der indeholder en rent Kantisk Begeistring, har genialt-absurde Linier,
                         sublime som et af Kirkefædrenes Paradoxer. Det er til Pligten at Digteren
@@ -2340,14 +2340,14 @@
                         ganske ud til Byernes Fordel<!-- lemma slut -->. Men <persName key="william-wordsworth">Wordsworth</persName> har fremdeles
                         overvurderet den Betydning, som Skildringen af de landlige Beskjæftigelser
                         har for hans egen Poesi. Ikke blot ere Hovedpersonerne i mange af hans
-                        bedste Poesier (som »<bibl>Ruth</bibl>«, »<bibl>Michael</bibl>«, »<bibl>the
+                        bedste Poesier (som »<bibl n="wordsworth-the-brothers">Ruth</bibl>«, »<bibl n="wordsworth-michael">Michael</bibl>«, »<bibl n="wordsworth-the-brothers">the
                             brothers</bibl>«) ikke udtrykkeligt Bønder eller Landboer, men mangen en
                         Gang har han i Kraft af sin naturalistiske Lidenskab og sit dermed
                         beslægtede Hang til at moralisere gjennem Forherligelse af de laveste
                         Samfundsklasser knyttet Navnet paa en eller anden uanseelig eller lav
                         Profession til Evner og Egenskaber, som det er lidet sandsynligt at finde
                         knyttede til den. Det er et Paradox, som <persName key="william-wordsworth">Wordsworth</persName> med en vis Forkjærlighed prædiker i sit Digt
-                            »<bibl>Excursionen</bibl>«, at der er store Digtere skjulte i de <pb n="104"/> laveste Stænder<note place="bottom">
+                        »<bibl n="wordsworth-the-excursion">Excursionen</bibl>«, at der er store Digtere skjulte i de <pb n="104"/> laveste Stænder<note place="bottom">
                             <cit>
                                 <quote>
                                     <lg>
@@ -2360,7 +2360,7 @@
                                             […]«<!-- lemma slut --><!-- tilføjet »« --></l>
                                     </lg>
                                 </quote>
-                                <bibl>»The Excursion« I. »The wanderer«.</bibl>
+                                <bibl n="wordsworth-the-excursion">»The Excursion« I. »The wanderer«.</bibl>
                                 <!-- https://books.google.dk/books?id=T18JAAAAQAAJ&printsec=frontcover&dq=wordsworth+%22the+excursioN%22&hl=da&sa=X&ved=0ahUKEwjijfvJ5YvYAhVMbFAKHTDkBHQQ6AEIJjAA#v=onepage&q=many%20are%20the&f=false -->
                             </cit>
                         </note>; det tilfredsstiller ogsaa hans evangeliske Instincter at tænke sig
@@ -2380,7 +2380,7 @@
                         Fornøielse vilde skjænke en Digter. Den smaalige Hensyntagen til
                         Sandsynligheden, den <pb n="105"/> smaalige Ængstelighed i Motiveringen er i
                         høi Grad trættende hos <persName key="william-wordsworth">Wordsworth</persName>, især i de lange Overgange og Beskrivelser i
-                            »<bibl>Excursion</bibl>«, hvilke <persName key="george-gordon-byron">Byron</persName> vittigt har stemplet som et evindeligt: <ref target="n2692"/>»Her gaae vi op, og her gaae vi ned, og her gaae vi rundt«<!-- lemma slut -->
+                        »<bibl n="wordsworth-the-excursion">Excursion</bibl>«, hvilke <persName key="george-gordon-byron">Byron</persName> vittigt har stemplet som et evindeligt: <ref target="n2692"/>»Her gaae vi op, og her gaae vi ned, og her gaae vi rundt«<!-- lemma slut -->
                         <note place="bottom">
                             <cit>
                                 <quote>
@@ -2413,7 +2413,7 @@
                         drevet kun altfor mange selv blandt fremragende Digtere, saa vilde man af
                         Hjertet applaudere. Jeg for min Del er fuldkomment villig til at underskrive
                         det Kapitel i <persName key="theodore-de-banville">Théodore
-                            Banvilles</persName> Poetik<note place="bottom">»<bibl>Petit traité de
+                            Banvilles</persName> Poetik<note place="bottom">»<bibl n="banville-petit">Petit traité de
                                 poésie française</bibl>«. S. 56.</note>, der har til Overskrift:
                             <ref target="n2694"/>Licentia poetica og til Indhold: Der gives
                         ingen<!-- lemma slut -->. Men <persName key="william-wordsworth">Wordsworth</persName> vil have sin Sætning ganske anderledes forstaaet.
@@ -2489,7 +2489,7 @@
                         indfører dramatisk Diction. Det er den usalige Forkjærlighed for den aller
                         platteste Naturefterligning, der i hans Digte afstedkommer de pludselige og
                         pinlige Overgange fra en høi og ædel Stil til en fuldstændigt udistingueret.
-                        Se f. Ex. »<bibl>The blind highland boy</bibl>«. Poesi har efter <persName key="william-wordsworth">Wordsworth’s</persName> Definition sin
+                        Se f. Ex. »<bibl n="wordsworth-the-blind-highland-boy">The blind highland boy</bibl>«. Poesi har efter <persName key="william-wordsworth">Wordsworth’s</persName> Definition sin
                         Oprindelse i Sindsbevægelse, erindret i Ro. Den gaaer ud paa Efterligning af
                         Naturens Sprog med det ene Forbehold, at, da det er Digterens Hverv at
                         meddele Fornøielse, ikke Sandhed ligefrem, saa benytter han Verseformen, som
@@ -2517,7 +2517,7 @@
                         sig til fast Tankesammenhæng, og i den skrevne Bog vinder den udarbeidede
                         Sætning sig naturligt fremad gjennem mange Snoninger. I Verset endelig kan
                         Formen ikke være for udsøgt og for fast. Her gjælder den Lære, som <persName key="theophile-gautier">Théophile Gautier</persName> i sit herlige Digt
-                            »<bibl>Kunsten</bibl>« har prædiket:</p>
+                        »<bibl n="gautier-lart">Kunsten</bibl>« har prædiket:</p>
                     <cit>
                         <quote>
                             <lg>
@@ -2540,7 +2540,7 @@
                     <p>Dog hvor meget der end lader sig sige mod denne <persName key="william-wordsworth">Wordsworth’s</persName> Poetik eller »Prosaik«,
                         som den rettere kunde hedde, en Lære, der af de Samtidige i Begyndelsen
                         optoges, som var den enstydig med <ref target="n2701"/>Hexenes gamle Sang i
-                            »<bibl>Macbeth</bibl>« »fair is foul, and foul is
+                        »<bibl n="shakespeare-macbeth">Macbeth</bibl>« »fair is foul, and foul is
                         fair«<!-- lemma slut -->, den har for os Efterlevende en høi Grad af
                         Interesse som et præcist og utvetydigt Udtryk for det første litterære
                         Extrem af den engelske Naturalisme.</p>
@@ -2551,7 +2551,7 @@
                     <p> Vi have et Øieblik tabt <persName key="samuel-taylor-coleridge">Coleridge</persName> af Sigte. Da <persName key="william-wordsworth">Wordsworth</persName> og han fordelte de nye Digtgenrer imellem sig,
                         tilfaldt der, som alt berørt, ham den <persName key="william-wordsworth">Wordsworth’s</persName> lige modsatte Opgave at behandle overnaturlige
                         Stoffer paa naturlig Maade. Han løste den i de Bidrag, han gav til de
-                            »<bibl>Lyriske Ballader</bibl>« og overhovedet i den lille Cyclus af
+                        »<bibl n="wordsworth-lyrical-ballads">Lyriske Ballader</bibl>« og overhovedet i den lille Cyclus af
                         Digte, hvortil hans betydelige Digternavn er knyttet.</p>
                     <p> Samuel Taylor <persName key="samuel-taylor-coleridge">Coleridge</persName>
                         var et Landbarn og en Præstesøn, født i October 1772 i
@@ -2592,7 +2592,7 @@
                         nødtes til at slaae sig enhver Tanke om Universitetscarrière <pb n="113"/>
                         af Hovedet. Jeg har allerede nævnt hans og <persName key="robert-southey">Southeys</persName> fælles Forherligelse af <persName key="maximilien-de-robespierre">Robespierre</persName> (første Akt af
                         denne Oprørsmands
-                        »<bibl>Fald</bibl>«<!-- The Fall of Robespierre, vist 1794 --> var skrevet
+                        »<bibl n="southey-the-fall-of-robespierre">Fald</bibl>«<!-- The Fall of Robespierre, vist 1794 --> var skrevet
                         af <persName key="samuel-taylor-coleridge">Coleridge</persName>, anden og
                         tredie af <persName key="robert-southey">Southey</persName>) og tillige hans
                         vilde Communist- og Nybyggerplaner. Medlemmer af det lille Udvandrerselskab,
@@ -2615,7 +2615,7 @@
                         end det, han ikke havde besluttet eller som efter dets Natur ikke lod sig
                         beslutte! I Aaret 1796 blev han, som dengang endnu var lidenskabelig
                         Unitarier, af nogle andre Philanthroper »overtalt« <pb n="114"/> – han
-                        bliver altid overtalt – til at udgive et Ugeskrift kaldet »<bibl>the
+                        bliver altid overtalt – til at udgive et Ugeskrift kaldet »<bibl n="coleridge-the-watchman">the
                             watchman</bibl>« (Vægteren), der skulde give 32 Sider stort Octav for
                         den moderate Pris af 4 Pence og hvis flammende Subskriptionsindbydelse bar
                         Devisen <ref target="n3051"/>»Kundskab er Magt«<!-- lemma slut -->. I den
@@ -2697,7 +2697,7 @@
                         Johannes«<!-- lemma slut -->, og han skynder sig med at forelægge Læseren de
                         rigtige Beviser for Guds og Treenighedens Existents, som han i sin Ungdom
                         ikke har været Mand for at hitte paa.<note place="bottom">Se
-                                »<bibl>Biographia literaria</bibl>« vol. I, Afdel. II, S.
+                            »<bibl n="coleridge-biographia-literaria-1817">Biographia literaria</bibl>« vol. I, Afdel. II, S.
                             208–9</note> Da Ugeskriftet ikke oplevede mere end en halv Snes Numre,
                         blev <persName key="samuel-taylor-coleridge">Coleridge</persName>
                         Journalist, skrev først imod Ministeriet <persName key="william-pitt-d-y">Pitt</persName>, men snart, da
@@ -4014,7 +4014,7 @@
                         at kjende, da han i 1806 første Gang feiredes som Løve i
                             <placeName>London</placeName>, og til hvis Parti han som Tory sluttede
                         sig, kunde paa sig anvende Digtets Skildring af den forladte
-                            <persName key="0">Dronning Margaretes</persName> ensomme Liv, medens den
+                            <persName type="fictional">Dronning Margaretes</persName> ensomme Liv, medens den
                         ridderlige og letfærdige Monarch tilbringer Tiden med sine Elskerinder. <pb n="172"/>
                     </p>
                     <p>Begyndt i 1806 udkom »<bibl>Marmion</bibl>« i 1808, og da
@@ -4060,7 +4060,7 @@
                             <persName key="george-gordon-byron">Byron</persName> og <persName key="percy-bysshe-shelley">Shelley</persName>, naar man
                         hører en Mand af <persName key="sir-walter-scott">Scotts</persName> Aandsadel og Dannelse udtale
                         sig med en saa skammelig og grusom Bornerthed.</p>
-                    <p> I 1810 udkom »<bibl>Jomfruen fra Søen</bibl>«. Det var det største succès,
+                    <p> I 1810 udkom »<bibl n="scott-the-lady-of-the-lake">Jomfruen fra Søen</bibl>«. Det var det største succès,
                         Digteren endnu havde opnaaet. Den herlige Skov- og Fjeldfriskhed, der
                         gjennemstrømmer dette smukke Værk, dets milde Varme, dets sande Følelse, der
                         ingensteds stiger til stormende Lidenskabelighed, det hele Naturbillede, der
@@ -4070,7 +4070,7 @@
                         Sceneriet nærmest liggende Stationer fordoblede sig. Man maa tage sin
                         Tilflugt til Kjendsgjerninger af <persName key="sir-walter-scott">Scott’s</persName> eget Liv for
                         at finde et Sidestykke til saadant et Factum. Da hans Roman
-                            »<bibl>Oldgranskeren</bibl>« kom ud, hvoraf der i to Dage solgtes 6000
+                        »<bibl n="scott-the-antiquary">Oldgranskeren</bibl>« kom ud, hvoraf der i to Dage solgtes 6000
                         Exemplarer, rygtede det sig, at <persName key="sir-walter-scott">Scott</persName> havde opkaldt
                             <persName type="fictional">Dandie Dinmonts</persName> to Hunde »Peber«
                         og »Sennep« efter nogle Hunde som en Forpagter i
@@ -4080,7 +4080,7 @@
                         gjorde Reiser for at see ham, ja en fornem Dame, der ønskede et Par Hvalpe
                         af de berømte Hunde, og ikke vidste hans Navn, adresserede Brevet til
                             <persName type="fictional">Dandie Dinmont</persName> – og det kom ham
-                        ihænde. »<bibl>The Lady of the lake</bibl>« blev neppe modtaget med ringere
+                        ihænde. »<bibl n="scott-the-lady-of-the-lake">The Lady of the lake</bibl>« blev neppe modtaget med ringere
                         Varme. <ref target="n3185"/>Et Brev fra den skotske Capitain <persName key="adam-ferguson">Adam
                             Fergusson</persName> underrettede f. Ex. Digteren om, at han i Portugal
                         paa Forpost havde læst hans Digtning høit, udsat for Fjendens Kugler, selv
@@ -4108,7 +4108,7 @@
                             <persName key="sir-walter-scott">Scott</persName>, og har aldrig tilbragt en mere uforstyrret
                         Nat<!-- lemma slut -->. – Man tænke sig <persName key="novalis">Novalis</persName> eller
                             <persName key="e-t-a-hoffmann">Hoffmann</persName> i en lignende Situation!</p>
-                    <p> Det er da langtfra, at den romantiske Duft i »<bibl>Jomfruen fra
+                    <p> Det er da langtfra, at den romantiske Duft i »<bibl n="scott-the-lady-of-the-lake">Jomfruen fra
                         Søen</bibl>« skulde have noget Ufrisk ved sig. Hvad der gjør Digtet mindre
                         interessant for os nu, er ikke dette, men det theatralske <pb n="176"/>
                         Arrangement i Skildringen af Sæder og Skikke. Heller ikke
@@ -4141,7 +4141,7 @@
                         Indblikket i en harmonisk Verden og man savner ikke
                             <persName key="william-wordsworth">Wordsworth’s</persName> straffende og moraliserende
                         Psychologi. Vil man i Virkeligheden have et lærerigt Modstykke til
-                            »<bibl>The Lady of the lake</bibl>«, da læse man
+                        »<bibl n="scott-the-lady-of-the-lake">The Lady of the lake</bibl>«, da læse man
                             <persName key="william-wordsworth">Wordsworth’s</persName> paa en Ballade i
                             <persName key="thomas-percy">Percy’s</persName>
                         <bibl>Samling</bibl> grundede Epos »<bibl>Den hvide Daa fra
@@ -7245,9 +7245,9 @@
                         la’e den binde!«<!-- LEMMA SLUT -->
                     </p>
                     <p> Og havde man 2 Aar senere, da denne saa ufordelagtigt bedømte Digter var
-                        død, henvendt sig til <persName key="1">hans Forlægger</persName> for at høre om
+                        død, henvendt sig til <persName key="charles-ollier">hans Forlægger</persName> for at høre om
                         hans saa <pb n="302"/> stærkt angrebne Poesier ikke i det mindste havde
-                        fundet Kjøbere, da vilde <persName key="0">Forlæggeren</persName> ganske sikkert
+                        fundet Kjøbere, da vilde <persName key="charles-ollier">Forlæggeren</persName> ganske sikkert
                         have beklaget den daarlige Forretning og oplyst Spørgeren om, at der i
                             <persName key="percy-bysshe-shelley">Shelleys</persName> hele Levetid ikke var blevet solgt 100
                         Exemplarer af noget af hans Digte (»<bibl>Queen Mab</bibl>« og
@@ -7402,7 +7402,7 @@
                         og rask som <persName type="fictional">Ariel</persName> hos
                             <persName key="william-shakespeare">Shakespeare</persName>, at man maa tænke sig
                             <persName key="percy-bysshe-shelley">Shelley</persName> gaae ind og ud hos sine Venner.
-                            <persName key="0">Mrs. Williams</persName> sagde om ham: <ref target="n3828"/>»Han
+                        <persName key="jane-williams">Mrs. Williams</persName> sagde om ham: <ref target="n3828"/>»Han
                         kommer og gaaer som en Aand. Ingen veed naar og
                         hvorhen«<!-- LEMMA SLUT --><!-- tilføjet cit.tegn -->.</p>
                     <p> Hans Helbred var hele hans Liv igjennem utaaleligt svagt og vilde rimeligvis
@@ -7976,7 +7976,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         putte Adressen ned i Hætten paa en Dames Kaabe, hvorover hans unge Brud var
                         – <ref target="n3887"/>efter eget Sigende<!-- LEMMA SLUT --> – nær ved at døe af
                         Latter. Han var tilstede ved flere Møder og talte en Gang en hel Time i
-                            <persName key="0">O’Connels</persName> og andre Celebriteters Nærværelse. De
+                        <persName key="daniel-oconnell">O’Connels</persName> og andre Celebriteters Nærværelse. De
                         Samtidiges Vidnesbyrd er saa enthusiastisk, at han, hvis man kan slutte
                         deraf, var endnu større som Taler end som Digter.</p>
                     <p> Den næste Gang <persName key="percy-bysshe-shelley">Shelley</persName> stødte sammen med <pb n="333"/>
@@ -8166,7 +8166,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         <note place="bottom">»<bibl>Emigrantlitteraturen</bibl>« S. 71.</note>.
                         Saavel i »<bibl>Rosalind and Helen</bibl>« som i »<bibl>Revolt of
                             Islam</bibl>«, hvis Helt og Heltinde kun paa
-                            <persName key="0">Forlæggerens</persName> indtrængende Anmodning ophørte at være
+                        <persName key="charles-ollier">Forlæggerens</persName> indtrængende Anmodning ophørte at være
                         Broder og Søster, spildte <persName key="percy-bysshe-shelley">Shelley</persName> megen Veltalenhed paa
                         dette uhyggelige, ogsaa <persName key="george-gordon-byron">Byron</persName> saa stærkt sysselsættende
                         Paradox, der skulde give Anledning til et saa enfoldigt og oprørende Angreb
@@ -8433,7 +8433,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             <persName key="percy-bysshe-shelley">Shelley</persName> fortabte sig her helt i Historien og glemte
                         alle Theorier. Men dog er det mig klart, at hvad der egentlig greb ham i
                         denne tragiske Conflikt, var det dybe Brud med al Tradition, som
-                            <persName key="0">Faderens</persName> Forbrydelse her havde gjort til
+                            <persName type="fictional">Faderens</persName> Forbrydelse her havde gjort til
                         Nødvendighed og til Pligt, samt den Anledning, den gav til at stille de
                         gjængse theologiske Begreber om Verdensstyrelsens Fadergod<pb n="351"/>hed i
                         en grel Belysning. <persName type="fictional">Beatrice</persName> siger:
