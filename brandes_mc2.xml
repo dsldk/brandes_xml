@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <emph>The romantic school in Germany</emph> (1902)</title>
+                    <emph>The Romantic School in Germany</emph> (1906) [1902]</title><!-- 1902 må henvise til den engelske udgave -->
             </titleStmt>
             <publicationStmt>
                 <publisher>dsl</publisher>
@@ -22,70 +22,91 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
-    </teiHeader>
+    
+        <profileDesc>
+            <creation>
+                <placeName>empty</placeName>
+            </creation>
+            <abstract>
+                <ab>Second volume of Main Currents ... by Georg Brandes (1906) [1902]</ab>
+            </abstract>
+            <langUsage>
+                <language ident="en"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>empty</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+  </teiHeader>
+  
     <text>
+        <front>
+            <figure><!-- skal vi reproducere dette? -->
+                <pb n="[ii]" facs="xyz"/>
+                <byline>A. W. Schlegel</byline><!-- praksis med luft mellem forkortelsesbogstaver-->
+            </figure> 
+        
+            <titlePage>
+                <pb n="[iii]" facs="xyz"/>
+                <docTitle>
+                    <titlePart>Main Currents in<lb/>Nineteenth Century<lb/>Literature</titlePart>
+                    <lb/>
+                    <lb/>
+                    <titlePart type="desc">by</titlePart>
+                </docTitle>
+                <byline>George Brandes</byline>
+                <docTitle>
+                    <titlePart type="desc">In Six Volumes Illustrated</titlePart>
+                    <lb/>
+                    <titlePart type="sub">II</titlePart>
+                    <lb/>
+                    <titlePart type="sub">The Romantic School in Germany</titlePart>
+                </docTitle>
+                <lb/>
+                <docImprint><publisher>New York: The Macmillan Company</publisher><publisher>London: William
+                    Heinemann</publisher><docDate>MCMVI</docDate></docImprint> 
+                <docImprint><pubPlace><pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint>
+            </titlePage>
+            
+        <!-- her følger: [v]: Contents -->
+            
+            <epigraph>
+                <pb n="[vi]"/>
+                <cit>
+                    <quote><lg>
+                        <l><emph>»Allen Gewalten</emph></l>
+                        <l><emph>Zum Trutz sich erhalten,</emph></l>
+                        <l><emph>Nimmer sich beugen...«</emph></l>
+                    </lg>
+                        <lg>
+                            <l>-GOETHE.</l><!-- højrestilles -->
+                        </lg></quote>
+                </cit>
+            </epigraph>
+            <lb/>
+            <epigraph>
+                <cit>
+                    <quote>
+                        <p><emph>»Philosophiren ist dephlegmatisiren, ist vivificiren.«</emph></p>
+                        <lg>
+                            <l>-NOVALIS.</l><!-- højrestilles -->
+                        </lg></quote>
+                </cit>
+            </epigraph>
+            
+        <!-- her følger: [vii]: List of Portraits -->
+        </front>
+        
         <body>
-            <div>
-
-                <!--<p>MAIN CURRENTS IN NINETEENTH CENTURY LITERATURE</p>
-
-<p>by</p>
-
-<head>GEORGE BRANDES</head>
-
-<p>In Six Volumes Illustrated</p>
-
-<head>II</head>
-
-<p>THE ROMANTIC SCHOOL IN GERMANY</p>
-
-<p>London: William Heinemann
-New York: The Macmillan Company
-MCMVI</p>
-
-<p>[Illustration: A. W. SCHLEGEL]</p>
-
-<head>CONTENTS</head>
-
-<p>          INTRODUCTION
-       I. THE PIONEERS OF ROMANTICISM
-      II. HÖLDERLIN
-     III. A. W. SCHLEGEL
-      IV. TIECK AND JEAN PAUL
-       V. SOCIAL ENDEAVOURS OF THE ROMANTICISTS LUCINDE
-      VI. ROMANTIC PURPOSELESSNESS
-     VII. "LUCINDE" IN REAL LIFE
-    VIII. SCHLEIERMACHER'S LETTERS
-      IX. WACKENRODER: ROMANTICISM AND MUSIC
-       X. ATTITUDE OF ROMANTICISM TO ART AND NATURE
-      XI. ROMANTIC DUPLICATION AND PSYCHOLOGY
-     XII. ROMANTIC SOUL. NOVALIS
-    XIII. LONGING-"THE BLUE FLOWER"
-     XIV. ARNIM AND BRENTANO
-      XV. MYSTICISM IN THE ROMANTIC DRAMA
-     XVI. ROMANTIC LITERATURE AND POLITICS
-    XVII. ROMANTIC POLITICIANS</p>
-
-<p>"Allen Gewalten
-Zum Trutz sich erhalten,
-Nimmer sich beugen ..."
-GOETHE.</p>
-
-<p>"Philosophiren ist dephlegmatisiren, ist vivissciren."
--NOVALIS.</p>
-
-<head>LIST OF PORTRAITS</head>
-
-<p>A. W. SCHLEGEL
-LUDWIG TIECK
-FRIEDRICH SCHLEGEL
-SCHLEIERMACHER
-W. HOFFMANN
-NOVALIS</p>
--->
-                <head>THE ROMANTIC SCHOOL IN GERMANY</head>
+            <div type="preface"><!-- start preface -->
+                
+                <head><pb n="[1]"/> THE ROMANTIC SCHOOL IN GERMANY</head>
+                <lb/>
+                <head type="add">Introduction</head>
                 <head>INTRODUCTION</head>
-                <p>The task of giving a connected account of the German Romantic School is, for a
+                <p>THE task of giving a connected account of the German Romantic School is, for a
                     Dane, an arduous and disheartening one. In the first place, the subject is
                     overwhelmingly vast; in the second, it has been treated again and again by
                     German writers; and, lastly, these writers, in their division of labour, have
@@ -104,7 +125,7 @@ NOVALIS</p>
                     author which stamps him as a German. The German critic is too apt to consider
                     "German" synonymous with "human being," for the reason that the human beings he
                     deals with are almost always Germans. The foreigner is struck by characteristics
-                    which are overlooked by the native, sometimes because he is so accustomed to
+                    which <pb n="2"/> are overlooked by the native, sometimes because he is so accustomed to
                     them, more frequently because he himself possesses them.</p>
                 <p>There are many works to be criticised and classified, many personalities to
                     describe. My aim will be to present these personalities and works in as firm and
@@ -133,7 +154,7 @@ NOVALIS</p>
                     prince n'a tué son successeur._</p>
                 <p>When, however, the connection between literature and life is thus emphasised, the
                     delineations and interpretations of men and their books by no means produce what
-                    we may call drawing-room history of literature. I go down to the foundations of
+                    we may call drawing<pb n="3"/>room history of literature. I go down to the foundations of
                     real life, and show how the emotions which find their expression in literature
                     arise in the human heart. And this same human heart is no still pool, no idyllic
                     mountain lake. It is an ocean, with submarine vegetation and terrible
@@ -162,7 +183,7 @@ NOVALIS</p>
                     of the lonely woods). These expressions are, however, definitions of moods, and
                     each mood has a corresponding psychological condition, my task is to trace back
                     each mood, emotion, or longing to the group of psychological conditions to which
-                    it belongs. This group in combination constitutes a soul; and such a soul, with
+                    it belongs. This group in combination constitutes a soul; and such <pb n="4"/> a soul, with
                     strongly marked individuality, represents in literature the many who were unable
                     to depict their own character, but who recognised it when thus placed before
                     them. I may possibly succeed in proving that the type does not escape us because
@@ -192,7 +213,7 @@ NOVALIS</p>
                     "enlightenment." They introduce a new tone into German poetry, give their works
                     a new colour, and, in addition to this, revive both the spirit and the substance
                     of the old fairy-tale, Volkslied, and legend. They exercise at first a
-                    fertilising influence upon German science; research in the domains of history,
+                    fertilising influence upon German science; research <pb n="5"/> in the domains of history,
                     ethnography, and jurisprudence, the study of German antiquity, Indian and
                     Greek-Latin philology, and the systems and dreams of the _Naturphilosophie_ all
                     receive their first impulse from Romanticism. They widened the emotional range
@@ -221,7 +242,7 @@ NOVALIS</p>
                     corrupted than improved literary style. In the domain of poetry, Romanticism
                     ended in hysterical piety and vapouring. In the social domain it occupied itself
                     with only one question, that of the relations between the sexes; and its ideas
-                    on this subject were, for the most part, so abnormal and morbidly unhealthy,
+                    on this subject were, for the most part, so <pb n="6"/> abnormal and morbidly unhealthy,
                     that most of its passionate blows were dealt in the air. In dealing them, it was
                     not humanity at large that the Romanticists had in view, but a few favoured,
                     aristocratic, artistic natures. In religious matters, these men, whose moral and
@@ -250,12 +271,12 @@ NOVALIS</p>
                     nor been in any way influenced by the Danes. Steffens, through whom we receive
                     the impetus from Germany, is the devoted disciple of Schelling. Witness the
                     following passage from one of his letters to that philosopher: "I am your pupil,
-                    absolutely and entirely your pupil. All that I produce was originally yours.
+                    absolutely and entirely your pupil. All that I produce was <pb n="7"/> originally yours.
                     This is no passing feeling; it is my firm conviction that such is the case, and
                     I do not think the less of myself for it. Therefore, when once I have produced a
                     really great work which I should gladly call mine, I shall, as soon as it has
                     been recognised, publicly, enthusiastically, proclaim you to be my teacher, and
-                    hand over to you my laurel wreath."[1]</p>
+                    hand over to you my laurel wreath."<hi rend="sup">*)</hi><note place="bottom">G. L. Plitt: <emph>Aus Schelling's Leben</emph>, i. 309.</note></p>
                 <p>In German literature there is more life, in the corresponding Danish literature
                     more art. It is Germany which produces, which unearths, the material. That
                     literature of which Romanticism is the first development, lives and moves and
@@ -277,8 +298,8 @@ NOVALIS</p>
                     a more serene and idyllic clime; it shook off all its weirdness; its thick,
                     shapeless mists condensed into slender river nymphs; it forgot the Harz and the
                     Blocksberg, and took up its abode one beautiful Midsummer Eve in the Deer Park
-                    near Copenhagen.[2]</p>
-                <p>_Aladdin_ is a finer and more intelligible literary work than Tieck's _Kaiser
+                    near Copenhagen.<hi rend="sup">*)</hi><note place="bottom">G. Brandes: <emph>Samlede Skrifter</emph>, i. 464.</note></p>
+                <p>_Aladdin_ is a finer and more intelligible literary work than <pb n="8"/> Tieck's _Kaiser
                     Oktavianus_, but Oehlenschläger could not deny that _Aladdin_ would never have
                     been written if _Oktavianus_ had not been in existence. Heiberg's _Julespög og
                     Nytaarslöjer_ is to the full as witty as Tieck's Aristophanic satires, but the
@@ -309,7 +330,7 @@ NOVALIS</p>
                     acquiring ever more profundity from the experiences of life. Of real development
                     there are often only faint traces. The youthful works of such authors as
                     Oehlenschläger, Winther, and Andersen are as perfect as those of their maturity.
-                    Sometimes, as in the case of Oehlenschläger, advancing years produce in the
+                    Some<pb n="9"/>times, as in the case of Oehlenschläger, advancing years produce in the
                     talent a suspicion of corpulence, of unctuousness. Sometimes, as in the case of
                     Paludan-Müller, the ideal grows more and more attenuated. When a change does
                     take place, it rarely signifies that the author has gradually evolved for
@@ -338,7 +359,7 @@ NOVALIS</p>
                     extravagant personalities peopling the Romantic hospital of Germany! A
                     phthisical Moravian Brother with the consumptive's sensuality and the
                     consumptive's mystic yearnings--Novalis. A satirical hypochondriac, subject to
-                    hallucinations and with morbid leanings to Catholicism--Tieck. A genius,
+                    hallucinations and with <pb n="10"/> morbid leanings to Catholicism--Tieck. A genius,
                     impotent to produce, but with the propensity of genius to revolt and the
                     imperative craving of impotence to subject itself to outward
                     authority--Friedrich Schlegel. A dissipated fantast with the half-insane
@@ -367,8 +388,7 @@ NOVALIS</p>
                     the more stately and wide-spreading it is. The fineness lies in the daring and
                     vigour with which that which is typical is expressed. He who discovers a new
                     country may, in the course of his explorations, be stranded on a reef. It is an
-                    easy matter to avoid the reef and leave the country undiscovered. The Danish
-                    Romanticists are never insane like Hoffmann, but neither are they ever dæmonic
+                    easy matter to avoid the reef and leave the country undiscovered. The Danish <pb n="11"/> Romanticists are never insane like Hoffmann, but neither are they ever dæmonic
                     like him. They lose in thrilling, overpowering life and energy what they gain in
                     lucidity and readableness. They appeal to a greater number and a more varied
                     class of readers, but they do not enthral them. The more vigorous originality
@@ -397,7 +417,7 @@ NOVALIS</p>
                     conclusions, shirking nothing which must be regarded as a direct consequence of
                     his beliefs. Like Kierkegaard, he is a man of brilliant parts and solid culture,
                     but whereas Kierkegaard, when it comes to practical applications, is as afraid
-                    of "public scandal" as any old maid, De Maistre boldly accepts all necessary
+                    of "public scandal" as any old maid, De Maistre <pb n="12"/> boldly accepts all necessary
                     consequences. The famous passage in praise of the executioner in the sixth
                     conversation of the _Soirées de Saint-Petersbourg_, leaves nothing to be desired
                     in the matter of plain speaking. The executioner is a "sublime being," "the
@@ -426,7 +446,7 @@ NOVALIS</p>
                     one does not forget. This is a type one takes pleasure in, as the naturalist
                     takes pleasure in a fine specimen of a species of which he has hitherto only met
                     with imperfect and unsatisfactory examples. Looking at the matter from a
-                    practical point of view, it may be considered fortunate that such personalities
+                    practical point of view, it may be considered fortunate that <pb n="13"/> such personalities
                     are not to be found in Danish literature, but their absence gives a less plastic
                     character to its history.</p>
                 <p>It is all very well to say that we Danes only assimilated the good and healthy
@@ -456,7 +476,7 @@ NOVALIS</p>
                     feudalism. Clemens Brentano, in his youth the most mettlesome of poets, who both
                     in life and literature made war upon every species of convention, becomes the
                     credulous secretary of a nun, a hysterical visionary; does nothing for the space
-                    of five years but fill volume after volume with the sayings of Anna Katharina
+                    of five years but fill volume after volume with the <pb n="14"/> sayings of Anna Katharina
                     Emmerich. Zacharias Werner is a variant of the same Romantic type. He starts in
                     his career as a friend of "enlightenment"; but soon a process of moral
                     dissolution begins; he first extols Luther, then turns Roman Catholic and
@@ -486,7 +506,7 @@ NOVALIS</p>
                 <p>In this he was only following in the footsteps of his master, Schelling.
                     Schelling, who, in marked contrast to Fichte with his clear doctrine of the Ego,
                     dwells upon the mysterious nature of the mind, and bases not only philosophy,
-                    but also art and religion, upon the perception of genius, the so-called
+                    but also art and religion, upon the perception of genius, the <pb n="15"/> so-called
                     "intellectual intuition," displays both in his doctrine and in his want of
                     method the arbitrariness, the lawlessness, which is the kernel of Romanticism.
                     As early as 1802, in his _Bruno_, he used the significant expression and future
@@ -515,8 +535,7 @@ NOVALIS</p>
                     object of Kierkegaard's admiration, who reproaches him with setting the Trinity
                     upon a logical balance-pole, and, still worse, with daring to deny the existence
                     of a personal devil. The utterances of the others are in keeping with this.
-                    Schubert writes _The Symbolism of Dreams_--was not the dream the ideal of
-                    Romanticism?--occupies himself in all seriousness with interpreting them, happy
+                    Schubert writes _The Symbolism of Dreams_--was not the dream the ideal of <pb n="16"/> Romanticism?-occupies himself in all seriousness with interpreting them, happy
                     in his persuasion that clairvoyance and visions are the highest sources of
                     knowledge. The vision-seer of Prevorst, whom Strauss, characteristically enough,
                     begins his public career by exposing, plays an important part in those days.
@@ -545,13 +564,13 @@ NOVALIS</p>
                     obscurantists, the insane yells of the mystics, and the shouts of the
                     politicians for temporal and ecclesiastical despotism, while theology and
                     theosophy fall upon the sciences and suffocate them with their caresses.</p>
-                <p>[1] G. L. Plitt: _Aus Schelling's Leben_, i. 309.</p>
-                <p>[2] G. Brandes: _Samlede Skrifter_, i. 464.</p>
-            </div>            
+            </div>   
+            
             <div>
-                <head>I</head>
-                <p>THE PIONEERS OF ROMANTICISM</p>
-                <p>Any one who makes acquaintance with the Germany of to-day, either by travelling
+                <head type="add">1. The Pioneers of Romanticism</head>
+                <head><pb n="[17]"/> I. THE PIONEERS OF ROMANTICISM</head>
+                
+                <p>ANY one who makes acquaintance with the Germany of to-day, either by travelling
                     in the country or by reading about it, and then compares it with the Germany of
                     the beginning of the century, is astounded by the contrast. What a distance
                     between then and now! Who would believe that this Realistic Germany had ever
@@ -574,7 +593,7 @@ NOVALIS</p>
                     psychical conundrums.</p>
                 <p>And this is the people which once was lost in Romantic reveries and speculations,
                     and saw its prototype in Hamlet! Hamlet and Bismarck! Bismarck and Romanticism!
-                    Unquestionably the great German statesman succeeded in carrying all Germany with
+                    Un<pb n="18"/>questionably the great German statesman succeeded in carrying all Germany with
                     him chiefly because he offered to his country in his own person the very
                     qualities of which it had so long felt the want. Through him politics have been
                     substituted for æsthetics. Germany has been united; the military monarchy has
@@ -603,7 +622,7 @@ NOVALIS</p>
                     literature the relation of the individual to the State, the sacrifice of
                     personal volition and originality entailed by the yoking of the Ego to the State
                     chariot, presents itself in marked contrast to the Romanticist worship of the
-                    talented individual with all his peculiarities, and the Romanticist indifference
+                    talented individual with <pb n="19"/> all his peculiarities, and the Romanticist indifference
                     to everything historical and political. Romantic literature was always
                     pre-eminently drawing-room literature, the ideal of Romanticism being
                     intellectual society and æsthetic tea-parties (_vide_ the conversations in
@@ -635,7 +654,7 @@ NOVALIS</p>
                     consciousness of what he was doing, he enlightened and educated the German mind.
                     He was the embodiment of manly independence and vigorous, tireless militancy.
                     His personal ideal, as it is revealed in his life and writings, was proud
-                    independence in combination with a wise love of his fellow-men, which overcame
+                    independence in com<pb n="20"/>bination with a wise love of his fellow-men, which overcame
                     all differences of creed. Hence, solitary as he stood in his own day, his Ego
                     became a source of light. He was the "Prometheus of German prose." His great
                     achievement was that of freeing German culture for all time from the swaddling
@@ -664,7 +683,7 @@ NOVALIS</p>
                     champion of reason, pure and simple, as their forerunner, hence they attempted
                     to characterise the nutritive element in Lessing's works as mere seasoning, as
                     the salt which preserves from corruption.</p>
-                <p>They owed far more to Herder. They evidence their descent from him both by their
+                <p><pb n="21"/> They owed far more to Herder. They evidence their descent from him both by their
                     continuation of the _Sturm und Drang_ period and by their capacity of
                     understanding and reproducing the poetry of all countries. In Herder the new
                     century germinated, as in Lessing the old had come to its close. Herder sets
@@ -692,7 +711,7 @@ NOVALIS</p>
                     personal, the psychical domain. To them purposelessness is another name for
                     Romantic genius; the man of genius lives without a definite purpose;
                     purposelessness is idleness, and idleness is the mark and privilege of the
-                    elect. In this caricature of a philosophy there is not much resemblance to
+                    elect. In this caricature of a philosophy there is <pb n="22"/> not much resemblance to
                     Herder's. But he is the originator of a new conception of genius, of the belief,
                     namely, that genius is intuitive, that it consists in a certain power of
                     perceiving and apprehending without any resort to abstract ideas. It is this
@@ -721,7 +740,7 @@ NOVALIS</p>
                     skating expeditions, masquerades--animated by a wild joy in nature, which is now
                     "lightened," now "darkened" by love affairs of a more or less dubious character.
                     Jean Paul writes to a friend that he can only describe the morals of Weimar to
-                    him by word of mouth. When we hear that even skating was a scandal to the worthy
+                    him by word <pb n="23"/> of mouth. When we hear that even skating was a scandal to the worthy
                     Philistines of that town, we are not surprised by old Wieland's ill-natured
                     remark, that the circle in question appeared to him to be aiming at "brutalising
                     animal nature." Thus it was that the sweet, refined coquette, Frau von Stein,
@@ -749,18 +768,33 @@ NOVALIS</p>
                     upon it for the wrongs it has done them. Schiller's defiance is still more
                     personally expressed in those poems of his first period which were written under
                     the influence of his relations with Frau von Kalb, poems re-written and entirely
-                    altered in the later editions. In the one which ultimately received the title
-                    _Der Kampf_, but which was originally called _Freigeisterei der Leidenschaft_,
-                    he writes:--</p>
-                <p> "Woher dies Zittern, dies unnennbare Entsetzen, Wenn mich dein liebevoller Arm
-                    umschlang? Weil Dich ein Eid, den auch nur Wallungen verletzen, In fremde
-                    Fesseln zwang?</p>
-                <p> "Weil ein Gebrauch, den die Gesetze heilig prägen, Des Zufalls schwere Missethat
-                    geweiht? Nein--unerschrocken trotz ich einem Bund entgegen, Den die erröthende
-                    Natur bereut.</p>
-                <p> "O zittre nicht--Du hast als Sünderin geschworen, Ein Meineid ist der Reue
-                    fromme Pflicht, Das Herz war mein, das Du vor dem Altar verloren, Mit
-                    Menschenfreuden spielt der Himmel nicht."[1]</p>
+                    altered in the later editions. In the one which ultimately received the <pb n="24"/> title
+                    <emph>Der Kampf</emph>, but which was originally called <emph>Freigeisterei der Leidenschaft</emph>, he writes:-</p>
+                
+                <cit><quote>
+                    <lg>
+                    <l>»Woher dies Zittern, dies unnennbare Entsetzen,</l>
+                    <l>Wenn mich dein liebevoller Arm umschlang?</l>
+                    <l>Weil Dich ein Eid, den auch nur Wallungen verletzen,</l>
+                    <l>In fremde Fesseln zwang?</l>
+                    </lg>
+                    
+                    <lg>
+                        <l>Weil ein Gebrauch, den die Gesetze heilig prägen,</l>
+                        <l>Des Zufalls schwere Missethat geweiht?</l>
+                        <l>Nein-unerschrocken trotz ich einem Bund entgegen,</l>
+                        <l>Den die erröthende Natur bereut.</l>
+                    </lg>
+                    
+                    <lg>
+                        <l><!-- slettet indl. cit.tegn -->O zittre nicht-Du hast als Sünderin geschworen,</l>
+                        <l>Ein Meineid ist der Reue fromme Pflicht,</l>
+                        <l>Das Herz war mein, das Du vor dem Altar verloren,</l>
+                        <l>Mit Menschenfreuden spielt der Himmel nicht.«<hi rend="sup">*)</hi><note place="bottom">Whence this trembling, this nameless horror, when thy loving arms encircle me? Is it because an oath, which, remember, even a thought is sufficient to break, has forced strange fetters on thee?<lb/>Because a ceremony, which the laws have decreed to be sacred, has hallowed an accidental, grievous crime? Nay-fearlessly defy a covenant of which blushing nature repents.<lb/>O tremble not!-thine oath was a sin; perjury is the sacred duty of the repentant sinner; the heart thou gavest away at the altar was mine; Heaven does not play with human happiness.</note></l>
+                    </lg>
+                </quote>
+                </cit> 
+                
                 <p>Comical as this naïve sophistry sounds, and unreliable as is the assurance that
                     Heaven will not permit itself now and again to play with human happiness, the
                     spirit of the verses is unmistakable; and, as Hettner aptly observes, Don Carlos
@@ -774,7 +808,7 @@ NOVALIS</p>
                     Jeannette Pauline.) Jean Paul characterises her thus: "She has two great
                     possessions: great eyes (I never saw their like) and a great soul." He himself
                     confesses that it is she whom he has described in one of his principal works as
-                    the Titaness, Linda. In _Titan_ (118 Zykel) we are told of Linda that she must
+                    the <pb n="25"/> Titaness, Linda. In _Titan_ (118 Zykel) we are told of Linda that she must
                     be tenderly treated, not only on account of her delicacy, but also in the matter
                     of her aversion to matrimony, which is extreme. She cannot even accompany a
                     friend to the altar, which she calls the scaffold of woman's liberty, the
@@ -802,7 +836,7 @@ NOVALIS</p>
                     are not isolated and accidental tirades, but are conditioned by the position in
                     which the majority of poetic natures stood to society at that time.</p>
                 <p>Weimar was then the headquarters and gathering-place of Germany's classical
-                    authors. It is not difficult to understand how they came to gather in this
+                    authors. It is not difficult to under<pb n="26"/>stand how they came to gather in this
                     little capital of a little dukedom. Of Germany's two great monarchs, Joseph the
                     Second was too much occupied with his efforts at reform, too eager for the
                     spread of "enlightenment," to have any attention to spare for German poetry; and
@@ -831,7 +865,7 @@ NOVALIS</p>
                     genuinely German trait that outwardly they made deep obeisance to the laws which
                     they privately evaded. In conversation, Goethe, in his riper years, invariably
                     maintained that the existing conventions regulating the relations of the sexes
-                    were absolutely necessary in the interests of civilisation; and in their books
+                    were absolutely necessary in the <pb n="27"/> interests of civilisation; and in their books
                     authors gave expression to revolutionary sentiments which were more or less
                     their own, only to recant at the end of the book. The hero either confesses his
                     error, or commits suicide, or is punished for his defiance of society, or
@@ -861,7 +895,7 @@ NOVALIS</p>
                     recurs. It is in reality the one outwardly directed power that men
                     possess--impotence itself conceived as a power.</p>
                 <p>We find the same admiration of wish in Kierkegaard's _Enten-Eller_ (Either-Or).
-                    "The reason why Aladdin is so refreshing is that we feel the childlike audacity
+                    "The reason why Aladdin is so <pb n="28"/> refreshing is that we feel the childlike audacity
                     of genius in its wildly fantastic wishes. How many are there in our day who dare
                     really wish?" &amp;c. The childlike, for ever the childlike! But who can wonder
                     that _wish_, the mother of religions, the outward expression of inaction, became
@@ -890,7 +924,7 @@ NOVALIS</p>
                 <p>"We must remember," says Kierkegaard (_Begrebet Ironi_, p. 322), "that Tieck and
                     the entire Romantic School entered, or believed they entered, into relations
                     with a period in which men were, so to speak, petrified, in final, unalterable
-                    social conditions. Everything was perfected and completed, in a sort of divine
+                    social conditions. Everything was perfected and completed, <pb n="29"/> in a sort of divine
                     Chinese perfection, which left no reasonable longing unsatisfied, no reasonable
                     wish unfulfilled. The glorious principles and maxims of 'use and wont' were the
                     objects of a pious worship; everything, including the absolute itself, was
@@ -920,7 +954,7 @@ NOVALIS</p>
                     Heiberg's first Romantic attempts, I wrote: "They (the Romanticists) looked upon
                     it from the philosophical point of view as finality, from the intellectual, as
                     narrow-mindedness; not, like us, from the moral point of view, as
-                    contemptibility. With it they contrasted their own infinite longing.... They
+                    contemptibility. With it they con<pb n="30"/>trasted their own infinite longing.... They
                     confronted its prose with their own youthful poetry; we confront its
                     contemptibility with our virile will" (_Samlede Skrifter_, i. p. 467). As a
                     general rule, then, they, with their thoughts and longings, fled society and
@@ -948,8 +982,8 @@ NOVALIS</p>
                     prevailed at that of his successor.</p>
                 <p>But both Goethe and Schiller paved the way for Romanticism not only positively,
                     by their proclamation of the rights of passion, but also negatively, by the
-                    conscious attitude of opposition to their own age which they assumed in their
-                    later years. In another form, the Romanticist's aversion to reality is already
+                    conscious attitude of opposition to their own age which they assumed in
+                    their <pb n="31"/> later years. In another form, the Romanticist's aversion to reality is already
                     to be found in them. I adduce two famous instances of the astonishing lack of
                     interest shown by Goethe, the greatest creative mind of the day, in political
                     realities; they prove at the same time how keen was his interest in science.
@@ -978,7 +1012,7 @@ NOVALIS</p>
                     private life is everything. The tremendous conflicts of the eighteenth century
                     and the "enlightenment" period are all, in consonance with the human idealism of
                     the day, contained in the life story, the development story, of the individual.
-                    But the cult of humanity does not only imply lack of interest in history, but
+                    But the cult of <pb n="32"/> humanity does not only imply lack of interest in history, but
                     also a general lack of interest in the subject for its own sake. In one of his
                     letters to Goethe, Schiller writes that two things are to be demanded of the
                     poet and of the artist--in the first place, that he shall rise above reality,
@@ -1002,11 +1036,11 @@ NOVALIS</p>
                     must not forget that the process had begun long before. Kotzebue had been the
                     antipodes of Schiller and Goethe before he stood in that position to the
                     Romanticists. Of this we get a vivid impression from the following
-                    anecdote.[2]</p>
+                    anecdote.<hi rend="sup">*)</hi><note place="bottom">Goethe, <emph>Tag- und Jahreshefte</emph>, 1802; G. Waitz, <emph>Caroline</emph>, ii. 207; <emph>Goethe-Jahrbuch</emph>, vi. 59, &amp;c.</note></p>
                 <p>One day in the early spring of 1802, the little town of Weimar was in the
                     greatest excitement over an event which was the talk of high and low. It had
                     long been apparent that some special festivity was in preparation. It was known
-                    that a very famous and highly respected man, President von Kotzebue, had applied
+                    that a very famous and highly respected man, President <pb n="33"/> von Kotzebue, had applied
                     privately to the Burgomaster for the use of the newly decorated Town Hall. The
                     most distinguished ladies of the town had for a month past done nothing but
                     order and try on fancy dresses. Fräulein von Imhof had given fifty gold guldens
@@ -1034,7 +1068,7 @@ NOVALIS</p>
                     recited to an accompaniment of tableaux vivants. At the close of the poem,
                     Kotzebue, dressed as the master-bellfounder, was to shatter the pasteboard mould
                     with a blow of his hammer, and there was to be disclosed, not a bell, but a bust
-                    of Schiller. The Kotzebue party, however, had reckoned without their host, that
+                    of Schiller. The Kotzebue party, however, had reckoned without their host, <pb n="34"/> that
                     is to say, without Goethe. In all Weimar there was only one bust of Schiller,
                     that which stood in the library. When, on the last day, a messenger was sent to
                     borrow it, the unexpected answer was given, that never in the memory of man had
@@ -1063,7 +1097,7 @@ NOVALIS</p>
                     _Götz_ had set the fashion of romances of chivalry and highway robbery,
                     _Werther_ of suicide, both in real life and in fiction, and _Die Räuber_ of such
                     productions as _Abällino, der grosse Bandit_, the great writers, finding the
-                    reading world unable to discriminate between originals and imitations, withdrew
+                    reading world unable to discriminate between originals and <pb n="35"/> imitations, withdrew
                     from the arena. Their interest in the subject was lost in their interest in the
                     form. The study of the antique led them to lay ever-increasing weight upon
                     artistic perfection. It was not their lot to find a public which understood
@@ -1092,7 +1126,7 @@ NOVALIS</p>
                     Dorothea_.</p>
                 <p>What were the proceedings of the two great poets after they turned their backs
                     upon their surroundings? Goethe made the story of his own strenuous intellectual
-                    development the subject of plastic poetic treatment. But finding it impossible,
+                    development the subject of plastic poetic treatment. But finding <pb n="36"/> it impossible,
                     so long as he absorbed himself in modern humanity, to attain to the beautiful
                     simplicity of the old Greeks, he began to purge his works of the personal; he
                     composed symbolical poems and allegories, wrote _Die Natürliche Tochter_, in
@@ -1119,8 +1153,7 @@ NOVALIS</p>
                     _Iphigenia_. Nay, he actually insisted, merely for the sake of exercising the
                     actors in reciting verse, on producing Friedrich Schlegel's _Alarkos_, an
                     utterly worthless piece, which might have been written by a talentless
-                    schoolboy, and was certain to be laughed off the stage.[3] To such an extent as
-                    this did he gradually sacrifice everything to external artistic form.</p>
+                    schoolboy, and was certain to be laughed off the stage.<hi rend="sup">*)</hi><note place="bottom">»Your opinion of <emph>Alarkos</emph> is mine; nevertheless I think that we must dare everything, outward success or non-success being of no consequence whatever. Our gain seems to me to lie principally in the fact that we accustom our actors to repeat, and ourselves to hear, this extremely accurate metre.«-<emph>Goethe</emph>.</note> To such an extent as this <pb n="37"/> did he gradually sacrifice everything to external artistic form.</p>
                 <p>It is easy, then, to see how Goethe's one-sidedness prepared the way for that of
                     the Romanticists; it is not so easy to show that the same was the case with
                     Schiller. Schiller's dramas seem like prophecies of actual events. The French
@@ -1150,7 +1183,7 @@ NOVALIS</p>
                     material interposition of the divinity, and yet the human being who is the organ
                     of the divinity can be ruined, in genuine Greek fashion, by her human
                     weakness.</p>
-                <p>It was only in keeping with his general unrealistic tendency that Schiller,
+                <p><pb n="38"/> It was only in keeping with his general unrealistic tendency that Schiller,
                     though he was not in the least musical, should extol the opera at the expense of
                     the drama, and maintain the antique chorus to be far more awe-inspiring than
                     modern tragic dialogue. In _Die Braut von Messina_ he himself produced a
@@ -1179,7 +1212,7 @@ NOVALIS</p>
                 <p>But the spirit of Herder, Goethe, and Schiller is only one of the motive powers
                     of Romanticism. The other is the philosophy of Fichte. It was the Fichtean
                     doctrine of the Ego which gave to the Romantic individuality its character and
-                    force. The axioms: All that is, is for us; What is for us can only be through
+                    force. The axioms: All that is, is for us; <pb n="39"/> What is for us can only be through
                     us; Everything that is, both natural and supernatural, exists through the
                     _activity of the Ego_, received an entirely new interpretation when transferred
                     from the domain of metaphysics to that of psychology. All reality is contained
@@ -1209,7 +1242,7 @@ NOVALIS</p>
                     with which they could lift the old world from its hinges.</p>
                 <p>The Romantic worship of imagination had already begun with Fichte. He explained
                     the world as the result of an unconscious, yet to a thinker comprehensible, act
-                    of the free, yet at the same time limited, Ego. This act, he maintains, emanates
+                    of the <pb n="40"/> free, yet at the same time limited, Ego. This act, he maintains, emanates
                     from the creative imagination. By means of it the world which we apprehend with
                     the senses first becomes to us a real world. The whole activity of the human
                     mind, then, according to Fichte, springs from the creative imagination; it is
@@ -1238,7 +1271,7 @@ NOVALIS</p>
                     of Romanticism. Hence all the selfduplication, all the raising to higher powers,
                     in this poetry about poetry and this philosophising on philosophy. Hence its
                     living and moving in a higher world, a different nature. This too is the
-                    explanation of all the symbolism and allegory in these half-poetical,
+                    explanation of all the symbolism <pb n="41"/> and allegory in these half-poetical,
                     half-philosophical works. A literature came into being which partook of the
                     character of a religion, and ultimately joined issue with religion, and which
                     owed its existence rather to a life of emotion than a life of intellectual
@@ -1253,8 +1286,16 @@ NOVALIS</p>
                     Hinschatten), and also that interchange of the terms for the impressions of the
                     different senses, which makes the imagery confusedly vague. In _Zerbino_ Tieck
                     writes of flowers:</p>
-                <p> "Die Farbe klingt; die Form ertönt, jedwede Hat nach der Form und Farbe Zung'
-                    und Rede. * * * * * * * * * Sich Farbe, Duft, Gesang Geschwister nennen."[4]</p>
+                
+                <cit><quote><lg>
+                    <l>»Die Farbe klingt; die Form ertönt, jedwede</l>
+                    <l>Hat nach der Form und Farbe Zung' und Rede.</l>
+                    <l>[…]</l>
+                    <l>Sich Farbe, Duft, Gesang Geschwister nennen.«<hi rend="sup">*)</hi><note place="bottom">»Their colours sing, their forms resound; each, according to its form and
+                        colour finds voice and speech […] Colour, fragrance, song, proclaim themselves
+                        one family.«</note></l>
+                </lg></quote></cit>
+                
                 <p>The essential element in this literature is no longer the passion of the _Sturm
                     und Drang_ period, but the free play of fancy, an activity of the imagination
                     which is neither restrained by the laws of reason nor by the relation of feeling
@@ -1264,7 +1305,7 @@ NOVALIS</p>
                     but despised reality has its revenge in the unsubstantiality or anæmia of fancy;
                     fancy defies reason, but in this defiance there is an awkward contradiction; it
                     is conscious and premeditated--reason is to be expelled by reason. Seldom has
-                    any poetic school worked under such a weight of perpetual consciousness of its
+                    any poetic school worked under such a weight <pb n="42"/> of perpetual consciousness of its
                     own character as did this. Conscious intention is the mark of its
                     productions.</p>
                 <p>The intellectual inheritance to which the Romanticists succeeded was
@@ -1294,7 +1335,7 @@ NOVALIS</p>
                     introduce this philosophy of the geniuses into life itself, to give it
                     expression in criticism, in poetry, in art theories, in religious exhortation,
                     in the solution of social, and even of political problems; and their first step
-                    towards this was violent literary warfare. They were impelled partly by the
+                    towards this was violent literary warfare. They were impelled partly by <pb n="43"/> the
                     necessity felt by great and strong natures to impart one will and one mind to a
                     whole band of fellow-combatants, and partly by the inclination of men of talent,
                     whose talent is attacked and contested, to confront the overwhelming numbers of
@@ -1305,29 +1346,13 @@ NOVALIS</p>
                     nation, and without collective strength, begot the endeavour to imbue the
                     leading spirits of the aristocracy of intellect with a new rallying
                     principle.</p>
-                <p>[1] Whence this trembling, this nameless horror, when thy loving arms encircle
-                    me? Is it because an oath, which, remember, even a thought is sufficient to
-                    break, has forced strange fetters on thee?</p>
-                <p>Because a ceremony, which the laws have decreed to be sacred, has hallowed an
-                    accidental, grievous crime? Nay--fearlessly defy a covenant of which blushing
-                    nature repents.</p>
-                <p>O tremble not!--thine oath was a sin; perjury is the sacred duty of the repentant
-                    sinner; the heart thou gavest away at the altar was mine; Heaven does not play
-                    with human happiness.</p>
-                <p>[2] Goethe, _Tag- und Jahreshefte_, 1802; G. Waitz, _Caroline_, ii. 207;
-                    _Goethe-Jahrbuch_, vi. 59, &amp;c.</p>
-                <p>[3] "Your opinion of _Alarkos_ is mine; nevertheless I think that we must dare
-                    everything, outward success or non-success being of no consequence whatever. Our
-                    gain seems to me to lie principally in the fact that we accustom our actors to
-                    repeat, and ourselves to hear, this extremely accurate metre."--_Goethe_.</p>
-                <p>[4] "Their colours sing, their forms resound; each, according to its form and
-                    colour finds voice and speech.... Colour, fragrance, song, proclaim themselves
-                    one family."</p>
             </div>
+            
             <div>
-                <head>II</head>
-                <p>HÖLDERLIN</p>
-                <p>Outside the group which represents the transition from the Hellenism of Goethe
+                <head type="add">2. Hölderlin</head>
+                <head><pb n="[44]"/> II. HÖLDERLIN</head>
+                
+                <p>OUTSIDE the group which represents the transition from the Hellenism of Goethe
                     and Schiller to Romanticism stands a solitary figure, that of Hölderlin, one of
                     the noblest and most refined intellects of the day. Although their contemporary,
                     he was a pioneer of the German Romanticists, in much the same way as Andre
@@ -1349,7 +1374,7 @@ NOVALIS</p>
                     They longed to break down the artificial social barriers of their time and
                     escape to nature, and at first they found nature among the Greeks alone. To them
                     the genuinely human was at the same time the genuinely Greek. Friedrich
-                    Schlegel, for example, embarks on his career with the hope of being for
+                    Schlegel, for example, embarks on his <pb n="45"/> career with the hope of being for
                     literature all that Winckelmann has been for art. In his essays "On Diotima" and
                     "On the Study of Greek Poetry," he proclaims the superiority of Greek culture
                     and Greek poetry to all other. There is an indication of the later Schlegel in
@@ -1378,7 +1403,7 @@ NOVALIS</p>
                     antique strophes, yet Germany and Greece to him represent barbarism and culture.
                     Concerning his own position to the Greeks he writes to his brother: "In spite of
                     all my good-will, I too, in all that I do and think, merely stumble along in the
-                    track of these unique beings; and am often the more awkward and foolish in deed
+                    track of these unique beings; and am often the more <pb n="46"/> awkward and foolish in deed
                     and word because, like the geese, I stand flat-footed in the water of modernity,
                     impotently endeavouring to wing my flight upward towards the Greek heaven." And
                     at the close of _Hyperion_ he says of the Germans: "They have been barbarians
@@ -1408,7 +1433,7 @@ NOVALIS</p>
                     man has tried to make it his heaven."</p>
                 <p>Utterly un-Greek, wholly Romantic, is the love which Hyperion cherishes for his
                     Diotima. It is the same deep and tragic feeling which bound Hölderlin, the poor
-                    tutor, to the mother of his pupils, Frau Susette Gontard, and determined his
+                    tutor, to the mother of his pupils, Frau Susette Gontard, and <pb n="47"/> determined his
                     fate. No Greek ever spoke of the woman he loved with the religious adoration
                     which Hölderlin expresses for his "fair Grecian." "Dear friend, there is a being
                     upon this earth in whom my spirit can and will repose for untold centuries, and
@@ -1432,15 +1457,50 @@ NOVALIS</p>
                     and steadily withstood his family's desire that he should become one. In his
                     _Empedokles_ we come upon the following significant reply of the hero to the
                     priest Hermokrates:--</p>
-                <p> "Du weisst es ja, ich hab es dir bedeutet, Ich kenne dich und deine schlimme
-                    Zunft. Und lange Avar's ein Räthsel mir, wie euch In ihrem Runde duldet die
-                    Natur. Ach, als ich noch ein Knabe war, da mied Euch Allverderber schon mein
-                    frommes Herz, Das unbestechbar, innig liebend hing An Sonn' und Aether und den
-                    Boten allen Der grossen ferngeahndeten Natur; Denn wohl hab ich's gefühlt in
-                    meiner Furcht, Dass ihr des Herzens freie Götterliebe Bereden möchtet zu
-                    gemeinem Dienst, Und dass ich's treiben sollte so, wie ihr. Hinweg! ich kann vor
-                    mir den Mann nicht sehn, Der Göttliches wie ein Gewerbe treibt, Sein Angesicht
-                    ist falsch und kalt und todt, Wie seine Götter sind."[1]</p>
+                
+                <cit><quote><lg>
+                    <l>»Du weisst es ja, ich hab es dir bedeutet,</l>
+                    <l>Ich kenne dich und deine schlimme Zunft.</l>
+                    <l>Und lange war's ein Räthsel mir, wie euch</l>
+                    <l>In ihrem Runde duldet die Natur.</l>
+                    <l>Ach, als ich noch ein Knabe war, da mied</l>
+                    <l>Euch Allverderber schon mein frommes Herz,</l>
+                    <l>Das unbestechbar, innig liebend hing</l>
+                    <l>An Sonn' und Aether und den Boten allen</l>
+                    <l>Der grossen ferngeahndeten Natur;</l>
+                    <l>Denn wohl hab ich's gefühlt in meiner Furcht, <pb n="48"/></l>
+                    <l>Dass ihr des Herzens freie Götterliebe</l>
+                    <l>Bereden möchtet zu gemeinem Dienst,</l>
+                    <l>Und dass ich's treiben sollte so, wie ihr.</l>
+                    <l>Hinweg! ich kann vor mir den Mann nicht sehn,</l>
+                    <l>Der Göttliches wie ein Gewerbe treibt,</l>
+                    <l>Sein Angesicht ist falsch und kalt und todt,</l>
+                    <l>Wie seine Götter sind.«<hi rend="sup">*)</hi><note place="bottom">
+                        <cit>
+                            <quote>
+                                <lg>
+                                    <l>»'Tis nothing new; this I have told you oft;</l>
+                                    <l>I know you well, you and your evil kind.</l>
+                                    <l>And long it was a mystery to me</l>
+                                    <l>How Nature could endure you in her realm.</l>
+                                    <l>Corrupters of mankind! Even as a child,</l>
+                                    <l>My guileless heart shrank from you with distrust-</l>
+                                    <l>That honest, fervent heart, that loved the sun,</l>
+                                    <l>The cool fresh air, and all the messengers</l>
+                                    <l>Of Nature, dimly discerned and great.</l>
+                                    <l>For even then I timidly perceived</l>
+                                    <l>How ye would take our true love of the gods</l>
+                                    <l>And make it serve some baser, selfish end-</l>
+                                    <l>And that in this ye would that I should follow you.</l>
+                                    <l>Begone! I cannot look upon the man</l>
+                                    <l>Who practises religion as a trade;</l>
+                                    <l>His countenance is false and cold and dead,</l>
+                                    <l>As are his gods.«</l>
+                                </lg>
+                            </quote>
+                        </cit></note></l>
+                </lg></quote></cit>
+                
                 <p>There is not a trace in Hölderlin of the sanctimonious piety developed by the
                     other Romanticists, who, to begin with, were far more decided free-thinkers than
                     he. Yet his Hellenism is not pagan in the manner of Schiller's and Goethe's.
@@ -1456,21 +1516,12 @@ NOVALIS</p>
                 <p>In Hölderlin we find in outline, light and delicate as if traced by a spirit,
                     symbols and emotions which the Romantic School develops, exaggerates,
                     caricatures, or simply obliterates.</p>
-                <p>[1]</p>
-                <p> "'Tis nothing new; this I have told you oft; I know you well, you and your evil
-                    kind. And long it was a mystery to me How Nature could endure you in her realm.
-                    Corrupters of mankind! Even as a child, My guileless heart shrank from you with
-                    distrust-- That honest, fervent heart, that loved the sun, The cool fresh air,
-                    and all the messengers Of Nature, dimly discerned and great. For even then I
-                    timidly perceived How ye would take our true love of the gods And make it serve
-                    some baser, selfish end-- And that in this ye would that I should follow you.
-                    Begone! I cannot look upon the man Who practises religion as a trade; His
-                    countenance is false and cold and dead, As are his gods."</p>
             </div>
+            
             <div>
-                <head>III</head>
-                <p>A. W. SCHLEGEL</p>
-                <p>In 1797, August Wilhelm Schlegel, then aged thirty, published the first volume of
+                <head type="add">3. A.W. Schlegel</head>
+                <head><pb n="[49]"/> III. A. W. SCHLEGEL</head>
+                <p>IN 1797, August Wilhelm Schlegel, then aged thirty, published the first volume of
                     his translation of Shakespeare. Rough drafts of several of the plays in this
                     edition have been found, and these faded, dusty manuscripts not only enable us
                     to follow the persevering, talented translator in his self-imposed task, but,
@@ -1491,7 +1542,7 @@ NOVALIS</p>
                     the aim of which was the incorporation of Shakespeare in his unalloyed entirety
                     into German literature. But her interest in the work and the labourer did not,
                     as the manuscripts show us, survive the first year of her married life. At first
-                    it is her handwriting which predominates, and, though it is less frequently to
+                    it is her handwriting which predominates, and, <pb n="50"/> though it is less frequently to
                     be seen alongside of her husband's in the manuscripts of those plays with which
                     he was occupied during the years 1797-98, her collaboration is still apparent.
                     We find the last traces of her pen in the manuscript of the _Merchant of
@@ -1522,7 +1573,7 @@ NOVALIS</p>
                     with his wife's sister. With the feelings of an exile, he warmly welcomed the
                     distinguished and talented young disciple, whose taste was more correct and
                     whose stores of knowledge were better ordered than his own. At this time Bürger
-                    was still considered to be Germany's best lyric poet and most accomplished
+                    was still con<pb n="51"/>sidered to be Germany's best lyric poet and most accomplished
                     versifier. Schlegel placed himself under his tuition, and learned all his
                     linguistic and metrical devices, all the methods of producing artistic effects
                     by careful choice and arrangement of words and use of rhythm and metres. With
@@ -1546,7 +1597,7 @@ NOVALIS</p>
                     Bürger he now began a translation of the _Midsummer Night's Dream_, of which he
                     did the greater part, Bürger merely revising. He was still completely under his
                     master's influence; the manuscripts show that he always accepted Bürger's
-                    corrections and deferred to his predilection for sonority and vigour. As a
+                    corrections and deferred to his predilection for sonority and vigour. As <pb n="52"/> a
                     translator, Bürger took no pains to reproduce Shakespeare's peculiarities as
                     closely as possible; he only manifested his own peculiarities, by making all the
                     coarse, wanton speeches, and the passages in which misguided passions run riot,
@@ -1577,7 +1628,7 @@ NOVALIS</p>
                     transformed the witches into Greek Furies, and changed the Porter's coarsely
                     jovial monologue into an edifying song. If Bürger's realism was one danger,
                     Schiller's pomposity was another.</p>
-                <p>But at the same time that Schiller enlightened Schlegel as to the high
+                <p><pb n="53"/> But at the same time that Schiller enlightened Schlegel as to the high
                     significance of art, the newly-published Collected Works of Goethe, whom he only
                     now began to appreciate, stimulated his natural inclination to study, interpret,
                     and make poetical translations. As already mentioned, this first edition of
@@ -1606,7 +1657,7 @@ NOVALIS</p>
                     origin, that it is in reality the unity of style which is conditioned by the
                     general cast of a mind. And he began to see that his life task was a double one,
                     namely, to reproduce the masterpieces of foreign races in the German language,
-                    and to interpret critically for his countrymen the best literary productions
+                    and to interpret <pb n="54"/> critically for his countrymen the best literary productions
                     both of Germany and other lands.</p>
                 <p>Now, too, Schlegel acquired a quite new understanding of Fichte, the friend and
                     brother-in-arms whom the Romanticists had so quickly won for their cause. He
@@ -1636,7 +1687,7 @@ NOVALIS</p>
                     the spiritual realms of the earth with the flaming sword of the word." He did
                     not lack initiative, and abounded in plans so colossal that there was a jarring
                     disproportion between them and his ability to carry them out. Eternally
-                    wavering, without tenacity or fundamental conviction, fragmentary in the
+                    wavering, without tena<pb n="55"/>city or fundamental conviction, fragmentary in the
                     extreme, but rich in both suggestive and disconcerting ideas and in witty
                     conceits, he was constantly beset by the temptation to silence his opponents
                     with mysterious terminology, and constantly liable to relapse into platitudes
@@ -1665,7 +1716,7 @@ NOVALIS</p>
                     favourable on the whole, but she found fault with the style as being rather
                     antiquated; this she ascribed to Wilhelm's having been lately employed in
                     translating Dante, his ear having thereby become accustomed to obsolete words
-                    and expressions. The fact was, that shortly before this he had awakened to the
+                    and expressions. The fact was, that shortly before this he had <pb n="56"/> awakened to the
                     necessity of being on his guard against the elaborate polish which he had made
                     his aim after giving up Bürger's style; he now fell into the other extreme,
                     became archaic, rugged, and hard.</p>
@@ -1695,7 +1746,7 @@ NOVALIS</p>
                     verbosity of the German language, to say in ten or eleven syllables what he had
                     said before in twelve or thirteen. For long it appears to him an impossible task
                     to reproduce each line by one line. The translation swells in his hands as it
-                    did in Bürger's. Fourteen English lines become nineteen or twenty German. It
+                    did in Bürger's. <pb n="57"/> Fourteen English lines become nineteen or twenty German. It
                     seems to him that it is impossible to do with less; until at last he gains true
                     insight, and sees, from the very foundation, how Shakespeare raises the edifice
                     of his art. Now he renounces all amplitude and all redundancy that is not in
@@ -1726,7 +1777,7 @@ NOVALIS</p>
                     original public, though it was spiritually less akin to him and though they were
                     not the battles of its day which he fought. He now began to feed the millions
                     who did not understand English with his spiritual bread. Not until now did
-                    Central and Northern Europe discover him. Not until now did the whole
+                    Central <pb n="58"/> and Northern Europe discover him. Not until now did the whole
                     Germanic-Gothic world become his public.</p>
                 <p>But we have also seen how much went to the production of an apparently
                     unpretending literary work of this high rank. In its rough drafts and
@@ -9490,3 +9541,60 @@ NOVALIS</p>
         </body>
     </text>
 </TEI>
+
+<!--<p>MAIN CURRENTS IN NINETEENTH CENTURY LITERATURE</p>
+
+<p>by</p>
+
+<head>GEORGE BRANDES</head>
+
+<p>In Six Volumes Illustrated</p>
+
+<head>II</head>
+
+<p>THE ROMANTIC SCHOOL IN GERMANY</p>
+
+<p>London: William Heinemann
+New York: The Macmillan Company
+MCMVI</p>
+
+<p>[Illustration: A. W. SCHLEGEL]</p>
+
+<head>CONTENTS</head>
+
+<p>          INTRODUCTION
+       I. THE PIONEERS OF ROMANTICISM
+      II. HÖLDERLIN
+     III. A. W. SCHLEGEL
+      IV. TIECK AND JEAN PAUL
+       V. SOCIAL ENDEAVOURS OF THE ROMANTICISTS LUCINDE
+      VI. ROMANTIC PURPOSELESSNESS
+     VII. "LUCINDE" IN REAL LIFE
+    VIII. SCHLEIERMACHER'S LETTERS
+      IX. WACKENRODER: ROMANTICISM AND MUSIC
+       X. ATTITUDE OF ROMANTICISM TO ART AND NATURE
+      XI. ROMANTIC DUPLICATION AND PSYCHOLOGY
+     XII. ROMANTIC SOUL. NOVALIS
+    XIII. LONGING-"THE BLUE FLOWER"
+     XIV. ARNIM AND BRENTANO
+      XV. MYSTICISM IN THE ROMANTIC DRAMA
+     XVI. ROMANTIC LITERATURE AND POLITICS
+    XVII. ROMANTIC POLITICIANS</p>
+
+<p>"Allen Gewalten
+Zum Trutz sich erhalten,
+Nimmer sich beugen ..."
+GOETHE.</p>
+
+<p>"Philosophiren ist dephlegmatisiren, ist vivissciren."
+-NOVALIS.</p>
+
+<head>LIST OF PORTRAITS</head>
+
+<p>A. W. SCHLEGEL
+LUDWIG TIECK
+FRIEDRICH SCHLEGEL
+SCHLEIERMACHER
+W. HOFFMANN
+NOVALIS</p>
+-->
