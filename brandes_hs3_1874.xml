@@ -259,7 +259,7 @@
           formuleret saaledes: »Gudsdyrkelsen hører under Politiet; følgelig tilkommer det Samfundet
           at regulere den, at tillade een Cultus og forbyde en anden.« <persName>Mirabeau</persName>
           angriber denne Artikel paa det Voldsomste:</p>
-                <p>»Jeg vil ikke præke Tolerance, siger han. Den mest uindskrænkede Religionsfrihed er i
+              <p>»Jeg vil ikke præke Tolerance,« siger han. »<!-- cit start og slut indsat -->Den mest uindskrænkede Religionsfrihed er i
           mine Øine en saa hellig Ret, at Ordet Tolerance som Udtryk for den næsten selv synes mig
           tyrannisk, da selve Existentsen af en Autoritet, der har Magt til at tolerere, altsaa
           ogsaa til ikke at gjøre det, er et Attentat paa Tankens Frihed.« I et følgende Møde gaaer
@@ -659,8 +659,8 @@
           først og fremmest ud over de fangne Præster og havde i sidste Instants det forbitrede Had
           til Katholicismen til Aarsag. <persName>Abbed Barruel</persName> skriver: <app>
                         <lem wit="B SS Fu">Disse</lem>
-                        <rdg wit="A 1923-24">Disse</rdg>
-                    </app> Bødler hørte ikke alle til Folkets Bærme. Til de Præster, man myrdede, raabte en Mand:
+            <rdg wit="A 1923-24">»Disse</rdg>
+          </app> Bødler hørte ikke alle til Folkets Bærme. Til de Præster, man myrdede, raabte en Mand:
           »Kjæltringer, Mordere, Uhyrer, usle Hyklere! Hævnens Dag er endelig kommen. I skal ikke
           mere bedrage Folket med Eders Messer og Eders lille Stykke Brød paa Altrene.«
           Beundringsværdigt er imidlertid det Mod og den Standhaftighed, som de fleste af Præsterne
@@ -726,8 +726,8 @@
                 <p>Undertiden standsede Vognene udenfor Conventets Dør, og Sække og Poser, fulde af Guld og
           Sølv, bleve opstillede i Forhandlingssalen. I en anden Rapport hedder det ironisk: »Man
           har anklaget mig for at have lagt mig ud med Religionen. Jeg har dog pænt spurgt ad, før
-          jeg handlede, og 3 til 400 Helgene bade om Forlov til at maatte gaae i Mynten. Ved disse
-          Leiligheder faldt der Ord som disse: I, som fordum vare Fanatismens Redskaber, I Helgener
+          jeg handlede, og 3 til 400 Helgene bade om Forlov til at maatte gaae i Mynten.«<!--cit slut indsat--> Ved disse
+                  Leiligheder faldt der Ord som disse: »<!--cit beg indsat-->I, som fordum vare Fanatismens Redskaber, I Helgener
           og Helgeninder, I Salige af alle Slags, viser Jer endelig som Patrioter, kommer
           Fædrelandet til Hjælp og Marche i Mynten!«</p>
                 <p>I en tredie Rapport ønske Commissairerne sig til Lykke med Resultatet af »deres
@@ -861,7 +861,8 @@
           banker et Hjerte. Det hedder f. Ex. deri: »Franskmand er enhver Fremmed, om han end kun
           har boet i Frankrig eet Aar, ifald han adopterer et Barn eller underholder en Olding.«
           Selve Stilen minder om <persName>Rousseau</persName>.</p>
-                <p>Girondinerne bekæmpede enhver Depotisme, der havde menneskeligt Aasyn, men de ydede til
+              <p>Girondinerne bekæmpede enhver <app><lem wit="B">Despotisme</lem>
+                <rdg wit="A">Depotisme</rdg></app>, der havde menneskeligt Aasyn, men de ydede til
           Gjengjæld ingen Beskyttelse mod Forholdenes Despoti. De gik bestandig kun negativt, aldrig
           positivt tilværks. For <persName>Robespierre</persName> derimod stod det klart, at det
           ikke nyttede Noget, at indrømme den Værk<pb n="49"/>brudne, at han har Ret til at blive
@@ -1856,7 +1857,7 @@
           troer han ikke paa den skrevne Constitution som Skranke. Om Skranken mod Tøilesløsheden
           siger han: »det er Sædvanen, eller Samvittigheden, eller en Pavekrone eller en Dolk, men
           det er altid et Noget;« den skrevne Constitution alene er ham intet Reelt.</p>
-                <p>Hans latterlige Vildfarelse ligger i Maaden, hvorpaa han motivererer sit Had til
+              <p>Hans latterlige Vildfarelse ligger i Maaden, hvorpaa han <app><lem>motiverer</lem><rdg wit="A">motivererer</rdg></app> sit Had til
           Constitutionen. Han mener, at hvad der er skrevet, hvad der er forudseet og fastslaaet ved
           menneskelig Klogskab er at betragte som et Indgreb i det guddommelige Forsyns Raaderum.
           »Det er Næsvished mod Gud, ikke at have Tillid til det Uforudsete, og enhver Regjering,
@@ -3400,7 +3401,12 @@
                     <cit>
                         <quote>
                             <lg>
-                                <l>Bist Du schon gut, weil Du glaübig bist?</l>
+                                <l>Bist Du schon gut, weil Du 
+                                  <app>
+                                    <lem wit="B SS">gläubig</lem>
+                                    <rdg wit="A">glaübig</rdg>
+                                  </app>                    
+                           bist?</l>
                                 <l>Der Teufel ist sicher kein Atheist.</l>
                             </lg>
                         </quote>
