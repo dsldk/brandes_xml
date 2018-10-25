@@ -3778,7 +3778,7 @@
                         af Fællesskabsfølelse: Provindsnationen var mere substantiel, rum<pb n="163"/>mede ikke saa skarpe individuelle Modsætninger som Hovednationen.
                             <persName key="sir-walter-scott">Scott</persName> har mange Steder skildret denne energiske
                         Slægtskabsfølelse hos sine Landsmænd, ingensteds skjønnere end i 3die Del af
-                            »<bibl>Fængslet i Edinburgh</bibl>«, hvor denne sunde og smukke Følelse
+                        »<bibl n="scott-the-heart-of-midlothian">Fængslet i Edinburgh</bibl>«, hvor denne sunde og smukke Følelse
                         giver den stakkels Bondepige Freidighed til at henvende sig om Hjælp til
                             <persName type="fictional">Hertugen af Argyle</persName> ganske som til
                         en Paarørende. Men den skotske Nationalfølelse havde endnu et andet
@@ -3894,12 +3894,12 @@
                         om sjælelig Motivering; Rustningernes Pragt og Klosterets Mørke og de gamle
                         Slottes nøiagtigt gjengivne Architektur er ham mere værd end de fine
                         Bevægelser i Sjælen; men ligefuldt har han i
-                        »<bibl>Marmion</bibl>«<!-- titel if. SS 366 --> givet Noget, der for os nu
+                        »<bibl n="scott-marmion">Marmion</bibl>«<!-- titel if. SS 366 --> givet Noget, der for os nu
                         tager sig ud som en Prototyp til
-                        »<bibl>Giauren</bibl>«<!-- titel if. SS 366 --> og særlig til
-                            »<bibl>Lara</bibl>«<!-- titel if. SS 366 -->. Ogsaa <persName type="fictional">Giaurens</persName> Elskerinde lider en skrækkelig Død,
+                        »<bibl n="byron-the-giaour-a-fragment-of-a-turkish-tale">Giauren</bibl>«<!-- titel if. SS 366 --> og særlig til
+                        »<bibl n="byron-lara">Lara</bibl>«<!-- titel if. SS 366 -->. Ogsaa <persName type="fictional">Giaurens</persName> Elskerinde lider en skrækkelig Død,
                         ogsaa <persName type="fictional">Lara</persName> ledsages overalt af en
-                        hengiven Kvinde i Pagedragt, og der forekommer i »<bibl>Marmion</bibl>« en
+                        hengiven Kvinde i Pagedragt, og der forekommer i »<bibl n="scott-marmion">Marmion</bibl>« en
                         Scene, hvor Digtets Helt offentlig beskjæmmes, som har nogen Lighed med den,
                         hvor <persName type="fictional">Lara’s</persName> Fortid pludselig
                         forekastes ham med Foragt. Klinger det ikke næsten allerede Byronsk:</p>
@@ -3909,7 +3909,7 @@
                         overmodigt Blik, hvis Commandostemme i Leiren klang befalende til den
                         tapreste af de tapre, følte nu baade Tanken og Mælet svigte; han slog sit
                         Øie ned og en Rødme foer over hans Pande. Saa mægtigt blev hans Samvittighed ramt.«<!-- lemma slut -->
-                        <note place="bottom">»<bibl>Marmion</bibl>« <app>
+                        <note place="bottom">»<bibl n="scott-marmion">Marmion</bibl>« <app>
                                 <lem>Canto III</lem>
                                 <rdg wit="A B">Canto, III</rdg>
                                 <rdg>ændret ordlyd pga. omarbejdelse i SS, Fu og 1923-24</rdg>
@@ -3941,7 +3941,7 @@
                             <lem wit="B SS Fu 1923-24">og disse</lem>
                             <rdg wit="A">disse</rdg>
                         </app> Ord ere som et Varsel om <ref target="n3170"/>det berømte Sted i
-                            »<bibl>Giauren</bibl>«, hvor Aanden, der ruger over Jammer og Skyld,
+                        »<bibl n="byron-the-giaour-a-fragment-of-a-turkish-tale">Giauren</bibl>«, hvor Aanden, der ruger over Jammer og Skyld,
                         sammenlignes med den af Flammer omgivne Skorpion, der fortvivlet vender sin
                         Giftbraad mod sin egen Hjerne<!-- lemma slut -->.</p>
                     <p> Og som der er nogen Lighed mellem <persName type="fictional">Marmions</persName> og <persName type="fictional">Laras</persName>
@@ -3983,9 +3983,9 @@
                         <persName key="george-gordon-byron">Byron</persName> havde Ret, da han til
                             <persName key="george-4">Prindsregenten</persName> sagde, at <persName key="sir-walter-scott">Scott</persName>
                         ret forekom ham at være en Digter for Fyrster, de vare aldrig blevne mere
-                        glimrende skildrede end i »<bibl>Marmion</bibl>« og »<bibl>Jomfruen fra
+                        glimrende skildrede end i »<bibl n="scott-marmion">Marmion</bibl>« og »<bibl n="scott-the-lady-of-the-lake">Jomfruen fra
                             Søen</bibl>«<!-- lemma slut -->. Jeg gad endog vide, om der ikke i
-                            »<bibl>Marmion</bibl>« findes direkte Hentydninger til
+                            »<bibl n="scott-marmion">Marmion</bibl>« findes direkte Hentydninger til
                             <persName key="george-4">Prindsregenten</persName> og <persName key="caroline">hans Hustru</persName>.
                         Den første kunde neppe uden Sindsbevægelse læse Skildringen af <persName type="fictional">Kong James’</persName> Optræden i den pragtfulde
                             Hofdragt<note place="bottom">
@@ -4007,7 +4007,7 @@
                                             beguiled.«<!-- »« --><!-- lemma slut --></l>
                                     </lg>
                                 </quote>
-                                <bibl>»Marmion« V, 8.</bibl>
+                                <bibl n="scott-marmion">»Marmion« V, 8.</bibl>
                             </cit>
                         </note>, og den fra Hoffet forstødte <persName key="caroline">Prindsesse af
                             Wales</persName>, hvem <persName key="sir-walter-scott">Scott</persName> havde lært personligt
@@ -4017,7 +4017,7 @@
                             <persName type="fictional">Dronning Margaretes</persName> ensomme Liv, medens den
                         ridderlige og letfærdige Monarch tilbringer Tiden med sine Elskerinder. <pb n="172"/>
                     </p>
-                    <p>Begyndt i 1806 udkom »<bibl>Marmion</bibl>« i 1808, og da
+                    <p>Begyndt i 1806 udkom »<bibl n="scott-marmion">Marmion</bibl>« i 1808, og da
                             <persName key="sir-walter-scott">Scott</persName> Aaret efter anden Gang kom til
                             <placeName>London</placeName>, fik han der en Modtagelse, som vilde have
                         fordreiet Hovedet paa enhver Anden. Han spillede sin Løverolle med en
@@ -4144,7 +4144,7 @@
                         »<bibl n="scott-the-lady-of-the-lake">The Lady of the lake</bibl>«, da læse man
                             <persName key="william-wordsworth">Wordsworth’s</persName> paa en Ballade i
                             <persName key="thomas-percy">Percy’s</persName>
-                        <bibl>Samling</bibl> grundede Epos »<bibl>Den hvide Daa fra
+                        <bibl>Samling</bibl> grundede Epos »<bibl n="wordsworth-white-doe">Den hvide Daa fra
                         Rylstone</bibl>«, der ligeledes begyndtes 1809, og som er det Digt, i
                         hvilket <ref target="n3187"/>Poeten fra Rydal
                         Mount<!-- lemma slut --><!-- Wordsworths hjem -->, der vel følte sig
@@ -4174,7 +4174,7 @@
                         Forvovne og Vilde, havde en Side, fra hvilken de vare Søskolens moralske og
                         christelige Digtere høiligt imod. Jeg har med Hensyn hertil fundet et høist
                         charakteristisk Sted hos <persName key="samuel-taylor-coleridge">Coleridge</persName>
-                        <note place="bottom">»<bibl>Letters, conversations and recollections</bibl>«
+                        <note place="bottom">»<bibl n="coleridge-letters-conversations-and-recollections">Letters, conversations and recollections</bibl>«
                             I, 193.</note>, hvor han beskylder <persName key="sir-walter-scott">Scott</persName> for at
                         arbeide <ref target="n3191"/>»den fordærvede Attraa efter Pirringsmidler ihænde
                         ved at fremstille den Lastefulde og Infame sympathetisk, saa snart den
@@ -4185,7 +4185,7 @@
                     <p> Aaret <app>
                             <lem wit="B SS Fu 1923-24">1812</lem>
                             <rdg wit="A">1811</rdg>
-                        </app> bragte de to første Sange af »<bibl>Childe Harold</bibl>« og kort
+                    </app> bragte de to første Sange af »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>« og kort
                         derefter <ref target="n3193"/>et inderligt Brev til <persName key="sir-walter-scott">Scott</persName>
                         fra <persName key="george-gordon-byron">Byron</persName> med ærlig ment Undskyldning for det taabelige
                         Angreb i »<bibl>English Bards og Scotch
@@ -4202,7 +4202,7 @@
                         ligesaa varmt som alle sine andre Overilelser at samme Art, og den
                         kortvarige Spænding mellem de to store og elskelige Mænd afløstes nu af det
                         hjerteligste Forhold. – Men paa <persName key="sir-walter-scott">Scotts</persName> Production havde
-                            »<bibl>Childe Harold</bibl>« en dybt indgribende Indflydelse. Med klart
+                        »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>« en dybt indgribende Indflydelse. Med klart
                         Blik saae han, at han i den poetiske Fortælling ikke kunde rivalisere med
                             <persName key="george-gordon-byron">Byron</persName> og besluttede at slaae ind i en anden
                         Kunstform, den, hvori han snart skulde staae uden nogen Rival i Europa. De
@@ -4235,7 +4235,7 @@
                         havde udrustet mig med langt større Anlæg til sand
                         Lykke.«<!-- lemma slut -->
                     </p>
-                    <p> Med »<bibl>Waverley</bibl>« der udkom anonym i Februar 1814 begyndte da den
+                    <p> Med »<bibl n="scott-waverley">Waverley</bibl>« der udkom anonym i Februar 1814 begyndte da den
                         lange Række af anonyme Romaner, der gjorde <persName key="sir-walter-scott">Scott</persName> og
                         hans Fædreland berømte over hele den civiliserede Verden. Deres Fremtræden
                         falder sammen med den nationale Stoltheds Opblussen ved <ref target="n3199"/>Fredsslutningen med Frankrig<!-- lemma slut --> og de haabefulde Udsigter
@@ -4259,7 +4259,7 @@
                         optræde i sin egen Tids Costume, som han inderst inde i sin Sjæl langt
                         foretrak Fortidens brogede og colorerede Liv for sit eget Aarhundredes
                         farveløse Færd og glatte Raisonnementer. <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName>
-                        havde faa Aar forud i »<bibl>Martyrerne</bibl>« gjort det første Forsøg paa
+                        havde faa Aar forud i »<bibl n="chateaubriand-les-martyrs-ou-le-triomphe-de-la-religion-chretienne-vol-1-2">Martyrerne</bibl>« gjort det første Forsøg paa
                         at maale enhver Tidsalder med dens eget Maal og gjengive Oldtidens
                         Physiognomi i levende Malerier. Men <persName key="sir-walter-scott">Walter Scott</persName> er dog
                         den egentlige Opdager og Gjennemfører af hin <ref target="n"/>»Localfarve«<!-- lemma slut --> i Digtningen, der blev Grundlaget for
@@ -4269,11 +4269,11 @@
                         Sands blev en hel Digterskoles Veiviser, han udøvede ved sine fordringsløse
                         Romaner den største Indflydelse paa det nye Aarhundredes Historieskrivning.
                         Det skal ikke glemmes, at det var <persName key="sir-walter-scott">Walter Scotts</persName>
-                            »<bibl>Ivanhoe</bibl>«, som bragte <persName key="augustin-thierry">Augustin Thierry</persName>
+                        »<bibl n="scott-ivanhoe">Ivanhoe</bibl>«, som bragte <persName key="augustin-thierry">Augustin Thierry</persName>
                         paa den Tanke, at der bag <persName key="klodevig-1-clovis-1">Clovis’</persName>, <persName key="0">Carl den
                             Stores</persName> og <persName key="hugo-hughes-capet">Hugo Capets</persName> Bedrifter laae som
                         de sande Aarsager til Begivenhederne Racekampen mellem Normanner og Saxer og
-                        Sporene af en frankisk Erobring<note place="bottom">G. Brandes: »<bibl>Den
+                        Sporene af en frankisk Erobring<note place="bottom">G. Brandes: »<bibl n="den-franske-æsthetik">Den
                                 franske Æsthetik i vore Dage</bibl>« S. 168.</note>. Denne Digter,
                             <pb n="183"/> hvis Blik for det enkelte moderne Menneskes Sjæleliv ikke
                         var dybt, og som overfor den moderne individualistiske Tid var paa mange
@@ -4303,11 +4303,11 @@
                         tydelige Anskuelse derigjennem indvandtes, enten ved Addering af Træk efter
                         Træk eller ved uendelig Gjentagelse af de samme Charaktertræk. Er hans
                         Fremgangsmaade trættende, saa er han dog ligefuldt en af de største
-                        Charaktertegnere, som har levet. En Kvindeskikkelse som <persName type="fictional">Diana Vernon</persName> i »<bibl>Rob Roy</bibl>« eller
-                        som <persName type="fictional">Jeanie Deans</persName> i »<bibl>Fængslet <app>
+                        Charaktertegnere, som har levet. En Kvindeskikkelse som <persName type="fictional">Diana Vernon</persName> i »<bibl n="scott-rob-roy">Rob Roy</bibl>« eller
+                        som <persName type="fictional">Jeanie Deans</persName> i »<bibl n="scott-the-heart-of-midlothian">Fængslet <app>
                                 <lem>i</lem>
                                 <rdg wit="B SS Fu 1923-24">fra</rdg>
-                            </app> Edinburgh</bibl>«, en historisk Personlighed som <persName type="fictional">Ludvig den 11te</persName> i »<bibl>Quentin
+                        </app> Edinburgh</bibl>«, en historisk Personlighed som <persName type="fictional">Ludvig den 11te</persName> i »<bibl n="scott-quentin-durward">Quentin
                             Durward</bibl>« staaer paa Høiden af hvad Romandigtningen har naaet.</p>
                     <p> Men der var fra først af en stor Mislighed ved disse Romaners
                         Frembringelsesmaade, en Mislighed, som i den følgende Tid gik i Arv til en
@@ -4321,16 +4321,16 @@
                             </app> Review</bibl>« for ham; som Romanforfatter gik han formeligt i
                         Compagni med sin Bogtrykker og Forlægger, et Firma, som desværre var langt
                         mere entreprenant end forsig<pb n="185"/>tigt. Han skrev nu med en
-                        fabelagtig Hurtighed. <bibl>Guy Mannering</bibl>« blev skrevet og samtidigt
+                        fabelagtig Hurtighed. <bibl n="scott-guy-mannering">Guy Mannering</bibl>« blev skrevet og samtidigt
                         trykt i 25 Dage, og snart drev han det til gjennemsnitligt at levere 12 Bind
                         om Aaret; at have 40 trykte Sider færdige før Middag var ham kun et
                         almindeligt Formiddagsarbeide. Afsætningen svarede til den uhyre Produktion:
-                        af »<bibl>Rob Roy</bibl>« blev 10000 Exemplarer udsolgte i 6 Uger, af de
+                        af »<bibl n="scott-rob-roy">Rob Roy</bibl>« blev 10000 Exemplarer udsolgte i 6 Uger, af de
                         senere Romaner var Salget endnu mere rivende; for ved et Tal at
                         tydeliggjøre, hvilken Grad af Udbredelse Bøgerne naaede, vil jeg blot
                         meddele, at i Aaret 1822 alene udgav <persName key="sir-walter-scott">Scotts</persName> Forlægger
                         145,000 Bind gamle og nye Romaner af ham. Honorarerne steg med Afsætningen:
-                        for de to første Udgaver af »<bibl>Napoleons Levnet</bibl>« modtog
+                        for de to første Udgaver af »<bibl n="scott-life-of-napoleon-buonaparte">Napoleons Levnet</bibl>« modtog
                             <persName key="sir-walter-scott">Scott</persName> 18,000 Pund, og hans aarlige Indtægt i
                         Honorarer var til 1826 intet Aar ringere end 200,000 Kroner dansk. Han
                         anvendte disse Penge til Udvidelse af sin Eiendom Abbotsford og til
@@ -4364,14 +4364,14 @@
                         tilføiede han: »Og nu <persName key="0">Donald</persName>, min Gut, tænker jeg at
                         have gjort dig skakmat for evigt!« I det samme Øieblik udraabte
                             <persName key="george-4">Prindsregenten</persName>: Høit leve og endnu engang høit og
-                        tredie Gang høit Forfatteren til »<bibl>Waverley</bibl>«! og endnu et Glas
-                        for »<bibl>Marmions</bibl>« Forfatter! og med et Blik paa
+                        tredie Gang høit Forfatteren til »<bibl n="scott-waverley">Waverley</bibl>«! og endnu et Glas
+                        for »<bibl n="scott-marmion">Marmions</bibl>« Forfatter! og med et Blik paa
                             <persName key="sir-walter-scott">Scotts</persName> for<pb n="187"/>legne Ansigt og afværgende
                         Miner tilføiede han: Og nu <persName key="sir-walter-scott">Walter</persName>, min Gut, haaber jeg
                         at have gjort dig skakmat for evigt!<!-- lemma slut --> –</p>
-                    <p> »<bibl>Fængslet i Edinburgh</bibl>« en af Perlerne blandt
+                    <p> »<bibl n="scott-the-heart-of-midlothian">Fængslet i Edinburgh</bibl>« en af Perlerne blandt
                             <persName key="sir-walter-scott">Scotts</persName> Værker, udkom i 1818; den hævede Digteren
-                        til hans Ryes Høieste. Da fulgte i December 1819 »<bibl>Ivanhoe</bibl>« og
+                        til hans Ryes Høieste. Da fulgte i December 1819 »<bibl n="scott-ivanhoe">Ivanhoe</bibl>« og
                         ledsagedes af en uhyre Bifaldsstorm. Over hvor faa og ringe
                         Virkelighedselementer <persName key="sir-walter-scott">Scott</persName> formaaede at forme sin
                         poetiske Verden sees bedst ved denne mesterlige Roman. En Hr.
@@ -4385,7 +4385,7 @@
                         Troesbekjenderes politiske Rettigheder, saa gjør det ham som Digter des
                         større Ære, at han med en saadan Fordomsfrihed kunde gjøre en Jødinde til
                         Heltinden i sin Roman og udruste hende med en saa uopnaaet ideal og dog
-                        natursand Skjønhed. – Aaret 1823 bragte »<bibl>Quentin Durward</bibl>«, i
+                        natursand Skjønhed. – Aaret 1823 bragte »<bibl n="scott-quentin-durward">Quentin Durward</bibl>«, i
                         hvilken <persName key="sir-walter-scott">Scott</persName> for første Gang betraadte fremmed Grund
                         og som forøgede hans engelske og amerikanske Navnkundighed med en ligesaa
                         stor i Frankrig, Tydskland og Italien. Hr. <persName key="james-skene">Skenes</persName>
@@ -4427,7 +4427,7 @@
                         kjendte. Netop i denne ulykkelige Tid, faa Maaneder efter Falliten, mistede
                         han sin høit elskede <persName key="charlotte-margaret-mary-carpenter-charpentier">Hustru</persName>; hans Forretninger tillode
                         ham end ikke at sidde ved hendes Dødsseng. Han skrev og skrev, af Romanen
-                            »<bibl>Woodstock</bibl>« et halvt Bind i fire Dage, medens Creditorerne
+                        »<bibl n="scott-woodstock-or-the-cavalier-a-tale-of-the-year-1651">Woodstock</bibl>« et halvt Bind i fire Dage, medens Creditorerne
                         stormede ind. Han, som havde seet sit Hus fuldt af Gjæster fra Morgen til
                         Aften, levede nu en Eneboers Liv. <ref target="n3207"/>Capitain <persName key="basil-hall">Basil
                             Hall</persName> skildrer det nedslaaende Indtryk det gjorde paa ham, da
@@ -4454,7 +4454,7 @@
                         Anskuelse.«<!-- lemma slut --> Samtidigt indrømmede han, at Helvedes Ild og
                         Sphærernes Musik kunde være billedlige Udtryk, ligesom han jo med Glæde og
                         uden Indignation modtog <ref target="n3212"/>Tilegnelsen af
-                            <persName key="george-gordon-byron">Byrons</persName> »<bibl>Kain</bibl>«<!-- lemma slut -->. Han
+                        <persName key="george-gordon-byron">Byrons</persName> »<bibl n="byron-sardanapalus-two-foscari-cain-vaerk">Kain</bibl>«<!-- lemma slut -->. Han
                         var i religiøs Henseende som i politisk og poetisk endnu ikke naaet til
                             Personlighe<pb n="191"/>dens Frigjørelse fra de tilfældige Traditioner,
                         i hvilke den fra Fødselen af er holdt bunden. Ogsaa paa dette Punkt overlod
@@ -4491,15 +4491,15 @@
                         poetiske Udvikling staaer stille, snart saa fri i sin Omdigtning af
                         Historien, at de reelle og de tildigtede Elementer i Forening frembringe en
                         høist uharmonisk Concert. Hvor stødende er f. Ex. ikke den Maade, hvorpaa i
-                        tiende Capitel af »<bibl>Fængslet i Edinburgh’s</bibl>« 3die Del historiske
+                        tiende Capitel af »<bibl n="scott-the-heart-of-midlothian">Fængslet i Edinburgh’s</bibl>« 3die Del historiske
                         og opdigtede Repliker af <persName key="john-campbell-2-duke-of-argyle">Hertugen af Argyle</persName> ere nittede
                         sammen! Hertil kommer, at det er blevet os stedse mere klart, hvor afvigende
                         det Totalbillede, der her gives, er fra den fjerne Tids virkelige Charakter,
                         der hyppigt slet ikke vilde forstaaes eller dog slet ikke vække Sympathi,
                         ifald den fremstilledes usminket <pb n="193"/> som den var.
-                            <persName key="sir-walter-scott">Scotts</persName> »<bibl>Talismanen</bibl>« og
-                            »<bibl>Korsfarerne</bibl>« ere Leiebibliotheksromaner om <ref target="n3213"/>Korstogenes<!-- lemma slut --> Eventyrlande og eventyrlige Bedrifter,
-                        næsten ligesaa uvirkelige som <persName key="torquato-tasso">Tasso’s</persName> »<bibl>Det
+                        <persName key="sir-walter-scott">Scotts</persName> »<bibl n="scott-the-talisman">Talismanen</bibl>« og
+                        »<bibl n="scott-tales-of-the-crusaders">Korsfarerne</bibl>« ere Leiebibliotheksromaner om <ref target="n3213"/>Korstogenes<!-- lemma slut --> Eventyrlande og eventyrlige Bedrifter,
+                        næsten ligesaa uvirkelige som <persName key="torquato-tasso">Tasso’s</persName> »<bibl n="tasso-la-gerusalemme-liberata">Det
                             befriede Jerusalem</bibl>«, men skrevne med langt ringere poetisk Talent
                         og uden <persName key="torquato-tasso">Tasso’s</persName> samvittighedsfulde Kunstnerkjærlighed
                         til Udførelse og Stil.</p>
@@ -4524,13 +4524,13 @@
                             <persName key="sir-walter-scott">Scott</persName> fra det Øieblik af, da han begyndte at skrive
                         i Prosa, aldrig gav sig Tid. Selv den mest dramatiske Scene,
                             <persName key="sir-walter-scott">Scott</persName> har forfattet: den herlige og gribende
-                        Retsscene i »<bibl>Fængslet <app>
+                        Retsscene i »<bibl n="scott-the-heart-of-midlothian">Fængslet <app>
                                 <lem wit="SS Fu 1923-24">i</lem>
                                 <rdg wit="A B">fra</rdg>
                             </app> Edinburgh</bibl>«, hvor <persName type="fictional">Jeanie</persName> med blødende Hjerte, men ædel Sandhedskjærlighed
                         aflægger Vidnesbyrdet mod sin egen Søster, taber Halvdelen af sin Virkning
                         ved den Bredde og Skjødesløshed, hvormed den er fortalt. <ref target="n3216"/>Af
-                            <persName key="thomas-moore">Thomas Moores</persName> »<bibl>Memoirer</bibl>« seer man, at
+                        <persName key="thomas-moore">Thomas Moores</persName> »<bibl n="moore-memoirs">Memoirer</bibl>« seer man, at
                         Bogens Hovedindhold: den unge Pige, der negter at aflægge Vidnesbyrd for sin
                         Søster i Retten, og derefter foretager den lange Reise for at bønfalde om
                         hendes Benaadning, er en factisk Begivenhed, som i et anonymt Brev blev
@@ -4541,7 +4541,7 @@
                         vilde han vel ikke have gjort den larmende Opsigt, han vakte, men have
                         frembragt Værker af høiere og varigere Værd<note place="bottom">Om bildende
                             Kunst synes han ikke at have havt noget Begreb. For at give et Billede
-                            af den gamle Puritaner i »<bibl>Fængslet i Edinburgh</bibl>« siger han
+                            af den gamle Puritaner i »<bibl n="scott-the-heart-of-midlothian">Fængslet i Edinburgh</bibl>« siger han
                             følgende Uhyrlighed: <ref target="n3218"/>»Det var et Maleri, i hvilket
                                 <persName key="rembrandt">Rembrandt</persName> syntes at have udført de lyse
                             Partier, men <persName key="michelangelo-buonarroti">Michel Angelos</persName> livfulde kraftige
@@ -4569,7 +4569,7 @@
                         og tredie Tiaar beherskede det litterære Marked, som paavirkede alle Europas
                         Lande og som i Frankrig havde Efterlignere som <persName key="prosper-merimee">Mérimée</persName>
                         og <persName key="victor-hugo">Hugo</persName> og <persName key="alexandre-dumas-den-aeldre">den ældre Dumas</persName>
-                            (»<bibl>Les Mousquetaires</bibl>«), i Italien en Discipel som
+                        (»<bibl n="dumas-den-aeldre-les-trois-mousquetaires">Les Mousquetaires</bibl>«), i Italien en Discipel som
                             <persName key="alessandro-manzoni">Manzoni</persName>, i Tydskland Aandsbeslægtede som
                             <persName key="friedrich-baron-de-la-motte-fouque">Fouqué</persName>, i Danmark Beundrere og Elever som
                             <persName key="poul-martin-moller">Poul Møller</persName>, <persName key="b-s-ingemann">Ingemann</persName> og
@@ -4582,7 +4582,7 @@
                     <head type="add">11. Universel sensualisme</head>
                     <head>XI.</head>
                     <p> I <persName key="john-keats">Keats’s</persName> beundringsværdige Fragment
-                            »<bibl>Hyperion</bibl>« forekommer der en Scene, hvor hele den styrtede
+                        »<bibl n="keats-hyperion">Hyperion</bibl>« forekommer der en Scene, hvor hele den styrtede
                         Gudeæt ligger overvunden i en dyb Klippehule under Jorden. Man er ved at
                         holde Raad, og Titanernes Gud, den gamle <persName type="fictional">Saturn</persName>, slutter sin modløse Tale: <ref target="n3350"/>»Her ere
                         I, overvældede, sparkede og slagne. O Titaner, skal jeg sige: Reiser Eder! –
@@ -4693,7 +4693,7 @@
                         udfolde sig næsten uden Begunstigelse af Omstændighederne. Denne Yngling,
                         der død i sit 26de Aar har efterladt sig Mesterværker, som Ingen der har
                         læst dem, kan glemme, og hvis Navn <persName key="percy-bysshe-shelley">Shelley</persName> i sin
-                            »<bibl>Adonais</bibl>« har skrevet ind blandt sine Stjerner, var Søn af
+                        »<bibl n="shelley-adonais-an-elegy-on-the-death-of-john-keats">Adonais</bibl>« har skrevet ind blandt sine Stjerner, var Søn af
                         en Londonerhyrekudsk og opdraget som Apothekerlærling. For de fleste af den
                         ældre Slægt var han ubekjendt. <persName key="william-wordsworth">Wordsworth</persName> – den eneste
                         ældre, mod hvem hans Blik stadig var vendt, og med større Ærefrygt, end
@@ -4701,13 +4701,13 @@
                         viste sig kold. Da <persName key="john-keats">Keats</persName> en Aften hos Maleren
                             <persName key="benjamin-haydon">Haydon</persName>, hvor Veteranen fra Rydal Mount var
                         tilstede, blev opfordret til at foredrage den skjønne Hymne til Pan af hans
-                            »<bibl>Endymion’s</bibl>« første Bog, hørte den graahærdede Digter den
+                        »<bibl n="keats-endymion-a-poetic-romance">Endymion’s</bibl>« første Bog, hørte den graahærdede Digter den
                         til Ende uden Afbrydelse og bemærkede saa blot, at det var <ref target="n3356"/>»et smukt Stykke Hedenskab«<!-- lemma slut -->. Det var det, og Ære være
                             <persName key="john-keats">Keats</persName> derfor! Men <persName key="william-wordsworth">Wordsworth</persName>
                         vilde neppe sige noget Smigrende<!-- alle udgaver har denne form --> dermed.
                         Saaledes lød da den vægtigste Stemme fra den gamle Digterskole. En anden lød
                         fra Tidens kritiske Oldermænd. Den var skrattende og hæs. Baade <ref target="n3358"/>»<bibl>Quarterly</bibl>« og »<bibl>Blackwood Review</bibl>«
-                        gjennemhaanede »<bibl>Endymion</bibl>«<!-- lemma slut --> paa den
+                        gjennemhaanede »<bibl n="keats-endymion-a-poetic-romance">Endymion</bibl>«<!-- lemma slut --> paa den
                         taabeligste Maade. Det blev sagt Forfatte<pb n="203"/>ren, at han <ref target="n3359"/>»gjorde bedre i at vende tilbage til sine
                         Apothekerkrukker«<!-- lemma slut --> og man erindrede ham om, at <ref target="n3360"/>»en forsulten Apotheker dog er bedre end en forsulten
                         Poet.«<!-- lemma slut --> Braadden stak og smertede visselig dybt, hvor
@@ -4721,7 +4721,7 @@
                         </app> Bekjendte, om den nedbrydende Virkning, som disse Artikler havde paa
                         hans Helbredstilstand, skulde, som det nu altid paastaaes, savne al Grund.
                             <ref target="n3361"/>Dræbt af en Artikel, som det hedder i
-                            <persName key="george-gordon-byron">Byrons</persName> »<bibl>Don Juan</bibl>«<!-- lemma slut -->,
+                        <persName key="george-gordon-byron">Byrons</persName> »<bibl n="byron-don-juan">Don Juan</bibl>«<!-- lemma slut -->,
                         blev <persName key="john-keats">Keats</persName> visselig ikke, og hans Udtalelser godtgjøre
                         i ethvert Fald tilfulde, hvor dyb en Foragt han nærede for de nævnte
                         Udgydelser imod hans Kunst og Person; men hans Ærgjerrighed var heftig, hans
@@ -4836,7 +4836,7 @@
                                             Adonais.«<!-- det er jo Keats, så ikke kom. om den græske --><!-- lemma slut --></l>
                                     </lg>
                                 </quote>
-                                <bibl>Shelley: »Fragment LXXVII. On Keats«.</bibl>
+                                <bibl n="shelley-on-keats-fragment-lxx">Shelley: »Fragment LXXVII. On Keats«.</bibl>
                                 <!-- står cit. rigtigt ift. titlen? -->
                             </cit>
                         </note>
@@ -4922,7 +4922,7 @@
                         Fornøielser,« siger han selv i et Brev, »<!-- tilføjet -->saa skriver jeg i
                         dette Øieblik med den ene Haand og holder med den anden en Ferskenkjerne til
                         min Mund.«<!-- lemma slut --> Det kan derfor ikke undre, at Billeder hentede
-                        fra denne Sphære ere hyppige hos ham. I hans med Rette berømte »<bibl>Ode
+                        fra denne Sphære ere hyppige hos ham. I hans med Rette berømte »<bibl n="keats-ode-on-melancholy">Ode
                             til Melancholien</bibl>« hedder det om denne Guddom, at den har sit
                         Alter i selve Glædens Tempel, skjøndt useet af andre end den, der med <ref target="n3378"/>»<emph>kraftig Tunge kan sprænge Glædens Drue mod sin fine
                             Gane</emph>«<!-- lemma slut -->, og i en af <persName key="john-keats">Keats’s</persName>
@@ -4943,7 +4943,7 @@
                             <persName key="william-wordsworth">Wordsworth</persName> og <persName key="samuel-taylor-coleridge">Coleridge</persName> havde
                         afstedkommet i Bedømmelsen af det forrige Aarhundredes Digtere.
                             <persName key="edmund-spenser">Spenser</persName> var hans Afgud, den klassiske Kunstdigtning
-                        hans Rædsel og i Digtet »<bibl>Søvn og Poesi</bibl>« har han nedlagt en
+                        hans Rædsel og i Digtet »<bibl n="keats-sleep-and-poetry">Søvn og Poesi</bibl>« har han nedlagt en
                         æsthetisk Troesbekjendelse, der ikke kunde afgives i voldsommere Udtryk.
                         Efter at have skildret Englands gamle poetiske Triumpher, udbryder han: <ref target="n3381"/>»Kunde Alt dette gaae iglemme? Ja, et Frafald, avlet af
                         Taabelighed og Barbari, bragte Apollo til at blues over dette sit Land. Mænd
@@ -4967,7 +4967,7 @@
                         Men <persName key="john-keats">Keats</persName> har aldrig offentliggjort en Linie mod
                             <persName key="alexander-pope">Pope</persName> og naar <persName key="teresa-guiccioli">Grevinde
                             Guiccioli</persName> i sit naive
-                        <bibl>Værk</bibl><!-- fransk: Lord Byron jugé par les témoins de sa Vie: https://catalog.hathitrust.org/Record/005798117S  -->
+                        <bibl n="guiccioli-lord-byron-juge-par-les-temoins-de-sa-vie">Værk</bibl><!-- fransk: Lord Byron jugé par les témoins de sa Vie: https://catalog.hathitrust.org/Record/005798117S  -->
                         om <persName key="george-gordon-byron">Byron</persName> kommer tilbage til disse Angreb, der skulle have opbragt
                         hendes Elskede, saa er dette kun elskværdigt kvindeligt
                         Eftersnakkeri. Derimod har <persName key="john-keats">Keats</persName> rimeligt nok
@@ -4978,7 +4978,7 @@
                     <p> 
                         <pb n="214"/> Han var ikke af dem. Analysere vi <persName key="john-keats">Keats’s</persName>
                         Eiendommelighed, finde vi som alt berørt Grundlaget for den i den alsidige
-                        Sandselighed. Læs i »<bibl>Oden til Nattergalen</bibl>« denne Strophe:</p>
+                        Sandselighed. Læs i »<bibl n="keats-ode-to-a-nightingale">Oden til Nattergalen</bibl>« denne Strophe:</p>
                     <p>
                         <ref target="n3384"/>»O havde jeg en Drik Vin, der var kjølnet lange Aar
                         igjennem i en dyb Hule under Jorden, og som smagte af Blomster og Grønt, af
@@ -4988,7 +4988,7 @@
                         drikke og tabe Verden af Syne og forsvinde som Du i Skovenes
                         Skygger!«<!-- lemma slut --><!-- tilføjet -->
                     </p>
-                    <p> Og sammenlign hermed disse Linier af »<bibl>Endymion</bibl>«:</p>
+                    <p> Og sammenlign hermed disse Linier af »<bibl n="keats-endymion-a-poetic-romance">Endymion</bibl>«:</p>
                     <p>
                         <ref target="n3386"/>»Smag disse saftige Pærer, som den alvorsfulde <persName type="fictional">Vertumnus</persName> har sendt mig […] her er Fløde,
                         dyb og rig under sin sneglimtende Flade, sødere end den som Amalthea
@@ -4996,16 +4996,16 @@
                         Berøring et Bundt af duftende Blommer, rede til at smelte mellem Gummerne
                         paa et Barn«<!-- tilføjet -->.</p>
                     <p> Til den forfinede og rige Smagssands svarer Lugte- og Følesandsens ideale
-                        Finhed. I »<bibl>Isabella</bibl>«, et Digt, der efter
+                        Finhed. I »<bibl n="keats-isabella-or-the-pot-of-basil-a-story-from-boccaccio">Isabella</bibl>«, et Digt, der efter
                             <persName key="giovanni-boccaccio">Boccacio</persName> behandler samme Sujet som <persName key="h-c-andersen">H. C.
-                            Andersens</persName> Eventyr »<bibl>Rosen-Alfen</bibl>«, staaer der paa
+                                Andersens</persName> Eventyr »<bibl n="andersen-rosen-alfen">Rosen-Alfen</bibl>«, staaer der paa
                         det Sted, hvor den unge Pige griber sin Elskedes afhuggede Hoved:</p>
                     <p>
                         <ref target="n3388"/>»Og hun viklede det ind i sit Silkeskjærf, der <pb n="215"/> duftede sødt af den Dug, som samles fra de kostbare Blomster, der plukkes
                         i Arabien, og en guddommelig Vædske strømmede med forfriskende Vellugt ned
                         over det gjennem det kolde
                         Slangerør«<!-- lemma slut --><!-- tilføjet -->.</p>
-                    <p> I »<bibl>Lamia</bibl>« staaer der, hvor Gjæsterne indfinde sig til det unge
+                    <p> I »<bibl n="keats-lamia">Lamia</bibl>« staaer der, hvor Gjæsterne indfinde sig til det unge
                         Pars Bryllup:</p>
                     <p>
                         <ref target="n3390"/>»Da i Forværelset enhver Gjæst med Fornøielse havde følt
@@ -5038,7 +5038,7 @@
                         Drivhus: en mild, fugtig <pb n="216"/> Hede slaaer os imøde, brogede
                         Blomster og saftdryppende Frugter møde vort Øie og slanke Palmer, gjennem
                         hvis Grene ingen ublid Vind formaaer at suse, bevæge svagt nikkende deres
-                        lange brede Vifter. Han har skrevet <bibl>en Sang til
+                        lange brede Vifter. Han har skrevet <bibl n="keats-to-autumn">en Sang til
                         Efteraaret</bibl><!-- uden »« -->, som er typisk for hans Naturbeskrivelse.
                         Han viser, hvorledes det sammensværger sig med den modnende Sol om at signe
                         og betynge Vinrankerne, der løbe hen under Straataget, om at bøie de
@@ -5068,7 +5068,7 @@
                     </p>
                     <p> Saaledes see vi <persName key="john-keats">Keats’s</persName> digteriske Evne vinde stedse
                         mere og mere i Omfang. Hans Udgangspunkt og Udgangspunktet i de smukkeste
-                        blandt hans mindre Digte (som »<bibl>Oden til Nattergalen</bibl>«) er
+                        blandt hans mindre Digte (som »<bibl n="keats-ode-to-a-nightingale">Oden til Nattergalen</bibl>«) er
                         Skildringen af en rent legemlig Tilstand, som Mathed, Nervøsitet,
                         Opiumsdøsighed, Tørst, Forsmægten; paa denne Baggrund af Sensibilitet hæve
                         saa Sandsebillederne sig frem, tydelige og runde, omtrent som Reliefer paa
@@ -5077,7 +5077,7 @@
                         De have noget vist Fuldtlødigt og Færdigt ved sig, som om de paasveisedes en
                         Flade. Man agte nøie paa, hvorledes Skikkelserne langsomt hæve sig frem i de
                         Brudstykker, jeg nu vil citere. Det er den første og tredie Strophe af den
-                        skjønne »<bibl>Ode to Indolence</bibl>«:</p>
+                        skjønne »<bibl n="keats-ode-on-indolence">Ode to Indolence</bibl>«:</p>
                     <p>
                         <ref target="n3396"/>»En Morgen saa jeg tre Figurer for mig i Profil med bøiede
                         Nakker og foldede Hænder. Den ene gik med roligt Aasyn bag den anden i bløde
@@ -5092,7 +5092,7 @@
                         hvem jeg elsker des mere, jo flere Bebreidelser hun overhobes med, var den
                         stolte og strenge Mø Poesien.«<!-- lemma slut -->
                     </p>
-                    <p> Dog det er først i de Par færdigblevne Sange af »<bibl>Hyperion</bibl>« at
+                    <p> Dog det er først i de Par færdigblevne Sange af »<bibl n="keats-hyperion">Hyperion</bibl>« at
                         det lykkedes <persName key="john-keats">Keats</persName> at beherske sine Kunstmidler fuldt
                         og virkeliggjøre det Ideal af plastisk sandselig Bestemthed, der svævede for
                         hans Øie. Her er Reliefet svundet for Statuen og for Statuer af en Stil, som
@@ -5130,13 +5130,13 @@
                     <p> 
                         <pb n="220"/> Det var ikke for meget sagt af <persName key="george-gordon-byron">Byron</persName>, som tilforn havde
                         været saa streng mod <persName key="john-keats">Keats</persName>, at Digtet
-                            »<bibl>Hyperion</bibl>« <ref target="n3399"/>»virkelig syntes inspireret af
+                        »<bibl n="keats-hyperion">Hyperion</bibl>« <ref target="n3399"/>»virkelig syntes inspireret af
                         Titanerne og var sublimt som
                         <persName key="aischylos">Æschylos</persName><!-- Aischylos -->.«<!-- lemma slut --> Man har
                         ogsaa nu tilstrækkelige Prøver paa Digterynglingens Phantasikraft; hvor søde
                         hans Melodier end ere<note place="bottom">Man agte f. Ex. paa Vellyden i
                             hans
-                            »<bibl>Alfesang</bibl>«<!-- udgivet 1848, jf. https://books.google.dk/books?id=B748AAAAYAAJ&pg=PA204&lpg=PA204&dq=Young+buds+sleep+in+the+roots+white+core&source=bl&ots=DrD26Muh4m&sig=OcZx3mbFoCm_KNDYkACY-YJ-9hg&hl=da&sa=X&ved=0ahUKEwi82fCWrvDXAhXFOxoKHa0FBrwQ6AEIOTAG#v=onepage&q=Young%20buds%20sleep%20in%20the%20roots%20white%20core&f=false -->: <lg>
+                            »<bibl n="keats-faery-songs">Alfesang</bibl>«<!-- udgivet 1848, jf. https://books.google.dk/books?id=B748AAAAYAAJ&pg=PA204&lpg=PA204&dq=Young+buds+sleep+in+the+roots+white+core&source=bl&ots=DrD26Muh4m&sig=OcZx3mbFoCm_KNDYkACY-YJ-9hg&hl=da&sa=X&ved=0ahUKEwi82fCWrvDXAhXFOxoKHa0FBrwQ6AEIOTAG#v=onepage&q=Young%20buds%20sleep%20in%20the%20roots%20white%20core&f=false -->: <lg>
                                 <l>
                                     <ref target="n3401"/>»Shed no tear! o shed no tear!</l>
                                 <l>The flower will bloom another year</l>
@@ -5151,7 +5151,7 @@
                             »<bibl>Examiners</bibl>« radicale Redacteur <persName key="leigh-hunt">Leigh
                             Hunt</persName> er et talende Symptom. Han følte hvad han skrev, naar
                         han i Forbitrelsen over det Liverpool-Castlereaghske Regimente i sit Digt
-                            »<bibl>Til Haabet</bibl>« udbrød: <ref target="n3400"/>»O lad mig see vort
+                        »<bibl n="keats-to-hope">Til Haabet</bibl>« udbrød: <ref target="n3400"/>»O lad mig see vort
                         Land bevare sin Sjæl, sin Stolthed, sin Frihed, og ikke Frihedens
                         Skygge«<!-- lemma slut --> og Navnene <ref target="n3690"/>Wilhelm
                         Tell<!-- lemma slut --><!-- sagnfigur = note -->, <persName key="william-wallace">William
