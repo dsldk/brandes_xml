@@ -73,7 +73,7 @@
                 </lg>
               </quote>
               <bibl>
-                <persName key="johann-wolfgang-goethe">Goethe.</persName>
+                <persName key="johann-wolfgang-goethe">Goethe</persName>.
               </bibl>
             </cit>
           </epigraph>
@@ -87,7 +87,7 @@
                   a stronger principle than love of truth.</p>
               </quote>
               <bibl>
-                <persName key="john-stuart-mill">John Stuart Mill.</persName>
+                <persName key="john-stuart-mill">John Stuart Mill</persName>.
               </bibl>
             </cit>
           </epigraph>
@@ -187,9 +187,9 @@
           Kirken ruste sig til Kamp. Alle Førerne, alle Ridderne og Væbnerne der skulle udfægte den
           store Tournering staae paa deres Poster, ubekjendte for hverandre, ubekjendte for Verden,
           som de snart skulle fylde med deres Navne. De ere af høist forskjellig Herkomst og have en
-          høist forskjellig Fortid. Det er Adelsmænd som <persName>Mirabeau</persName>, Geistlige
-          som <persName>Maury</persName>, <persName>Fauchet</persName> og
-            <persName>Talleyrand</persName>, Læger som <persName>Marat</persName>, Advocater som
+          høist forskjellig Fortid. Det er Adelsmænd som <persName key="honore-gabriel-riqueti-de-mirabeau">Mirabeau</persName>, Geistlige
+          som <persName key="jean-siffrein-maury">Maury</persName>, <persName key="claude-fauchet">Fauchet</persName> og
+            <persName key="charles-maurice-de-talleyrand-perigord">Talleyrand</persName>, Læger som <persName key="jean-paul-marat">Marat</persName>, Advocater som
             <persName>Robespierre</persName>, Digtere, Philosopher, Talere, Skribenter som
             <persName>Chénier</persName>, <persName>Condorcet</persName>,
             <persName>Danton</persName> og <persName>Desmoulins</persName>, en hel Hærskare af
@@ -3356,7 +3356,7 @@
           Rige; ved Indgangen til den første Forsal ligger Smerternes Evighed paa en Jernseng; den
           er ubevægelig, selv dens Hjerte <pb n="185"/> banker ikke. Den holder i sin Haand et
           uudtømmeligt Timeglas. Den kjender og siger kun Ordet »Aldrig«. – Omtrent saaledes sidder
-          en Automat paa et Uhr og siger kun Ordet »Kuk«.</p>
+          en Automat paa et Uhr og siger kun Ordet »Kuk«.«<!--cit slut indsat--></p>
                 <p>Ligner dette nu ingen Verdens Ting, saa ligne den falske Visdoms Dæmoner altfor
           latterligt. Vi saae, at alle Tidens religiøse Ideer kunde rummes i Ordet
             <emph>Orden</emph>. Derfor fremhæves ogsaa Ordenen her i Helvede saavel som i Himmerig.
@@ -3403,7 +3403,7 @@
                             <lg>
                                 <l>Bist Du schon gut, weil Du 
                                   <app>
-                                    <lem wit="B SS">gläubig</lem>
+                                    <lem>gläubig</lem>
                                     <rdg wit="A">glaübig</rdg>
                                   </app>                    
                            bist?</l>
@@ -3479,7 +3479,7 @@
           Pilekogger og over hans uundgaaelige Lyn, hans frygtelige Gangere, der bringe Pest, Krig,
           Hungersnød og Død. Een Million af disse ivrige Genier regulere Stjernernes Bevægelser og
           afløse efter Tour hverandre i disse prægtige Beskjæftigelser som Skildvagter, der vaage
-          for en stor Armee. <note place="bottom">Hos <persName>Parny</persName> ere de langt mindre
+          for en stor Armee.«<!--cit slut indsat--> <note place="bottom">Hos <persName>Parny</persName> ere de langt mindre
             beskjæftigede: <cit>
                             <quote>
                                 <lg>
@@ -3519,7 +3519,7 @@
           Handling, hvori et ophøiet Genie befinder sig, der undfanger en stor Tanke, eller et
           Menneske, der føler enten en legi<pb n="192"/>tim [!] Kjærligheds Henrykkelse eller et
           Venskab, der længe har været prøvet i Ulykken. Den Høiestes Skjønhed og Almagt er
-          Gjenstand for deres stadige Underholdning: o Gud, sige de, hvor stor er Du!</p>
+          Gjenstand for deres stadige Underholdning: o Gud, sige de, hvor stor er Du!«<!--cit slut indsat--></p>
                 <p>Det er neppe lykkedes <persName>Chateaubriand</persName> at gjøre Saligheden synderlig
           fattelig. Man føler nærmest Medlidenhed med den stakkels Gud, der hele Tiden maa høre sin
           egen Lovsang. Han skildres saaledes: »Langtfra Englenes Øie i Ildens og Lysets Rum
@@ -3534,7 +3534,7 @@
           Dagen, Ugen eller Maaneden denne pompøse Ceremoni finder Sted. Maaskee er det i
           Mellemrummene mellem disse Fuldbyrdelser af Treenighedens Mysterium, <pb n="193"/> at
           Guddommen deler sig; thi undertiden synes den delt: »Anraabt af Mildhedens og Fredens Gud
-          til Bedste for den truede Kirke lod den stærke og frygtelige Gud Himlen sine Planer vide.
+          til Bedste for den truede Kirke lod den stærke og frygtelige Gud Himlen sine Planer vide.«<!--cit slut indsat-->
             <note place="bottom">Smlgn. <persName>Parny</persName>: <cit>
                             <quote>
                                 <lg>
@@ -4309,7 +4309,8 @@
           Sentimentalitet, fransk Formsands og »asiatisk«-sandselig Ynde. Hun træder ud i Livet uden
           nogen solid Opdragelse bag sig og uden noget alvorligt Forsæt foran sig, med en stærk
           Trang til Lykke, med noget digterisk Anlæg, altsaa forud bestemt til et Liv i Illusioner.
-          Da hun seer sig omgivet af Beundrere, nyder hun svimlende denne Tilfredssstillelse. Hun
+          Da hun seer sig omgivet af Beundrere, nyder hun svimlende denne <app><lem>Tilfredsstillelse</lem>
+            <rdg wit="A">Tilfredssstillelse</rdg></app>. Hun
           begynder da at betragte sig selv som et høiere Væsen. Saalænge hun bevarer den materielle
           Troskab mod sin Mand, lever hun i den Illusion, at hun er en Pligtens Heltinde. Da hun
           bryder den, skifter hun Ideal og forvandles for sig selv til Idealet af den skjønne
@@ -4831,7 +4832,8 @@
             følgende Udgaver af sin »<bibl>Französische Litteraturgeschichte</bibl>« har
               <persName>Julian Schmidt</persName> begaaet den Feil i Gjengivelsen af
               »<bibl>Valérie</bibl>«<!-- cit start og slut indsat -->, at lade <persName type="fictional">Gustav</persName> skrifte for Manden.</note> og meddeler heller
-          aldrig sin Elskede, hvad han lider. Han tæres hen af uforstaaet og uudtalt Eskov, og da
+                  aldrig sin Elskede, hvad han lider. Han tæres hen af uforstaaet og uudtalt <app><lem>Elskov</lem>
+                    <rdg wit="A">Eskov</rdg></app>, og da
           han er altfor vel opdragen til at skyde sig, døer han af Tæring. Hans Stil er denne: »O
           min Ven, hvilken Brøde af mig, at have hengivet mig til en saadan Lidenskab, der maa
           ødelægge mig. Men jeg vil idetmindste døe elskende Dyden og den hellige Sandhed; jeg vil
@@ -5500,7 +5502,8 @@
           til det gamle <emph>Frankrig</emph>. Ogsaa med Hensyn til det Nationale var
             <persName>Chateaubriand</persName> den, der havde gaaet i Spidsen, hans Skildringer af
           de gamle Galler i »<bibl>Martyrerne</bibl>« vare de første Forsøg i den Art og paavirkede
-          efter <persName>Augustins Thierry’s</persName> egen Tilstaaelse endog den senere Forfatter
+                  efter <persName><app><lem wit="B SS">Augustin</lem>
+                    <rdg wit="A">Augustins</rdg></app> Thierry’s</persName> egen Tilstaaelse endog den senere Forfatter
           af »<bibl>Merovingernes Tidsalders</bibl>«, men selv dette Element, det hjemlige, var nyt
           og fremmed i fransk Poesi og maatte staae som oprørsk mod Traditionen. Snart blev med det
           gammelfranske Indhold alle de gammelfranske Versformer fornyede. Atter her havde
@@ -5568,7 +5571,8 @@
           snart staaer den som et oppositionelt Princip, og Autoritetsprincipet i den litterære Form
           bliver ved Consequentsens Magt <pb n="298"/> trængt tilside, ja sprængt af den nye Aand,
           der kun syntes at ville hævde det reelle, det vil sige det religiøst-politiske
-          Autoritetsprincip.</p>
+         <app><lem>Autoritetsprincip</lem>
+           <rdg wit="A">Autoritetsprinçip</rdg></app>.</p>
                 <p>Vi have tilbage at see, hvorledes Autoriteten som reelt Princip kom til at dele Skjæbne
           med Autoritetsprincipet som formelt og litterært. <note place="bottom">
                         <persName>Victor
@@ -6395,7 +6399,10 @@
                         <lem wit="B SS Fu 1923-24">Maria</lem>
                         <rdg wit="A">Marie</rdg>
                     </app> bl. A. bliver Datter af sin egen Søn. I en Bog af <persName>Abbed
-            Guillon</persName>: »<bibl>Le Mois de Marie</bibl>«<!-- cit start og slut indsat -->
+                      Guillon<app>
+                        <lem>Guillou</lem>
+                        <rdg wit="A">Guillon</rdg>
+                      </app></persName>: »<bibl>Le Mois de Marie</bibl>«<!-- cit start og slut indsat -->
           fremstilles hun endog som en Art Overgudinde, til hvem man derfor helst bør bede: »At være
           Guds Moder, det vil sige at have en Art Almagt over selve Gud og, om det er tilladt at
           sige saa, at bevare en Art <emph>Autoritet</emph> over ham.« Saaledes havner Autoriteten
