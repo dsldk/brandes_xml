@@ -1142,8 +1142,8 @@
                                 history of England during the thirty years peace</bibl>« I, II.
                             Massey: »<bibl n="massey-a-history">History of England during the reign of George the
                                 Third</bibl>« I–IV. Thackeray: »<bibl n="thackeray-the-four-georges">The four Georges</bibl>«.
-                            Reinhold Pauli: »<bibl>Geschichte Englands seit den
-                                Friedensschlüssen</bibl>« 1814 und 1815. Emerson: »<bibl>English
+                            Reinhold Pauli: »<bibl n="paulli-geschichte-englands-seit-den-friedensschlussen-1814-und-1815">Geschichte Englands seit den
+                                Friedensschlüssen</bibl>« 1814 und 1815. Emerson: »<bibl n="emerson-english-traits">English
                                 characters</bibl>«.</note>
                     </p>
                 </div>
@@ -1342,7 +1342,7 @@
                         selskabelige Samliv havde splittet deres Kræfter og Evner ad og svækket
                         deres Hjerters Modtagelighed for simple og rene Indtryk. Blandt <persName key="william-wordsworth">Wordsworth’s</persName> Hundreder af Sonetter
                         er der en, som med Hensyn paa denne Grundtanke er særligt betydningsfuld
-                            (»<bibl>Miscellanous Sonnets</bibl><!-- Poems 1807, bd. 1 -->«, Part I,
+                        (»<bibl n="wordsworth-miscellaneous-sonnets">Miscellanous Sonnets</bibl><!-- Poems 1807, bd. 1 -->«, Part I,
                         Nr. 35). Den begynder med en Klage over, at Menneskeverdenen er altfor meget
                         om os, og at vi som Følge deraf kun see Lidet i Naturen, der træder os imøde
                         som vort Eget. Saa følger:</p>
@@ -1391,7 +1391,7 @@
                         Naturvæsen i Kredsen af alle dets Slægtninge: Fugle og vilde Dyr, Planter og
                         Blomster. Christendommen bød at elske alle Mennesker, den naturalistiske
                         Pantheisme byder at elske det ringeste Dyr. Jeg troer, at
-                            »<bibl>Hart-leap-well</bibl>« er mig kjærest af Alt, hvad <persName key="william-wordsworth">Wordsworth</persName> har skrevet. Dette simple
+                        »<bibl n="wordsworth-my-heart-leaps-up-when-i-behold">Hart-leap-well</bibl>« er mig kjærest af Alt, hvad <persName key="william-wordsworth">Wordsworth</persName> har skrevet. Dette simple
                         Digt – en Dobbeltromance – er et Indlæg af gribende Veltalenhed for et
                         stakkels prisgivet og jaget Dyr, en Hjort, det vil sige en Gjenstand, som de
                         klassiske Digtere næsten kun kunde afvinde culinarisk og gastronomisk
@@ -1888,7 +1888,7 @@
                         Det var som om Fluer parrede sig i Luften. Han var aldrig kommen videre end
                         til første Del og havde kastet Bogen fra sig, saa oprørt var han bleven. Han
                         citerede sine Sonnetter: »<bibl>En høihjertet Spaniers Følelser</bibl>« og
-                            »<bibl>De to Stemmer</bibl>« og fremsagde sine <bibl>Vers til
+                        »<bibl>De to Stemmer</bibl>« og fremsagde sine <bibl n="shelley-to-a-skylark">Vers til
                             Lærken</bibl><!-- uden »« -->.«<!-- lemma slut --> Det forekommer mig,
                         at man har <persName key="william-wordsworth">Wordsworth</persName> hel og
                         holden som han gik og stod i daglig Omgang i denne photographiske Notits: de
@@ -3828,12 +3828,12 @@
                             »<bibl>Edinburgh Review’s</bibl>«<!-- tilføjet --> altfor liberale
                         Holdning i <ref target="n3160"/>det katholske Spørgsmaal<!-- lemma slut --> og
                         opirret over <ref target="n3161"/><persName key="francis-lord-jeffrey">Jeffrey’s</persName> nedsættende Anmeldelse af
-                            »<bibl>Marmion</bibl>«<!-- lemma slut -->, grundlagde »<bibl>
+                        »<bibl n="scott-marmion">Marmion</bibl>«<!-- lemma slut -->, grundlagde »<bibl>
                             <app>
                                 <lem wit="rett.bl.1. B SS Fu 1923-24">Quarterly</lem>
                                 <rdg wit="A">Quaterly</rdg>
                             </app> Review</bibl>«<!-- tilføjet -->. I 1805 udkom
-                            <persName key="sir-walter-scott">Scotts</persName> første episke Digtning »<bibl>Den sidste
+                        <persName key="sir-walter-scott">Scotts</persName> første episke Digtning »<bibl n="scott-the-lay-of-the-last-minstrel">Den sidste
                             Minstrels Sang</bibl>«. Den gjorde overordentlig Lykke, man glædede sig
                         over denne Tilbagevenden til Folkepoesien og til Naturen; især bleve
                         Naturskildringerne høiligt beundrede; <ref target="n3162"/>
@@ -3850,7 +3850,7 @@
                         imøde; Skildringen af de høilandske Sæder interesserte saa meget, at det
                         Bifald, hvormed de modtoges, bragte Digteren paa den Tanke at forsøge noget
                         Lignende i Prosa, en Tanke, der senere hen legemliggjort fik Navnet
-                            »<bibl>Waverley</bibl>«<!-- tilføjet - if. SS 364 er der tale om værket -->.
+                        »<bibl n="scott-waverley">Waverley</bibl>«<!-- tilføjet - if. SS 364 er der tale om værket -->.
                         Foreløbigt var Interessen vakt for Middelalderen, Riddervæsenet,
                         Kongeherligheden, Lehnstroskaben og den skotske Nationaleiendommelighed. De
                         fodreisende Englændere begyndte at gjøre romantiske Valfarter til Ruinerne
@@ -3872,7 +3872,7 @@
                         Undfangelsestimes forskjellige Stemning hvile over Værket.</p>
                     <p> Og nærmest kommer <persName key="sir-walter-scott">Scott</persName> netop
                             <persName key="george-gordon-byron">Byron</persName> i det Digt, han nu i November 1806 begyndte,
-                            »<bibl>Marmion eller Slaget ved Flodden Field</bibl>«. Med Hensyn til
+                        »<bibl n="scott-marmion">Marmion eller Slaget ved Flodden Field</bibl>«. Med Hensyn til
                         sin Fabel staaer denne Digtning <persName key="sir-walter-scott">Scotts</persName> øvrige ganske
                         nær; det er atter det 16de Aarhundrede, atter Skotland, atter Livet paa
                         Borgen og ved Hove, som skildres. Men Digtets Helt er en saadan, at han
@@ -5283,7 +5283,7 @@
                         Individer. Irlænderne have en Side, fra hvilken de ere beslægtede med
                         Franskmændene, for hvem de altid havde næret en levende Sympathi, en anden
                         seet fra hvilken de minde om Polakkerne, og en tredie, fra hvilken de synes
-                        orientalske. Blandt de sidste af <persName key="thomas-moore">Moores</persName> »<bibl>Irske
+                        orientalske. Blandt de sidste af <persName key="thomas-moore">Moores</persName> »<bibl n="moore-irish-melodies">Irske
                             Melodier</bibl>« findes et Digt »<bibl>The Parallel</bibl>«, der
                         besvarer <ref target="n3405"/>et Skrift mod Irlænderne, der vilde bevise, at de
                         oprindeligt vare Jøder<!-- lemma slut -->, med at drage Parallelen mellem
@@ -5340,7 +5340,7 @@
                         vidtstrakte Egne var der intet Hus, hvor ikke Kvinderne vare blevne
                         skjændede, og paa den Indvending, at Irlænderinderne maatte have været meget
                         lidet strenge, var Svaret at <ref target="n3426"/>»Bajonetten fjernede al Knibskhed«<!-- lemma slut -->
-                        <note place="bottom">Massey: »<bibl>History of England</bibl>« IV, 302. Min
+                        <note place="bottom">Massey: »<bibl n="massey-a-history">History of England</bibl>« IV, 302. Min
                             hele Fremstilling er grundet paa <emph>engelske</emph> Patrioters
                             Skildring.</note>. Man vil ikke undre sig over, at Fortvivlelsen drev
                         mange af de roligste og sindigste Irlændere over i Armene paa det <pb n="229"/> hemmelige Selskab, som hvis Udsending <persName key="edward-lord-fitzgerald">Lord Edward
@@ -5358,8 +5358,8 @@
                         var <persName key="thomas-reynolds">Reynolds</persName> og fortjener at huskes; der er for mig
                         ingen Tvivl om at det er ham, <persName key="thomas-moore">Thomas Moore</persName> har havt for
                         Øie, hvor han skildrer det nedrige Forræderi, der i
-                            »<bibl>Ildtilbederne</bibl>« bringer Oprørshøvdingen i Muhamedanernes
-                        Vold. (Se »<bibl>Lalla Rookh</bibl>«: <ref target="n3429"/>»The
+                        »<bibl n="moore-the-fire-worshippers">Ildtilbederne</bibl>« bringer Oprørshøvdingen i Muhamedanernes
+                        Vold. (Se »<bibl n="moore-lalla-rookh">Lalla Rookh</bibl>«: <ref target="n3429"/>»The
                         fireworshippers«<!-- lemma slut --><!-- skal det med eller have en kom.? -->).
                             <persName key="edward-lord-fitzgerald">Edward Fitzgerald</persName> laa tilsengs, da Tropper trængte
                         ind i det Hus, hvor han var skjult, for at arrestere ham. Der var sat en
@@ -5530,7 +5530,7 @@
                                             too«<!-- »« --><!-- lemma slut -->.</l>
                                     </lg>
                                 </quote>
-                                <bibl>Moore: »Shall the harp then be silent«.</bibl>
+                                <bibl n="moore-harp-litt">Moore: »Shall the harp then be silent«.</bibl>
                             </cit>
                             <cit>
                                 <quote>
@@ -5546,7 +5546,7 @@
                                             possess’d«<!-- »« --><!-- lemma slut -->.</l>
                                     </lg>
                                 </quote>
-                                <bibl>Byron: »The irish avatar«.</bibl>
+                                <bibl n="byron-the-irish-avatar">Byron: »The irish avatar«.</bibl>
                             </cit>
                         </note>. Den Dag Unionen blev vedtaget, vare <pb n="237"/> Gallerier og
                         Tribuner fulde af en ængstelig og spændt Folkeskare. Men
@@ -5565,7 +5565,7 @@
                         Fædrelands Befrier. Denne unge Mand var Irlands ædleste og ypperste Søn
                             <persName key="robert-emmet">Robert Emmet</persName>, Den, hvem efter min Overbevisning
                         Verden skylder Takken for Alt, hvad der findes af <pb n="238"/> Kraft og Ild
-                        i <persName key="thomas-moore">Thomas Moore’s</persName> henrivende »<bibl>Irske
+                        i <persName key="thomas-moore">Thomas Moore’s</persName> henrivende »<bibl n="moore-irish-melodies">Irske
                             Melodier</bibl>.«</p>
                     <p> Den sjeldne irske Digter, der kom til Verden samme Aar som
                             <persName key="adam-oehlenschlager">Oehlenschläger</persName>, var Søn af en lille Vinhandler i
@@ -5594,7 +5594,7 @@
                         i et rask lille Indhug tilhest – han var altid høist ærekjær og i sin Ungdom
                         et hidsigt Blod, <ref target="n3458"/>der udfordrede
                             <placeName>Jeffrey</placeName> for den første Kritik, han fik over sig<!-- lemma slut -->, og senere <ref target="n3461"/>
-                        <persName key="george-gordon-byron">Byron</persName> for hans Spot (i »<bibl>English bards o. s.
+                        <persName key="george-gordon-byron">Byron</persName> for hans Spot (i »<bibl n="byron-english-bards-and-scotch-reviewers">English bards o. s.
                             v.</bibl>«) over den ublodige Duel<!-- lemma slut -->, hvortil hin
                         første Udfordring gav Anledning.</p>
                     <p> Men trods dette krigerske Element i Blodet er det høist sandsynligt, at
@@ -5630,7 +5630,7 @@
                         Mennesker, jeg har kjendt, har syntes mig at forene de største Evner med den
                         største sædelige Høihed, saa vilde jeg ikke betænke mig paa at nævne
                             <persName key="robert-emmet">Robert Emmet</persName>«<!-- lemma slut -->
-                        <note place="bottom">Th. Moore: »<bibl>Memoirs of Lord Edward
+                        <note place="bottom">Th. Moore: »<bibl n="moore-life-fitzgerald">Memoirs of Lord Edward
                                 Fitzgerald</bibl>«.</note>. <pb n="241"/>
                     </p>
                     <p>
@@ -5641,7 +5641,7 @@
                         allerede som Dreng en Charakterstyrke for Dagen, der var et Varsel om den
                         Sjælsstorhed, han skulde udfolde som Yngling. Allerede i Tolvaarsalderen
                         studerede han med Lidenskab Mathematik og Chemi<note place="bottom">Madden:
-                                »<bibl>United Irishmen, their lives and times</bibl>«.</note>. En
+                            »<bibl n="madden-the-united-irishmen-their-lives-and-times">United Irishmen, their lives and times</bibl>«.</note>. En
                         Dag gav han sig, umiddelbart efter at han havde foretaget et chemisk
                         Experiment til at løse et mathematisk Problem af den største Vanskelighed,
                         og da han i sin Distraction førte sin Haand til Munden forgiftede han sig
@@ -5685,7 +5685,7 @@
                         at gjøre noget Skridt, hun vilde tage sig nær, og han besluttede at debutere
                         anonymt. Han indsendte <bibl>en Efterligning af Ossian</bibl>, der gik glat
                         igjennem uden at vække nogen Opmærksomhed, saa betroede han med skjælvende
-                        Haand til Postkassen et Brev, »<bibl>Til Trinity College’s
+                        Haand til Postkassen et Brev, »<bibl n="moore-til-trinity-colleges-studenter">Til Trinity College’s
                         Studenter</bibl>«, <ref target="n3469"/>rigt krydret med »Landsforræderi«, som
                         han selv bemærker<!-- LEMMA SLUT -->, en vittig Satire over
                             <persName key="robert-stewart-castlereagh">Castlereagh</persName>, der saa længe han levede var den
@@ -5738,7 +5738,7 @@
                             <persName key="thomas-moore">Moores</persName> Pianoforte, medens denne <ref target="n3696"/>spillede Melodierne i <persName key="edward-bunting">Buntings</persName> irske
                         Samling<!-- LEMMA SLUT -->, og <persName key="thomas-moore">Moore</persName> bevarede endnu som
                         gammel Erindringen om, hvorledes <bibl>Robert Emmet</bibl> en Dag, da han
-                        spillede Melodien »<bibl>Let Erin remember the day</bibl>« med Lidenskab <app>
+                        spillede Melodien »<bibl n="moore-let-erin-litt">Let Erin remember the day</bibl>« med Lidenskab <app>
                             <lem wit="B SS Fu 1923-24">udraabte:</lem>
                             <rdg wit="A">udraabte;</rdg>
                         </app>
@@ -5769,9 +5769,9 @@
                         overhovedet <pb n="247"/> umulig i Irland. Den unge Digter, der af Naturen
                         var anlagt paa Frembringelsen af en lys og let Poesi, fulgte da den Vei, som
                         laa aaben for hans Anlæg og hans Aar, han bearbeidede først de
-                            <bibl>anakreontiske Sange</bibl>, udgav dem ikke 20 Aar gammel med en
+                        <bibl n="moore-odes-of-anacreon">anakreontiske Sange</bibl>, udgav dem ikke 20 Aar gammel med en
                         Tilegnelse til <persName key="george-4">Prindsregenten</persName>, som da var de Liberales
-                        Haab, og optraadte i 1801 med et Bind »<bibl>Poems of Little</bibl>«, især
+                        Haab, og optraadte i 1801 med et Bind »<bibl n="moore-poems-of-the-late-thomas-little">Poems of Little</bibl>«, især
                         erotiske Digte, ungdommeligt sandselige og lidt frivole i deres Art. Den
                         irske Frivolitet minder meget om den, som er saa hyppig i Svenskernes
                         erotiske Digte og har samme Charakter af at være en
@@ -5799,7 +5799,7 @@
                         paastaaer, at <persName key="thomas-moore">Moores</persName> Oder og Epistler give den
                         smukkeste og nøiagtigste (»most exact«<!-- tilføjet »« -->) Beskrivelse af
                             <placeName>Bermuda</placeName>, som gives, og viser hvorledes den
-                        sikkert smukkeste Sang derimellem »<bibl>Canadian Boat Song</bibl>«, saavel
+                        sikkert smukkeste Sang derimellem »<bibl n="moore-a-canadian-boat-song">Canadian Boat Song</bibl>«, saavel
                         hvad Melodien som hvad Texten angaaer, er grundet paa de Sange, der virkelig
                         synges paa Skibene der, dog saaledes, at <persName key="thomas-moore">Moore</persName> har
                         bortkastet Alt, hvad der ikke var smukt og charakteristisk i disse
@@ -5847,7 +5847,7 @@
                                             dear«<!-- »« --><!-- LEMMA SLUT -->.</l>
                                     </lg>
                                 </quote>
-                                <bibl>Epistelen: »To the Lord Viscount Forbes«.</bibl>
+                                <bibl n="moore-to-the-lord-viscount-forbes-from-the-city-of-washington">Epistelen: »To the Lord Viscount Forbes«.</bibl>
                             </cit>
                         </note>. »Det var,«<!-- tilføjet --> skriver <persName key="thomas-moore">Moore</persName>
                         mange Aar senere, <ref target="n3480"/>»den eneste Periode af mit <pb n="250"/>
@@ -5953,7 +5953,7 @@
                         Universitetsven <persName key="robert-emmet">Robert Emmet</persName>. Det forekommer mig
                         utvivlsomt, at det er hans Skjæbne, der gav <persName key="thomas-moore">Moore</persName> den
                         Inspiration, som fremkaldte de ypperste Frihedspoesier blandt <pb n="253"/>
-                        de <bibl ="moore-irish-melodies">irske Melodier</bibl><!-- uden »«; som i SS 417 -->. Medens som
+                        de <bibl n="moore-irish-melodies">irske Melodier</bibl><!-- uden »«; som i SS 417 -->. Medens som
                         Følge af <ref target="n3486"/>Revolutionen 1798<!-- LEMMA SLUT -->
                         <persName key="thomas-addis-emmet">den ældre Emmet</persName><!-- = Thomas Addis Emmet --> blev holdt
                         fængslet paa <ref target="n3487"/>Fortet St. Georges<!-- LEMMA SLUT --> og
@@ -7151,7 +7151,7 @@
                             <persName key="robert-southey">Southey</persName>, som ikke blot kjøbte og læste, men roste
                         det og som senere i <ref target="n3624"/>»<bibl>Quarterly
                         Review</bibl>«<!-- tilføjet »« --> anmeldte <persName key="walter-savage-landor">Landors</persName>
-                        ikke morsomme »<bibl>Count Julian</bibl>« med Hæder<!-- LEMMA SLUT -->,
+                        ikke morsomme »<bibl n="landor-count-julian">Count Julian</bibl>« med Hæder<!-- LEMMA SLUT -->,
                         maatte synes den til Beskedenhed lidet tilbøielige Digter en Mand med høist
                         ualmindelige Evner.</p>
                     <p> Ikke desmindre var »<bibl n="landor-gebir">Gebir</bibl>« med al sin heftige Republikanisme et
@@ -7457,7 +7457,7 @@
                         gav ham sit Ja i Overensstemmelse med sin egen Morallov. Begges Anskuelse af
                         Ægteskabet var altfor ideal til at den ikke skulde være ble<pb n="311"/>ven
                         anseet for frivol og pøbelagtig af Pøbelen<note place="bottom">Smlgn. G.
-                            Brandes: »<bibl ="brandes-romantiske-skole-tydskland">Den romantiske Skole i Tydskland</bibl>«. S. 121
+                            Brandes: »<bibl n="brandes-romantiske-skole-tydskland">Den romantiske Skole i Tydskland</bibl>«. S. 121
                             ff.</note>. Men den var i Nutidens Virkelighed uigjennemførlig og
                         upraktisk. Skjøndt derfor gjensidig Kjærlighed og ingen religiøs eller
                         social Formalitet var dem begge det virkeligt hellige og stærke
@@ -11713,7 +11713,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Kvindeskikkelser af høist forskjellig Art. En kvindelig <persName type="fictional">Kain</persName> er <persName type="fictional">Adah</persName> ikke, skjøndt hun er den Hustru, der ene passer for
                         ham; <persName type="fictional">Kains</persName> kvindelige Modstykke findes
                         i den stolte, trodsige <persName type="fictional">Aholibamah</persName> i
-                            »<bibl>Himmel og Jord</bibl>«. Men som <persName type="fictional">Kain</persName> seer Tilintetgjørelsen overalt, saaledes <persName type="fictional">Adah</persName> Grøden, Kjærligheden, Spirekraften,
+                        »<bibl n="byron-heaven-and-earth-a-mystery">Himmel og Jord</bibl>«. Men som <persName type="fictional">Kain</persName> seer Tilintetgjørelsen overalt, saaledes <persName type="fictional">Adah</persName> Grøden, Kjærligheden, Spirekraften,
                         Lykken. Cypressen, der udstrækker sit Løv over den lille <persName type="fictional">Enochs</persName> Hoved, er <persName type="fictional">Kain</persName> et Sorgens Træ; <persName type="fictional">Adah</persName> seer kun, at det skygger over Barnet. Da <persName type="fictional">Kain</persName> har udtalt sine fortvivlede Ord om
                         hvorledes alle Verdens Onder og Ulykker skulle forplantes gjennem <persName type="fictional">Enoch</persName>, siger <persName type="fictional">Adah</persName>: <ref target="n4709"/>»O <persName type="fictional">Kain</persName>, se paa ham, se, hvor fuld af Liv, af Kraft, af
                         Skjønhed og af Glæde han er, hvor lig mig og dig – naar du er
@@ -11737,7 +11737,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                     <p> Den anden Skikkelse i hvem man – og endnu stærkere – føler den unge
                             <persName key="teresa-guiccioli">Grevindes</persName> Paavirkning, det er den græske Slavinde
                             <persName type="fictional">Myrrha</persName> i
-                        »<bibl>Sardanapal</bibl>«. Af <persName key="george-gordon-byron">Byrons</persName> historiske
+                        »<bibl n="byron-sardanapalus-two-foscari-cain-vaerk">Sardanapal</bibl>«. Af <persName key="george-gordon-byron">Byrons</persName> historiske
                         Tragoedier er denne <pb n="487"/> den bedste. Med sorgløs Menneske- og
                         Verdensforagt har den stolte <persName type="fictional">Sardanapal</persName> hengivet sig til Livsnydelse. Krigsry forsmaaer
                         og ringeagter han, han gider ikke kjøbe et saakaldt stort Navn for tusind
@@ -11843,7 +11843,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         mod <ref target="n4726"/>den hellige Alliance<!-- LEMMA SLUT -->. Imod de
                         østerrigske Voldsmænd vise hans Breve et sandt Raseri. Hvor han end boede,
                         var han det østerrigske Politi en Torn i Øiet, hans Breve bleve aabnede, den
-                        italienske Oversættelse af »<bibl>Childe Harold</bibl>« forbudt i de
+                        italienske Oversættelse af »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>« forbudt i de
                         italiensk-østerrigske Lande, og han vidste, at Politiet ophidsede til
                         Snigmord paa ham. Ligefuldt red han hver Dag alene og roligt sin Tur. Hans
                         Følelser ytrede sig ved denne Leilighed som ellers halvt som heltemodig
@@ -11871,7 +11871,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         veed ikke, hvad man siger til mig. Min Ophidselse overvælder mig – og
                         hvorfor? ikke for Farens Skyld, som truer mig, men – derpaa kalder jeg
                         Himlen til Vidne – ene fordi jeg maa forlade Dig«<!-- LEMMA SLUT -->
-                        <note place="bottom">Det store Værk »<bibl>Lord Byron jugé par les témoins
+                        <note place="bottom">Det store Værk »<bibl n="guiccioli-lord-byron-juge-par-les-temoins-de-sa-vie">Lord Byron jugé par les témoins
                                 de sa vie</bibl>« som <persName key="teresa-guiccioli">Grevinden</persName> i 1868 udgav,
                             afgiver skjøndt æsthetisk og psychologisk værdiløst, et rørende
                             Vidnesbyrd om Styrken og Dybden af hendes Kjærlighed. Løsningen al den
@@ -11926,7 +11926,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                     <head type="add">21. Byron. Naturalismens kulmination</head>
                     <head>XXI.</head>
                     <p> I Tidsrummet fra 1818 til 1823 udarbeidede <persName key="george-gordon-byron">Byron</persName>
-                            »<bibl>Don Juan</bibl>«. Saasnart Begyndelsen af Manuscriptet kom til
+                        »<bibl n="byron-don-juan">Don Juan</bibl>«. Saasnart Begyndelsen af Manuscriptet kom til
                         England, regnede det fra Venner og Kritikere, der fik det at see, ned med
                         Forfærdelsesudbrud over det, med Anraabelser om Bortskjæring og Sløifning
                         saa hist, saa her, med Ak og Vee over Digtets Immoralitet. Immoralitet! det
@@ -11944,7 +11944,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         deres Skyld, ikke min. Af deres fordømte Beskjæren og Kappen af vil jeg ikke
                         vide Noget. Naar De vil, kan De udgive Digtet anonymt, det er maaskee, naar
                         Alt kommer til Alt, det bedste; men jeg vil fægte mig frem imod Alle og til
-                        alle Sider som et Pindsvin.«<!-- LEMMA SLUT --> Saa gled da »<bibl>Don
+                        alle Sider som et Pindsvin.«<!-- LEMMA SLUT --> Saa gled da »<bibl n="byron-don-juan">Don
                             Juan</bibl>« af Stabelen, gratiøs og letseilende som en engelsk
                         Lystyacht, pynteligt udrustet med Kanoner og Ammunition, skabt til at befare
                         Livets vide Ocean og til at kunne give alle Bygmesterens Fjender det glatte
@@ -11955,8 +11955,8 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         der, som <persName key="george-gordon-byron">Byron</persName> siger, <ref target="n4735"/>vanskeligere kom
                         ind i en engelsk Dagligstue end en Kamel gjennem et
                         Naaleøie<!-- LEMMA SLUT -->, er det eneste Digt, som i vort Aarhundrede kan
-                        og maa sammenlignes med <persName key="johann-wolfgang-goethe">Goethes</persName> »<bibl>Faust</bibl>«:
-                        thi det og ikke det sammenlignelsesvis ubetydelige »<bibl>Manfred</bibl>« er
+                        og maa sammenlignes med <persName key="johann-wolfgang-goethe">Goethes</persName> »<bibl n="goethe-faust">Faust</bibl>«:
+                        thi det og ikke det sammenlignelsesvis ubetydelige »<bibl n="byron-manfred-a-dramatic-poem">Manfred</bibl>« er
                             <persName key="george-gordon-byron">Byrons</persName> Verdensdigt. Til sit trodsige Motto har det
                         disse Shakespeareske Repliker: <ref target="n4736"/>»Troer Du, at fordi Du er
                         dydig skal der ikke mere gives Kager og Vin? Det skal der ved <ref target="n4737"/>Sancte
@@ -11964,13 +11964,13 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             Inge<pb n="496"/>færret skal brænde Jer i Munden«<!-- LEMMA SLUT --> –
                         et Motto, der kun lover Forargelse og satirisk Skjemt; men ligefuldt var det
                         med berettiget og prophetisk Stolthed, at <persName key="george-gordon-byron">Byron</persName> skrev:
-                            <ref target="n4738"/>»Forlanger I et moderne Epos, saa har I »<bibl>Don
+                        <ref target="n4738"/>»Forlanger I et moderne Epos, saa har I »<bibl n="byron-don-juan">Don
                             Juan</bibl>«, det er saa godt et Epos for vor Tid som
-                            »<bibl>Iliaden</bibl>« for
+                        »<bibl n="homer-iliaden">Iliaden</bibl>« for
                         <persName key="homer">Homers</persName><!-- LEMMA SLUT -->.« Det blev
                             <persName key="george-gordon-byron">Byron</persName>, som gav, hvad
                             <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> havde indbildt sig at give i
-                            »<bibl>Martyrerne</bibl>«, den moderne episke Digtning, der hverken lod
+                        »<bibl n="chateaubriand-les-martyrs-ou-le-triomphe-de-la-religion-chretienne-vol-1-2">Martyrerne</bibl>«, den moderne episke Digtning, der hverken lod
                         sig opføre paa den christeligt-romantiske Grundvold, som
                             <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> vilde det, eller paa en enkelt
                         Nations Folkeliv, som <persName key="sir-walter-scott">Scott</persName> havde forsøgt det. Den
@@ -12016,7 +12016,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         hvert Punkt ladet sin Indbildningskrafts Sonde gaae tilbunds i Situationen,
                         saavel i den psychologiske som i den udvortes reelle Situation.
                             <persName key="johann-wolfgang-goethe">Goethes</persName> antike Naturel førte ham til, hvor det var
-                        muligt, at holde Midten, og selv i »<bibl>Faust</bibl>«, hvor han med
+                        muligt, at holde Midten, og selv i »<bibl n="goethe-faust">Faust</bibl>«, hvor han med
                         skrækkelig Alvor afslører Menneskelivet, løfter han Sløret med nænsom Haand.
                         Ofte miste dog hans Værker herved Livets høieste Spænding; det fulde Luftrum
                         til at udbrede deres gigantiske Vinger faae Livets og Dødens Genier sjeldent
@@ -12116,7 +12116,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                                         </l>
                                     </lg>
                                 </quote>
-                                <bibl>»Don Juan« X 87.</bibl>
+                                <bibl n="byron-don-juan">»Don Juan« X 87.</bibl>
                             </cit>
                         </note>
                         <persName key="george-gordon-byron">Byron</persName> skildrer ikke blot Rædslerne, han commenterer
@@ -12128,20 +12128,20 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         det aldrig kunne siges, at vi endnu krybe for Troner, men lærer af vor
                         Skildring, o I vore Børnebørn, som komme efter os, hvordan Tiden var, før
                         Verden blev fri!«<!-- LEMMA SLUT --> Sammenligner man paa dette Punkt
-                            »<bibl>Don Juan</bibl>« med »<bibl>Faust</bibl>«, det forrige
+                            »<bibl n="byron-don-juan">Don Juan</bibl>« med »<bibl n="goethe-faust">Faust</bibl>«, det forrige
                         Aarhundredes største Digt, da føler man, at det brede historiske Pust i
-                            »<bibl>Don Juan</bibl>« <pb n="503"/>fuldt vel har den Kraft som den
-                        philosophiske Aand, der besjæler »<bibl>Faust</bibl>«. Og sammenstiller man
+                            »<bibl n="byron-don-juan">Don Juan</bibl>« <pb n="503"/>fuldt vel har den Kraft som den
+                        philosophiske Aand, der besjæler »<bibl n="goethe-faust">Faust</bibl>«. Og sammenstiller man
                         det i sin Phantasi et Øieblik med dets russiske Affødning
-                            <persName key="aleksandr-pusjkin">Puschkin’s</persName> »<bibl>Eugen Onägin</bibl>« og dets
-                        danske Affødning, <persName key="frederik-paludan-muller">Paludan-Müllers</persName> »<bibl>Adam
+                        <persName key="aleksandr-pusjkin">Puschkin’s</persName> »<bibl n="pusjkin-jevgeni-onjaegin">Eugen Onägin</bibl>« og dets
+                        danske Affødning, <persName key="frederik-paludan-muller">Paludan-Müllers</persName> »<bibl n="paludan-muller-adam-homo">Adam
                             Homo</bibl>«, da føler man i det engelske Digt Naturens og Historiens
                         Havbrise des stærkere i Modsætning til Verdenstonen og den politiske
                         Uformuenhed i den russiske Digtning og til det snevert moralske Synspunkt i
-                        den talentfulde danske Epopee. I »<bibl>Don Juan</bibl>« findes Natur og
-                        Historie som i »<bibl>Faust</bibl>« Natur og Metaphysik; her er
+                        den talentfulde danske Epopee. I »<bibl n="byron-don-juan">Don Juan</bibl>« findes Natur og
+                        Historie som i »<bibl n="goethe-faust">Faust</bibl>« Natur og Metaphysik; her er
                         Menneskelivet udfoldet i sin Brede, som i
-                        »<bibl>Faust</bibl>«<!-- værket if. SS 571 --> sammentrængt i en
+                        »<bibl n="goethe-faust">Faust</bibl>«<!-- værket if. SS 571 --> sammentrængt i en
                         Personification, og det hele Værk er Foster af en Indignation, der for alle
                         Tidens Stores Øine her skrev sit: <ref target="n4743"/>Mene, Tekel,
                         Upharsin<!-- LEMMA SLUT -->.</p>
@@ -12174,7 +12174,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Religiøsitet besidder; […] mine Altre ere Bjergene og Havet, Jord, Luft,
                         Stjerner, Alt hvad der udspringer fra det store Hele, der har frembragt og
                         atter vil modtage Sjælen.«<!--  --> Men det forstaaer sig, at stemmende med
-                        det theologiske Ritual var denne Naturreligiøsitet ikke. Som et <pb n="505"/> Omkvæd fra »<bibl>Childe Harold</bibl>« vender Forherligelsen af Tankens
+                        det theologiske Ritual var denne Naturreligiøsitet ikke. Som et <pb n="505"/> Omkvæd fra »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>« vender Forherligelsen af Tankens
                         Frihed tilbage. Det hedder (XI, 90)</p>
                     <cit>
                         <quote>
@@ -12196,7 +12196,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         skyldes en særlig Forsynsgjerning<!--  -->, hedder det; og dog vide vi ikke
                         noget om, hvad den har forbrudt; hvem veed! maaskee sad den paa <ref target="n4753"/>den Gren, hvoraf Eva brækkede Æblet<!--  -->«<!--  -->. Man
                         seer, hvor meget friere og dristigere Tonen er bleven siden
-                            »<bibl>Kain</bibl>«. Og om Hospitalsorthodoxien hedder det (XI 5, 6 ):
+                        »<bibl n="byron-sardanapalus-two-foscari-cain-vaerk">Kain</bibl>«. Og om Hospitalsorthodoxien hedder det (XI 5, 6 ):
                             <ref target="n4754"/>»Jo flere Stød Sygdommen giver mig, des mere orthodox
                         bliver jeg bestandig. Det første Anfald beviste mig Guds Guddommelighed (som
                         jeg iøvrigt aldrig har betvivlet, saa lidt som Satans Existens), det andet
@@ -12209,17 +12209,17 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         <persName key="george-gordon-byron">Byron</persName> var nu kommen til det Punkt i sit Digterliv, at
                         han ikke mere saae, hvorledes han skulde kunne faae sine Sager trykte. Hans
                             <persName key="john-murray">Forlægger</persName> var ængstelig og trak sig efterhaanden
-                        helt tilbage. De første Sange af »<bibl>Don Juan</bibl>« kunde jo end ei
+                        helt tilbage. De første Sange af »<bibl n="byron-don-juan">Don Juan</bibl>« kunde jo end ei
                         finde en Boghandler, der vovede at tage dem i Commission. Han siger selv, da
-                        han (»<bibl>Don Juan</bibl>« XI, 56) sammenligner sin Skjæbne med
+                        han (»<bibl n="byron-don-juan">Don Juan</bibl>« XI, 56) sammenligner sin Skjæbne med
                             <persName key="napoleon-1">Napoleons</persName>, <ref target="n4756"/>»»<bibl>Juan</bibl>«
                         var <ref target="n4757"/>mit <placeName>Moskva</placeName>,
                             »<bibl>Faliero</bibl>« mit <placeName>Leipzig</placeName> og
-                            »<bibl>Kain</bibl>« synes mit <placeName>Mont St.
+                        »<bibl n="byron-sardanapalus-two-foscari-cain-vaerk">Kain</bibl>« synes mit <placeName>Mont St.
                         Jean</placeName><!--  -->; Dosmernes <ref target="n4758"/>Belle-Alliance<!--  --> kan nu reise Hovedet, da Løven er falden.«<!--  -->
                         <ref target="n4759"/>Jeg har allerede fortalt, hvad <persName key="robert-southey">Southey</persName>
                         vovede at sige i Fortalen til sit Spytslikkerdigt
-                        »<bibl>Domsvisionen</bibl>«<!--  -->. Han opfordrede som ægte Angiver Staten
+                        »<bibl n="southey-a-vision-of-judgement">Domsvisionen</bibl>«<!--  -->. Han opfordrede som ægte Angiver Staten
                         til at skride ind mod Salget af <persName key="george-gordon-byron">Byrons</persName> Skrifter; thi at
                         det var paa <persName key="george-gordon-byron">Byron</persName> Angrebet var myntet skjulte han ikke
                         i <ref target="n4760"/>sin
@@ -12236,11 +12236,11 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             <persName key="george-gordon-byron">Byron</persName> siger, <ref target="n4764"/>havde løiet sig til
                             <ref target="n4763"/>Laureatpoet<!--  --><!--  -->
                         <note place="bottom">See Udfaldene mod <persName key="robert-southey">Southey</persName>
-                                »<bibl>Don Juan</bibl>« I, 205, III, 80, 93 IX, 35, X, 18.</note>,
+                                »<bibl n="byron-don-juan">Don Juan</bibl>« I, 205, III, 80, 93 IX, 35, X, 18.</note>,
                         og hvis Navn i Virkeligheden var at søge paa <ref target="n4765"/>det moralske
                         Atlas’s <placeName>Botany Bay</placeName><!--  -->.
                             <persName key="george-gordon-byron">Byron</persName> svarte med sin beundringsværdige Satire
-                            »<bibl>The vision of judgment</bibl>«. <persName type="fictional">Georg
+                            »<bibl n="southey-a-vision-of-judgement">The vision of judgment</bibl>«. <persName type="fictional">Georg
                             den
                         Tredie</persName><!-- GB mener vel her den virkelige, men der er tale om en person, der optræder i et digt -->
                         ankommer her som hos <persName key="robert-southey">Southey</persName> til Himlens Port og
@@ -12263,7 +12263,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         tilbunds – som hans Værker, saa flyder han atter ovenpaa – som han selv <ref target="n4767"/>»thi alle bundfordærvede Ting ere <pb n="508"/> af lutter
                         Raadenskab saa lette som Kork.«<!--  --> Det hele lille Mesterværk, af
                         hvilket i vor Litteratur <persName key="frederik-paludan-muller">Paludan-Müller</persName> har taget
-                        Motivet til sidste Sang af »<bibl>Adam Homo</bibl>«, følger Punkt for Punkt
+                        Motivet til sidste Sang af »<bibl n="paludan-muller-adam-homo">Adam Homo</bibl>«, følger Punkt for Punkt
                             <persName key="robert-southey">Southey’s</persName> Digt, som det parodierer. Men
                         Vanskeligheden var at faae det trykt. <persName key="john-murray">Murray</persName> vilde ikke
                         tage det, heller ikke nogen anden Londonsk Forlægger. Og under disse
@@ -12298,7 +12298,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         fra den.«<!--  --> Men <persName key="george-gordon-byron">Byron</persName> havde engang givet sit Ord
                         paa at hjælpe <persName key="leigh-hunt">Hunt</persName> og vilde ikke nu træde tilbage. Han
                         anede dengang ikke, at <persName key="leigh-hunt">Leigh Hunts</persName> første Gjerning
-                        efter hans Død skulde være at skrive tre <bibl>Bind</bibl><!-- må være Hunts Lord Byron and some of his contemporaries, 1828 --> for
+                        efter hans Død skulde være at skrive tre <bibl n="hunt-lord-byron-and-some-of-his-contemporaries">Bind</bibl><!-- må være Hunts Lord Byron and some of his contemporaries, 1828 --> for
                         at besudle hans Minde<note place="bottom">Med Rette sammenligner
                                 <persName key="thomas-moore">Thomas Moore</persName> ham med Hunden, der fik Lov at boe
                             i Løvens Bur: <cit>
@@ -12319,18 +12319,18 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                                     </lg>
                                 </quote>
                             </cit>
-                        </note>. Han gav da <persName key="leigh-hunt">Hunt</persName> »<bibl>Domsvisionen</bibl>« og
-                            »<bibl>Himmel og <pb n="510"/> Jord</bibl>«, det skjønne
+                        </note>. Han gav da <persName key="leigh-hunt">Hunt</persName> »<bibl n="southey-a-vision-of-judgement">Domsvisionen</bibl>« og
+                        »<bibl n="byron-heaven-and-earth-a-mystery">Himmel og <pb n="510"/> Jord</bibl>«, det skjønne
                         Verdensundergangsdigt, som i vor Litteratur har fremkaldt
-                            <persName key="frederik-paludan-muller">Paludan-Müllers</persName> »<bibl>Ahasverus</bibl>«. Dog
+                        <persName key="frederik-paludan-muller">Paludan-Müllers</persName> »<bibl n="paludan-muller-ahasverus">Ahasverus</bibl>«. Dog
                         Tidsskriftet, som først skulde hedde »<bibl>The Carbonari</bibl>«, men som
                         man af Politik gav det matte Navn »<bibl>The Liberal</bibl>« vakte en saadan
                         Forfærdelse og Uvillie, at det fristede et kummerligt Liv og gik ind
                         allerede efter fjerde Hefte. Saaledes var <persName key="george-gordon-byron">Byron</persName> omtrent
                         udespærret af Litteraturen, og Veien til Handling og virkelig Kamp for sine
                         Ideer den eneste, der factisk endnu stod ham aaben.</p>
-                    <p> Men først fik hans revolutionære Pathos Luft i »<bibl>Don Juan</bibl>« og
-                            »<bibl>Bronzealderen</bibl>«. <persName key="percy-bysshe-shelley">Shelley</persName> tiltroede
+                    <p> Men først fik hans revolutionære Pathos Luft i »<bibl n="byron-don-juan">Don Juan</bibl>« og
+                        »<bibl n="byron-the-age-of-bronze-or-carmen-seculare-et-annus-haud-mirabilis">Bronzealderen</bibl>«. <persName key="percy-bysshe-shelley">Shelley</persName> tiltroede
                             <persName key="george-gordon-byron">Byron</persName> den Ærgjerrighed og den Evne <ref target="n4773"/>»at blive sit undertrykte Fædrelands Frelser«<!--  -->. Med Urette; thi
                         for den engelske Oppositions seige og langsomme Frihedskamp passede han
                         ikke. Det var heller ikke blot Englands politiske Nød, der sysselsatte og
@@ -12352,7 +12352,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         i kvindagtig Beundring, hvortil den tydske Digter forfaldt.
                             <persName key="napoleon-1">Napoleons</persName> blodige Krigshæder kunde ikke imponere
                         Den, der har udtalt de skjønne Ord at <ref target="n4779"/>det er bedre at
-                        aftørre een eneste Taare end at udgyde Have af Blod<!--  --> (»<bibl>Don
+                        aftørre een eneste Taare end at udgyde Have af Blod<!--  --> (»<bibl n="byron-don-juan">Don
                             Juan</bibl>« VIII, 3), og som ikke beundrede nogen anden Kriger end den,
                         der kjæmpede for Frihed som <persName key="leonidas">Leonidas</persName> og
                             <persName key="george-washington">Washington</persName>. Han havde længe svunget sin Svøbe over
@@ -12366,7 +12366,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             <persName key="george-gordon-byron">Byron</persName> selve sit Land under Øine<!--  -->. Han
                         angreb alt Usandt, alt Hadværdigt deri lige fra <ref target="n4785"/>Traditionen
                         om den jomfruelige <persName key="0">Dronning</persName><!--  --> (<ref target="n4787"/>vor halvkydske <persName key="0">Elisabeth</persName><!--  --> hedder det
-                            »<bibl>D. J.</bibl>« VIII, 81) til den mest moderne bon ton. <ref target="n4788"/>»Jeg er altfor stor en Patriot,« siger <pb n="512"/> han,
+                            »<bibl n="byron-don-juan">D. J.</bibl>« VIII, 81) til den mest moderne bon ton. <ref target="n4788"/>»Jeg er altfor stor en Patriot,« siger <pb n="512"/> han,
                         »<!-- tilføjet »« -->til at jeg ikke hellere skulde fortælle ti Løgne om
                         Franskmændene, end sige blot eet sandt Ord om dem – saadanne Sandheder er
                         Landsforræderi«<!--  --> (VII, 22). Han vover at tillægge Preusserne en stor
@@ -12374,7 +12374,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         at han med alle sine Ordener og Pensioner ingen anden Fortjeneste har
                         indlagt sig end <ref target="n4792"/>»at lappe Legitimitetens gamle
                         Krykke«<!--  -->. Han vover endelig med en anden Alvor og Pathos end
-                            <persName key="thomas-moore">Thomas Moore</persName> i dennes satiriske <bibl>Breve</bibl>
+                        <persName key="thomas-moore">Thomas Moore</persName> i dennes satiriske <bibl n="moore-intercepted-letters">Breve</bibl>
                         at lade England vide, hvor afskyet dets oprørende Torypolitik har gjort det
                         hos alle Jordens Folk. <ref target="n4793"/>»Jeg har ikke stor Aarsag til at
                         elske hin Plet af Jorden, der bærer en Nation, som <emph>kunde have
@@ -12395,7 +12395,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Hensyn kunde binde ham, han forfulgte <ref target="n4798"/>»Middelmaadighedernes
                         Ministerium«<!--  -->, som han kalder det, endog ud over dets Medlemmers
                         Død. Han under ikke <persName key="robert-stewart-castlereagh">Castlereagh</persName> Ro i Graven, fordi,
-                            <ref target="n4799"/>som han siger i en af Fortalerne til »<bibl>Don
+                        <ref target="n4799"/>som han siger i en af Fortalerne til »<bibl n="byron-don-juan">Don
                             Juan</bibl>«, det Undertrykkelsens og Hykleriets System, med hvilket
                         hans Navn var identisk, varede ved langt udover hans Død<!--  -->. Han
                         afskyede Legitimiteten og de til Væmmelse gjentagne Phraser om det Havet
@@ -12406,7 +12406,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         naar man rundtom hørte den følsomme Kosaks sentimentale Afskedssang til sin
                         Pige, hvis Begyndelsesord <ref target="n4805"/>»Schöne Minka«<!--  --> endnu den
                         Dag idag ikke ere glemte; de <ref target="n4806"/>nævnes f. Ex. i tredie Sang af
-                            »<bibl>Adam Homo</bibl>«<!--  -->. – Saa bliver det da
+                        »<bibl n="paludan-muller-adam-homo">Adam Homo</bibl>«<!--  -->. – Saa bliver det da
                             <persName key="george-gordon-byron">Byron</persName>, der i Europa aabner den radicale Opposition,
                         der i Midten af Tyverne udbryder imod den politiske Romantik og <ref target="n4808"/>den hellige Alliance<!--  -->, som jo ikke var Andet end
                         Europas politiske Hykleri sat i System. Han kaldte <ref target="n4809"/>den <pb n="514"/> hellige Alliance<!--  --> for <ref target="n4810"/>den himmelske
@@ -12438,7 +12438,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                                         <l>»poetry, which is but passion«<!-- tilføjet »« --></l>
                                     </lg>
                                 </quote>
-                                <bibl>»D. J.« IV. 106.</bibl>
+                                <bibl n="byron-don-juan">»D. J.« IV. 106.</bibl>
                             </cit>
                         </note>. Hans egen blev lutter beaandet Lidenskab nu. Hør hvilken Torden der
                         nu rullede hen over Europa: <ref target="n4825"/>»Den Tid vil komme, da Alt hvad
@@ -12477,7 +12477,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Flitter<!--  -->. Nu trængte Alt sig sammen for at drive ham til Handling.
                         Hensynet til <persName key="teresa-guiccioli">Grevinde Guiccioli</persName> var det eneste, som
                         endnu holdt ham tilbage. Han tænkte paa at deltage i <ref target="n4872"/>Creolernes Frihedskrig<!--  -->, han forhørte sig ivrigt om Tilstandene i
-                        Sydamerika og allerede hans »<bibl>Ode til Venedig</bibl>« havde jo sluttet
+                        Sydamerika og allerede hans »<bibl n="byron-ode">Ode til Venedig</bibl>« havde jo sluttet
                         med Ordene: <ref target="n4873"/>»Bedre, langt bedre end at forsumpe her var det
                         at døe ved <pb n="517"/>
                         <placeName>Thermopylæ</placeName>, hvor engang <persName key="leonidas">Leonidas</persName>
@@ -12685,9 +12685,9 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         sukkede under et brutalt Tyranni og som af Naturen havde Hang til Melancholi
                         tilligemed oprørske Instincter, tilegnede sig med Lidenskab
                             <persName key="george-gordon-byron">Byrons</persName> Poesi, og <persName key="aleksandr-pusjkin">Puschkin’s</persName>
-                            »<bibl>Onægin</bibl>«, <persName key="mihail-lermontov">Lermontow’s</persName> »<bibl>Vor Tids
+                        »<bibl n="pusjkin-jevgeni-onjaegin">Onægin</bibl>«, <persName key="mihail-lermontov">Lermontow’s</persName> »<bibl n="lermontov-vor-tids-helt">Vor Tids
                             Helt</bibl>« og <persName key="adam-mickiewicz">Mickiewitz’s</persName>
-                            »<bibl>Wallenrod</bibl>« vise, hvor dybt deres Digtere følte sig grebne.
+                        »<bibl n="mickiewicz-konrad-wallenrod">Wallenrod</bibl>« vise, hvor dybt deres Digtere følte sig grebne.
                         De romanske Folkeslag, hvis skjønne Clima og hvis søde Synder han havde
                         besunget, og som netop nu reiste sig til Opstand, oversatte og studerede med
                         Begeistring hans Værker. De emigrerede spanske og italienske Digtere optoge
@@ -12699,11 +12699,11 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         mellem denne Begivenhed og <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName> Overgang til
                         Oppositionen, og <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName> første Gjerning efter
                         sit Fald var at indmelde sig i den græske Comité. <persName key="victor-hugo">Hugos</persName>
-                            »<bibl>Orientales</bibl>« var ingen Flugt til Orienten, som de tydske
+                        »<bibl n="hugo-les-orientales">Orientales</bibl>« var ingen Flugt til Orienten, som de tydske
                         Digteres; Dig<pb n="525"/>teren lagde Veien over Grækenland og dvælede længe
                         ved <ref target="n4896"/>Frihedskrigens<!--  --> Helte.
                             <persName key="casimir-jean-francois-delavigne">Delavigne</persName> besang <persName key="george-gordon-byron">Byron</persName> i et
-                        ypperligt <bibl>Digt</bibl>, <persName key="alphonse-de-lamartine">Lamartine</persName> føiede en <ref target="n4898"/>sidste Sang til »<bibl>Childe Harold</bibl>«<!--  -->,
+                        ypperligt <bibl>Digt</bibl>, <persName key="alphonse-de-lamartine">Lamartine</persName> føiede en <ref target="n4898"/>sidste Sang til »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>«<!--  -->,
                             <persName key="alfred-de-musset">Alfred de Musset</persName> prøvede paa at løfte den store
                         Digters Arv, og selv <persName key="felicite-de-lamennais">Lamennais</persName> talte snart et
                         Tungemaal, hvori mangt et Ord og mangen en Vending mindede om Sproget i
@@ -12717,7 +12717,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             <persName key="george-gordon-byron">Byrons</persName> Poesi slog des mægtigere ned: Forfatterne af
                         jødisk Herkomst særlig <persName key="ludwig-borne">Börne</persName> og
                             <persName key="heinrich-heine">Heine</persName>, og <persName key="heinrich-heine">Heine’s</persName> bedste
-                        Poesi, fremfor Alt »<bibl>Deutschland, ein Wintermährchen</bibl>« fortsætter
+                        Poesi, fremfor Alt »<bibl n="heine-deutschland-ein-wintermarchen">Deutschland, ein Wintermährchen</bibl>« fortsætter
                             <persName key="george-gordon-byron">Byrons</persName> Værk. Romantismen i Frankrig og Liberalismen
                         i Tydskland nedstamme begge i lige Linie fra Naturalismen i
                             <persName key="george-gordon-byron">Byrons</persName> Poesi.</p>
@@ -12758,7 +12758,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         gyseligt skjønt – i Raseriets hvide Fraade, hvirvlede sig i Malstrømme,
                         splittede sig selv og Alt, hvad der stod det i Veien, ja udhulede i Længden
                         selv Klipper. Og midt i Vandfaldet stod der, som <persName key="george-gordon-byron">Byron</persName>
-                        har skildret det i »<bibl>Childe Harold</bibl>« (III 72), en deilig Iris, en
+                        har skildret det i »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>« (III 72), en deilig Iris, en
                         pragtfuldt straalende Regnbue, Harmoniens og Fredens og Frihedslykkens Tegn,
                         usporlig for Mange, men synlig for Enhver, der har Solen over sig og stiller
                         sig rigtigt. Den varslede om bedre Dage for Europa.</p>
