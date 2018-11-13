@@ -4876,7 +4876,7 @@
                         Yndlingssætninger, at <ref target="n3369"/>den sande Digter ingen Lære eller
                         Mening kunde have, ingen Moral, ja <emph>intet Selv</emph>. Og hvorfor?
                         Fordi Digteren i lige Grad glæder sig ved Lyset og Mørket og har lige saa
-                        megen Fornøielse af at undfange en <persName type="fictional">Jago</persName> som en <persName type="fictional">Imogen</persName><!-- lemma slut --><!-- Shak: Cymbeline -->. Om alle
+                        megen Fornøielse af at undfange en <persName type="fictional">Jago</persName> som en <persName type="fictional" key="shakespeare-imogen">Imogen</persName><!-- lemma slut --><!-- Shak: Cymbeline -->. Om alle
                         Digtere, der have glemt sig selv over Gjenstandene for deres Phantasi,
                         gjælder det, at de i Productionens Timer have lagt deres private
                         Eiendommelighed og Forkjærlighed saa vidt muligt tilside; men om
@@ -6517,7 +6517,7 @@
                         Harmonier, kun kalde disse Sange altfor søde (oversweet)<note place="bottom">Et Udtryk, jeg i en mundtlig Discussion har hørt anvendt.</note>;
                         erotisk Lyrik kan ikke være for erotisk; <ref target="n3550"/>»dans l’amour trop
                         n’est pas assez.«<!-- LEMMA SLUT --> Lyder det ikke som en mozartsk Melodi,
-                        som en af Heltens eller <persName type="fictional">Zerlinas</persName> Arier
+                        som en af Heltens eller <persName type="fictional" key="zerlina">Zerlinas</persName> Arier
                         i »<bibl n="byron-don-juan">Don Juan</bibl>«, naar det hedder:</p>
                     <cit>
                         <quote>
@@ -6545,7 +6545,7 @@
                             <persName key="george-gordon-byron">Byron</persName> siger om sin skjønneste Kvindeskikkelse, at
                         hun var <ref target="n3552"/>»<emph>Naturens Brud</emph> og Lidenskabens
                         Barn«<!-- LEMMA SLUT --> (»<bibl n="byron-don-juan">Don Juan</bibl>« II, 202) og hvad han
-                        udtaler om <persName type="fictional">Don Juan’s</persName> og <persName type="fictional">Haidée’s</persName> Elskov: <ref target="n3554"/>»Hos Andre
+                        udtaler om <persName type="fictional">Don Juan’s</persName> og <persName type="fictional" key="haidée">Haidée’s</persName> Elskov: <ref target="n3554"/>»Hos Andre
                         er det en kunstig Tilstand, en Opiumsdrøm fremkaldt ved altfor megen Ungdom
                         og Læsning, i dem var det deres <emph>Natur</emph> eller deres
                         Skjæbne«<!-- LEMMA SLUT --> (ib IV, 19), det gjælder om de erotiske
@@ -7399,7 +7399,7 @@
                         erklærede det for umuligt at male <persName key="percy-bysshe-shelley">Shelley</persName>, han var <ref target="n3827"/>»altfor deilig«<!-- LEMMA SLUT -->.</p>
                     <p> Det er da som en Yngling af den beskrevne Natur, exalteret som en Poet,
                         modig som en Helt, blød som en Kvinde, sky og rødmende som en ung Pige, let
-                        og rask som <persName type="fictional">Ariel</persName> hos
+                        og rask som <persName type="fictional" key="ariel">Ariel</persName> hos
                             <persName key="william-shakespeare">Shakespeare</persName>, at man maa tænke sig
                             <persName key="percy-bysshe-shelley">Shelley</persName> gaae ind og ud hos sine Venner.
                         <persName key="jane-williams">Mrs. Williams</persName> sagde om ham: <ref target="n3828"/>»Han
@@ -7500,7 +7500,7 @@
                             <persName key="percy-bysshe-shelley">Shelleys</persName> Lyrik minder om
                             <persName key="william-shakespeare">Shakespeares</persName>, <ref target="n3832"/><persName type="fictional">Spinderskens</persName><!-- Beatrice Cenci, datter af grev Francesco Cenci -->
                         lille Sang i »<bibl n="shelley-the-cenci">The Cenci</bibl>«<!-- LEMMA SLUT -->, f. Ex. om <ref target="n3833"/><persName type="fictional">Narrens</persName><!-- = Feste the Clown -->
-                        Sange i »<bibl n="shakespeare-as-you-like-it">Hvad I vil</bibl>«<!-- LEMMA SLUT --> eller om <ref target="n3835"/><persName type="fictional">Desdemonas</persName> og <persName type="fictional">Ophelias</persName> Viser<!-- LEMMA SLUT -->.</p>
+                        Sange i »<bibl n="shakespeare-as-you-like-it">Hvad I vil</bibl>«<!-- LEMMA SLUT --> eller om <ref target="n3835"/><persName type="fictional">Desdemonas</persName> og <persName type="fictional" key="ophelia">Ophelias</persName> Viser<!-- LEMMA SLUT -->.</p>
                     <p> Men i stærkeste Strid hermed synes den Eiendommelighed hos
                             <persName key="percy-bysshe-shelley">Shelley</persName> at staae, som rimeligvis Enhver, der kun
                         kjender ham af Anthologier, vil have paa Læben, den nemlig, at de berømteste
@@ -7691,7 +7691,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Fortrolighed med Naturens store Skikkelser og store Bevægelser ligner
                             <persName key="percy-bysshe-shelley">Shelley</persName>
                         <persName key="george-gordon-byron">Byron</persName>, men han ligner ham som en blond Genius ligner en
-                        tilsvarende brunet, som <persName type="fictional">Ariel</persName> ligner
+                        tilsvarende brunet, som <persName type="fictional" key="ariel">Ariel</persName> ligner
                             <ref target="n3854"/>Morgenstjernens flammebringende
                         Engel<!-- LEMMA SLUT -->. For <persName key="george-gordon-byron">Byron</persName> samlede Søens Poesi
                         sig i Skibbrudets Poesi, i Uveirets og Hvirvelvindenes Kamp og Rasen, i
@@ -7870,7 +7870,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Skovenes stærke Duft og seer det smaragdgrønne Lys, Bladene kaste tilbage,
                         og hører <ref target="n3870"/>Sphærernes vilde Musik<!-- LEMMA SLUT -->. Men
                         Jorden er ham ikke et Aggregat; den er en levende Aand, i hvis ubekjendte
-                        Indre en evigt uhørt Røst slumrer, hvis Stumhed bliver brudt, naar <persName type="fictional">Prometheus</persName> løses.</p>
+                        Indre en evigt uhørt Røst slumrer, hvis Stumhed bliver brudt, naar <persName type="fictional" key="prometheus-1789">Prometheus</persName> løses.</p>
                     <p> Da <persName type="fictional">Jupiter</persName> er styrtet i Afgrunden,
                         istemme <persName type="fictional">Jord</persName> og <persName type="fictional">Maane</persName> en jublende Vexelsang, en Hymne uden
                         Mage. <persName type="fictional">Jorden</persName> jubler over sin Befrielse
@@ -8191,7 +8191,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         var først kun uforsigtig, men i mere fremrykkede Aar søgte hun Trøst og ikke
                         altid paa nogen værdig Maade, saa vi finde hende 50 Aar gammel bereisende
                         Europa med sin Kureer og Kammerherre, tidligere Kammertjener
-                            <persName key="bartolommeo-bergami">Bergami</persName>, en italiensk <persName type="fictional">Ruy Blas</persName>, hvem hun udnævner til alt Muligt, bedækker med
+                        <persName key="bartolommeo-bergami">Bergami</persName>, en italiensk <persName type="fictional" key="ruy-blas">Ruy Blas</persName>, hvem hun udnævner til alt Muligt, bedækker med
                         Ordener og elsker ømt. Da hun ved <persName key="george-4">Prindsregentens</persName>
                         Tronbestigelse vendte tilbage til England for uden Videre at indtage
                         Dronningesædet, var det, at den ynkelige og foragtelige Fyrste besluttede at
@@ -8362,7 +8362,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         og sin Tidsalders herskende Type. Mange Typer jog igjennem hans Hjerne,
                         Hjobs<!-- = Job (GT) -->, <persName key="torquato-tasso">Tassos</persName>, den samme, der
                         samtidig greb <persName key="george-gordon-byron">Byron</persName> og <persName key="johann-wolfgang-goethe">Goethe</persName>. Det
-                        blev ved <persName type="fictional">Prometheus</persName><!-- ikke en titel if. SS; der er jo også tale om typer her -->.
+                        blev ved <persName type="fictional" key="prometheus-1789">Prometheus</persName><!-- ikke en titel if. SS; der er jo også tale om typer her -->.
                         Over den samtidige engelske Poesies Søer og Sletter hæve sig
                         <persName key="george-gordon-byron">Byrons</persName> Alper med hans »<bibl n="byron-manfred-a-dramatic-poem">Manfred</bibl>« og <pb n="348"/>
                         <persName key="percy-bysshe-shelley">Shelleys</persName>
@@ -8375,7 +8375,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         fra Gudetroen løsrevne Menneskeaand i dens Arbeiden og kunstneriske
                         Frembringen, stolt af sin Hytte, som Guden ei har bygget, og dannende
                         Skikkelser i sit Billede. <persName key="johann-wolfgang-goethe">Goethes</persName>
-                        <persName type="fictional">Prometheus</persName> er den formende og frie.
+                        <persName type="fictional" key="prometheus-1789">Prometheus</persName> er den formende og frie.
                             <persName key="george-gordon-byron">Byrons</persName> haarde, korte, ildfulde <bibl n="shelley-prometheus-unbound-a-lyrical-drama-i-four-acts">Vers</bibl>
                         skildrer Martyren, der lider med sammenbidte Tænder i Tavshed, hvem ingen
                         Tortur kan fravriste Tilstaaelsen, og som sætter sin høieste Ære i ikke at
@@ -8390,7 +8390,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         og godt; han er den Aand, der kun en Tid – om nok saa lang – kan fængsles og
                         lænkebindes, men som en Dag til Universets Henrykkelse befries – den
                         seirrige, den løste, den af alle Himmellegemers forenede Jubelsang hilste
-                            <persName type="fictional">Prometheus</persName>. <pb n="349"/>
+                        <persName type="fictional" key="prometheus-1789">Prometheus</persName>. <pb n="349"/>
                     </p>
                     <p> Han er selv i sine Kvaler fuldstændig rolig; thi han veed, at <persName type="fictional">Jupiters</persName><!-- karakter i Shelleys digt -->
                         Begjering ikke er Andet eller Mere end Periode i Verdenslivet. Herfor vilde
@@ -8399,7 +8399,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Øine, svarer han: <ref target="n3932"/>»Jeg tænker ei paa, hvad Ondt I gjøre
                         mig, men paa, hvor ilde I selv have det, da I ere
                         onde«<!-- LEMMA SLUT --><!-- tilføjet cit.tegn -->. Hvor ganske anderledes
-                        vilde en Byronsk <persName type="fictional">Prometheus</persName><!-- måske lidt en sniger; GB sigter måske ikke direkte til Byrons Prometheus som karakter, men som type?! -->
+                        vilde en Byronsk <persName type="fictional" key="prometheus-1789">Prometheus</persName><!-- måske lidt en sniger; GB sigter måske ikke direkte til Byrons Prometheus som karakter, men som type?! -->
                         have svaret. Han er helt igjennem Kjærlighed – til sine Fjender, til
                         Menneskene. Og Trodsen har ikke lukket Titanens Hjerte for Elskov. Han
                         mindes i Kvalerne sin Brud, hende, der <ref target="n3933"/>»naar hans Hjerte
@@ -8407,7 +8407,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Vin«<!-- LEMMA SLUT -->. <persName type="fictional">Asia</persName><!-- Prometheus' kone --> er den Titanen elskende Natur. Hun
                         er Lysets Barn, en levende Elskovsflammeskikkelse, hvis Læber, som <persName type="fictional">Panthea</persName><!-- i Shelleys Prometheus Unbound --> synger, <ref target="n3935"/>med deres Kjærlighed tænde Aanden mellem dem, og hvis Smil
                         gjør den kolde Luft til Ild<!-- LEMMA SLUT -->. Da saa Kvalernes og
-                        Uretfærdighedens Tid er omme, synker <persName type="fictional">Jupiter</persName> feig og foragtet, ynkeligt anraabende <persName type="fictional">Prometheus</persName> om Naade, ned i Afgrunden. Den
+                        Uretfærdighedens Tid er omme, synker <persName type="fictional">Jupiter</persName> feig og foragtet, ynkeligt anraabende <persName type="fictional" key="prometheus-1789">Prometheus</persName> om Naade, ned i Afgrunden. Den
                         prometheiske Tidsalder begynder, og Luften forvandles til et Ocean af evige
                         og deilige Kjærlighedsmelodier, <persName type="fictional">Jordens</persName> tunge, dumpe Jubel vexler med <persName type="fictional">Maanens</persName> henrivende Salighedssang, til Altet
                         smelter sammen i en Glædeshymne, <pb n="350"/> som ikke
@@ -8549,7 +8549,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         løstes af Faa. Lige til <persName key="percy-bysshe-shelley">Shelley</persName> skrev »<bibl n="shelley-the-cenci">The
                             Cenci</bibl>« synes han at have manglet enhver Sands for den uendelige
                         Tiltrækning og den uendelige Værdi, som det <emph>Individuelle</emph> har.
-                        Selv <persName type="fictional">Prometheus</persName> og <persName type="fictional">Asia</persName> mangle i deres Egenskab af Typer enhver
+                        Selv <persName type="fictional" key="prometheus-1789">Prometheus</persName> og <persName type="fictional">Asia</persName> mangle i deres Egenskab af Typer enhver
                         Gnist af Individualitet, deres Navne ere kun Overskrifter over den
                         skjønneste Lyrik, England nogensinde har frembragt. Hvor tydeligt »<bibl n="shelley-the-cenci">The
                             Cenci</bibl>« end viser, at <persName key="percy-bysshe-shelley">Shelley</persName> vilde have
@@ -8800,7 +8800,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Moderens slette Opdragelse efter Faderens Død bringes til at hengive sig til
                         ethvert Lune, og hvis Temperament tilsidst bliver <ref target="n3984"/>»saa
                         fængeligt som Krudt«<!-- LEMMA SLUT -->. Barnet saae sig i Speil i denne om
-                            <persName type="fictional">William Lovell</persName> mindende Romanhelt.
+                        <persName type="fictional" key="william-lovell">William Lovell</persName> mindende Romanhelt.
                         Blandt de Egenskaber, der skulde spille en afgjørende Rolle i Digterens Liv
                         viste den lidenskabelige Tiltrækning til det andet Kjøn sig allerede hos
                         Barnet. Kun fem Aar gammel blev han saa heftigt forelsket i en lille Pige,
@@ -9563,7 +9563,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Jeg, der gjennem Alt forholder sig til sig selv og vender tilbage til sig
                         selv, og det et bevæget, lidenskabeligt Jeg, om hvis Sindsbevægelse hver
                         enkelt nok saa ringe Strophes Bevægelse vidner som den enkelte Conquilles
-                        Susen erindrer om Oceanets. <persName type="fictional">Childe
+                        Susen erindrer om Oceanets. <persName type="fictional" key="childe-harold">Childe
                             Harold</persName> (i det første Udkast Childe <ref target="n4069"/>Burun<!-- LEMMA SLUT -->) forlader efter en slet tilbragt Ungdom med
                         Hjertet fuldt af Spleen et Land, hvor han ingen Venner og ingen Elskede
                         efterlader sig. Han har den ungdommelige Lede ved Livet, som tidlig
@@ -9579,10 +9579,10 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Maske – naar den kritisk fjernes, aabenbarer et alvorligt og lidende Aasyn.
                         Masken var en Eneboers; kast den bort, og der <pb n="397"/> staaer en ensom
                         Natur tilbage! Masken var tragisk Melancholi; riv den af og der ligger ægte
-                        Tungsind bag den! <persName type="fictional">Harolds</persName>
+                        Tungsind bag den! <persName type="fictional" key="childe-harold">Harolds</persName>
                         muslingebesaaede Pilgrimsdragt er vel kun en Domino paa Maskeballet, men den
                         dækker en Yngling med ildfuld Følelse, med skarp Forstand, med mørke
-                        Livsindtryk og med sjelden Frihedskjærlighed. I <persName type="fictional">Childe Harolds</persName> bedre Jeg er intet Uoprigtigt; for Alt hvad
+                        Livsindtryk og med sjelden Frihedskjærlighed. I <persName type="fictional" key="childe-harold">Childe Harolds</persName> bedre Jeg er intet Uoprigtigt; for Alt hvad
                         han tænker og føler, vil <persName key="george-gordon-byron">Byron</persName> selv staae inde. Og hvis
                         den, som kjender <persName key="george-gordon-byron">Byrons</persName> egen Livsførelse i den nærmest
                         følgende Periode skulde finde en Contrast imellem den digtede Personligheds
@@ -9691,7 +9691,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Retter gaae forbi og forlangt Biscuit og Sodavand. Hvilken Géne for
                         Husfruen, der var saa stolt af sin Anretning! og hvilken Abnormitet i et
                         Samfund, hvor kraftig Appetit er Nationaldyd!</p>
-                    <p> Saaledes see vi <persName type="fictional">Childe Harold</persName> i Person
+                    <p> Saaledes see vi <persName type="fictional" key="childe-harold">Childe Harold</persName> i Person
                         forvandle sig til <persName type="fictional">Don Juan</persName>. Den
                         ensomme Pilgrim blev Salonløve. Fuldt saa meget som
                             <persName key="george-gordon-byron">Byrons</persName> Poesi gjorde naturligvis hans høie Rang,
@@ -9718,7 +9718,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         overdrevne Historier; som Følge af alt dette blev han nu formelig bestormet
                         af Kvinderne; hans Bord laa dagligt fuldt af Breve fra ham bekjendte og
                         ubekjendte Damer. En kom til ham forklædt som Page, formodentligt for at
-                        ligne <persName type="fictional">Kaled</persName> i »<bibl n="byron-lara">Lara</bibl>«, og
+                        ligne <persName type="fictional" key="kaled">Kaled</persName> i »<bibl n="byron-lara">Lara</bibl>«, og
                         mange flere kom uforklædte. Om den Hvirvel, hvori han levede, faaer man et
                         Begreb, naar man hører ham fortælle <persName key="thomas-medwin">Medwin</persName>, at han
                         efter sit Bryllup i sin <persName key="anne-isabella-byron">Kones</persName> Dagligstue en Dag traf
@@ -9814,7 +9814,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         for <persName key="george-gordon-byron">Byrons</persName> Stil i hans umodne Geniperiode og i hvilket
                         jeg ikke troer, at nogen Psycholog vil finde Kjærlighedens Sprog. Det minder
                         nærmest om <ref target="n4083"/>
-                        <persName type="fictional">Hamlets</persName> skruede Billet til <persName type="fictional">Ophelia</persName><!-- LEMMA SLUT -->:</p>
+                        <persName type="fictional" key="hamlet">Hamlets</persName> skruede Billet til <persName type="fictional" key="ophelia">Ophelia</persName><!-- LEMMA SLUT -->:</p>
                     <p>
                         <ref target="n4085"/>»Hvis Taarer, som Du saae og som Du veed, jeg ikke lettelig
                         udgyder – hvis den Sindsbevægelse, hvormed jeg skiltes fra Dig – en <pb n="406"/> Sindsbevægelse, som Du maa have lagt Mærke til under hele
@@ -10226,7 +10226,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         medens <persName key="george-gordon-byron">Byron</persName> elskede den mest i dens Vrede (»<bibl n="Childe-harold's-pilgrimage">Ch.
                             H.</bibl>« II, 37). I Værkets anden Halvdel er Ensomhedsfølelsen en
                         anden. Der er en dyb Forskjel paa den Trang til ensomt Samliv med Naturen,
-                            <persName type="fictional">Harold</persName> føler som uerfaren Yngling,
+                            <persName type="fictional" key="childe-harold">Harold</persName> føler som uerfaren Yngling,
                         og den, han fornemmer som Mand, efter at hans første Jordomseiling om
                         Menneskene og Tingene er tilende. Ikke Sky for Menneskene, men Lede ved dem
                         drev nu Digteren til at elske den stumme Natur. Et helt stort Samfund, det
@@ -10243,7 +10243,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         af fremmed Himmel og Jord, hvo der paa en<pb n="424"/>somme Veie har følt
                         Synet af et sig nærmende Menneske som Indtrædelsen af en smudsig Plet i hans
                         frie og rene Synskreds, i ethvert saadant Menneskes Sjæl ville disse lyriske
-                        Udbrud finde Echo. <persName type="fictional">Childe Harold</persName> er
+                        Udbrud finde Echo. <persName type="fictional" key="childe-harold">Childe Harold</persName> er
                         ene. Han har lært, at <ref target="n4901"/>han mindst af Alt er skikket til at
                         gaae i Trop med andre Mennesker, ude af Stand til at underkaste sine Tanker
                         fremmede Tankers Herredømme eller til at give Magten over sin Sjæl til
@@ -10276,7 +10276,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Ogsaa denne Streng var anslaaet i de første to Sange; men deres Melancholi
                         var den rent ungdommelige Utilfredshed. En forspildt Ungdom laa bag
                         »<bibl n="Childe-harold's-pilgrimage">Childe Harold</bibl>« og som den <emph>phlegmatisk</emph>
-                        melancholske <ref target="n4519"/><persName type="fictional">Hamlet</persName> mellem
+                        melancholske <ref target="n4519"/><persName type="fictional" key="hamlet">Hamlet</persName> mellem
                         Graverkarlene<!-- LEMMA SLUT --> stod han ved <ref target="n4520"/>Achilles’s
                         Grav<!-- LEMMA SLUT --> og overveiede <ref target="n4521"/>med et Dødningehoved
                         i sin Haand<!-- LEMMA SLUT -->, hvad Livet og dets bedste Ry var værd,
@@ -10310,7 +10310,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Aande er Tumult, deres Liv er Storm, som bærer dem til Undergang, og dog ere
                         de saa skabte for Striden, at døer den hen, saa døe de selv som en Flamme,
                         der ingen Næring fik<!-- LEMMA SLUT -->. <ref target="n4527"/>Ak, udbryder
-                            <persName type="fictional">Harold</persName>, vi visne fra vor Ungdom af
+                            <persName type="fictional" key="harold">Harold</persName>, vi visne fra vor Ungdom af
                         og stønne saa afsted gjennem Livet, syge – syge – ingen Løn vundet, ingen
                         Tørst slukket, endnu paa Gravens Band viser det Blændværk sig, efter hvilket
                         vi fra først af forgjæves have jaget, for silde, altfor silde. Elskov, Ry,
@@ -10766,7 +10766,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         gruble sig ind i den Skyldbevidsthed, der fulgte med en forbryderisk
                         Kjærlighed ikke mindre end at digte sig ind i den, der følger paa Mord. Hans
                         tidligste Helte som <persName type="fictional">Giauren</persName> og
-                            <persName type="fictional">Lara</persName> have begaaet et
+                            <persName type="fictional" key="lara">Lara</persName> have begaaet et
                         hemmelighedsfuldt Mord, og det er bekjendt nok, at man uden videre
                         paaduttede <persName key="george-gordon-byron">Byron</persName> denne hans Heltes Forbrydelse, ja at
                             <ref target="n4577"/>selv den gamle <persName key="johann-wolfgang-goethe">Goethe</persName> af
@@ -10777,8 +10777,8 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         med en ung Kone, hvem Manden dræbte, og hvis Død <persName key="george-gordon-byron">Byron</persName>
                         atter hævnede ved at berøve hendes Drabsmand Livet<!-- LEMMA SLUT -->.
                         Ganske som man tidligere troede at finde Beviset for hans Mordgjerninger i
-                            <persName type="fictional">Laras</persName> tragiske Miner, saaledes har
-                        man i vore Dage villet see et Bevis for hans Incest i <persName type="fictional">Manfreds</persName> Fortvivlelse og i <persName type="fictional">Kains</persName> Ægteskab med sin <persName type="fictional">Søster</persName>. Det kan ikke undre, at
+                            <persName type="fictional" key="lara">Laras</persName> tragiske Miner, saaledes har
+                        man i vore Dage villet see et Bevis for hans Incest i <persName type="fictional">Manfreds</persName> Fortvivlelse og i <persName type="fictional" key="cain">Kains</persName> Ægteskab med sin <persName type="fictional">Søster</persName>. Det kan ikke undre, at
                             <persName key="george-gordon-byron">Byron</persName> og <persName key="thomas-moore">Moore</persName> engang
                         paatænkte at forfatte en phantastisk Biographi af <persName key="george-gordon-byron">Lord
                             Byron</persName>, i hvil<pb n="445"/>ken han skulde have forført saa
@@ -10794,7 +10794,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Fromme toge saa stærkt paa Vei i den Anledning, da de dog selv dogmatisk
                         foredroge, at Menneskeheden som nedstammende fra et eneste Par havde
                         formeret sig gjennem Sødskendeparring. Derfor accentuerer han i
-                        »<bibl n="byron-sardanapalus-two-foscari-cain-vaerk">Kain</bibl>«, at <persName type="fictional">Kain</persName> og
+                        »<bibl n="byron-sardanapalus-two-foscari-cain-vaerk">Kain</bibl>«, at <persName type="fictional" key="cain">Kain</persName> og
                             <persName type="fictional">Adah</persName> ere Sødskende og lader
                             <persName type="fictional">Lucifer</persName> forklare <persName type="fictional">Adah</persName>, at <emph>hendes</emph> Elskov til sin
                             <persName type="fictional">Broder</persName> ikke er Synd, men at den
@@ -10818,7 +10818,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         han, som dog dømmer sig selv saa strengt, i sit Dødsøieblik, efter at have
                         afvist Abbeden og hans Trøst, med fast Stolthed og dyb Foragt viser de onde
                         Aander bort, med hvem han Intet har tilfælles og som han aldrig har givet
-                        ringeste Magt over sig. Modsætningen til <persName type="fictional">Faust</persName>, der sælger sig til <persName type="fictional">Mephistopheles</persName> og synker i Knæ for <persName type="fictional">Jordaanden</persName>, er her frappant. Den engelske
+                        ringeste Magt over sig. Modsætningen til <persName type="fictional" key="faust">Faust</persName>, der sælger sig til <persName type="fictional" key="mephistopheles">Mephistopheles</persName> og synker i Knæ for <persName type="fictional">Jordaanden</persName>, er her frappant. Den engelske
                         Digter har havt et Ideal af selvstændig Manddom for Øie, hvortil den tydske
                         ikke har hævet sig, og hans Helt er ligesaa typisk <emph>Mand</emph> som
                             <persName key="johann-wolfgang-goethe">Goethes</persName> Helt er <emph>Mennesketypen</emph>. Ene i
@@ -10914,7 +10914,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         et Værk af langsomt borende og hulende Reflexion, af sønderdelende
                         Skarpsindighed og splintrende Tænkerevne. Intetsteds gjælder som her om
                             <persName key="george-gordon-byron">Byron</persName>, hvad <persName key="johann-wolfgang-goethe">Goethe</persName> lader ham
-                        sige som <persName type="fictional">Euphorion</persName> i anden Del af
+                        sige som <persName type="fictional" key="goethe-faust-euphorion">Euphorion</persName> i anden Del af
                             »<bibl n="goethe-faust">Faust</bibl>«: <ref target="n4589"/>»Das leicht Errungene – das
                         widert mir – Nur das Erzwungene – ergötzt mich
                         schier.«<!-- LEMMA SLUT --><!-- tilføjet »« --> Men Aandens hele hamrende og
@@ -11002,7 +11002,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         er umuligt ikke at fornemme. »<bibl n="byron-sardanapalus-two-foscari-cain-vaerk">Kain</bibl>« er en Tragoedie om det
                         Grundtragiske, at Mennesket fødes, lider, bliver skyldigt og døer.
                             <persName key="george-gordon-byron">Byron</persName> motiverer den bibelske Legende: <persName type="fictional">Adam</persName> er tæmmet, <persName type="fictional">Eva</persName> er kuet, <persName type="fictional">Abel</persName> er
-                        en blød og lydig Dreng; <persName type="fictional">Kain</persName> er den
+                        en blød og lydig Dreng; <persName type="fictional" key="cain">Kain</persName> er den
                         unge Menneskehed, som grubler, spørger, attraaer og fordrer. Han skal
                         deltage i Takkebønnen. <ref target="n"/>
                         <ref target="n4595"/>Hvorfor prise og takke? For Livet, skal jeg da ikke døe?
@@ -11042,13 +11042,13 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         født? Hvorfra faaer Nogen Mod til at sætte Børn ind i en saadan Verden? Og
                         for denne Existens skal jeg opsende
                         Takkebønner<!-- LEMMA SLUT --><!-- LEMMA SLUT -->.</p>
-                    <p> Dette er Stemningen i <persName type="fictional">Kains</persName> Sjæl, da
+                    <p> Dette er Stemningen i <persName type="fictional" key="cain">Kains</persName> Sjæl, da
                         han tvinges til at skride til Offer, og udviklet er den bleven hos ham ved
                             <persName type="fictional">Lucifers</persName> Tale. Thi <persName type="fictional">Lucifer</persName> foretrækker Marter for Kryberi med
                         Hymner og Harper. Denne <persName type="fictional">Lucifer</persName> er
                         ingen Djævel. Han siger selv: <ref target="n4604"/>»Hvo vilde gjøre det Onde for
                         det Ondes Skyld! Ingen; men det er Surdeien for alt Levende og
-                        Livløst.«<!-- LEMMA SLUT --> Han er heller ingen <persName type="fictional">Mephistopheles</persName>; paa en enkelt svag Spøg nær er han strengt
+                        Livløst.«<!-- LEMMA SLUT --> Han er heller ingen <persName type="fictional" key="mephistopheles">Mephistopheles</persName>; paa en enkelt svag Spøg nær er han strengt
                         alvorlig. Nei denne <ref target="n4605"/>
                         <persName type="fictional">Lucifer</persName> er virkeligt
                         Lysbringeren<!-- LEMMA SLUT -->, Videnskabens Genius, Kritikens stolte og
@@ -11070,12 +11070,12 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         sataniske«<!-- LEMMA SLUT --> uden Skam. Ved <persName type="fictional">Lucifers</persName> Hjælp bliver »<bibl n="byron-sardanapalus-two-foscari-cain-vaerk">Kain</bibl>« et Aandedrama; thi
                             <persName type="fictional">Lucifer</persName> fører sin Discipel gjennem
                         Rummet, viser ham alle Verdener med deres Beboere, Dødens Rige og de i
-                        Fremtidens Taager hvilende, endnu ufødte Slægter. Af <persName type="fictional">Kain</persName> fordrer han hverken blind Tro eller
+                        Fremtidens Taager hvilende, endnu ufødte Slægter. Af <persName type="fictional" key="cain">Kain</persName> fordrer han hverken blind Tro eller
                         blind Underkastelse. Han siger ikke: <ref target="n4608"/>»Tvivl paa mig og du
                         synker – tro og du bæres oppe!«<!-- LEMMA SLUT --> Han gjør ikke Troen paa
-                        sig til Betingelse for <persName type="fictional">Kains</persName> Redning
-                        og fordrer hverken Knæfald eller Tak. Han aabner <persName type="fictional">Kains</persName> Øine.</p>
-                    <p> Saa vender da <persName type="fictional">Kain</persName> tilbage til Jorden
+                        sig til Betingelse for <persName type="fictional" key="cain">Kains</persName> Redning
+                        og fordrer hverken Knæfald eller Tak. Han aabner <persName type="fictional" key="cain">Kains</persName> Øine.</p>
+                    <p> Saa vender da <persName type="fictional" key="cain">Kain</persName> tilbage til Jorden
                         og den første Rebel lader den første Drabsmand alene <pb n="458"/> som Bytte
                         for sine fortærende Tvivl. Der skal ofres, og han skal vælge et Alter. Hvad
                         ere Altrene ham? Sten og Grønsvær. Han som afskyer Lidelsen, vil ikke slagte
@@ -11088,17 +11088,17 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         stilles tilfreds, saa tag mit! holder Du af Blod, maa Du søge <persName type="fictional">Abels</persName>. Han, der reiste dette Alter, er som
                         Du gjorde ham. Han begjærer Intet, som man vinder ved
                         Knælen.«<!-- LEMMA SLUT --> Da slaaer Lynet ned i <persName type="fictional">Abels</persName> Offer og den himmelske Ild slikker begjærligt dette
-                        Alters Blod, medens <persName type="fictional">Kains</persName> foragteligt
+                        Alters Blod, medens <persName type="fictional" key="cain">Kains</persName> foragteligt
                         væltes af Vinden. Har Gud da frydet sig ved Mødrenes Smerte, da Lammene
                         førtes fra dem for at slagtes, glædede han sig ved at see de stakkels Dyrs
-                        Kval under den fromme Kniv? <persName type="fictional">Kains</persName> Blod
+                        Kval under den fromme Kniv? <persName type="fictional" key="cain">Kains</persName> Blod
                         koger, han vil styrte hint Alter, men <persName type="fictional">Abel</persName> hindrer ham deri og holder ham tilbage. Vogt dig, din
                         Gud elsker Blod! – og besnæret af sin Harme, sine Kvaler, sin Skjæbne falder
-                            <persName type="fictional">Kain</persName> i den Snare, Jehova har
+                            <persName type="fictional" key="cain">Kain</persName> i den Snare, Jehova har
                         udspændt for ham, og begaaer det første Drab uden at vide hvad et Drab vil
                         sige, og bringer saaledes selv den Død ind i Menneskeverdenen, hvis blotte
                         Navn, da den blev spaaet Menneskeheden, havde hensat ham i en <pb n="459"/>
-                        Tilstand af Rædsel. Gjerningen er fortrudt før den er gjort; thi <persName type="fictional">Kain</persName>, som elsker alle Mennesker, elsker
+                        Tilstand af Rædsel. Gjerningen er fortrudt før den er gjort; thi <persName type="fictional" key="cain">Kain</persName>, som elsker alle Mennesker, elsker
                         inderligt <persName type="fictional">Abel</persName>. Men saa følger
                         Forbandelsen, Straffen, Forviisningen og Kainsmærket.</p>
                     <p>Dette Kainsmærke er Menneskehedens: Kvalens og Udødelighedens Tegn.
@@ -11107,12 +11107,12 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         svækkede Arme nødes til at slippe Taget om en Verden, der vrider sig løs af
                         hans Favn. For at udrydde den Verden, der fornegter ham, kan han lade Blodet
                         flyde strømmevis og Baalene tændes i hundredevis af sine Præster; men
-                            <persName type="fictional">Kain</persName><!-- person if. SS --> stiger
+                            <persName type="fictional" key="cain">Kain</persName><!-- person if. SS --> stiger
                         uskadt op af Baalets Aske og pidsker disse Præster med udødelig Foragt.
-                            <persName type="fictional">Kain</persName><!-- person if. SS --> er den
+                            <persName type="fictional" key="cain">Kain</persName><!-- person if. SS --> er den
                         tænkende Menneskehed, der en skjøn Dag sprænger Himlens gamle Hvælving og
                         øiner Millioner af Kloder i deres Frihed rullende høit over Jehovas
-                        buldrende Tordenvogn. <persName type="fictional">Kain</persName><!-- person if. SS --> er den arbeidende Menneskehed, der i
+                        buldrende Tordenvogn. <persName type="fictional" key="cain">Kain</persName><!-- person if. SS --> er den arbeidende Menneskehed, der i
                         sit Ansigts Sved stræber at frembringe et nyt og bedre Eden, ikke
                         Uvidenhedens, men Kundskabens og Harmoniens, og som naar Jehova forlængst er
                         syet i sit Ligklæde, endnu vil leve og trykke den gjenfundne <persName type="fictional">Abel</persName> til sit Bryst<note place="bottom">Smlgn. Leconte de Lisle: »<bibl n="leconte-de-lisle-poemes-barbares">Poemes barbares</bibl>«.
@@ -11322,14 +11322,14 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         med sin mangeaarige Efterfølger under Armen. Han staaer efter Ballets
                         Slutning ved Døren til sit Hus, da Parret stiger ud af Gondolen. Da alle tre
                         ere komne sig lidt af den første Overraskelse, forlange de tre Kopper Kaffe
-                        og nu udspinder sig følgende Conversation. <persName type="fictional">Laura</persName> siger: <ref target="n4656"/>»<persName type="fictional">Beppo</persName>! Gud, hvor dit Skjæg er voxet! hvor kunde det dog
+                        og nu udspinder sig følgende Conversation. <persName type="fictional" key="laura">Laura</persName> siger: <ref target="n4656"/>»<persName type="fictional">Beppo</persName>! Gud, hvor dit Skjæg er voxet! hvor kunde det dog
                         falde dig ind at blive saa længe borte? Er du virkelig bleven Tyrk? og har
                         du et Harem? og er det sandt at de spise med Fingrene istedenfor med Gaffel?
                         Hvilket Shawl du dog bar om Hovedet! det faaer jeg, det er klart. Og er det
                         sandt at de aldrig spise Svinekjød?«<!-- LEMMA SLUT --><!-- tilføjet »« -->
                         – Dette er al den Forklaring, Manden faaer eller æsker; han laaner, da han
                         ikke kan gaae ud i sit Costume, foreløbigt et Par Benklæder af sin
-                        Efterfølger, <persName type="fictional">Lauras</persName> Cavaliere ser<pb n="469"/>vente, og Historien ender med fuld Harmoni. Den er i og for sig
+                        Efterfølger, <persName type="fictional" key="laura">Lauras</persName> Cavaliere ser<pb n="469"/>vente, og Historien ender med fuld Harmoni. Den er i og for sig
                         af underordnet Betydning; men den var <persName key="george-gordon-byron">Byron</persName> Forskolen
                         til hans Mesterværk »<bibl n="byron-don-juan">Don Juan</bibl>« – det eneste af
                             <persName key="george-gordon-byron">Byrons</persName> Værker, der indeholder og rummer Livets hele
@@ -11550,7 +11550,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         mest barbariske Pinsler end han ihjelslaaer en sovende Fjende. Den
                         interessante Bandit med de hemmelighedsfulde Ansigtstræk, med sin
                         Theaterholdning og sin uindskrænkede Ridderlighed mod Kvinder er det
-                        Byronske Sidestykke til Schillers <persName type="fictional">Karl
+                        Byronske Sidestykke til Schillers <persName type="fictional" key="karl-moor">Karl
                             Moor</persName>. Til hans Mandsideal passede en Konge i et lovbundet
                         Land, omringet af Hoffets Regler, kun slet; en saadan fattedes de romantiske
                         Bedrifter, det frie Liv ved Kysterne og paa Havet; saa tog
@@ -11572,11 +11572,11 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                     <p> Men enkelte Træk i disse Figurer naae dog det Dybere i
                             <persName key="george-gordon-byron">Byrons</persName> Ideal, der nu kom til Udbrud. <persName type="fictional">Conrads</persName> Ubøielighed under Lidelser antyder
                         allerede <persName type="fictional">Manfreds</persName>; han vil saa lidet
-                        kaste sig paa Knæ, som <persName type="fictional">Kain</persName> vil knæle
+                        kaste sig paa Knæ, som <persName type="fictional" key="cain">Kain</persName> vil knæle
                         for <persName type="fictional">Lucifer</persName> eller <persName type="fictional">Don Juan</persName> for <persName type="fictional">Gulbeyaz</persName>. Medlidenheden med de Laverestillede, der aldrig
                         forsvandt af <persName key="george-gordon-byron">Byrons</persName> Sjæl, er allerede, om end nærmest
                         som <ref target="n4692"/>»Had mod Herrerne«<!-- LEMMA SLUT -->, levende hos
-                            <persName type="fictional">Lara</persName><!-- figur if. SS 558 -->, og
+                            <persName type="fictional" key="lara">Lara</persName><!-- figur if. SS 558 -->, og
                         Kjærligheden til Grækenlands Befrielse bryder igjennem i
                         »<bibl n="byron-the-giaour-a-fragment-of-a-turkish-tale">Giauren</bibl>« som i »<bibl n="byron-the-siege-of-corinth">Beleiringen af Korinth</bibl>«.
                         Mærkværdigt nok endte jo Digteren selv sit Liv som en Befalingsmand over
@@ -11585,7 +11585,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             <ref target="n"/>som hine Normanner, fra hvem han stammede
                         ned<!-- LEMMA SLUT -->. Og ere end alle disse Desperado’er (Renegaten
                             <persName type="fictional">Alp</persName><!-- belejringen af.. -->, der
-                        fører Tyrkerne mod sine egne Landsmænd, ikke mindre end <persName type="fictional">Lara</persName>, der ligger i Krig med sine egne
+                        fører Tyrkerne mod sine egne Landsmænd, ikke mindre end <persName type="fictional" key="lara">Lara</persName>, der ligger i Krig med sine egne
                         Standsfæller) subjectivt idealistiske Phantomer, eet reelt Grundtræk er der
                         dog i alle disse Skikkelser, det, der bliver det herskende i alle dem, som
                         slutte sig til dem: det Tragiskes Realisme. Humoren i
@@ -11710,21 +11710,21 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             <persName type="fictional">Adah</persName> det Bedste. Medens
                             <persName key="george-gordon-byron">Byrons</persName> Mandscharakterer, som man tidt har bemærket,
                         alle ligne hinanden, ere, hvad man mindre hyppigt har havt Øie for, hans
-                        Kvindeskikkelser af høist forskjellig Art. En kvindelig <persName type="fictional">Kain</persName> er <persName type="fictional">Adah</persName> ikke, skjøndt hun er den Hustru, der ene passer for
-                        ham; <persName type="fictional">Kains</persName> kvindelige Modstykke findes
+                        Kvindeskikkelser af høist forskjellig Art. En kvindelig <persName type="fictional" key="cain">Kain</persName> er <persName type="fictional">Adah</persName> ikke, skjøndt hun er den Hustru, der ene passer for
+                        ham; <persName type="fictional" key="cain">Kains</persName> kvindelige Modstykke findes
                         i den stolte, trodsige <persName type="fictional">Aholibamah</persName> i
-                        »<bibl n="byron-heaven-and-earth-a-mystery">Himmel og Jord</bibl>«. Men som <persName type="fictional">Kain</persName> seer Tilintetgjørelsen overalt, saaledes <persName type="fictional">Adah</persName> Grøden, Kjærligheden, Spirekraften,
-                        Lykken. Cypressen, der udstrækker sit Løv over den lille <persName type="fictional">Enochs</persName> Hoved, er <persName type="fictional">Kain</persName> et Sorgens Træ; <persName type="fictional">Adah</persName> seer kun, at det skygger over Barnet. Da <persName type="fictional">Kain</persName> har udtalt sine fortvivlede Ord om
-                        hvorledes alle Verdens Onder og Ulykker skulle forplantes gjennem <persName type="fictional">Enoch</persName>, siger <persName type="fictional">Adah</persName>: <ref target="n4709"/>»O <persName type="fictional">Kain</persName>, se paa ham, se, hvor fuld af Liv, af Kraft, af
+                        »<bibl n="byron-heaven-and-earth-a-mystery">Himmel og Jord</bibl>«. Men som <persName type="fictional" key="cain">Kain</persName> seer Tilintetgjørelsen overalt, saaledes <persName type="fictional">Adah</persName> Grøden, Kjærligheden, Spirekraften,
+                        Lykken. Cypressen, der udstrækker sit Løv over den lille <persName type="fictional">Enochs</persName> Hoved, er <persName type="fictional" key="cain">Kain</persName> et Sorgens Træ; <persName type="fictional">Adah</persName> seer kun, at det skygger over Barnet. Da <persName type="fictional" key="cain">Kain</persName> har udtalt sine fortvivlede Ord om
+                        hvorledes alle Verdens Onder og Ulykker skulle forplantes gjennem <persName type="fictional">Enoch</persName>, siger <persName type="fictional">Adah</persName>: <ref target="n4709"/>»O <persName type="fictional" key="cain">Kain</persName>, se paa ham, se, hvor fuld af Liv, af Kraft, af
                         Skjønhed og af Glæde han er, hvor lig mig og dig – naar du er
                         god!«<!-- LEMMA SLUT -->. Med saa <pb n="486"/> lidt er <persName type="fictional">Adah</persName> gjort, at alle hendes Repliker
-                        tilsammen ikke vilde optage et Octavblad. Da <persName type="fictional">Kain</persName> skal vælge mellem Viden og Kjærlighed, siger hun: <ref target="n4712"/>»Vælg Kjærlighed, <persName type="fictional">Kain</persName>!«<!-- lemma slut --><ref target="n"/> Da <persName type="fictional">Kain</persName> har dræbt <persName type="fictional">Abel</persName> og
+                        tilsammen ikke vilde optage et Octavblad. Da <persName type="fictional" key="cain">Kain</persName> skal vælge mellem Viden og Kjærlighed, siger hun: <ref target="n4712"/>»Vælg Kjærlighed, <persName type="fictional" key="cain">Kain</persName>!«<!-- lemma slut --><ref target="n"/> Da <persName type="fictional" key="cain">Kain</persName> har dræbt <persName type="fictional">Abel</persName> og
                         staaer alene forbandet, og skyet som Morder, besvarer hun hans Udbrud <ref target="n4713"/>»Forlad mig!« med Ordene: »Alle have jo forladt
                         dig«<!-- LEMMA SLUT -->. Og denne Charakter har <persName key="george-gordon-byron">Byron</persName>
                         skabt næsten uden at fjerne sig fra Bibelordet, blot ved nu og da at lægge
                         det i en andens Mund. I Genesis siger
                         Kain<!-- her er det den bibelske Kain -->, da han forbandes af Herren: <ref target="n4715"/>»Denne Straf er mere end jeg kan taale o. s.
-                        v.«<!-- LEMMA SLUT --> Hos <persName key="george-gordon-byron">Byron</persName> staaer <persName type="fictional">Kain</persName>, da Engelens gruelige Forbandelse er
+                        v.«<!-- LEMMA SLUT --> Hos <persName key="george-gordon-byron">Byron</persName> staaer <persName type="fictional" key="cain">Kain</persName>, da Engelens gruelige Forbandelse er
                         falden, stum, men <persName type="fictional">Adah</persName> aabner sin Mund
                         og siger: <ref target="n4717"/>»Denne Straf er mere end han kan bære; se, du
                         driver ham ud af Landet og han maa skjule sig for Guds Aasyn; urolig og
@@ -11989,14 +11989,14 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                             <persName type="fictional">Julia</persName>
                         <pb n="497"/> følger Skibbruddet med al dets Hungersnød og Dødskval, paa
                         Skibbruddet den pragtfulde og smeltende Samklang af ungdommelig Elskov
-                        mellem <persName type="fictional">Juan</persName> og <persName type="fictional">Haidee</persName>, Livets høieste, frieste, sødeste
+                        mellem <persName type="fictional">Juan</persName> og <persName type="fictional" key="haidée">Haidee</persName>, Livets høieste, frieste, sødeste
                         Potents som saligt Liv – en nøgen og deilig Gruppe som den af Amor og
                         Psyche, men besjælet – over dem græske Nætters Maanelys, foran dem det
                         vinfarvede Hav, hvis melodiske Skvulpen ledsager deres Elskovsord, som Ramme
                         Grækenlands fortryllende Clima, og endelig for deres Fødder al Østens
                         asiatiske Pragt: høirødt Atlask, Guld, Krystal og Marmor. Og som alt dette
                         følger paa den yderste Livsfare og Afmagt, saaledes følger paa Festen i
-                            <persName type="fictional">Haidees</persName> Palads: for <persName type="fictional">Haidee</persName> Kval, saa hendes Hjerte brister, for
+                        <persName type="fictional" key="haidée">Haidees</persName> Palads: for <persName type="fictional" key="haidée">Haidee</persName> Kval, saa hendes Hjerte brister, for
                             <persName type="fictional">Juan</persName> en braaden Pande, snærende
                         Baand og Salg som Slave. Men som Slave sælges han til Serailet, og nu følger
                         den pudserlige Forklædning som Pige, hans Indførelse hos Favoritsultaninden
@@ -12054,17 +12054,17 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         Firmamentet en Klode, hvor Elskovens Sværmeri og de kannibalske Instincter
                         findes Side om Side, ja mødes paa samme Kvadrattomme Papir?
                             <persName key="george-gordon-byron">Byron</persName> svarer, at han kjender en: det er Jorden.</p>
-                    <p> Umiddelbart herefter føres vi til <persName type="fictional">Haidee</persName>. Hvad ere alle <persName key="george-gordon-byron">Byrons</persName> tidligere
+                    <p> Umiddelbart herefter føres vi til <persName type="fictional" key="haidée">Haidee</persName>. Hvad ere alle <persName key="george-gordon-byron">Byrons</persName> tidligere
                         græske Piger mod denne! Umodne og usikre Forsøg. Aldrig var i moderne Poesi
                         et vildt Naturbarns Elskov bleven skjønnere skildret.
-                            <persName key="johann-wolfgang-goethe">Goethes</persName> ypperste unge Kvinder <persName type="fictional">Gretchen</persName> og <persName type="fictional">Clärchen</persName> ere smaa Borgerpiger, og deres Holdning har med al
+                        <persName key="johann-wolfgang-goethe">Goethes</persName> ypperste unge Kvinder <persName type="fictional" key="margarethe-gretchen">Gretchen</persName> og <persName type="fictional" key="clarchen">Clärchen</persName> ere smaa Borgerpiger, og deres Holdning har med al
                         sin Adel det smaaborgerlige Præg; man føler, at deres Digter var en
                         Frankfurter-Borgersøn, for hvem Naturen aabenbarede sig i den lavere
                         Borgerstand ligesom Dannelsen i det smaatydske Hofliv. I
                             <persName key="george-gordon-byron">Byrons</persName> skjønneste Kvindeskikkelser er intet
                         Borgerligt; ingen borgerlig Sæd og Skik har tillempet den frie Naturlighed i
                         dem. Man føler, naar man læser om <persName type="fictional">Juan</persName>
-                        og <persName type="fictional">Haidee</persName>, at
+                        og <persName type="fictional" key="haidée">Haidee</persName>, at
                             <persName key="george-gordon-byron">Byron</persName> stammer ned fra
                         <persName key="jean-jacques-rousseau">Rousseau</persName>; men hvor føler man ikke ogsaa, at hans høie
                         og uafhængige sociale Stilling i Forening med hans store Skjæbner havde
@@ -12081,7 +12081,7 @@ With lightning eyes, and eager breath, and feet" -->.</p>
                         saae hinanden ind i Øiet, fløi deres Læber som to Flammer sammen i et Kys –
                         et langt, langt Kys, et Henrykkelsens Kys, et Elskovens og Skjønhedens Kys,
                         der i een Gløden samler alle Soles Straalers Kraft […] Hvo tænkte paa Ed og
-                        Skrupler, ikke <persName type="fictional">Haidee</persName>; om Forlovelser
+                        Skrupler, ikke <persName type="fictional" key="haidée">Haidee</persName>; om Forlovelser
                         og Ægtepagter havde Ingen nogensinde fortalt hende
                         Noget.«<!-- LEMMA SLUT -->
                     </p>
