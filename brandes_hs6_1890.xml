@@ -77,13 +77,15 @@
 
         <body>
 
-            <div type="half-title">
+            <!--  <div type="half-title">
                 <head><pb n="[3]"/>Det unge Tyskland</head>
-            </div>
+            </div>-->
+            <!-- forekommer ikke i 1.-trykket -->
 
 
             <div>
-                <head>I. <ref target="n"/>[Den politiske Baggrund.]</head>
+                <head type="add">1. Den politiske baggrund</head>
+                <head>I.<ref target="n"/></head>
 
                 <p> Over de tyske Lande rugede fra <ref target="n1879"/>den hellige
                     Alliances<!-- lemma slut --> Dage af den store systematiske Reaktion, som var
@@ -532,9 +534,10 @@
                         >Sie wird tanzen und somit ist grosse Freude und Beschäftigung vollauf [...]
                         die Mimik der Grazien der <persName key="marie-taglioni">Taglioni</persName>
                         haben die drohenden Zeichen der Zeit verdrängt.</note> Ordet Beskjæftigelse
-                    er her især betegnende. Sligt glædede ikke blot; det sysselsatte. (»<bibl n="rochow-preussen-und-frankreich-zur-zeit-der-julirevolution"
-                        >Preussen und Frankreich zur Zeit der Julirevolution. Vertraute Briefe des
-                        Generals von Rochow</bibl>« herausgegeben von E. Kelchner und K.
+                    er her især betegnende. Sligt glædede ikke blot; det sysselsatte. (»<bibl
+                        n="rochow-preussen-und-frankreich-zur-zeit-der-julirevolution">Preussen und
+                        Frankreich zur Zeit der Julirevolution. Vertraute Briefe des Generals von
+                        Rochow</bibl>« herausgegeben von E. Kelchner und K.
                     Mendelssohn-Bartholdy.)</p>
 
                 <p> I litterær Henseende svælgede den dalevende Slægt efter at <persName
@@ -574,7 +577,8 @@
                     Lystenhed.</p>
             </div>
             <div>
-                <head>II. [Videnskab og Reaktion.]</head>
+                <head type="add">2. Videnskab og reaktion</head>
+                <head>II.</head>
 
                 <p> Den tyske Videnskab, der efterat Romantikens Oversvømmelser havde befrugtet
                     Jordsmonet med sit Dynd, var skudt mægtigt i Vejret med alle sine Grene,
@@ -712,7 +716,8 @@
                     eller maatte synes mere fransk end tysk.</p>
             </div>
             <div>
-                <head>III. [Oppositionel Grundstemning.]</head>
+                <head type="add">3. Oppositionel grundstemning</head>
+                <head>III.</head>
 
                 <p> I de fremragende blandt denne Tidsalders frihedselskende Digtere og Skribenter
                     personificeres forskjellige af de nu berørte Afskygninger. <persName
@@ -826,7 +831,8 @@
                     Regelen den, som greb Sindene stærkest.</p>
             </div>
             <div>
-                <head>IV. [Julirevolutionens Indflydelse.]</head>
+                <head type="add">4. Julirevolutionens indflydelse</head>
+                <head>IV.</head>
 
                 <p> I denne Stillestaaen, denne Undertrykthed og denne Gjæring, med Elementer af
                     Selvopgiven og Haab, af Selvbespotten og Frihedsattraa, faldt nu i 1830 <ref
@@ -1256,8 +1262,8 @@
                     ogsaa i det tyske Folks politiske og aandelige Liv.</p>
             </div>
             <div>
-                <head>V. [Paavirkning af <persName key="george-gordon-byron"
-                    >Byron</persName>.]</head>
+                <head type="add">5. Påvirkning af Byron</head>
+                <head>V.</head>
 
                 <p> Tysklands klassiske Litteratur fra Tiden før og om Aarhundredeskiftet havde
                     været antikiserende i Stof eller Form; den romantiske Litteratur, som fulgte,
@@ -1400,7 +1406,8 @@
                     ledende Personligheders Sind.</p>
             </div>
             <div>
-                <head>VI. [Den ny Litteraturs Værdi.]</head>
+                <head type="add">6. Den nye litteraturs værdi</head>
+                <head>VI.</head>
 
                 <p> Under Forhold og Indflydelser som de fremstilte var det nu, at Tysklands
                     oppositionelle Litteratur mellem 1820 og 1848 blev startet. Naar man overskuer
@@ -1545,7 +1552,8 @@
                     er blevet af det Bedste, disse kjæmpede for. </p>
             </div>
             <div>
-                <head><pb n="53"/>VII. [<persName key="ludwig-borne">Börne</persName>.]</head>
+                <head type="add">7. Börne (1)</head>
+                <head><pb n="53"/>VII.</head>
 
                 <p> Blandt de Forfattere, som i Datiden stode i første Række, er neppe nogen bleven
                     skudt til Side som <persName key="ludwig-borne">Ludwig Börne</persName>. De
@@ -2153,19 +2161,19 @@
                     Det var en fremragende Læge, en klar Tænker og en dygtig Taler, Ven af <persName
                         key="gotthold-ephraim-lessing">Lessing</persName>, hvis Poesi han satte ikke
                     mindre højt end hans Kritik, hvorfor den romantiske Skoles, særligt <persName
-                        key="friedrich-von-hardenberg">Hardenbergs</persName>, Mystik var ham en
-                    Meningsløshed og en Gru. Da han døde allerede 1803, kunde han ikke faa nogen
-                    betydelig Indflydelse paa den unge <persName key="ludwig-borne"
-                        >Börnes</persName> Udvikling. Et des stærkere Indtryk paa Ynglingen gjorde
-                    hans berømte, sytten Aar yngre Hustru <persName key="henriette-herz"
-                        >Henriette</persName>, født Lemos, der kun tolv Aar gammel uadspurgt var
-                    bleven forlovet med ham. Udmærket smuk, overordentlig sprogkyndig, søgt af
-                    Datidens ypperste Videnskabsmænd og Skribenter i meget stort Antal, førte hun et
-                    af de mest omtalte, ansete, yndede Huse i <placeName key="berlin"
-                        >Berlin</placeName>. Hun var da 38 Aar gammel, <persName key="ludwig-borne"
-                        >Börne</persName> 16; men dette forhindrede naturligvis ikke det unge
-                    Menneske i at styrte sig hovedkulds ned i en haabløs Forelskelse i det
-                    skjønneste og ypperligste kvindelige Væsen, han endnu havde set.</p>
+                        key="novalis">Hardenbergs</persName>, Mystik var ham en Meningsløshed og en
+                    Gru. Da han døde allerede 1803, kunde han ikke faa nogen betydelig Indflydelse
+                    paa den unge <persName key="ludwig-borne">Börnes</persName> Udvikling. Et des
+                    stærkere Indtryk paa Ynglingen gjorde hans berømte, sytten Aar yngre Hustru
+                        <persName key="henriette-herz">Henriette</persName>, født Lemos, der kun
+                    tolv Aar gammel uadspurgt var bleven forlovet med ham. Udmærket smuk,
+                    overordentlig sprogkyndig, søgt af Datidens ypperste Videnskabsmænd og
+                    Skribenter i meget stort Antal, førte hun et af de mest omtalte, ansete, yndede
+                    Huse i <placeName key="berlin">Berlin</placeName>. Hun var da 38 Aar gammel,
+                        <persName key="ludwig-borne">Börne</persName> 16; men dette forhindrede
+                    naturligvis ikke det unge Menneske i at styrte sig hovedkulds ned i en haabløs
+                    Forelskelse i det skjønneste og ypperligste kvindelige Væsen, han endnu havde
+                    set.</p>
 
                 <p> Den dejlige <persName key="henriette-herz">Henriette</persName> var som
                     Personlighed allerede i det Ydre den skarpeste Kontrast til sin lille kloge og
@@ -2686,8 +2694,8 @@
                         n="lamennais-paroles-dun-croyant">En Troendes Ord</bibl>«.</p>
             </div>
             <div>
-                <head>VIII. [<persName key="ludwig-borne">Börne</persName> og <persName
-                        key="wolfgang-menzel">Menzel</persName>.]</head>
+                <head type="add">8. Börne og Menzel</head>
+                <head>VIII.</head>
 
                 <p> Uden denne Mangel paa poetisk-kunstnerisk Modtagelighed vilde <persName
                         key="ludwig-borne">Börnes</persName> Deltagelse i den af flere blandt
@@ -2799,7 +2807,7 @@
                     />Höflingsbekenntniss<!-- lemma slut -->), hvori han har røbet Opkomlingens
                     Forfængelighed, der søger det Fornemme hos Kvinderne.<note place="bottom"><ref
                             target="n995"/>Die Eitelkeit des Emporkömmlings, die in den Frauen
-                        zugleieh das Vornehme, das Königliche, begehrt.<!-- lemma slut --></note>
+                        zugleich das Vornehme, das Königliche, begehrt.<!-- lemma slut --></note>
                     Hvad moralsk <persName key="wolfgang-menzel">Menzel</persName> kan forebringe om
                         »<bibl n="goethe-die-mitschuldigen">Die Mitschuldigen</bibl>«, »<bibl
                         n="goethe-die-geschwister">Die Geschwister</bibl>«, i hvilken <ref
@@ -2814,7 +2822,7 @@
                     uværdige Ringeagt for Dydens indre Værdighed og Attraa efter Adelstandens ydre
                         Kaar.<note place="bottom"><ref target="n1001"/>Geadelt zu werden, im
                         Reichthum zugleich den <emph>haut goût</emph> der Vornehmigkeit in
-                        behaglicher Sicherheit zu geniessen, war ihm fur dieses Leben das
+                        behaglicher Sicherheit zu geniessen, war ihm für dieses Leben das
                         Höchste.<!-- lemma slut --></note> Endelig er »<bibl
                         n="goethe-die-wahlverwandtschaften-vol-1-2">Valgslægtskaberne</bibl>« ham
                     Typen paa en <ref target="n998"/>»Ægteskabsbrudsroman«<!-- lemma slut -->
@@ -3119,7 +3127,8 @@
                         key="johann-wolfgang-goethe">Goethe</persName>.</p>
             </div>
             <div>
-                <head><pb n="110"/> IX. [<persName key="ludwig-borne">Börne</persName>.]</head>
+                <head type="add">9. Börne (2)</head>
+                <head><pb n="110"/>IX.</head>
 
                 <p>
                     <persName key="ludwig-borne">Börne</persName> kulminerer som Forfatter med sine
@@ -3381,7 +3390,8 @@
                     meddele <persName key="ludwig-borne">Börne</persName> Vidnesbyrdene derom.</p>
             </div>
             <div>
-                <head>X. [<persName key="ludwig-borne">Börne</persName>.]</head>
+                <head type="add">10. Börne (3)</head>
+                <head>X.</head>
 
                 <p>
                     <ref target="n1369"/>Oprøret i Polen, der varede fra Vinteren 1830 til Sommeren
@@ -4069,7 +4079,8 @@
                     lignende Omfang eller paa samme Maade som sin store Forgjænger.</p>
             </div>
             <div>
-                <head>XI. [<persName key="heinrich-heine">Heine</persName>.]</head>
+                <head type="add">11. Heine (1)</head>
+                <head>XI.</head>
 
                 <p> Ogsaa for <persName key="heinrich-heine">Heinrich Heine</persName> er, som alt
                     berørt, i det nye tyske Rige Øjeblikket lidet gunstigt. Hvad man har at bebrejde
@@ -4135,15 +4146,14 @@
                 <p> Gammelpreusserne nærede Uviljens Mistro til Rhinlænderne, og disse gjengjældte
                     denne Følelse med Renter. Preusseren var og blev ved <placeName key="rhinen"
                         >Rhinen</placeName> noget Fremmed, Uhyggeligt. Om Sønnen, der tjente i
-                    Hæren, hed det: <ref target="n"/>»Han er hos Preusserne«<!-- lemma slut -->.
-                    Berlineren bar sig som Embedsmand i <placeName key="koln">Köln</placeName> eller
-                        <placeName key="dusseldorf">Düsseldorf</placeName> overmodigt ad, nedsatte
-                    Alt, og Rhinlænderen betragtede længe en Ansættelse i de gamle preussiske
-                    Provinser som en Forvisning til <placeName key="sibirien">Sibirien</placeName>.
-                    Overalt hørte man Klage over Preussernes Mangel paa Evne til at vinde Hjerterne
-                    i de Stammer, de havde tilerobret sig.<note place="bottom"><persName
-                            key="karl-mendelssohn-bartholdy">K. Mendelssohn-Bartholdy</persName>:
-                            <bibl
+                    Hæren, hed det: »Han er hos Preusserne«. Berlineren bar sig som Embedsmand i
+                        <placeName key="koln">Köln</placeName> eller <placeName key="dusseldorf"
+                        >Düsseldorf</placeName> overmodigt ad, nedsatte Alt, og Rhinlænderen
+                    betragtede længe en Ansættelse i de gamle preussiske Provinser som en Forvisning
+                    til <placeName key="sibirien">Sibirien</placeName>. Overalt hørte man Klage over
+                    Preussernes Mangel paa Evne til at vinde Hjerterne i de Stammer, de havde
+                    tilerobret sig.<note place="bottom"><persName key="karl-mendelssohn-bartholdy"
+                            >K. Mendelssohn-Bartholdy</persName>: <bibl
                             n="mendelssohn-bartholdy-preussen-und-frankreich-zur-zeit-der-julirevolution"
                             >Preussen und Frankreich zur Zeit der Julirevolution</bibl>. S. XXV
                         ff.</note></p>
@@ -4439,14 +4449,14 @@
                         <persName key="viktor-hehn">Hehn</persName> vil man finde denne <persName
                         key="heinrich-heine">Heines</persName> politiske Kamp omtalt med dybeste
                     Foragt. Selv <persName key="wilhelm-scherer">Scherer</persName> er kold og
-                    afvisende. Ja, da <ref target="n4185"/>den italienske Digter <persName
-                        key="giosue-carducci">Carducci</persName> for nogle Aar siden i en Ode
-                    forherligede <persName key="heinrich-heine">Heine</persName> som Frihedshelt,
-                    nedlagde endog <persName key="karl-hillebrand">Karl Hillebrand</persName>,
-                    Tysklands bedste Kritiker og <persName key="heinrich-heine">Heines</persName>
-                    tidligere Sekretær, der altid havde talt med Pietet og Beundring om den store
-                    Afdøde, en Art Protest<!-- lemma slut -->: <persName key="heinrich-heine"
-                        >Heine</persName> selv havde aldrig taget dette saa højtideligt.</p>
+                    afvisende. Ja, da den italienske Digter <persName key="giosue-carducci"
+                        >Carducci</persName> for nogle Aar siden i en Ode forherligede <persName
+                        key="heinrich-heine">Heine</persName> som Frihedshelt, nedlagde endog
+                        <persName key="karl-hillebrand">Karl Hillebrand</persName>, Tysklands bedste
+                    Kritiker og <persName key="heinrich-heine">Heines</persName> tidligere Sekretær,
+                    der altid havde talt med Pietet og Beundring om den store Afdøde, en Art
+                    Protest: <persName key="heinrich-heine">Heine</persName> selv havde aldrig taget
+                    dette saa højtideligt.</p>
 
                 <p> Sagen er først og fremmest, at <persName key="heinrich-heine">Heine</persName>
                     manglede <ref target="n1426"/>»de pathetiske Gebærder«<!-- lemma slut -->, var
@@ -4635,14 +4645,16 @@
                     klassiske Udtryk. Paa Bunden af sit Væsen er <persName key="heinrich-heine"
                         >Heine</persName> saa overbevist om det Modsatte, at han kan gaa til den
                     gale Yderlighed, i <persName key="nikolaj-1">Nikolaj</persName>, al Tvangs
-                    forstokkede Repræsentant i Datiden at se Frihedsmændenes Høvding i Europa. Men
-                        <persName key="nikolaj-1">Nikolaj</persName> var idetmindste en
-                    Personlighed, en Kraft. Og <persName key="heinrich-heine">Heine</persName> var
-                    Geni nok til at føle, det i sidste Instans ene <pb n="165"/> og alene kommer an
-                    paa Personligheder og Kræfter. Tallet gjør det ikke, Monarker gjør det heller
-                    ikke, end ikke Monarker i rigeligt Flertal. Derfor <persName
-                        key="heinrich-heine">Heines</persName> evige Løjer med de tre Dusin tyske
-                    Monarker.</p>
+                    forstokkede Repræsentant i <app>
+                        <lem>Datiden,</lem>
+                        <rdg wit="A">Datiden</rdg>
+                    </app> at se Frihedsmændenes Høvding i Europa. Men <persName key="nikolaj-1"
+                        >Nikolaj</persName> var idetmindste en Personlighed, en Kraft. Og <persName
+                        key="heinrich-heine">Heine</persName> var Geni nok til at føle, det i sidste
+                    Instans ene <pb n="165"/> og alene kommer an paa Personligheder og Kræfter.
+                    Tallet gjør det ikke, Monarker gjør det heller ikke, end ikke Monarker i
+                    rigeligt Flertal. Derfor <persName key="heinrich-heine">Heines</persName> evige
+                    Løjer med de tre Dusin tyske Monarker.</p>
 
                 <p> Hvad <persName key="heinrich-heine">Heine</persName> ræddedes for, var maaske
                     først et Liv uden Skjønhed. <ref target="n2212"/>Den Fourier’ske
@@ -4678,7 +4690,8 @@
                     Middelmaadigheds Alter.</p>
             </div>
             <div>
-                <head>XII. [<persName key="heinrich-heine">Heine</persName>.]</head>
+                <head type="add">12. Heine (2)</head>
+                <head>XII.</head>
 
                 <p> Den sandsynligste Datum for <persName key="heinrich-heine">Heinrich
                         Heines</persName> Fødsel er 13. December <app>
@@ -4978,7 +4991,8 @@
                     store digteriske Evner.</p>
             </div>
             <div>
-                <head><pb n="177"/>XIII. [<persName key="heinrich-heine">Heine</persName>.]</head>
+                <head type="add">13. Heine (3)</head>
+                <head><pb n="177"/>XIII.</head>
 
                 <p> Den Bog, der i vore Dage er <persName key="heinrich-heine">Heines</persName>
                     mest populære og til hvilken hans Navn især er knyttet, <bibl
@@ -5614,7 +5628,8 @@
                     Menneskes lystige Rus.</p>
             </div>
             <div>
-                <head>XIV. [<persName key="heinrich-heine">Heine</persName>.]</head>
+                <head type="add">14. Heine (4)</head>
+                <head>XIV.</head>
 
                 <p> Det er umuligt for en Nordbo, i modnere Aar og med en nogenlunde sikker
                     kunstnerisk Dannelse at fordybe sig i <persName key="heinrich-heine">Heinrich
@@ -5794,11 +5809,14 @@
                     herskende i hin romantiske Skole, i hvilken jeg har tilbragt mine behageligste
                     Ungdomsaar og tilsidst har banket Skolemesteren.«<!-- lemma slut --> Og dog er
                     det Romantiske her kun det rige funklende Gevandt, <pb n="203"/> hvori den
-                    moderne Aand hyller og maskerer sig for tilsidet at lade det falde. Ingen af
-                    Romantikens Elementer fattes: Dyrene tale, Bjørne udvexle deres Tanker, vi er
-                    Vidne til en Moppes Hjerteudgydelse og vi føres overhovedet ned i et stort af
-                    Legenden behandlet Sceneri, <placeName key="roncesvallesdalen"
-                        >Roncesvallesdalen</placeName>. End ikke den blaa Blomst mangler:</p>
+                    moderne Aand hyller og maskerer sig for <app>
+                        <lem>tilsidst</lem>
+                        <rdg wit="A">tilsidet</rdg>
+                    </app> at lade det falde. Ingen af Romantikens Elementer fattes: Dyrene tale,
+                    Bjørne udvexle deres Tanker, vi er Vidne til en Moppes Hjerteudgydelse og vi
+                    føres overhovedet ned i et stort af Legenden behandlet Sceneri, <placeName
+                        key="roncesvallesdalen">Roncesvallesdalen</placeName>. End ikke den blaa
+                    Blomst mangler:</p>
 
                 <cit>
                     <quote><lg>
@@ -5995,9 +6013,8 @@
                     fuldtbelyst.</p>
             </div>
             <div>
-                <head>XV. [<persName key="heinrich-heine">Heine</persName>. <persName
-                        key="heinrich-heine">Heine</persName> og <persName
-                        key="johann-wolfgang-goethe">Goethe</persName>.]</head>
+                <head type="add">15. Heine. Heine og Goethe</head>
+                <head>XV.</head>
 
                 <p> Vi have set, at <persName key="heinrich-heine">Heine</persName> som Student i
                         <placeName key="bonn">Bonn</placeName> blev i høj Grad henrevet af den
@@ -6464,7 +6481,10 @@
                     <quote><lg>
                             <l><ref target="n1513"/>Freudvoll und leidvoll,</l>
                             <l>Gedankenvoll sein,</l>
-                            <l>Hangen und bangen</l>
+                            <l><app>
+                                    <lem>Langen</lem>
+                                    <rdg wit="A">Hangen</rdg>
+                                </app> und bangen</l>
                             <l>In schwebender Pein,</l>
                             <l>Himmelhoch jauchzend,</l>
                             <l>Zum Tode betrübt osv.<!-- lemma slut --></l>
@@ -6576,9 +6596,10 @@
                     Elskovstaknemmelighed, for indbyrdes Forstaaen. For dette vinder <persName
                         key="heinrich-heine">Heine</persName> først Udtryk under Skyggelidenskaben
                     for <persName key="camilla-elise-von-krinitz-selden">den unge Kvinde</persName>,
-                    der var Engelen ved hans Dødsleje, <emph>la Mouche</emph>. Ellers er det aldrig
-                    det i Kjærligheden, som er Sundhed, Beroligelse, Lykke, der er hans Sag. Det
-                    Omraade, hvor han er Herre, er et andet:</p>
+                    der var Engelen ved hans Dødsleje, <ref target="n5165"/><emph>la
+                    Mouche</emph><!-- lemma slut -->. Ellers er det aldrig det i Kjærligheden, som
+                    er Sundhed, Beroligelse, Lykke, der er hans Sag. Det Omraade, hvor han er Herre,
+                    er et andet:</p>
 
                 <p> Den lidenskabelige Attraa gjengiver han som moderne Poet med en <persName
                         key="antonio-allegri-da-correggio">Correggio</persName>’agtig
@@ -6595,7 +6616,10 @@
                             <l>Du reife Pomeranze!</l>
                             <l>Du süsse Pomeranze!</l>
                             <l>Ich schüttle, fühl’, ich schüttle,</l>
-                            <l>O fall in meinen Schoos!<!-- lemma slut --></l>
+                            <l>O fall in meinen <app>
+                                    <lem>Schooss</lem>
+                                    <rdg wit="A">Schoos</rdg>
+                                </app>!<!-- lemma slut --></l>
                         </lg></quote>
                 </cit>
 
@@ -7029,8 +7053,8 @@
                     hidsende Drikke end til simpel Næring og ren Vin.</p>
             </div>
             <div>
-                <head>XVI. [<persName key="heinrich-heine">Heine</persName> og <persName
-                        key="aristofanes">Aristofanes</persName>.]</head>
+                <head type="add">16. Heine og Aristofanes</head>
+                <head>XVI.</head>
 
                 <p>Vistnok Intet har i Efterverdenens almindelige Omdømme skadet <persName
                         key="heinrich-heine">Heine</persName> mere end hans Aabenmundethed paa det
@@ -7771,7 +7795,8 @@
                     tilhørte.</p>
             </div>
             <div>
-                <head>XVII. [<persName key="heinrich-heine">Heine</persName>.]</head>
+                <head type="add">17. Heine (5)</head>
+                <head>XVII.</head>
 
                 <p>
                     <persName key="heinrich-heine">Heines</persName> Prosa staar ikke i Højde med
@@ -8012,8 +8037,8 @@
                     fyldig og skjælvende moderne i sin betagende halvt syge Blødhed.</p>
             </div>
             <div>
-
-                <head>XVIII. [Partitagen i Poesien.]</head>
+                <head type="add">18. Partitagen i poesien</head>
+                <head>XVIII.</head>
 
                 <p>
                     <persName key="ludwig-borne">Börne</persName> og saare Mange efter ham have
@@ -8316,7 +8341,8 @@
                     Daarskab og Ondskab have udvist af Fædrelandet.</p>
             </div>
             <div>
-                <head>XIX. [<persName key="karl-immermann">Immermann</persName>.]</head>
+                <head type="add">19. Immermann</head>
+                <head>XIX.</head>
 
                 <p>Kjenderne af <persName key="heinrich-heine">Heines</persName> Skrifter og Breve
                     ville have bemærket det inderlige Venskab og Vaabenbroderskab, der i hans Ungdom
@@ -8756,17 +8782,18 @@
                     fire Gange hundredtusind Fyrster.«<!-- lemma slut --></p>
 
                 <p>Hvor Bogen slutter, føle vi, at nu, da Hemmeligheden er røbet og Sværdet borte,
-                    vil Fristolen gaa ind. Men Forfatteren har næsten direkte udtalt sin Mening med
-                    dette Parti af Handlingen, idet han lader den forstandige <persName
-                        type="fictional" key="diakonus">Diaconus</persName> udtale, at <pb n="295"/>
-                    det Selvstændighedens Ord, som denne Bonde og hans Venner have fundet og formet,
-                    det er det virkelige Løsen, som ikke gaar tabt, selv om det røbes, og at den
-                    Ide, de have sluttet sig om, nemlig at Mennesket afhænger af sin Næste, ikke af
-                    Fremmede, der paa forkunstlet Maade drive deres Spil med ham, ikke behøver <ref
-                        target="n2335"/>Stenene under gamle Linde<!-- lemma slut --> for at være i
-                    sin gode Ret. For ham er endelig selve Storbonden, dette gamle vældige Menneske,
-                        <persName key="karl-den-store">Karl den Stores</persName> sande Sværd, som
-                    ingen Tyvshaand kan stjæle, Rigets sande Marv.</p>
+                    vil <ref target="n5176"/>Fristolen<!-- lemma slut --> gaa ind. Men Forfatteren
+                    har næsten direkte udtalt sin Mening med dette Parti af Handlingen, idet han
+                    lader den forstandige <persName type="fictional" key="diakonus"
+                        >Diaconus</persName> udtale, at <pb n="295"/> det Selvstændighedens Ord, som
+                    denne Bonde og hans Venner have fundet og formet, det er det virkelige Løsen,
+                    som ikke gaar tabt, selv om det røbes, og at den Ide, de have sluttet sig om,
+                    nemlig at Mennesket afhænger af sin Næste, ikke af Fremmede, der paa forkunstlet
+                    Maade drive deres Spil med ham, ikke behøver <ref target="n2335"/>Stenene under
+                    gamle Linde<!-- lemma slut --> for at være i sin gode Ret. For ham er endelig
+                    selve Storbonden, dette gamle vældige Menneske, <persName key="karl-den-store"
+                        >Karl den Stores</persName> sande Sværd, som ingen Tyvshaand kan stjæle,
+                    Rigets sande Marv.</p>
 
                 <p> Man mærke, at dette er skrevet af en Digter, som var juridisk Embedsmand og en
                     preussisk Embedsmands Søn.</p>
@@ -9018,7 +9045,8 @@
                     Europa.</p>
             </div>
             <div>
-                <head>XX. [Hegelianismen.]</head>
+                <head type="add">20. Hegelianismen</head>
+                <head>XX.</head>
 
                 <p> Det var den Hegelske Filosofi, der i Forening med <ref target="n2348"
                     />Julirevolutionen<!-- lemma slut --> tvang Aanderne ind i den moderne Histories
@@ -9433,7 +9461,8 @@
                     Filosofi.</p>
             </div>
             <div>
-                <head>XXI. [Den nye Gruppe.]</head>
+                <head type="add">21. Den nye gruppe</head>
+                <head>XXI.</head>
 
                 <p> Kommer man fra det altomfattende Blik hos <persName
                         key="georg-wilhelm-friedrich-hegel">Hegel</persName>, den høje Kunst hos
@@ -10156,9 +10185,8 @@
                     Forgrundsfigurerne som i gamle Tragedier Misunderen og Spionen til Helten.</p>
             </div>
             <div>
-                <head>XXII. [<persName key="karl-gutzkow">Gutzkow</persName>, <persName
-                        key="heinrich-laube">Laube</persName>, <persName key="theodor-mundt"
-                        >Mundt</persName>.]</head>
+                <head type="add">22. Gutzkow, Laube, Mundt</head>
+                <head>XXII.</head>
 
                 <p> Forbundsraadets Beslutning om Undertrykkelse af det unge Tysklands Skrifter
                     kvalte ikke blot i Fødselen den lovede »<bibl>Deutsche Revue</bibl>«, men ogsaa
@@ -10670,8 +10698,8 @@
                 <p> Af <persName key="karl-gutzkow">Gutzkows</persName> øvrige Dramer fra Fyrrerne
                     er »<bibl n="gutzkow-das-urbild-des-tartuffe">Das Urbild des Tartüffe</bibl>«
                     det, som har gjort mest Lykke, men det er et saare overvurderet Arbejd. Meget
-                    nydeligt er derimod det fordringsløse Lejlighedsskuespil <bibl
-                        n="gutzkow-der-konigslieutnant">Der Königslieutenant</bibl>, som behandler
+                    nydeligt er derimod det fordringsløse Lejlighedsskuespil »<bibl
+                        n="gutzkow-der-konigslieutnant">Der Königslieutenant</bibl>«, som behandler
                         <persName key="johann-wolfgang-goethe">Goethe</persName> i halvvoxen Alder
                     og som blev skrevet til hans Hundredaarsfest.</p>
 
@@ -10997,8 +11025,8 @@
                     overlevet ham, og det er Gjenstandens Skyld. Han kunde være baade hvas og bidsk
                     og uretfærdig, som svage Naturer tidt ere eller blive det, men selv hans
                     hvasseste Udfald er ikke Udbrud af noget krigerisk Naturel, kun Selvforsvar og
-                    Selvhævdelse, grundet paa Misforstaaen af en Modpart, kun ufarlige Stød af en
-                    rasende Bede.</p>
+                    Selvhævdelse, grundet paa Misforstaaen af en Modpart, kun <ref target="n5136"
+                    />ufarlige Stød af en rasende Bede<!-- lemma slut -->.</p>
 
                 <p>Det overrasker den moderne Læser, at et Arbejde som <persName key="theodor-mundt"
                         >Mundts</persName> »<bibl
@@ -11032,7 +11060,7 @@
                     Liv og Levnet. Forfatteren træffer hende i en lille bøhmisk Landsby, standser
                     slagen over hendes sælsomme Skjønhed, da han ser hende paa Gaden som
                     Deltagerinde i en katholsk Procession. Ved et Tilfælde tyer han senere paa Dagen
-                    netop ind i hendes gamle Faders Hus, vinder (ret forrykt) den gamle bonerte
+                    netop ind i hendes gamle Faders Hus, vinder (ret forrykt) den gamle bornerte
                     Mands Hjerte ved den Salvelse, hvormed han fortæller ham om <persName
                         key="giovanni-giacomo-casanova">Casanova</persName>, der har levet der i
                     Egnen paa Slottet <placeName key="dux">Dux</placeName>, opnaar en Indbydelse til
@@ -11188,7 +11216,7 @@
                         key="benjamin-franklin">Franklin</persName>, <persName
                         key="thadeusz-kosciuszko">Kosciuszko</persName>. I Almanakkerne fordrer han
                     Maaneden Juli’s Navn trykt med røde Bogstaver for at holde Erindringen frisk om
-                    den gloværdige <ref target="n2640"/>Julirevolution<!-- lemma slut -->, og han
+                    den glorværdige <ref target="n2640"/>Julirevolution<!-- lemma slut -->, og han
                     haaber, at »alle Ædle« ville forene sig om at lade Substantiverne Fyrste, Herre,
                     Konge, Hertug, Greve, Junker osv. trykke med smaa Forbogstaver for saaledes at
                     vise Ringeagt for disse Begreber.</p>
@@ -11204,7 +11232,7 @@
                     allerede har bemægtiget sig de fleste og mest <pb n="382"/> læste Blade, er de i
                     Stand til at stifte et usynligt og dog aabenbart Forbund, der strækker sig over
                     hele Tyskland, slaar enhver Forfatter ned, der ikke hører til dem, og ved
-                    hensynsløs brug af den gjensidige Lovprisning driver dem alle i Vejret.<note
+                    hensynsløs Brug af den gjensidige Lovprisning driver dem alle i Vejret.<note
                         place="bottom"><persName key="ludwig-tieck">L. Tieck</persName>: »<bibl
                             n="tieck-gesammelte-novellen-vol-1">Gesammelte Novellen</bibl>«. Breslau
                         1835, I. 38, 79.</note></p>
@@ -11217,9 +11245,8 @@
                         <placeName key="berlin">Berlin</placeName>.</p>
             </div>
             <div>
-                <head>XXIII. [<persName key="rahel-varnhagen-von-ense">Rahel</persName>, <persName
-                        key="bettina-bettine-von-arnim">Bettina</persName>, <persName
-                        key="charlotte-stieglitz">Charlotte Stieglitz</persName>.]</head>
+                <head type="add">23. Rahel, Bettina, Charlotte Stieglitz</head>
+                <head>XXIII.</head>
 
                 <p>Hverken Fremstilling af Forholdet mellem Litteraturen og Politiken eller den af
                     de litterære Begivenheders Gang eller Tegning af de vigtigste Mandskarakterer i
@@ -11231,7 +11258,7 @@
                     under Vejr med, hvorledes der i en vis Tidsalder aandeligt er <pb n="383"/>
                     bleven <emph>levet</emph>, saa maa man stræbe at komme de følende Personligheder
                     saa nær som muligt, og man maa ikke forsømme at fuldstændiggjøre det Indtryk,
-                    man modtager ved Iagtagelse af Tidens ledende Mænd med Studiet af periodens
+                    man modtager ved Iagtagelse af Tidens ledende Mænd med Studiet af Periodens
                     typiske Kvindeskikkelser.</p>
 
                 <p>Hvor der føles mere og virkes mindre, hvor Formningsevnen er for svag til at
@@ -11366,7 +11393,7 @@
                         key="friedrich-von-gentz">Friedrich Gentz</persName>; hun lykønsker ham med
                     Varme, da han, over 60 Aar gammel, har vundet <persName key="fanny-elssler"
                         >Fanny Elslers</persName> Kjærlighed; hun ser i ham det lysende Prosatalent
-                    og Politikeren, der i et algjørende Øjeblik havde havt national Betydning.
+                    og Politikeren, der i et afgjørende Øjeblik havde havt national Betydning.
                     Menneskene er for hende paa Goethe’sk Vis Naturprodukter.</p>
 
                 <p> At hun imidlertid, strængt sædelig og politisk frihedselskende, som hun var,
@@ -12342,8 +12369,8 @@
                     der stræbe at bryde den politiske Frihed en Vej.</p>
             </div>
             <div>
-                <head>XXIV. [Tronskiftet i <placeName key="preussen">Preussen</placeName>, <persName
-                        key="friedrich-wilhelm-4">Fr. Wilhelm IV</persName>.]</head>
+                <head type="add">24. Tronskiftet i Preussen, Fr. Wilhelm IV</head>
+                <head>XXIV.</head>
 
                 <p> Ved Aaret 1840 træder den litterære Bevægelse ind i et nyt Stadium, et mere
                     filosofisk og politisk. Endnu en Generation var skudt i Vejret, som skyldte
@@ -13246,8 +13273,8 @@
                         S. 237 ff., 367, 516 og II. 379 ff.</note>.</p>
             </div>
             <div>
-
-                <head>XXV. [Den neutrale Litteratur.]</head>
+                <head type="add">25. Den neutrale litteratur</head>
+                <head>XXV.</head>
 
                 <p> Alligevel var og blev <persName key="friedrich-wilhelm-4">Fr. Wilhelm
                         IV.</persName> den aandrigste Konge i Datidens Europa, lagde i sine <pb
@@ -13824,7 +13851,8 @@
                     Veje.</p>
             </div>
             <div>
-                <head>XXVI. [Politisk Lyrik, filosofisk Revolution.]</head>
+                <head type="add">26. Politisk lyrik, filosofisk revolution</head>
+                <head>XXVI.</head>
 
                 <p> Blandt <persName key="anastasius-alexander-von-auersperg-grun">Anastasius
                         Grün’s</persName> (<persName key="anastasius-alexander-von-auersperg-grun"
@@ -14089,7 +14117,7 @@
                 <cit>
                     <quote><ref target="n2887"/><lg>
                             <l>O, sie will es nie begreifen, ihre Prosa und Gemeinheit,</l>
-                            <l>Dass ein Geist wie Du, ein Name, bürgt fur der Gesinnung
+                            <l>Dass ein Geist wie Du, ein Name, bürgt für der Gesinnung
                                 Reinheit,</l>
                             <l>Nur das Schlechte glaubt sie willig o. s. v.</l>
                         </lg><!-- lemma slut --></quote>
@@ -14217,9 +14245,9 @@
 
                 <cit>
                     <quote><ref target="n2892"/><lg>
-                            <l>Warum er nicht schlaft? warum er in Wuth die Spitzen am Hemde
+                            <l>Warum er nicht schläft? warum er in Wuth die Spitzen am Hemde
                                 zerrissen?</l>
-                            <l>Ein gutes Gewissen schlaft überall gut, und nirgends ein schlechtes
+                            <l>Ein gutes Gewissen schläft überall gut, und nirgends ein schlechtes
                                 Gewissen.</l>
                             <l>Er hat an des Landes Mark, die Schlang’, sich voll gefressen,
                                 gesogen,</l>
@@ -14550,7 +14578,8 @@
                     havt.</p>
             </div>
             <div>
-                <head>XXVII. [Den revolutionære Poesi.]</head>
+                <head type="add">27. Den revolutionære poesi (1)</head>
+                <head>XXVII.</head>
 
                 <p> Det dybeste Særkjende for hvad der beholdt Navnet af
                         <emph>Bevægelseslitteratur</emph>
@@ -14956,7 +14985,8 @@
                     Landets officielle Magthavere. Fremtiden tilhører alene det. <pb n="514"/></p>
             </div>
             <div>
-                <head>XXVIII. [Den revolutionære Poesi.]</head>
+                <head type="add">28. Den revolutionære poesi (2)</head>
+                <head>XXVIII.</head>
 
                 <p> Der gaves opadstræbende Aander, virkelige Digtere, som stode afsides fra
                     Litteraturens almindelige Bane i disse Aar. Det var Mænd som den udmærkede
@@ -15503,7 +15533,8 @@
                     1848.</p>
             </div>
             <div>
-                <head><pb n="533"/>XXIX. [Revolutionen.]</head>
+                <head type="add">29. Revolutionen</head>
+                <head><pb n="533"/>XXIX.</head>
 
                 <cit>
                     <quote><ref target="n2942"/><lg>
@@ -15579,7 +15610,7 @@
 
                 <p> Under saadanne Forhold havde Borgerstandens politiske Førere let ved at rive
                     deres Standsfæller med sig, og i Haab om forbedrede Vilkaar og i Had til den
-                    herskende Politivilkaarliglied fulgte Arbejderstanden overalt i Borgerstandens
+                    herskende Politivilkaarlighed fulgte Arbejderstanden overalt i Borgerstandens
                     Spor.</p>
 
                 <p> Den nulevende Slægt forstaar ikke mere 1848’s Stemning. Den Stemning, som
@@ -16158,7 +16189,7 @@
                         <lg>
                             <l>Durchs grosse, ungläubige <placeName key="altberlin"
                                     >Altberlin</placeName> gehn wunderbare Witze,</l>
-                            <l>Ein König hült sich in Schwarz-Roth-Gold und stellt sich an
+                            <l>Ein König hüllt sich in Schwarz-Roth-Gold und stellt sich an
                                 Deutschlands Spitze,</l>
                             <l>Ein König wird Ober-Demagog mit deutsch einheitlicher Sendniss,</l>
                             <l>Doch Deutschland lacht und ruft mit Macht: Das ist ein
@@ -16461,7 +16492,8 @@
                 <p> Det er Jubelaaret, Sørgeaaret, Grænseaaret.</p>
             </div>
             <div>
-                <head>XXX. [Slutning.]</head>
+                <head type="add">30. Slutning</head>
+                <head>XXX.</head>
 
                 <p> Det er et stort Maleri, som under Studiet af de oppositionelle, tilsidst
                     revolutionære, Følelser og <pb n="565"/> Tanker i Tyskland fra 1815 til 1848,
