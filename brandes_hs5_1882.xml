@@ -513,7 +513,7 @@
           Tid, hvor de havde deres første Sammenkomster i hin <placeName>Rue
             Notre-Dame-des-Champs</placeName>, hvor <persName>Hugo</persName> og hans unge, smukke
             <persName>Frue</persName> førte Hus for deres 2000 Francs Pension, eller paa Tagkammeret
-          hos <persName>Petrus Borel</persName>, hvor Værtens <persName type="fictional"
+          hos <persName>Petrus Borel</persName>, hvor Værtens <persName type="fictional" key="hernani"
             >Hernani</persName>-Slængkappe delte Væggen med en Skitse af
             <persName>Devéria</persName> og en Copi efter <persName>Giorgione</persName>, og hvor de
           unge Romantikere samledes halvt siddende, halvt staaende, thi til et mageligt Sæde var
@@ -696,13 +696,13 @@
           bygget dualistisk Romantik. »Salamanderen fremhæver Undinen, Gnomen forskjønner Sylfen«,
           siger han. Han ønskede Natursandhed, men han mente at opnaae denne ved Sammenbøjning af
           Naturens Yderender, ved Sammenlægning af to Abstractioner: Skjønheden og Dyret, <persName
-            type="fictional">Esmeralda</persName> og <persName type="fictional"
+            type="fictional" key="esmeralda">Esmeralda</persName> og <persName type="fictional" key="quasimodo"
           >Quasimodo</persName>, Courtisanens Fortid og den reneste Elskov hos <persName
-            type="fictional">Marion de Lorme</persName>, Blodtørst og Moderømhed hos <persName
-            type="fictional">Lucretia Borgia</persName>.</p>
+            type="fictional" key="marion-delorme">Marion de Lorme</persName>, Blodtørst og Moderømhed hos <persName
+              type="fictional" key="lucrèce-borgia">Lucretia Borgia</persName>.</p>
 
         <p>Naturen stod saa at sige i denne hans tidlige Ungdom for ham som den store <persName
-            type="fictional">Ariel</persName>-<persName type="fictional">Kaliban</persName>, som
+          type="fictional" key="ariel">Ariel</persName>-<persName type="fictional" key="caliban">Kaliban</persName>, som
           Summen af en overmenneskelig Idealitet og en unaturlig Dyriskhed, altsaa som Addition af
           to Overnaturligheder. Det var den tydsk-nordiske Romantiks Naturbegreb, der dog
           efterhaanden hos <persName>Hugo</persName> veg for den storartede Pantheisme, der har
@@ -739,7 +739,7 @@
           Gjøglere opslaaet deres Barak. Denne Antithese af Markskrigeri og Begravelse bestyrkede
           ham i hans Idee om et Theater, i hvilket Extremerne berørte hinanden, og det var dèr, at
           tredie Akt af »<bibl>Marion de Lorme</bibl>« faldt ham ind, hvor <persName
-            type="fictional">Marquisen af Nangis’</persName> sorgfulde og frugtesløse Forsøg paa at
+            type="fictional" key="marquisen-af-nangis">Marquisen af Nangis’</persName> sorgfulde og frugtesløse Forsøg paa at
           frelse sin Broder fra Skafottet danner Modsætning til Narrens Grimacer.« I selve Fortalen
           til »<bibl>Cromwell</bibl>« hedder det, hvor han forfægter Nødvendigheden af at fremstille
           Handlingen paa den sande historiske Lokalitet: »Skulde Digteren vove at lade
@@ -881,7 +881,7 @@
           og som viste sig midt i <placeName>Paris</placeName> ved høilys Dag foran Theatrets
           Indgang med de forskjelligste Aarhundreder og de forskjelligste Lande paa deres Hoveder og
           deres Rygge.« Deres Fanatisme for <persName>Hugo</persName> var fuldt saa stor som
-            <persName type="fictional">Hernani’s</persName> Røverbandes for Chefen. De vidste, at
+          <persName type="fictional" key="hernani">Hernani’s</persName> Røverbandes for Chefen. De vidste, at
             <persName>Hugo</persName> i et anonymt Brev var bleven truet med Døden, »hvis han ikke
           tog sit skidne Stykke tilbage«, og hvor usandsynligt det end var, at Truslen burde
           opfattes bogstaveligt, fulgte to af dem hver Aften <persName>Hugo</persName> til og fra
@@ -922,7 +922,7 @@
           korrekte, velklædte, i deres Halsbind og Fadermordere. Og nu som Contrast denne Ungdom i
           Parkettet, En med et Haar, der naaede til Bæltet, og i purpurrød Atlaskestrøie, En med en
           Rubenshat og bare Hænder. De hadede det <pb n="45"/> store borgerlige Filisterium, som
-            <persName type="fictional">Hernani</persName> hadede <persName>Karl den
+          <persName type="fictional" key="hernani">Hernani</persName> hadede <persName>Karl den
             Femtes</persName> Tyranni. De følte sig; ogsaa de vare frie Røvere paa Bjergene,
           fattige, stolte, En med republikanske Drømme i sit Hjerte, de Fleste med en sand
           Gudsdyrkelse af Kunsten. Dèr stod de, næsten lutter Genier, <persName>Balzac</persName>,
@@ -933,24 +933,24 @@
           som hine Andre; de vare den Slægt, som faa Maaneder efter gjorde Julirevolutionen og i de
           nærmest følgende Aar gav Frankrig en Litteratur og Kunst af første Rang.</p>
 
-        <p>Saaledes saae de paa <persName type="fictional">Hernani</persName>. Og hvad saae de i den
-          anden Hovedfigur, <persName type="fictional">Kong Karl</persName><!-- Don Carlos --> af
+        <p>Saaledes saae de paa <persName type="fictional" key="hernani">Hernani</persName>. Og hvad saae de i den
+          anden Hovedfigur, <persName type="fictional" key="don-carlos">Kong Karl</persName><!-- Don Carlos --> af
           Spanien? Han er fra først af odiøs. Man troer ikke stort paa denne kolde, kloge Herskers
-          glødende Kjærlighed til <persName type="fictional">Donna Sol</persName>, og saa anvender
+          glødende Kjærlighed til <persName type="fictional" key="dona-Sol">Donna Sol</persName>, og saa anvender
           han endda uværdige Midler, Magt og Vold, for at erobre hende. Men Digteren har forstaaet
           at lade ham stige. Vi see stedse tydeligere, hvorledes en stor Ærgjerrighed fylder hans
           Bryst.</p>
 
-        <p>Det var <persName type="fictional">Carlos’</persName> Kæmpemonolog ved <persName>Karl den
+        <p>Det var <persName type="fictional" key="don-carlos">Carlos’</persName> Kæmpemonolog ved <persName>Karl den
             Stores</persName> Grav, som hin første Aften afgjorde Dramaets Skjæbne, og denne saa
           ofte kritiserede og spottede Monolog er i Virkeligheden en ung Mesters Værk. Det er, selv
           om man ikke vidste <pb n="46"/> det, let at see, hvor uhistorisk den er, hvor umuligt
-            <persName type="fictional">Karl den Femte</persName><!-- Don Carlos --> kunde tænke
+            <persName type="fictional" key="don-carlos">Karl den Femte</persName><!-- Don Carlos --> kunde tænke
           saaledes. Men den er interessant ved den Troskab, hvormed den afspeiler 1830-Tidens
           politiske Tanker og Drømme, og ved det politiske Geniblik, der røber sig i den. Det er den
           Art historisk Blik, som man undertiden forbauses over hos Digtere;
             <persName>Schiller</persName> har det i »<bibl>Fiesco</bibl>«, 21 Aar gammel. Hør
-            <persName type="fictional">Don Carlos’</persName> Skildring af Europa: En Bygning med to
+            <persName type="fictional" key="don-carlos">Don Carlos’</persName> Skildring af Europa: En Bygning med to
           Mennesker paa sine Tinder, to kaarne Høvdinge, som enhver født Konge maa underkaste sig,
           Keiseren og Paven. Næsten alle Stater ere arvelige og Herskermagten for saa vidt i
           Tilfældighedens Vold, men Folket har gjennem Valget undertiden sin Pave eller sin Keiser,
@@ -975,20 +975,20 @@
             <persName>Napoleon</persName>, man forgudede, var ikke Frankrigs Despot, men Kongernes
           og Kongemagtens Ydmyger. Keiseren betragtedes i Modsætning til Kongerne som det
           personificerede Folk, og derfor hørte hin unge Slægt med Sindsbevægelse det Sted i
-          Monologen, hvor <persName type="fictional">Karl</persName><!-- Don Carlos -->
+          Monologen, hvor <persName type="fictional" key="don-carlos">Karl</persName><!-- Don Carlos -->
           udraaber:</p>
 
         <p>»I Konger, seer ned under Eder; dèr er Folket, et Ocean, der ofte knuser en Trone; et
           Speil, i hvilket en Konge sjeldent seer sig forskjønnet.«</p>
 
         <p>Det er, som man seer, revolutionære, rent moderne Reminiscenser og Lignelser, der hvert
-          Øieblik gjennemfare <persName type="fictional">Karl den
+          Øieblik gjennemfare <persName type="fictional" key="don-carlos">Karl den
           Femtes</persName><!-- Don Carlos --> Sind. Han modnes lige overfor Graven til en
           Folkekeiser af den Art, hvorom den nyere Tid saa tidt har drømt, og den heftige
           Ærgjerrighed i hans Sjæl lutres gjennem Trangen til at løse uhyre Opgaver <pb n="48"/> og
           udføre uhørt Bedrift. Han, som fra først af var den ungdommelige Tilskuer saa antipathisk,
           og som ved sin brutale Attraa stod saa dybt under sin høisindede Rival <persName
-            type="fictional">Hernani</persName> og dennes stolte Elskerinde, ender med som Keiser at
+            type="fictional" key="hernani">Hernani</persName> og dennes stolte Elskerinde, ender med som Keiser at
           give Afkald og skaane, og med eet Slag blive de to Elskende ved Siden af ham smaa og
           ubetydelige i deres Lykke.</p>
 
@@ -1007,17 +1007,17 @@
           Uafhængighedskampens Skuespil. De vidste som Aander, at de historiske Formaal, de store
           Opgaver, den mandige Villie kun leve ved at næres med Sjælens fineste Følelser, fineste
           Længsler og Nydelser, der ofres og brændes paa Formaalets Alter – og derfor blev ogsaa
-            <persName type="fictional">Carlos</persName> forstaaet.</p>
+            <persName type="fictional" key="don-carlos">Carlos</persName> forstaaet.</p>
 
         <p>Men femte Akt er dog ved sin rent lyriske <pb n="49"/> Charakter som Vexelsang mellem de
           Elskende Stykkets Juvel. Her kom Elskoven til Orde, som Ungdommen følte den og ønskede den
           fremstillet. Denne Samtale paa Brudekammerets Tærskel, som de Elskende aldrig skulle
           betræde, denne Blanding af en Lykke, der er saa stærk, saa alvorlig, at den, som <persName
-            type="fictional">Hernani</persName> siger, fordrer Broncehjerter, hvori den kan grave
+            type="fictional" key="hernani">Hernani</persName> siger, fordrer Broncehjerter, hvori den kan grave
           sig ind, og af al Tilintetgjørelsens Rædsel, denne Sandselighed, der er kysk og musikalsk
           hos hende, ren og glødende hos ham, salig hos begge, dette overjordiske Sværmeri hos
-            <persName type="fictional">Donna Sol</persName>, og denne Trang til at glemme Fortiden
-          over Nuet og Freden i Nuet hos <persName type="fictional">Hernani</persName>, det var
+          <persName type="fictional" key="dona-Sol">Donna Sol</persName>, og denne Trang til at glemme Fortiden
+          over Nuet og Freden i Nuet hos <persName type="fictional" key="hernani">Hernani</persName>, det var
           Romantiken, som Ungdommen den Gang fordrede den og tiljublede den med Torden-Applaus.</p>
 
         <p>»<bibl>Hernani</bibl>« er som Drama høist ufuldkomment; det er et lyrisk-rhetorisk Værk
@@ -1080,12 +1080,12 @@
 
         <p><persName>Nodiers</persName> mest iøinefaldende Eiendommelighed som Digter er den, at han
           bestandig er 10-20 Aar forud for Litteraturens Bevægelser. Hans Roman »<bibl>Jean
-            Sbogar</bibl>« – en Røverhistorie om en Art illyrisk <persName type="fictional">Karl
+            Sbogar</bibl>« – en Røverhistorie om en Art illyrisk <persName type="fictional" key="karl-moor">Karl
             Moor</persName> – som han udkastede 1812 i <placeName>Illyrien</placeName> og udgav
           1818, er, skjøndt i og for sig temmelig uvirkelig og uinteressant, mærkværdig derved, at
           Digteren her saa længe før Proudhon, saa længe før den moderne Kommunismes Optræden i
           Europa har lagt sin Helt enkelte af dens mest slaaende Sofismer i Munden. <persName
-            type="fictional">Jean Sbogar</persName> skriver:</p>
+            type="fictional" key="jean-sbogar">Jean Sbogar</persName> skriver:</p>
 
         <p>»Den Fattiges Tyveri fra den Rige vilde, hvis man gik tilbage til Samfundstilstandens
           Oprindelse, kun være den retfærdige Tilbagevenden af et Stykke Sølv eller et Stykke Brød
@@ -1103,14 +1103,14 @@
           Pung. Du er Herre over mine Penge. Jeg er Herre over dit Liv. Giv mig Pengene, saa
           beholder du Livet.«</p>
 
-        <p><persName type="fictional">Jean Sbogar</persName> er, som man seer, ikke en almindelig,
+        <p><persName type="fictional" key="jean-sbogar">Jean Sbogar</persName> er, som man seer, ikke en almindelig,
           men en filosofisk Stratenrøver. Det mest realistiske Træk ved hans Skikkelse er det, at
           han bærer Guldringe i Ørene, og selv dette Træk havde <persName>Fru Nodier</persName> paa
           et Haar nær borttaget. <persName>Nodier</persName> rettede sig i Regelen blindt efter sin
           Hustrus Smag og Ønsker. Men naar han en Gang imellem havde en oprørsk Tilbøielighed og i
           den Anledning gjorde sin sædvanlige Underkastelse gjældende, pleiede <persName>Madame
             Nodier</persName> at sige: »Glem ikke, at du aldrig har villet ofre mig <persName
-            type="fictional">Jean Sbogars</persName> Ørenringe.« Man har paastaaet, at de litterære
+              type="fictional" key="jean-sbogar">Jean Sbogars</persName> Ørenringe.« Man har paastaaet, at de litterære
           Stridigheder i dette Ægteskab indskrænkede sig til Striden om dem.</p>
 
         <p>Denne lille Roman, som allerede var gaaet i Forglemmelse, da
@@ -1198,21 +1198,21 @@
           Dronning af Saba, som han (og efter ham <persName>Gérard de Nerval</persName>) saa tidt
           har besunget.</p>
 
-        <p>Den Verden, hvori han lever, det er den, <pb n="58"/> hvor <persName type="fictional"
-            >Oberon</persName> og <persName type="fictional">Titania</persName> opføre deres
+        <p>Den Verden, hvori han lever, det er den, <pb n="58"/> hvor <persName type="fictional" key="oberon"
+          >Oberon</persName> og <persName type="fictional" key="titania">Titania</persName> opføre deres
           romantiske Dandse, hvor Toner fra »<bibl>Tusind og een
-          Nat</bibl>«<!-- cit start og slut indsat --> klinge ind i <persName type="fictional"
-            >Ariels</persName> himmelske Orkester, hvor <persName type="fictional">Puk</persName>
+          Nat</bibl>«<!-- cit start og slut indsat --> klinge ind i <persName type="fictional" key="ariel"
+            >Ariels</persName> himmelske Orkester, hvor <persName type="fictional" key="puk">Puk</persName>
           reder sin Alfeseng i en Rosenknop, medens alle Blomster dufte stærkere i Sommernatten. Det
           er en Verden, hvor alle Figurerne fra det store, vaagne Liv forekomme, men grotesk
           forstørrede eller grotesk formindskede efter Barnets Fatteevne og Fantastens Behov.</p>
 
-        <p>Her er, siger <persName>Nodier</persName> selv etsteds, <persName type="fictional"
+        <p>Her er, siger <persName>Nodier</persName> selv etsteds, <persName type="fictional" key="odysseus"
             >Odysseus</persName>, den vidtbereiste, men han er svundet ind til <persName
             type="fictional">Tommeliden</persName>, hvis uhyre Reise bestaaer i, at han svømmer over
-          Mælkespanden; her er <persName type="fictional">Othello</persName>, den frygtelige
+          Mælkespanden; her er <persName type="fictional" key="othello">Othello</persName>, den frygtelige
           Kvindemorder, men hans Skjæg er fra sort bleven blaat, han er forandret til den
-          skrækkelige <persName type="fictional">Rolf Blaaskjæg</persName><!-- Barbe-bleu -->; her
+          skrækkelige <persName type="fictional" key="barbe-bleu">Rolf Blaaskjæg</persName><!-- Barbe-bleu -->; her
           er Figaro, den smidige Knægt, der gaaer de Fornemme saa kjækt under Øine, kun er han
           forvandlet til Hankat, men <persName type="fictional">den bestøvlede Kat</persName> er, om
           end mindre underholdende, psychologisk næsten lige saa interessant som han.</p>
@@ -1242,7 +1242,7 @@
         <p>Hans »<bibl>Ines de la Sierras</bibl>« er en Spøgelsehistorie, som forud for andre
           Spøgelsehistorier har Æmnets fuldendte Skjønhed. Det Indtryk af Rædsel, som den
           uforklarlige Aabenbaring vækker, er blandet med den Tiltrækning, som denne Aabenbarings
-          rørende Gratie udøver; det Yndige og det Rædselsfulde i <persName type="fictional">Ines de
+          rørende Gratie udøver; det Yndige og det Rædselsfulde i <persName type="fictional" key="ines-de-las-sierras">Ines de
             la Sierras’</persName> hemmeligheds<pb n="60"/>fulde Skikkelse neutralisere ikke
           hinanden, men virke i Forening med en eiendommelig Magt, og denne Forening er overhovedet
           Hemmeligheden ved denne Digters Effekter. Kun Skade, at <persName>Nodier</persName> har
@@ -1269,7 +1269,7 @@
           Visionens, Feberfantasiens ikke uberettigede Synspunkt.</p>
 
         <p>I <placeName>Granville</placeName> i <placeName>Normandiet</placeName> lever den
-          skikkelige Tømmermand <persName type="fictional"
+          skikkelige Tømmermand <persName type="fictional" key="michel"
           >Michel</persName><!-- la fée aux miettes -->, god og simpel af Hjertet. I Byen findes en
           lille gammel kvindelig Dværg, meget skrumpen og hæslig, som indsamler Resterne af
           Skolebørnenes Frokost og derfor kaldes »Feen, som samler Krummer«. Allerede for fire, fem
@@ -1282,35 +1282,35 @@
           Oldtiden var Dronning af Saba, og som Salomon elskede saa høit. I dette Billede af en
           deilig, magisk straalende og tillokkende Kvindeskikkelse forelsker Ynglingen sig; hvor han
           gaaer og staaer i Livet, møder hendes Navn ham, og vil han reise, hedder Skibet Dronningen
-          af Saba. Han vandrer om i Drømme om <persName type="fictional">Belkis</persName>, som vi
+          af Saba. Han vandrer om i Drømme om <persName type="fictional" key="belkis">Belkis</persName>, som vi
           Alle vandre om i Drømme om vor Chimære, vort Ideal, vor fixe Idee, der for de Andre er
           Galskab.</p>
 
         <p>Uskyldig anklaget for et Mord, der er begaaet i et Værtshus i samme Værelse, i hvilket
-          han sov, dømmes den stakkels <persName type="fictional">Michel</persName> til Døden. Han
+          han sov, dømmes den stakkels <persName type="fictional" key="michel">Michel</persName> til Døden. Han
           skal hænges, og føres under Pøbelens Hujen til Galgen. Da forkyndes det, at efter gammel
           Regel Livet kan skjænkes den Dødsdømte, i Fald nogen ung Kvinde vil forbarme sig over ham
-          og tage ham til Mand. Og see, der er <persName type="fictional">Folly-Girlfree</persName>,
+          og tage ham til Mand. Og see, der er <persName type="fictional" key="folly-girlfree">Folly-Girlfree</persName>,
           den lystige, kjønne Pige, der altid har holdt af ham; hun nærmer sig Skafottet, hun vil
           frelse hans Liv. Men han betænker sig. Ogsaa han holder meget af <persName
-            type="fictional">Folly-Girlfree</persName>, hun er god og smuk, men han elsker hende
+            type="fictional" key="folly-girlfree">Folly-Girlfree</persName>, hun er god og smuk, men han elsker hende
           ikke, elsker kun Een, brænder hemmelig for et aldrig seet Ideal, Feen <persName
-            type="fictional">Belkis</persName>. Han seer da ømt og taknemmeligt paa <persName
-            type="fictional">Folly</persName>, veier Pro og Contra, og – udbeder sig at maatte blive
+            type="fictional" key="belkis">Belkis</persName>. Han seer da ømt og taknemmeligt paa <persName
+            type="fictional" key="folly-girlfree">Folly</persName>, veier Pro og Contra, og – udbeder sig at maatte blive
           hængt. Denne Overveielse med Rebet om Halsen, dette »Bedre godt hængt end slet <pb n="63"
           /> gift«, som <persName>Shakspeare</persName> udtrykker det,<note place="bottom">Many a
             good hanging prevents a bad marriage. (»<bibl>What you will</bibl>« I, 5.)</note> er her
           gjennemtrukket med en elskelig Humor, med en naiv og ideal Livsfilosofi, der ikke glemmes,
           fordi den i Øieblikke er gaaet igjennem enhver Mands Hjerne.</p>
 
-        <p><persName type="fictional">Michel</persName> er alt ved at række Halsen frem, da under
+        <p><persName type="fictional" key="michel">Michel</persName> er alt ved at række Halsen frem, da under
           Støi og Skrig Feen, som samler Krummer, kommer styrtende med alle Byens Gadedrenge efter
           sig og bringer Beviset for den Dødsdømtes Uskyld. Han ægter hende af Taknemmelighed; men
           neppe har i Brudenatten Døren hermetisk lukket sig mellem ham og hans ældgamle Hustru, og
-          neppe har han lukket sine Øine, før <persName type="fictional">Belkis</persName> i sit
+          neppe har han lukket sine Øine, før <persName type="fictional" key="belkis">Belkis</persName> i sit
           Brudeslør nærmer sig hans Leie.</p>
 
-        <p>»Ak, <persName type="fictional">Belkis</persName>, jeg er gift, gift med Feen, som samler
+        <p>»Ak, <persName type="fictional" key="belkis">Belkis</persName>, jeg er gift, gift med Feen, som samler
           Krummer.«</p>
 
         <p>»Jeg er Feen, som samler Krummer.«</p>
@@ -1320,23 +1320,23 @@
         <p>»Det kommer af, at jeg strækker mig.«</p>
 
         <p>»Men dette pragtfulde, lokkede Guldhaar, som strømmer over dine Skuldre, <persName
-            type="fictional">Belkis</persName>? Det har Feen, som samler Krummer, ikke.«</p>
+            type="fictional" key="belkis">Belkis</persName>? Det har Feen, som samler Krummer, ikke.«</p>
 
         <p>»Nei, for det viser jeg kun min Mand.«</p>
 
-        <p>»Men Feens to store Hugtænder, o <persName type="fictional">Belkis</persName>, <pb n="64"
+        <p>»Men Feens to store Hugtænder, o <persName type="fictional" key="belkis">Belkis</persName>, <pb n="64"
           /> dem finder jeg ikke mellem dine friske og duftende Læber?«</p>
 
         <p>»Nei, det er en Luxus, som kun passer sig for Alderdommen.«</p>
 
         <p>»Og denne næsten dødbringende Salighed, som griber mig i din Favn, <persName
-            type="fictional">Belkis?</persName> den følte jeg aldrig hos Feen.«</p>
+            type="fictional" key="belkis">Belkis?</persName> den følte jeg aldrig hos Feen.«</p>
 
         <p>»Nej, det er ligefrem,« lyder det leende Svar, »for om Natten er alle Katte graa.«</p>
 
         <p>Og saaledes er hans Liv ved Dag og Nat delt mellem den vise, gamle Fe og den skjønne unge
           Dronning af Saba, indtil han endelig finder Alrunen, som synger, og, undsluppen fra
-          Sindssygehuset, stiger til Feens og <persName type="fictional">Belkis’</persName> Himmel
+          Sindssygehuset, stiger til Feens og <persName type="fictional" key="belkis">Belkis’</persName> Himmel
           under Alrunens Sang.</p>
 
         <p>Ikke sandt? det er Vanvid, men et underligt sjælfuldt Vanvid. Hvad er denne Fe, som
@@ -1483,8 +1483,8 @@
           sig, idet han absolut forkaster Verset som Form for det tragiske Drama. Saasnart Tragedien
           søger sin Virkning ved at give et nøiagtigt Maleri af Sindsbevægelserne, saa maa den,
           mener han, fremfor Alt gaae ud paa med Klarhed at udtrykke Tanker og Følelser. Men denne
-          Klarhed forhindres af Verset. Han anfører <persName type="fictional">Macbeths</persName>
-          Ord »The table is full« overfor <persName type="fictional">Banquo’s</persName> Skygge, der
+          Klarhed forhindres af Verset. Han anfører <persName type="fictional" key="macbeth">Macbeths</persName>
+          Ord »The table is full« overfor <persName type="fictional" key="lord-banquo">Banquo’s</persName> Skygge, der
           sidder paa hans Plads, og hævder at Rim og Rytme intet kunne føie til et saadant Udbruds
           Skjønhed. Øiensynlig har senere <persName>Vitet</persName>, ikke
           <persName>Hugo</persName>, svaret til hans dramaturgiske Ideal.</p>
@@ -1595,7 +1595,7 @@
             place="bottom">Se hos <persName>Beyle</persName>: »<bibl>Racine et
             Shakespeare</bibl>«<!-- cit start og slut indsat --> 294, hos
               <persName>Balzac</persName> hans egne Ord i Fortalen til »La Comédie humaine« og hans
-            Alter-Ego, <persName type="fictional">Daniel d’Arthez’s</persName> Udtalelser i
+            Alter-Ego, <persName type="fictional" key="daniel-arthez">Daniel d’Arthez’s</persName> Udtalelser i
               »<bibl>Les illusions perdues</bibl>«.</note> De af hans Romaner, der foregik i den
           mere moderne Tid, gjorde intet Indtryk; man holdt sig til »<bibl>Ivanhoe</bibl>«,
             »<bibl>Quentin Durward</bibl>«, »<bibl>Den smukke Pige i Perth</bibl>« og et Par andre.
@@ -1706,13 +1706,13 @@
             Scotts</persName> fromme Sind er afløst af en storstilet Lidenskabelighed, der uden at
           beroliges peger hen paa den jernhaarde, blinde Nødvendighed, hin άναγϰη, som er ridset paa
           Kirkens Væg og som knuser os alle, Zigeunersken og Præsten, Skjønheden og Dyret, <persName
-            type="fictional">Phøbus</persName> og <persName type="fictional">Quasimodo</persName>,
+            type="fictional" key="phoebus-de-chateaupers">Phøbus</persName> og <persName type="fictional" key="quasimodo">Quasimodo</persName>,
           Aarhundrede efter Aarhundrede, under sin Jernhæl.</p>
 
         <p>Endnu stærkere end <persName>Walter Scott</persName> betog <persName>Byron</persName>.
           Det var det heftige Element af Liden<pb n="83"/>skab i hans Digte og dets Sammenhæng med
-          hans Levnets Uregelmæssigheder, det var <persName type="fictional">Childe
-            Harold</persName> og endnu mere <persName type="fictional">Lara</persName>, den af
+          hans Levnets Uregelmæssigheder, det var <persName type="fictional" key="childe-harold">Childe
+            Harold</persName> og endnu mere <persName type="fictional" key="lara">Lara</persName>, den af
           Skjæbnens Finger mærkede Personlighed, der rugende over et hemmelighedsfuldt Tungsind
           slæber sin Stolthed og sin Kval med sig fra Land til Land, det var denne Typus i dens
           Byronske Former, fantastisk forstørret ved Alt, hvad der klæbede af Mythe og Legende ved
@@ -1814,12 +1814,12 @@
             <rdg wit="A">Walpurgirnachtsdrømmenes</rdg>
           </app> Land. Af <persName>Goethe</persName> blev kun et eneste Værk stærkt læst, nemlig
             »<bibl>Werther</bibl>«<!-- cit start og slut indsat -->, i hvilket det exalterede Udtryk
-          for Lidenskaben henrykte. <persName type="fictional">Werther</persName> forekom som en
-            <persName type="fictional">René</persName>, fordi man lærte ham – der dog var saa meget
-          ældre end <persName type="fictional">René</persName> – at kjende efter <persName
-            type="fictional">Renéskikkelsen</persName>, og denne Synsmaade berøvede ham sin Friskhed
-          og nærmede ham til <persName type="fictional">Childe-Harold</persName> Typen. <persName
-            type="fictional">Faustfiguren</persName> modtog et Tryk i samme Retning; denne mægtige
+          for Lidenskaben henrykte. <persName type="fictional" key="werther">Werther</persName> forekom som en
+          <persName type="fictional" key="rene">René</persName>, fordi man lærte ham – der dog var saa meget
+          ældre end <persName type="fictional" key="rene">René</persName> – at kjende efter <persName
+            type="fictional" key="rene">Renéskikkelsen</persName>, og denne Synsmaade berøvede ham sin Friskhed
+          og nærmede ham til <persName type="fictional" key="childe-harold">Childe-Harold</persName> Typen. <persName
+            type="fictional" key="faust">Faustfiguren</persName> modtog et Tryk i samme Retning; denne mægtige
           Skikkelse, der imponerede hele Europa, var de Franske fuldkomment fremmed og blev aldrig
           opfattet efter sit Væsen. Den franske Poesi havde aldrig dreiet sig om Forskeraandens
           Kampe og Lidelser. Og denne tydske Doctor, der er naiv nok til at see Djævelen i en
