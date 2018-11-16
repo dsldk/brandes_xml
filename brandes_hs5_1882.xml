@@ -1824,7 +1824,7 @@
           opfattet efter sit Væsen. Den franske Poesi havde aldrig dreiet sig om Forskeraandens
           Kampe og Lidelser. Og denne tydske Doctor, der er naiv nok til at see Djævelen i en
           Pudelhund, sentimental <pb n="88"/> nok til at nære religiøse Følelser paa <persName
-            type="fictional">Margrethes</persName> Tærskel og dog samvittighedsløs nok til at
+            type="fictional" key="margarethe-gretchen">Margrethes</persName> Tærskel og dog samvittighedsløs nok til at
           forlade den Forførte og dræbe hendes Broder i en uærlig Duel, var altfor ufransk til at
           forstaaes. Hvilken Art af Indvendinger Mændene af den klassiske Skole rettede mod
             <persName>Goethe’s</persName> »<bibl>Faust</bibl>«<!-- cit start og slut indsat -->,
@@ -2353,9 +2353,9 @@
           </quote>
         </cit>
 
-        <p>Jeg troer at høre hans stærke saarede Selvfølelses Klage i <persName type="fictional"
-            >Samsons</persName> Vrede over <persName type="fictional">Dalilas</persName> Falskhed
-          (hans <persName type="fictional">Dalila</persName> hed <persName>Marie Dorval</persName>,
+        <p>Jeg troer at høre hans stærke saarede Selvfølelses Klage i <persName type="fictional" key="de-vigny-samson"
+          >Samsons</persName> Vrede over <persName type="fictional" key="de-vigny-Dalila">Dalilas</persName> Falskhed
+          (hans <persName type="fictional" key="de-vigny-Dalila">Dalila</persName> hed <persName>Marie Dorval</persName>,
           den store Skuespillerinde); tre Gange alt har han tilgivet hende, men hun har været endnu
           mere skamfuld end forundret over at see sig paa en Gang opdaget og tilgivet:</p>
 
@@ -2911,9 +2911,9 @@
           deres Læber, og de styrte sig hovedkulds ud i de afsindigste Udsvævelser.</p>
 
         <p>Over dette Grundthema har <persName>Musset</persName> skabt en Række af sine ypperste
-          Mandskarakterer, selv den geniale Skikkelse <persName type="fictional"
+          Mandskarakterer, selv den geniale Skikkelse <persName type="fictional" key="lorenzaccio"
             >Lorenzaccio</persName>. I sin Ungdom formede han den berømteste af sine typiske
-          Figurer, <persName type="fictional">Rolla</persName>, derover.</p>
+          Figurer, <persName type="fictional" key="rolla">Rolla</persName>, derover.</p>
 
         <p>I intet Digt træder skarpere end i »<bibl>Rolla</bibl>« det Usikre og Vaklende, det
           Kvindagtige i <persName>Alfred de Mussets</persName> Livsanskuelse frem.</p>
@@ -2934,10 +2934,10 @@
           mig, dette vantro Aarhundredes mindst lettroende Barn, tilladt at kysse dette Støv med
           Vemod!«</p>
 
-        <p>Saa følger Fortællingen: <persName type="fictional">Jacques Rolla</persName> var den mest
+        <p>Saa følger Fortællingen: <persName type="fictional" key="rolla">Jacques Rolla</persName> var den mest
           udsvævende unge Mand i det udsvævende <placeName>Paris</placeName>. Han foragtede Alt og
           Alle: »Aldrig har nogen Adamssøn baaret paa en dybere Foragt for Folk og for Konger.«
-            <persName type="fictional">Rolla</persName> har kun en ringe Formue, men store
+            <persName type="fictional" key="rolla">Rolla</persName> har kun en ringe Formue, men store
           Tilbøieligheder til Vellevnet og Luxus. Vanen, som for de Andre er det halve Liv, er ham
           en Væmmelse. Derfor tager han den lille Arv, hans Fader har efterladt ham, deler den i tre
           Punge og spiser hvert Aar en Trediedel af sin Formue op med slette Kvinder og under
@@ -2945,11 +2945,11 @@
           Panden, naar det sidste Aar er forbi.</p>
 
         <p>Og i Kraft af sine 22 Aar kalder <persName>Musset</persName>
-          <persName type="fictional">Rolla</persName> stor, uforfærdet, ærlig og stolt. Hans
+          <persName type="fictional" key="rolla">Rolla</persName> stor, uforfærdet, ærlig og stolt. Hans
           Kjærlighed til Friheden – og ved Frihed forstaaes Uafhængighed overfor enhver Virksomhed,
             <pb n="142"/> enhver Livsopgave, enhver Pligt – idealiserer ham i Digterens Øine.</p>
 
-        <p>Saa skildres <persName type="fictional">Rollas</persName> Selvmordsnat i det berygtede
+        <p>Saa skildres <persName type="fictional" key="rolla">Rollas</persName> Selvmordsnat i det berygtede
           Hus, Tilberedelserne til Orgiet, den sextenaarige Pige, som bringes af Moderen selv, og
           Digteren begynder sin gribende Sørgesang over Samfundets dybe Corruption, over Moderen,
           som sælger sit Barn, over Fattigdommen, som bliver Koblerske, over de lykkelig stillede
@@ -2972,7 +2972,7 @@
 
         <p>Fordi han ikke havde dogmatisk Tro.</p>
 
-        <p>Det er da altsaa Manglen paa dogmatisk Tro, som er <persName type="fictional"
+        <p>Det er da altsaa Manglen paa dogmatisk Tro, som er <persName type="fictional" key="rolla"
             >Rollas</persName> Paaskud til at leve som et Dyr og dø som en Dreng. Man seer, hvad der
           efter faa Aars Forløb er blevet af den udfordrende Trods, med hvilken Digteren optraadte.
           Trodsen har opløst sig i holdningsløs Tvivl, Fornægtelsen er gledet over i haabløs
@@ -3136,8 +3136,8 @@
           udtrykte <persName>Musset</persName> sig med stedse stigende Blaserthed om Ungdommens
           Idealer. Næsten alle den unge Skoles Digtere havde med <persName>Hugo</persName> i Spidsen
           taget Parti for det kjæmpende Grækenland, <persName>Alfred de Musset</persName> skrev
-          koket om sin <persName type="fictional">Mardoche</persName>, at han »holdt mere af Porten
-          og <persName type="fictional">Sultan Mahmud</persName> end af det brave helleniske Folk,
+          koket om sin <persName type="fictional" key="mardoche">Mardoche</persName>, at han »holdt mere af Porten
+          og <persName type="fictional" key="musset-mardoche-sultan-mahmud">Sultan Mahmud</persName> end af det brave helleniske Folk,
           der med sit Blod sviner det rene Marmor til paa <placeName>Paros </placeName>.«</p>
 
         <p>Hvad var Aarsagen til denne Ligegyldighed og Cynisme?</p>
@@ -3387,8 +3387,8 @@
           sanddru. Han afstreifer sin affekterede Egoisme, man vil ikke mere see ham stille en
           paatagen Forhærdelse og Kulde tilskue. Saa gjør Indflydelsen af hendes Væsens Aabenhed og
           Godhed, af hendes Sværmen for Idealer sig gjældende i de Værker, der nu følge, i <persName
-            type="fictional">Lorenzaccio’s</persName> republikanske Begeistring, i <persName
-            type="fictional">Andrea del Sarto’s</persName> hele Følelsesliv, maaske endog i den
+            type="fictional" key="lorenzaccio">Lorenzaccio’s</persName> republikanske Begeistring, i <persName
+              type="fictional" key="musset-andre-del-sarto">Andrea del Sarto’s</persName> hele Følelsesliv, maaske endog i den
           Protest, <persName>Musset</persName> udslynger imod <persName>Thiers’s</persName>
           Presselove.</p>
 
@@ -3412,7 +3412,7 @@
           Smagløshed, sin Mandsdragt, og var fra nu af helt Kvinde, helt Natur.</p>
 
         <p>I det samme Svælg kastede han paa sin Side sit Don Juan-Kostume, sine Bravader, sin
-          Beundring for <persName type="fictional">Rolla</persName>, sin Drengetrods og var fra nu
+          Beundring for <persName type="fictional" key="rolla">Rolla</persName>, sin Drengetrods og var fra nu
           af helt Mand, helt Aand.</p>
       </div>
       <div>
@@ -3431,21 +3431,21 @@
           personlige Kamp for at aflægge sin lastefulde Maske og befrie sig fra selve Lastens
           Tiltrækning. Den første store Composition, han udfører efter sin Hjemkomst fra Italien, og
           hvortil Opholdet i <placeName>Florents</placeName> har givet ham Ideen, er Dramet
-            »<bibl>Lorenzaccio</bibl>«: <persName type="fictional">Lorenzo af Medicis</persName> er
-          Fætter til <persName type="fictional">Alexander</persName> af samme Slægt,
+          »<bibl>Lorenzaccio</bibl>«: <persName type="fictional" key="lorenzaccio">Lorenzo af Medicis</persName> er
+          Fætter til <persName type="fictional" key="Musset-alexandre-de-medicis">Alexander</persName> af samme Slægt,
             <placeName>Florents’s</placeName> dyrisk­grusomme og vellystige Hertug; han er
           oprindeligt en ren, exalteret og daadskraftig Natur, hvis Beslutning det tidligt er, efter
             <persName>Brutus’s</persName> Mønster at befri Verden for en Tyran. For at naae sit Maal
-          har han villet synes en hjerteløs Libertiner, har gjort sig til <persName type="fictional"
+          har han villet synes en hjerteløs Libertiner, har gjort sig til <persName type="fictional" key="Musset-alexandre-de-medicis"
             >Alexanders</persName> Følgesvend, Redskab, Fornøielsesraad og Kobler. Som <persName
-            type="fictional">Hamlet</persName> anstillede sig gal, har han paataget sig en feig og
+            type="fictional" key="hamlet">Hamlet</persName> anstillede sig gal, har han paataget sig en feig og
           ussel Vellystnings Maske for at berolige og sikre sig sit Offer. Men den Forklædning,
           hvori han har hyllet sit sande Væsen, klæber ved ham som en Nessusdragt; han er
           efterhaanden bleven næsten alt det, han <pb n="167"/> blot har villet forestille; mod sin
           Villie har han indsuget Fordærvelsen, som han selv har bidraget til at udbrede i Hoffets
           og Stadens Atmosfære; han væmmes ved sig selv, naar han betragter sit Liv. Men dog er han
           miskjendt; thi gjennem Sletheden og den forstilte, daanefærdige Feighed forfølger han sin
-          Plan, i det rette Øieblik at myrde <persName type="fictional">Alexander</persName> og
+          Plan, i det rette Øieblik at myrde <persName type="fictional" key="Musset-alexandre-de-medicis">Alexander</persName> og
           oprette Republiken.</p>
 
         <p>Han fortæres af Menneskeforagt; han foragter Fyrsten, fordi denne er en Buk og en
@@ -3453,10 +3453,10 @@
           selv at gaa ukrænket og ustraffet gjennem <placeName>Florents’s</placeName> Gader,
           Republikanerne endelig, fordi de ere uden Handlekraft og uden politisk Blik. Det er hans
           Drøm at rense sig for et helt Livs Urenhed ved en eneste Daad, en stor og afgjørende,
-          Fyrstemordet, og Digteren lader ham paa denne Maade lutre sig: <persName type="fictional"
+          Fyrstemordet, og Digteren lader ham paa denne Maade lutre sig: <persName type="fictional" key="lorenzaccio"
             >Lorenzo</persName> kaster sit forstilte Væsen fra sig, dømmer og straffer som en
           Hævnens Engel. <persName>Mussets</persName> politiske Pessimisme røber sig i hvad nu
-          følger: <persName type="fictional">Lorenzaccio</persName> høster ingen anden Løn for sin
+          følger: <persName type="fictional" key="lorenzaccio">Lorenzaccio</persName> høster ingen anden Løn for sin
           Bedrift end den at falde for en Snigmorders Haand, der vil hæve den Pris, som er sat paa
           hans Hoved, og <placeName>Florents’</placeName> republikanske Førere ere altfor sløve og
           upraktiske, Befolkningen selv altfor dybt sunken til at kunne drage Fordel af Hertugens
@@ -3464,7 +3464,7 @@
           Republikanerne, der <pb n="168"/> skinner igjennem, have sikkert Indtryk fra 1830 Lod og
           Del. <persName>Musset</persName> havde jo selv engang seet en Revolution, der pegede hen
           mod Republiken, ledes ind i det monarchiske Farvand. I hans Stykke ere Republikanerne
-          imidlertid stillede i et mere ugunstigt Lys, end de fortjene. <persName type="fictional"
+          imidlertid stillede i et mere ugunstigt Lys, end de fortjene. <persName type="fictional" key="lorenzaccio"
             >Lorenzaccio</persName> meddeler dem ganske vist Aftenen før Drabet paa hvad Dag og hvad
           Klokkeslet han vil dræbe Hertugen; men ere de at fortænke i, at de ikke træffe deres
           Forberedelser? Da den, som fra Gaden raaber denne store Nyhed ind i deres Huse, ikke er
@@ -3472,37 +3472,37 @@
           de trække paa Skuldren og ikke røre sig af Pletten! Man føler gjennem
             <persName>Mussets</persName> Uretfærdighed i dette Punkt personlige Stemninger, der pege
           ud over Stykket. Dog Hovedsagen har for ham været Fremstillingen af <persName
-            type="fictional">Lorenzos</persName> Charakter med dens ædle Præg under den afskrækkende
-          blaserte Maske. <persName type="fictional">Lorenzo</persName> har et idealt Element i sin
+            type="fictional" key="lorenzaccio">Lorenzos</persName> Charakter med dens ædle Præg under den afskrækkende
+          blaserte Maske. <persName type="fictional" key="lorenzaccio">Lorenzo</persName> har et idealt Element i sin
           Sjæl, som han ikke skammer sig over; han stræber opad, han troer paa Bedriftens forsonende
-          Magt. Det, som lutrer ham i hans Død, er ikke som <persName type="fictional"
+          Magt. Det, som lutrer ham i hans Død, er ikke som <persName type="fictional" key="rolla"
             >Rollas</persName> rene Kys en Tilfældighed, men en Handling, der har foresvævet ham
           hele hans Ungdom igjennem.</p>
 
         <p>I »<bibl>Le chandelier</bibl>« ere vi endnu i meget fordærvet Selskab, men ud fra denne
-          Baggrund løser sig som Hovedfigur den unge Skriver <persName type="fictional"
+          Baggrund løser sig som Hovedfigur den unge Skriver <persName type="fictional" key="chandelier-fortunio"
             >Fortunio</persName> med sin dybe, grænseløse Pagekjærlighed til <persName
-            type="fictional">Jacqueline</persName>. <pb n="169"/> Han misbruges af hende og hendes
+              type="fictional" key="chandelier-jacqueline">Jacqueline</persName>. <pb n="169"/> Han misbruges af hende og hendes
           Elsker, man lader ham tjene til Skjærmbrædt og Skalkeskjul for en smudsig
           Kjærlighedsforstaaelse; han gjennemskuer Spillet og elsker ligefuldt og er fuldstændig
           villig til at lade sig sende i den visse Død for at dække den Elskedes hæslige Forbindelse
           med en anden. Denne Page har en Helts Besluttethed og Mod, og hans Væsens Renhed virker
-          saa stærkt, at det rører og vinder <persName type="fictional">Jacqueline</persName>,
-          vinder ham hende fra <persName type="fictional">Clavaroche</persName>. Han er et Ideal af
+          saa stærkt, at det rører og vinder <persName type="fictional" key="chandelier-jacqueline">Jacqueline</persName>,
+          vinder ham hende fra <persName type="fictional" key="chandelier-clavaroche">Clavaroche</persName>. Han er et Ideal af
           en ungdommelig Elsker.</p>
 
-        <p><persName type="fictional">Octave</persName> i »<bibl>Les caprices de Marianne</bibl>« er
+        <p><persName type="fictional" key="musset-octave">Octave</persName> i »<bibl>Les caprices de Marianne</bibl>« er
           en letsindig og i mange Maader fordærvet Yngling, som hverken kan eller vil elske nogen
           Kvinde for Alvor, som end ikke vil anvende mere Tid paa at erobre nogen end han behøver
           for at løse Seglet paa sin Flaske sydlandsk Vin, men han har en Følelse, i hvilken han er
           naiv og troende som en Dreng, det er Venskabet: han elsker sin Ven, den unge <persName
-            type="fictional">Coelio</persName>, saa ubetinget, at han er rede til at døe for ham
-          eller hævne hans Død, og saa trofast, at han slynger den Dame, <persName type="fictional"
+            type="fictional" key="musset-coelio">Coelio</persName>, saa ubetinget, at han er rede til at døe for ham
+          eller hævne hans Død, og saa trofast, at han slynger den Dame, <persName type="fictional" key="musset-coelio"
             >Coelio</persName> forgjæves tilbeder, hendes Gunst tilbage i Ansigtet. Saa skeptisk han
           end er overfor Kvinden, saa helt gaaer han op i sit Venskab: han er et Ideal af en Ven.
-          Overfor ham staaer som Modstykke hin <persName type="fictional">Coelio</persName>, i hvem
+          Overfor ham staaer som Modstykke hin <persName type="fictional" key="musset-coelio">Coelio</persName>, i hvem
             <persName>Musset</persName>, da han i dette Drama delte sin Personlighed, nedlagte den
-          anden Side af sit Væsen. <persName type="fictional">Coelio</persName> er den ungdommelige
+          anden Side af sit Væsen. <persName type="fictional" key="musset-coelio">Coelio</persName> er den ungdommelige
           Elsker, <pb n="170"/> hvis Kjærlighed er lutter tilbedende Smægten, en Attraa saa
           tungsindig i sin Gløden, at den synes at paakalde Døden, hvis den ikke tilfredsstilles.
           Der ligger som en Nimbus af Shakespearesk Romantik om hans Hoved, hans Tale er Musik, hans
@@ -3529,7 +3529,7 @@
           fører ham ogsaa i de kvindelige Figurer til en stedse mere fremtrædende Idealiseren. Det
           er allerede eiendommeligt, at den Kvindeskikkelse som han udfører umiddelbart efter det
           definitive Brud med <persName>George Sand</persName> (i 1835) og til hvilken hun delvis
-          har tjent som Model. <persName type="fictional">Madame Pierson</persName> i »<bibl>La
+          har tjent som Model. <persName type="fictional" key="Musset-brigitte-pierson">Madame Pierson</persName> i »<bibl>La
             confession d’un enfant du siècle</bibl>« er en i høi Grad idealiserende Gjengivelse af
           Originalens Naturel. Hans Noveller, af hvilke idetmindste tre: »<bibl>Emmeline</bibl>«,
             »<bibl>Frédéric et Bernerette</bibl>« og »<bibl>Le fils du Titien</bibl>« høre til de
@@ -3538,9 +3538,9 @@
           Charakterer. Han tager f. Ex. Fysiognomiet af en eller anden lille Grisette, han har
           kjendt, en godlidende, letsindig, letfærdig, munter ung Skabning, og han giver denne
           Skikkelse en jomfruelig Ynde, som den forlængst har tabt, og skaber af den en <persName
-            type="fictional">Mimi Pinson</persName>, eller han gjør den unge Kvinde saa sjælfuld,
+            type="fictional" key="musset-mimi-pinson">Mimi Pinson</persName>, eller han gjør den unge Kvinde saa sjælfuld,
           saa naiv i alle sine Feilgreb og Feiltrin, saa sanddru og fintfølende i sin Udtryksmaade
-          og saa simpel i sin Død som hin <persName type="fictional">Bernerette</persName>, hvis
+          og saa simpel i sin Død som hin <persName type="fictional" key="musset-bernerette">Bernerette</persName>, hvis
           sidste Brev faa Læsere have læst uden Taarer. For ham som Erotiker er Elskov en saadan
           Enevoldsmagt, at han endog <pb n="172"/> underordner Kunsten under den. Det at være Elsker
           og Elsket bliver tilsidst i hans Øine saa meget Mere end det at være Kunstner, at efter
@@ -3613,13 +3613,13 @@
           Øiebliksforelskelsen, ind under Ægteskabets Tugt. Manden er her frivol og lidet
           paalidelig, Kvinderne, der holde sammen, have begge Hjertet paa det rette Sted og den ene
           af dem har desuden en fortryllende aristokratisk Aandsoverlegenhed. <persName
-            type="fictional">Madame de Léry</persName> er Pariserinden. Ingen har tegnet hende med
+            type="fictional" key="musset-Lery">Madame de Léry</persName> er Pariserinden. Ingen har tegnet hende med
           den Genialitet som <persName>Musset</persName>; han var paa Høide med hende. Hun er helt
           Verdensdame men ogsaa helt Kvinde. Det Skjønne ved denne Skikkelse er, at man i den seer
           den uforfalskede, ægte, friske, sande Natur bryde igjennem Salonlivets høieste Forfinelse,
             <pb n="175"/> som Natur trods al den glimrende og flitrende Aandrighed og al den for
           tidlige og lidt livstrætte Erfaring, Natur selv i Forstillelsen, Natur selv i den liden
-          Comoedie, <persName type="fictional">Madame de Léry</persName> som Kvinde er
+          Comoedie, <persName type="fictional" key="musset-Lery">Madame de Léry</persName> som Kvinde er
           Skuespillerinde nok til at kunne agere. Ak, udbryder <persName>Goethe</persName> etsteds i
           sine Breve, hvor er det sandt, at Intet er eventyrligt uden det Naturlige, Intet stort
           uden det Naturlige, Intet skjønt uden det Naturlige og Intet etc., etc., etc. uden det
@@ -3635,10 +3635,10 @@
           Troskab og Charakterrenhed hos Kvinden, som han troede paa uden selv at have fundet den.
           Han havde vel allerede i »<bibl>Barberine</bibl>« efter et gammelt Sagn tegnet Idealet af
           en trofast Hustru i Stil med <persName>Shakespeare’s</persName>
-          <persName type="fictional">Imogen</persName>. Men Stykket var interesseløst. Han ender som
+          <persName type="fictional" key="shakespeare-imogen">Imogen</persName>. Men Stykket var interesseløst. Han ender som
           Dramatiker med to fuldendt herlige Kvindeskikkelser. I det lille Mesterværk
             »<bibl>Bettine</bibl>« har han <pb n="176"/> løst en af de for en Charaktertegner
-          vanskeligste Opgaver saa let som man løser en Sløife. <persName type="fictional"
+          vanskeligste Opgaver saa let som man løser en Sløife. <persName type="fictional" key="musset-bettine"
             >Bettina</persName> træder ind, og hun har neppe sagt tre, fire Repliker, før vi føle,
           at dette er en kraftig, kjæk, dybtfølende og storttænkende Kvinde, mere end dette: et
           Geni, en Kunstnerinde, en Triumfatrice, vant til at føle sig alle sine Omgivelser
@@ -3655,17 +3655,17 @@
         <p>Det skjønne lille Drama »<bibl>Carmosine</bibl>« viser paa Grundlag af en Boccacio’sk
           Novelle, hvorledes den stærkeste og hedeste Beundrings-Elskov, som udvortes Vilkaar
           adskille fra dens Gjenstand, kan helbredes ved høimodig Godhed og Ømhed. <persName
-            type="fictional">Car<pb n="177"/>mosine</persName> er en simpel Borgerpige, som elsker
-            <persName type="fictional">Kong Pedro af Aragonien</persName> med en haabløs, fortærende
+            type="fictional" key="musset-carmosine">Car<pb n="177"/>mosine</persName> er en simpel Borgerpige, som elsker
+          <persName type="fictional" key="musset-pierre">Kong Pedro af Aragonien</persName> med en haabløs, fortærende
           Kjærlighed; hun vil paa Grund af denne Følelse ikke give sin tro og sørgende Tilbeder
           Perillo sin Haand; hun vil tie og døe. Men hendes Barndoms-Legekammerat Sangeren <persName
-            type="fictional">Minuccio</persName> røber af Medlidenhed hendes Kjærlighed for Kongen
+            type="fictional" key="musset-minuccio">Minuccio</persName> røber af Medlidenhed hendes Kjærlighed for Kongen
           og Dronningen, og langt fra at vredes gaaer Dronningen ukjendt til hende og mildner
           langsomt hendes Kval ved søsterlige og dronninglige Ord, idet hun forklarer hende, at en
           saadan Kjærlighed, saa dyb og stor, er altfor skjøn til at skulle udryddes af Hjertet, og
           at Dronningen selv ønsker hende optaget blandt sine Æresdamer, saa hun kan see Kongen hver
           Dag, thi man bliver bedre gjennem en saadan Kjærlighed, der beroer paa Sjælens Opsving mod
-          det Ædle: »Jeg selv, <persName type="fictional">Carmosine</persName>, vil lære Dig, at man
+          det Ædle: »Jeg selv, <persName type="fictional" key="musset-carmosine">Carmosine</persName>, vil lære Dig, at man
           kan elske uden at lide, naar man elsker uden at rødme derover; kun Skam og
           Samvittighedsnag volde Sorg; Sørgmodighed er den Skyldiges Lod, og din Tanke er visselig
           ikke skyldig.« Og Kongen kommer under Paaskud af at ville besøge hendes Fader, og i
@@ -3683,14 +3683,14 @@
         <p>»Sire, det er min altfor ringe Kraft til at bære en altfor stor Kval, som er Skyld i mine
           Lidelser. Da I har kunnet beklage mig, vil maaske Gud befri mig derfor.«</p>
 
-        <p>»Skjønne <persName type="fictional">Carmosine</persName>, jeg vil tale som Konge og som
+        <p>»Skjønne <persName type="fictional" key="musset-carmosine">Carmosine</persName>, jeg vil tale som Konge og som
           Ven. Den store Elskov, som I har baaret til os, har indlagt Eder den høieste Ære i vort
           Sind, og den Ære, vi til Gjengjæld vilde gjøre Eder, er den med egen Haand at give Eder
           den Ægtefælle, vi have valgt Eder og som vi bede Eder modtage. Og derefter ville vi altid
           kalde os Eders Ridder og i vore Turneringer bære Eders Devise og Eders Farver uden derfor
           at udbede os Andet af Eder end et eneste Kys.«</p>
 
-        <p>Dronningen til <persName type="fictional">Carmosine</persName>: »Gjør det, mit Barn, jeg
+        <p>Dronningen til <persName type="fictional" key="musset-carmosine">Carmosine</persName>: »Gjør det, mit Barn, jeg
           er ikke skinsyg.«</p>
 
         <p>»Sire! Dronningen har svart for mig.«</p>
@@ -3936,11 +3936,11 @@
           Forestilling.</p>
 
         <p>»<bibl>Indiana</bibl>« er det unge rige Hjertes første Udbrud af Bitterhed og Smerte. Den
-          unge Kvinde er lutter sjælfuld, ædelbaaren Finhed; hendes Mand, <persName type="fictional"
+          unge Kvinde er lutter sjælfuld, ædelbaaren Finhed; hendes Mand, <persName type="fictional" key="delmare"
             >Oberst Delmare</persName> en noget godmodigere <persName>Hr. Dudevant</persName>;
-            <persName type="fictional">Indiana’s</persName> kjærlige og enthousiastiske Sind tyer
+            <persName type="fictional" key="indiana">Indiana’s</persName> kjærlige og enthousiastiske Sind tyer
           saaret fra Manden til Elskeren. Bogens Originalitet beroer paa Tegningen af dennes
-          Charakter. Thi for ham er endda Ægtemanden langt at foretrække. <persName type="fictional"
+          Charakter. Thi for ham er endda Ægtemanden langt at foretrække. <persName type="fictional" key="sand-raymon"
             >Raymon</persName> er den unge normale Franskmand under Restaurationen, som Samfundet
           har tildannet ham, følsom og beregnende, elskovssyg og egoistisk, gaaende saaledes op i
           Hensynet til den offentlige Mening og <pb n="192"/> Samfundsdommen, at han fra
@@ -3952,49 +3952,49 @@
           uvederheftig og feig. Hun begynder altsaa fra først af paa Kvindevis med en livfuld
           Blottelse af Mandsegoismen. Som Modsætning til den indfører hun saa allerede her sit
           Mandsideal i Reserve-Elskeren, den tilsyneladende flegmatiske, men i Virkeligheden
-          glødende <persName type="fictional">Ralph</persName>, der ordknap som <persName>George
+          glødende <persName type="fictional" key="sand-ralph">Ralph</persName>, der ordknap som <persName>George
             Sand</persName> selv, for en overfladisk Betragtning stiv og kold (som hun) er lutter
           Selvopofrelse, Ædelsind og trofast Elskov – en Skikkelse hun i Aaringer ikke bliver træt
           af at variere. Den bliver i »<bibl>Lélia</bibl>« til den overlegne og haardtprøvede <app>
-            <lem><persName type="fictional">Trenmor</persName></lem>
+            <lem><persName type="fictional" key="sand-trenmor">Trenmor</persName></lem>
             <rdg wit="A">Treumor</rdg>
           </app>, Galeislaven, der dømmer Samfundet med stoisk Ro, i »<bibl>Jacques</bibl>« til
           Hovedpersonen, der med næsten overmenneskelig Aandshøihed dræber sig for ikke at staa sin
           unge Hustrus Forbindelse med en anden i Veien, i »<bibl>Léone Léoni</bibl>« til den
-          rolige, mandige <persName type="fictional">Don Aleo</persName>, som til det Sidste
-          tilbyder sig at ægte den stakkels <persName type="fictional">Juliette</persName>, hvem en
+          rolige, mandige <persName type="fictional" key="sand-don-aleo">Don Aleo</persName>, som til det Sidste
+          tilbyder sig at ægte den stakkels <persName type="fictional" key="sand-juliette">Juliette</persName>, hvem en
           næsten magisk Fortryllelse fængsler til den bundløst slyngel<pb n="193"/>agtige <persName
             type="fictional">Léone</persName>, dette mandlige Modstykke til <persName
-            type="fictional">Manon Lescaut</persName>; i »<bibl>Le secrétaire intime</bibl>« er han
-          den uanseelige Tydsker <persName type="fictional">Max</persName> med sin naive Godhed og
+              type="fictional" key="manon-lescaut">Manon Lescaut</persName>; i »<bibl>Le secrétaire intime</bibl>« er han
+          den uanseelige Tydsker <persName type="fictional" key="sand-max">Max</persName> med sin naive Godhed og
           sin poetiske Begeistring, der er den af Alle hyldede Fyrstindes hemmelige Ægtemand, i
-            »<bibl>Elle et lui</bibl>« er han Englænderen <persName type="fictional"
+          »<bibl>Elle et lui</bibl>« er han Englænderen <persName type="fictional" key="sand-richard-palmer"
             >Palmer</persName>, der er stillet op som Contrast til det geniale og udsvævende
-          Pariserbarn <persName type="fictional">Laurent</persName>; i »<bibl>Le dernier
-            amour</bibl>« har han Navnet <persName type="fictional">Sylvestre</persName>, en svagere
-          Gjentagelse af <persName type="fictional">Jacques</persName>. Alle disse Skikkelser have
-          Idealers ikke sjældne Feil at være blodløse. Til Gjengjæld er <persName type="fictional"
+          Pariserbarn <persName type="fictional" key="sand-jacques-laurent">Laurent</persName>; i »<bibl>Le dernier
+            amour</bibl>« har han Navnet <persName type="fictional" key="sand-sylvestre">Sylvestre</persName>, en svagere
+          Gjentagelse af <persName type="fictional" key="sand-jacques-laurent">Jacques</persName>. Alle disse Skikkelser have
+          Idealers ikke sjældne Feil at være blodløse. Til Gjengjæld er <persName type="fictional" key="sand-raymon"
             >Raymonfiguren</persName>, der symboliserer Verden, Samfundsegoismen, Forfængeligheden
           og Charaktersvagheden en helt igjennem ganske anderledes vellykket Type. Allerede i
-            »<bibl>Indiana</bibl>« har <persName type="fictional">Raymon</persName> en kraftigere
+          »<bibl>Indiana</bibl>« har <persName type="fictional" key="sand-raymon">Raymon</persName> en kraftigere
           Realitet end de øvrige Skikkelser, en langt bestemtere Steds- og Tidsfarve. Forfatterinden
           henfører (i Cap. X) hans Karakters Umandighed til Tidsalderens »forsonlige og eftergivende
           Hang«; hun betegner sin Tid som »det stiltiende Forbeholds« Epoche; hun viser hvorledes
-            <persName type="fictional">Raymon</persName>, der forfægter det politiske Maadehold,
+          <persName type="fictional" key="sand-raymon">Raymon</persName>, der forfægter det politiske Maadehold,
           indbilder sig blot fordi han er uden politisk Lidenskab ogsaa at være uden politisk
           Interesse og derfor at staae over Partierne, medens han har altfor megen Fordel af
           Samfundet som det er, til at ønske det forandret. Han er »ikke utaknemmelig nok mod
           Forsynet til at bebreide det de Andres Ulykke«. Men ogsaa denne Skikkelses talrige
           Descendenter i <persName>George <pb n="194"/> Sands</persName> Romaner røbe et fint og
-          dybtgaaende Virkelighedsstudium, ligefra Digteren <persName type="fictional"
-            >Sténio</persName> i »<bibl>Lélia</bibl>« og Elskeren <persName type="fictional"
+          dybtgaaende Virkelighedsstudium, ligefra Digteren <persName type="fictional" key="stenio"
+            >Sténio</persName> i »<bibl>Lélia</bibl>« og Elskeren <persName type="fictional" key="octave"
             >Octave</persName> i »<bibl>Jacques</bibl>«, næsten kun skizzerede, svage Charakterer,
           med hvilke Lidenskaben spiller Bold, til de med mange individuelle Træk udrustede
-          Skikkelser, den sydlandsk letfærdige unge Sanger <persName type="fictional"
+          Skikkelser, den sydlandsk letfærdige unge Sanger <persName type="fictional" key="anzoleto"
             >Anzoleto</persName> i »<bibl>Consuelo</bibl>«, den sygeligt nervøse, forfinet
-          egoistiske <persName type="fictional">Fyrst Karol</persName> (<persName>Chopin</persName>)
+          egoistiske <persName type="fictional" key="karol">Fyrst Karol</persName> (<persName>Chopin</persName>)
           i »<bibl>Lucretia Floriani</bibl>« og den ustadige og urimelige unge Maler <persName
-            type="fictional">Laurent</persName> (<persName>Alfred de Musset</persName>) i
+            type="fictional" key="sand-jacques-laurent">Laurent</persName> (<persName>Alfred de Musset</persName>) i
             »<bibl>Elle et lui</bibl>«.</p>
 
         <p>»<bibl>Indiana</bibl>« ender med at finde Mandkjønnets hensynsløse Egoisme i alle
@@ -4106,12 +4106,12 @@
             Roman »<bibl>Jacques</bibl>«.</note></p>
 
         <p>»<bibl>Lélia</bibl>« og »<bibl>Jacques</bibl>« (1833 og 1834) betegne Høidepunktet af
-          Digterindens Byronske Verdenssmerte og deklamatoriske Hang. I <persName type="fictional"
+          Digterindens Byronske Verdenssmerte og deklamatoriske Hang. I <persName type="fictional" key="lelia"
             >Lélia</persName> vilde hun give sit Ungdomsideal af den store, dybtfølende og
-          usandselige Kvinde og gav hende til Modbillede Søsteren <persName type="fictional"
+          usandselige Kvinde og gav hende til Modbillede Søsteren <persName type="fictional" key="pulcherie"
             >Pulcheria</persName>, en yppig Courtisane. Hun løste her sit Væsens tvende Sider ud fra
-          hinanden og formede <persName type="fictional">Lélia</persName> efter Minervabilledet i
-          sin egen Sjæl, <persName type="fictional">Pulcheria</persName> ud fra sin egen Venus<pb
+          hinanden og formede <persName type="fictional" key="lelia">Lélia</persName> efter Minervabilledet i
+          sin egen Sjæl, <persName type="fictional" key="pulcherie">Pulcheria</persName> ud fra sin egen Venus<pb
             n="201"/>dyrkelse og frembragte saaledes snarere store skizzerede Symboler end Mennesker
           af Kjød og Blod. I »<bibl>Jacques</bibl>« tog hun Ægteskabsproblemet for sig fra en ny
           Side, idet hun, der i »<bibl>Indiana</bibl>« havde skildret en brutal, i
@@ -4123,8 +4123,8 @@
           menneskelig Skabning kan befale over Kjærligheden og Ingen er skyldig, fordi han føler
           eller mister den. Hvad der fornedrer Kvinden, det er Løgnen; hvad der constituerer
           Ægteskabsbruddet, er ikke den Time, hun tilstaaer sin Elsker, men den Nat, hun derpaa
-          tilbringer med sin Mand«. <persName type="fictional">Jacques</persName> føler sig
-          forpligtet til at vige Pladsen: »<persName type="fictional">Borel</persName> vilde i mit
+          tilbringer med sin Mand«. <persName type="fictional" key="georg-sand-jacques">Jacques</persName> føler sig
+          forpligtet til at vige Pladsen: »<persName type="fictional" key="sand-borel">Borel</persName> vilde i mit
           Sted roligt have banket sin Kone og ikke have rødmet ved derefter at modtage hende i sine
           Arme, nedværdiget af hans Slag og hans Kys. Der gives Mænd, som uden videre paa orientalsk
           Manér slaae deres troløse Kone ihjel, fordi de betragte hende som en lovlig Eiendom. Andre
@@ -4137,8 +4137,8 @@
           Sofismer. De ere det Salt, der har bevaret dette Ungdomsskrift frisk tiltrods for alt det
           Forældede i Opfindelsen og alt det Vidtløftige i den trættende Brevform. Det dybeste
           Mærke, Romantismens Overspændthed har sat sig i denne Bog er Slutningskatastrofen:
-            <persName type="fictional">Jacques</persName> veed intet bedre Middel til at frigjøre
-            <persName type="fictional">Fernande</persName> end et Selvmord, der for hende maa tage
+            <persName type="fictional" key="georg-sand-jacques">Jacques</persName> veed intet bedre Middel til at frigjøre
+          <persName type="fictional" key="sand-fernande">Fernande</persName> end et Selvmord, der for hende maa tage
           sig ud som en tilfældig Død. Her ere vi ude i den pure Uvirkelighed. Men forøvrigt er
           Uvirkeligheden i denne Roman mere tilsyneladende end reel. Den moderne Skole har let ved
           at paavise Mangelen af Stedsbestemmelser, af virkelige Beskjæftigelser o. s. v.;
@@ -4166,28 +4166,28 @@
           stadige Higen efter at finde en jævnbyrdig Mandsaand i disse Ungdomsskrifter leder hende
           til en Art Selvfordobling i tvende Kjøn. Saa lidenskabeligt hun end forherliger <pb
             n="204"/> Elskoven, saa stærkt hun end lader den betage den store Kvindes og den store
-          Mands Sjæleliv, saa nære de dog begge, <persName type="fictional">Jacques</persName>
-          saavel som <persName type="fictional">Lélia</persName>, en større, idealere
+          Mands Sjæleliv, saa nære de dog begge, <persName type="fictional" key="georg-sand-jacques">Jacques</persName>
+          saavel som <persName type="fictional" key="lelia">Lélia</persName>, en større, idealere
           Venskabsfølelse til et ædelt Væsen af det andet Kjøn, som forstaaer dem. I Sammenligning
-          med denne Følelse af dyb og gjensidig Forstaaelse synes <persName type="fictional"
-            >Lélias</persName> Elskovsforhold til <persName type="fictional">Sténio</persName>,
-            <persName type="fictional">Jacques</persName> til <persName type="fictional"
-            >Fernande</persName> kun Svagheder hos disse store Sjæle. <persName type="fictional"
-            >Lélia</persName> har en forstaaende Ven i <persName type="fictional"
-          >Trenmor</persName>, <persName type="fictional">Jacques</persName> en jævnbyrdig Veninde i
-            <persName type="fictional">Sylvia</persName> Han vilde elske hende, hvis hun ikke var
+          med denne Følelse af dyb og gjensidig Forstaaelse synes <persName type="fictional" key="lelia"
+            >Lélias</persName> Elskovsforhold til <persName type="fictional" key="stenio">Sténio</persName>,
+            <persName type="fictional" key="georg-sand-jacques">Jacques</persName> til <persName type="fictional" key="sand-fernande"
+            >Fernande</persName> kun Svagheder hos disse store Sjæle. <persName type="fictional" key="lelia"
+              >Lélia</persName> har en forstaaende Ven i <persName type="fictional" key="sand-trenmor"
+          >Trenmor</persName>, <persName type="fictional" key="georg-sand-jacques">Jacques</persName> en jævnbyrdig Veninde i
+          <persName type="fictional" key="sand-sylvia">Sylvia</persName> Han vilde elske hende, hvis hun ikke var
           hans Halvsøster eller rettere, hvis han ikke maatte nære Frygt for at hun er det; men som
           Forholdet er, har det en Skjønhed over sig, som et blot erotisk Forhold neppe kunde naae.
           Jeg husker tydeligt, hvor mægtigt et Indtryk Forholdet mellem Jacques og Sylvia gjorde paa
           mig, da jeg vel for femten Aar siden læste Bogen for første Gang. Jeg saa det godt, at
-            <persName type="fictional">Jacques</persName> er til en vis Grad uvirkelig, <persName
-            type="fictional">Sylvia</persName> ligeledes, thi hun er kun <persName type="fictional"
+            <persName type="fictional" key="georg-sand-jacques">Jacques</persName> er til en vis Grad uvirkelig, <persName
+            type="fictional" key="sand-sylvia">Sylvia</persName> ligeledes, thi hun er kun <persName type="fictional" key="georg-sand-jacques"
             >Jacques’</persName> Fortrolige, som forstaaer ham; men den ideale Strøm imellem dem har
-          Virkelighed og den berørte mig elektrisk. Denne <persName type="fictional"
+          Virkelighed og den berørte mig elektrisk. Denne <persName type="fictional" key="sand-sylvia"
             >Sylvia</persName> er opstaaet af den geniale Aands Nødraab ud i den tomme Verden efter
           sin Lige; hendes Skikkelse er ganske vist ikke mere end det store ensomme Hjertes
           Postulat; men hvad er Poesien andet! Saa ufuldkommen Romanen end er, Forholdet mellem
-            <persName type="fictional">Jacques</persName> og <persName type="fictional"
+            <persName type="fictional" key="georg-sand-jacques">Jacques</persName> og <persName type="fictional" key="sand-sylvia"
             >Sylvia</persName>
           <pb n="205"/> giver den en skjær Poesi; det er, naar man møder det, som saae man over
           Lidenskabernes lavtliggende Verden ind i en høiere, hvor renere, om end ganske jordiske,
@@ -4290,7 +4290,7 @@
           Han forværrede f. Ex. forsætligt Rimene i sine første Digte for tilgavns at ærgre
           Klassikerne. (Marquisen i »<bibl>L’Andalouse</bibl>« hed i det første Udkast Amaémoni,
           hvad der udgjør et rigtigt Rim paa bruni, men fik i den definitive Text Navnet <persName
-            type="fictional">Amaégui</persName>, som neppe rimer). Da hans Frembringelseskraft var i
+            type="fictional" key="musset-amaegui">Amaégui</persName>, som neppe rimer). Da hans Frembringelseskraft var i
           Aftagende, tilegnede han sig hele syv Sider af <persName>Carmontelle’s</persName> Proverbe
             »<bibl>Le distrait</bibl>« til Brug for sit svage lille Lystspil »<bibl>On ne saurait
             penser à tout</bibl>«, og end ikke i sin bedste Tid forsmaaede han den finere
@@ -4414,8 +4414,8 @@
           Helte, i sit Væsen god, om end i de herskende Klasser angrebet ved det nedarvede Hang til
           Tyranni over Kvinden og Almuen. <persName>Rousseau’s</persName> Overbevisning om Naturens
           oprindelige Godhed og Samfundets Fordærvelighed ligger bagved alle disse Fortællinger.
-          Kvinder som <persName type="fictional">Fiamma</persName> i »<bibl>Simon</bibl>«, <persName
-            type="fictional">Edmée</persName> i »<bibl>Mauprat</bibl>« <persName type="fictional"
+          Kvinder som <persName type="fictional" key="sand-fiamma">Fiamma</persName> i »<bibl>Simon</bibl>«, <persName
+            type="fictional" key="sand-edmee">Edmée</persName> i »<bibl>Mauprat</bibl>« <persName type="fictional" key="sand-consuelo"
             >Consuelo</persName> i Romanen af samme Navn (til hvem<persName> Madame
             Viardot</persName> til et vist Punkt har været Model) ere rene Udtryk for den typiske
           unge Pige hos <persName>George Sand</persName>. Hendes <pb n="217"/> Rolle er den at
@@ -4458,7 +4458,7 @@
           Trediveaarsalderen var; jeg vil forsøge at reconstruere denne Psychologi af talrige
           spredte Steder i Romanen:</p>
 
-        <p>»<persName type="fictional">Lucretia Floriani</persName> var – hvem skulde troet <pb
+        <p>»<persName type="fictional" key="lucrezia-floriani">Lucretia Floriani</persName> var – hvem skulde troet <pb
             n="219"/> det? – af Naturel saa kydsk som et lille Barns Sjæl er det. Det lyder meget
           underligt, det tilstaaer jeg, om en Kvinde, der havde elsket saa meget og saa Mange. Det
           beroede sandsynligvis paa, at hun var yderst kraftigt organiseret i sensuel Henseende,
@@ -4468,7 +4468,7 @@
           en fortræffelig Nonne, rolig og frisk. Det vil sige, at Intet kunde være mere rent end
           hendes Tanker, naar hun var alene; og naar hun elskede, var alt, hvad der ikke var hendes
           Elsker, i sandselig Henseende for hende, som om det ikke existerede, tom Luft, det rene
-          Intet.« – Derfor siger <persName type="fictional">Lucretia</persName> om Kjærligheden:
+          Intet.« – Derfor siger <persName type="fictional" key="lucrezia-floriani">Lucretia</persName> om Kjærligheden:
           »Jeg veed, at man troer, den stammer fra Sandserne; men det gjælder ikke for de begavede
           Kvinder. Hos dem gaaer den frem Skridt for Skridt. Den bemægtiger sig først Hovedet, den
           banker paa Indbildningskraftens Dør; uden Guldnøglen til den kommer den ikke ind. Naar den
@@ -4476,8 +4476,8 @@
           i alle vore Evner og vi elske da den Mand, der behersker os, som en Gud, som et Barn, som
           en Broder, som en Ægtemand, som Alt, hvad en Kvinde kan elske.« For<pb n="220"
           />fatterinden forklarer, hvorledes den erotiske Illusion bestandig paany kunde bemægtige
-          sig <persName type="fictional">Lucretias</persName> Sjæl, især hvorledes hendes sidste
-          heftige Lidenskab for <persName type="fictional">Prinds Karol</persName> (til hvilken
+          sig <persName type="fictional" key="lucrezia-floriani">Lucretias</persName> Sjæl, især hvorledes hendes sidste
+          heftige Lidenskab for <persName type="fictional" key="karol">Prinds Karol</persName> (til hvilken
             <persName>Chopin</persName> er Modellen) har kunnet opstaae: »Den sidste Kjærlighed
           synes slige rige Naturer altid den første, og saa meget er vist, at dersom Følelsen lader
           sig maale ved Hjælp af Begeistringens Grad, saa havde hun aldrig elsket saa højt. Den
@@ -4493,7 +4493,7 @@
           en stor Opofrelse af Mod og Kræfter, langt større end Ofret af et helt Liv vilde være til
           Bedste for et Væsen, hvem man ansaa for Ofret værdigt?« <pb n="221"/></p>
 
-        <p>Vi forstaae hvorledes <persName type="fictional">Lucretia</persName> bestandig har følt
+        <p>Vi forstaae hvorledes <persName type="fictional" key="lucrezia-floriani">Lucretia</persName> bestandig har følt
           sig tiltrukket af svage Mænd: Hendes uafhængige Karakter har i Forening med hendes
           moderlige Instinct maattet drage hende til de Svage. Tanken om at blive beskyttet har
           været hende utaalelig og hun har saa ofte, naar hun vilde støtte sig til Væsener, der var
@@ -4501,7 +4501,7 @@
           til den Tro, at Kjærlighed og Energi ikke lade sig forene uden i Hjerter, der have lidt
           saa meget som hendes eget.</p>
 
-        <p>Vi see endelig hvorledes Forholdet til hendes Børn – og <persName type="fictional"
+        <p>Vi see endelig hvorledes Forholdet til hendes Børn – og <persName type="fictional" key="lucrezia-floriani"
             >Lucretia</persName> er ligesom <persName>George Sand</persName> den kjærligste, ømmeste
           Moder – maa indvirke paa hendes Kjærlighedsliv: »Hun havde villet være en Moder for sine
           Elskere uden at ophøre at være en Moder for sine Børn, og disse to Følelser, der stadig
@@ -4510,7 +4510,7 @@
           fra Civilisationens store Hittebørnsanstalt, maatte nødvendigvis tidligere eller senere
           vende tilbage til den.«</p>
 
-        <p><persName type="fictional">Lucretia</persName> omtaler endelig sit Forhold til Verdens
+        <p><persName type="fictional" key="lucrezia-floriani">Lucretia</persName> omtaler endelig sit Forhold til Verdens
           Dom om hendes Charakter og Levnet i et Sprog, der direkte lader sig anvende paa
             <persName>George Sand</persName>: »Jeg har aldrig søgt Skandale. Jeg har kunnet
           afstedkomme Forargelse, men uden at ville og vide det. Jeg har aldrig elsket to Mænd paa
@@ -4533,7 +4533,7 @@
             <placeName>Berry’s</placeName> Bønder, til hendes Hjemstavns landlige Idyller, det var
           det samme Rousseau’ske Natursværmeri, som havde givet hendes Protester mod Samfundsordenen
           Vægt og Sving. Hendes Secretair, Tydskeren <persName>Müller-Strübing</persName>, en af de
-          Mange, overfor hvem hun <pb n="223"/> praktiserede <persName type="fictional">Lucretia
+          Mange, overfor hvem hun <pb n="223"/> praktiserede <persName type="fictional" key="lucrezia-floriani">Lucretia
             Florianis</persName> Maximer, havde gjort hende opmærksom paa de Auerbach’ske
           Landsbyhistorier og gav hende derved Stødet til den Del af hendes Production, der ved sin
           Simpelhed og sædelige Renhed ikke mindre end ved sin Følelsesfylde har skaffet hende den
@@ -4693,7 +4693,7 @@
           ikke formaaede at bringe ud af Verden med noget andet Vaaben end Pennen, var ingen rolig
           Fjende, den rullede og voxede uophørligt, da han længe kun kunde dække een <pb n="231"/>
           Forskrivning med en anden. Saaledes gjorde han Bekjendtskab med de forskjellige Slags
-          Pariser Aagerkarle, som han har skildret saa slaaende i <persName type="fictional"
+          Pariser Aagerkarle, som han har skildret saa slaaende i <persName type="fictional" key="balzac-Gobseck"
             >Gobseck</persName> og andre beslægtede Skikkelser, og Ordene »Min Gjæld! mine
           Kreditorer!« bliver det staaende Omkvæd i hans Sind, og kommer igjen selv i de fortrolige
           Breve til Venner og Veninder, i hvilke den plagede Mands varme Hjerte udtaler sig frit.
@@ -4805,12 +4805,12 @@
           formaaer gjennem en Replik eller en Haandbevægelse eller ogsaa blot ved en Særegenhed i
           Dragten, Husvæsenet eller lignende at faa Skikkelsen til at staae levende for os; man
           maatte fylde en Bog med Citater<note place="bottom">Kun for at forklare mig nøiagtigt
-            anfører jeg et Exempel. Courtisanen <persName type="fictional">Josepha</persName>
-            spørger den gamle, af Udsvævelser ødelagte <persName type="fictional">Baron
+            anfører jeg et Exempel. Courtisanen <persName type="fictional" key="balzac-josepha">Josepha</persName>
+            spørger den gamle, af Udsvævelser ødelagte <persName type="fictional" key="balzac-hulot">Baron
               Hulot</persName>, en af <persName>Napoleons</persName> Generaler, om det er sandt, at
             han har foraarsaget sin Broders og sin Onkels Død, styrtet sin Familie i Ulykke og
             bedraget Staten for at tilfredsstille sin Elskerindes Luner: »Le baron inclina
-            tristement la tête. – Eh bien! j’aime cela! s’écria <persName type="fictional"
+            tristement la tête. – Eh bien! j’aime cela! s’écria <persName type="fictional" key="balzac-josepha"
               >Josepha</persName>, qui se leva plein d’enthousiasme. C’est un <emph>brûlage</emph>
             général! C’est Sardanapale! c’est grand! c’est complet! On est une canaille mais on a du
             cæur. Eh bien! moi j’aime mieux un mangetout passionné comme toi pour les femmes que ces
@@ -5004,7 +5004,7 @@
           Fantasis Overtalelsesgave har formaaet at gjøre det Overnaturlige i dette dybsindige
           Symbol troværdigt. <persName>Balzac</persName> har forstaaet at give det Fantastiske en
           Form, i hvilken det kan blande sig med den moderne Virkeligheds Elementer. <persName
-            type="fictional">Aladdins</persName> Lampe gjør umiddelbart Mirakler, saasnart den
+            type="fictional" key="aladdin">Aladdins</persName> Lampe gjør umiddelbart Mirakler, saasnart den
           gnides, den erstatter endog hos <persName>Oehlenschläger</persName> den naturlige
           Causalitet; anderledes Chagrinskindet; det udretter direkte ingen Ting, det sikrer kun det
           lykkelige Udfald og trækker sig derved stedse mere sammen. Det synes gjort af det
@@ -5142,7 +5142,7 @@
         <p>Først paa Revolutionstiden. I et lille Mesterværk »<bibl>Le Réquisitionnaire</bibl>«, en
           af de faa blandt hans Fortællinger, der udmærker sig ved en fuldendt novellistisk Form,
           behandler han, med Rædselsperioden som Baggrund, en Moders Kjærlighed til sin Søn. Den
-          afsidesliggende lille By, <persName type="fictional">Madame de Dey’s</persName>
+          afsidesliggende lille By, <persName type="fictional" key="balzac-madame-de-dey">Madame de Dey’s</persName>
           eiendommelige Hus ere malte med faa Streger. Frygten for den dødsdømte Søns Liv;
           Forventningen om hans Komme i Forklædning som Soldat, der skal indkvarteres; den fra Time
           til Time indtil den sene Aften forøgede Spænding, den unge Soldats tilsyneladende
@@ -5252,19 +5252,19 @@
           Pariserverdenen fra sin Provinds, hans gradvise Opdagen af denne Verdens sande
           Beskaffenhed, hans Skræk ved Opdagelsen, hans Vægren sig ved at gjøre som de Andre, hans
           Fristelser, endelig hans Skridt for Skridt, om end hurtigt, fuldbragte Opdragelse for det
-          Liv, der føres rundt om ham. <persName type="fictional">Rastignac’s</persName>
+          Liv, der føres rundt om ham. <persName type="fictional" key="balzac-rastignac">Rastignac’s</persName>
           Charakterudfoldning hører til det Dybeste, <persName>Balzac</persName> og overhovedet en
           moderne Romandigter har udført. Med stor Kunst er det vist, hvorledes fra de
           forskjelligste Sider, hvor blot ikke Hykleri eller Naivetet dicterer Ytringerne, den samme
           Opfattelse af Samfundet og de samme Lærdomme træde den unge Mand i Møde. Hans Slægtning og
-          Beskytterinde, den yndige og fornemme <persName type="fictional">Fru Beauséant</persName>,
+          Beskytterinde, den yndige og fornemme <persName type="fictional" key="balzac-claire-de-beauséant">Fru Beauséant</persName>,
           siger til ham: »Jo koldere De beregner, des videre vil De komme. Betragt Mænd og Kvinder
           kun som Postheste, hvem De kjører sønder og sammen til næste Holdested [...] naar De har
           en sand Følelse, saa vogt Dem vel for at røbe den, ellers bliver De Ambolt istedenfor
           Hammer [...] Finde Kvinderne Dem først aandrig, saa ville Mændene troe det, naar De da
           ikke river Dem alt for slemt ud af Illusionen [...] saa vil De ogsaa see, hvad Samfundet
           er, en Samling af Dumrianer og Slyngler. Vær De hverken blandt de første eller de sidste.«
-          Og den undvegne <pb n="260"/> Galeislave <persName type="fictional">Vautrin</persName>
+          Og den undvegne <pb n="260"/> Galeislave <persName type="fictional" key="balzac-vautrin">Vautrin</persName>
           siger til ham: »Man maa enten bryde sig Vei gjennem Menneskesværmen som en Kanonkugle
           eller snige sig ind i den som en Pest. Retskaffenhed er til ingen Nytte. Sværmen bøier sig
           under Geniets Magt; man hader det, man forsøger at bagvadske det, fordi det tager uden at
@@ -5275,12 +5275,12 @@
           retskafne Mand? I <placeName>Paris</placeName> er det den, som tier og vægrer sig ved at
           dele«.</p>
 
-        <p><persName type="fictional">Rastignac</persName> er hin Tids typiske unge Franskmand; han
+        <p><persName type="fictional" key="balzac-rastignac">Rastignac</persName> er hin Tids typiske unge Franskmand; han
           er velbegavet, men aldeles ikke ualmindelig og har ingen anden Idealisme end den, der
           beroer paa hans Tyveaars-Uerfarenhed. Greben og rystet ved alt det, han daglig seer og
           oplever, begynder han at tragte efter Lykkens Goder med stedse ringere
           Samvittighedsfuldhed, stedse heftigere Attraa. Hvor værgede han for sig, da <persName
-            type="fictional">Vautrin</persName> første Gang forelagde ham det bekjendte gamle
+            type="fictional" key="balzac-vautrin">Vautrin</persName> første Gang forelagde ham det bekjendte gamle
           Spørgsmaal, om han, hvis den blotte Villies-Akt var nok dertil, vilde slaae en ham
           ubekjendt Mandarin i China ihjel, naar han derved kunde opnaae den Million, han ønsker
           sig! og hvor snart derefter ligger ikke »Mandarinen« rallende i Døds<pb n="261"/>kamp. Han
@@ -5291,18 +5291,18 @@
           Drift. Der kommer et Tidspunkt, hvor han endnu er for ung til at beregne, men allerede
           gammel nok til at ubestemte Indfald og taageagtige Drømme opstaae i hans Hjerne, hvilke
           ikke vilde have efterladt noget altfor renligt Bundfald ifald man havde kunnet fortætte
-          dem chemisk. Hans Forhold til Verdensdamen <persName type="fictional">Delphine de
-            Nucingen</persName>, <persName type="fictional">Goriot’s</persName> Datter, fuldender
+          dem chemisk. Hans Forhold til Verdensdamen <persName type="fictional" key="balzac-delphine-de-nucingen">Delphine de
+            Nucingen</persName>, <persName type="fictional" key="balzac-goriot">Goriot’s</persName> Datter, fuldender
           hans Opdragelse. Han overskuer den Sum af smaa og store Jammerligheder, af hvilke det
-          høiere Selskabs Liv bestaaer og bliver samtidig bearbeidet af <persName type="fictional"
+          høiere Selskabs Liv bestaaer og bliver samtidig bearbeidet af <persName type="fictional" key="balzac-vautrin"
             >Vautrin’s</persName> spotske Cynisme. »Endnu to eller tre storpolitiske Overveielser«,
-          siger <persName type="fictional">Vautrin</persName>, »og De seer Verden som den er. Den
+          siger <persName type="fictional" key="balzac-vautrin">Vautrin</persName>, »og De seer Verden som den er. Den
           betydelige Mand tilfredsstiller, naar han blot af og til opfører nogle smaa Dydsscener,
           ethvert af sine Luner under Tossehovedernes Bifaldstorden i Parkettet [...] Jeg giver Dem
           gjerne Lov til at foragte mig endnu i Dag, da De dog siden hen vil holde af mig. De vil i
           mig finde de gabende Afgrunde, de store sammentrængte Følelser, som Svaghovederne kalde
           Laster, men De vil aldrig <pb n="262"/> finde mig feig eller utaknemmelig.« <persName
-            type="fictional">Rastignac’s</persName> Øine aabne sig, han seer Omgivelsernes hele
+            type="fictional" key="balzac-rastignac">Rastignac’s</persName> Øine aabne sig, han seer Omgivelsernes hele
           Skinvæsen, seer, hvorledes Sæderne og Lovene kun ere Skjærmbrædter, bag hvilke Frækheden
           handler frit. Overalt, overalt kun Skinværdighed, Skinvenskab, Skinkjærlighed, Skingodhed,
           Skinhellighed, Skinægteskaber. Med sjælden Magt har <persName>Balzac</persName> fastholdt
@@ -5312,7 +5312,7 @@
           tungsindigste og modløseste Overveielser. Han saa Samfundet for sig som et Ocean af Skarn,
           i hvilket den, der blot satte Foden ud deri, maatte synke indtil Halsen. Der begaaes kun
           smaalige Forbrydelser i det gode Selskab, sagde han til sig selv. <persName
-            type="fictional">Vautrin</persName> er større.« Saa, tilsidst, efter at han har maalt
+            type="fictional" key="balzac-vautrin">Vautrin</persName> er større.« Saa, tilsidst, efter at han har maalt
           dette Helvedes Omfang, indretter han sig husligt og hyggeligt deri og forbereder sig til
           at stige til Samfundets Spidser, til den Ministerpost, som hvis Indehaver vi i senere
           Romaner træffe ham igjen.</p>
@@ -5327,8 +5327,8 @@
             <persName>Balzac</persName> sønderdeler en Forbryders, en Kokettes, en Pengemands, en
           gammel misundelig Piges Sjæl. Den af Døtrene glemte og fornægtede gamle Fader, efter hvem
           Bogen har Navn, er ganske vist en ikke fuldt vellykket Skikkelse. <persName
-            type="fictional">Fa’er Goriot</persName> er et Offer, og <persName>Balzac</persName>
-          udvikler overfor de Ofrede altid Sentimentalitet. Han kalder <persName type="fictional"
+            type="fictional" key="balzac-goriot">Fa’er Goriot</persName> er et Offer, og <persName>Balzac</persName>
+          udvikler overfor de Ofrede altid Sentimentalitet. Han kalder <persName type="fictional" key="balzac-goriot"
             >Goriot</persName> smagløst for »Faderkjærlighedens Christus«. Han giver desuden hans
           Kjærlighed til sine Døtre en saa sandselig Charakter, at den i sin Hysteri næsten bliver
           En led<note place="bottom">Min Gud! Græde, hun har grædt? – Ja med Hovedet mod min Vest,
@@ -5343,12 +5343,12 @@
           </app>. Som i et Epigram spidser den hele Juvenalske Satire over Samfundet sig til, da
           Delphine ikke vil besøge sin døende Fader, fordi hun, for socialt at komme et Trin høiere
             <pb n="264"/> op, absolut vil benytte den længe ønskede Indbydelse til Ballet hos
-            <persName type="fictional">Fru Beauséant</persName> – dette Bal til hvilket »hele Paris«
+          <persName type="fictional" key="balzac-claire-de-beauséant">Fru Beauséant</persName> – dette Bal til hvilket »hele Paris«
           kun styrter hen for med grusom Nysgjerrighed i Værtindens Miner at udspeide Kvalen over
           hendes Elskers Forlovelse, der først samme Morgen er bleven hende meddelt.</p>
 
-        <p>Vi følge <persName type="fictional">Delphine</persName> som hun i sin Ekvipage ved
-            <persName type="fictional">Rastignac’s</persName> Side kjører til Ballet. Den unge Mand,
+        <p>Vi følge <persName type="fictional" key="balzac-delphine-de-nucingen">Delphine</persName> som hun i sin Ekvipage ved
+          <persName type="fictional" key="balzac-rastignac">Rastignac’s</persName> Side kjører til Ballet. Den unge Mand,
           der godt føler, at hun var i Stand til at gaae over sin Faders Lig for at vise sig paa
           dette Bal, men som hverken har Kraft til at bryde med hende eller Mod til at mishage hende
           ved Bebreidelser, kan dog ikke lade være at skildre hende Faderens sørgelige Tilstand med
@@ -5358,9 +5358,9 @@
           men hun er et levende Billede af Samfunds-Disharmonierne, uadelig født, adelig gift, rig
           og berøvet al Raadighed over sin Formue ved et usselt Ægteskab, nydelsessyg, tom og
           ærgjerrig. <persName>Balzac’s</persName> digteriske Kraft var ikke tilstrækkelig til at
-          fremstille en <persName type="fictional">Cordelia</persName> i Shakspeare’sk Simpelhed og
+          fremstille en <persName type="fictional" key="shakespeare-cordelia">Cordelia</persName> i Shakspeare’sk Simpelhed og
           Renhed, thi det Ædles Himmelkreds er ikke hans; men han har forstaaet at forme en
-            <persName type="fictional">Regan</persName> og en <persName type="fictional"
+          <persName type="fictional" key="shakespeare-regan">Regan</persName> og en <persName type="fictional" key="shakespeare-goneil"
             >Goneril</persName> menneskeligere og sandere end den store Britte. <pb n="265"/></p>
       </div>
       <div>
@@ -5486,15 +5486,15 @@
           Personer; de stod efterhaanden saa levende for ham, at han talte til sine Bekjendte om dem
           som om virkelige Personligheder. Han sagde, naar han foretog en af sine Reiser til de
           Steder, han vilde skildre: »Jeg reiser til <placeName>Alençon</placeName>, hvor <persName
-            type="fictional">Frøken Cormon</persName> lever, til <placeName>Grenoble</placeName>,
-          hvor <persName type="fictional">Doctor Bénassis</persName> boer.« Han meddelte sin Søster
+            type="fictional" key="balzac-cormon">Frøken Cormon</persName> lever, til <placeName>Grenoble</placeName>,
+          hvor <persName type="fictional" key="balzac-benassis">Doctor Bénassis</persName> boer.« Han meddelte sin Søster
           Efterretninger fra sin opdigtede Verden: »Veed Du, hvem Felix de Vandenesse gifter sig
           med? Med en Frøken de Grandville; det er et godt Parti trods alle de Penge, <persName
-            type="fictional">Frøken de Bellefeuille</persName> har kostet Familien.« Ja en Dag, da
+            type="fictional" key="balzac-bellefeuille">Frøken de Bellefeuille</persName> har kostet Familien.« Ja en Dag, da
             <persName>Jules Sandeau</persName> talte med ham om sin syge Søster og
             <persName>Balzac</persName> nogen Tid adspredt havde hørt til, afbrød han ham med de
           Ord: »Det er altsammen godt nok, kjære Ven, men lad os vende tilbage til
-            <emph>Virkeligheden</emph>, lad os tale om <persName type="fictional">Eugénie
+          <emph>Virkeligheden</emph>, lad os tale om <persName type="fictional" key="balzac-eugenie-grandet">Eugénie
             Grandet</persName>.« Det var nødvendigt, selv at føle Illusionen med en saadan Magt for
           at kunne meddele andre den med en tilnærmelsesvis lignende Styrke. Hans Fantasi havde den
           bydende Kraft, der ikke tillader nogen Tvivl at opstaae. Man underkastede sig den ogsaa i
@@ -5524,7 +5524,7 @@
           Vanen til at frembringe, uden hvilken Inspirationen saa hurtig forflygtiges.</p>
 
         <p>Naar han i sin Roman »<bibl>Cousine Bette</bibl>« med Henblik paa den geniale
-          Billedhugger <persName type="fictional">Wenceslas Steinbock’s</persName> Dovenskab citerer
+          Billedhugger <persName type="fictional" key="balzac-wenceslas-steinbock">Wenceslas Steinbock’s</persName> Dovenskab citerer
           dette Ord af »en stor Digter«: »Jeg sætter mig til mit Arbeid med Fortvivlelse og forlader
           det med Sorg«, saa er dette øiensynlig kun en quasi-beskeden Form for Selvciteren. Og han
           tilføier: »Dersom Kunstneren ikke uden Betænkning styrter sig ned i sit Værk som Curtius
@@ -5579,7 +5579,7 @@
           Historien taler om – og <persName>Balzac</persName> har Blik derfor.</p>
 
         <p>Allerede i »<bibl>Eugénie Grandet</bibl>« forekommer der Vendinger, som vise det. Hvor
-          det Tidspunkt nærmer sig, da <persName type="fictional">Eugénie</persName> maa tilstaae
+          det Tidspunkt nærmer sig, da <persName type="fictional" key="balzac-eugenie-grandet">Eugénie</persName> maa tilstaae
           sin gjærrige Fader, at hun ikke mere har sine Dukater, ja endog har foræret dem bort,
           skriver <persName>Balzac</persName>: »Om tre Dage skulde et frygteligt Skuespil foregaae,
           en borgerlig Tragedie uden Gift og Dolk og Blodsudgydelse, men grusommere end noget Drama
@@ -5602,13 +5602,13 @@
           Tilværelsen at læse et Heltedigt; jeg viser, at et uanseeligt Privatlivs Hændelser, naar
           man sammenknytter dem med deres Aarsager og Principer, ere lige saa vigtige og spændende,
           som de største Omvæltninger i Folkenes Liv. Og da i Mesterværket »<bibl>Un ménage de
-            garçon</bibl>« den snu og smukke Slagsbroder <persName type="fictional">Max
+            garçon</bibl>« den snu og smukke Slagsbroder <persName type="fictional" key="balzac-max">Max
             Gilet</persName> er faldet i Duel, siger Digteren endelig: »Saaledes døde en af hine
           Mænd, der ere i Stand til at udrette store Ting, naar de ere stillede i gunstige
           Omgivelser, en Mand, der af Naturen var behandlet som forkjælet Barn; thi den gav ham en
             <persName>Cæsar Borgia’s</persName> Mod, Koldblodighed og politisk Sands«. Saa slaaende
           ere disse sidste Ord, at det synes Læseren, som kjendte han nu først <persName
-            type="fictional">Max</persName> fuldstændigt, naar han seer hans Væsen i Belysning af
+            type="fictional" key="balzac-max">Max</persName> fuldstændigt, naar han seer hans Væsen i Belysning af
           dette Navn. <pb n="278"/></p>
 
         <p>Og som Lasten saaledes er Dyden hos <persName>Balzac</persName> altid et Product. Skjøndt
@@ -5626,7 +5626,7 @@
           lille Bys og en der og i Hovedstaden forgrenet Families Psychologi. Hovedskikkelsen er en
           forfalden og raa Officier af <persName>Napoleons</persName> Garde, oprindelig kraftig
           anlagt, den brutale, voldsomme Egoisme i Person. Han er Oldtidens <persName
-            type="fictional">miles gloriosus</persName><!-- Pyrgopolynices --> (storpralende
+            type="fictional" key="pyrgopolynices">miles gloriosus</persName><!-- Pyrgopolynices --> (storpralende
           Soldat), som her i Stedet for at være feig, er forbryderagtigt udviklet. Den anden Roman,
           et af hans mest bekjendte og læste Værker, fremstiller med uovertruffen Sandhed Erotismens
           tilintetgjørende Magt. <persName>Shakspeares</persName> »<bibl>Antonius og
