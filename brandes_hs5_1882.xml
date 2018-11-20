@@ -179,7 +179,7 @@
           Sværmeri for Katholicisme, Kongemagt og Middelalder, fuldstændig skiftede Charakter.
             <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName>
           Udstødelse af Ministeriet <persName key="joseph-comte-de-villele">Villèle</persName> havde
-          jo givet Signalet<note place="bottom">Se »<bibl xml:id="reactionen-i-frankrig">Reactionen
+          jo givet Signalet<note place="bottom">Se »<bibl n="reactionen-i-frankrig">Reactionen
               i Frankrig</bibl>« S. 346.</note>. Og dernæst havde Aandslivet i selve de høieste
           Samfundskredse, som bestemte Skjønlitteraturens Tone og Stil, kun staaet i den mest
           udvortes Forbindelse med den politiske Reaktion. <ref target="n1624"/>Restaurationen var
@@ -362,8 +362,8 @@
           følte det med Ydmygelse, og denne Følelse gav den nye Kunstbegeistring en Braad. Samtidig
           kom de hidtil ukjendte eller samtidige fremmede Værker over Grændserne og revolutionerede
           de unge Sind; man læste <persName>Walter Scotts</persName> Romaner,
-            <persName>Byrons</persName> »<bibl>Corsar</bibl>« og »<bibl>Lara</bibl>« i Oversættelse,
-          man slugte <persName>Goethes</persName> »<bibl>Werther</bibl>« og
+          <persName>Byrons</persName> »<bibl n="byron-the-corsair-a-tale">Corsar</bibl>« og »<bibl n="byron-lara">Lara</bibl>« i Oversættelse,
+          man slugte <persName>Goethes</persName> »<bibl n="goethe-die-leiden-des-jungen-werthers-vol-1-2">Werther</bibl>« og
             <persName>Hoffmanns</persName> fantastiske Fortællinger. Og paa een Gang følte de
           forskjellige Kunsters Dyrkere sig som Brødre. Man havde Musikere, der studerede de
           fremmede og indenlandske Poesier, Digtere, der (som <persName>Hugo</persName>,
@@ -378,9 +378,9 @@
             <persName>Halévy</persName>, <persName>Félicien David</persName>) og Malerne
             (<persName>Delacroix</persName>, <persName>Delaroche</persName>,
             <persName>Scheffer</persName>). Kunsterne søge at overskride deres eget Omraade for at
-          nærme sig en Søsterkunst. <persName>Berlioz</persName> skriver Symfonierne »<bibl>Childe
-            Harold</bibl>« og »<bibl>Faust</bibl>«, <persName>Félicien David</persName>
-            »<bibl>Ørkenen</bibl>«; Musiken bliver malende, Programmusik.
+          nærme sig en Søsterkunst. <persName>Berlioz</persName> skriver Symfonierne »<bibl n="Childe-harold's-pilgrimage">Childe
+            Harold</bibl>« og »<bibl n="goethe-faust">Faust</bibl>«, <persName>Félicien David</persName>
+          »<bibl n="david-le-desert">Ørkenen</bibl>«; Musiken bliver malende, Programmusik.
             <persName>Delacroix</persName> og efter ham Ary <persName>Scheffer</persName> vælge sig
           Sujetter af <persName>Dante</persName>, <persName>Shakspeare</persName> og
             <persName>Byron</persName>; Malerkunsten nærmer sig undertiden til Illustration af
@@ -392,13 +392,13 @@
 
         <p>1824 udstiller <persName>Delacroix</persName> sit om <persName>Byron</persName>
           erindrende Grækerbillede »Massakren paa Skios«, 1831 et andet Billed, »Biskoppen af
-          Lüttich«, der illustrerer <persName>Scotts</persName> »<bibl>Quentin Durward</bibl>«, Mai
+          Lüttich«, der illustrerer <persName>Scotts</persName> »<bibl n="scott-quentin-durward">Quentin Durward</bibl>«, Mai
           1831 sit Maleri »Friheden paa Barrikaden«. Februar 1829 vækker <persName>Auber</persName>
-          en Storm i den store Opera med sit Værk »<bibl>Den Stumme i Portici</bibl>«,
-            <persName>Meyerbeers</persName> »<bibl>Robert le Diable</bibl>« følger 1831, Februar
-          1830 spilles <persName>Victor Hugos</persName> »<bibl>Hernani</bibl>« første Gang paa
+          en Storm i den store Opera med sit Værk »<bibl n="auber-den-stumme-i-portici">Den Stumme i Portici</bibl>«,
+          <persName>Meyerbeers</persName> »<bibl n="meyerbeer-robert-le-diable">Robert le Diable</bibl>« følger 1831, Februar
+          1830 spilles <persName>Victor Hugos</persName> »<bibl n="hugo-hernani">Hernani</bibl>« første Gang paa
             <placeName>Théâtre français</placeName>, 1831 gjør <persName>Dumas’s</persName>
-          <pb n="20"/> »<bibl>Antony</bibl>« Furore. Samtidigt opstaaer <persName>Hugo</persName> i
+          <pb n="20"/> »<bibl n="dumas-den-aeldre-antony">Antony</bibl>« Furore. Samtidigt opstaaer <persName>Hugo</persName> i
           Poesien, <persName>Delacroix</persName> i Malerkunsten, <persName>David
             d’Angers</persName> i Billedhuggerkunsten, <persName>Berlioz</persName> og
             <persName>Auber</persName> i Musiken, <persName>Sainte-Beuve</persName> og
@@ -476,7 +476,7 @@
             <persName>Nodier</persName>, og fremfor Alt <persName>Sainte-Beuve’s</persName> Digte
           til alle Skolens Bannerførere, endelig <persName>Madame de Girardin’s</persName> Ar<pb
             n="24"/>tikler, <persName>Balzacs</persName> Dedicationer, <persName>George
-            Sands</persName> »<bibl>Lettres d’un voyageur</bibl>« ere Vidnesbyrd om en oprigtig,
+              Sands</persName> »<bibl n="sand-lettres-dun-voyageur">Lettres d’un voyageur</bibl>« ere Vidnesbyrd om en oprigtig,
           brændende Beundring, der ikke tillod Digternes og Skribenternes til Ordsprog blevne
           Misundelse mod hinanden at komme op.</p>
 
@@ -485,12 +485,12 @@
           der knytter den ene af Periodens Skribenter til den anden. <persName>Emile
             Deschamps</persName> viser <persName>Hugo</persName> Veien til poetisk Behandling af den
           gamle spanske Romancero, <persName>Gautier</persName> skriver den skjønne
-            <bibl>Tulipansonet</bibl> i <persName>Balzacs</persName> »<bibl>Un grand homme de
+          <bibl n="La-tulipe">Tulipansonet</bibl> i <persName>Balzacs</persName> »<bibl n="un-grand-homme-de-province-a-paris">Un grand homme de
             province à Paris</bibl>« og hjælper ham med at dramatisere sine theatralske Æmner,
             <persName>Sainte-Beuve</persName> læser <persName>George Sands</persName> Manuscripter
           igjennem for hende og staar hende bi med kritiske Raad, hun og <persName>Musset</persName>
           lade i et givet Øieblik deres Inspirationer smelte sammen, <persName>Madame de
-            Girardin</persName> forfatter <bibl>en Roman i Breve</bibl> sammen med
+            Girardin</persName> forfatter <bibl n="girardin-lettres-parisiennes-1836-1848">en Roman i Breve</bibl> sammen med
             <persName>Méry</persName>, <persName>Sandeau</persName> og <persName>Gautier</persName>,
           og <persName>Mérimée</persName> forbinder Realisterne <persName>Beyle</persName> og
             <persName>Vitet</persName> med den egentlige romantiske Leir.</p>
@@ -543,9 +543,9 @@
             Hugo’s</persName> Dramer betraadte den dybtfølende Plebeier, Hævneren og Gjengjælderen,
           Scenen som Helt. Tidligere havde Barbaren talt som en Franskmand fra det 18de Aarhundrede
             (<persName>Montesquieu</persName>, <persName>Voltaire</persName>).
-            <persName>Mérimée</persName> fremstillede i »<bibl>Colomba</bibl>« og
-            »<bibl>Carmen</bibl>« barbariske Følelser i deres naive Vildhed og Friskhed. Hos
-            <persName>Racine</persName> havde Barnet (i »<bibl>Athalie</bibl>«) talt som en Voxen i
+          <persName>Mérimée</persName> fremstillede i »<bibl n="merimee-colomba">Colomba</bibl>« og
+          »<bibl n="merimee-carmen">Carmen</bibl>« barbariske Følelser i deres naive Vildhed og Friskhed. Hos
+          <persName>Racine</persName> havde Barnet (i »<bibl n="racine-athalie">Athalie</bibl>«) talt som en Voxen i
           Miniature; <persName>Nodier</persName> lagde med barnligt Hjerte Børnene uskyldige Ord i
           Munden. Tidligere havde i fransk Poesi Kvinden hyppigst været bevidst og ræsonnerende som
           en Mand. Saaledes hos <persName>Corneille</persName>, <persName>Molière</persName> og
@@ -553,16 +553,16 @@
             <persName>Crébillon fils</persName> Letfærdigheden <pb n="27"/> og Lasten, men Dyd og
           Last vare begge bevidste og erhvervede. <persName>George Sand</persName> fremstilte
           derimod ædle Kvindehjerters medfødte Adel og oprindelige Godhed. <persName>Madame de
-            Staël</persName> havde i »<bibl>Corinna</bibl>« forherliget den overlegne Kvinde-Aand
+            Staël</persName> havde i »<bibl n="stael-holstein-madame-de-stael-corinne-ou-litalie">Corinna</bibl>« forherliget den overlegne Kvinde-Aand
           som stort seirrigt Talent. <persName>George Sand</persName> skildrede i
-            »<bibl>Lélia</bibl>« det kvindelige Geni som den mægtige Sibylle. Efter den gamle
+          »<bibl n="sand-lelia">Lélia</bibl>« det kvindelige Geni som den mægtige Sibylle. Efter den gamle
           Opfattelse var Digteren (som <persName>Racine</persName> og <persName>Molière</persName>)
           en Hofmand, eller (som <persName>Voltaire</persName> og <persName>Beaumarchais</persName>)
           en Verdensmand, eller (som <persName>Lafontaine</persName>) simpelthen en skikkelig Fyr.
           Nu blev han Samfundets udstødte Stedbarn, Menneskeslægtens Ypperstepræst, ofte fattig og
           overseet, men med Stjernen paa Panden og Ild paa sin Tunge; <persName>Hugo</persName>
           priste ham i sine Digte som Folkenes Hyrde og <persName>de Vigny</persName> fremstilte ham
-          i »<bibl>Stello</bibl>« og »<bibl>Chatterton</bibl>« som det ophøiede Barn, der heller
+          i »<bibl n="vigny-stello-ou-les-diables-bleus">Stello</bibl>« og »<bibl n="vigny-chatterton">Chatterton</bibl>« som det ophøiede Barn, der heller
           døer af Sult end det fornedrer sin Musa ved almindeligt Arbeid, men som endnu i Døden
           velsigner Menneskeheden, der for sent erkjender dets Værd.</p>
       </div>
@@ -583,7 +583,7 @@
           Menneskehed i Almindelighed; der gaves Racer og Stammer, Folkeslag og Claner. End mindre
           var Franskmanden Universalmennesket. Det gjaldt om at arbeide sig ud af sig selv for at
           forstaae og fremstille Menneskeverdenen. Med dette Løsen var Stødet givet til Frankrigs
-          hele Kunst og Kritik i dette Aarhundrede.<note place="bottom">G. Brandes: »<bibl>Kritiker
+          hele Kunst og Kritik i dette Aarhundrede.<note place="bottom">G. Brandes: »<bibl n="brandes-kritiker-og-portraiter">Kritiker
               og Portraiter</bibl>«<!-- cit start og slut indsat -->, S. 228.</note></p>
         <p>Og nu forsøgte man at opdrage sit Publicum for dette nye Synspunkt. Man skrev ikke for at
           behage Publicum, og det er dette, som giver Bøgerne fra denne Periode deres Værd. Derfor
@@ -621,13 +621,13 @@
           Element.</p>
 
         <p>I Aaret 1827 gjæstede engelske Skuespillere <placeName>Paris</placeName>, og for første
-          Gang saae Franskmændene <persName>Shakspeares</persName> Mesterværker, »<bibl>Kong
+          Gang saae Franskmændene <persName>Shakspeares</persName> Mesterværker, »<bibl n="shakespeare-king-lear">Kong
             Lear</bibl>«<!-- cit start og slut indsat -->,
-          »<bibl>Macbeth</bibl>«<!-- cit start og slut indsat -->,
-          »<bibl>Othello</bibl>«<!-- cit start og slut indsat -->,
-          »<bibl>Hamlet</bibl>«<!-- cit start og slut indsat -->, beundringsværdigt spillede. Det
+          »<bibl n="shakespeare-macbeth">Macbeth</bibl>«<!-- cit start og slut indsat -->,
+          »<bibl n="shakespeare-othello">Othello</bibl>«<!-- cit start og slut indsat -->,
+          »<bibl n="shakespeare-hamlet">Hamlet</bibl>«<!-- cit start og slut indsat -->, beundringsværdigt spillede. Det
           var under Indtrykket af disse Theateraftener, at <persName>Hugo</persName> skrev sin
-          Fortale til »<bibl>Cromwell</bibl>«, der opfattedes som den nye Litteraturs Program. <pb
+          Fortale til »<bibl n="hugo-cromwell">Cromwell</bibl>«, der opfattedes som den nye Litteraturs Program. <pb
             n="31"/></p>
 
         <p>Den poetiske Befrielseskrig begyndte med et Stormløb mod den klassiske franske Tragedie,
@@ -678,7 +678,7 @@
           Organisation, hvorimod det Hæslige er Led i en meget større Harmoni, vi ikke kunne
           oversee, snart saaledes, at det Skjønne er fattigt, kun har en eneste Type, det Hæslige
           tusind o. s. v. Læren blev af Modstanderne parodieret med Formelen »le Laid c’est le Beau«
-          (»Foul is fair«, som Hexene i »<bibl>Macbeth</bibl>« synge) og bekjæmpet med de
+          (»Foul is fair«, som Hexene i »<bibl n="shakespeare-macbeth">Macbeth</bibl>« synge) og bekjæmpet med de
           Indvendinger, der i vore Dage af Romantikerne selv gjøres gjældende mod den yderliggaaende
           Naturalisme.</p>
 
@@ -706,8 +706,8 @@
           Summen af en overmenneskelig Idealitet og en unaturlig Dyriskhed, altsaa som Addition af
           to Overnaturligheder. Det var den tydsk-nordiske Romantiks Naturbegreb, der dog
           efterhaanden hos <persName>Hugo</persName> veg for den storartede Pantheisme, der har
-          fundet sit afgjørende Udtryk i det skjønne og dybsindige Digt »<bibl>Le Satyre</bibl>« i
-            »<bibl>Aarhundredernes Legende</bibl>«.</p>
+          fundet sit afgjørende Udtryk i det skjønne og dybsindige Digt »<bibl n="le-satyre">Le Satyre</bibl>« i
+          »<bibl n="hugo-la-legende-des-siecles">Aarhundredernes Legende</bibl>«.</p>
 
         <p>Men denne Dobbelthed af Kjærlighed til Naturen og Sværmeri for det Unaturlige lader sig
           forfølge langt ind i den nu opblomstrende Litteratur. Alle disse Forfattere prise Naturen.
@@ -715,8 +715,8 @@
           er altfor ofte den simple nær<pb n="35"/> liggende Natur. Kun den romantiske Natur er dem
           kjær. Fra den haarde Virkeligheds Land tyer <persName>George Sand</persName> ind i de
           skjønne Drømmes Rige, <persName>Théophile Gautier</persName> ind i den skjønne Kunsts.
-            <persName>George Sand</persName> lod i »<bibl>Lélia</bibl>«, <persName>Balzac</persName>
-          i »<bibl>Père Goriot</bibl>« den ideale eller almægtige Galeislave dømme Samfundet, ja
+          <persName>George Sand</persName> lod i »<bibl n="sand-lelia">Lélia</bibl>«, <persName>Balzac</persName>
+          i »<bibl n="balzac-le-pere-goriot">Père Goriot</bibl>« den ideale eller almægtige Galeislave dømme Samfundet, ja
             <persName>Balzac</persName> skrev fantastiske Legender efter
             <persName>Hoffmanns</persName> Mønster. Og som de i deres Skikkelser ofte skye det
           Simple og Jævne, saaledes end mere i det sproglige Udtryk. Der udviklede sig snart en
@@ -729,10 +729,10 @@
         <p>Hos <persName>Hugo</persName>, Skolens Stifter, var Dobbeltkjærligheden til Natur og
           Unatur betinget ved en individuel Eiendommelighed. Hans Øie var anlagt paa at see og finde
           Contraster, hans Aand var saaledes bygget, at den rhetoriske Antithese var dens Grundform.
-          Allerede i Melodramet »<bibl>Inez de Castro</bibl>« fra hans Drengeaar finder man som
-          senere i hans »<bibl>Marie Tudor</bibl>« paa den ene Side af Scenen Tronen, paa den anden
+          Allerede i Melodramet »<bibl n="hugo-inez-de-castro">Inez de Castro</bibl>« fra hans Drengeaar finder man som
+          senere i hans »<bibl n="hugo-marie-tudor">Marie Tudor</bibl>« paa den ene Side af Scenen Tronen, paa den anden
           Skafottet, Monarken og Bøddelen Ansigt til Ansigt. Kort før Fortalen til
-            »<bibl>Cromwell</bibl>« skreves, spadserede <persName>Hugo</persName>, som
+          »<bibl n="hugo-cromwell">Cromwell</bibl>« skreves, spadserede <persName>Hugo</persName>, som
             <persName>hans Hustru</persName>
           <pb n="36"/> fortæller, hyppig paa en af de ydre Boulevarder, <placeName>Boulevard
             Montparnasse</placeName>. »Lige overfor Kirkegaarden havde den Gang Linedandsere og
@@ -5650,7 +5650,7 @@
           Billede af Pressen, hvilket de Journalister, der følte sig ramte, aldrig tilgav ham.
           Blandt disse var <persName>Jules Janin</persName> den betydeligste; han var i Romanen just
           ikke hadefuldt men heller ikke smigrende portræteret under Navnet <persName
-            type="fictional">Étienne Lousteau</persName>. Des pikantere var det og er det endnu at
+            type="fictional" key="balzac-etienne-lousteau">Étienne Lousteau</persName>. Des pikantere var det og er det endnu at
           læse hans Kritik af Bogen. Den udkom 1839 i »<bibl>Revue de Paris</bibl>«, et Tidsskrift,
           ved hvilket <pb n="280"/>
           <persName>Balzac</persName> selv havde været fast Medarbeider, men som efter at han havde
@@ -5663,10 +5663,10 @@
             <placeName>Paris</placeName>. Et Kjærlighedsforhold imellem dem stod i Begreb med at
           blive beseglet ved et fælles Ophold i <placeName>Paris</placeName>, da Damen pludselig,
           efter at være optagen som jævnbyrdig i den store Pariserverden, seer sig selv og sin
-          Ridder med helt nye Øine. Kulde og Brud fra hendes Side; <persName type="fictional"
+          Ridder med helt nye Øine. Kulde og Brud fra hendes Side; <persName type="fictional" key="balzac-lucien-de-rubempre"
             >Lucian</persName> bliver overstraalet af en halvtredsindstyveaarig Dandy. Vi opleve nu
           en ny Variation af Provindsboerens Opdragelse til Pariser. Det har været <persName
-            type="fictional">Lucians</persName> Hensigt at debutere som Digter; han har skrevet en
+            type="fictional" key="balzac-lucien-de-rubempre">Lucians</persName> Hensigt at debutere som Digter; han har skrevet en
           Roman i <persName>Walter Scotts</persName> Manér og et Bind Digte, og han har gjort
           Bekjendtskab med en lille Kreds af stolte og fattige Studerende, Elite-Aander, hvem
           Frankrigs Fremtid tilhører. Men Fattigdommens, Resignationens, de anstrængende Studiers og
@@ -5676,9 +5676,9 @@
           Muligheden til fuldstændigt at tilfredsstille sin Attraa, hans Hoved svimler, og han
           styrter sig hovedkulds, uden nogen Sag eller noget Princip, ned i Journalistiken.</p>
 
-        <p><persName type="fictional">Lousteau</persName> indfører ham i en stor
+        <p><persName type="fictional" key="balzac-etienne-lousteau">Lousteau</persName> indfører ham i en stor
             <placeName>Palais-Royal</placeName> Boghandlers og Avisbesidders Boglade. »For hver
-          Sætning, som Boghandleren sagde, voxede han i <persName type="fictional"
+          Sætning, som Boghandleren sagde, voxede han i <persName type="fictional" key="balzac-lucien-de-rubempre"
             >Lucians</persName> Øine, der saa Politiken og Litteraturen strømme sammen i denne Butik
           som i et enkelt Punkt. Ved Synet af en udmærket Digter, der i Samtalen gav sin Muse til
           Pris for en Journalist [...] modtog den store Mand fra Provindserne en frygtelig Lære.
@@ -5686,11 +5686,11 @@
           kun ved den Traad, et tvivlsomt Venskabsforhold afgav, knyttet til Lykken. Han anklagede
           sine sande, sine bekymrede Venner fra det litterære »Cénacle« for at have malt ham Verden
           med falske Farver og have forhindret ham fra med Pennen i Haanden at styrte sig ind i det
-          store Haandmænge«. Fra Bogladen gaa Vennerne i Theatret. <persName type="fictional"
+          store Haandmænge«. Fra Bogladen gaa Vennerne i Theatret. <persName type="fictional" key="balzac-etienne-lousteau"
             >Lousteau</persName> er som Journalist overalt velkommen. Direktøren forklarer dem,
           hvorledes en mod Stykket iværksat Kabale er bleven sprængt af hans to smukkeste
           Skuespillerinders rige Beundrere ved Overbetaling. »I de sidste to Timer opløste for
-            <persName type="fictional">Lucian’s</persName>
+          <persName type="fictional" key="balzac-lucien-de-rubempre">Lucian’s</persName>
           <pb n="282"/> Øre alt sig i Penge. I Theatret som i Bogladen, hos Forlæggeren som i
           Redactionskontoret var der ingen Tale om Kunst eller virkelig Fortjeneste. Han følte sig
           tilmode, som om Møntens store Prægestok bearbeidede hans Hoved og hans Hjerte med stedse
@@ -5895,7 +5895,7 @@
             <persName>Victor Hugo</persName> som <persName>Leonardo</persName> over
             <persName>Beyle</persName>, men ligesom <persName>Hugo</persName> nærmer sig til Stilen
           i <persName>Michel Angelo’s</persName> Moses, saaledes har <persName>Beyle’s</persName>
-          <persName type="fictional">Hertuginde af Sanseverina</persName> et Slægtskab med
+          <persName type="fictional" key="stendhal-gina-sanseverina">Hertuginde af Sanseverina</persName> et Slægtskab med
             <persName>Leonardo’s</persName> Mona Lisa, og i Forholdet er der trods de store
           Italieneres mægtige Overlegenhed ikke ringe Lighed. <persName>Beyle</persName> er
           Ideologen blandt Datidens franske Skribenter som <persName>Leonardo</persName> Ideologen
@@ -5982,16 +5982,16 @@
           latterlig Blanding af Hovmod og Trang til at more mig. <pb n="297"/> Jeg besvarede de
           andre Drenges hvasseste Egoisme med mine spansk adelige Æresbegreber, og jeg var halvt
           fortvivlet, naar de legede indbyrdes og lode mig staae«. Man sammenligne disse Ord med den
-          unge <persName type="fictional">Fabrice’s</persName> bitre Skuffelse (i »<bibl>La
+          unge <persName type="fictional" key="standhal-fabrice-del-dongo">Fabrice’s</persName> bitre Skuffelse (i »<bibl>La
             Chartreuse de Parme</bibl>« fra 1839), da han under Slaget ved
             <placeName>Waterloo</placeName> beder Soldaterne, han møder, om et Stykke Brød og
           affærdiges med en Vittighed: »Dette haarde Ord og den almindelige Grinen, der fulgte,
-          overvældede <persName type="fictional">Fabrice</persName>. Krigen var da altsaa ikke hint
+          overvældede <persName type="fictional" key="standhal-fabrice-del-dongo">Fabrice</persName>. Krigen var da altsaa ikke hint
           ædle og fælles Opsving af Aander, der elskede Hæderen over Alt, saaledes som han havde
           tænkt sig den efter <persName>Napoleons</persName> Proclamationer!« Man kan let forestille
           sig, hvilke Erindringer om vilde Udbrud af dyrisk Egoisme <persName>Beyle</persName> havde
           samlet under sine Felttog; ud fra dem har han øiensynligt formet <persName
-            type="fictional">Fabrice’s</persName> Erfaringer. Han har fra først af dannet sig for
+            type="fictional" key="standhal-fabrice-del-dongo">Fabrice’s</persName> Erfaringer. Han har fra først af dannet sig for
           idealt et Begreb om Kammeratskabsfølelsen mellem Skoledrenge som mellem Soldater.</p>
 
         <p>Omtrent fra 1798 af lagde han sig med Lidenskab efter Mathematik, og det, som han sagde
@@ -6007,14 +6007,14 @@
           efter Statscoupet blev udnævnt til Generalsecretær for Krigen og Inspectør over Revuerne,
           knyttede han <persName>Beyle</persName> til sit Ministerium. Jeg troer at finde en
           Erindring om hin Volontærstilling hos <persName>Daru</persName><!-- Pierre Daru --> i
-            <persName type="fictional">Julien’s</persName> Ansættelse hos <persName type="fictional"
+          <persName type="fictional" key="julien-sorel">Julien’s</persName> Ansættelse hos <persName type="fictional" key="stendhal-le-marquis-de-la-mole"
             >Grev de la Mole</persName> (i »<bibl>Rouge et noir</bibl>«).
             <persName>Colomb</persName> fortæller, at <persName>Beyle</persName> en af de første
           Dage, da <persName>Daru</persName><!-- Pierre Daru --> dicterede ham et Brev, i
           Distraction skrev »cela« med to l’er og modtog en spøgende, men derfor ikke mindre
           ydmygende Irettesættelse derfor; det samme Træk findes nøiagtigt i Romanen. Ikke desmindre
           var <persName>Daru</persName><!-- Pierre Daru --> øiensynligt en ganske anderledes
-          fintfølende og elskværdig Beskytter end <persName type="fictional">Hr. de la
+          fintfølende og elskværdig Beskytter end <persName type="fictional" key="stendhal-le-marquis-de-la-mole">Hr. de la
             Mole</persName> og han blev fra først til sidst sin unge Protégé en trofast Hjælper. Det
           var et Spil af Skjæbnen, at denne Mand, der ved Siden af sin eminente Begavelse for den
           krigerske Administration besad fremragende litterære Talenter og som ved sin
@@ -6050,7 +6050,7 @@
           og Forstand, hvormed han udførte de forskjellige Hverv, der bleve ham overdragne. Vil man
           have et nøiagtigt Billede af den unge <persName>Beyle’s</persName> Følelsesliv som
           Tilskuer til Slaget ved Marengo behøver man øiensynligt kun at studere <persName
-            type="fictional">Fabrice del Dongo’s</persName> barnligt enthousiastiske og heroiske
+            type="fictional" key="standhal-fabrice-del-dongo">Fabrice del Dongo’s</persName> barnligt enthousiastiske og heroiske
           Stemninger som Tilskuer til <placeName>Waterloo</placeName>slaget. Denne Skildring skylder
           utvivlsomt den tro Gjengivelse af personlige Oplevelser en Del af sit uforlignelige
           Mesterskab. Hint Tidsrum, der begynder med Ynglingens Ridt over Alperne og som ender med
@@ -6335,7 +6335,7 @@
             befinder sig. Omgivelserne kunne ikke gjøre noget til hans Lykke, Ros fra disse
             Mennesker vilde efter kort Tids Forløb blive mig modbydelig og deres Kritik vilde pine
               mig.<p>Paa lignende Maade hedder det i fjerde Kapitel af »<bibl>La chartreuse de
-                Parme</bibl>«: Kammeraterne fandt <persName type="fictional">Fabrice</persName>
+                Parme</bibl>«: Kammeraterne fandt <persName type="fictional" key="standhal-fabrice-del-dongo">Fabrice</persName>
               meget <emph>forskjellig</emph> fra dem selv, hvad der stødte dem; han derimod begyndte
               at føle meget Venskab for dem.</p></note>
           <pb n="314"/></p>
@@ -6354,8 +6354,8 @@
             <persName>Winckelmanns</persName> Fødested), men i mange af Bøgerne (som i »<bibl>De
             l’amour</bibl>« f. Ex.) optræder Forfatteren under en Hærskare af vexlende Pseudonymer.
           Enhver Mening, han ikke selv gider staae ved, enhver Anekdote, der kunde aabne et Indblik
-          i hans Privatliv, tillægges ufravigeligt snart en <persName type="fictional"
-            >Alberic</persName>, snart en <persName type="fictional">Lisio</persName>, snart »den
+          i hans Privatliv, tillægges ufravigeligt snart en <persName type="fictional" key="alberic"
+            >Alberic</persName>, snart en <persName type="fictional" key="lisio">Lisio</persName>, snart »den
           elskværdige Oberst« saa og saa. Han har i sine Skrifter tillagt sig lige saa mange
           Bestillinger som Navne: snart er han Kavalleriofficier, snart Jernhandler, snart
           Toldbetjent, snart Handelsreisende; han optræder snart som Mand snart som Kvinde, og
@@ -6372,7 +6372,7 @@
           snart Ingeniør, snart med sin Alder, snart med sin Gade og sit Husnummer.
             <placeName>Grenoble</placeName> kalder han Cularo, <placeName>Civita-Vecchia</placeName>
           Abeille. Det morer ham at tilføie en fingeret Stedsbestemmelse til sit Navn som f. Ex.
-            <persName type="fictional">Théodore Bernard</persName> (du
+          <persName type="fictional" key="theodore-bernard">Théodore Bernard</persName> (du
           <placeName>Rhône</placeName>), ja han undertegner endog et offenligt Forslag til
           Juliregjeringen om et nyt Vaabenskjold for Frankrig saaledes:</p>
 
@@ -6649,8 +6649,8 @@
             <persName>Napoleon</persName> og som vilde have følt sig lykkelig, ifald han havde
           kunnet kjæmpe og udmærke sig under ham i Livets fulde Sollys, men som nu efter hans Fald
           ikke har noget andet Middel til at gjøre Carrière end det at hykle og som derfor
-          efterhaanden udvikler en stedse større Virtuositet heri. Baade <persName type="fictional"
-            >Julien</persName> og <persName type="fictional">Fabrice</persName> ere i Grunden
+          efterhaanden udvikler en stedse større Virtuositet heri. Baade <persName type="fictional" key="julien-sorel"
+            >Julien</persName> og <persName type="fictional" key="standhal-fabrice-del-dongo">Fabrice</persName> ere i Grunden
           anlagte til Kavalleri-Officierer og ikke desmindre blive de begge Geistlige, den ene
           gjennemgaaer et katholsk Seminarium, den anden bliver Biskop. Ikke med Urette har man
           kaldt <persName>Beyle’s</persName> Romaner sande Haandbøger i Hykleri. Den Grundstemning,
@@ -6663,17 +6663,17 @@
           Hovedpersoner, naar deres Forsøg paa uigjennemtrængeligt Hykleri lykkes for dem, og idet
           han omvendt misbilliger dem, naar de lade sig overrumple eller henrive og uforvarende vise
           sig som de ere. Noget Tvungent og Pinligt er uadskilleligt fra denne ironiske
-            Fortællemaade.<note place="bottom">F. Ex. »<persName type="fictional">Julien</persName>
+            Fortællemaade.<note place="bottom">F. Ex. »<persName type="fictional" key="julien-sorel">Julien</persName>
             svarede meget godt paa disse Indvendinger; det vil sige, hvad selve Ordlyden angik; men
             Tonen, hvori han talte, og hans Øines slet skjulte Livfuldhed gjorde <persName
-              type="fictional">Hr. Chélan</persName> urolig. Dog maa man ikke tænke altfor ringe om
-              <persName type="fictional">Julien</persName>; han fandt nøiagtigt de Udtryk, som en
+              type="fictional" key="standhal-chelan">Hr. Chélan</persName> urolig. Dog maa man ikke tænke altfor ringe om
+              <persName type="fictional" key="julien-sorel">Julien</persName>; han fandt nøiagtigt de Udtryk, som en
             Hykler, der gik paa Fløielspoter, vilde betjene sig af. Det var allerede ikke daarligt i
             hans Alder. Hvad Tone og Haandbevægelser angik, saa havde han jo levet med Bønder, havde
             aldrig kunnet studere de store Mønstre; men neppe var det ham senere i Livet forundt at
             nærme sig disse Herrer, før han blev beundringsværdig saavel med Hensyn til
             Haandbevægelser som til det, han sagde.« Et andet Sted skammer <app>
-              <lem><persName type="fictional">Julien</persName></lem>
+              <lem><persName type="fictional" key="julien-sorel">Julien</persName></lem>
               <rdg wit="A">Julian</rdg>
             </app>, der spiser til Middag hos en brutal Fængselsdirektør, sig over det Selskab,
             hvori han er, siger sig, at han maaske nok kan opnaae en lignende Samfundsstilling, men
@@ -6681,7 +6681,7 @@
               <persName>Napoleon</persName>! tænker han, hvor var det sødt, i din Tid at gjøre sin
             Lykke ved at udsætte sit Liv i et Slag istedenfor som nu ved at forøge en Ulykkeligs
             Lidelser! – <persName>Beyle</persName> tilføier: »Jeg tilstaaer, at den Svaghed,
-              <persName type="fictional">Julien</persName> her lægger for Dagen, giver mig en ringe
+              <persName type="fictional" key="julien-sorel">Julien</persName> her lægger for Dagen, giver mig en ringe
             Mening om ham. Han ligner her de Revolutionsmænd med gule Handsker, der ville vende op
             og ned paa Alt, men ikke ville have den mindste Rift at bebreide sig.«</note>
           <pb n="330"/></p>
@@ -6706,7 +6706,7 @@
           mærkværdige Overlegenhed over andre Personligheder, som vi have truffet i Bøger eller i
           Livet. De holde sig et idealt Forbillede, som de have dannet sig, uafbrudt for Øie, stræbe
           at forme sig derefter og slaae sig ikke til Ro før de have tilkjæmpet sig Selvagtelse.
-          Derfor kan <persName type="fictional">Julien</persName>, der henrettes for at have begaaet
+          Derfor kan <persName type="fictional" key="julien-sorel">Julien</persName>, der henrettes for at have begaaet
           et afskyeligt Mordattentat paa en forsvarsløs Kvinde, endnu i sin Dødsstund trøste sig
           med, at han ikke har levet isoleret paa Jorden, han har levet med »Pligtens« Idee for Øie.
           Det er tydeligt nok at <persName>Beyle</persName> har taget det Charaktertræk, med hvilket
@@ -6715,29 +6715,29 @@
           man der viser de Reisende, hedder det f. Ex.: »En Dag, hvor jeg bliver vred, er tabt for
           mig, men saasnart jeg seer at man begaaer en Uforskammenhed imod mig, indbilder jeg mig,
           at man vil foragte mig, ifald jeg ikke gjør mig vred.« Det er nøiagtigt den Maade, paa
-          hvilken <persName type="fictional">Julien</persName> og <persName type="fictional"
+          hvilken <persName type="fictional" key="julien-sorel">Julien</persName> og <persName type="fictional" key="standhal-fabrice-del-dongo"
             >Fabrice</persName>
-          <pb n="332"/> raisonnere. Saaledes tvinger <persName type="fictional">Julien</persName>
-          sig til at lægge sin Haand kjærtegnende paa <persName type="fictional">Madame de
-            Rênal’s</persName>, saaledes tvinger <persName type="fictional">Fabrice</persName> sig
+          <pb n="332"/> raisonnere. Saaledes tvinger <persName type="fictional" key="julien-sorel">Julien</persName>
+          sig til at lægge sin Haand kjærtegnende paa <persName type="fictional" key="standhal-madame-de-renal">Madame de
+            Rênal’s</persName>, saaledes tvinger <persName type="fictional" key="stendhal-fabrice-del-dongo">Fabrice</persName> sig
           til paa Trods at gjentage det sande, men haanlige Udtryk, han ved
             <placeName>Waterloo</placeName> har brugt om de franske Soldaters Flugt. <persName
-            type="fictional">Julien</persName> er fransk og gjennemreflecteret, <persName
-            type="fictional">Fabrice</persName> italiensk og naiv, men de mødes i den Egenskab, man
-          kunde kalde den moralske Productivitet. Som <persName type="fictional">Julien</persName> i
+            type="fictional" key="julien-sorel">Julien</persName> er fransk og gjennemreflecteret, <persName
+            type="fictional" key="stendhal-fabrice-del-dongo">Fabrice</persName> italiensk og naiv, men de mødes i den Egenskab, man
+          kunde kalde den moralske Productivitet. Som <persName type="fictional" key="julien-sorel">Julien</persName> i
           Fængslet siger til sig selv: »Den Pligt, jeg havde foreskrevet mig – med Rette eller
           Urette – har været som den faste Træstamme, til hvilken jeg har støttet mig under
-          Uveiret,« saaledes siger den letsindige <persName type="fictional">Fabrice</persName>, der
+          Uveiret,« saaledes siger den letsindige <persName type="fictional" key="stendhal-fabrice-del-dongo">Fabrice</persName>, der
           bebreider sig en øieblikkelig Frygt (ligeledes til sig selv): »Min Tante mener, at det,
           jeg mest trænger til, er at lære at tilgive mig selv. Jeg sammenligner mig altid med et
           fuldkomment Forbillede, der ikke kan existere.« Man finder denne samme aandelige
-          Overlegenhed og Selvstændighed hos <persName type="fictional">Frøken de la Mole</persName>
-          i »<bibl>Rouge et Noir</bibl>« og hos <persName type="fictional">Mosca</persName> i
-            »<bibl>La Chartreuse</bibl>«. <persName type="fictional">Mosca</persName>, der af de
+          Overlegenhed og Selvstændighed hos <persName type="fictional" key="standhal-mathilde-de-la-mole">Frøken de la Mole</persName>
+          i »<bibl>Rouge et Noir</bibl>« og hos <persName type="fictional" key="standhal-mosca">Mosca</persName> i
+          »<bibl>La Chartreuse</bibl>«. <persName type="fictional" key="standhal-mosca">Mosca</persName>, der af de
           Samtidige naivt ansaaes for udført efter <persName>Metternich</persName> som Model,
           staaer, skjøndt Minister ved et lille legitimistisk Hof, ganske ligesaa aandsfrit overfor
           det System, han tjener, som <persName>Beyle’s</persName> unge Hovedpersoner gjøre.
-            <persName type="fictional">Mosca</persName> sværmer endog i Smug for
+          <persName type="fictional" key="standhal-mosca">Mosca</persName> sværmer endog i Smug for
             <persName>Napoleon</persName> og har i sin Ungdom været Officier i hans Hær. Naar han
           ifører sig sit store gule Ordensbaand, er det med en Vittighed <pb n="333"/> paa Læberne:
           »Det tilkommer ikke os,« siger han, »at nedbryde Magtens Prestige; det besørge de franske
@@ -6749,23 +6749,23 @@
           af hvilke de handle eller føle som de gjør. Ingen anden Romandigter skaffer sin Læser i
           samme Grad den Fornøielse, som ledsager fuldstændig Indsigt.</p>
 
-        <p><persName type="fictional">Madame de Rênal</persName> elsker <persName type="fictional"
+        <p><persName type="fictional" key="standhal-madame-de-renal">Madame de Rênal</persName> elsker <persName type="fictional" key="julien-sorel"
             >Julien</persName>, der lever i hendes Hus som Børnenes Lærer. Etsteds hedder det saa:
-          »Med Skam og Skræk opdagede <persName type="fictional">Madame de <app>
+          »Med Skam og Skræk opdagede <persName type="fictional" key="standhal-madame-de-renal">Madame de <app>
               <lem>Rênal</lem>
               <rdg wit="A">Rénal</rdg>
             </app></persName>, at hun elskede sine Børn endnu høiere, <emph>fordi de holdt saa meget
-            af <persName type="fictional">Julien</persName></emph>.« – <persName type="fictional"
-            >Mathilde de la Mole</persName> piner <persName type="fictional">Julien</persName> ved
+              af <persName type="fictional" key="julien-sorel">Julien</persName></emph>.« – <persName type="fictional" key="standhal-mathilde-de-la-mole"
+            >Mathilde de la Mole</persName> piner <persName type="fictional" key="julien-sorel">Julien</persName> ved
           at betroe ham de Følelser, hun tidligere har næret for enkelte af sine Tilbedere. Saa
           hedder det: »Havde man heldt smeltet Bly ind i hans Bryst, vilde han ikke have lidt saa
           meget. Hvorledes kunde den stakkels Fyr, elendig som han følte sig, gjætte, at det var
-            <emph>fordi hun talte til ham</emph> at <persName type="fictional">Frøken de la
+          <emph>fordi hun talte til ham</emph> at <persName type="fictional" key="standhal-mathilde-de-la-mole">Frøken de la
             Mole</persName> fandt saa megen Fornøielse i at mindes sine gamle Halvforelskelser?«
           Begge Steder illustrere en psychologisk Lov.</p>
 
         <p><app>
-            <lem><persName type="fictional">Julien</persName></lem>
+            <lem><persName type="fictional" key="julien-sorel">Julien</persName></lem>
             <rdg wit="A">Julian</rdg>
           </app> har lige betraadt den geistlige Vei af <pb n="334"/> ærgjerrige Grunde, men med
           indre Modbydelighed. Ved en festlig Leilighed seer han i Landsbykirken en ung Biskop
@@ -6774,7 +6774,7 @@
           fik vor Helt til at miste hvad han endnu havde tilbage af Fornuft. <emph>I dette Øieblik
             vilde han have sloges for Inquisitionen og det i god Tro</emph>«. Den sidste Tilføielse
           »og det i god Tro« er især beundringsværdig. Man parallelisere hermed et Sted i »<bibl>La
-            Chartreuse</bibl>«: <persName type="fictional">Mosca</persName> har under en Opstand,
+            Chartreuse</bibl>«: <persName type="fictional" key="standhal-mosca">Mosca</persName> har under en Opstand,
           som er fulgt paa Fyrstens Død – en Fyrste, hvem han grundigt har foragtet og som hans egen
           Elskede har ladet forgive – maattet stille sig i Spidsen for Soldaterne og i den unge,
           lige saa elendige Fyrstes Navn maattet adsprede Hoben. I det Brev, hvori han meddeler sin
@@ -6789,7 +6789,7 @@
           Forestillingernes og de af dem fremkaldte Sindsbevægelsers indre Kampe. Hos ham seer man
           som gjennem et Forstørrelsesglas eller som paa et Præparat, hvor de fineste Aarer ved
           Indsprøitning af Farvestof ere gjorte tydelige, Vexel- og Styrkeforholdene mellem Lykkes-
-          og Ulykkesfølelserne hos Mennesker, der lide og handle. <persName type="fictional"
+          og Ulykkesfølelserne hos Mennesker, der lide og handle. <persName type="fictional" key="standhal-mosca"
             >Mosca</persName> har modtaget et anonymt Brev, der fortæller ham, at hans Elskede har
           en Anden kjær. Meddelelsen, for hvis Rigtighed Meget taler, nedslaaer ham først aldeles.
           Saa begynder han uvilkaarligt som forstandig Mand og som Diplomat at gruble over, fra hvem
@@ -6798,12 +6798,12 @@
             medførte</emph>, snart udslettet ved det smertelige indre Syn af hans Medbeilers
           ungdomsfriske Skikkelse, der paany vendte tilbage.« <persName>Beyle</persName> har ikke
           forsømt at notere den flygtige Tilfredsstillelse ved Opdagelsen, som et Øieblik afbryder
-          Skinsygens Kvaler. – Kun faa Dage skille <persName type="fictional">Julien</persName> fra
+          Skinsygens Kvaler. – Kun faa Dage skille <persName type="fictional" key="julien-sorel">Julien</persName> fra
           den Dag, hvor han skal bestige Skafottet. Han seer imidlertid i sit Fængsel hyppigt sin
           Elskede, fra hvem han i Aaringer har været adskilt, og lever i sin Kjærlighed næsten uden
           nogensinde at tænke paa det Forestaaende: »Ved en underlig Virkning af denne <pb n="336"/>
           Lidenskab, naar den er tilstede i høieste Grad og uden nogensomhelst Forstillelse,
-            <emph>delte <persName type="fictional">Madame de Rênal</persName> næsten hans Sorgløshed
+          <emph>delte <persName type="fictional" key="standhal-madame-de-renal">Madame de Rênal</persName> næsten hans Sorgløshed
             og blide Munterhed</emph>.« Denne sidste saa dristige Tilføielse synes mig af den mest
           overraskende Dybde. <persName>Beyle</persName> har rigtigt følt og udtalt, hvor energisk
           en hele Sjælen fyldende, lykkelig Lidenskab kaster alle mørke Tanker (selv Tanken paa den
@@ -6817,11 +6817,11 @@
           dem, ogsaa Kvinderne iblandt dem, et eget Præg af Storhed. De have en vis forskruet og dog
           ægte Heroisme, visse Opsving, der river hele Sjælelivet med sig, og naar det kommer til
           Stykket, finere Følelser og fastere Hjerter end Gjennemsnitsmenneskeheden. Man agte paa de
-          Smaatræk med hvilke han charakteriserer sine Kvinder. Om <persName type="fictional">Madame
+          Smaatræk med hvilke han charakteriserer sine Kvinder. Om <persName type="fictional" key="standhal-madame-de-renal">Madame
             de Rênal</persName> hedder det i »<bibl>Rouge et Noir</bibl>«: »Det var en af de ædle og
           sværmeriske Sjæle, for hvilke det at see Muligheden til en ædelmodig Handling og ikke
           udføre den er Kilden til et <pb n="337"/> næsten lige saa heftigt Samvittighedsnag, som
-          det, der hos Andre følger paa en begaaet Forbrydelse.« – <persName type="fictional"
+          det, der hos Andre følger paa en begaaet Forbrydelse.« – <persName type="fictional" key="standhal-mathilde-de-la-mole"
             >Mathilde de la Mole</persName> siger: »Jeg føler mig selv i lige Høide med Alt, hvad
           Dristigt og Stort der nogensinde har existeret [...] Hvilken stor Handling har ikke i det
           Øieblik, da den blev foretaget, syntes en Urimelighed! Det er først, naar den er udført,
@@ -6844,7 +6844,7 @@
           mere varige, at de besidde en mere opladt Skjønhedssands og langt ringere Forfængelighed.
           Undertiden overraskes man ved folkepsychologiske Bemærkninger, der forudsat at de ere
           rigtige – hvad jeg troer – have en ualmindelig Dybde. Det hedder saaledes etsteds om
-            <persName type="fictional">Hertuginden af Sanseverino</persName>, at hun, der selv havde
+          <persName type="fictional" key="stendhal-gina-sanseverina">Hertuginden af Sanseverino</persName>, at hun, der selv havde
           ladet et Giftmord begaae, blev ude af sig selv af Kval, da hun hørte, at hendes Elskede
           truedes af Gift: »Hun gjorde ikke den moralske Reflection, som vilde have ligget saa nær
           for en Kvinde, der var opdraget i en af de nordiske, den personlige Undersøgelse
@@ -6871,17 +6871,17 @@
           Romantik virker i <persName>Beyles</persName> gjennemreflecterede Personligheder som det
           fineste og stærkeste Sprængstof. Det er indesluttet i et fast, haardt Legeme, men det
           bevarer der sin Kraft. Et Stød, Dynamiten sprænger Glaskuglen og udbreder Død og
-          Fordærvelse omkring sig. Se <persName type="fictional">Julien</persName>, <persName
-            type="fictional">Mathilde</persName>, <persName type="fictional">Hertuginden af
+          Fordærvelse omkring sig. Se <persName type="fictional" key="julien-sorel">Julien</persName>, <persName
+            type="fictional" key="stendhal-mathilde-de-la-mole">Mathilde</persName>, <persName type="fictional" key="stendhal-gina-sanseverina">Hertuginden af
             Sanseverino</persName> o. s. v. Af og til synes disse Personligheder snarere at høre det
           af <persName>Beyle</persName> med saa megen Andagt studerede 16de Aarhundrede end vore
-          Dage til. Om <persName type="fictional">Fabrice</persName> bemærker han selv etsteds, at
-          hans første Tilskyndelse var ganske i hint Aarhundredes Aand, <persName type="fictional"
+          Dage til. Om <persName type="fictional" key="standhal-fabrice-del-dongo">Fabrice</persName> bemærker han selv etsteds, at
+          hans første Tilskyndelse var ganske i hint Aarhundredes Aand, <persName type="fictional" key="stendhal-mathilde-de-la-mole"
             >Mathilde</persName> lever efter Forfatterens egen Fremstilling helt i det samme
           Aarhundrede i Frankrig. Men med den Energiens og de dristige Handlingers Romantik, som
           slige Træk betegne, forener sig hos <persName>Beyle</persName> netop den særegne <pb
             n="340"/> Form af romantisk Sværmeri, som svarer til Aaret 1830 i Frankrig. Hans
-            <persName type="fictional">Julien</persName>, den geniale men af Restaurationstidens
+            <persName type="fictional" key="julien-sorel">Julien</persName>, den geniale men af Restaurationstidens
           Aand nedtrykte Plebeier, der føler sig overstraalt af den herskende gyldne
           Middelmaadighed, fortæres af Hunger og Tørst efter Oplevelser og Indtryk, bruger, da han
           er henvist til afmægtigt Had alle Midler, for at hæve sig ud over sin oprindelige
@@ -6890,13 +6890,13 @@
           Plebeier, som den Ulykkelige der føler sig i Krig med Samfundet (»l’homme malheureux en
           guerre avec la société« kalder <persName>Beyle</persName> ham) er han en omtrent
           jævnaldrende men klogere Broder til de Samfundets Stedbørn, <persName>Hugo</persName>
-          tegner, <persName type="fictional">Didier</persName>, <persName type="fictional"
-            >Gilbert</persName>, <persName type="fictional">Ruy Blas</persName>, til
-            <persName>Alexandre Dumas’s</persName> Ungdomshelt Bastarden <persName type="fictional"
+          tegner, <persName type="fictional" key="hugo-didier">Didier</persName>, <persName type="fictional" key="hugo-gilbert"
+            >Gilbert</persName>, <persName type="fictional" key="ruy-blas">Ruy Blas</persName>, til
+          <persName>Alexandre Dumas’s</persName> Ungdomshelt Bastarden <persName type="fictional" key="dumas-antony"
             >Antony</persName>, til <persName>Musset’s</persName>
-          <persName type="fictional">Frank</persName>, <persName>George Sands</persName>
-          <persName type="fictional">Lélia</persName> og <persName>Balzacs</persName>
-          <persName type="fictional">Rastignac</persName>.</p>
+          <persName type="fictional" key="musset-frank">Frank</persName>, <persName>George Sands</persName>
+          <persName type="fictional" key="lelia">Lélia</persName> og <persName>Balzacs</persName>
+          <persName type="fictional" key="balzac-rastignac">Rastignac</persName>.</p>
 
         <p>Som Skribent betragtet stammer <persName>Beyle</persName> fra det syttende og attende
           Aarhundrede. Han har dannet sig efter <persName>Montesquieu</persName>, han minder hist og
@@ -6942,7 +6942,7 @@
           den anden Side uordentlig, skjødesløs og springende.<note place="bottom">For i et Overblik
             at have for Øie, hvor slet og hvor godt <persName>Beyle</persName> kan skrive, læse man
             følgende: »Ce raisonnement, si juste en apparence, acheva de jeter <persName
-              type="fictional">Mathilde</persName> hors d’elle même. Cette âme altière, mais saturée
+              type="fictional" key="standhal-mathilde-de-la-mole">Mathilde</persName> hors d’elle même. Cette âme altière, mais saturée
             de toute cette prudence sèche, <emph>qui passe dans le grand monde pour peindre
               fidèlement le cæur humain</emph>, n’était pas faite pour comprendre si vite le bonheur
             de se moquer de toute prudence qui peut être si vif pour une âme ardente«. Man aner,
@@ -6953,7 +6953,7 @@
               <lem>où</lem>
               <rdg wit="A">oú</rdg>
             </app>
-            <persName type="fictional">Mathilde</persName> avait vécu, la passion ne peut que bien
+            <persName type="fictional" key="standhal-mathilde-de-la-mole">Mathilde</persName> avait vécu, la passion ne peut que bien
             rarement se dépouiller de prudence, et c’est du cinquième étage qu’on se jette par la
             fenêtre«.</note> Men den har et stort og <pb n="343"/> mægtigt Fortrin: den er besjælet
           af en sand horror vacui; den er præget af en saadan Rædsel for det Tomme og det Vage, at
@@ -7152,7 +7152,7 @@
           Iver, der havde været en bedre Sag værdig, og kastede sig i en Artikel, hvis glimrende Vid
           minder om <persName>Paul Louis Courier’s</persName> Pamfletter, (»<bibl>Revue des deux
             mondes</bibl>«<!-- cit start og slut indsat -->, 15 April 1852) over
-          Undersøgelsescommissionen og Dommerne. En <persName type="fictional">Don
+          Undersøgelsescommissionen og Dommerne. En <persName type="fictional" key="don-quixote">Don
             Quichote</persName> af Faget havde ikke kunnet begaae en større Taabelighed, og hvis,
           som Indviede mene, <persName>Madame Libri</persName><!-- Jeanne Double --> havde større
           Del i denne hans Lidenskabelighed end <persName>Libri</persName> selv, gjør det ikke
@@ -7190,7 +7190,7 @@
           Naturlighed gled ham afhænde og der i dens Sted traadte en endnu bestandigt naturlig, men
           raffineret simpel Grundtone. I »<bibl>Le vase étrusque</bibl>«, den af hans Fortællinger,
           der giver det bedste Indblik i hans oprindelige Sjæleliv, hedder det om Hovedpersonen
-            <persName type="fictional">Saint-Clair</persName>: »Han var født med et ømt og elskende
+          <persName type="fictional" key="merimee-saint-clair">Saint-Clair</persName>: »Han var født med et ømt og elskende
           Hjerte; men i en Alder, i hvilken man altfor let optager Indtryk, der vare hele Livet,
           havde hans altfor meddelsomme Sensibilitet paadraget ham hans Kameraters Spotterier. Han
           var stolt, ærgjerrig; han holdt paa Andres Mening som Børn gjøre. Fra den Tid af gjorde
@@ -7290,12 +7290,12 @@
           er bleven en Verdensbog. Den har for bestandig erobret sig sin Plads i Alles Fantasi.
           Enhver Læser har arbeidet med paa den efter sin Lyst og har skaaret den til efter sin
           Smag. <persName>Cervantes</persName> tænkte ikke derpaa, men vi tænke paa det. Enhver af
-          os er den ene Dag <persName type="fictional">Don Quichote</persName>, den anden <persName
-            type="fictional">Sancho Pansa</persName>. Der findes mere eller mindre tydeligt hos
+          os er den ene Dag <persName type="fictional" key="don-quixote">Don Quichote</persName>, den anden <persName
+            type="fictional" key="sancho-panza">Sancho Pansa</persName>. Der findes mere eller mindre tydeligt hos
           Enhver denne uensartede Forening af det exalterede Ideal og den sunde Sands, der plumpt
           holder sig til Jorden. Hos Mange er det endog kun et Aldersspørgsmaal; man sover ind som
-            <persName type="fictional">Don Quichote</persName> og vaagner op som <persName
-            type="fictional">Sancho Pansa</persName>«. <persName>Beyle</persName> havde gjerne
+          <persName type="fictional" key="don-quixote">Don Quichote</persName> og vaagner op som <persName
+            type="fictional" key="sancho-panza">Sancho Pansa</persName>«. <persName>Beyle</persName> havde gjerne
           underskrevet disse Sætninger; <persName>Mérimée</persName> holdt Skyen for almindelige
           Ideer tilbage. <pb n="361"/></p>
 
@@ -7382,8 +7382,8 @@
               <emph>délicatement tendre</emph>; or il faut cela dans un roman pour me
             toucher.«</note> Hans Kvindeskikkelser ere i deres Lidenskab mandige og consequente,
           næsten uden Undtagelse Charakterer; selv de letsindigste eller letfærdigste af dem gaae
-          med Fasthed og Ro i Døden (<persName type="fictional">Arsène Guillot</persName>, <persName
-            type="fictional">Julie de Chaverney</persName>, <persName type="fictional"
+          med Fasthed og Ro i Døden (<persName type="fictional" key="arsene-guillot">Arsène Guillot</persName>, <persName
+            type="fictional" key="merimee-julie-de-chaverny">Julie de Chaverney</persName>, <persName type="fictional" key="merimee-carmen"
             >Carmen</persName>). Ingen af dem have det <persName>Correggio</persName>agtigt
           Smeltende som <persName>Beyle</persName> formaaede at give sine Kvindefigurer.</p>
 
@@ -7422,15 +7422,15 @@
           katholske Præster, og naar en af hans Personer taler om Daaben, Skriftemaalet eller en
           anden religiøs Ceremoni, indledes Repliken gjerne af denne Parenthes: »med en meget devot
           Næsetone«; men i sit eget Navn udtaler han sig i det Høieste saa forsigtigt og fint
-          ironisk som i det Følgende: »Det var en Bønnebog, som <persName type="fictional">Madame de
+          ironisk som i det Følgende: »Det var en Bønnebog, som <persName type="fictional" key="merimee-piennes">Madame de
             Piennes</persName> tog; og jeg vil ikke nævne dens Titel, for det Første for ikke at
           forurette Forfatteren, dernæst fordi man maaskee vilde anklage mig for at ville drage en
           eller anden ondskabsfuld Slutning om den Art Værker i Almindelighed. Det er tilstrækkeligt
           at sige, at den omtalte Bog var af en ung Mand paa nitten Aar og særligt bestemt til at
-          føre forhærdede Synderinder tilbage til Kirkens Moderskjød, at <persName type="fictional"
+          føre forhærdede Synderinder tilbage til Kirkens Moderskjød, at <persName type="fictional" key="arsene-guillot"
             >Arsène</persName> var meget udmattet, og at hun ikke havde kunnet lukke et Øie den
           foregaaende Nat. Da Pagina 3 var oplæst, hændte der, hvad der vilde været hændt med
-          ethvert andet Værk; det Uundgaaelige skete, nemlig at <persName type="fictional"
+          ethvert andet Værk; det Uundgaaelige skete, nemlig at <persName type="fictional" key="arsene-guillot"
             >Arsène</persName> lukkede sine Øine og sov ind.«</p>
 
         <p>Hovedforskjellen mellem <persName>Beyle</persName> og <persName>Mérimée</persName> er dog
@@ -7755,12 +7755,12 @@
         <cit>
           <quote>
             <sp>
-              <speaker><persName type="fictional">Dona Maria</persName>.</speaker>
+              <speaker><persName type="fictional" key="merimee-dona-maria">Dona Maria</persName>.</speaker>
               <p>Hjælp hende! hun har taget Gift, hun er forgivet af mig. Jeg vil straffe mig, som
                 jeg har fortjent; Klosterbrønden er ikke langt borte. (Hun løber ud).</p>
             </sp>
             <sp>
-              <speaker><persName type="fictional">Fray Eugenio</persName></speaker>
+              <speaker><persName type="fictional" key="merimee-fray-eugenio">Fray Eugenio</persName></speaker>
               <stage type="delivery">til Publicum</stage>
               <p>Tag mig det ikke ilde op, at jeg har foraarsaget disse to elskværdige unge Damers
                 Død, og vær saa god at undskylde Forfatterens Feil.</p>
@@ -7790,7 +7790,7 @@
           den unge Greves Skikkelse i dens hele Vildhed som Sidestykke til en uendelig brav og tam
           tydsk Professor (Tydskeren i de franske Bøger før 1870), der <pb n="386"/> opholder sig
           som Gjæst i det grevelige Hus, hver Aften skriver Brev til sin Forlovede, <persName
-            type="fictional">Frøken Gertrude Weber</persName> og saaledes meddeler Læseren den
+            type="fictional" key="merimee-gertrude-weber">Frøken Gertrude Weber</persName> og saaledes meddeler Læseren den
           gyselige Begivenhed. Men Slutningsindtrykket af denne Vampyrhistorie er dog rædselblandet
           Modbydelighed, og Fremstillingens Mesterskab, den Takt som er bevaret i Foredraget af
           Brutaliteten, den hele Elegance, med hvilken der tumles med det Afskyelige, erindrer
@@ -7885,13 +7885,13 @@
             <persName>Mérimée</persName> i »<bibl>La Jacquerie</bibl>« Frankrig Billedet af en meget
           tidligere og vildere Tid end den, hans Forgjænger og Læremester havde underkastet poetisk
           Behandling. Digtets Aand har han fortrinligt betegnet ved den som Motto ironisk anbragte
-          Replik af <persName type="fictional">Mascarille</persName> hos
+          Replik af <persName type="fictional" key="mascarille">Mascarille</persName> hos
             <persName>Molière</persName>: »Jeg arbeider for Tiden paa at sætte hele den romerske
           Historie i <pb n="391"/> Madrigaler«. Beundringsværdigt har <persName>Mérimée</persName>
           forstaaet at sætte sig ind i de Vedtægter og Taabeligheder, de Synsmaader og Fordomme, af
           hvilke Bevidsthedsindholdet i hin fjerne Tid bestod. Jeg vil fremhæve een Charakter:
-            <persName type="fictional">Isabella</persName>, Datter af Baronen <persName
-            type="fictional">d’Apremont</persName>, en Type paa en ædel, elskværdig, ung Pige fra
+          <persName type="fictional" key="merimee-isabelle">Isabella</persName>, Datter af Baronen <persName
+            type="fictional" key="merimee-gilbert-d-Apremont">d’Apremont</persName>, en Type paa en ædel, elskværdig, ung Pige fra
           Feudaltiden. Hun er ren af Hjerte og streng af Sæder; hun har Barmhjertighed med de
           Lidende og med de Overvundne. Hun er god mod den kjække og trofaste Væbner, der for hende
           gaaer gjennem Ild og Vand, hun beder sin Fader om at forære hende denne Livegne, hun gjør
@@ -7904,12 +7904,12 @@
           Forskjellen mellem en spiritualistisk-abstract og en uforfærdet historisk Gjengivelse af
           en raa og kraftig Tid. Jeg vil endnu nævne en Situation: Scenen, der foregaaer ved
           Nattetid foran en ensom Hytte i Skoven, til hvilken den brutale engelske Friskarehøvding
-            <persName type="fictional">Si<pb n="392"/>ward </persName>er redet med <persName
-            type="fictional">Isabella</persName>, som han har bortført, efter at hendes Fader er
+          <persName type="fictional" key="merimee-siward">Si<pb n="392"/>ward </persName>er redet med <persName
+            type="fictional" key="merimee-isabelle">Isabella</persName>, som han har bortført, efter at hendes Fader er
           bleven dræbt ved Overfaldet. Det Hele er kun to Landsknegtes Samtale udenfor Døren, medens
           de holde de sadlede Heste og udvexle deres Betragtninger over den Vold, som <persName
             type="ficional">Siward</persName> imidlertid inde i Hytten anvender mod <persName
-            type="fictional">Isabella</persName>. Indtrykket er saa stærkt, at det meddeler et
+            type="fictional" key="marimee-isabelle">Isabella</persName>. Indtrykket er saa stærkt, at det meddeler et
           Tidsbillede. En Feil ved Værket er det imidlertid, at Digteren i sin Sky for det Følsomme
           har ophobet saa mange grusomme og afskyelige Handlinger, at hans Charakterers
           gjennemgaaende Vildhed overskriger de sociale og individuelle Forskjelle.</p>
@@ -7968,21 +7968,21 @@
           Livet meningsløst og selv det Sørgeligste ligesaa fornuftstridigt som sørgeligt og
           hæsligt; men idet han fortæller den pinlige Begivenheds indre Historie og idet man
           begriber, at det Absurde maatte skee, ophører det at være absurd. Fortællingens Indhold er
-          med to Ord det, at en ung Kone, <persName type="fictional">Julie de Chaverny</persName>,
+          med to Ord det, at en ung Kone, <persName type="fictional" key="merimee-julie-de-chaverny">Julie de Chaverny</persName>,
           der er utilfreds i sit Ægteskab, og som begynder at føle sin Utilfredshed som Ulykke,
           gjennem en Kjæde af fine, overraskende, men som Jernringe sammenhængende Sjælebevægelser
           og Sindstilstande føres til at hengive sig til en Mand, hun i Virkeligheden slet ikke
           elsker, og tager sin Død derover. <persName>Mérimées</persName> Kunst bestaaer her i den
           Sikkerhed, hvormed han tager Læseren ved Haanden og leder ham igjennem alle hine
           Sindstilstandes Labyrinth til et Resultat, der indtræffer ligesaa nødvendigt som
-          fornuftstridigt. Uovertræffelig er især Samtalen, i hvilken <persName type="fictional"
+          fornuftstridigt. Uovertræffelig er især Samtalen, i hvilken <persName type="fictional" key="merimee-darcy"
             >Darcy</persName> netop ved med Beskedenhed og Humor nødtvungent at fortælle om sine
-          Bedrifter ophidser <persName type="fictional">Julie</persName> til Sværmeri, samt hele
-          Samtalen i Vognen, under hvilken <persName type="fictional">Julie</persName>
+          Bedrifter ophidser <persName type="fictional" key="merimee-julie-de-chaverny">Julie</persName> til Sværmeri, samt hele
+          Samtalen i Vognen, under hvilken <persName type="fictional" key="merimee-julie-de-chaverny">Julie</persName>
           <pb n="396"/> ved hver Replik, ved hvert Ord, endnu mere ved sin Modstand end ved sine
           Tilstaaelser rykker sin Undergang bestandig nærmere. Jeg fremhæver denne klassiske
           Sætning, som alt det Foregaaende forbereder: »Den stakkels Kvinde troede i dette Øieblik
-          og med fuldkommen Oprigtighed, at hun altid havde elsket <persName type="fictional"
+          og med fuldkommen Oprigtighed, at hun altid havde elsket <persName type="fictional" key="marimee-darcy"
             >Darcy</persName>, og i alle de sex Aar, i hvilke hun ikke havde seet ham, med ligesaa
           stor Kjærlighed, som hun følte for ham i dette Øieblik.« <persName>Mérimée</persName> har
           forstaaet, hvilken Almagt i Menneskelivet, hvilken tragisk Drivkraft der ligger i den
@@ -7993,14 +7993,14 @@
         <p>Endnu nærmere kommer <persName>Mérimée</persName> det egentlig Tragiske, hvor det
           Skjæbnesvangre synker ned i Charakteren og blander sig med den som en Gift blander sig med
           Blodet. Saaledes i Novellen »<bibl>Carmen</bibl>«. Fra den Dag af, da <persName
-            type="fictional">José</persName> møder Zigeunerpigen <persName type="fictional"
+            type="fictional" key="merimee-jose">José</persName> møder Zigeunerpigen <persName type="fictional" key="merimee-carmen"
             >Carmen</persName> første Gang, gaaer hans Liv ud af sit Spor, og med streng
           Nødvendighed forvandles han nu, skjøndt god og brav af Sindelag, for hendes Skyld til
           Røver og Morder. Ja, <persName>Mérimée</persName>, der som ung Romantiker vilde tage saa
           lang Afstand som muligt fra de antikiserende Tragikere, kom i »<bibl>Colomba</bibl>« med
           sin moderne corsicanske Heltinde den græske Tragoedie nærmere end nogen af de ærværdige
             Tragi<pb n="397"/>kere, der forherligede »Agamemnons aldrig uddøende Familie«. Ikke med
-          Urette har man sammenlignet <persName type="fictional">Colomba</persName> med Elektra. Som
+          Urette har man sammenlignet <persName type="fictional" key="merimee-colomba">Colomba</persName> med Elektra. Som
           Elektra gaaer hun helt op i Tanken paa sin Faders uhævnede Død, som Elektra opflammer hun
           sin Broder til Blodhævn og endnu mindre end den sofoklæiske unge Pige er hun en abstract
           Tragoedie-Heltinde; thi hun bevæger sig elskværdigt og naivt i sit Pandser af frygtelige
@@ -8149,16 +8149,16 @@
         <p>Saaledes vedbliver Skildringen endnu nogen Tid, indtil <persName>Mérimée</persName>
           afbryder sig selv med den lille Bemærkning: »En lykkelig Elsker er næsten ligesaa kjedelig
           som en ulykkelig Elsker.« Da endelig det skjønne Forhold mellem de To har naaet sin
-          høieste og rigeste Fylde, da <persName type="fictional">Saint-Clairs</persName> saa
+          høieste og rigeste Fylde, da <persName type="fictional" key="merimee-saint-clair">Saint-Clairs</persName> saa
           flygtige, men saa skjæbnesvangre Skinsyge paa hans Elskedes Fortid har opløst sig i et
           Intet, en Misforstaaelse, og vi have været Vidne til en Elskovsscene, som ikke den
           blødeste eller mest indsmigrende Digter kunde male med større Inderlighed, en Scene, i
           hvilken Angerens Taarer blande sig med Kys og Smil, hvorledes erfare vi saa sex Linier
-          nedenfor, at Alt i samme Nu er forbi og <persName type="fictional">Saint-Clair</persName>
+          nedenfor, at Alt i samme Nu er forbi og <persName type="fictional" key="merimee-saint-clair">Saint-Clair</persName>
           Morgenen derpaa falden i Duellen? Vi erfare det, som Sligt erfares i Livet:</p>
 
-        <p>»Nu,« sagde <persName type="fictional">Roquantin</persName> til <persName
-            type="fictional">Oberst Beaujeu</persName>, <pb n="405"/> som han om Aftenen traf hos
+        <p>»Nu,« sagde <persName type="fictional" key="merimee-hector-roquentin">Roquantin</persName> til <persName
+          type="fictional" key="merimee-beaujeu">Oberst Beaujeu</persName>, <pb n="405"/> som han om Aftenen traf hos
             <placeName>Tortoni</placeName>, »er Nyheden sand?«</p>
 
         <p>»Altfor sand, kjære Ven,« svarede Obersten med en mørk Mine.</p>
@@ -8166,18 +8166,18 @@
         <p>»Fortæl mig, hvorledes det gik til.«</p>
 
         <p>»Aa ganske ligefrem. <persName type="ficitional">Saint-Clair</persName> begyndte med at
-          sige, at han havde Uret, men at han vilde staae for <persName type="fictional"
+          sige, at han havde Uret, men at han vilde staae for <persName type="fictional" key="merimee-themines"
             >Thémines’</persName> Skud, før han gjorde ham Undskyldninger. Jeg kunde kun bifalde
-          det. <persName type="fictional">Thémines</persName> vilde have det afgjort ved
-          Lodkastning, hvem der skulde skyde først. <persName type="fictional"
-            >Saint-Clair</persName> fordrede, at det skulde være <persName type="fictional"
-            >Thémines</persName>. <persName type="fictional">Thémines</persName> skjød; jeg saae
-            <persName type="fictional">Saint-Clair</persName> dreie sig helt omkring og falde død
+          det. <persName type="fictional" key="merimee-themines">Thémines</persName> vilde have det afgjort ved
+          Lodkastning, hvem der skulde skyde først. <persName type="fictional" key="merimee-saint-clair"
+            >Saint-Clair</persName> fordrede, at det skulde være <persName type="fictional" key="marimee-themines"
+              >Thémines</persName>. <persName type="fictional" key="merimee-themines">Thémines</persName> skjød; jeg saae
+            <persName type="fictional" key="marimee-saint-clair">Saint-Clair</persName> dreie sig helt omkring og falde død
           om. Jeg har ofte bemærket denne underlige Omdreining, der gaaer forud for Døden, hos
           Soldater, som bleve ramte af et Skud.«</p>
 
-        <p>»Det er høist besynderligt,« sagde <persName type="fictional">Roquantin</persName>. »Og
-          hvad gjorde <persName type="fictional">Thémines</persName>?«</p>
+        <p>»Det er høist besynderligt,« sagde <persName type="fictional" key="merimee-hector-roquentin">Roquantin</persName>. »Og
+          hvad gjorde <persName type="fictional" key="marimee-themines">Thémines</persName>?«</p>
 
         <p>»Han gjorde, hvad man ved saadanne Leiligheder gjør. Han kastede sin Pistol i Jorden med
           en beklagende Mine. Han slog den imod Jorden saa stærkt, at Hanen gik i Stykker paa den.
@@ -8223,7 +8223,7 @@
         <p>Man mærker det endnu stærkere, naar man kommer til det Sted, hvor Capitainen med vældige
           Pidskeslag søger at gjøre den smukke Negerpige føielig:</p>
 
-        <p>»Med disse Ord gik Capitainen ned i sin Kahyt, lod <persName type="fictional"
+        <p>»Med disse Ord gik Capitainen ned i sin Kahyt, lod <persName type="fictional" key="merimee-ayche"
             >Ayché</persName> komme og forsøgte at trøste hende; men hverken Kjærtegn eller Slag
             (<emph>thi man taber tilsidst Taalmodigheden</emph>) for<pb n="408"/>maaede at bringe
           den skjønne Negerinde til at være medgjørlig.«</p>
@@ -8244,16 +8244,16 @@
           Samfundsvedtægt. I et fortvivlet Øieblik springer hun ud af Vindvet, brækker et Ben og
           nogle Ribben, og Novellen foregaaer ved hendes Sygeleie. I Fortællingens Løb sørger som
           sædvanligt Ironien for at Medlidenhed og Rørelse ikke overskride det kunstne<pb n="409"
-          />riske Maal; henimod Slutningen, hvor <persName type="fictional">Arsène’s</persName> Død
+          />riske Maal; henimod Slutningen, hvor <persName type="fictional" key="arsene-guillot">Arsène’s</persName> Død
           bliver skildret, bliver det dog Hjertet tilladt at tale uforstyrret, og dets simple Sprog
           meddeler den døende Grisette en Ynde, der neppe er ringere end den, som i Døden forklarer
             <persName>Musset’s</persName>
-          <persName type="fictional">Bernerette</persName>. Saa til allersidst træder den
+          <persName type="fictional" key="musset-bernerette">Bernerette</persName>. Saa til allersidst træder den
           kunstneriske Ironi paany ind i sine Rettigheder. Thi denne Linie: »Stakkels <persName
-            type="fictional">Arsène</persName>, hun beder <emph>for os</emph>«, fint skrevet med
-          Blyant af en kvindelig Haand paa <persName type="fictional">Arsène’s</persName> Gravsten,
+            type="fictional" key="arsene-guillot">Arsène</persName>, hun beder <emph>for os</emph>«, fint skrevet med
+          Blyant af en kvindelig Haand paa <persName type="fictional" key="arsene-guillot">Arsène’s</persName> Gravsten,
           lærer os i al sin Korthed, at den strenge Dame bukkede under for den samme Fristelse som
-          det udannede Barn, og at da <persName type="fictional">Arsène</persName> var død som en
+          det udannede Barn, og at da <persName type="fictional" key="arsene-guillot">Arsène</persName> var død som en
           Heltinde, arvede hendes Beskytterinde hendes Elsker. Og dog er Ordet Ironi her næsten for
           grovt. Man savner Ord til at betegne disse Afskygninger. Hin svagtironiske, med Blyant
           skrevne Linie indeholder i sine sex Ord en Mérimée’sk, det vil sige lakonisk,
@@ -8428,7 +8428,7 @@
           hos <persName>Flaubert</persName>, hvem man kunde kalde den næste Slægts
             <persName>Mérimée</persName>, endelig hos <persName>Taine</persName> selv, der ganske i
           Mérimée’sk Aand fryder sig, naar han har »et smukt Mord« at skildre og som lader sin
-            <persName type="fictional">Graindorge</persName> give Læseren nøiagtig Anvisning paa den
+          <persName type="fictional" key="taine-graindorge">Graindorge</persName> give Læseren nøiagtig Anvisning paa den
           mest praktiske Methode til at skjære sin Hals over med en Barberkniv<note place="bottom"
             >»Quand <persName>Cromwell</persName> passe en Irlande, il marque le nombre et la
             qualité des gens massacrés, et puis c’est tout. <emph>Et cependant quels beaux
@@ -8708,7 +8708,7 @@
           lagde for Dagen. Det var i Virkeligheden kun at betragte som det underordnede Supplement
           til hans aldrig før sete, epochegjørende maleriske Evne som Skribent. <persName>Victor
             Hugo’s</persName> Optræden blev bestemmende for hans Løbebane. Da denne satte <persName
-            type="fictional">Hernani’s</persName> Horn for sin Mund, fulgte
+              type="fictional" key="hernani">Hernani’s</persName> Horn for sin Mund, fulgte
             <persName>Gautier</persName> Kaldet og forlod Malerkunsten for Litteraturen. Fra sit
           Atelierliv beholdt han imidlertid ikke blot Malerens Synsmaade; han bevarede i sin
           mundtlige Ytringsform og paa de Steder hvor han (som i Fortalen til »<bibl>Mlle
@@ -8924,7 +8924,7 @@
           og et Drama ingen <pb n="441"/> Jernbane, lutter høist nyttige Ting«. Om de evigt
           forargede Kritikere siger han: »Hvis der i et Maleri eller en Bog er et eller andet nøgent
           Sted, søge disse Folk lige dertil som Soen søger til Pølen [...]« og med en Hentydning til
-            »<bibl>Tartuffe</bibl>« fortsætter han: »For mig kan <persName type="fictional"
+          »<bibl>Tartuffe</bibl>« fortsætter han: »For mig kan <persName type="fictional" key="moliere-dorine"
             >Dorine</persName>, den kjønne Soubrette, gjerne gaae med sin smukke Hals ubedækket, jeg
           skal ikke trække mit Lommetørklæde op af den Grund. Jeg betragter den, som jeg betragter
           hendes Ansigt, og er den hvid og velformet, har jeg min Glæde deraf«. Og for at værge sig
@@ -9262,13 +9262,13 @@
           ikke ringe Opsigt. Fictionen var den, at de vare skrevne af en ung medicinsk Student, der
           var død af Lungesyge; dog <persName>Sainte-Beuve</persName> skildrede under det
           gjennemsigtige Pseudonym i Fortalen sig selv og sit eget Levnet. <persName
-            type="fictional">Josephe Delorme</persName> er en Art Ætling af <persName
-            type="fictional">Obermann</persName>, fattig, rigtbegavet, rig paa Medlidenhed med
+            type="fictional" key="sainte-beuve-josephe-delorme">Josephe Delorme</persName> er en Art Ætling af <persName
+              type="fictional" key="oberman">Obermann</persName>, fattig, rigtbegavet, rig paa Medlidenhed med
           Menneskehedens Ulykker, en genial og glandsløs Aand som sin Stamfader, men endnu
           mangfoldigere i sit Sjæleliv end han; thi <pb n="459"/>
-          <persName type="fictional">Josephe Delorme</persName> er paa een Gang Filosof og ulykkelig
+          <persName type="fictional" key="sainte-beuve-josephe-delorme">Josephe Delorme</persName> er paa een Gang Filosof og ulykkelig
           over sin Vantro, ideal i sine Forhaabninger og sin Stræben og dog forfalden til lave
-            Udskeielser<note place="bottom">Om <persName type="fictional">Obermann</persName> se
+            Udskeielser<note place="bottom">Om <persName type="fictional" key="oberman">Obermann</persName> se
               »<bibl>Emigrantlitteraturen</bibl>«, 2den Udg. S. 100 ff.</note>. Helten er her den
           almindelige desperate Yngling fra 1830, men reduceret til mere borgerlige Proportioner end
           hos de andre Digtere; hans Fortvivlelse er mindre storstilet og mere virkelighedstro. Hans
@@ -9286,7 +9286,7 @@
             <pb n="460"/> disse Digte fandtes i Datiden saa søgte, at man latterliggjorde dem,
             »<bibl>Les rayons jaunes</bibl>« havde i Virkeligheden vovet sig til det Latterliges
           Grændse; andre fandtes platte; <persName>Guizot</persName> definerede <persName
-            type="fictional">Joseph Delorme</persName> »un <persName>Werther</persName> jacobin et
+            type="fictional" key="sainte-beuve-josephe-delorme">Joseph Delorme</persName> »un <persName>Werther</persName> jacobin et
           carabin« (Jacobiner og Mediciner); men Alt i Alt kan Bogen siges at have gjort den ikke
           ringe Lykke, den fortjente at gjøre.</p>
 
@@ -9305,9 +9305,9 @@
           desuden i Grunden alle Hovedpartierne af Romanen
           »<bibl>Volupté</bibl>«<!-- cit start og slut indsat -->, hvor det er let at gjenkjende
           Forfatterens Forhold til <persName>Victor Hugo</persName> og hans Hus i <persName
-            type="fictional">Amaury’s</persName> Forhold til den <pb n="461"/> anerkjendte politiske
-          Fører, <persName type="fictional">Hr. de Couaën</persName> og hans <persName
-            type="fictional">Hustru</persName><!-- Madame de Couaën -->.
+            type="fictional" key="sainte-beuve-amaury">Amaury’s</persName> Forhold til den <pb n="461"/> anerkjendte politiske
+          Fører, <persName type="fictional" key="sainte-beuve-marquis-de-couaen">Hr. de Couaën</persName> og hans <persName
+            type="fictional" key="sainte-beuve-madame-de-couaen">Hustru</persName><!-- Madame de Couaën -->.
             <persName>Sainte-Beuve</persName> selv og mange andre efter ham have antydet, at den
           hele svagtkatholsk farvede eller fernisserede Gruppe af hans Arbeider, som opstod under
           hans Sværmen for og med <persName>Madame Hugo</persName>, blev direkte inspireret af
@@ -9366,7 +9366,7 @@
           bedste, som faaer En til at spilde mest Tid og paa den behageligste Maade af Verden,
           Selskabet med Kvinder«. <pb n="464"/></p>
 
-        <p>Bogens Helt <persName type="fictional">Amaury</persName> er stillet mellem tre Kvinder;
+        <p>Bogens Helt <persName type="fictional" key="sainte-beuve-amaury">Amaury</persName> er stillet mellem tre Kvinder;
           han elsker den ene, der er gift med hans Lærer og Høvding, høiere end han vover at lade
           hende forstaae, han opgiver den anden, sin Ungdomsforlovede, for den førstes Skyld og
           samtidigt indlader han sig med den tredie, hvem han afvexlende attraaer og ved Raahed og
@@ -9431,13 +9431,13 @@
           Drama, der afvikler sig indenfor en kort lyrisk Fortællings Omrids.</p>
 
         <p>Jeg fremhæver Digtet »<bibl>A Madame la Comtesse de
-          T.</bibl>«<!-- A Madame la C. de T. -->. <persName type="fictional"
+          T.</bibl>«<!-- A Madame la C. de T. -->. <persName type="fictional" key="sainte-beuve-tascher"
           >Grevinden</persName><!-- comtesse de Tascher -->, hvem det er tilegnet, fortæller: Hun
           reiser paa <placeName>Rhinen</placeName> fra <placeName>Köln</placeName> til
             <placeName>Mainz</placeName>. For at nyde Udsigten bedre er hun stegen ind i sin Vogn,
           der er anbragt paa Dampskibets anden Plads og sidder nu der iblandt denne Klasses
           Passagerere, Tjenestefolk, Arbeidere med deres Koner, fattige Reisende. Da raaber et af
-          hendes Børn: »Moder! <persName type="fictional">Grev Paul</persName> er blandt
+          hendes Børn: »Moder! <persName type="fictional" key="sainte-beuve-paul">Grev Paul</persName> er blandt
           Passagererne.« Hun vender sig og seer vel ikke denne <pb n="468"/> Bekjendt, men i en grov
           gammel Arbeidsdragt en Mand med fine Træk og hvide Hænder, der synes forklædt. Han sees
           stadig sammen med en simpel Londonsk Arbeiderfamilie; Manden er en grov Karl, der uafbrudt
@@ -9449,7 +9449,7 @@
           Holdning i den tyndtslidte Kjole er elegant og hendes Haar pragtfuldt. Med en Omhu, der
           ikke er Kjærlighed, men Ømhed mod den, af hvem man elskes, holder den unge Mand Paraplyen
           over hende og samler Kaaben om hende, da det regner; han kjøber dyre Druer til hendes
-          Smaadrenge. <persName type="fictional">Grevinden</persName><!-- comtesse de Tascher -->
+          Smaadrenge. <persName type="fictional" key="sainte-beuve-tascher">Grevinden</persName><!-- comtesse de Tascher -->
           aner, at han i den fjerne By, hvor han søgte Ophold, har fundet Venner i denne fattige
           Forstadsfamilie. Men han skal som hun i Land i <placeName>Mainz</placeName>, medens de
           Andre skulle fortsætte Reisen paa Skibet.</p>
@@ -9466,7 +9466,7 @@
           Stakkels Sjæl, du Enke efter en afsindig Kjærlighed, hvad skal dette blive til iaften, og
           imorgen og bestandig! Denne plumpe, grove Mand, denne dybe Fattigdom, denne Datter, som
           veed Alt og som ikke med noget overbærende Blik paa denne Reise har udspeidet Alt, hvilken
-          Skjæbne!« Næste Dag, slutter <persName type="fictional"
+          Skjæbne!« Næste Dag, slutter <persName type="fictional" key="sainte-beuve-tascher"
           >Grevinden</persName><!-- comtesse de Tascher -->, da den unge Mand og jeg vare blevne
           Reisefæller, henvendte jeg de Ord til ham: »De er meget ensom idag.« – »Ja,« svarte han
           koldt, »lige fra <placeName>London</placeName> af har jeg i sex Uger reist sammen med de
@@ -10083,16 +10083,16 @@
           og Sæder ere satte i Relief med en saa kraftig Haand, at man tvivler om nogen Samtidig kan
           have kjendt dem bedre. »<bibl>Stænderne i Blois</bibl>« er vistnok det ypperste blandt
           disse Værker. Og for at henpege paa noget Bestemt, anbefaler jeg <pb n="501"/> at læse de
-          Scener, som fremstille <persName type="fictional">Hertugen af Guise’s</persName> Mord.
+          Scener, som fremstille <persName type="fictional" key="vitet-de-guise">Hertugen af Guise’s</persName> Mord.
           Sjeldent har en Digter i et historisk Skuespil vovet i den Grad at skyde al poetisk
           Vedtægt til Side. Det er endnu langt skjønnere og mere virkelighedstro end
             <persName>Delaroche’s</persName> iøvrigt saa fortræffelige Maleri, hvor <persName>Henrik
             d. 3die</persName> aabner Døren paa Klem og speider efter sin store Fjendes Lig paa
           Gulvet. Vi have hos <persName>Vitet</persName> netop seet, hvorledes <persName
-            type="fictional">Kongen</persName><!-- Henri III --> Kl. 4 om Natten i sit Værelse har
+            type="fictional" key="vitet-henri-iii">Kongen</persName><!-- Henri III --> Kl. 4 om Natten i sit Værelse har
           dyppet sjeldne spanske Dolke i Vievand og skjælvende, uden at vove endog at nævne sin
           Uvens Navn, har fordelt dem til sine Mignon’er. Vi have oplevet Scenen i <persName
-            type="fictional">Hertugens</persName><!-- Henri de Guise --> Værelse, hvor hans Moder og
+            type="fictional" key="vitet-de-guise">Hertugens</persName><!-- Henri de Guise --> Værelse, hvor hans Moder og
           hans Elskerinde forgjæves bønfalde ham om at vogte sit Liv og ikke møde i Raadet næste
           Morgen. Nu indfinder han sig der: en uhyggelig Følelse griber ham, hans Næse springer op
           at bløde, han har glemt sit Lommetørklæde og sender En bort for at hente ham et. De
@@ -10101,10 +10101,10 @@
           saa mange dragne Klinger, føler sig ilde, faaer Ondt. Han er endnu fastende; det vil gaae
           over, naar han spiser en Bagatel; han griber til den lille Bonbonnière han har hængende
           ved sit Belte; den er tom. En sendes bort for at hente ham en Smule <pb n="502"/> Konfekt
-          eller Frugt. Da kommer <persName type="fictional">Révol</persName> ud fra <persName
-            type="fictional">Kongens</persName><!-- Henri 3. --> Værelse med Ordene: »<persName
-            type="fictional">Kongen</persName><!-- Henri 3. --> ønsker at tale med Jer,
-          Monseigneur!« Alle Raadsherrerne tie og see paa hverandre. <persName type="fictional"
+          eller Frugt. Da kommer <persName type="fictional" key="vitet-revol">Révol</persName> ud fra <persName
+            type="fictional" key="vitet-henri-iii">Kongens</persName><!-- Henri 3. --> Værelse med Ordene: »<persName
+            type="fictional" key="vitet-henri-iii">Kongen</persName><!-- Henri 3. --> ønsker at tale med Jer,
+          Monseigneur!« Alle Raadsherrerne tie og see paa hverandre. <persName type="fictional" key="vitet-de-guise"
             >Hertugen</persName><!-- de Guise --> reiser sig, vil tage sin Kappe paa; den glider
           snart ned ad den ene Skulder, snart ad den anden; ubevidst søger han at forhale sin
           Bortgang, for stolt til ikke at ville gaae, var det end i Døden, men Menneske nok til at
@@ -10114,8 +10114,8 @@
           Skamfølelses Stemning gjengivet, der undertiden kan gribe os alle saa heftigt, at vi, blot
           for at komme ud af en latterligt pinlig Situation springe som med lukkede Øine ind i de
           dumdristigste Vovestykker. Atter udebliver den, der er sendt efter Tørklædet; da taber den
-          stolte <persName type="fictional">Guise</persName> Taalmodigheden, og med Ordene: »Jeg kan
-          ikke lade <persName type="fictional">Kongen</persName><!-- Henri 3. --> vente længer«
+          stolte <persName type="fictional" key="vitet-de-guise">Guise</persName> Taalmodigheden, og med Ordene: »Jeg kan
+          ikke lade <persName type="fictional" key="vitet-henri-iii">Kongen</persName><!-- Henri 3. --> vente længer«
           gaaer han ud gjennem Døren; den falder i efter ham, og en halv Snes Officierer støde deres
           lange Dolke i hans Krop.</p>
 
@@ -10159,7 +10159,7 @@
           klassiske Theaterconveniens. Han vovede at optage det gamle Hofs ydre Skikke: Paa hin
           Scene, hvor Helten og hans Fortrolige i et Par hundrede Aar havde samtalt med hængende
           Arme eller med Haanden <pb n="505"/> paa Sværdfæstet, traadte en Skare af <persName
-            type="fictional">Kong Henriks</persName><!-- dumas den ældre, Henri 3 --> Mignon’er ind
+            type="fictional" key="dumas-den-ældre-henri-3">Kong Henriks</persName><!-- dumas den ældre, Henri 3 --> Mignon’er ind
           med Bilboquet’er, Datidens Opfindelse, i Hænderne, og i Pauserne morede de sig med at
           puste Smaapile ud af lange Pusterør. Men forøvrigt følte de og talte de som unge Mænd fra
           1828.</p>
@@ -10180,11 +10180,11 @@
           Menneskelighed deri end i de andre. Og naar det trods sin Naivetet gjør et forholdsvis
           betydeligt Indtryk, saa er Aarsagen den, at <persName>Dumas</persName> her har kastet sit
           eget Jeg med <pb n="506"/> al dets lidenskabelige Voldsomhed, med dets ungdommelige
-          Enthousiasme og ridderlige Instincter op paa Scenen. <persName type="fictional"
+          Enthousiasme og ridderlige Instincter op paa Scenen. <persName type="fictional" key="dumas-antony"
             >Antony</persName> er en Helt fra 1830 som alle <persName>Hugo’s</persName>,
           bredskuldret, løvemanket, begeistret og fortvivlet, skabt til at kunne leve uden Mad og
           Søvn, altid redebon til at skyde sig selv eller en Anden en Kugle for Panden. Men den
-          Furore, som <persName type="fictional">Antony</persName> gjorde, beroede paa, at
+          Furore, som <persName type="fictional" key="dumas-antony">Antony</persName> gjorde, beroede paa, at
             <persName>Dumas</persName> – hvad <persName>Hugo</persName> aldrig vilde eller kunde
           gjøre – lod Handlingen foregaae 1830 og lod Helten optræde i den samme sorte Frakke, som
           Tilskuerne bar. Romantismen havde paa Scenen frivilligt indskrænket sig til Middelalderen.
@@ -10212,7 +10212,7 @@
           lede længe. Helten kommer efter en flereaarig Reise tilbage til
             <placeName>Paris</placeName> og træffer sin Elskede gift. Han frelser hende ud af en
           Vogn med løbske Heste, men modtager Vognstangens Stød i Brystet og bæres saaret ind i
-          Huset til hende. <persName type="fictional">Antony</persName> er Bastard og Hittebarn,
+          Huset til hende. <persName type="fictional" key="dumas-antony">Antony</persName> er Bastard og Hittebarn,
           derfor som Elsker født Oprører mod Samfundets Love: »Andre Mennesker«, siger han, »have en
           Fader, en Moder, en Broder, finde Arme, som aabne sig for dem, naar de lide; jeg har ikke
           engang en Gravsten, paa hvilken jeg kan læse mit Navn og græde, jeg har intet Fædreland,
@@ -10223,20 +10223,20 @@
           rose sig af at have vist mig en Tjeneste! Jeg har kun modtaget Uret, og jeg skylder kun
           Had: Man har indbrændt min stakkels Moders Skam paa min Pande«.</p>
 
-        <p><persName type="fictional">Adèle</persName> elsker <persName type="fictional"
+        <p><persName type="fictional" key="dumas-den-ældre-adele">Adèle</persName> elsker <persName type="fictional" key="dumas-antony"
             >Antony</persName>, men vil flye ham. I sin Lidenskab overrumpler han hende paa en Reise
           og bemægtiger sig hende med Vold i et Værtshus, hvor hun opholder sig. Selv efter denne
           uværdige Handling vedbliver hun at elske ham. Vi gjenfinde Parret i
             <placeName>Paris</placeName>. Dets Eventyr er blevet bekjendt. Vi høre hykkelske Damer,
           der forene hemmelig Kjærlighed til det Forbudne med ulastelig Iagttagen af Skinnet,
-          sønderslide <persName type="fictional">Adèles</persName> Rygte. Deres Angreb besvares fra
+          sønderslide <persName type="fictional" key="dumas-den-ældre-adele">Adèles</persName> Rygte. Deres Angreb besvares fra
           de gode Personers Side med harmfulde Udgydelser mod Samfundet og dets Hykleri. Men Dramet
-          nærmer sig sin Afslutning: Ægtemanden, <persName type="fictional">Oberst
-            d’Hervey</persName> vender tilbage fra en Reise; <persName type="fictional"
-            >Antony</persName> opfordrer forgjæves <persName type="fictional">Adèle</persName> til
+          nærmer sig sin Afslutning: Ægtemanden, <persName type="fictional" key="dumas-den-ældre-oberst-hervey">Oberst
+            d’Hervey</persName> vender tilbage fra en Reise; <persName type="fictional" key="dumas-antony"
+            >Antony</persName> opfordrer forgjæves <persName type="fictional" key="dumas-den-ældre-adele">Adèle</persName> til
           at flygte med sig; allerede høres i Forstuen den fornærmede Ægteherres Skridt, da Elskeren
           drager sin romantiske Dolk og støder <app>
-            <lem><persName type="fictional">Adèle</persName></lem>
+            <lem><persName type="fictional" key="dumas-den-ældre-adele">Adèle</persName></lem>
             <rdg wit="A">Adéle</rdg>
           </app> den i Hjertet, idet han for at redde hendes Ære tilraaber den Indtrædende: »Hun har
           afvist mig, og jeg har myrdet hende«. <pb n="509"/></p>
@@ -10253,13 +10253,13 @@
           paa hans Ryg, for at bevare Stumperne som Reliquier, og selv om denne Anekdote ikke tør
           tages altfor bogstaveligt, er det dog vist at Begeistringen gik over alle Grændser.
           Forklaringen er den, at man aldrig leer af et Værk, hvori Ens egne Stemninger og Følelser
-          komme tilorde. <persName type="fictional">Antony</persName> var ikke blot Lidenskaben, der
+          komme tilorde. <persName type="fictional" key="dumas-antony">Antony</persName> var ikke blot Lidenskaben, der
           gaaer til Brutalitet, i Forening med en Ømhed saa stor, at den hellere paatager sig
           Ansvaret for et Mord, end udsætter den Elskede for Krænkelser og Haan; men <persName
-            type="fictional">Antony</persName> var tillige den paa Byronsk Vis hemmelighedsfuldt
+            type="fictional" key="dumas-antony">Antony</persName> var tillige den paa Byronsk Vis hemmelighedsfuldt
           udkaarne unge Helt, der kjæmper med Skjæbnens Uretfærdighed og er større end sin Skjæbne.
           Ganske savnedes dog ikke i Samtiden en overlegen Opfattelse. <persName>Bocage</persName>,
-          som spillede <persName type="fictional">Antony</persName>, fandt Slutningsrepliken saa
+          som spillede <persName type="fictional" key="dumas-antony">Antony</persName>, fandt Slutningsrepliken saa
           taabelig, at han gjerne vilde være fri for at sige den. Han <pb n="510"/> undlod det en
           Aften, og Tæppet faldt uden den. Men i det samme gav Publicum sig til at raabe og skrige
           som besat. Man vilde have sin Replik. <persName>Bocage</persName> havde forladt Scenen, og
@@ -10284,7 +10284,7 @@
         <p><persName>Alfred de Vigny</persName> (født 1799) havde ikke vundet Bifald med sit dygtige
           historiske Drama »<bibl>La maréchale d’Ancre</bibl>« (opført 1834). Det laa vel i, at han
           her i alt Væsenligt behandlede samme Art Typer, som Publicum var fortrolig med fra andre
-          romantisk-historiske Sørgespil. Elskeren <persName type="fictional">Borgia</persName> er
+          romantisk-historiske Sørgespil. Elskeren <persName type="fictional" key="de-vigny-borgia">Borgia</persName> er
           f. Ex. ganske af samme Art som <persName>Hugos</persName> Elskere, ja endog ikke synderlig
           forskjellig fra Elskeren hos <persName>Dumas</persName> trods de to Digteres stik modsatte
           Naturel. Man sporer her tydeligt den Magt, med hvilken en Skole afsætter sit Præg selv paa
@@ -10292,7 +10292,7 @@
             Personlisten den følgende til Veiledning for Skuespilleren givne Charakteristik af
             Borgia. Man finder her Romantismens Yndlingsbestemmelser forenede som i et Signalement
             og seer med Lethed, hvorledes dette i alt Væsenligt passer paa <persName>Victor
-              Hugo’s</persName> unge Helte, ja paa <persName type="fictional">Antony</persName>:
+              Hugo’s</persName> unge Helte, ja paa <persName type="fictional" key="dumas-antony">Antony</persName>:
             Montagnard brusque et bon. Vindicatif et animé par la vendetta, comme par une seconde
             âme; conduit par elle <emph>comme par la déstinée</emph>. Caractère <emph>vigoureux,
               triste, et profondément sensible</emph>. Haïssant et aimant avec violence. Sauvage par
@@ -10330,7 +10330,7 @@
             <rdg wit="A">Medlidenhedeu</rdg>
           </app>, at det ingen tragisk Virkning gjør, og det tager altfor lyrisk Parti for sin Helt
           til at besidde den indre Ligevægt uden hvilken et Drama mangler Holdning. <persName
-            type="fictional">Chatterton</persName> og den unge Kvækerinde, han beundrer, have i
+            type="fictional" key="vigny-chatterton">Chatterton</persName> og den unge Kvækerinde, han beundrer, have i
           dette Stykke forpagtet al aandelig Adel og sjælelig Høihed; rundt om dem raader kun Prosa,
           Hjertenskulde, Raahed og Dumhed. Hvad Handlingen viser os, det er hvorledes det
           spiritualistiske Geni undertrykkes af en materialistisk Omverden; Livsopfattelsen nærmer
@@ -10357,11 +10357,11 @@
           Menneskecharakterer, men de bæres oppe af en mægtig Lyrik og en begeistret Pathos. Ganske
           vist staae hos <persName>Hugo</persName> Personerne det reelle Liv noget nærmere,
           forsaavidt der nyligere i Frankrig end i Danmark var udført Bedrifter som dem, der
-          fremstilles i disse Dramer: <persName type="fictional">Hernani</persName> minder om de
+          fremstilles i disse Dramer: <persName type="fictional" key="hernani">Hernani</persName> minder om de
           Friskarehøvdinger, der i <placeName>Vendée</placeName> bøde Statsordenen Trods, <persName
-            type="fictional">Gilbert</persName><!-- Marie Tudor -->, der melder sig til Skafottet
+            type="fictional" key="hugo-gilbert">Gilbert</persName><!-- Marie Tudor -->, der melder sig til Skafottet
           for at hævne sin Elskede, gjør intet Mere end hvad mangt et af Guillotinens ædle Ofre
-          havde gjort, og naar <persName type="fictional">Ruy Blas</persName> fra Lakai bliver
+          havde gjort, og naar <persName type="fictional" key="ruy-blas">Ruy Blas</persName> fra Lakai bliver
           Statsminister, er Springet neppe større end <persName>Rousseau’s</persName> fra den samme
           lave Stilling til Stillingen <pb n="515"/> som verdensberømt Forfatter. Men det nytter
           ikke meget, da Digterens Forkjærlighed for det Ualmindelige, ja Uhyrlige trænger Alt
@@ -10376,8 +10376,8 @@
             <persName>Lamartine</persName> med sit umiddelbart harmoniske Væsen i sine Digtninge
           ynder at skildre en fuldkomment ren og elskelig Natur, som pludseligt kommer i Kast med
           Fristelser, et Øieblik bukker under for dem og saa udsoner dette ene svage Øieblik ved
-          lange Tiders Bod og Anger (<persName type="fictional">Jocelyn</persName>, <persName
-            type="fictional">Cédar</persName> i »<bibl>La chute d’un ange</bibl>«) fremstiller
+          lange Tiders Bod og Anger (<persName type="fictional" key="jocelyn">Jocelyn</persName>, <persName
+            type="fictional" key="lamartine-cedar">Cédar</persName> i »<bibl>La chute d’un ange</bibl>«) fremstiller
             <persName>Hugo</persName> i sine Dramer med Forkjærlighed Menneskesjælen, nedværdiget
           ved slette Lidenskaber, ved alle Arter af Elendighed og Ydmygelser, ved Laster, ved
           Trældom, ved Vanførhed, men saaledes anlagt, at den paa given Anledning henrives af det
@@ -10388,24 +10388,24 @@
           sin første nedværdigende Tilstand.</p>
 
         <p>Nogle Exempler ville oplyse dette hos <persName>Hugo</persName> constante Forhold:
-            <persName type="fictional">Triboulet</persName> (»<bibl>Le roi s’amuse</bibl>«) er
+          <persName type="fictional" key="hugo-triboulet">Triboulet</persName> (»<bibl>Le roi s’amuse</bibl>«) er
           fordærvet ved at være Spottens samvittighedsløse Organ og Gjenstand; men han elsker som
           Fader sin Datter med den reneste Ømhed. Saa ranes hun fra ham, og han hjemfalder til Had
-          og Hævnsyge. – <persName type="fictional">Marion</persName> (»<bibl>Marion
+          og Hævnsyge. – <persName type="fictional" key="marion-delorme">Marion</persName> (»<bibl>Marion
           Delorme</bibl>«) er en Courtisane, der hundrede Gange har solgt sig, men hun gribes af
           Kjærlighed til en ung modig Mand og denne <app>
             <lem>Følelse</lem>
             <rdg wit="A">Fø-/selse</rdg>
           </app> lutrer hende helt. Dog da man har fradømt <persName type="fictional"
-            >Didier</persName> Livet, bliver hun i Rædselens Time paany <persName type="fictional"
+            >Didier</persName> Livet, bliver hun i Rædselens Time paany <persName type="fictional" key="marion-delorme"
             >Marion</persName>. Hun hengiver sig til Dommeren for at frelse den, hun elsker, uden at
-          forstaae, at <persName type="fictional">Didier</persName> langt hellere vilde døe end
-          frelses saaledes. – <persName type="fictional">Lucretia Borgia</persName> er avlet i
+          forstaae, at <persName type="fictional" key="hugo-didier">Didier</persName> langt hellere vilde døe end
+          frelses saaledes. – <persName type="fictional" key="lucrèce-borgia">Lucretia Borgia</persName> er avlet i
           Forbrydelse og har levet i lutter Forbrydelse. Men denne udsvævende Giftblanderske har en
           Søn, som hun elsker, og for et Blik af ham er hun rede til at opgive hele sit foregaaende
           Liv. Dog, man krænker hende dødeligt, og i sin Vrede griber hun til sit gamle Middel,
           indbyder sine Fjender, giver dem Gift og dræber mod sin Villie Sønnen med dem. – <persName
-            type="fictional">Ruy Blas</persName> har, tvunget af Fattigdom, maattet gjøre <pb
+            type="fictional" key="ruy-blas">Ruy Blas</persName> har, tvunget af Fattigdom, maattet gjøre <pb
             n="517"/> sig til Tjener hos en Adelsmand. En Dronnings Kjærlighed gjør denne Lakai til
           Minister. Han er Pladsen voxen, han udfører store og skjønne Planer, er paa Nippet til at
           blive sit Fædrelands Redningsmand. Men hans Fortid reiser sig imod ham, og da han seer
@@ -10456,14 +10456,14 @@
         <p>Han havde altid manglet Sands for det Komiske og altid været tilbøielig til at tage det
           Kolossale for det Ophøiede. Han hengav sig i en Grad, som aldrig før, til denne sidste
           Tilbøielighed, da han skrev »<bibl>Les Burgraves</bibl>«. Blot ved at læse Personlisten
-          smiler man: <persName type="fictional">Job</persName>, Borggreve paa Heppenheff, 100 Aar
-          gammel. <persName type="fictional">Magnus</persName>, Søn af <persName type="fictional"
+          smiler man: <persName type="fictional" key="hugo-job">Job</persName>, Borggreve paa Heppenheff, 100 Aar
+          gammel. <persName type="fictional" key="hugo-magnus">Magnus</persName>, Søn af <persName type="fictional" key="hugo-job"
             >Job</persName>, 80 Aar <app>
             <lem>gammel</lem>
             <rdg wit="A">gammet</rdg>
-          </app>. <persName type="fictional">Hatto</persName>, Søn af <persName type="fictional"
-            >Magnus</persName>, 60 Aar gammel. <persName type="fictional">Gorlois</persName>, Søn af
-            <persName type="fictional">Hatto</persName>, 30 Aar gammel. Jeg husker en samtidig
+            </app>. <persName type="fictional" key="hugo-hatto">Hatto</persName>, Søn af <persName type="fictional" key="hugo-magnus"
+              >Magnus</persName>, 60 Aar gammel. <persName type="fictional" key="hugo-gorlois">Gorlois</persName>, Søn af
+            <persName type="fictional" key="hugo-hatto">Hatto</persName>, 30 Aar gammel. Jeg husker en samtidig
           Pariser-Karikatur af Borggreverne, paa hvilken man seer dem fra Oldefaderen til
           Sønnesønssønnen fremstillede i Geled med jævnt aftagende Høide og med jævnt aftagende
           Skjæg.</p>
@@ -10471,9 +10471,9 @@
         <p>Den hundredaarige er den rørigste af dem alle; han repræsenterer den gode, gamle Tid.
           Naar han taler til sin firsindstyveaarige Søn siger han: <pb n="520"/> »Unge Menneske!« og
             <persName>Hugo</persName> smiler ikke. Alle disse gamle Herrer declamere om Kap med en
-          Tigger paa 92 Aar, der viser sig ikke at være nogen ringere end <persName type="fictional"
+          Tigger paa 92 Aar, der viser sig ikke at være nogen ringere end <persName type="fictional" key="hugo-frederic-de-hohenstaufen"
             >Frederik Barbarossa</persName><!-- Frédéric de Hohenstaufen -->, der (omtrent som
-            <persName type="fictional">Olaf Trygvasøn</persName> i
+          <persName type="fictional" key="oehlenschlæger-olaf-tryggvason">Olaf Trygvasøn</persName> i
             <persName>Oehlenschlägers</persName> »<bibl>Væringerne</bibl>«) i tyve Aar har levet
           skjult for hele Verden, men som har en Hævn at udøve over den ældste af Borggreverne, der
           som Yngling har efterstræbt hans Liv. Usandsynlighederne og de romantiske Absurditeter
@@ -10516,10 +10516,10 @@
           Virkeligheden var.</p>
 
         <p>Man saa kun, at dette Drama var sundt og simpelt. Man saa, det var Lucretia! ikke
-            <persName>Hugo’s</persName> rædselsfulde <persName type="fictional">Lucretia</persName>,
+          <persName>Hugo’s</persName> rædselsfulde <persName type="fictional" key="lucrèce-borgia">Lucretia</persName>,
           dette Uhyre af Blodtørst og Sandselighed, men <placeName>Roms</placeName> Lucretia,
           Kydskhedens Symbol, et andet Navn for kvindelig Renhed. Hun var Ægteskabet, Familien,
-          Hjemmets Poesi, som <persName type="fictional">Antony</persName> og hans Aandsbeslægtede
+          Hjemmets Poesi, som <persName type="fictional" key="dumas-antony">Antony</persName> og hans Aandsbeslægtede
           havde været Hittebarnsmoralen og Vildskaben. Alt hvad der i Frankrig gaves af Klassisk og
           Katholsk, Alt, hvad der i Schweiz kunde føre en protestantisk troende Pen gav sig til at
           synge Lovsange. Nu havde <persName>Hugo</persName> fundet sin Overmand,
@@ -10557,10 +10557,10 @@
         <p><persName>Rachel</persName> havde først afvist Titelrollen i »<bibl>Lucrèce</bibl>«,
           skjøndt den var skrevet for hende. Men da Stykket havde gjort Lykke paa
             <placeName>Odéon</placeName>, overtog <pb n="524"/> hun Rollen. Et Øienvidne har
-          skildret mig Stemningen i Theatret første Gang, hun spillede <persName type="fictional"
+          skildret mig Stemningen i Theatret første Gang, hun spillede <persName type="fictional" key="lucrèce-borgia"
             >Lucretia</persName>, med disse Ord: »Man sad aandeløs af Forventning, da Tæppet skulde
           gaae op. Det hævede sig, og vi saae <persName>Rachel</persName> som <persName
-            type="fictional">Lucretia</persName> siddende ved sin Rok imellem sine Terner. Der var
+            type="fictional" key="lucrèce-borgia">Lucretia</persName> siddende ved sin Rok imellem sine Terner. Der var
           allerede forud stille; men da hun løftede sit Hoved og aabnede sine Læber for til
           Slavinden at sige de første Ord: Lève-toi Laodice!, blev der en saadan Stilhed, at vi
           hørte Frugtsælgerskerne raabe med Appelsiner udenfor paa Torvet«.</p>
@@ -10902,7 +10902,7 @@
           end er. I Fortalen omgaaer han Spørgsmaalet om sin Tro med den Vending, at hvilken denne
           end er, har han ikke glemt sin Ungdoms Ærefrygt for Kirken; men det kunde ikke oversees,
           at selve Digtets Handling var et Indlæg mod Geistlighedens ugifte Stand, altsaa mod et af
-          Kirkelærens Hovedpunkter, og i <persName type="fictional">Jocelyn’s</persName>
+          Kirkelærens Hovedpunkter, og i <persName type="fictional" key="jocelyn">Jocelyn’s</persName>
           Dagbogsoptegnelse fra 21de September 1800 forekom da ogsaa dette meget sigende Sted:</p>
 
         <p>»Den menneskelige Karavane havde en Dag leiret sig i en Skov, der begrændsedes af en Flod
@@ -11006,13 +11006,13 @@
           Her lægger hun et Skarpsyn og en psychologisk Indsigt for Dagen, der ikke giver
             <persName>Balzac’s</persName> det ringeste efter. En dyb Antipathi, der dog ingenlunde
           udelukker Overbærenhedens gode Lune, har inspireret hende. Overfor <persName
-            type="fictional">Horace</persName> har Proletaren <persName type="fictional"
+            type="fictional" key="george-sand-horace">Horace</persName> har Proletaren <persName type="fictional" key="george-sand-arsene"
             >Arsène</persName> den smukke Rolle; han har været Maler, har af Armod maattet gjøre sig
           til Opvarter paa en Café; men den afhængige Stilling har ikke nedværdiget ham. Hans simple
           Godhed, hans prunkløse Sjæleskjønhed gjør <pb n="547"/> ham til en af Digterindens mest
           tiltrækkende Skikkelser. Man troer paa ham.</p>
 
-        <p><persName type="fictional">Arsène</persName> er lieret med Bousingot’erne, den Kreds af
+        <p><persName type="fictional" key="george-sand-arsene">Arsène</persName> er lieret med Bousingot’erne, den Kreds af
           unge Studenter, der i Trediverne overførte den romantiske Skoles Stil og Optræden i det
           politiske Liv. Man finder dem hyppigt afbildede i Datidens Lithografier med deres
             <persName>Robespierre</persName>-Veste, tykke Stokke, Voxdugshatte eller røde
@@ -11023,19 +11023,19 @@
           forstyrrede den offentlige Orden, bør nu rødme over at have havt nogle hidsige
           Ungdomsdage. Naar Ungdommen ikke kan vise det Store og Stolte, den har paa Hjerte, uden
           ved Angreb paa Samfundsordenen, saa maa denne Samfundsorden være saare slet.« <persName
-            type="fictional">Arsène</persName> kjæmper som en Helt og saares haardt under
+            type="fictional" key="george-sand-arsene">Arsène</persName> kjæmper som en Helt og saares haardt under
           Arbeideropstanden d. 5te Juni 1832, der skildres med fuld Sympathi; og han udvikler sig i
           de følgende Aar til et ikke ringe politisk Dannelsestrin. Hans Læreaar have i denne
           Sammenhæng Interesse for os, fordi de give Forfatterinden Anledning til uforblommet at
-          lægge sine Sympathier for Dagen. Den Mand, <persName type="fictional">Arsène</persName>
-          især beundrer, er <persName type="fictional">Godefroy Cavaignac</persName>.
+          lægge sine Sympathier for Dagen. Den Mand, <persName type="fictional" key="george-sand-arsene">Arsène</persName>
+          især beundrer, er <persName type="fictional" key="george-sand-godefroy-cavaignac">Godefroy Cavaignac</persName>.
             <persName>George Sand</persName> charakteriserer ham og hans Venner, Selskabet »Les amis
           du peuple«. <pb n="548"/> »Deres Ideer«, siger hun, »betegnede idetmindste et stort
           Fremskridt ud over Restaurationstidens Liberalisme. De andre Republikanere tænkte altfor
           meget paa at styrte Kongedømmet, ikke nok paa at grundlægge Republiken, <persName
-            type="fictional">Godefroy Cavaignac</persName> derimod tænkte paa Folkets Frigjørelse,
+            type="fictional" key="george-sand-godefroy-cavaignac">Godefroy Cavaignac</persName> derimod tænkte paa Folkets Frigjørelse,
           paa gratis offentlig Undervisning, paa almindelig Stemmeret, paa progressiv Omændring af
-          Eiendomsforholdene o. s. v.« <persName type="fictional">Horace’s</persName> Hjertenskulde
+          Eiendomsforholdene o. s. v.« <persName type="fictional" key="george-sand-horace">Horace’s</persName> Hjertenskulde
           og Bornerthed røber sig blandt Andet ved hans haanligt affeiende Domme om
           Saint-Simonismen, der for ham er blot Charlataneri; han forstaaer Intet af det Værdifulde
           i dens Opfattelse af Kjønnenes Stilling til hinanden og maa derfor finde sig i at vises
@@ -11624,7 +11624,7 @@
           hvis Gjenskin faldt som røde og gule Glandspletter paa de blaa Silkegardiner ved den Syges
           Hovedgjærde.</p>
 
-        <p>Troer du, <persName type="fictional">Mariette</persName>, at han kommer? – »Aa, fald dog
+        <p>Troer du, <persName type="fictional" key="bertrand-mariette">Mariette</persName>, at han kommer? – »Aa, fald dog
           i Søvn, Frue, sov dog lidt <app>
             <lem wit="B SS Fu 1923-24">ind!«</lem>
             <rdg wit="A">ind!</rdg>
@@ -11639,10 +11639,10 @@
 
         <p>»Ak, han kommer ikke«<!-- cit slut indsat -->, sagde hun med svigtende Stemme,
           »<!-- cit start indsat -->han kommer ikke!<!-- cit start slettet -->
-          <persName type="fictional"> Mariette</persName>, giv mig en af de Blomster der, for at jeg
+          <persName type="fictional" key="bertrand-mariette">Mariette</persName>, giv mig en af de Blomster der, for at jeg
           kan indaande Duften og kysse Bladene af Kjærlighed til ham!«</p>
 
-        <p>Saa laa <persName type="fictional">Madame de
+        <p>Saa laa <persName type="fictional" key="bertrand-madame-de-montbazon">Madame de
           Montbazon</persName><!-- "Madame de Montbazon (Louis (Ludovic, Aloysius) Bertrand -->
           ubevægelig <pb n="576"/> med lukkede Øine. Hun var død af Elskov, hun opgav sin Aand i
           Duften af en Hyacinth«.</p>
@@ -11662,7 +11662,7 @@
           stor Respekt. Han lignede en Spanier eller Araber fra det 15de Aarhundrede, og naar hans
           Kammerater gik hjem fra Theatret efter at have seet den i <persName>Delavigne’s</persName>
           eller <persName>Scribes</persName> Roller uddannede Skuespiller
-            <persName>Firmin</persName> som <persName type="fictional">Hernani</persName>, hvor ofte
+            <persName>Firmin</persName> som <persName type="fictional" key="hernani">Hernani</persName>, hvor ofte
           beklagede de da ikke, at det ikke var <persName>Petrus</persName><!-- Petrus Borel -->,
           hvem man havde givet denne ideale Bandit at spille. Hvor vilde han ikke have slaaet ned
           paa Scenen som en Kongeglente, hvor smuk vilde han ikke have været med det <pb n="577"/>
@@ -11710,7 +11710,7 @@
           gjorde. Han led Nød, sultede tidt, havde undertiden ikke Tag over Hovedet, søgte Nattely i
             <pb n="579"/> Bygninger, der vare under Opførelse. Hans ungdommelige Had til al Uret
           skadede ham imidlertid ogsaa som Digter. I hans store to Binds Roman »<bibl>Madame
-            Putiphar</bibl>« er Heltindens, <persName type="fictional">Madame Pompadours</persName>
+            Putiphar</bibl>« er Heltindens, <persName type="fictional" key="borel-madame-pompadour">Madame Pompadours</persName>
           Charakter forvansket af Forfatterens republikanske Harme. Roccoco-Tidens letfærdige,
           kunstelskende Muse, der havde en lille letsindig Forkjærlighed for Tankens Frihed, som
           beskyttede Encyclopædisterne og raderede under Veiledning af <persName>Boucher</persName>,
@@ -11735,7 +11735,7 @@
           mandig og fordomsfri ung Adelsmand har forelsket sig i en ung deilig Jødinde og reiser til
           sin Fader for at opnaae hans Samtykke til Forbindelsen. Denne forbander ham og affyrer i
           sit Raseri sin Arkebuse efter Sønnen uden dog at træffe ham. Medens <persName
-            type="fictional">Aymar</persName> er borte, vandrer <persName type="fictional"
+            type="fictional" key="borel-aymar-de-rochegude">Aymar</persName> er borte, vandrer <persName type="fictional" key="borel-dina"
             >Dina</persName> en Dag i Tanker langs <placeName>Saône’s</placeName> Bredder. Hun faar
           Lyst til at seile, raaber en Baadfører an og lægger sig drømmende til Hvile under
           Gondolens Tag. Baadføreren plyndrer den skjønne Jødinde for hendes Ringe og Smykker,
@@ -11746,7 +11746,7 @@
 
         <p>Er Liget blevet gjenkjendt? spørger Raadsherren. <pb n="581"/></p>
 
-        <p>Ja Messire. Det er en ung Pige ved Navn <persName type="fictional">Dina</persName>,
+        <p>Ja Messire. Det er en ung Pige ved Navn <persName type="fictional" key="borel-dina">Dina</persName>,
           Datter af en vis <persName type="fictional">Israel Judas</persName>, en Juvelerer.</p>
 
         <p>En Jødinde?</p>
@@ -11756,7 +11756,7 @@
         <p>Saa Du fisker Jøder op, din Slubbert, og er fræk nok til endda at fordre Belønning
           derfor.</p>
 
-        <p>Holla <persName type="fictional">Martin</persName>, holla <persName type="fictional"
+        <p>Holla <persName type="fictional" key="borel-martin">Martin</persName>, holla <persName type="fictional" key="borel-lefabre"
             >Lefabre</persName>, kom ind og smid ham ud!</p>
 
         <p>Scenerne i Jødekvarteret og Scenerne i Baaden ere uovertrufne i deres skjærende Sandhed.
@@ -11896,9 +11896,9 @@
           en ædel Pietet. Men da han paany vilde optræde som <persName>Hugos</persName> Talsmand,
           var Redactionen af »<bibl>Patrie</bibl>« slaaet om, og han fik sin Artikel tilbage. Saa
           tog han sin Afsked som Feuilletonist og skrev aldrig mere i noget Blad. Han trak sig ind i
-          sin indre Verden, tilmode som <persName type="fictional">Don Quichote</persName> efter
+          sin indre Verden, tilmode som <persName type="fictional" key="don-quixote">Don Quichote</persName> efter
           Hjemkomsten eller som <persName>Molières</persName>
-          <persName type="fictional"
+          <persName type="fictional" key="alceste"
           >Misanthrop</persName><!-- Alceste (Jean-Baptiste Poquelin Molière: Le Misanthrope, komedie, -->,
           da han tilsidst flyer ud i Ensomheden, og skrev dog i sit sidste Digt, at han vel ikke
           troede paa nogen Udødelighed, men at hvis hans Helte engang seierrige skulde ride hen over
