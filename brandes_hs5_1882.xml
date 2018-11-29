@@ -1596,9 +1596,9 @@
             Shakespeare</bibl>«<!-- cit start og slut indsat --> 294, hos
               <persName>Balzac</persName> hans egne Ord i Fortalen til »La Comédie humaine« og hans
             Alter-Ego, <persName type="fictional" key="daniel-arthez">Daniel d’Arthez’s</persName> Udtalelser i
-              »<bibl>Les illusions perdues</bibl>«.</note> De af hans Romaner, der foregik i den
-          mere moderne Tid, gjorde intet Indtryk; man holdt sig til »<bibl>Ivanhoe</bibl>«,
-            »<bibl>Quentin Durward</bibl>«, »<bibl>Den smukke Pige i Perth</bibl>« og et Par andre.
+            »<bibl n="balzac-illusions-perdues">Les illusions perdues</bibl>«.</note> De af hans Romaner, der foregik i den
+          mere moderne Tid, gjorde intet Indtryk; man holdt sig til »<bibl n="scott-ivanhoe">Ivanhoe</bibl>«,
+          »<bibl n="scott-quentin-durward">Quentin Durward</bibl>«, »<bibl n="scott-st-valentines-day-or-the-fair-maid-of-perth">Den smukke Pige i Perth</bibl>« og et Par andre.
           Hvad man især vurderede hos den fremmede Digter var, at han havde erstattet begge de
           tidligere Former for den større Roman – den fortællende, hvis Kapiteloverskrifter vare
           sande Udtog og i hvilken Fortælleren stedse stak Hovedet i Veiret, og Brevformen, der
@@ -1606,7 +1606,7 @@
           hengivne«, – med den dialogiserede, dramatiske Roman. De største Talenter blandt de unge
           franske Digtere røbe Paavirkningen af ham. Den blandt dem, der i moralsk Henseende stod
           England nærmest, <persName>Alfred de Vigny</persName> skrev sin Roman
-            »<bibl>Cinq-Mars</bibl>«<!-- cit start og slut indsat -->, der foregaaer under
+          »<bibl n="vigny-cinq-mars-ou-une-conjuration-sous-louis-xiii">Cinq-Mars</bibl>«<!-- cit start og slut indsat -->, der foregaaer under
             <persName>Richelieu</persName>, et underholdende, men nu forældet Arbeide, i hvilket
           Modsætningen af Godt og Ondt overskygger alle andre Modsætninger og i hvilket Mangelen paa
           Blik for <persName>Richelieu’s</persName> Statsmandsstorhed er paafaldende.
@@ -1614,7 +1614,7 @@
           den er traadt et lyrisk Element, Forherligelsen af ungdommelig <pb n="78"/> fremfusende
           Ridderlighed, den gammelfranske Bravoure. Samtidigt med <persName>De Vigny</persName> lod
             <persName>Prosper Mérimée</persName> sig paavirke af den store Skotte og forfattede
-          under denne Indflydelse sin »<bibl>Krønike fra <persName>Karl den 9des</persName>
+          under denne Indflydelse sin »<bibl n="merimee-chronique-du-regne-de-charles-ix">Krønike fra <persName>Karl den 9des</persName>
             Regjering</bibl>« (»Fra Bartholomæusnattens Tid«), et Værk hvis Aandsretning ligger
           endnu fjernere fra <persName>Scotts</persName>. <persName>Mérimée</persName> opsøger i
           Historien de stærke og voldsomme Lidenskaber for deres egen Skyld, kun med det
@@ -1623,7 +1623,7 @@
           moralsk Conveniens.</p>
 
         <p>Det er bekjendt, at <persName>Alexandre Dumas</persName> senere hen i mange lette og
-          underholdende Romaner – »<bibl>De tre Musketerer</bibl>« f. Ex. – paa sin Vis tilegnede
+          underholdende Romaner – »<bibl n="dumas-den-aeldre-les-trois-mousquetaires">De tre Musketerer</bibl>« f. Ex. – paa sin Vis tilegnede
           sig <persName>Scotts</persName> farverigdom og historiske Stil. Mindre bekjendt er det
           derimod, at <persName>Balzac</persName>, Begrunderen af den moderne franske Roman, ganske
           som <persName>de Vigny</persName> og <persName>Mérimée</persName> følte sig tiltrukket af
@@ -1638,13 +1638,13 @@
           Kjæmpeværker og instinctmæssig søgte det systematisk Omspændende, den Plan at fremstille
           ethvert Tidsrum fra <persName>Karl den Store</persName> til Datiden i en eller flere
           Romaner, der skulde danne en sammenhængende Kjæde; det var en lignede Idee som den,
-            <persName>Freytag</persName> senere i sit Værk »<bibl>Die Ahnen</bibl>« har søgt at
+          <persName>Freytag</persName> senere i sit Værk »<bibl n="freytag-die-ahnen">Die Ahnen</bibl>« har søgt at
           virkeliggjøre for Tydsklands Vedkommende. Et Led i denne Kæde skulde den første Roman
-          være, som <persName>Balzac</persName> udgav under eget Navn, »<bibl>Les Chouans</bibl>«, i
+          være, som <persName>Balzac</persName> udgav under eget Navn, »<bibl n="balzac-les-chouans">Les Chouans</bibl>«, i
           hvilken Kampene i <placeName>Vendée</placeName> paa Revolutionstiden skildres, og som
-          udkom 1829, netop samme Aar som »<bibl>Cinq-Mars</bibl>« og »<bibl>Chronique du règne de
+          udkom 1829, netop samme Aar som »<bibl n="vigny-cinq-mars-ou-une-conjuration-sous-louis-xiii">Cinq-Mars</bibl>« og »<bibl n="merimee-chronique-du-regne-de-charles-ix">Chronique du règne de
             Charles IX.</bibl>« Andre Brudstykker af det paatænkte store Værk ere de meget senere
-          udgivne Bøger »<bibl>Sur Cathérine de Médicis</bibl>« og »<bibl>Maître Cornélius</bibl>«,
+          udgivne Bøger »<bibl n="balzac-sur-catherine-de-medicis">Sur Cathérine de Médicis</bibl>« og »<bibl n="balzac-maitre-cornelius">Maître Cornélius</bibl>«,
           en Roman, i hvilken <persName>Balzac</persName> i ligefrem Kappestrid med <persName>Walter
             Scott</persName> lader <persName>Ludvig XI</persName>, hvem den fremmede Digter efter
           hans Opfattelse havde gjort Uret, spille en Hovedrolle. Disse Bøger, der i og for sig
@@ -1676,7 +1676,7 @@
           Bestemmelse havde han den Dag iført sig sin Borgervæbningsuniform.</p>
 
         <p>Allerede fra <persName>Hugos</persName> tidligste Ungdom af havde han modtaget et dybt
-          Indtryk af<persName> Walter Scott</persName>. I en Anmeldelse af »<bibl>Quentin
+          Indtryk af<persName> Walter Scott</persName>. I en Anmeldelse af »<bibl n="scott-quentin-durward">Quentin
             Durward</bibl>«, som han skriver 21 Aar gammel, udtaler han den høieste Beundring for
             <persName>Scotts</persName> historiske Sands, sædelige Alvor og dramatiske Form. Der
           findes ligefuldt heri en Sætning, i hvilken han ligesom angiver det Skridt, han selv
@@ -1724,7 +1724,7 @@
           tvende Æmner Grækenland og <persName>Lord Byron</persName>, og var hele Aar igjennem
           vedblevet at besynge dem med saamegen Iver og saa liden Evne til Forstaaelse og
           Charakteristik af den Afdødes Eiendommelighed, at <persName>Sainte-Beuve</persName> i
-            »<bibl>Globe</bibl>«<!-- cit start og slut indsat --> maatte nedlægge en Protest mod
+            »<bibl n="le-globe">Globe</bibl>«<!-- cit start og slut indsat --> maatte nedlægge en Protest mod
           Misbrugen af Ordene <persName>Byron</persName>, Frihed, Sørgehymne o. s. v. Saavel
             <persName>Hugo</persName> som <persName>Lamartine</persName> havde ved Efterretningen om
             <persName>Byrons</persName> Død givet deres Følelser for ham Luft, den første i en
@@ -1732,18 +1732,18 @@
             <persName>Byrons</persName> Digterpersonlighed Hovedvægten paa hans Skepticisme og
           Pessimisme; Ingen af <pb n="84"/> dem synes at have modtaget noget dybere Indtryk af
             <persName>Byrons</persName> Manddomsværker; den friske og bidende politisk-religiøse
-          Satire i »<bibl>Don-Juan</bibl>«<!-- cit start og slut indsat --> forblev i 1824 overhørt
+          Satire i »<bibl n="byron-don-juan">Don-Juan</bibl>«<!-- cit start og slut indsat --> forblev i 1824 overhørt
           og uforstaaet af dem som af saa mange andre. Men medens <persName>Hugo</persName> fremfor
           Alt stræber at opvise Modsætningen mellem <persName>Byrons</persName> Poesi og det attende
           Aarhundredes – »Forskjellen mellem <persName>Byrons</persName> og
             <persName>Voltaires</persName> Latter er den, at <persName>Voltaire</persName> ikke
           havde lidt« – er for den blødagtige og halvveis troende <persName>Lamartine</persName>
           <persName>Byron</persName> endnu den faldne Engel. <persName>Lamartines</persName>
-            »<bibl>Femte Sang af Childe Harold</bibl>«, i hvilken han stræber at anslaae de Byronske
+          »<bibl n="lamartine-le-dernier-chant-du-pelerinage-dharold">Femte Sang af Childe Harold</bibl>«, i hvilken han stræber at anslaae de Byronske
           Toner, viser hvori han troede at finde Ligheden mellem den engelske Lord og sig selv,
           nemlig i den romantisk-heroiske Personlighed. Han benytter <persName>Byrons</persName>
           Maske til gjennem den at give de Tvivl og de revolutionære Sympathier Udtryk, der kun
-          ganske glimtvis kom frem i hans <bibl>poetiske Meditationer</bibl>, men som han snart
+          ganske glimtvis kom frem i hans <bibl n="lamartine-meditations-poetiques">poetiske Meditationer</bibl>, men som han snart
           skulde udtale i sit eget Navn. Rimeligvis har desuden Mindet om <persName>Byron</persName>
           lokket saavel ham som <persName>Hugo</persName> til Østerland; den sidste nøiedes med
           digteriske Farter, <persName>Lamartine</persName> satte en storartet Reise i Scene, til
@@ -1813,7 +1813,7 @@
             <lem>Walpurgisnachtsdrømmenes</lem>
             <rdg wit="A">Walpurgirnachtsdrømmenes</rdg>
           </app> Land. Af <persName>Goethe</persName> blev kun et eneste Værk stærkt læst, nemlig
-            »<bibl>Werther</bibl>«<!-- cit start og slut indsat -->, i hvilket det exalterede Udtryk
+          »<bibl n="goethe-die-leiden-des-jungen-werthers-vol-1-2">Werther</bibl>«<!-- cit start og slut indsat -->, i hvilket det exalterede Udtryk
           for Lidenskaben henrykte. <persName type="fictional" key="werther">Werther</persName> forekom som en
           <persName type="fictional" key="rene">René</persName>, fordi man lærte ham – der dog var saa meget
           ældre end <persName type="fictional" key="rene">René</persName> – at kjende efter <persName
@@ -1827,7 +1827,7 @@
             type="fictional" key="margarethe-gretchen">Margrethes</persName> Tærskel og dog samvittighedsløs nok til at
           forlade den Forførte og dræbe hendes Broder i en uærlig Duel, var altfor ufransk til at
           forstaaes. Hvilken Art af Indvendinger Mændene af den klassiske Skole rettede mod
-            <persName>Goethe’s</persName> »<bibl>Faust</bibl>«<!-- cit start og slut indsat -->,
+          <persName>Goethe’s</persName> »<bibl n="goethe-faust">Faust</bibl>«<!-- cit start og slut indsat -->,
           sees af Romantikernes Forsvarsartikler. »Hvor mange Mennesker,«<!-- cit slut indsat -->
           hedder det i en Artikel af <persName>Duvergier de Hauranne</persName>,
           »<!-- cit start indsat -->gjør ikke den blotte Forestilling om en Pagt med Djævelen
@@ -1840,19 +1840,19 @@
             <persName>Auger</persName> fik endnu i 1825 Akademiets Medlemmer til at smile ved i et
           Udfald mod Romantikerne, »disse Elskere af den skjønne Natur, der gjerne vilde give Apollo
           fra Belvedere for en uhyrlig Statue af den hellige Christopher og som med største
-          Fornøielse vilde give »<bibl>Phèdre</bibl>«<!-- cit start og slut indsat --> og
-            »<bibl>Iphigénie</bibl>«<!-- cit start og sut indsat --> bort for
-          »<bibl>Faust</bibl>«<!-- cit start og slut indsat --> og »<bibl>Götz von
+          Fornøielse vilde give »<bibl n="racine-phedre">Phèdre</bibl>«<!-- cit start og slut indsat --> og
+          »<bibl n="racine-iphigenie">Iphigénie</bibl>«<!-- cit start og sut indsat --> bort for
+          »<bibl n="goethe-faust">Faust</bibl>«<!-- cit start og slut indsat --> og »<bibl n="goethe-gotz-von-berlichingen-mit-der-eisernen-hand">Götz von
             Berlichingen</bibl>«<!-- cit start og slut indsat -->,« at udtale disse sidste Titler
           med burlesk Betoning som barbariske Navne. Romantikernes Beundring <pb n="89"/> for
-            »<bibl>Faust</bibl>«<!-- cit start og slut indsat --> var imidlertid, som allerede
+            »<bibl n="goethe-faust">Faust</bibl>«<!-- cit start og slut indsat --> var imidlertid, som allerede
           antydet, ufrugtbar. Skjøndt <persName>Gérard de Nerval</persName> oversatte det store
           Dramas første Del til den gamle <persName>Goethe’s</persName> høieste Tilfredshed og
           skjøndt <persName>Delacroix’s</persName> Maleri af Faust og Mephistopheles, der ride
           gjennem Luften, ligeledes vakte den gamle Digters og Kjenders Beundring, lader der sig i
           Datidens franske Litteratur kun sparsomt (som hos <persName>Quinet</persName>) paavise
           Indflydelse fra <persName>Goethe’s</persName>
-          »<bibl>Faust</bibl>«<!-- cit start og slut indsat -->.</p>
+          »<bibl n="goethe-faust">Faust</bibl>«<!-- cit start og slut indsat -->.</p>
 
         <p>Hvorvel <persName>Schiller</persName> ved sin Sammenhæng med
             <persName>Rousseau</persName> og sin blomstrende dramatiske Rhetorik kunde synes lettere
@@ -1861,9 +1861,9 @@
           umiddelbart før at den egentlig romantiske Skole dannede sig, og Overgangsperiodens
           halvromantiske Poeter, der efter Lyst og Lune tilskare hans Stykker til regulære Tragedier
           i den herskende Smag, skamskændede hans Værker istedenfor at aabne Forstaaelsen for dem.
-          Af »<bibl>Jomfruen fra Orleans</bibl>« og »<bibl>Don Carlos</bibl>« fabrikerede
-            <persName>Soumet</persName> en »<bibl>Jeanne d’Arc</bibl>« og en »Elisabeth af
-          Frankrig«; »<bibl>Fiesco</bibl>« blev bearbeidet og mishandlet af
+          Af »<bibl n="schiller-die-jungfrau-von-orleans">Jomfruen fra Orleans</bibl>« og »<bibl>Don Carlos</bibl>« fabrikerede
+          <persName>Soumet</persName> en »<bibl n="soumet-jeanne-darc">Jeanne d’Arc</bibl>« og en »<bibl n="soumet-elisabeth-de-france">Elisabeth af
+            Frankrig</bibl>«; »<bibl n="schiller-die-verschworung-des-fiesko-zu-genua">Fiesco</bibl>« blev bearbeidet og mishandlet af
             <persName>Ancelot</persName>, »<bibl>Wallenstein</bibl>« af
             <persName>Liadières</persName>; men hverken Klassikere eller Romantikere følte nogen
           Tilfredsstillelse med Resultatet, og den strenge <persName>Beyle</persName>, der dog
@@ -1871,10 +1871,10 @@
           har hyldet den gamle franske Smag til at han har kunnet <pb n="90"/> give sine Landsmænd
           den Tragedie, der fordredes af deres Sæder. For <persName>Schillers</persName> virkelige
           Storhed mangler han fuldstændigt Blik; han har øiensynlig været altfor uvidende i Tydsk
-          til at kunne nyde og forstaae »<bibl>Wallenstein</bibl>« og iøvrigt lod han som mange
+          til at kunne nyde og forstaae »<bibl n="schiller-wallenstein">Wallenstein</bibl>« og iøvrigt lod han som mange
           andre blandt de Yngre sig ved sine Lovprisninger i saa høi Grad lede af Hensynet til hvad
           der kunde formodes at ville ærgre Klassikerne mest, at han priser
-            <persName>Werners</persName> »<bibl>Luther</bibl>« som det nyere Drama, der kommer
+          <persName>Werners</persName> »<bibl n="werner-martin-luther-oder-die-weihe-der-kraft">Luther</bibl>« som det nyere Drama, der kommer
             <persName>Shakespeare</persName> nærmest og dets Forfatter som en langt større Digter
           end <persName>Schiller</persName>.</p>
 
@@ -1899,9 +1899,9 @@
           meget tydelig i <persName>Gautiers</persName> Noveller. Saa original denne sidstnævnte
           Digter overhovedet end er, saa har han, der neppe kunde et tydsk Ord, dog i forskjellige
           Perioder af sit Liv staaet under tydsk Indflydelse. Som hans Ungdomsnoveller
-            (»<bibl>Romans et Contes</bibl>«) minde om <persName>Hoffmann</persName>, saaledes
-          minder Mangt og Meget i hans »<bibl>Emaux et Camées</bibl>« om <persName>Heinrich
-            Heine</persName>. <persName>Goethes</persName> »<bibl>West-Oestlicher
+          (»<bibl n="gautier-romans-et-contes">Romans et Contes</bibl>«) minde om <persName>Hoffmann</persName>, saaledes
+          minder Mangt og Meget i hans »<bibl n="emaux-et-camees">Emaux et Camées</bibl>« om <persName>Heinrich
+            Heine</persName>. <persName>Goethes</persName> »<bibl n="goethe-west-ostlicher-divan">West-Oestlicher
           Diwan</bibl>«<!-- cit start og slut indsat --> havde desuden i ganske særlig Grad
           imponeret ham. Hvad der tiltrak ham hos <persName>Goethe</persName>, det var den
           kunstneriske Uanfægtelighed, som fremtraadte i den tydske Digters senere Leveaar.</p>
@@ -1916,7 +1916,7 @@
           ved den nye Tids Begyndelse, da de første Statuer gravedes op af den Jordbund, der saa
           længe havde skjult dem, saaledes var Stødet givet til en hel poetisk Revolution i Frankrig
           fra Aaret 1819 af, da <persName>André Chéniers</persName>
-          <bibl>Poesier</bibl> bleve fundne, samlede og udgivne. Det faldt som Skjæl fra Samtidens
+          <bibl n="chenier-oeuvres-completes">Poesier</bibl> bleve fundne, samlede og udgivne. Det faldt som Skjæl fra Samtidens
           Øine, da disse sjælfulde ioniske Digtninge fulde 26 Aar efter deres Ophavsmands Død bleve
           dragne frem for Lyset; alle de poetiske Afguder fra Keisertiden, Delille og alle de
           naturbeskrivende Læredigtes Poeter faldt paa deres Ansigter og gik i Stykker. Et
@@ -2034,7 +2034,7 @@
           endnu i nogen Tid at herske Spænding mellem dem. De havde tidligere stedse været inderligt
           forbundne. Men for <persName>André</persName> som for Oldtidens Romere maatte Blodets
           Baand briste, hvor det gjaldt en politisk Idee. Han havde ved Revolutionens Udbrud
-          modtaget sin Broders Dedication af Tragoedien »<bibl>Brutus og Cassius</bibl>« og i Svaret
+          modtaget sin Broders Dedication af Tragoedien »<bibl n="chenier-brutus-og-cassius">Brutus og Cassius</bibl>« og i Svaret
           paa denne Tilegnelse med Datidens Naivetet erklæret sig for overbevist om at den store
           Brutus havde udtrykt sig netop som i Dramet; han havde benævnet Stykkets Helte »ædle
           Mordere, store Tyrandrabsmænd, som Nutidens Ordgydere ikke mere forstaae«, havde kort sagt
@@ -2072,7 +2072,7 @@
         <p>Opholdet i <placeName>Paris</placeName> var siden Kongens Død bleven umuligt for
             <persName>André</persName>. Hans Broder søgte et Tilflugtssted for ham i et lille
           afsides beliggende Hus i <placeName>Versailles</placeName>. Her levede han nogen Tid i
-          rolig Ensomhed, arbeidede paa sit store Digt »<bibl>Hermes</bibl>«, som han alt i 10 Aar
+          rolig Ensomhed, arbeidede paa sit store Digt »<bibl n="chenier-hermes">Hermes</bibl>«, som han alt i 10 Aar
           havde syslet med uden at naae videre end til Udførelsen af nogle korte Brudstykker, og
           skrev til Fanny (<persName>Madame Laurent Lecoulteux</persName>), en ung i Nærheden bosat
           Dame, sine sidste Kjærlighedsdigte, der bære Stemplet af en i <persName>André
@@ -2085,9 +2085,9 @@
           Comité havde givet Befaling, bragte ham selv i Fængsel. I
             <placeName>Saint-Lazare</placeName> anvendte han Tiden til at gjennemsee sine
           Manuscripter og skrev her enkelte af <pb n="101"/> sine skjønneste og mest storstilede
-          Digte som de to berømte til Hertuginden af Fleury, født Coigny, (»<bibl>La jeune
+          Digte som de to berømte til Hertuginden af Fleury, født Coigny, (»<bibl n="chenier-la-jeune-captive-dernieres-poesies-iii">La jeune
             Captive</bibl>« og det der i Udgaverne bærer den urigtige Titel »Mademoiselle de
-          Coigny«) og det beundringsværdige Fragment, der begynder »<bibl>Comme un dernier
+          Coigny«) og det beundringsværdige Fragment, der begynder »<bibl n="chenier-comme-un-dernier-rayon">Comme un dernier
             rayon</bibl>«. Han blev for Revolutionsdomstolen anklaget som »Folkets Fjende« og dømt
           til Døden for at have »skrevet mod Friheden og til Forsvar for Tyranniet«. Dagen forud
           havde han digtet Versene:</p>
@@ -2111,9 +2111,9 @@
         <p>Skjøndt <persName>André Chéniers</persName> Prosa-Artikler havde vakt ualmindelig
           Opmærksomhed endog i Udlandet – <persName>Wieland</persName> lader ham hilse, Kongen af
           Polen sender ham en Æresmedaille – havde han dog i levende Live intet Digterry. Han havde
-          ikke offentliggjort mere end to af sine Digte, <bibl>Hymnen til
+          ikke offentliggjort mere end to af sine Digte, <bibl n="chenier-jeu-de-paume">Hymnen til
           David</bibl><!-- Jeu de Paume --> i Anledning af Scenen i Boldthuset og den ironiske
-            <bibl>Hymne til Regimentet Chateauvieux</bibl>, og fra den Julidag af i 1794, da hans
+          <bibl n="chenier-hymne-sur-lentree-triomphale-des-suisses-de-chateauvieux">Hymne til Regimentet Chateauvieux</bibl>, og fra den Julidag af i 1794, da hans
           Hoved skiltes fra Kroppen, var hans Navn forglemt og Erindringen om ham forsvunden.</p>
 
         <p>Saa hændte det sig en Dag i 1819, at nogle Pariserboghandlere, som stode i Begreb med at
@@ -2127,14 +2127,14 @@
           den poetiske Bevidsthed i sit Fædreland. <persName>André Chéniers</persName> Navn fløi
           Landet rundt, Ungdommen i <pb n="103"/> Provindserne ikke mindre end i
             <placeName>Paris</placeName> begeistredes for den nye poetiske Aabenbaring (man se
-          Skildringen af denne Enthousiasme i <persName>Balzac’s</persName> Roman »<bibl>Les deux <app>
+          Skildringen af denne Enthousiasme i <persName>Balzac’s</persName> Roman »<bibl n="balzac-les-deux-poetes">Les deux <app>
               <lem>poètes</lem>
               <rdg wit="A">poetes</rdg>
-            </app></bibl>«, Indledningen til »<bibl>Illusions perdues</bibl>«).</p>
+          </app></bibl>«, Indledningen til »<bibl n="balzac-illusions-perdues">Illusions perdues</bibl>«).</p>
 
         <p>Den længst afdøde Digter gjorde ikke blot al den Lyrik, der var skreven i den sidste
           Menneskealder, forældet og umulig, men slog i ideal Forstand selv
-            <persName>Lamartine’s</persName> omtrent samtidigt udgivne første »<bibl>Poetiske
+          <persName>Lamartine’s</persName> omtrent samtidigt udgivne første »<bibl n="lamartine-meditations-poetiques">Poetiske
             Meditationer</bibl>« rent af Marken. Thi denne Poesi foregik ikke som
             <persName>Lamartine’s</persName> i Skyerne eller over Skyerne, men paa Jorden; den var
           ren uden at være from, sjælfuld uden at være følsom, den havde intet Forhold til det
@@ -2159,7 +2159,7 @@
           dæmrede frem, dannede en vækkende Modsætning til den Lyrik, der i 1819 vakte Begeistring.
           De Kvinder, han i uforglemmelige Digte forherligede, vare Heltinder eller Dødsdømte fra
           Revolutionstiden. Der var en mandig Pathos i hans Jamber, der gjenkaldte de gamle græske
-          Jambedigteres, og i Brudstykkerne af hans store Digt »<bibl>Hermes</bibl>« Udtryk for en
+          Jambedigteres, og i Brudstykkerne af hans store Digt »<bibl n="chenier-hermes">Hermes</bibl>« Udtryk for en
           Livsanskuelse, der ved sin antike Sandhedskjærlighed og sin videnskabelige Alvor dannede
           den skarpeste Modsætning til det romantiske og fantastiske Sværmeri hos
             <persName>Lamartine</persName>. For <persName>André</persName> er Stjernerne ikke
@@ -2216,15 +2216,15 @@
           Ex., hvormeget han i sin Tid led under sin Afhængighed i <placeName>London</placeName>.
           Han giver ikke denne Lidelse Luft i sin Poesi. Naar han nu og da tidligere har følt sig
           trykket af sin Armod og den Tvang, den paalagde ham, saa har han kun givet denne Følelse
-          Udbrud ad en Omvei i saadanne Digte som Idyllen »<bibl>Friheden</bibl>« i
+          Udbrud ad en Omvei i saadanne Digte som Idyllen »<bibl n="chenier-la-liberte">Friheden</bibl>« i
             <persName>Theokrits</persName> Maneer, i hvilken Hyrden knækker sin Fløite, flyer
           Pigernes Dands og Sang, forbander enhver Trøst, fordi han er Slave. Kun saaledes omskrevet
           tillod <persName>Chénier</persName> sin Sorg at bryde frem i sin Digtning.<note
             place="bottom">Naar <persName>Sainte-Beuve</persName> i sin Sammenstilling af
               <persName>André Chénier</persName> og <persName>Mathurin Regnier</persName> (i
-              <bibl>Bogen om den franske Poesi i det sextende
+            <bibl n="portraits-littéraires">Bogen om den franske Poesi i det sextende
             Aarhundrede</bibl><!-- potraits literaire, vol. 1 -->) henfører Digtet
-              »<bibl>Friheden</bibl>« til Tiden efter Opholdet i <placeName>London</placeName>,
+            »<bibl n="chenier-la-liberte">Friheden</bibl>« til Tiden efter Opholdet i <placeName>London</placeName>,
             beroer det paa en chronologisk Feiltagelse. <persName>Becq de Fouquières</persName> har
             godtgjort Usandsynligheden af, at <persName>André</persName> har været i
               <placeName>London</placeName> før 1790.</note></p>
