@@ -73,7 +73,7 @@
             </lg>
           </quote>
           <bibl>
-            <persName key="johann-wolfgang-goethe">Goethe</persName>. </bibl>
+            <persName key="johann-wolfgang-goethe">GOETHE</persName>. </bibl>
         </cit>
       </epigraph>
 
@@ -86,7 +86,7 @@
               stronger principle than love of truth.</p>
           </quote>
           <bibl>
-            <persName key="john-stuart-mill">John Stuart Mill</persName>. </bibl>
+            <persName key="john-stuart-mill">JOHN STUART MILL</persName>. </bibl>
         </cit>
       </epigraph>
     </front>
@@ -136,7 +136,7 @@
           Øie for de slette Forholds gode Sider, og da det afhænger af hans Rapport til Engelen
             <persName type="fictional" key="ituriel">Ituriel</persName>, om Byen skal tilintetgjøres
           eller skaanes, er han absolut imod dens Ødelæggelse, ja der tænkes tilsidst end ikke af
-          Engelen paa nogen Reform af <placeName key="persepolis">Persepolis</placeName>’s Sæder, da
+          Engelen paa nogen Reform af <placeName key="persepolis">Persepolis’s</placeName> Sæder, da
             <ref target="n339"/>»om Alt end ikke er godt, det dog i ethvert Fald er taaleligt«. Man
           kan neppe kalde dette Raisonnement revolutionært, og <persName key="francois-voltaire"
             >Voltaire</persName> er, idetmindste til Tider, af samme Mening som <persName
@@ -335,7 +335,7 @@
           Intolerance! Jøderne ere vore Brødre. Men at kalde Jøderne Borgere, det vilde være det
           Samme som at indrømme, at Englændere og Danske uden at have faaet Indfødsret og uden at
           ophøre med at være Englændere og Danske kunde blive Franskmænd«. Han dvæler ved Jødernes
-          Aagertilbøielighed og de øvrige Laster, man tillagde dem. »Dette Folk, fortsætter han, har
+          Aagertilbøielighed og de øvrige Laster, man tillagde dem. »Dette Folk,« fortsætter han, »har
           gjennemlevet 17 Aarhundreder uden at blande sig med de andre Folkeslag, de have kun drevet
           Handel med Penge; ikke En <pb n="18"/> iblandt dem har forstaaet at adle sine Hænder ved
           at styre et Plovjern eller dyrke et Stykke Jord.«</p>
@@ -429,7 +429,7 @@
           lille By med eget Damekvarteer og med altid dækkede Borde indrettet til deres Orgier.
           (Livet der er beskrevet af et Øienvidne, den royalistiske og clericale Skribent <persName
             key="guillaume-honore-rocques-de-montgaillard">Montgaillard</persName> i andet Bind af
-          hans <!-- cit start og slut indsat -->»<bibl n="montgaillard-histoire-de-france">Histoire de France</bibl>)«. Havde man nu
+          hans <!-- cit start og slut indsat -->»<bibl n="montgaillard-histoire-de-france">Histoire de France</bibl>).« Havde man nu
           nøiedes med at bemægtige sig Kirkens Øverstes Rigdomme, saa havde man tvunget dem til
           enten at <pb n="23"/> give efter eller tilstaae, at deres Opposition var foraarsaget af
           Havesyge. Men man rørte ved deres Disciplin og skaffede dem saaledes et Paaskud til
@@ -1092,7 +1092,7 @@
           og nyttige Husdyr.</p>
         <p>Snart fremkom ligefremme Katechismer for den nye Religion. Det hedder i en saadan
           (»<bibl n="Office-des-decades">office des décadis en discours, hymnes et prières en usage dans les temples de
-            la Raison</bibl>« <!-- cit indsat (start og slut) -->):</p>
+            la Raison</bibl>«<!-- cit indsat (start og slut) -->):</p>
         <p>»<!-- cit start indsat -->
           <app>
             <lem>Frihed, du</lem>
@@ -1118,7 +1118,7 @@
         <p>Endnu under Directoriet, der fornemmer de første Spor til en reactionær Bevægelse i
           Samfundets lavere Lag, var der, som man seer af en Samtidigs Memoirer, Deputerede, som fik
           Nervetilfælde, naar de blot hørte Ordet Præst, og Nedbrydelsesværket fortsattes med
-          Lidenskab. »Enhver« <!-- cit slut indsat -->, siger <persName key="francois-laurent"
+          Lidenskab. »Enhver«<!-- cit slut indsat -->, siger <persName key="francois-laurent"
             >Laurent</persName>, »<!-- cit start indsat -->der havde en Draabe revolutionært Blod i
           sine Aarer, arbeidede med feberagtig Iver paa Christendommens Ødelæggelse.« Man betænkte
           sig ikke paa i officielle Rapporter at betegne de Troende som »imbecile«. Directoriet selv
@@ -1129,7 +1129,7 @@
           Den blodige Krig i <placeName>Vendée</placeName> var for en stor Del dens Værk. Rædslerne
           der overgik alt Tænkeligt. Et Sted blev den constitutionelle Præst dræbt ved Stenkast af
           hylende Kvinder, et andet Sted revet i Stykker ligeledes af Kvinderne. Af den
-          republikanske Præsident Joubert savede man Hænderne, før man slog ham ihjel. I en af
+          republikanske Præsident <persName key="joubert">Joubert</persName> savede man Hænderne, før man slog ham ihjel. I en af
           Byerne begravede man sine Fjender levende, saa de republikanske Tropper, da de drog ind,
           saa Arme, hvis Hænder krummede sig om Grønsværet, stikke op af Jorden. Der var
           selvfølgelig Uret paa begge Sider, kun maa det ikke glemmes, at det var den rasende
@@ -1289,7 +1289,7 @@
             >Bonaparte</persName> efterat den var endt, i <placeName>Tuilerierne</placeName> vendte
           sig til en af sine Officierer, <persName key="antoine-guillaume-delmas">General
             Delmas</persName>, og spurgte ham, hvad han havde syntes om Høitideligheden, fik han <pb
-            n="67"/> Svaret: »Det var en kjøn Capucinade; der manglede kan den Million Mennesker,
+            n="67"/> Svaret: »Det var en kjøn Capucinade; der manglede kun den Million Mennesker,
           der har ladet sig slaae ihjel for at bryde det ned, som De gjenopfører.« Og <persName
             key="antoine-guillaume-delmas">Delmas</persName> udtalte i disse Ord kun Generalernes
           almindelige Stemning. Allerede i November 1801 havde der vist sig en almindelig
@@ -1323,10 +1323,8 @@
           nedlagde sin Protest mod Restaurationen ved til Forsamlingens Præsident at vælge <persName
             key="charles-dupuis">Dupuis</persName>, Forfatteren af det bekjendte Værk »<bibl n="dupuis-lorigine-de-tous-les-cultes-ou-la-religion-universelle">Origine
             des cultes«</bibl>, der gaaer ud paa at fremstille Christendommen som en paa Astronomien
-          grundet Fabel (det samme, der er parodieret i den bekjendte lille Piece af <app>
-            <lem wit="SS Fu 1923-24 rett.bl.2">Monod</lem>
-            <rdg wit="A B">Vinet</rdg>
-          </app> om <persName key="napoleon-1">Napoleon</persName> som Allegori paa Solen).
+          grundet Fabel (det samme, der er parodieret i den bekjendte lille Piece af Vinet
+          om <persName key="napoleon-1">Napoleon</persName> som Allegori paa Solen).
             <persName key="napoleon-1">Napoleon</persName>, der dog allerede følte sig i sin næsten
           uindskrænkede Magt, vovede ikke at præsentere Concordatet alene til det lovgivende Corps;
           han gav det de saakaldte organiske Love med ifølge, hvis afgjort gallikanske Aand skulde
@@ -1965,9 +1963,9 @@
           Følelsesprincipet inclusive. Overgangen fra det ene af disse Trin til det andet skeer
           saaledes, at man søger at hævde og gjenindsætte Autoriteten gjennem en Appel til Følelsen.
           Det er det, som skeer i <persName key="pierre-simon-ballanche">Ballanche’s</persName>:
-            »<bibl>Du sentiment considéré dans ses rapports avec la littérature et les arts</bibl>«
+          »<bibl n="ballanche-essai-sur-le-sentiment">Du sentiment considéré dans ses rapports avec la littérature et les arts</bibl>«
           1801, og det er det, som navnlig foretages i <persName
-            key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName> »<bibl>Génie du
+            key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName> »<bibl n="chateaubriand-le-genie-du-christianisme">Génie du
             christianisme</bibl>« 1802.</p>
         <p>Man finder nu i <persName key="jean-jacques-rousseau">Rousseau</persName> den farligste
             <pb n="102"/> Type for det 18de Aarhundredes Aand. En kort Charakteristik af Angrebene
@@ -1990,8 +1988,8 @@
           Lands sande Forfatning bestaaer af Landets virkelige <pb n="103"/> Magtforhold, som de
           foreligge, Magtforhold, som ikke ændres, fordi politiske Dilettanter omskrive dem paa et
           Blad Papir – en Sandhed, der med genial Anskuelighed er udviklet i <persName
-            key="ferdinand-lassalle">Lassalles</persName> to Brochurer »<bibl>Über
-            Verfassungswesen</bibl>« og »<bibl>Was nun?</bibl>
+            key="ferdinand-lassalle">Lassalles</persName> to Brochurer »<bibl n="uber-verfassungswesen">Über
+              Verfassungswesen</bibl>« og »<bibl n="was-nun-zweiter-vortrag">Was nun?</bibl>
           <app>
             <lem>«.</lem>
             <rdg wit="A">«</rdg>
@@ -2029,9 +2027,9 @@
           ved en ny Definition af Folkesouverainiteten, der indadtil blev bestemt som Statens
           Souverainitet, <note place="bottom">
             <persName key="georg-wilhelm-friedrich-hegel">Hegel</persName>: Werke 8ter Band,
-              »<bibl>Philosophie des Rechts</bibl>« 367.</note> og <persName
+            »<bibl n="hegel-grundlinien-der-philosophie-des-rechts">Philosophie des Rechts</bibl>« 367.</note> og <persName
             key="johan-ludvig-heiberg">Heiberg</persName>, der gjerne sætter de Hegelske Tanker paa
-          Spidsen, har i sin Afhandling »<bibl>Om Autoritet</bibl>« givet <persName
+          Spidsen, har i sin Afhandling »<bibl n="heiberg-om-autoritet">Om Autoritet</bibl>« givet <persName
             key="georg-wilhelm-friedrich-hegel">Hegels</persName> Idee den paradoxe og reactionære
           Form, at »om Borgerne ved Statens Udvikling komme i Besiddelse af flere Goder eller ikke,
           er aldeles ligegyldigt, thi Staten er ikke til for Borgernes Skyld, men Bor<pb n="105"
@@ -2098,7 +2096,7 @@
           das an und für sich seyende Göttliche und dessen absolute Autorität und Majestät
           zerstörenden Konsequenzen.« <note place="bottom">
             <persName key="georg-wilhelm-friedrich-hegel">Hegel</persName>: Werke 8ter Band
-            314.</note> – I »<bibl>Den sociale Contract</bibl>« havde <persName
+            314.</note> – I »<bibl n="rousseau-le-contrat-social">Den sociale Contract</bibl>« havde <persName
             key="jean-jacques-rousseau">Jean-Jacques</persName> forsøgt at finde Regjeringernes og
           Lovenes Principer i Menneskets og Samfundets Natur, denne taget i ren abstract
           Almindelighed. Men allerede <persName key="charles-louis-de-secondat-montesquieu"
@@ -2135,8 +2133,8 @@
             <emph>Magten</emph> i sit Hus. Da al Magt er skabt i Guds Billede og stammer fra Gud, er
           al Magt absolut«<!-- cit slut indsat -->. <note place="bottom">Ganske ligesom <persName
               key="louis-vicomte-de-bonald">Bonald</persName> tager den bekjendte <persName
-              key="karl-ludwig-von-haller">Haller</persName> sit Udgangspunkt i Angreb paa »<bibl>Le
-              contrat social</bibl>« i sin »<bibl>Restauration der
+                key="karl-ludwig-von-haller">Haller</persName> sit Udgangspunkt i Angreb paa »<bibl n="rousseau-le-contrat-social">Le
+                  contrat social</bibl>« i sin »<bibl n="haller-restauration-der-staats-wissenschaft-oder-theorie-des-natürlich-geselligen-zustands-vol-1-6">Restauration der
             Staatswissenschaft</bibl>«.</note>
         </p>
         <p>Man bekjæmper dernæst <persName key="jean-jacques-rousseau">Rousseau</persName> paa det
@@ -2164,7 +2162,7 @@
           ganske som Dyrenes Hunner gjøre det og af samme Aarsag […] Fædrene og Mødrene, der af
           Philosophien kun bleve betragtede som Hanner og Hunner, betragtede da Børnene kun som
           deres Unger.« <note place="bottom">
-            <persName key="louis-vicomte-de-bonald">Bonald</persName>: <bibl>»Du divorce, considéré
+            <persName key="louis-vicomte-de-bonald">Bonald</persName>: <bibl n="Du divorce, considéré au xix siècle relativement à l'état domestique et à l'état public de société">»Du divorce, considéré
               au 19me siècle relativement à l’état domestique et à l’état public de
             société</bibl>«<!-- cit start og slut indsat -->. Udg. af 1817 S. 29 og 31.</note> Og
           hvorfor er saa <persName key="louis-vicomte-de-bonald">Bonald</persName> saa forbitret?
@@ -2232,8 +2230,8 @@
               >Lamennais</persName>], hvad forleden Dag gav en Spøgefugl Anledning til at sige: Det
             er især naar Talen er om kvindelige Forfatteres Værker, at man maa udraabe med <persName
               key="georges-louis-leclerc-comte-de-buffon">Buffon</persName>: Stilen, det er
-              <emph>Manden</emph>.« »<bibl>
-              <persName key="delphine-girardin">Le Vicomte de Launay</persName>: Lettres
+              <emph>Manden</emph>.«
+            <persName key="delphine-girardin">Le Vicomte de Launay</persName>: »<bibl n="girardin-lettres-parisiennes-1836-1848">Lettres
               parisiennes</bibl>«<!-- cit start og slut indsat --> Tome I 89.</note> Det 18de
           Aarhundredes Digtere gik i deres Opfattelse af den poetiske Stils Natur ud fra deres egen
           Fremgangsmaade. Da deres egen Poesi ikke var et Naturproduct, men deres Sprog et Product
@@ -2241,7 +2239,7 @@
           Mythologi, troede de, at Sproget og Tanken oprindeligt opstode uafhængigt af hinanden.</p>
         <p>Naar da <persName key="louis-vicomte-de-bonald">Bonald</persName> imod dem retter sin
           Lære om, at Sprog og Tanke ikke kunne skilles ad, den Grundsætning, hvorpaa han i sit
-          Hovedværk »<bibl>La législation primitive</bibl>« bygger sit hele System, saa har han
+          Hovedværk »<bibl n="bonald-legislation-primitive">La législation primitive</bibl>« bygger sit hele System, saa har han
           selvfølgelig Ret. Men det gaaer med denne Sætning som med alle Restauratorernes andre: den
           orthodoxe Syge, hvoraf Forfat<pb n="115"/>teren lider, bringer ham til at strække og
           forvride enhver sand Tanke saaledes, at der bliver et rent Monstrum ud af den. »Løsningen
@@ -2254,7 +2252,7 @@
             >Bonald</persName> naaer til denne de Reactionæres Yndlingssætning i dette Aarhundrede,
           at Sproget oprindeligt er givet Menneskene af Gud. Man finder den hos os hos <persName
             key="soren-kierkegaard">S. Kierkegaard</persName> i den Yttring, at det selvfølgelig
-          ikke gaaer an at lade Mennesket selv have fundet paa Sproget (»<bibl>Om Begrebet
+          ikke gaaer an at lade Mennesket selv have fundet paa Sproget (»<bibl n="kierkegaard-begrebet-angest">Om Begrebet
             Angest</bibl>«). Hvorfor ikke? Fordi Gud har aabenbaret det, fix og færdigt.</p>
         <p>Det er mod <persName key="john-locke">Lockes</persName> og <persName
             key="etienne-bonnot-de-condillac">Condillacs</persName> sunde Lære om Sprogets og
@@ -2267,7 +2265,7 @@
           Galmandssnak, som de ikke føre. Philologien opofres ikke mindre end Politik og
           Samfundslære paa Theokratiets Alter. Et mærkeligt Bevis paa Restauratorernes Sammenhold er
           det, at <persName key="louis-vicomte-de-bonald">Bonald</persName> i 1814 lod <persName
-            key="joseph-de-maistre">De Maistres</persName> Værk »<bibl>Sur le principe générateur
+            key="joseph-de-maistre">De Maistres</persName> Værk »<bibl n="maistre-essai-sur-le-principe-generateur-des-constitutions-politiques">Sur le principe générateur
             des constitutions politiques</bibl>« oplægge paany, altsaa antog sig et Værk, der ivrede
           mod skrevne Constitutioner, da han dog ifølge sin Theori om den direkte Aabenbaring af
           Ordet var <app>
@@ -2280,9 +2278,9 @@
           man det ikke saa nøie med at tage en principiel Modstander til Indtægt. Skulde man ikke
           have lært en Smule Jesuitisme i Jesuitercollegiet!</p>
         <p>Ikke nok med, at man selv havde gaaet deri, man vilde ogsaa have Slægten derhen. Tredie
-          Del af <persName key="louis-vicomte-de-bonald">Bonalds</persName> »<bibl>Législation
+          Del af <persName key="louis-vicomte-de-bonald">Bonalds</persName> »<bibl n="bonald-legislation-primitive">Législation
             primitive</bibl>« behandler særligt Opdragelsen og er særligt rettet mod <persName
-            key="jean-jacques-rousseau">Rousseau’s</persName> »<bibl>Émile</bibl>«. Han kan ikke
+              key="jean-jacques-rousseau">Rousseau’s</persName> »<bibl n="rousseau-emile-ou-de-leducation">Émile</bibl>«. Han kan ikke
           tilgive denne Bog at have lært, at man ikke bør give Barndommen en religiøs Opdragelse.
           Han citerer (med hellig Alvor) som Exempel paa de skjæbnesvangre Virkninger af <persName
             key="jean-jacques-rousseau">Rousseau’s</persName> Opdragelsestheorier, at »75 Børn i de
@@ -2307,7 +2305,7 @@
           Træk i hele denne Litteraturgruppe. De franske Restauratorer hævde det med saa meget mere
           Lidenskab end Tydsklands, dels paa Grund af Race<pb n="118"/>eiendommeligheden, dels paa
           Grund af den confessionelle Forskjel. Den reactionære tydske Litteraturbevægelse grunder,
-          som jeg har vist det <note place="bottom">»<bibl>Den romantiske Skole i Tydskland</bibl>«
+          som jeg har vist det <note place="bottom">»<bibl n="brandes-romantiske-skole-tydskland">Den romantiske Skole i Tydskland</bibl>«
             S. 29.</note> i Subjectivisme; dens Princip er Selvraadigheden. Saa helstøbt katholsk,
           saa autoritetsdyrkende som den franske Reaction, blev den tydske Romantik trods alle sine
           katholske Taabeligheder og Abekatterier aldrig. Den germaniske og protestantiske
@@ -2354,7 +2352,7 @@
             <emph>Autoritet</emph>, uden Autoritet ingen Tro.« Han stiller Monarchiet over al Kritik
           og Forskning, idet han lærer, at det er et <emph>Mirakel</emph>. Han forherliger den
           brutale Myndighed som saadan, idet han theoretisk lægger det militære Samfund ind under
-          Corporalstokken, det civile ind under Bøddeløxen. <note place="bottom">»<bibl>Den
+          Corporalstokken, det civile ind under Bøddeløxen. <note place="bottom">»<bibl n="brandes-romantiske-skole-tydskland">Den
               romantiske Skole i Tydskland</bibl>«<!-- cit start og slut indsat --> S. 18 og
             371.</note> Det sidste gjorde <persName key="maximilien-de-robespierre"
             >Robespierre</persName> praktisk, men kun da han ikke saa nogen Frelse for Revolutionen
@@ -2413,23 +2411,23 @@
           Med Korset i Haanden jage <persName key="alphonse-de-lamartine">Lamartine</persName> og
             <persName key="victor-hugo">Hugo</persName> den hedenske Mythologi ud af Lyriken. Paa
           Theatret optræde de Tempelherrer og de Machabæere, vi kjende fra <persName
-            key="zacharias-werner">Zacharias Werners</persName> »<bibl>Dalens Sønner</bibl>« og
-            »<bibl>Machabæernes Moder</bibl>«. Det første Sujet behandles af <persName
+            key="zacharias-werner">Zacharias Werners</persName> »<bibl n="werner-die-sohne-des-thales">Dalens Sønner</bibl>« og
+          »<bibl n="werner-die-mutter-der-makkabaer">Machabæernes Moder</bibl>«. Det første Sujet behandles af <persName
             key="francois-raynouard">Raynouard</persName>, det andet af <persName
             key="alexandre-guiraud">Guiraud</persName>. – Der gives ingen Følelse i Menneskehjertet,
           intet District i den menneskelige Aand og ingen Afart af Litteraturen som denne saa
           hurtigt paany mislykkede Restauration ikke, før den forsvinder, faaer mærket med sit
           Aandspræg. <note place="bottom">
-            <persName key="louis-vicomte-de-bonald">Bonald</persName>: »<bibl>Théorie du
-              pouvoir</bibl>«<!-- cit start og slut indsat --> I-III. »<bibl>La Législation
-              primitive</bibl>«<!-- cit start og slut indsat -->. »<bibl>Essai analytique sur les
-              lois naturelles</bibl>«<!-- cit start og slut indsat -->. »<bibl>Du
+            <persName key="louis-vicomte-de-bonald">Bonald</persName>: »<bibl n="bonald-theorie-du-pouvoir-politique-et-religieux-dans-le-societe-civile">Théorie du
+              pouvoir</bibl>«<!-- cit start og slut indsat --> I-III. »<bibl n="bonald-legislation-primitive">La Législation
+                primitive</bibl>«<!-- cit start og slut indsat -->. »<bibl n="bonald-essai-analytique-sur-les-lois-naturelles-de-lordre-social">Essai analytique sur les
+                  lois naturelles</bibl>«<!-- cit start og slut indsat -->. »<bibl n="bonald-du-divorce">Du
             divorce</bibl>«<!-- cit start og slut indsat -->. – <persName
-              key="guillaume-prosper-de-barante">Barante</persName>: »<bibl>Tableau de la
+              key="guillaume-prosper-de-barante">Barante</persName>: »<bibl n="barante-tableau-de-la-litterature-francaise-au-18me-siecle">Tableau de la
               littérature française au 18me siècle</bibl>«<!-- cit start og slut indsat -->.
-              <persName key="felicite-de-lamennais">Lamennais</persName>: »<bibl>Essai sur
+            <persName key="felicite-de-lamennais">Lamennais</persName>: »<bibl n="lamennais-essai-sur-lindifference-en-matiere-de-religion">Essai sur
               l’indifférence en matière de religion</bibl>«<!-- cit start og slut indsat -->. –
-              <persName key="francois-laurent">Laurent</persName>: »<bibl>Histoire du droit des
+            <persName key="francois-laurent">Laurent</persName>: »<bibl n="laurent-histoire-du-droit-des-gens">Histoire du droit des
               gens</bibl>«<!-- cit start og slut indsat --> Tome XVI.</note>
         </p>
       </div>
@@ -2437,7 +2435,7 @@
         <head type="add">4. Traditionen i religion, stat og familie</head>
         <head>IV.</head>
         <p>Det er <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriand’s</persName>
-            »<bibl>Le génie du christianisme</bibl>«<!-- cit start og slut indsat -->, der betegner
+          »<bibl n="chateaubriand-le-genie-du-christianisme">Le génie du christianisme</bibl>«<!-- cit start og slut indsat -->, der betegner
           Overgangen fra Reactionens første til dens andet Stadium, idet dette Værk, som alt
           bemærket, søgte at hævde og gjenindsætte Autoriteten igjennem en Appel til Følelsen.</p>
         <p>
@@ -2455,7 +2453,7 @@
           absurd Tyran« har han i Margenen sat: »Denne Indvending er uigjendrivelig og styrter det
           hele christelige System fuldstændigt overende. For Resten troer Ingen mere derpaa.«</p>
         <p>Dette er <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName>
-          Ungdom sstandpunkt, men hans Moder døer og efterlader den Bøn til ham, at holde fast ved
+          Ungdomsstandpunkt, men hans Moder døer og efterlader den Bøn til ham, at holde fast ved
           hendes Tro. »Jeg græd og troede«, siger han.</p>
         <p>Selv omvendt eller halvveis omvendt ad Følelsens Vei forsøger han nu at paavirke Andre
           paa samme Maade. Kunde man ikke mere vente <pb n="125"/> at finde intellectuel
@@ -2497,7 +2495,7 @@
           Krigen et Mysterium. Seer man nøiere til, begriber man, at denne Vending er nødvendig.
           Autoriteten fordrer som sit nødvendige Modstykke Mysteriet. Saaledes siger <persName
             key="joseph-francois-michaud">Mi<pb n="127"/>chaud</persName> i Dedicationen af Digtet
-            »<bibl>Le printemps d’un proscrit</bibl>« 1803: »Samfundet bør have sin mysteriøse Side
+          »<bibl n="michaud-le-printemps-dun-proscrit">Le printemps d’un proscrit</bibl>« 1803: »Samfundet bør have sin mysteriøse Side
           lige saa fuldt som Religionen, og jeg har altid tænkt, at man undertiden burde troe paa
           Fædrelandets Love, som man troer paa Guds Bud. Saavel i det daglige Liv som i Politiken er
           der Sager, man udfører bedre, naar man <emph>ikke tænker</emph> paa den Aarsag, der
@@ -2507,10 +2505,10 @@
           var glimrende og blændende ved sin Form. Uden disse Egenskaber havde det ikke gjort den
           Opsigt, det vakte; det indeholder Naturbeskrivelser, Stemningsudbrud og ganske enkelte
           Bemærkninger af Værdi. Men dets litterære og poetiske Værd er dog sammentrængt i dets
-          Episoder »<bibl>Atala</bibl>« og »<bibl>René</bibl>«, der som Prøveballoner udsendtes
+          Episoder »<bibl n="chateaubriand-atala">Atala</bibl>« og »<bibl n="chateaubriand-rene">René</bibl>«, der som Prøveballoner udsendtes
           længe før Værket, og med dem have vi Intet at gjøre; dem have vi paa sit Sted seet i deres
           historiske Betydning. <note place="bottom"
-            >»<bibl>Emigrantlitteraturen</bibl>«<!-- cit start og slut indsat --> S. 64-74.</note>
+            >»<bibl n="emigrantlitteraturen">Emigrantlitteraturen</bibl>«<!-- cit start og slut indsat --> S. 64-74.</note>
         </p>
         <p>Her ville vi kun i Forsvarsmethodens Charakter søge og levere Beviset for Usandheden af
           den hele Retning, som det indleder. Foran Værkets æsthetiske Parti er stillet et
@@ -2569,7 +2567,7 @@
         <p>Hvor Restaurationens Mænd komme ind paa Nogetsomhelst, der vedrører Natur eller
           Naturvidenskab, der blive de regelmæssigt høikomiske. Hvo der har Lyst, kan i <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName> Anmeldelse af
-            <persName key="louis-vicomte-de-bonald">Bonalds</persName> »<bibl>Législation
+          <persName key="louis-vicomte-de-bonald">Bonalds</persName> »<bibl n="bonald-legislation-primitive">Législation
             primitive</bibl>« efterslaae hans Forfærdelsesudbrud over at have hørt <pb n="131"/> en
           lille Dreng besvare Lærerens Spørgsmaal: Hvad er Mennesket? med Svaret: Et Pattedyr. Og i
           samme Aand udtaler <persName key="joseph-de-maistre">De Maistre</persName> ofte, at den
@@ -2577,7 +2575,7 @@
           eller anden ærlig Lærd at vise, at det ikke er Maanen, men Gud, der er Skyld i Ebbe og
           Flod, samt at Vandet, som er et Element, ikke lader sig opløse i Ilt og Brint. Ja han
           mener, at Fuglene afgive et levende Bevis imod Tyngdeloven. En af Personerne i hans
-            »<bibl>Soirées de Saint-Pétersbourg</bibl>« bemærker i den Henseende, at Fuglene
+          »<bibl n="maistre-les-soirees-de-saint-petersbourg">Soirées de Saint-Pétersbourg</bibl>« bemærker i den Henseende, at Fuglene
           overhovedet er mere overnaturlige end de andre Dyr, hvad allerede viser sig i, at Duen har
           den udsøgte Hæder at forestille den hellige Aand. At Krokodillen lægger Æg, at Fuglene
           flyve, det er Mirakler for disse Mænd.</p>
@@ -2638,7 +2636,7 @@
           dem det hele royalistiske og katholske Parti, hvor ivrigt sørgede han ikke for at faae dem
           unddraget hver Skilling af deres Lønning til Straf for, at de havde benyttet sig af
           Republikens Love og giftet sig som enhver anden Borger! Og var han da ikke selv, »den
-          ydmyge Levit«, som han i Fortalen kalder sig, som Forfatter til »<bibl>Christendommens
+          ydmyge Levit«, som han i Fortalen kalder sig, som Forfatter til »<bibl n="chateaubriand-le-genie-du-christianisme">Christendommens
             Aand</bibl>« en Slags Præst, ja mere end en almindelig Præst, og var han ikke gift og
           mere end gift? Jeg citerer dette Træk, fordi det er et af de tusinde Symptomer paa Noget,
           der viser sig overalt i den hele kirkelige Restauration, og om hvilket jeg ikke troer, at
@@ -2648,7 +2646,7 @@
           var Øieblikkets Bog, den indsmuglede Autoritetsprincipet, som snart skulde bestige Tronen,
           i en Emballage af Føleri. – Lad os da see dette Princip, udsondret fra Alt, hvad der kan
           tilhylle det, i et andet af Tidens Hovedværker, i <persName key="louis-vicomte-de-bonald"
-            >Bonalds</persName> berømte Bog »<bibl>Le divorce</bibl>«, efter min Anskuelse det mest
+            >Bonalds</persName> berømte Bog »<bibl n="bonald-du-divorce">Le divorce</bibl>«, efter min Anskuelse det mest
           originale og mest interessante af hans Skrifter.</p>
         <p>Det indledes med en lang Jammerklage over, hvorledes Verden er kommen til at see ud,
           siden Autoriteten er bleven kuldkastet. Den moderne Philosophi, siger han, som fødtes i
@@ -2680,9 +2678,9 @@
           Videnskaber, især den gamle Tids »høie Metaphysik«. I Poesien har den spøgende og lystige
           Genre afløst den heroiske Tragoedie. I Romanerne, der saa tydeligt afspeile en Tidsalders
           Charakter, ofredes tidligere regelmæssigt Kjærligheden for Pligten [som i
-            »<bibl>Kjærlighed uden Strømper</bibl>«]. Nu er det omvendt, og <persName
+          »<bibl n="wessel-kaerlighed-uden-stromper">Kjærlighed uden Strømper</bibl>«]. Nu er det omvendt, og <persName
             key="jean-jacques-rousseau">Rousseau</persName> har skrevet den Roman, »som mest af alle
-          har forvildet Kvindernes Phantasi og fordærvet deres Hjerter«, nemlig »<bibl>Den nye
+          har forvildet Kvindernes Phantasi og fordærvet deres Hjerter«, nemlig »<bibl n="rousseau-julie-ou-la-nouvelle-heloise">Den nye
             Héloïse</bibl>«. Endog i Havekunsten har Autoritetsprincipet tabt sig: »De engelske
           Havers <pb n="137"/> landlige og raa Natur har afløst den pragtfulde Symmetri i <persName
             key="andre-le-notre">Le Nôtres</persName> Anlæg.«</p>
@@ -2713,7 +2711,7 @@
             <persName key="muhammed">Muhameds</persName> Fødder, i Europa for <persName
             key="martin-luther">Luthers</persName>, <persName key="jean-jacques-rousseau"
             >Rousseaus</persName> eller <persName key="francois-voltaire"
-          >Voltaires</persName>«<!-- slut indsat --> (»<bibl>Le
+              >Voltaires</persName>«<!-- slut indsat --> (»<bibl n="bonald-du-divorce">Le
           divorce</bibl>«<!-- cit start og slut indsat --> 42).</p>
         <p>Man seer, at <persName key="martin-luther">Luther</persName> af <persName
             key="louis-vicomte-de-bonald">Bonald</persName> uden videre stilles sammen med
@@ -2722,7 +2720,7 @@
           Periode, ligesom det, at Protestantisme og Usædelighed slaaes sammen. Naar <persName
             key="joseph-de-maistre">De Maistre</persName> taler om Reformationen, fortæller han med
           den alvorligste Mine, at det halve Europa har skiftet Religion for at en Libertiner af en
-          Munk kunde gifte sig med en Nonne. I sin »<bibl>Théorie du pouvoir</bibl>« (II 305) siger
+          Munk kunde gifte sig med en Nonne. I sin »<bibl n="bonald-theorie-du-pouvoir-politique-et-religieux-dans-le-societe-civile">Théorie du pouvoir</bibl>« (II 305) siger
             <persName key="louis-vicomte-de-bonald">Bonald</persName>: »En hidsig og sandselig Munk
           havde reformeret Religionen i Tydskland, en vellystig og grusom Fyrste reformerede den i
           England […] Charakteristisk er det, at Reformen blev beskyttet i Tydskland af <persName
@@ -2735,7 +2733,7 @@
             key="marguerite-af-navarra-marguerite-d-angouleme">Margrethe af Navarra</persName>, en
           Fyrstinde af mere end tvivlsomme Sæder. Saaledes gik Occidenten til Grunde ved Skilsmisse,
           som Orienten ved Polygami.« I sin engelske Litteraturhistorie <note place="bottom"
-              >»<bibl>Oeuvres</bibl>«<!-- cit start og slut indsat --> Tome VI S. 75.</note> siger
+            >»<bibl n="chateaubriand-oeuvres-completes">Oeuvres</bibl>«<!-- cit start og slut indsat --> Tome VI S. 75.</note> siger
             <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> om
             <persName key="martin-luther">Luthers</persName> Ægteskab: »Han giftede sig saavel for
           at give et godt Exempel som for at befrie sig for sine Anfægtelser. Den, som har
@@ -2748,7 +2746,7 @@
           Lutheranismen forstaaelige er, at man ligesom de tydske Romantikere med stor Klarhed
           indseer, at Protestantismen med nødvendig Consequents fører til den moderne Aandsretning,
           hvorfor man ræddes. Saaledes hedder det i <persName key="felicite-de-lamennais"
-            >Lamennais’s</persName> »<bibl>Essai sur l’indifférence</bibl>«: »Man har nu erkjendt,
+            >Lamennais’s</persName> »<bibl n="lamennais-essai-sur-lindifference-en-matiere-de-religion">Essai sur l’indifférence</bibl>«: »Man har nu erkjendt,
           at Kirken og dens Dogmer hvile paa Autoriteten som paa en urokkelig Klippe. Derfor er det,
           at den hele Mangfoldighed af Sekterere, der ere uenige om alle øvrige Punkter, forene sig
             <pb n="140"/> om at oversave denne alle Sandheders Grundpille. Lutheranere, Socinianere,
@@ -2791,7 +2789,7 @@
           Skilsmisselovene i Frankrig, de Love, der bestaae endnu den Dag idag, 12 Aar efter at
           Bogen udkom, bleve byggede.<note place="bottom">
             <persName key="louis-de-salviac-baron-de-viel-castel">Louis de Viel-Castel</persName>:
-              »<bibl>Histoire de la Restauration</bibl>«<!-- cit start og slut indsat --> Tome IV,
+            »<bibl n="viel-castel-histoire-de-la-restauration-vol-1-2">Histoire de la Restauration</bibl>«<!-- cit start og slut indsat --> Tome IV,
             487.</note> Dengang var, strax efter Bourbonernes Tilbagevenden, <persName
             key="louis-vicomte-de-bonald">Bonalds</persName> Indflydelse saa uimodstaaelig, at den
           stupide og clericale Nationalforsamling med 225 Stemmer imod 11 afskaffede
@@ -2808,8 +2806,8 @@
           ikke derfor hans Lige. Kvinden er skabt af Mandens Kjød og Blod, men er ham underordnet.
           Man seer, at <persName key="louis-vicomte-de-bonald">Bonalds</persName> Theori stemmer med
             <persName key="john-milton">Mil<pb n="143"/>tons</persName> i hans
-          »<bibl>Paradis</bibl>«. <note place="bottom">»He for God only, she for God in him.«
-              »<bibl>Paradise lost</bibl>«<!-- cit start og slut indsat --> IV.</note> »Det huslige
+          »<bibl n="milton-paradise-lost">Paradis</bibl>«. <note place="bottom">»He for God only, she for God in him.«
+            »<bibl n="milton-paradise-lost">Paradise lost</bibl>«<!-- cit start og slut indsat --> IV.</note> »Det huslige
           Samfund er et Samfund, hvor Manden medbringer Styrkens beskyttende Evne, Kvinden
           Svaghedens Fornødenheder, han <emph>Magten</emph>, hun <emph>Pligten</emph>.« Saaledes
           forvrænger <persName key="louis-vicomte-de-bonald">Bonald</persName>
@@ -2866,7 +2864,7 @@
           det sande bête noire. <persName key="felicite-de-lamennais">Lamennais</persName> siger f.
           Ex. om England, at man ingensteds finder en Befolkning, der er saa sløvet, saa blottet for
           moralsk Sands, saa fremmed for de intellectuelle Ideer og for Alt, hvad der opløfter
-          Sindet og adler Menneskets Existents. <note place="bottom">»<bibl>Progrès de la révolution
+          Sindet og adler Menneskets Existents. <note place="bottom">»<bibl n="lamennais-des-progres-de-la-revolution-et-de-la-guerre-contre-leglise">Progrès de la révolution
               et de la guerre contre l’église</bibl>«<!-- cit start og slut indsat --> p. 35.</note>
         </p>
         <p>Alt dette er Overdrivelser uden Sandhed og uden Logik. Men det, hvori der baade er Logik
@@ -2966,7 +2964,7 @@
           Individets Souverainitet. (Denne Terminus er først bleven brugt af Amerikaneren <persName
             key="josiah-warren">Samuel Warren</persName>, af hvem jeg til min Overraskelse seer at
           selv <persName key="john-stuart-mill">John Stuart Mill</persName> har <pb n="152"/> laant
-          den). <note place="bottom">Mill: »<bibl>Autobiography</bibl>« 256.</note> Individets
+          den). <note place="bottom">Mill: »<bibl n="mill-autobiography">Autobiography</bibl>« 256.</note> Individets
           Souverainitet sikrer, som Ordet siger, ethvert Menneskes absolute Frihed, forbyder Enhver
           at tilrane sig nogetsomhelst Herredømme eller nogensomhelst Control over nogen Anden.
           Tilhængerne af denne Lære sige: <emph>Enten</emph> Formynderskab over Individet, det vil
@@ -2982,7 +2980,7 @@
           Kjøn, er <emph>enten overflødigt</emph> – ifald det er deres eget Ønske at blive sammen –
             <emph>eller oprørende</emph> – ifald det omvendt ikke er deres Ønske. De finde, at
           Samfundet begaaer en frygtelig Uret imod Individer, af hvilke det <pb n="153"/> ene
-          afskyer det andet, ifald det dem til at forblive sammen og faae Børn af den Enes Attraa og
+          afskyer det andet, ifald det bringer dem til at forblive sammen og faae Børn af den Enes Attraa og
           den Andens Afsky. De finde det oprørende, at Samfundet tvinger en Kvinde til mod sit Ønske
           at føde en Drukkenbolt et Barn, et Barn der fra det Øieblik af, det vaagner til Liv,
           besidder sin Faders fordærvede Drifter og Lyster. De tage da ligesaa meget Hensyn til de
@@ -2995,9 +2993,9 @@
           fuldstændig forkert og derfor bleven forandret fra øverst til nederst i de sidste hundrede
           Aar. Dette er den Argumentation, der hyppigst anvendes af Mændene af denne Skole. <note
             place="bottom">Se f. Ex. <persName key="stephen-pearl-andrews">Stephan Pearl
-              Andrews</persName>: »<bibl>Love, marriage and
+              Andrews</persName>: »<bibl n="andrews-love-marriage-and-divorce">Love, marriage and
             divorce</bibl>«<!-- cit start og slut indsat -->. New York. Smlgn. ogsaa <persName
-              key="emile-de-girardin">Émile de Girardin</persName>: »<bibl>L’homme et la
+              key="emile-de-girardin">Émile de Girardin</persName>: »<bibl n="girardin-lhomme-et-la-femme">L’homme et la
               femme</bibl>«<!-- cit start og slut indsat -->.</note> Det er i dette som i mange
           andre Tilfælde tvivlsomt, hvorvidt den rene Liberalisme anviser den rette Vei til Maalet.
           Jeg charakteriserer her kun Principet som Modstykke <pb n="154"/> til Autoritetens. Intet
@@ -3105,7 +3103,7 @@
           valgt til Præsident for Administrationen i Departementet <placeName>Aveyron</placeName>;
           han indgav sin Dimission, da <persName key="ludvig-16-louis-16">Ludvig den 16de</persName>
           saa sig nødsaget til at stadfæste Geistlighedens civile Constitution, og emigrerede saa
-          1791. Da han i <placeName>Heidelberg</placeName> havde skrevet sin »<bibl>Magtens
+          1791. Da han i <placeName>Heidelberg</placeName> havde skrevet sin »<bibl n="bonald-theorie-du-pouvoir-politique-et-religieux-dans-le-societe-civile">Magtens
             Theori</bibl>«, blev næsten hele Oplaget tilintetgjort af Directoriets Politi. Et enkelt
           Exemplar, som han havde sendt til <persName key="napoleon-1">Bonaparte</persName>, naaede
           lykkeligvis for Forfatteren dog til sin Bestemmelse og var Skyld i, at denne strøg ham af
@@ -3122,7 +3120,7 @@
           ved Universitetet med 12000 francs om Aaret for Intet at gjøre. <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> anmelder hans
           Bøger med dyb Beundring, <persName key="joseph-de-maistre">De Maistre</persName> skriver
-            <pb n="161"/> til ham efter Offentliggjørelsen af hans »<bibl>Recherches
+          <pb n="161"/> til ham efter Offentliggjørelsen af hans »<bibl n="bonald-recherches-philosophiques-sur-les-connaissances-morales">Recherches
             philosophiques</bibl>«: »Er det fatteligt, at Naturen har moret sig med at udspænde to
           Strenge, der samstemme saa fuldstændigt som Deres Aand og min. Hvis man nogensinde trykker
           visse Sager, vil De finde næsten samme Udtryk, De selv har brugt, og dog har jeg visselig
@@ -3196,7 +3194,7 @@
         <p>Under <persName key="napoleon-1">Napoleon</persName> kom endnu den Omstændighed til, at
           man havde en Herre. Forsøgte en enkelt Skribent som <persName key="francois-raynouard"
             >Raynouard</persName> at fjerne sig en Smule fra de slagne Veie, blev han standset i
-          sine Bestræbelser. Hans Stykke »<bibl>Stænderne i Blois</bibl>«, der var bleven spilt i
+          sine Bestræbelser. Hans Stykke »<bibl n="raynouard-les-etats-de-blois">Stænderne i Blois</bibl>«, der var bleven spilt i
             <placeName>Saint-Cloud</placeName>, blev ved udtrykkelig Ordre fra Keiseren selv forbudt
           i <placeName>Paris</placeName>. Kanonerne alene havde Ordet. Den Kanon, der plantet foran
             <placeName>Invalidehotellet</placeName> bestandig forkyndte Seir paa Seir, overdøvede
@@ -3236,7 +3234,7 @@
           Keiserdømmet havde blomstret.</p>
         <p>Kun een Afart af Litteraturen vinder en Indflydelse, som den aldrig før havde havt, den
           yngste af alle dens Arter, der hidtil ubetydelig snart bliver en Magt, nemlig
-          Journalistiken. Det bekjendte Dagblad »<bibl>Journal des
+          Journalistiken. Det bekjendte Dagblad »<bibl n="journal-des-debats">Journal des
           Débats</bibl>«<!-- cita start og slut indsat --> bliver stiftet for at indlede Kampen mod
             <persName key="francois-voltaire">Voltaire</persName> og give Tidens herskende Ideer et
           Organ. Man brugte alle Midler. Ganske som den Dag idag den clericale Presse i Frankrig
@@ -3362,8 +3360,8 @@
           paa ham. I Overensstemmelse med den hele Aandsretning, han havde indledt, valgte han sig
           ikke active, men passive Helte, overhovedet ikke Helte, men Martyrer til Gjenstand for sin
           Fremstillingsgave og betitlede saaledes sit Epos, der iøvrigt for os mere ligner en
-          almindelig to Binds Roman, siden det er skrevet i Prosa: »Martyrerne eller Religionens
-          Triumph«. For ret at forstaae dette Valg af Stoffet, maa man betænke, at den Ideekreds,
+          almindelig to Binds Roman, siden det er skrevet i Prosa: »<bibl>Martyrerne eller Religionens
+            Triumph</bibl>«. For ret at forstaae dette Valg af Stoffet, maa man betænke, at den Ideekreds,
           hvori Mændene af denne Skole levede, i Virkeligheden ikke var Keiserdømmets, men de
           tilbagevendte Emigranters. Man havde endnu ikke kommet sig af sin Rædsel over
           Revolutionens Gjerninger. Man saa i Revolutionens Førere lutter Blodmænd, i det knuste
@@ -3898,13 +3896,13 @@
             <persName key="alfred-de-vigny">De Vigny</persName>, der skriver under <persName
             key="james-macpherson">Ossians</persName> Indflydelse lige saa fuldt som under <persName
             key="john-milton">Miltons</persName>, Himmelrummets Æther sammenlignet med de skotske
-          Fjeldes Taager, ja da Lucifers Skikkelse skimtes langt borte ude i Rummet af Engelen Eloa,
+          Fjeldes Taager, ja da Lucifers Skikkelse skimtes langt borte ude i Rummet af Engelen <persName type="fictional">Eloa</persName>,
           sammenlignes denne utydelige Form med en omflakkende Skotlænderindes viftende Plaid, som
           den sees gjennem det svævende Net af de Skyer, der sænke sig over Bjergenes Spidser. Der
           synes at være langt fra en Engel til en Plaid.</p>
         <p>Det Sceneri og de Landskaber, der for denne Gruppe af Digtere staae som de ideale, det er
           ikke som for de tydske Romantikere Potpourri- eller Lobescowse-Landskabet <note
-            place="bottom">G. Brandes: »<bibl>Den romantiske Skole i Tydskland</bibl>«, 174.</note>,
+            place="bottom">G. Brandes: »<bibl n="brandes-romantiske-skole-tydskland">Den romantiske Skole i Tydskland</bibl>«, 174.</note>,
           nei lige omvendt i Overensstemmelse med Periodens hele Aand det paradisiske Landskab,
           hvori den strengeste Orden <pb n="197"/> hersker, symmetrisk, architektonisk, abstraheret
           af en Abstraction af <persName key="claude-le-lorrain">Claude Lorrain</persName>. Se f.
@@ -3934,7 +3932,7 @@
           s. v. <persName key="george-gordon-byron">Lord Byron</persName>, der ogsaa ynder Ætheren
           som Milieu, om end en mindre theologisk Æther, og der ligesom <persName
             key="alfred-de-vigny">de Vigny</persName> har gjort en Syndflodsstudie, foretrækker dog
-          anderledes urolige Landskaber og har først som Søens Maler sin rette Horizont, Han fører
+          anderledes urolige Landskaber og har først som Søens Maler sin rette Horizont. Han fører
           Poesien fra de luftige Omgivelser ned til dette friske og salte Element.</p>
         <p>Det er da neppe lykkedes <persName key="francois-rene-vicomte-de-chateaubriand"
             >Chateaubriand</persName> at bevise hvad han vilde, den christelige Inspirations
@@ -4873,7 +4871,7 @@
             >Bonalds</persName> Bekjendtskab. I hin Tid, da han i <placeName>Chambéry</placeName>
           ved <placeName>Alpernes</placeName> Fod tilbad den unge skjønne <persName
             key="julie-charles">Creolerinde</persName>, som han i sine Digte har forherliget under
-          Navnet <persName type="fictional">Elvire</persName>, blev han af sin Veninde opfordret til
+          Navnet <persName type="fictional">Elvire</persName>, opfordret til
           at skrive en Ode til <persName key="louis-vicomte-de-bonald">Bonald</persName>, der var en
           nær Bekjendt af hendes Hus. <persName key="alphonse-de-lamartine">Lamartine</persName>
           paastaaer, at han kun kjendte dennes Navn og den Nimbus, hvormed dette Navn som en
@@ -4961,7 +4959,7 @@
           Triumphens og den begyndende Hæders Tid; denne Hæder kom for ham ikke tidligt, han var 30
           Aar gammel, men den faldt som de første Straaler af den opgaaende Sol ind i hans æresyge
           Existents. Man forestille sig ret levende en Salon fra den Tid, som den er os beskrevet af
-          Samtidige <note place="bottom">
+          Samtidige<note place="bottom">
             <persName key="abel-francois-villemain">Villemain:</persName> »<bibl>M. de Féletz et les
               salons de son temps</bibl>«<!-- cit start og slut indsat -->.</note>, en Række
           Selskabssale hos en af Kongedømmets første Dignitarier, <persName
@@ -5111,7 +5109,7 @@
           Pedanteri – at hun i Erkedruidens Familie var bleven »grundigt oplært i den græske
           Litteratur og i sit Lands Historie«. <persName type="fictional">Velleda</persName> er
           Druidernes sidste Præstinde som Cymodoke den sidste Præstinde for <persName key="homer"
-            >Homer</persName>. Ligesom <persName key="korinna">Corinna</persName> lidt tidligere var
+            >Homer</persName>. Ligesom <persName type="fictional" key="corinna">Corinna</persName> lidt tidligere var
           Idealet for de unge Ærgjerrigheder blandt Kvinderne, saaledes bliver <persName
             type="fictional">Velleda</persName> det nu, og da Litteraturen ikke blot er et Udtryk
           for Samfundet, men ogsaa mægtigt bidrager til at omforme Samfundet, saa see vi <persName
@@ -5388,7 +5386,7 @@
           lære sig et nyt Sprog. Gud, det er Dig. Gud, det er, hvad jeg er for Dig. Gud, det er os.«
           Hvis <persName type="fictional">
             <app>
-              <lem wit="SS Fu 1923-24">Elvires</lem>
+              <lem>Julies</lem>
               <rdg wit="A B">Elviras</rdg>
             </app>
           </persName> Mand, den gamle Philosoph, havde været tilstede ved disse Hjerteudgydelser,
@@ -5651,7 +5649,10 @@
                   <lem>auprès</lem>
                   <rdg wit="A">auprés</rdg>
                 </app> de lui;</l>
-              <l>Ou que de son armée il se fasse un cortége.</l>
+              <l>Ou que de son armée il se fasse un <app>
+                <lem>Cortège</lem>
+                <rdg wit="A">Cortége</rdg>
+              </app>.</l>
               <l>Que son fier palais se protège</l>
               <l>D’un camp au front étincelant;</l>
               <l>
@@ -5704,7 +5705,7 @@
         <p>Men denne Opposition mod Fortiden fører os til et Punkt, der fordrer nogen Dvælen, nemlig
           den nye Skoles Stilling til Autoritetsprincipet i <emph>Litteraturen</emph>, der jo netop
           fordrede Respect for Fortiden, dens Mænd og dens Former.</p>
-        <p>Jeg har før bemærket <note place="bottom">
+        <p>Jeg har før bemærket<note place="bottom">
             <bibl>»Emigrantlitteraturen«<!-- cit start og slut indsat --></bibl> S. 31.</note>, at
           Franskmændenes store politiske og sociale Revolution ikke havde strakt sig til den
           litterære <emph>Form</emph>. Hvad Litteraturens Former angaaer, var der ingen Nødvendighed
@@ -5927,8 +5928,7 @@
           alle disse Regler, ja med at troe paa dem som paa virkelige Love for Poesien og Sproget.
           Saa begyndte han at rokke lidt ved dem, at gaae lidt udenom dem, at betvivle eller
           omfortolke dem en lille Smule dog i dybeste Respect, indtil det ikke mere var ham muligt
-          at overholde dem og han kastede dem overende. Med slaaende Ord har han i et af sine Digte
-            <note place="bottom">
+          at overholde dem og han kastede dem overende. Med slaaende Ord har han i et af sine Digte<note place="bottom">
             <cit>
               <quote>
                 <lg>
@@ -6364,7 +6364,7 @@
         <p>Det seer jo overmaade logisk ud; ifald Ergo var nok til et Bevis, vilde der ikke mangle
           Beviser. Men lad os prøve Argumentationen paa et Par Punkter.</p>
         <p>Jeget, siger <persName key="felicite-de-lamennais">Lamennais</persName>, kan ikke alene
-          udviklecd brandes/brandes-dh_xml sig til Selvbevidsthed. Det er sandt, og vi slutte deraf,
+          udvikle sig til Selvbevidsthed. Det er sandt, og vi slutte deraf,
           hvad man deraf kan slutte, naar vi sige, at Jeget følgelig har udviklet sig gjennem et Du.
           Det er en Tanke, som fremfor Alle <persName key="ludwig-feuerbach">Feuerbach</persName>
           indtrængende har udtalt og varieret. Men <persName key="felicite-de-lamennais"
@@ -6928,7 +6928,7 @@
             <lem wit="B SS Fu 1923-24">Maria</lem>
             <rdg wit="A">Marie</rdg>
           </app> bl. A. bliver Datter af sin egen Søn. I en Bog af <persName
-            key="corentin-marie-le-Guillou">Abbed Guillon<app>
+            key="corentin-marie-le-Guillou">Abbed <app>
               <lem>Guillou</lem>
               <rdg wit="A">Guillon</rdg>
             </app></persName>: »<bibl>Le Mois de Marie</bibl>«<!-- cit start og slut indsat -->
