@@ -10289,44 +10289,44 @@
           uvidende Barn, en attenaarig Jødepige, der havde sunget til sin Harpe paa Gader og i
           Kaféer, og det viste sig, at denne lille Pige var en Muse.</p>
 
-        <p><persName>Rachel</persName> betraadte Scenen, og det traf sig, at dette unge theatralske
+        <p><persName key="elisa-felix-rachel">Rachel</persName> betraadte Scenen, og det traf sig, at dette unge theatralske
           Geni, det største kvindelige, som Frankrig nogensinde havde seet, besad en udpræget
           Antipathi mod de Roller, de romantiske Dramer afgav, men at hun med en saadan Alvor og
           Lidenskab opfattede det gamle klassiske Repertoire, at hun – hvad Ingen havde troet muligt
           – gjengav hine gamle Tragoedier deres Tiltrækningskraft, dem, den romantiske Skole med
           Haan og Spot havde fordrevet fra Theatret. Hvad nyttede det, at
-            <persName>Gautier</persName> vred sine Hænder! Iphigenia, Merope, Emilia, Chimene, Fædra
+            <persName key="theophile-gautier">Gautier</persName> vred sine Hænder! Iphigenia, Merope, Emilia, Chimene, Fædra
           betraadte atter Scenen, og det udrustede med en saadan Adel og Sandhed, at det
           letbevægelige Publicum nu og da blev betaget af en Art Raseri mod dem, der havde vovet at
           lade haant om disse gamle Nationalhelligdomme. En Nation bliver altid glad ved at erfare,
           at den ikke med Urette et Par hundrede Aar igjennem har seet op til sine navnkundige Mænd
           og deres Værker.</p>
 
-        <p><persName>Rachel</persName> havde først afvist Titelrollen i »<bibl n="ponsard-lucrece">Lucrèce</bibl>«,
+        <p><persName key="elisa-felix-rachel">Rachel</persName> havde først afvist Titelrollen i »<bibl n="ponsard-lucrece">Lucrèce</bibl>«,
           skjøndt den var skrevet for hende. Men da Stykket havde gjort Lykke paa
           <placeName key="théâtre-de-l'odéon">Odéon</placeName>, overtog <pb n="524"/> hun Rollen. Et Øienvidne har
           skildret mig Stemningen i Theatret første Gang, hun spillede <persName type="fictional" key="lucrèce-borgia">Lucretia</persName>, med disse Ord: »Man sad aandeløs af
           Forventning, da Tæppet skulde gaae op. Det hævede sig, og vi saae
-            <persName>Rachel</persName> som <persName type="fictional" key="lucrèce-borgia">Lucretia</persName> siddende ved sin Rok imellem sine Terner. Der var allerede forud
+            <persName key="elisa-felix-rachel">Rachel</persName> som <persName type="fictional" key="lucrèce-borgia">Lucretia</persName> siddende ved sin Rok imellem sine Terner. Der var allerede forud
           stille; men da hun løftede sit Hoved og aabnede sine Læber for til Slavinden at sige de
           første Ord: Lève-toi Laodice!, blev der en saadan Stilhed, at vi hørte Frugtsælgerskerne
           raabe med Appelsiner udenfor paa Torvet«.</p>
 
-        <p>I sin Begeistring for <persName>Rachel</persName> oversaa man, at den klassiske Formel
+        <p>I sin Begeistring for <persName key="elisa-felix-rachel">Rachel</persName> oversaa man, at den klassiske Formel
           ikke blev levende, fordi et enkelt Geni en Tidlang indpustede geniale Fortidsværker Liv,
-          og i sin Glæde over <persName>Ponsard</persName> manglede man Blik for, hvor forbigaaende
+          og i sin Glæde over <persName key="francois-ponsard">Ponsard</persName> manglede man Blik for, hvor forbigaaende
           hans Triumf maatte blive. L’école du bon sens udviklede sig, hvad allerede Benævnelsen
-          varsler om, aldrig til nogen livskraftig, poetisk Skole. <persName>Ponsard</persName> selv
-          var et Talent af anden Rang, hans begavede Efterfølger <persName>Émile Augier</persName>,
+          varsler om, aldrig til nogen livskraftig, poetisk Skole. <persName key="francois-ponsard">Ponsard</persName> selv
+          var et Talent af anden Rang, hans begavede Efterfølger <persName key="emile-augier">Émile Augier</persName>,
           der tilegnede ham sine Poesier, og hvis Ungdomsdramer ere skrevne i beslægtet Aand, forlod
-          med Aarene hans nøgterne Stil.<note place="bottom"><persName>Augiers</persName>
+          med Aarene hans nøgterne Stil.<note place="bottom"><persName key="emile-augier">Augiers</persName>
             »<bibl n="augier-gabrielle">Gabrielle</bibl>« er vel det smukkeste Skuespil, som L’école du bon sens har
             frembragt. Hans Dramer »<bibl n="augier-jeunesse">La Jeunesse</bibl>« og »<bibl n="augier-la-pierre-de-touche">La pierre de touche</bibl>«
-            ere øiensynligt fremkaldte ved <persName>Ponsard’s</persName> »<bibl n="ponsard-lhonneur-et-largent">L’honneur et
+            ere øiensynligt fremkaldte ved <persName key="francois-ponsard">Ponsard’s</persName> »<bibl n="ponsard-lhonneur-et-largent">L’honneur et
               l’argent</bibl>«.</note> Har Skolen – hæderlig som dens Stræben var – end ingenlunde
           fortjent <pb n="525"/> de haanende Angreb, for hvilke enkelte intransigente yngre
-          Romantikere som <persName>Vacquérie</persName><!-- Auguste Vacquérie --> og
-            <persName>Théodore de Banville</persName>, have gjort den til Gjenstand, saa er dens
+          Romantikere som <persName key="auguste-vacquerie">Vacquérie</persName><!-- Auguste Vacquérie --> og
+            <persName key="theodore-de-banville">Théodore de Banville</persName>, have gjort den til Gjenstand, saa er dens
           historiske Betydning dog kun den at markere det Tidspunkt, paa hvilket det romantiske
           Drama havde overlevet sig selv.</p>
       </div>
@@ -10370,8 +10370,8 @@
           Beundring, selv naar de fleste af deres Frembringelser ere gaaede i Glemme.</p>
 
         <p>Den romantiske Skole har indbefattet Aander og Værker af begge Arter. Den har Forfattere
-          som <persName>Balzac</persName>, <persName>Mérimée</persName> og
-            <persName>Gautier</persName>, der bevarede en naturlig eller kunstig Ufølsomhed for
+          som <persName key="honore-de-balzac">Balzac</persName>, <persName key="prosper-merimee">Mérimée</persName> og
+            <persName key="theophile-gautier">Gautier</persName>, der bevarede en naturlig eller kunstig Ufølsomhed for
           Tidsalderens sociale og politiske Stræben, og den har Digtere, som rørtes og grebes stærkt
           af Forsøgene paa at forme og organisere deres Fædrelands og hele Menneskehedens Fremtid.
           Poesien har jo to Grundformer. Den har enten Charakter af en paa psychologisk Granskning
@@ -10387,13 +10387,13 @@
 
         <p>I den franske Romantisme bryde reforma<pb n="528"/>toriske Ideer allerede i Løbet af
           Trediverne ind fra alle Sider. Søger man tilbage til deres Kilde, kan man ikke standse før
-          ved <persName>Saint-Simon</persName>. I <persName>Greven af Saint-Simon</persName> (f.
-          1760), den eneste Ætling af den berømte <persName>Hertug af samme
+          ved <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simon</persName>. I <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Greven af Saint-Simon</persName> (f.
+          1760), den eneste Ætling af den berømte <persName key="louis-de-rouvroy-duc-de-saint-simon">Hertug af samme
           Navn</persName><!-- Louis de Rouvroy -->, der var Hoffets hemmelige Historieskriver under
-            <persName>Ludvig d. 14des</persName> Regjering, havde Frankrig, der modtog Faustdigtet
+            <persName key="ludvig-14-louis-14">Ludvig d. 14des</persName> Regjering, havde Frankrig, der modtog Faustdigtet
           med saa liden Interesse, i det nittende Aarhundrede frembragt en virkelig Faust, en Faust
           i urolig Genialitet og uimodstaaelig Drift til at lære Universet theoretisk og praktisk at
-          kjende. Han er mindre klar og rationel end Helten i <persName>Goethe’s</persName>
+          kjende. Han er mindre klar og rationel end Helten i <persName key="johann-wolfgang-goethe">Goethe’s</persName>
           <bibl n="goethe-faust">berømte Digt</bibl><!-- Goethes Faust -->, men hans Blik er videre, hans Formaal
           større og hans Stræben af høiere Natur. Han debuterer i Livet som Faust slutter. Hans
           Planer til Gjennembrydelse af Landtangen ved Panama og til store Kanalanlæg i Spanien
@@ -10402,7 +10402,7 @@
           Religionsstifter, en høitbegavet Polyhistor med nogle Træk af et Universalgeni. Han brugte
           i sine unge Aar en Formue op, da Titlerne som Pair af Frankrig og Grande af Spanien
           tilligemed en Sum af 500,000 Francs syntes ham sikrede ved Arv; men hans Fader
-          brouillerede sig med <persName>Hertugen af
+          brouillerede sig med <persName key="louis-de-rouvroy-duc-de-saint-simon">Hertugen af
           Saint-Simon</persName><!-- Louis de Rouvroy -->, han arvede Intetsomhelst, sank i den
           dybeste Armod, maatte som Copist paa Assistens<pb n="529"/>huset arbeide ni Timer daglig
           for tusind Francs om Aaret og var i 1812 reduceret til at leve af Vand og Brød. En Dag
@@ -10413,18 +10413,18 @@
           Tidsskrift efter det andet for at udbrede hans Ideer.</p>
 
         <p>Da han fem Aar før Julirevolutionen døde, vare disse Ideer kun kjendte og dyrkede i en
-          liden Kreds, men under <persName>Louis-Philippe’s</persName> Regjering udbredte de sig
+          liden Kreds, men under <persName key="louis-philippe-1">Louis-Philippe’s</persName> Regjering udbredte de sig
           stærkt paa samme Tid som de i mange Retninger omdannedes; de bleve Grundlag for en Sekt
           med en Ypperstepræst i Spidsen, en Sekt, der talte fremragende Mænd af alle Fag i sin
-          Midte, Finansmænd som <persName>Isaac Péreire</persName>, Komponister som
-            <persName>Félicien David</persName> og saaledes gik det til, at de Saint-Simonistiske
-          Ideer trængte ind overalt, bleve Elementer i Nationaløkonomien hos <persName>Michel
+          Midte, Finansmænd som <persName key="isaac-pereire">Isaac Péreire</persName>, Komponister som
+            <persName key="felicien-david">Félicien David</persName> og saaledes gik det til, at de Saint-Simonistiske
+          Ideer trængte ind overalt, bleve Elementer i Nationaløkonomien hos <persName key="michel-chevalier">Michel
             Chevalier</persName>, inspirerede Frankrigs største dalevende Historiker
-            <persName>Augustin Thierry</persName>, afgave Grundtankerne for Landets betydeligste
-          Tænker i dette Aarhundrede, <persName>Auguste Comte</persName>, endelig, forskjelligt
-          modificerede, i <persName>Pierre Leroux</persName> og <persName>Lamennais</persName> fik
+            <persName key="augustin-thierry">Augustin Thierry</persName>, afgave Grundtankerne for Landets betydeligste
+          Tænker i dette Aarhundrede, <persName key="auguste-comte">Auguste Comte</persName>, endelig, forskjelligt
+          modificerede, i <persName key="pierre-leroux">Pierre Leroux</persName> og <persName key="felicite-de-lamennais">Lamennais</persName> fik
           indflydelsesrige filosofiske og religiøse Apostle og samtidigt trængte ind i Poesien. Det
-          var i og for sig intet Under, thi der var i <persName>Saint-<pb n="530"/>Simon</persName>
+          var i og for sig intet Under, thi der var i <persName key="louis-de-rouvroy-duc-de-saint-simon">Saint-<pb n="530"/>Simon</persName>
           trods alle hans Sværmerier noget af den store Digters Seerblik.</p>
 
         <p>Han var forud for sin Tid; thi hans Ideeliv er et af Symptomerne paa den store europæiske
@@ -10449,7 +10449,7 @@
 
         <p>Hvad det første angaaer, kan man i hans »<bibl n="saint-simon-lettres-dun-habitant-de-geneve-a-ses-contemporains">Breve fra en Beboer af
           Genf</bibl>«<!-- Saint-Simon: Lettres... --> efterlæse hans Projekt til ved
-            <persName>Newtons</persName> Grav at aabne en Subscription til Bedste for alle de
+            <persName key="isaac-newton">Newtons</persName> Grav at aabne en Subscription til Bedste for alle de
           største Videnskabsmænd og Kunstnere, ved Hjælp af hvilken de uden Næringssorger skulle
           kunne arbeide i deres Fag og nyde rigelig Løn for deres Arbeider – et Projekt, som
           Forfatteren af »<bibl n="vigny-chatterton">Chatterton</bibl>« maa have læst med Begeistring, ifald han ellers
@@ -10457,7 +10457,7 @@
           skulle overtage Bestyrelsen af hele Menneskeslægtens aandelige Tarv efter en bestemt
           detailleret Reformplan.</p>
 
-        <p>Med Hensyn til Industriens Organisation er <persName>Saint-Simons</persName>
+        <p>Med Hensyn til Industriens Organisation er <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simons</persName>
           »<bibl n="saint-simon-parabel">Parabel</bibl>«<!-- Parabole  --> det interessanteste Aktstykke. Da denne Parabel
           rimeligvis er det eneste af hans Skrifter, der i Fremtiden vil kunne læses, fordi den
           undtagelsesvis er affattet i en kort og fyndig Stil og desuden har Glimt af et Vid, som
@@ -10474,18 +10474,18 @@
 
         <p>Lad os sætte et andet Tilfælde. Lad os sætte, at Frankrig beholder alle de geniale Mænd,
           det besidder i Videnskab, Kunst, Industri og Haandværk, men at det har den Ulykke at miste
-            <persName>Hans kongelige Høihed Kongens Broder</persName><!-- Louis 18. -->, fremdeles
-          deres kgl. Høiheder <persName>Hertugerne af
+            <persName key="ludvig-18-louis-18">Hans kongelige Høihed Kongens Broder</persName><!-- Louis 18. -->, fremdeles
+          deres kgl. Høiheder <persName key="charles-ferdinand-de-bourbon-duc-de-berry">Hertugerne af
           Berry</persName><!-- 	Berry, Charles Ferdinand de Bourbon -->,
-            <persName>Orléans</persName><!-- 	Ludvig-Filip (Louis Philippe) --> og
-            <persName>Bourbon</persName><!-- "Bourbon-Condé, Louis Henri Joseph de -->, Hertuginden
+            <persName key="louis-philippe">Orléans</persName><!-- 	Ludvig-Filip (Louis Philippe) --> og
+            <persName key="houis-henri-joseph-de-bourbon-conde">Bourbon</persName><!-- "Bourbon-Condé, Louis Henri Joseph de -->, Hertuginden
           af <app>
-            <lem><persName>Angoulême</persName></lem>
+            <lem><persName key="marie-therese-d-angouleme">Angoulême</persName></lem>
             <!-- Angoulême, Marie Thérèse d -->
             <rdg wit="A">Angoulème</rdg>
-          </app>, <persName>Hertuginden af
+          </app>, <persName key="Bathilde-d-orleans">Hertuginden af
           Bourbon</persName><!-- Louise Marie Thérèse Bathilde d’Orléans, duchesse de  --> og den
-          unge <persName>Hertuginde af Condé</persName><!--  "Bourbon, Louise Adélaïde de -->. Lad
+          unge <persName key="louise-adelaide de-bourbon">Hertuginde af Condé</persName><!--  "Bourbon, Louise Adélaïde de -->. Lad
           Frankrig paa samme Tid miste alle Kronens Storofficierer, alle Statsministrene,
           Kammerherrerne, Jagtjunkerne, Marschallerne, Cardinalerne, Erkebisperne, Bisperne,
           Stor-Vicarerne og Kannikerne, alle Præfekter og Underpræfekter, alle Dommerne og desuden
@@ -10498,7 +10498,7 @@
           sentimentale Grunde; thi deraf vilde ikke flyde nogen alvorlig Ulempe for Staten som Stat.
           Først og fremmest af den Grund, at det vilde være meget let at fylde de ledigblevne
           Pladser. Der existerer et stort Antal Franskmænd, som vilde være istand til at udføre
-          Funktionerne som <persName>Hs. Maj. Kongens Broder</persName><!-- Louis 18. --> lige saa
+          Funktionerne som <persName key="ludvig-18-louis-18">Hs. Maj. Kongens Broder</persName><!-- Louis 18. --> lige saa
           godt som Høistsamme; mange ere i Stand til at udfylde Stillingen som Prinds af Blodet o.
           s. v. Alle Forværelser ved Hoffet ere fulde af Officierer, der ere parate til at indtage
           Pladserne som Kronens Storofficierer o. s. v. Hæren besidder et stort Antal Militære, der
@@ -10508,21 +10508,21 @@
           angaaer, saa vilde deres Arvinger neppe engang behøve Læreaar for at gjøre Honneurs i
           deres Selskabssale med lige saa megen Ynde som de!</p>
 
-        <p>Grundtanken i denne Spøg, for hvilken <persName>Saint-Simon</persName> blev slæbt for
+        <p>Grundtanken i denne Spøg, for hvilken <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simon</persName> blev slæbt for
           Domstolene, er, som man <pb n="534"/> seer, den at kun den productive Klasse af Borgerne
           er den i Sandhed nyttige: Før Revolutionen stod Kampen mellem Adel og Borgerstand; i den
           nye Tid, da en Del af Borgerstanden har indtaget den tidligere Adels Plads og delt
           Forrettighederne med den, er Spaltningen den mellem den uproductive og den productive
           Stand; Fremtiden tilhører Vindskibeligheden, Arbeidet, Fredens Gjerning, nyttig Bedrift.
           Men medens de samtidige franske Nationaløkonomer kun vilde sikre den Enkelte den friest
-          mulige Udvikling af hans Evner, fordrede <persName>Saint-Simon</persName> Statens
+          mulige Udvikling af hans Evner, fordrede <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simon</persName> Statens
           Indskriden. Den burde organisere Arbeidet og Productionen; den alene kunde sikre, at for
           Fremtiden ikke mere det ene Menneske blev udnyttet af det andet, men Naturen af Mennesket.
           Den burde endelig med al Anerkjendelse af den naturlige Ulighed mellem Menneskene gjøre
           Sit til at ophæve den kunstige, derfor afskaffe ethvert Fødselsprivilegium, afskaffe eller
           indskrænke Arveretten.</p>
 
-        <p>Vi træffe da hos <persName>Saint-Simon</persName> for det Første paa den moderne
+        <p>Vi træffe da hos <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simon</persName> for det Første paa den moderne
           Socialismes Grundtanke, paa Mistilliden til den frie Concurrences Virkninger og paa
           Fordringen om det productive Arbeides Indsættelse i dets Ære og dets Ret, ud fra hvilken
           han naaede til den berømte Formel, at Enhver i Samfundet burde være stillet efter sine
@@ -10531,12 +10531,12 @@
           om Kvindens fuldstændige sociale Ligestilling med Manden. – Endelig følger i religiøs
           Henseende Forkastelsen af den hele Dogmelære, ikke i religionsnedbrydende Hensigt men for
           af Orthodoxiens Grav at fremdrage det ene Princip: Elsker hverandre! en ny Christendom,
-          som <persName>Saint-Simon</persName> udviklede i sit sidste Hovedskrift »<bibl n="saint-simon-le-nouveau-christianisme">Le nouveau
+          som <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simon</persName> udviklede i sit sidste Hovedskrift »<bibl n="saint-simon-le-nouveau-christianisme">Le nouveau
             Christianisme</bibl>« og hvis eneste Grundsætning er denne: Religionens Opgave er at
           lede Samfundet hen mod det store Maal, en saa hurtig Forbedring som muligt af den
           talrigste og fattigste Klasses Skjæbne.</p>
 
-        <p>Der var i <persName>Saint-Simons</persName> Personlighed Noget, som maatte forekomme de
+        <p>Der var i <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simons</persName> Personlighed Noget, som maatte forekomme de
           naivere blandt Romantikerne beslægtet. Han havde den ubegrændsede Selvtillid, som
           fremkalder Tro hos Andre, havde Intet af Filosofens forsigtige Selvprøven, var dogmatisk,
           var Profet. Han havde desuden den romantiske Tørst efter at gjennemleve og gjennemføle
@@ -10558,7 +10558,7 @@
           Klasser.</p>
 
         <p>Og det var først efter 1830, at <app>
-            <lem><persName>Saint-Simons</persName></lem>
+            <lem><persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simons</persName></lem>
             <rdg wit="A">Saint Simons</rdg>
           </app> Lære begyndte at blive en Samfundsmagt. Han selv havde, som Religionsstiftere
           pleie, paa engang været Forkynderen og Exemplet; han havde forstaaet at iværksætte et
@@ -10566,28 +10566,28 @@
           gik ud i Verden som denne Messias’s Tjenere. Det var derfor egentlig først gjennem hans
           Disciple og deres Aandsbeslægtede, at man under Julimonarchiet lærte Saint-Simonismen at
           kjende, skjøndt vel enkelte mere aarvaagne Aander alt tidligere havde studeret Mesteren
-          selv. <pb n="537"/> Jeg finder saaledes i <persName>Victor Hugo’s</persName> Dagbog fra
+          selv. <pb n="537"/> Jeg finder saaledes i <persName key="victor-hugo">Victor Hugo’s</persName> Dagbog fra
           1830 (»<bibl n="hugo-litterature-et-philosophie-melees">Littérature et Philosophie mêlées</bibl>« I) en Notits, der viser, at han
-          allerede da har kjendt <persName>Saint-Simon</persName>.</p>
+          allerede da har kjendt <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simon</persName>.</p>
 
-        <p>Vel maatte kun et Aar efter <persName>Saint-Simons</persName> Død hans Organ »<bibl n="le-producteur">Le
+        <p>Vel maatte kun et Aar efter <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simons</persName> Død hans Organ »<bibl n="le-producteur">Le
             Producteur</bibl>« gaae ind, men netop denne Omstændighed bragte hans Disciple i mere
           personlig og intim Berøring med deres Tilhængere, og især fra det Øieblik af da
-            <persName>Enfantin</persName>, den unge Læres <persName>Paulus</persName>, en Mand af
+            <persName key="barthelemy-prosper-enfantin">Enfantin</persName>, den unge Læres <persName key="paulus">Paulus</persName>, en Mand af
           skjøn og mægtig Personlighed, en præstelig Begavelse af allerførste Rang med noget af en
-            <persName>Brigham Youngs</persName> Hersker- og Fører-Evne, var bleven Sektens faktiske
+            <persName key="brigham-young">Brigham Youngs</persName> Hersker- og Fører-Evne, var bleven Sektens faktiske
           Høvding vandt den høitbegavede Ynglinge og dannede, livfulde Kvinder for sig i ikke ringe
           Antal. Store frivillige Summer strømmede ind til den Saint-Simonistiske »Familie«, i Aaret
           1831 alene 330,000 Francs. Man fik sig et Ugeskrift »<bibl n="l-organisateur">L’Organisateur</bibl>« og fra
-          1830 af overtog <persName>Pierre Leroux</persName>, som alt ovenfor berørt, »<bibl n="le-globe">Le
+          1830 af overtog <persName key="pierre-leroux">Pierre Leroux</persName>, som alt ovenfor berørt, »<bibl n="le-globe">Le
             Globe</bibl>«. Imidlertid fjernede Læren sig stedse mere fra sit oprindelige Præg.
-          Istedenfor at <persName>Saint-Simon</persName> i sin Organisationsplan havde tilkjendt
+          Istedenfor at <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simon</persName> i sin Organisationsplan havde tilkjendt
           Kapitalisterne en fremragende Plads – et af de tre Kamre, han vilde have oprettede, skulde
           udelukkende bestaae af Kapitalister – angreb man nu Kapitalen, og paa
-            <persName>Saint-Simons</persName> Uvillie mod al Communisme var indenfor »Familien«
+            <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simons</persName> Uvillie mod al Communisme var indenfor »Familien«
           fulgt faktisk Formuesfællesskab, ligesom Fordringen paa Formuesfællesskab i <pb n="538"/>
           Staten kom til Orde. Dog en enkelt bestemt Consequens, som man drog af Læren, hidførte
-          dens Fald og Opløsningen af den hele Sekt. <persName>Saint-Simon</persName> havde lært, at
+          dens Fald og Opløsningen af den hele Sekt. <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simon</persName> havde lært, at
           da den gamle Christendom havde sat Splid mellem Aanden og Kjødet, gjaldt det nu om at
           forsone denne Splid. Den gamle Christendom havde opstillet Selvfornegtelse og Kjødets
           Spægelse som Formaal, den nye burde betragte Velvære og almindelig Lykke som Maalet.
@@ -10597,13 +10597,13 @@
           skiller os af med Lægemidlet uden at noget Tilbagefald følger? Ingen anden Magt end den
           nye Christendom.</p>
 
-        <p>Af denne relativt sunde Grundtanke vilde <persName>Enfantin</persName> udlede og paa
-          staaende Fod indføre Tilstande, der minde om dem, <persName>Jan van
+        <p>Af denne relativt sunde Grundtanke vilde <persName key="barthelemy-prosper-enfantin">Enfantin</persName> udlede og paa
+          staaende Fod indføre Tilstande, der minde om dem, <persName key="jan-beukelszoon-jan-van-leiden">Jan van
           Leyden</persName><!-- Jan van Leiden, --> i gamle Dage havde indført blandt sine
           Gjendøbere. Fra først af havde Saint-Simonismen forkyndt, at istedenfor Individet Mand
           traadte nu i den nye Æra Individet Mand-Kvinde med lige Rettigheder og med fuld Frihed til
           at opløse et indgaaet utilfredsstillende Ægteskab; thi det var i Parret, ikke i det
-          enkelte Væsen at den sande Menneskelighed var virkeliggjort. <persName>Enfantin</persName>
+          enkelte Væsen at den sande Menneskelighed var virkeliggjort. <persName key="barthelemy-prosper-enfantin">Enfantin</persName>
           drog heraf <pb n="539"/> Consequensen om to Art Ægteskaber, de monogame og de i Tidens Løb
           (ikke samtidigt) polygame, det vil sige de varige og de yderst flygtige, medens virkeligt,
           samtidigt Polygami kun skulde indføres for de mandlige og kvindelige Præsters Vedkommende.
@@ -10614,16 +10614,16 @@
           det manglede de unge Sværmere paa Blik for hvad der under de forhaandenværende
           Samfundsforhold lod sig virkeliggjøre og hvad ikke og hvor hildede de vare i Troen paa at
           kunne omdanne historiske Tilstande med et Pennestrøg. Hvad der undskylder dem var den
-          Omstændighed, at med Undtagelse af <persName>Enfantin</persName> og
-            <persName>Bazard</persName> vare i Aaret 1830 alle Saint-Simonisterne (saavel som alle
-            <persName>Lamennais’</persName> Tilhængere) kun omtrent 20 Aar gamle. Latteren tog nu
+          Omstændighed, at med Undtagelse af <persName key="barthelemy-prosper-enfantin">Enfantin</persName> og
+            <persName key="armand-bazard">Bazard</persName> vare i Aaret 1830 alle Saint-Simonisterne (saavel som alle
+            <persName key="felicite-de-lamennais">Lamennais’</persName> Tilhængere) kun omtrent 20 Aar gamle. Latteren tog nu
           Livet af deres Propaganda. I Sommeren 1832 bleve »Familiens« Hovedmænd dømte,
-            <persName>Enfantin</persName> til et Aars Fængsel, <persName>Michel Chevalier</persName>
-          og <persName>Duveyrier</persName> til en ubetydelig Pengebøde. De unge Enthousiaster, af
+            <persName key="barthelemy-prosper-enfantin">Enfantin</persName> til et Aars Fængsel, <persName key="michel-chevalier">Michel Chevalier</persName>
+          og <persName key="charles-duveyrier">Duveyrier</persName> til en ubetydelig Pengebøde. De unge Enthousiaster, af
           hvilke den lille Sekt bestod, spredte sig for alle Vinde, men for næsten uden Undtagelse
           at udmærke sig og som Mænd vinde <pb n="540"/> Hæder paa det industrielle, videnskabelige
-          og kunstneriske Omraade. Deres Overdrivelser af <persName>Saint-Simons</persName>
-          Doctriner fik saa lidt som <persName>Fourier’s</persName> samtidige Utopier nogen
+          og kunstneriske Omraade. Deres Overdrivelser af <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simons</persName>
+          Doctriner fik saa lidt som <persName key="charles-fourier">Fourier’s</persName> samtidige Utopier nogen
           Indflydelse paa den skjønne Litteratur. Den paavirkedes kun af Lærens oprindelige
           Grundtanker.</p>
 
@@ -10632,20 +10632,20 @@
           bløde Gemyt omvendte et kraftigt, bemægtigede sig en Kvinde gjennem en Mand, eller en Mand
           gjennem en Kvinde, en Digter gjennem en Præst eller en ung Polytechniker gjennem en
           Digter, og de hidkaldte paa Ideernes Vis beslægtede Ideer, nogle, der havde sovet siden
-          det forrige Aarhundredes Slutning som <persName>Louis Blanc’s</persName>
+          det forrige Aarhundredes Slutning som <persName key="louis-blanc">Louis Blanc’s</persName>
           demokratisk-socialistiske, andre, <app>
             <lem>filosofisk</lem>
             <rdg wit="A">fiolosofisk</rdg>
-          </app>-historisk-humanitære, der paa en Gang mindede om <persName>Schelling</persName> og
-          truede Plutokratiet, som <persName>Pierre Leroux’s</persName> i hans anden Periode, atter
+          </app>-historisk-humanitære, der paa en Gang mindede om <persName key="friedrich-wilhelm-joseph-von-schelling">Schelling</persName> og
+          truede Plutokratiet, som <persName key="pierre-leroux">Pierre Leroux’s</persName> i hans anden Periode, atter
           andre, der som <app>
-            <lem><persName>Lamennais’s</persName></lem>
+            <lem><persName key="felicite-de-lamennais">Lamennais’s</persName></lem>
             <rdg wit="A">Lammennais’s</rdg>
           </app> gjenkaldte de Tanker og Følelser, med hvilke under Middelalderens Bondeopstande
           Præster, der bar Korset foran Folkehæren, havde henrevet Proletariatet til at sætte Livet
           ind.</p>
 
-        <p><persName>Lamartine</persName>, der under Restaurationen havde været det conservative
+        <p><persName key="alphonse-de-lamartine">Lamartine</persName>, der under Restaurationen havde været det conservative
           Partis ypperste digteriske Capacitet, begynder allerede i de første Aar af Trediverne at
           vakle. Man sporer hans nye <pb n="541"/> Sympathier og Nydannelserne i hans Overbevisning
           allerede i hans »<bibl n="lamartine-jocelyn">Jocelyn</bibl>« (1836), saa blid og from denne versificerede Roman
@@ -10671,7 +10671,7 @@
 
         <p>Det blev ikke derved. »<bibl n="lamartine-la-chute-dun-ange">La chute d’un ange</bibl>« viste trods alle sine Feil, at
           Digteren selv havde forkastet sin tidligere serafiske Stil, og
-            <persName>Lamartines</persName> første Parlamentstaler røbede samtidigt, at de
+            <persName key="alphonse-de-lamartine">Lamartines</persName> første Parlamentstaler røbede samtidigt, at de
           Saint-Simonistiske Ideer efterhaanden havde erstattet hans Orthodoxi. Han, den fødte
           Aristokrat, optraadte i Politiken som »démocrate conservateur«, vilde omgive det
           constitutionelle Monarchi med alle den moderne Tids Friheder og Fremskridt. Og det blev
@@ -10687,19 +10687,19 @@
           sine Collegers Liv og afvendte Borgerkrigen <pb n="543"/> ved et Par lige saa poetiske som
           mandige Ord, udtalte med en Fasthed uden Blinken.</p>
 
-        <p>Det var <persName>Pierre Leroux</persName>, som indviede <persName>George Sand</persName>
+        <p>Det var <persName key="pierre-leroux">Pierre Leroux</persName>, som indviede <persName key="george-sand">George Sand</persName>
           i de gjærende sociale Ideer, og hun gik med kvindelig Varme og uden Betænkning helt op i
-          den nye Ideeverden. <persName>Pierre Leroux</persName>, en Metafysiker med et ædelt Hjerte
+          den nye Ideeverden. <persName key="pierre-leroux">Pierre Leroux</persName>, en Metafysiker med et ædelt Hjerte
           og et uklart Hoved, der tænkte i Schellingske Treheder, forfægtede som social Reformator
           Lighedens og Fremskridtets Ideer, thi alt Fremskridt var for ham en Stigen i Lighed. Han
           gik ud fra en harmfuld Kritik af de bestaaende Samfundsforhold, under hvilke Ligheden var
           en Lighed for Loven, som ikke udelukkede, at den Rige var fri for Militærtjeneste og
           straffri, naar han forbrød sig, og under hvilke Friheden var den fri Concurrence, det vil
           sige den Riges lovlige Ret til at undertrykke den Fattige. Istedenfor det bestaaende
-          Samfund construerede <persName>Leroux</persName> da et nyt. Det beroede paa Menneskets
+          Samfund construerede <persName key="pierre-leroux">Leroux</persName> da et nyt. Det beroede paa Menneskets
           tredobbelte Natur; Mennesket bestod af Fornemmelse (nærmest: Sandsning), Følelse (nærmest:
           Anskuelse) og Erkjendelse. Hertil svarede tre Stænder: Industridrivende, Kunstnere og
-          Videnskabsmænd; men disse tre Stænder turde ikke som hos <persName>Saint-Simon</persName>
+          Videnskabsmænd; men disse tre Stænder turde ikke som hos <persName key="claude-henri-de-rouvroy-comte-de-saint-simon">Saint-Simon</persName>
           udgjøre Kaster men burde handle og virke i Forening; Individer af de tre Stænder udgjorde
           tre og tre eet socialt Individ og skulde tilsammen danne eet Værksted; Værkstedet var af
           tre forskjellige Arter, altsom den <pb n="544"/> ene eller den anden Virksomhed var
@@ -10713,7 +10713,7 @@
           ivrige Forsvar for de Uformuende og Fortrykte, af deres glødende Tro paa Folket og deres
           levende Fremskridtsbegeistring.</p>
 
-        <p>Paa <persName>George Sands</persName> Sjæleliv har Saint-Simonismen, hvad man saa end har
+        <p>Paa <persName key="george-sand">George Sands</persName> Sjæleliv har Saint-Simonismen, hvad man saa end har
           sagt, øiensynligt havt en gavnlig Virkning. Den gav hende efter Fortvivlelsens Paroxysme i
           »<bibl n="sand-lelia">Lélia</bibl>« indre Rolighed, en Tro, som aldrig senere blev rokket, en Sag at
           arbeide og kjæmpe for. Hun iagttog med aabne Øine hvad der gik for sig i Frankrig omkring
@@ -10743,18 +10743,18 @@
           Adelsstanden.</p>
 
         <p>Interessantest blandt disse Bøger ere de to, der skrive sig omtrent fra Aaret 1840,
-          »<bibl n="sand-horace">Horace</bibl>«, i Anledning af hvilken <persName>George Sand</persName> for en
+          »<bibl n="sand-horace">Horace</bibl>«, i Anledning af hvilken <persName key="george-sand">George Sand</persName> for en
           Tid brouillerede sig med »<bibl n="revue-des-deux-mondes">Revue des deux
           mondes</bibl>«<!-- cit start og slut indsat -->, der negtede at optage Romanen, og
           »<bibl n="sand-le-compagnon-du-tour-de-france">Le compagnon du Tour de France</bibl>«, den egentlige Arbeiderroman, der i sin
-          Uskyld og Søndagsrenhed danner et mærkeligt Modstykke til <persName>Eugène
+          Uskyld og Søndagsrenhed danner et mærkeligt Modstykke til <persName key="eugene-sue">Eugène
             Sue’s</persName> kun lidet senere, grelle socialistisk-demokratiske Tendens-Romaner.</p>
 
-        <p>Jeg betragter »<bibl n="sand-horace">Horace</bibl>« som en af de bedste Bøger, <persName>George
+        <p>Jeg betragter »<bibl n="sand-horace">Horace</bibl>« som en af de bedste Bøger, <persName key="george-sand">George
             Sand</persName> har skrevet. I Helten har hun med finere og dybere Studium end
           nogensinde før eller siden fremstillet den typiske unge Bourgeois under Julikongedømmet.
           Her lægger hun et Skarpsyn og en psychologisk Indsigt for Dagen, der ikke giver
-            <persName>Balzac’s</persName> det ringeste efter. En dyb Antipathi, der dog ingenlunde
+            <persName key="honore-de-balzac">Balzac’s</persName> det ringeste efter. En dyb Antipathi, der dog ingenlunde
           udelukker Overbærenhedens gode Lune, har inspireret hende. Overfor <persName type="fictional" key="george-sand-horace">Horace</persName> har Proletaren <persName type="fictional" key="george-sand-arsene">Arsène</persName> den smukke Rolle; han har
           været Maler, har af Armod maattet gjøre sig til Opvarter paa en Café; men den afhængige
           Stilling har ikke nedværdiget ham. Hans simple Godhed, hans prunkløse Sjæleskjønhed gjør
@@ -10764,10 +10764,10 @@
         <p><persName type="fictional" key="george-sand-arsene">Arsène</persName> er lieret med
           Bousingot’erne, den Kreds af unge Studenter, der i Trediverne overførte den romantiske
           Skoles Stil og Optræden i det politiske Liv. Man finder dem hyppigt afbildede i Datidens
-          Lithografier med deres <persName>Robespierre</persName>-Veste, tykke Stokke, Voxdugshatte
+          Lithografier med deres <persName key="maximilien-de-robespierre">Robespierre</persName>-Veste, tykke Stokke, Voxdugshatte
           eller røde Fløils-Kasketter. De lignede i deres Ydre tydske Burschenschaftere, og vare
           Deltagere i alle Optøier, som havde en mod Juste-milieu Regimentet fjendtlig Charakter.
-            <persName>George Sand</persName> tager med Varme deres Parti. »Ingen af disse
+            <persName key="george-sand">George Sand</persName> tager med Varme deres Parti. »Ingen af disse
           Mænd«<!-- cit slut indsat -->, siger hun, »<!-- cit start indsat -->der i sin Tid
           forstyrrede den offentlige Orden, bør nu rødme over at have havt nogle hidsige
           Ungdomsdage. Naar Ungdommen ikke kan vise det Store og Stolte, den har paa Hjerte, uden
@@ -10775,7 +10775,7 @@
           saares haardt under Arbeideropstanden d. 5te Juni 1832, der skildres med fuld Sympathi; og
           han udvikler sig i de følgende Aar til et ikke ringe politisk Dannelsestrin. Hans Læreaar
           have i denne Sammenhæng Interesse for os, fordi de give Forfatterinden Anledning til
-          uforblommet at lægge sine Sympathier for Dagen. Den Mand, <persName type="fictional" key="george-sand-arsene">Arsène</persName> især beundrer, er <persName type="fictional" key="george-sand-godefroy-cavaignac">Godefroy Cavaignac</persName>. <persName>George
+          uforblommet at lægge sine Sympathier for Dagen. Den Mand, <persName type="fictional" key="george-sand-arsene">Arsène</persName> især beundrer, er <persName type="fictional" key="george-sand-godefroy-cavaignac">Godefroy Cavaignac</persName>. <persName key="george-sand">George
             Sand</persName> charakteriserer ham og hans Venner, Selskabet »Les amis du peuple«. <pb n="548"/> »Deres Ideer«, siger hun, »betegnede idetmindste et stort Fremskridt ud over
           Restaurationstidens Liberalisme. De andre Republikanere tænkte altfor meget paa at styrte
           Kongedømmet, ikke nok paa at grundlægge Republiken, <persName type="fictional" key="george-sand-godefroy-cavaignac">Godefroy Cavaignac</persName> derimod tænkte paa
@@ -10804,7 +10804,7 @@
           Stand til at lade være med Grublen efter en anden Orden, en anden Moral, end den, med
           hvilken Samfundet omkring En synes nøiet, og det i den Grad, at man skammer sig ved at
           sove, adsprede sig, føle sig lykkelig for nogle Øieblikke – det er det i Sandhed Sjældne,
-          og dog er det denne Følelse, som har tvunget <persName>George Sand</persName> til at
+          og dog er det denne Følelse, som har tvunget <persName key="george-sand">George Sand</persName> til at
           skrive denne Bog. Af hvilken Kjærlighed til »Folket« er den ikke baaren, og til Folket,
           som det er, det Folk, som drikker og begaaer Voldsomheder, ikke mindre end det, der
           arbeider og gjør Fremskridt i Kundskab – en Kjærlighed saa stor, at det er Forfatterinden
@@ -10817,13 +10817,13 @@
             Dommer</emph>, ifald det skulde føre sin egen Sag, faaer af sin unge Datter Svaret: Og
           ere vi da ikke i samme Tilfælde?</p>
 
-        <p>Kort efter at have forfattet denne Bog kastede <persName>George Sand</persName> sig ind i
+        <p>Kort efter at have forfattet denne Bog kastede <persName key="george-sand">George Sand</persName> sig ind i
           den praktiske Politik. Hun havde siden sit Brud med »<bibl n="revue-des-deux-mondes">Revue des deux
-          mondes</bibl>«<!-- cit start og slut indsat --> sammen med <persName>Pierre
-            Leroux</persName>, <persName>Viardot</persName>, <persName>Lamennais</persName> og den
-          polske Digter <persName>Mickiewicz</persName> udgivet »<bibl n="revue-independante">Revue indépendante</bibl>«;
+          mondes</bibl>«<!-- cit start og slut indsat --> sammen med <persName key="pierre-leroux">Pierre
+            Leroux</persName>, <persName key="louis-viardot">Viardot</persName>, <persName key="felicite-de-lamennais">Lamennais</persName> og den
+          polske Digter <persName key="adam-mickiewicz">Mickiewicz</persName> udgivet »<bibl n="revue-independante">Revue indépendante</bibl>«;
           nu grundede hun i 1843 med nogle Venner i hendes Egn det republikanske Provindsblad
-          »<bibl n="l-eclaireur-de-l-indre">L’éclaireur de l’Indre</bibl>«, hvilket ogsaa <persName>Lamartine</persName>
+          »<bibl n="l-eclaireur-de-l-indre">L’éclaireur de l’Indre</bibl>«, hvilket ogsaa <persName key="alphonse-de-lamartine">Lamartine</persName>
           ydede sin Bistand. Heri talte hun snart Hovedstadsarbeidernes, snart Landbo-Arbeidernes
           Sag (Artiklen om Bagersvendene i <placeName key="paris">Paris</placeName>, Brevene fra en
           Schwarzwalder Bonde), 1844 erklærede hun sig i den store Afhandling »<bibl n="sand-politik-og-socialisme">Politik og
@@ -10849,31 +10849,31 @@
           Folkesouverænitetens Beundrerinde komme til dette despotiske Resultat; det viser, hvilken
           vild og mandig Energi, der boede i den geniale Kvinde; det var den samme ubøielige Kraft,
           der gav hundrede Romaner efter hinanden Liv, som her ytrede sig i den praktiske Alliance
-          med <persName>Ledru-Rollin</persName> og <persName>Louis Blanc</persName>, de Mænd, der
+          med <persName key="alexandre-auguste-ledru-rollin">Ledru-Rollin</persName> og <persName key="louis-blanc">Louis Blanc</persName>, de Mænd, der
           nøiedes med at tænke hvad hun, mere uforbeholden, gav Luft i Ord.</p>
 
-        <p>Det var især <persName>Lamennais</persName>, gjennem hvem den <pb n="552"/> demokratiske
-          Ideestrøm kom til <persName>Victor Hugo</persName>. Alt i hans Hovedværk »<bibl n="lamennais-essai-sur-lindifference-en-matiere-de-religion">Essai sur
+        <p>Det var især <persName key="felicite-de-lamennais">Lamennais</persName>, gjennem hvem den <pb n="552"/> demokratiske
+          Ideestrøm kom til <persName key="victor-hugo">Victor Hugo</persName>. Alt i hans Hovedværk »<bibl n="lamennais-essai-sur-lindifference-en-matiere-de-religion">Essai sur
             l’indifférence</bibl>« havde Spirerne ligget til Opløsning af det Autoritetsprincip, han
           i sin Ungdom saa begeistret havde forfægtet. I August 1832 var hans Lære bleven fordømt af
           Paven.<note place="bottom">Se »<bibl n="reactionen-i-frankrig">Reactionen i Frankrig</bibl>« 298-331.</note>
-          Allerede fra <persName>Hugos</persName> Ynglingealder havde <persName>Lamennais</persName>
-          staaet i det inderligste Forhold til ham. Da <persName>Hugo</persName> som ganske ung paa
-          Opfordring af <persName>Abbeden af
+          Allerede fra <persName key="victor-hugo">Hugos</persName> Ynglingealder havde <persName key="felicite-de-lamennais">Lamennais</persName>
+          staaet i det inderligste Forhold til ham. Da <persName key="victor-hugo">Hugo</persName> som ganske ung paa
+          Opfordring af <persName key="louis-francois-auguste-duc-de-rohan-chabot">Abbeden af
           Rohan</persName><!-- "Rohan-Chabot, Louis-Francois, duc de --> søgte sig en Skriftefader,
-          var han først gaaet til <persName>Frayssinous</persName>, den engang saa uforsagte og
+          var han først gaaet til <persName key="denis-de-frayssinous">Frayssinous</persName>, den engang saa uforsagte og
           opofrende Geistlige, der nu var avanceret til parisisk Modepræst,<note place="bottom">Om
-            <persName>Frayssinous</persName> se »<bibl n="reactionen-i-frankrig">Reactionen i Frankrig</bibl>« 89.</note>
+            <persName key="denis-de-frayssinous">Frayssinous</persName> se »<bibl n="reactionen-i-frankrig">Reactionen i Frankrig</bibl>« 89.</note>
           men da han følte sig frastødt af dennes verdslige Raad og Vink, havde Abbeden kjørt ham
           til en lille, svag og spinkel Mand med et gult Ansigt, en Høgenæse og et Par smukke
           urolige Øine, grovt og fattigt klædt med blaa Uldstrømper og tunge Sømsko. Det var den
-          berømte <persName>Lamennais</persName>.</p>
+          berømte <persName key="felicite-de-lamennais">Lamennais</persName>.</p>
 
         <p>Begges klerikale og conservative Ideer modificeredes i Løbet af de Aar, der gik forud for
           Julirevolutionen, og de sloge næsten samtidigt om. En Aften i September 1830 kom
-            <persName>Lamennais</persName> ind til <persName>Hugo</persName> og traf ham skrivende.
+            <persName key="felicite-de-lamennais">Lamennais</persName> ind til <persName key="victor-hugo">Hugo</persName> og traf ham skrivende.
           – Jeg forstyrrer? sagde han. – Nei, men hvad jeg skriver, vil De ikke synes om. – Lad mig
-          ligefuldt høre. <pb n="553"/> – <persName>Hugo</persName> læste disse Linier for ham af
+          ligefuldt høre. <pb n="553"/> – <persName key="victor-hugo">Hugo</persName> læste disse Linier for ham af
           sin »<bibl n="hugo-journal-dun-revolutionnaire-de-1830">Journal d’un révolutionnaire de 1830</bibl>«:</p>
 
         <p>»Republiken, som endnu ikke er moden, men som vil omfatte hele Europa om et Aarhundrede,
@@ -10883,10 +10883,10 @@
           og de Kongevalgte ere for denne Republik kun fire generende Udvæxter, som hurtigt ville
           visne bort og døe.«</p>
 
-        <p>»Der er en Sætning for meget,« sagde <persName>Lamennais</persName>, »den at Republiken
+        <p>»Der er en Sætning for meget,« sagde <persName key="felicite-de-lamennais">Lamennais</persName>, »den at Republiken
           endnu ikke er moden. De sætter den i Fremtiden, men vi burde have den strax.«</p>
 
-        <p>Faa Aar senere var <persName>Lamennais’</persName> Frafald fra Pavedømmet fuldbyrdet. For
+        <p>Faa Aar senere var <persName key="felicite-de-lamennais">Lamennais’</persName> Frafald fra Pavedømmet fuldbyrdet. For
           at vise at han ikke brød med Paven af Vantro, men i Kraft af en ny Forvisning var det, at
           han gav sit berømte Manifest Navn af »<bibl n="lamennais-paroles-dun-croyant">En Troendes Ord</bibl>«
           (1833).<!-- Paroles d’un croyant --></p>
@@ -10972,7 +10972,7 @@
         <p>Abstracte og enstonige ere disse Udsagn og Omkvæd ganske vist, men prægede af den
           Veltalenhed, som gjør et uhyre Indtryk paa Menigmand, og man seer at disse revolutionære
             Stem<pb n="557"/>ningsudbrud ikke mangle meget i at være ren Poesi. De blev det hos
-            <persName>Hugo</persName>.</p>
+            <persName key="victor-hugo">Hugo</persName>.</p>
 
         <p>Læser man hans Digte fra Fyrrerne føler man, hvorledes han med sit Digterøre hører
           Revolutionens Gang og dumpe Larm under Jorden og aner, at den vil aabne sit Krater i
@@ -10985,16 +10985,16 @@
           han i alle sine Værker som Talsmand for Folkenes Frihed, for Demokratiet og for
           Humanitetens Religion. Han var som Dramatiker begyndt med en blot Revolution af
           Kunstformen. Men snart gav han sig til at bruge Dramet i sine Ideers Tjeneste, ganske som
-            <persName>Voltaire</persName> i det forrige Aarhundrede havde anvendt Tragoedien til
+            <persName key="francois-voltaire">Voltaire</persName> i det forrige Aarhundrede havde anvendt Tragoedien til
           Organ for sine. Et af hans Dramer (»<bibl n="hugo-le-roi-samuse">Le roi
           s’amuse</bibl>«<!-- cit start og slut indsat -->) er et Angreb paa den vilkaarlige
-          Kongemagt, rettet mod den brutaleste af Frankrigs kronede Vellystninge, <persName>Frants
+          Kongemagt, rettet mod den brutaleste af Frankrigs kronede Vellystninge, <persName key="frans-1-francois-1er">Frants
             den Første</persName>
           <!-- Frans 1. -->, et andet (»<bibl n="hugo-angelo-tyran-de-padoue">Angelo</bibl>«), hvis Fortale er rent
           saint-simonistisk, stiller Kvinden i Samfundet og Kvinden udenfor Samfundet op imod
           hinanden, tillægger den omvankende Skuespillerinde <pb n="558"/> Dyder, som den fornemme
           Dame mangler, og giver dem hver sin Idealitet, et tredie (»<bibl n="hugo-ruy-blas">Ruy Blas</bibl>«) er den
-          laveste Stands symbolske Tronbestigning. I <persName>Molières</persName> »<bibl n="moliere-les-precieuses-ridicules">Les
+          laveste Stands symbolske Tronbestigning. I <persName key="jean-baptiste-poquelin-moliere">Molières</persName> »<bibl n="moliere-les-precieuses-ridicules">Les
             Précieuses ridicules</bibl>« var Lakaien behandlet som et Dyr eller en Ting, der, hvor
           godt Hoved han end er, kan regaleres med Stokkeprygl, selv naar han kun har adlydt sin
           Herre; kort før den store Revolution havde Scapin forvandlet sig til Figaro, der endnu i
@@ -11003,7 +11003,7 @@
           Dramers store Svagheder, kan man glæde sig ved at indaande det Pust af store Ideer, som
           gaaer igjennem dem.</p>
 
-        <p><persName>Hugo</persName> er af Naturen en saa dogmatisk Aand, at enhver Ideeverden, i
+        <p><persName key="victor-hugo">Hugo</persName> er af Naturen en saa dogmatisk Aand, at enhver Ideeverden, i
           hvilken han i Aarenes Løb er indtraadt, gjerne har krystalliseret sig for ham til et
           System af Doctriner. Til hans Humanitetens Lovbog har fra hans Ungdom af Kampen mod
           Dødsstraffen hørt. Han har leveret digteriske Indlæg mod den i »<bibl n="hugo-le-dernier-jour-dun-condamne">Le dernier jour d’un
@@ -11011,11 +11011,11 @@
           paa Brev, Manifest paa Manifest; han har personligt bedet for de Dødsdømtes Liv, har talt
           deres Sag til franske Konger og fremmede Juryer. Ere Meningerne end meget delte om
           Betimeligheden af Dødsstraffens Ophævelse for vulgære Mordere, saa har
-            <persName>Hugo’s</persName> Bestræbelser <pb n="559"/> for at frelse politiske
+            <persName key="victor-hugo">Hugo’s</persName> Bestræbelser <pb n="559"/> for at frelse politiske
           Forbryderes Liv Krav paa udelt Sympathi. Mere end eet Menneskeliv har han reddet. For at
           nævne det mest kjendte Exempel, saa frelste han ved sin Forbøn i fire rørende Verslinier
-          til <persName>Louis-Philippe</persName> Aarhundredets ædleste Revolutionær
-            <persName>Armand Barbés</persName> fra Skafottet. En saadan Handling bøder paa megen
+          til <persName key="louis-philippe-1">Louis-Philippe</persName> Aarhundredets ædleste Revolutionær
+            <persName key="armand-barbes">Armand Barbés</persName> fra Skafottet. En saadan Handling bøder paa megen
           vidtsvævende Pathos og nogen doctrinær Humanitet.</p>
 
         <p>Det skjønneste og det eneste adæquate Udtryk for Frankrigs største Lyrikers Ideeliv maa
@@ -11028,7 +11028,7 @@
           Denne Kunstform lader sig ikke opløse eller omskrive, man maa glæde sig over den i
           Originalen.</p>
 
-        <p>Med Sandhed kunde <persName>Hugo</persName> i denne Digtsamling udbryde: Jeg har med
+        <p>Med Sandhed kunde <persName key="victor-hugo">Hugo</persName> i denne Digtsamling udbryde: Jeg har med
           Bøger, i Skuespil, paa Prosa og i Vers talt de Smaas og de Elendiges Sag; jeg har prædiket
           Mildhed mod alle dem, som Menneskeheden fordømmer; jeg har fordret Rettigheder for Kvinden
           og for Barnet; jeg <pb n="560"/> har raabt: Giv dem Kundskab, giv dem Ord, giv dem Skrift!
@@ -11063,7 +11063,7 @@
           Ror; <pb n="561"/> saint-simonistiske, nychristelige, poetiske Ideer istedenfor politiske
           i Frankrigs Raad! Hvor talende er ikke et saadant lille Træk som det, at en af den
           provisoriske Regjerings første Handlinger var den paa Forslag af
-            <persName>Lamartine</persName> at erklære Negerslaveriet for ophævet! I Revolutionen af
+            <persName key="alphonse-de-lamartine">Lamartine</persName> at erklære Negerslaveriet for ophævet! I Revolutionen af
           1848 udmunder det romantiske Frankrigs Ideestrøm.</p>
       </div>
       <div>
@@ -11121,7 +11121,7 @@
           Periode, som 1830-Tidens, hvor som ved et Trylleslag en hel Gruppe af rige Talenter opstod
           samtidigt, hvor Alt, hvad der havde Aand og Fantasi, følte sig draget til Poesien og
           Kunsten, hvor den Hæder, der ad kunstnerisk Vei kunde vindes, straalede saa tillokkende
-          for Ungdommens Øine, som under <persName>Napoleon</persName> Krigshæderen, og hvor det dog
+          for Ungdommens Øine, som under <persName key="napoleon-1">Napoleon</persName> Krigshæderen, og hvor det dog
           var vanskeligere end nogensinde ikke at overstraales, hvor endelig Had til de banede Veie
           og det rolige, borgerlige Liv betragtedes som Betingelse for at kunne udrette noget i
           Kunsten, medens Løsenet var at elske og elskes med fortærende Lidenskab, skrive et
@@ -11129,34 +11129,34 @@
 
         <p>Naar man lader Blikket glide hen over denne Valplads, hvor de Uberømte have udaandet, saa
           ligge de stakkels glemte Talenter der i tætte Rækker. Der er rige, kraftigt udviklede
-          Begavelser, som <persName>Eusèbe de Salles</persName> (født i
+          Begavelser, som <persName key="eusebe-comte-de-salles">Eusèbe de Salles</persName> (født i
           <placeName key="marseille">Marseille</placeName> 1801), Greve, Læge, Orientreisende, Professor i
           Arabisk, hvis Roman »<bibl n="salles-sakontala-a-paris">Sakontala à Paris</bibl>« (1833) er en af Periodens
           talentfuldeste og originaleste psychologiske Skildringer, og som aldrig med nogen af sine
           Bøger opnaaede endog blot et andet <pb n="565"/> Oplag, endsige Anseelse og Ry, og det
           skjøndt han blandt sin Ungdoms Minder havde en Søndagaften hos
-          <persName>Nodier</persName>, hvor han og <persName>Hugo</persName> i lige Grad vare Dagens
+          <persName key="charles-nodier">Nodier</persName>, hvor han og <persName key="victor-hugo">Hugo</persName> i lige Grad vare Dagens
           Helte. – Der er Regnier-Destourbet, hvis Roman »<bibl n="regnier-destourbet-louise">Louise</bibl>«, som er tilegnet
-            <persName>Janin</persName> og maaskee skylder ham noget, behandler et pinligt Stof med
-          Aandsoverlegenhed og Finhed. – Der er <persName>Charles Dovalle</persName>, som faldt i
+            <persName key="jules-janin">Janin</persName> og maaskee skylder ham noget, behandler et pinligt Stof med
+          Aandsoverlegenhed og Finhed. – Der er <persName key="charles-dovalle">Charles Dovalle</persName>, som faldt i
           Duel kun tyve Aar gammel, men hvis Digtsamling »<bibl n="dovalle-le-sylphe">Le Sylphe</bibl>« allerede røbede et
-          Talent, som <persName>Victor Hugo</persName> med Varme anerkjendte og som han priste efter
-          Digterens Død. – Der er <persName>Eugène Hugo</persName>, <persName>Victors</persName>
+          Talent, som <persName key="victor-hugo">Victor Hugo</persName> med Varme anerkjendte og som han priste efter
+          Digterens Død. – Der er <persName key="eugene-hugo">Eugène Hugo</persName>, <persName key="victor-hugo">Victors</persName>
           ældre tungsindige Broder, hans tro Kammerat og Ven, der udrustet med en beslægtet om end
           meget ringere lyrisk Evne gjorde Romantismens første Felttog med ved hans Side, men som
           allerede 1837 døde i Vanvid. – Der er saa distingueret og adeligt et Talent som
-            <persName>Fontaney’s</persName> sporløst glemt. Digteren var en af
-            <persName>Hugos</persName> Trofaste, en Tidlang Legationssecretær i
+            <persName key="antoine-fontaney">Fontaney’s</persName> sporløst glemt. Digteren var en af
+            <persName key="victor-hugo">Hugos</persName> Trofaste, en Tidlang Legationssecretær i
           <placeName key="madrid">Madrid</placeName>, en stolt, discret og fin Natur. I sin Novelle
           »<bibl n="fontaney-adieu">Adieu</bibl>« (»<bibl n="revue-des-deux-mondes">Revue des deux mondes</bibl>« 1832) har han fortalt et af
-          sit eget Livs smertefulde, romantiske Eventyr; i <persName>George Sand’s</persName> Levnet
+          sit eget Livs smertefulde, romantiske Eventyr; i <persName key="george-sand">George Sand’s</persName> Levnet
           er den Hjertesorg antydet, der i 1837 voldte hans Død. – Der er fine, zarte lyriske
-          Begavelser som <persName>Félix Arvers</persName>, hvis Navn nu kun knytter sig til en
-          yndefuld Sonet, eller som <persName>Labenski</persName>, af hvem kun en Ode erindres,
-          eller som <persName>Ernest Fouinet</persName>, der skrev Sonetten »<bibl n="fouinet-a-deux-heureux">A deux
-            heureux</bibl>« i Marginen <pb n="566"/> af den Udgave af <persName>Ronsard</persName>,
-          som alle Skolens Digtere paa <persName>Sainte-Beuves</persName> Foranledning skjænkede
-            <persName>Victor Hugo</persName>, og til hvis poetiske Udstyrelse de alle gave Bidrag.
+          Begavelser som <persName key="felix-arvers">Félix Arvers</persName>, hvis Navn nu kun knytter sig til en
+          yndefuld Sonet, eller som <persName key="xavier-jean-polonius-labenski">Labenski</persName>, af hvem kun en Ode erindres,
+          eller som <persName key="ernest-fouinet">Ernest Fouinet</persName>, der skrev Sonetten »<bibl n="fouinet-a-deux-heureux">A deux
+            heureux</bibl>« i Marginen <pb n="566"/> af den Udgave af <persName key="pierre-de-ronsard">Ronsard</persName>,
+          som alle Skolens Digtere paa <persName key="charles-augustin-sainte-beuve">Sainte-Beuves</persName> Foranledning skjænkede
+            <persName key="victor-hugo">Victor Hugo</persName>, og til hvis poetiske Udstyrelse de alle gave Bidrag.
           Er han end nutildags helt glemt, saa burde dog den Linie af ham frelses fra
           Forglemmelse:</p>
 
@@ -11170,13 +11170,13 @@
 
         <p>Thi at Røgelsen maa gløde for at kunne dufte, det er i en Sætning hele Romantismens
           Poetik. – Man finder stakkels saint-simonistiske Poeter som
-          <persName>Poyat</persName><!-- Édouard Pouyat -->, Satirikere som <persName>Théophile
+          <persName key="poyat">Poyat</persName><!-- Édouard Pouyat -->, Satirikere som <persName key="theophile-de-ferriere">Théophile
             Ferrière</persName>, der skrev Spotterier over de unge Romantikeres Udskeielser i Stil
-          med <persName>Gautiers</persName> »<bibl n="gautier-les-jeune-france-romans-goguenards">Les Jeune-France</bibl>« og som i sin »<bibl n="ferriere-lord-chatterton">Lord
-            Chatterton</bibl>« gav <persName>de Vigny’s</persName> Drama en parodierende
-          Fortsættelse. – Man møder endelig Navne som <persName>Ulric
+          med <persName key="theophile-gautier">Gautiers</persName> »<bibl n="gautier-les-jeune-france-romans-goguenards">Les Jeune-France</bibl>« og som i sin »<bibl n="ferriere-lord-chatterton">Lord
+            Chatterton</bibl>« gav <persName key="alfred-de-vigny">de Vigny’s</persName> Drama en parodierende
+          Fortsættelse. – Man møder endelig Navne som <persName key="ulric-guttinguer">Ulric
           Guttinger’s</persName><!-- Guttinguer, Ulric -->, der nu ene og alene huskes, fordi
-            <persName>Musset</persName> i sine første Poesier har tilegnet ham et ungdommeligt
+            <persName key="alfred-de-musset">Musset</persName> i sine første Poesier har tilegnet ham et ungdommeligt
           beundrende Digt.</p>
 
         <p>For imidlertid at give et nogenlunde levende Indtryk af disse Skjæbnens Stedbørn vil jeg
@@ -11185,7 +11185,7 @@
           mærkværdig Tydelighed netop i dem, der paa Grund af Extravagance eller Bizarritet ikke
           formaaede at trænge igjennem. <pb n="567"/></p>
 
-        <p>Den første, jeg vil nævne er <persName>Ymbert Galloix</persName>, ikke fordi han er en
+        <p>Den første, jeg vil nævne er <persName key="ymbert-galloix">Ymbert Galloix</persName>, ikke fordi han er en
           Størrelse, men fordi han er en Type. Han var en fattig Yngling fra
           <placeName key="geneve">Genf</placeName>, Søn af en Skolelærer, med en fortrinlig Dannelse og
           ualmindelige Evner, som uden Penge nok i Lommen til blot en Maaneds Underhold reiste fra
@@ -11195,9 +11195,9 @@
 
         <p>Hans første Veie i <placeName key="paris">Paris</placeName> gik ud til
           <placeName key="arsenal-de-paris">Arsenalet</placeName><!-- Bibliothèque de l'Arsenal -->, til
-            <persName>Charles Nodier</persName>, den nye Skoles Patriarch, til
-            <persName>Hugo</persName>, dens Høvding, til <persName>Sainte-Beuve</persName>, dens
-          Fanebærer. <persName>Hugo</persName> har beskrevet hans første Besøg; jeg sammentrænger
+            <persName key="charles-nodier">Charles Nodier</persName>, den nye Skoles Patriarch, til
+            <persName key="victor-hugo">Hugo</persName>, dens Høvding, til <persName key="charles-augustin-sainte-beuve">Sainte-Beuve</persName>, dens
+          Fanebærer. <persName key="victor-hugo">Hugo</persName> har beskrevet hans første Besøg; jeg sammentrænger
           Skildringen:</p>
 
         <p>»Det var i October 1827, en kold Morgenstund, at en høi ung Mand traadte ind til mig. Han
@@ -11251,24 +11251,24 @@
           jomfruelig Idee i sit Hoved. Saa udførte han Arbeider for Boghandlerne, skrev Recensioner,
           Biografier, til han væmmedes derved. Da han i sit 22de Aar udaandede, havde han længe
           levet i den dybeste Ligegyldighed for Omverdenen og uden nogen Tro til sit eget Talent.
-          Han lod sig døe.<note place="bottom"><persName>Ymbert Galloix</persName>: »<bibl n="galloix-poesies">Poésies
+          Han lod sig døe.<note place="bottom"><persName key="ymbert-galloix">Ymbert Galloix</persName>: »<bibl n="galloix-poesies">Poésies
             posthumes</bibl>«<!-- cit start og slut indsat --> udkom i <placeName key="geneve">Genf</placeName>
             1834. Her er ved en Feiltagelse – thi et Plagiat vilde det være urimeligt at antage –
-            <persName>Sainte-Beuves</persName> Digt »<bibl n="sainte-beuve-le-suicide">Suicide</bibl>« optaget blandt
-              <persName>Galloix’s</persName>.</note></p>
+            <persName key="charles-augustin-sainte-beuve">Sainte-Beuves</persName> Digt »<bibl n="sainte-beuve-le-suicide">Suicide</bibl>« optaget blandt
+              <persName key="ymbert-galloix">Galloix’s</persName>.</note></p>
 
-        <p>Jeg gaaer over til mere gediegne og betydelige Aander. Jeg vælger tre: <persName>Louis
-            Bertrand</persName>, <persName>Petrus Borel</persName> og <persName>Théophile
+        <p>Jeg gaaer over til mere gediegne og betydelige Aander. Jeg vælger tre: <persName key="louis-ludovic-aloysius-bertrand">Louis
+            Bertrand</persName>, <persName key="petrus-borel">Petrus Borel</persName> og <persName key="theophile-dondey">Théophile
             Dondey</persName>. Det er Navne, som da Digterne, der bar dem, var ilive, ikke kjendtes
           af noget Publicum, men som nu kjendes af mangen en Litteraturelsker i og udenfor Frankrig.
           Deres Bøger optrykkes i Luxusudgaver paa hollandsk Papir, og Originaludgaverne betragtes,
-          især siden <persName>Charles Asselineau</persName> har gjenvakt Interessen for dem, som
+          især siden <persName key="charles-asselineau">Charles Asselineau</persName> har gjenvakt Interessen for dem, som
           Værdipapirer, hvis Værd bestandig <pb n="571"/> stiger. I levende Live kunde de stakkels
           Fyre efter faa Aars Forløb ikke mere finde nogen Forlægger; nu efterlignes
           samvittighedsfuldt selv Vignet og Titelblad paa deres første Skrifter, der i
           Salgskataloger noteres med Tilføielsen »sjelden og kostbar«.</p>
 
-        <p><persName>Louis Bertrand</persName>, født 1807 i <placeName key="dijon">Dijon</placeName>, som han
+        <p><persName key="louis-ludovic-aloysius-bertrand">Louis Bertrand</persName>, født 1807 i <placeName key="dijon">Dijon</placeName>, som han
           saa smukt har besunget, mest kjendt under Pseudonymet Gaspard de la Nuit, <app>
             <lem>repræsenterer</lem>
             <rdg wit="A">repræsenter</rdg>
@@ -11280,43 +11280,43 @@
           gjennem et Sold, udrenset alle de Ord, hvis Klang var dump, hvis Farve var sløvet, hvis
           Præg var slidt, og i sin Kunsts Tjeneste kun anvendt dem, der havde malerisk Værd og
           musikalsk Valuta. I et Digt maa der, for Rims og Rhytmes Skyld, altid være nogle Flik-Ord
-          – saa faa som muligt – <persName>Bertrands</persName> Kunst beroer paa, at ethvert
+          – saa faa som muligt – <persName key="louis-ludovic-aloysius-bertrand">Bertrands</persName> Kunst beroer paa, at ethvert
           fyldende eller snyltende Ord er banlyst af hans Stil. Hans Livs Arbeid tilhører en Genre,
           som han har opfundet og som er død med ham; han har i Prosa skrevet ganske smaa, aldrig
           mere end et Par <pb n="572"/> Sider optagende Skildringer snart i
-            <persName>Rembrandt’s</persName>, snart i <persName>Callots</persName>, snart i
-            <persName>Fløiels-Breughels</persName>, snart i <persName>Gerard
-          Dow’s</persName><!-- Dou, Gerard -->, snart i <persName>Salvator Rosa’s</persName> Manér;
+            <persName key="rembrandt">Rembrandt’s</persName>, snart i <persName key="jacques-callot">Callots</persName>, snart i
+            <persName>Fløiels-Breughels</persName>, snart i <persName key="gerard-dou">Gerard
+          Dow’s</persName><!-- Dou, Gerard -->, snart i <persName key="salvator-rosa">Salvator Rosa’s</persName> Manér;
           de bedste iblandt dem ere fuldendte som et Billed af disse Mestre.</p>
 
         <p>I 1828, i den romantiske Bevægelses første, rent upolitiske Periode var han med at grunde
-          et litterært Organ i sin Fødeby. <persName>Bertrands</persName> Bidrag til »<bibl n="le-provincial">Le
-            Provincial</bibl>« vakte de store Pariseres, <persName>Chateaubriands</persName>,
-            <persName>Nodiers</persName>, <persName>Victor Hugo’s</persName> Opmærksomhed, og snart
+          et litterært Organ i sin Fødeby. <persName key="louis-ludovic-aloysius-bertrand">Bertrands</persName> Bidrag til »<bibl n="le-provincial">Le
+            Provincial</bibl>« vakte de store Pariseres, <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName>,
+            <persName key="charles-nodier">Nodiers</persName>, <persName key="victor-hugo">Victor Hugo’s</persName> Opmærksomhed, og snart
           droges han saaledes til Hovedstaden, at han bestandig laa paa Reise mellem
           <placeName key="dijon">Dijon</placeName> og <placeName key="paris">Paris</placeName>. Han holdt sit Indtog kun
-          21 Aar gammel en Søndagaften hos <persName>Charles Nodier</persName>, hvor han fik Lov at
+          21 Aar gammel en Søndagaften hos <persName key="charles-nodier">Charles Nodier</persName>, hvor han fik Lov at
           læse en Ballade høit. Her gjorde han Bekjendtskab med dennes hele Kreds, men tyede især
-          til <persName>Sainte-Beuve</persName>, der blev hans Raadgiver; hos ham boede han under
+          til <persName key="charles-augustin-sainte-beuve">Sainte-Beuve</persName>, der blev hans Raadgiver; hos ham boede han under
           sine korte Ophold i <placeName key="paris">Paris</placeName>, og ham gav han sine Manuscripter i
           Forvaring. Han var keitet som en Provindsbo og exalteret som en Dilettant, men man anede
           Poeten, naar man saa Ilden i de smaa, sorte Øines sky og flakkende Blik.</p>
 
-        <p>Strax efter Julirevolutionen kastede <persName>Bertrand</persName> sig ind i Politiken og
+        <p>Strax efter Julirevolutionen kastede <persName key="louis-ludovic-aloysius-bertrand">Bertrand</persName> sig ind i Politiken og
           sluttede sig til den yderligst gaaende Opposition. Som ægte Søn af en af Republikens og
           Keiserdømmets gamle Soldater gav han den krigerske Enthousiasme, han hidtil var brændt
           inde med, Luft i Polemik mod det her<pb n="573"/>skende Bourgeoisie. Han var kun 23 Aar
           gammel, og et Blad af Modpartiet havde taget Anledning af hans Ungdom til at behandle ham
           dobbelt haanligt. Han tvang Redacteuren til i Bladet selv at optage et Svar, hvori det
           hedder: »Jeg foretrækker Eders Haan for Eders Ros. Eders Ros vilde være af saare ringe
-          Betydning efter det Bifald, hvormed <persName>Victor Hugo</persName>,
-            <persName>Sainte-Beuve</persName>, <persName>Ferdinand Denis</persName> o. fl. have
+          Betydning efter det Bifald, hvormed <persName key="victor-hugo">Victor Hugo</persName>,
+            <persName key="charles-augustin-sainte-beuve">Sainte-Beuve</persName>, <persName key="ferdinand-denis">Ferdinand Denis</persName> o. fl. have
           opmuntret mit Talent. Da I tvinge mig til det, vil jeg overfor Eders Uforskammenheder
-          citere nogle Ord, som Geniet selv har værdigedes at sende mig. <persName>Victor
+          citere nogle Ord, som Geniet selv har værdigedes at sende mig. <persName key="victor-hugo">Victor
             Hugo</persName> skriver til mig: Jeg læser Deres Vers høit i en Vennekreds som jeg læser
-            <persName>André Chénier’s</persName>, <persName>Lamartine’s</persName> eller
-            <persName>de Vigny’s</persName>; det er umuligt i høiere Grad at være i Besiddelse af
-          Formens Hemmeligheder o. s. v. – Saaledes skriver <persName>Hugo</persName> til den Mand,
+            <persName key="andre-de-chenier">André Chénier’s</persName>, <persName key="alphonse-de-lamartine">Lamartine’s</persName> eller
+            <persName key="alfred-de-vigny">de Vigny’s</persName>; det er umuligt i høiere Grad at være i Besiddelse af
+          Formens Hemmeligheder o. s. v. – Saaledes skriver <persName key="victor-hugo">Hugo</persName> til den Mand,
           De vover at kalde en Commis. Det er sandt, at jeg ikke har den Ære at nedstamme fra en
           eller anden adelig Spytslikker, og at jeg ikke er valgbar eller Vælger [ɔ: ikke af de
           høitbeskattede]. Min Fader var kun en Patriot fra 1789, en Lykkeridder, som atten Aar
@@ -11326,24 +11326,24 @@
           Redacteur, ikke turde see dragen.« <pb n="574"/></p>
 
         <p>Det er fransk Journaliststil fra 1832, visselig ikke beskeden, men ikke forknyt.
-            <persName>Bertrand</persName> hørte til den Gruppe af unge Mænd, som hvis politiske
-          Høvding <persName>Godefroy Cavaignac</persName> kan betragtes og som i Datidens Jargon fik
-          Navnet »Les bousingots« (Matroshattene), de samme, hvem <persName>George Sand</persName> i
-          »<bibl n="sand-horace">Horace</bibl>« omtaler med Varme. Hos <persName>Bertrand</persName> var den
+            <persName key="louis-ludovic-aloysius-bertrand">Bertrand</persName> hørte til den Gruppe af unge Mænd, som hvis politiske
+          Høvding <persName key="godefroy-cavaignac">Godefroy Cavaignac</persName> kan betragtes og som i Datidens Jargon fik
+          Navnet »Les bousingots« (Matroshattene), de samme, hvem <persName key="george-sand">George Sand</persName> i
+          »<bibl n="sand-horace">Horace</bibl>« omtaler med Varme. Hos <persName key="louis-ludovic-aloysius-bertrand">Bertrand</persName> var den
           republikanske Djærvhed mærkværdigt blandet med Romantismens yderste kunstneriske
           Overforfinelse.</p>
 
-        <p><persName>Louis Bertrand</persName> naaede aldrig frem til at vinde Hæder. Han var
+        <p><persName key="louis-ludovic-aloysius-bertrand">Louis Bertrand</persName> naaede aldrig frem til at vinde Hæder. Han var
           begyndt for voldsomt, havde ikke opsparet sin Kraft. Fattig og overanstrængt af Arbeid for
           at ernære sin Moder og sin Søster døde han alt i 1841 paa et Hospital i
-            <placeName key="paris">Paris</placeName>. <persName>David d’Angers</persName>, den store romantiske
+            <placeName key="paris">Paris</placeName>. <persName key="pierre-jean-david-dangers">David d’Angers</persName>, den store romantiske
           Billedhugger, der trofast havde siddet ved den Syges Seng, lod fra sit Hjem hente et fint
           hvidt Lagen at lægge Liget i, og han var den eneste som fulgte
-            <persName>Bertrand</persName> til Graven.<note place="bottom">Se <persName>David
-              d’Angers</persName> sjælfulde Brev om <persName>Bertrands</persName> Død i
-              <persName>Charles Asselineau</persName>: »<bibl n="asselineau-melanges-tires-dune-petite-bibliotheque-romantique">Mélanges tirés d’une petite
+            <persName key="louis-ludovic-aloysius-bertrand">Bertrand</persName> til Graven.<note place="bottom">Se <persName key="pierre-jean-david-dangers">David
+              d’Angers</persName> sjælfulde Brev om <persName key="louis-ludovic-aloysius-bertrand">Bertrands</persName> Død i
+              <persName key="charles-asselineau">Charles Asselineau</persName>: »<bibl n="asselineau-melanges-tires-dune-petite-bibliotheque-romantique">Mélanges tirés d’une petite
               bibliothèque romantique</bibl>«<!-- cit start og slut indsat --> 181 ff.</note>
-          <persName>David</persName> satte ham et Mindesmærke; <persName>Sainte-Beuve</persName> og
+          <persName key="pierre-jean-david-dangers">David</persName> satte ham et Mindesmærke; <persName>Sainte-Beuve</persName> og
           <persName>Victor Pavie</persName> udgav hans »<bibl n="bertrand-gaspard-de-la-nuit">Gaspard de la Nuit</bibl>«. I 1842
           solgtes med Nød og Neppe tyve Exemplarer; men i 1868 har den romantiske Bibliofil
             <persName>Charles Asselineau</persName> foranstaltet en Luxus-Udgave. <pb n="575"/></p>
@@ -11391,23 +11391,23 @@
           saaledes ganske vist af <persName>Théophile Gautier</persName>, der med sit langt
           omfangsrigere Talent bragte ham i Glemme; men ingen Kjenders Blik vil det undgaae, at der
           hos <persName>Bertrand</persName> var noget Udsøgt, noget uendelig Sjælfuldt, som
-            <persName>Gautier</persName> med sin koldere Plastik ikke kunde naae.</p>
+            <persName key="theophile-gautier">Gautier</persName> med sin koldere Plastik ikke kunde naae.</p>
 
-        <p>Vi have allerede oftere nævnet <persName>Petrus Borel</persName>, hvis simple Hjem en Tid
-          lang var Hovedkvarteret for <persName>Victor Hugos</persName> unge Venner. Han var paa een
-          Gang Kunstner og Digter, arbeidede som Maler i <persName>Dévéria’s</persName> Atelier og
+        <p>Vi have allerede oftere nævnet <persName key="petrus-borel">Petrus Borel</persName>, hvis simple Hjem en Tid
+          lang var Hovedkvarteret for <persName key="victor-hugo">Victor Hugos</persName> unge Venner. Han var paa een
+          Gang Kunstner og Digter, arbeidede som Maler i <persName key="eugene-deveria">Dévéria’s</persName> Atelier og
           skrev under Navnet le Lycanthrope (Varulven) udfordrende Poesier. Han indgjød de Andre en
           stor Respekt. Han lignede en Spanier eller Araber fra det 15de Aarhundrede, og naar hans
-          Kammerater gik hjem fra Theatret efter at have seet den i <persName>Delavigne’s</persName>
-          eller <persName>Scribes</persName> Roller uddannede Skuespiller
-            <persName>Firmin</persName> som <persName type="fictional" key="hernani">Hernani</persName>, hvor ofte beklagede de da ikke, at det ikke var
-            <persName>Petrus</persName><!-- Petrus Borel -->, hvem man havde givet denne ideale
+          Kammerater gik hjem fra Theatret efter at have seet den i <persName key="casimir-jean-francois-delavigne">Delavigne’s</persName>
+          eller <persName key="eugene-scribe">Scribes</persName> Roller uddannede Skuespiller
+            <persName key="francois-becquerelle-firmin">Firmin</persName> som <persName type="fictional" key="hernani">Hernani</persName>, hvor ofte beklagede de da ikke, at det ikke var
+            <persName key="petrus-borel">Petrus</persName><!-- Petrus Borel -->, hvem man havde givet denne ideale
           Bandit at spille. Hvor vilde han ikke have slaaet ned paa Scenen som en Kongeglente, hvor
           smuk vilde han ikke have været med det <pb n="577"/> røde Tørklæde om Hovedet, klædt i
           Læderkyradset med de grønne Ærmer! Intet Under, han var jo i hele sit Følelsesliv en af
           Originalerne til Rollen.</p>
 
-        <p><persName>Borel’s</persName> Digtsamling »<bibl n="borel-rhapsodies">Rapsodies</bibl>« er en saare ung og
+        <p><persName key="petrus-borel">Borel’s</persName> Digtsamling »<bibl n="borel-rhapsodies">Rapsodies</bibl>« er en saare ung og
           umoden Bog; den indeholder mellem værdifulde Digte barnagtige Protester og Forbandelser;
           men den røber, at der ikke var noget stoltere Hjerte end dens Forfatter i den hele
           romantiske Gruppe. Der er noget af Fattigdommens Fortvivlelse, noget af Kunstnerhjertets
@@ -11423,14 +11423,14 @@
                 </lg></quote>
             </cit>
           </note> Man finder her det hele Følelsesliv i Virkeligheden, der af
-          <persName>Dumas</persName> blev sat i Scene i »<bibl n="dumas-den-aeldre-antony">Antony</bibl>«. Allerede
-          Udstyrelsen er betegnende. Paa Titelkobberet sees <persName>Borel</persName> selv siddende
+          <persName key="alexandre-dumas-den-aeldre">Dumas</persName> blev sat i Scene i »<bibl n="dumas-den-aeldre-antony">Antony</bibl>«. Allerede
+          Udstyrelsen er betegnende. Paa Titelkobberet sees <persName key="petrus-borel">Borel</persName> selv siddende
           ved sit Bord med frygisk Hue paa Hovedet, Hals og Arme blottede og med en bredbladet Dolk
           i Haanden, som han i dybe Tanker betragter. Bogens Fortale giver et levende Indtryk af
           Tonen i den republikanske Fraction af den romantiske Ungdom i 1832. Det hedder her: <pb n="578"/></p>
 
         <p>»Hvis Nogen skulde spørge, om jeg er Republikaner, saa svarer jeg frit: Ja jeg er. Men
-          lad ham hellere spørge <persName>Hertugen af Orleans</persName><!-- Ludvig-Filip -->
+          lad ham hellere spørge <persName key="louis-philippe">Hertugen af Orleans</persName><!-- Ludvig-Filip -->
           [Kongen], om han husker den Stemme, der den 9de August, da han red hen at aflægge Ed til
           Ex-Kammeret, forfulgte ham med at raabe op i Ansigtet paa ham: Frihed og Republik! Frihed
           og Republik! midt under et bedraget Folks Jubelraab. Men naar jeg taler om Republik, saa
@@ -11450,16 +11450,16 @@
             Putiphar</bibl>« er Heltindens, <persName type="fictional" key="borel-madame-pompadour">Madame Pompadours</persName> Charakter forvansket af Forfatterens republikanske Harme.
           Roccoco-Tidens letfærdige, kunstelskende Muse, der havde en lille letsindig Forkjærlighed
           for Tankens Frihed, som beskyttede Encyclopædisterne og raderede under Veiledning af
-            <persName>Boucher</persName>, er gjort til en Megære, der kaster sig om Halsen paa en
+            <persName key="francois-boucher">Boucher</persName>, er gjort til en Megære, der kaster sig om Halsen paa en
           fremmed Mand, som ikke vil vide af hende, og der straffer ham for hans Kulde med
           underjordisk Fængsel i <placeName key="bastillen">Bastillen</placeName>. Bogen hæver sig først mod
-          Slutningen. Bastillens Indtagelse, et Æmne, der ret laa for <persName>Borel</persName>, er
+          Slutningen. Bastillens Indtagelse, et Æmne, der ret laa for <persName key="petrus-borel">Borel</persName>, er
           fremstilt i en livfuld og ildfuld Stil, der lugter af Krudtet.</p>
 
         <p>Det tredie af hans Skrifter er »<bibl n="borel-champavert-contes-immoraux">Champavert, contes immoraux</bibl>« fra 1833. Bogen
           gjorde ikke ringeste Opsigt eller Lykke, indbragte ikke engang dens Forfatter et tarveligt
           Honorar, og Skjæbnens Uretfærdighed lader sig forstaae; thi nogle af disse Noveller ere
-          fordærvede ved <persName>Borels</persName> tidligste, tænderskjærende Stil. Men i de
+          fordærvede ved <persName key="petrus-borel">Borels</persName> tidligste, tænderskjærende Stil. Men i de
           bedste er Vreden behersket, kunstnerisk behandlet som man behandler Lava kunstnerisk, naar
           man skjærer Cameer deraf. Det er altid Rædsler, disse Fortællinger dreie sig om, Rædsler,
           saa afskyelige, saa unævnelige, at de netop derved kunne be<pb n="580"/>gaaes, eftersom
@@ -11495,12 +11495,12 @@
         <p>Holla <persName type="fictional" key="borel-martin">Martin</persName>, holla <persName type="fictional" key="borel-lefabre">Lefabre</persName>, kom ind og smid ham ud!</p>
 
         <p>Scenerne i Jødekvarteret og Scenerne i Baaden ere uovertrufne i deres skjærende Sandhed.
-            <persName>Heine</persName> har ikke givet noget bedre Billede af jødisk Liv i
-          Middelalderen end her <persName>Borel</persName>.</p>
+            <persName key="heinrich-heine">Heine</persName> har ikke givet noget bedre Billede af jødisk Liv i
+          Middelalderen end her <persName key="petrus-borel">Borel</persName>.</p>
 
-        <p>I Aaret 1846 hjalp <persName>Théophile Gautier</persName> gjennem den indflydelsesrige
-            <persName>Madame de Girardin</persName>
-          <persName>Borel</persName> for en kort Tid ud af hans Elendighed. Han blev udnævnt til
+        <p>I Aaret 1846 hjalp <persName key="theophile-gautier">Théophile Gautier</persName> gjennem den indflydelsesrige
+            <persName key="madame-de-girardin">Madame de Girardin</persName>
+          <persName key="petrus-borel">Borel</persName> for en kort Tid ud af hans Elendighed. Han blev udnævnt til
           Colonisations-Inspektør dybt inde i Algier i Nærheden af
           <placeName key="mostaganem">Mostaganem</placeName>. Fra dette lille usle Embede, i hvilket han med sin
           Varulve-Naturs Menneskesky havde følt sig ret vel tilpas, blev han dog snart afsat, fordi
@@ -11508,40 +11508,40 @@
           Staten. Han saa aldrig Frankrig igjen; han døde i Afrika, Nogle sige af et Solstik, Andre
           af Sult.</p>
 
-        <p>Det er alt berørt, at <persName>Mérimée</persName> optog den Genre, hvori han har
+        <p>Det er alt berørt, at <persName key="prosper-merimee">Mérimée</persName> optog den Genre, hvori han har
           skrevet, og i sine Mesternoveller behandlede grelle Stoffer med fastere Haand. Dog hos
-            <persName>Mérimée</persName> slugte Verdensmands<pb n="582"/>ironien og
-          Hofmandselegancen den Lidenskab, der var Styrken hos <persName>Petrus Borel</persName>.
-          Hos <persName>Mérimée</persName> finde vi nogle enkelte af de Udfordringer,
-            <persName>Borel</persName> havde tilslynget sin Tids Samfund, omskrevne i et saadant
-          Sprog, at de bleve mulige paa et Salonbord. Den Flamme, der hos <persName>Petrus
-            Borel</persName> brændte i Sjælens Allerhelligste, gik ikke i Arv.<note place="bottom">Se <persName>Borel</persName>:
+            <persName key="prosper-merimee">Mérimée</persName> slugte Verdensmands<pb n="582"/>ironien og
+          Hofmandselegancen den Lidenskab, der var Styrken hos <persName key="petrus-borel">Petrus Borel</persName>.
+          Hos <persName key="prosper-merimee">Mérimée</persName> finde vi nogle enkelte af de Udfordringer,
+            <persName key="petrus-borel">Borel</persName> havde tilslynget sin Tids Samfund, omskrevne i et saadant
+          Sprog, at de bleve mulige paa et Salonbord. Den Flamme, der hos <persName key="petrus-borel">Petrus
+            Borel</persName> brændte i Sjælens Allerhelligste, gik ikke i Arv.<note place="bottom">Se <persName key="petrus-borel">Borel</persName>:
               »<bibl n="borel-rhapsodies">Rapsodies</bibl>«<!-- cit start og slut indsat -->.
               <placeName key="bruxelles">Bruxelles</placeName> 1868; »<bibl n="borel-madame-putiphar">Madame
             Putiphar</bibl>«<!-- cit start og slut indsat -->. <placeName key="paris">Paris</placeName> 1878. Af
-              »<bibl n="borel-champavert-contes-immoraux">Champavert</bibl>« kjender jeg kun Originaludgaven. – <persName>Jules
+              »<bibl n="borel-champavert-contes-immoraux">Champavert</bibl>« kjender jeg kun Originaludgaven. – <persName key="jules-claretie">Jules
                 Clarétie</persName>: »<bibl n="claretie-petrus-borel-le-lycanthrope">Petrus Borel, le
             Lycanthrope</bibl>«<!-- cit start og slut indsat -->. 1865.</note></p>
 
         <p>Den sidste af disse unge, tidligt tilintetgjorte Digtere, jeg vilde nævne, er
-            <persName>Théophile Dondey</persName>, kaldet <persName>Philothée
+            <persName key="theophile-dondey">Théophile Dondey</persName>, kaldet <persName key="theophile-dondey">Philothée
           O’Neddy</persName>.</p>
 
-        <p><persName>O’Neddy</persName> fødtes 1811 og debuterede 1833 med Digtsamlingen »<bibl n="dondey-feu-et-flamme">Feu
+        <p><persName key="theophile-dondey">O’Neddy</persName> fødtes 1811 og debuterede 1833 med Digtsamlingen »<bibl n="dondey-feu-et-flamme">Feu
             et flamme</bibl>«, som Publicum, der netop paa hin Tid svælgede i en Overflod af
           fortrinlige Poesier, vragede saa fuldstændigt, at Digteren, der havde maattet lade Bogen
           trykke paa sin Bekostning, der fremdeles var yderst fattig og maatte ernære sin Moder ved
           at paatage sig et lille Embede i Finansministeriet, tabte Modet og Muligheden til
           nogensinde oftere at træde op for Offentligheden. Han trak sig som et saaret Dyr ind i sin
-          Hule. Da <persName>Gautier</persName> tredive Aar senere gjensaa ham med graanede Haar og
+          Hule. Da <persName key="theophile-gautier">Gautier</persName> tredive Aar senere gjensaa ham med graanede Haar og
           hilste ham med Spørgsmaalet: »Naar kommer den næste Digtsamling?« svarede den gamle
-            <persName>O’Neddy</persName> med et Suk: »Naar der ingen Spidsborgere findes mere«. <pb n="583"/> Man kunde troe hans Productivitet udslukt. Men da han var død, fandtes efter
-          ham tykke Bunker af den skjønneste Lyrik; <persName>Ernest Havet</persName> udgav det Alt,
+            <persName key="theophile-dondey">O’Neddy</persName> med et Suk: »Naar der ingen Spidsborgere findes mere«. <pb n="583"/> Man kunde troe hans Productivitet udslukt. Men da han var død, fandtes efter
+          ham tykke Bunker af den skjønneste Lyrik; <persName key="ernest-havet">Ernest Havet</persName> udgav det Alt,
           og Følgen var at Exemplarer af hans første Digtsamling nu betales med 300 Francs Stykket,
           visselig mere end Digteren nogensinde har fortjent ved sin hele Production.</p>
 
-        <p><persName>Théophile Dondey</persName> begyndte fuldt saa umodent og udfordrende som
-          <persName>Petrus Borel</persName>. I Fortalen til »<bibl n="dondey-feu-et-flamme">Feu et Flamme</bibl>« beder han
+        <p><persName key="theophile-dondey">Théophile Dondey</persName> begyndte fuldt saa umodent og udfordrende som
+          <persName key="petrus-borel">Petrus Borel</persName>. I Fortalen til »<bibl n="dondey-feu-et-flamme">Feu et Flamme</bibl>« beder han
           sine større Kampfæller optage sig iblandt dem; thi »som de foragter han af hele sin Sjæl
           Samfundsordenen og den politiske Orden, der er hins Excrement (!), som de foragter han
           Anciennitetsprincipet i Litteraturen og Akademiet; som de er han vantro og kold overfor
@@ -11552,9 +11552,9 @@
           Treenighedsdogmet, som han iøvrigt ikke troer paa, fast, faaer han Christi Offerdød til at
           afgive Forbilledet for Selvmord.<note place="bottom">Hvor ægte romantisk, hvor dybt
             eiendommeligt for Perioden et saadant lille Træk er, blev mig klart, da jeg hos
-            <persName>George Sand</persName> i »<bibl n="sand-lettres-dun-voyageur">Lettres d’un voyageur</bibl>« (i et Brev fra
+            <persName key="george-sand">George Sand</persName> i »<bibl n="sand-lettres-dun-voyageur">Lettres d’un voyageur</bibl>« (i et Brev fra
             Januar 1835) fandt samme Tanke: Jésus, en souffrant le martyre, a donné un grand exemple
-            de suicide. Mærkeligt, at en Aand som <persName>Novalis</persName> ikke er falden
+            de suicide. Mærkeligt, at en Aand som <persName key="novalis">Novalis</persName> ikke er falden
             derpaa.</note> Det hedder hos ham: <pb n="584"/></p>
 
         <cit>
@@ -11568,7 +11568,7 @@
           </quote>
         </cit>
 
-        <p>De iblandt <persName>O’Neddys</persName> Digte, der ikke dreie sig om hans egen
+        <p>De iblandt <persName key="theophile-dondey">O’Neddys</persName> Digte, der ikke dreie sig om hans egen
           Personlighed, ere alle viede en Cultus af den frie Tænkning og den kommende Republik; de
           fleste ere dog dybt personlige, syv Ottendele af erotisk Natur. En fin, høitfornem Dame
           havde udmærket ham, den navnløse og fattige Plebeier, med sin Kjærlighed, og Digtene
@@ -11598,7 +11598,7 @@
           lod ham staae ene tilbage paa sin Klippe. Hans Elskede forlod ham, og han opgav at haabe.
           Imidlertid antog hans Digtning stadig et dybere og mere filosofisk Præg. I et af hans
           Digte hedder det med Fordreielse af
-          <persName>Cartesius’s</persName><!-- 	Descartes, René --> Sætning saaledes: »Jeg lider,
+          <persName key="rene-descartes">Cartesius’s</persName><!-- 	Descartes, René --> Sætning saaledes: »Jeg lider,
           altsaa er jeg«, og i flere andre meget skjønne Poesier træder en i Romantismens Lyrik
           lidet almindelig Pessimisme frem. Man læse den Sonet, som begynder:</p>
 
@@ -11621,16 +11621,16 @@
         </cit>
 
         <p>Han forsøgte sig en kort Tid som Kritiker, men Tidspunktet var ugunstigt. Han gav sig til
-          at forherlige <persName>Hugo</persName> som Dramatiker netop da dennes Popularitet i
+          at forherlige <persName key="victor-hugo">Hugo</persName> som Dramatiker netop da dennes Popularitet i
           Fyrrerne var begyndt at dale. Hans lidenskabeligt begeistrede Forsvar for »<bibl n="hugo-les-burgraves">Les
             burgraves</bibl>« er skjønt ved Følelsens Friskhed. Hans Angreb paa
-            <persName>Hugo’s</persName> Kritikere i Anledning af <persName>Ponsards</persName>
-          »<bibl n="ponsard-lucrece">Lucrèce</bibl>« var ikke uretfærdigt mod <persName>Ponsard</persName> og røbede
-          en ædel Pietet. Men da han paany vilde optræde som <persName>Hugos</persName> Talsmand,
+            <persName key="victor-hugo">Hugo’s</persName> Kritikere i Anledning af <persName key="francois-ponsard">Ponsards</persName>
+          »<bibl n="ponsard-lucrece">Lucrèce</bibl>« var ikke uretfærdigt mod <persName key="francois-ponsard">Ponsard</persName> og røbede
+          en ædel Pietet. Men da han paany vilde optræde som <persName key="victor-hugo">Hugos</persName> Talsmand,
           var Redactionen af »<bibl n="la-patrie">Patrie</bibl>« slaaet om, og han fik sin Artikel tilbage. Saa
           tog han sin Afsked som Feuilletonist og skrev aldrig mere i noget Blad. Han trak sig ind i
           sin indre Verden, tilmode som <persName type="fictional" key="don-quixote">Don
-            Quichote</persName> efter Hjemkomsten eller som <persName>Molières</persName>
+            Quichote</persName> efter Hjemkomsten eller som <persName key="jean-baptiste-poquelin-moliere">Molières</persName>
           <persName type="fictional" key="alceste">Misanthrop</persName><!-- Alceste (Jean-Baptiste Poquelin Molière: Le Misanthrope, komedie, -->,
           da han tilsidst flyer ud i Ensomheden, og skrev dog i sit sidste Digt, at han vel ikke
           troede paa nogen Udødelighed, men at hvis hans Helte engang seierrige skulde ride hen over
@@ -11648,18 +11648,18 @@
         </cit>
 
         <p>Disse hans »Helte«, for hvem han nærede den mest afgjorte Beundring, vare blandt
-          Handlingens Mænd <persName>Garibaldi</persName>, blandt Digterne
-          <persName>Hugo</persName>, blandt Skribenterne <persName>Michelet</persName> og
-            <persName>Quinet</persName>, senere <persName>Renan</persName>. Hans sidste Aar vare
+          Handlingens Mænd <persName key="giuseppe-garibaldi">Garibaldi</persName>, blandt Digterne
+          <persName key="victor-hugo">Hugo</persName>, blandt Skribenterne <persName>Michelet</persName> og
+            <persName key="edgar-quinet">Quinet</persName>, senere <persName key="ernest-renan">Renan</persName>. Hans sidste Aar vare
           tunge: han mistede sin Moder efter at have mistet sin Elskede; han var længe syg, til
           Slutning lam. En eneste Glæde havde han i sin Alderdom, den at see sig mindet med Varme af
-            <persName>Théophile Gautier</persName> i en Feuilleton, der senere har faaet Plads i
+            <persName key="theophile-gautier">Théophile Gautier</persName> i en Feuilleton, der senere har faaet Plads i
           »<bibl n="gautier-histoire-du-romantisme">Historie du romantisme</bibl>«. Han døde først i 1875 efter en 42-aarig Taushed
           som Digter.</p>
 
         <p>Ikke sandt, det er som hørte man en Sørgemarche, slaaet paa floromvundne Trommer, naar
           man opsøger disse Ofre, som den litterære Kamp og Seier har kostet. Og naar man bemærker,
-          hvor talrige de ere, kommer man uvilkaarligt til at see en Bog som <persName>de
+          hvor talrige de ere, kommer man uvilkaarligt til at see en Bog som <persName key="alfred-de-vigny">de
             Vigny’s</persName> »<bibl n="vigny-stello-ou-les-diables-bleus">Stello</bibl>« og et Drama som hans »<bibl n="vigny-chatterton">Chatterton</bibl>«
           i et skjønnere Lys. Hin Tid var fremfor nogen en, der havde Ideen om den lidende Digter
           eller Kunstner nærværende, og dog har den ladet saa mange forsmægte, der havde fortjent en
@@ -11704,13 +11704,13 @@
           Hovedpersonernes Historie ud over Periodens Grændse, ifald de nemlig først efter 1848
           udfoldede deres fulde Originalitet.</p>
 
-        <p>Mange eiendommelige Fysiognomier staae her kun skizzerte, saaledes <persName>Alexandre
+        <p>Mange eiendommelige Fysiognomier staae her kun skizzerte, saaledes <persName key="alexandre-dumas-den-aeldre">Alexandre
             Dumas</persName>, der vel kan kaldes den franske Romantismes
-            <persName>Ariosto</persName> og <persName>de Vigny</persName>, han som har tegnet sig
+            <persName key="ludovico-ariosto">Ariosto</persName> og <persName key="alfred-de-vigny">de Vigny</persName>, han som har tegnet sig
           selv i Sætningen: »Æren, det er Pligtens Poesi«. Andre <pb n="590"/> har jeg kun kunnet
-          nævne, som <persName>Jules Janin</persName>, »Feuilletonens Fyrste«, hvis Roman
+          nævne, som <persName key="jules-janin">Jules Janin</persName>, »Feuilletonens Fyrste«, hvis Roman
           »<bibl n="janin-lane-mort-et-la-femme-guillotinee">L’âne mort et la femme guillotiné</bibl>« er en saa mærkværdig Forløber for en
-          senere Tidsalders Naturalisme, eller som <persName>Gérard de Nerval</persName>,
+          senere Tidsalders Naturalisme, eller som <persName key="gerard-de-gerard-labrunie-nerval">Gérard de Nerval</persName>,
           Romantismens <persName>Euphorion</persName>, <persName>Nodiers</persName> aandelige
           Ætling, hvis duftige Kvindeskikkelser have en vægtløs Lethed, hvis overnaturlige Fantasier
           have en østerlandsk Eventyrlighed og hvis Sonetter fra hans Vanvidsperiode høre til de
