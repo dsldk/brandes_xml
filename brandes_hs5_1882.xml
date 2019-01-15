@@ -469,7 +469,7 @@
           hjælper ham med at dramatisere sine theatralske Æmner, <persName key="charles-augustin-sainte-beuve">Sainte-Beuve</persName>
           læser <persName key="george-sand">George Sands</persName> Manuscripter igjennem for hende og staar hende bi
           med kritiske Raad, hun og <persName key="alfred-de-musset">Musset</persName> lade i et givet Øieblik deres
-          Inspirationer smelte sammen, <persName key="delphine-girardin">Madame de Girardin</persName> forfatter en <bibl n="girardin-lettres-parisiennes-1836-1848">Roman i Breve</bibl> sammen med
+          Inspirationer smelte sammen, <persName key="delphine-girardin">Madame de Girardin</persName> forfatter en <bibl n="la-croix-de-berny">Roman i Breve</bibl> sammen med
             <persName key="joseph-mery">Méry</persName>, <persName key="jules-sandeau">Sandeau</persName> og <persName key="theophile-gautier">Gautier</persName>,
           og <persName key="prosper-merimee">Mérimée</persName> forbinder Realisterne <persName key="henri-beyle-stendhal">Beyle</persName> og
             <persName key="louis-ludovic-vitet">Vitet</persName> med den egentlige romantiske Leir.</p>
@@ -1164,10 +1164,10 @@
           efter Barnets Fatteevne og Fantastens Behov.</p>
 
         <p>Her er, siger <persName key="charles-nodier">Nodier</persName> selv etsteds, <persName type="fictional" key="odysseus">Odysseus</persName>, den vidtbereiste, men han er svundet ind til
-            <persName type="fictional">Tommeliden</persName>, hvis uhyre Reise bestaaer i, at han
+          <persName type="fictional" key="petit-poucet">Tommeliden</persName>, hvis uhyre Reise bestaaer i, at han
           svømmer over Mælkespanden; her er <persName type="fictional" key="othello">Othello</persName>, den frygtelige Kvindemorder, men hans Skjæg er fra sort bleven
           blaat, han er forandret til den skrækkelige <persName type="fictional" key="barbe-bleu">Rolf Blaaskjæg</persName><!-- Barbe-bleu -->; her er Figaro, den smidige Knægt, der
-          gaaer de Fornemme saa kjækt under Øine, kun er han forvandlet til Hankat, men <persName type="fictional">den bestøvlede Kat</persName> er, om end mindre underholdende,
+          gaaer de Fornemme saa kjækt under Øine, kun er han forvandlet til Hankat, men <persName type="fictional" key="le-chat-botte">den bestøvlede Kat</persName> er, om end mindre underholdende,
           psychologisk næsten lige saa interessant som han.</p>
 
         <p>Ingen af Frankrigs Forfattere i den romantiske Periode staaer i et tydeligere
@@ -1634,7 +1634,7 @@
           Romanfaget. Han synes at have følt, at hans Romaner vilde blive store Digte i Prosa, store
           maleriske Legender snarere end Virkelighedsbilleder som <persName key="sir-walter-scott">Scotts</persName>.</p>
         <pb n="82"/>
-        <p> »<bibl>Notre Dame de Paris</bibl>«, der var bestemt til at give et Billede af
+        <p> »<bibl n="hugo-notre-dame-de-paris">Notre Dame de Paris</bibl>«, der var bestemt til at give et Billede af
             <placeName key="paris">Paris’s</placeName> Liv og Sæder i det 15de Aarhundrede, er et Foster af en
           storartet architektonisk Fantasi. <persName key="victor-hugo">Hugo’s</persName> Hang til det Mægtige og
           Kolossale har her fundet en passende Gjenstand. Han besjæler denne Kirke, fylder den med
@@ -1791,7 +1791,7 @@
           umiddelbart før at den egentlig romantiske Skole dannede sig, og Overgangsperiodens
           halvromantiske Poeter, der efter Lyst og Lune tilskare hans Stykker til regulære Tragedier
           i den herskende Smag, skamskændede hans Værker istedenfor at aabne Forstaaelsen for dem.
-          Af »<bibl n="schiller-die-jungfrau-von-orleans">Jomfruen fra Orleans</bibl>« og »<bibl>Don
+          Af »<bibl n="schiller-die-jungfrau-von-orleans">Jomfruen fra Orleans</bibl>« og »<bibl n="schiller-dom-karlos-infant-von-spanien">Don
             Carlos</bibl>« fabrikerede <persName key="alexandre-soumet">Soumet</persName> en »<bibl n="soumet-jeanne-darc">Jeanne d’Arc</bibl>« og en »<bibl n="soumet-elisabeth-de-france">Elisabeth af
             Frankrig</bibl>«; »<bibl n="schiller-die-verschworung-des-fiesko-zu-genua">Fiesco</bibl>« blev bearbeidet og mishandlet af <persName key="jacques-ancelot">Ancelot</persName>,
             »<bibl>Wallenstein</bibl>« af <persName key="pierre-chaumont-liadieres">Liadières</persName>; men hverken Klassikere
@@ -2073,7 +2073,7 @@
           Elvirer som <persName key="alphonse-de-lamartine">Lamartine’s</persName>, men varmblodige Elskerinder eller unge og
           smukke Courtisaner fra <persName key="ludvig-16-louis-16">Ludvig den 16des</persName> Dage; kun blev hans
           Sandselighed aldrig vellystig end mindre frivol i Tidens Stil. Orgiet fremstod, naar han
-          skildrede det (som i <bibl>den 28de Elegi</bibl>), som et Basrelief fra <pb n="104"/>
+          skildrede det (som i den 28de Elegi), som et Basrelief fra <pb n="104"/>
           Grækenlands ædleste Tid. Den unge Kvinde med det udslagne Haar var udført med en Stilens
           Kydskhed som en dandsende græsk Mænade, og ved Fremstillingens ædru Klarhed forvandles
           Drikkelaget til et atheniensisk Bacchanal i parisk Marmor. Den rene Skjønhed og en
@@ -2358,7 +2358,7 @@
 
         <p>Hvorledes kom han dertil? Et omhyggeligt Studium af hans østerlandske Digte har lært mig
           det. De ere jo ikke blevne til i den Orden, hvori de i Samlingen følge. Det førstskrevne
-          Stykke er Nr. 23 »<bibl>Den erobrede By</bibl>« fra Aaret 1824; saa følge i Aarene 1826 og
+          Stykke er Nr. 23 »<bibl n="hugo-la-ville-prise">Den erobrede By</bibl>« fra Aaret 1824; saa følge i Aarene 1826 og
           27 andre Digte, der behandle Æmner fra Frihedskrigen, og først i 1828 har Digterens
           Fantasi ret faaet Blod paa Tanden. Synskredsen udvider sig; alle de Elementer, <pb n="117"/> der ved nær eller fjern Ideforbindelse krystallisere sig om Tyrkerkrigen, komme
           til.</p>
@@ -2366,8 +2366,8 @@
         <p>See vi paa det lille Stykke »<bibl>Den erobrede By</bibl>«, der udspringer af
           Sindsbevægelsen i Anledning af Grækenlands Martyrium, da er Overensstemmelsen med
           Udgangspunktet for den fransk-romantiske Malerkunst paafaldende. I 1824 havde Eugène
-            <persName key="eugene-delacroix">Delacroix</persName> udstillet sit berømte Maleri »<bibl>Nedsablingen paa
-            Skios</bibl>«, denne Rædselsscene, der var saa ganske blottet for enhver vedtaget
+            <persName key="eugene-delacroix">Delacroix</persName> udstillet sit berømte Maleri »Nedsablingen paa
+            Skios«, denne Rædselsscene, der var saa ganske blottet for enhver vedtaget
           poetisk Retfærdighed, saa dybt følt, saa frit og kraftigt malt, saa flammende i Farveglød.
           Aaret efter er det, at <persName key="victor-hugo">Hugo</persName> begynder med sit lille Digt. Det synes en
           tro Slaves underdanige Indberetning, afgivet med Hænderne korslagte over Brystet:</p>
@@ -2549,9 +2549,8 @@
           samme Aar var hun bleven gift; i September forulykkede hun under en Seiltur i en Baad paa
             <placeName key="seinen">Seinen</placeName>. Hendes Mand, <persName key="charles-vacquerie">Charles Vacquérie</persName>,
           kastede sig ud efter hende, og da alle Forsøg paa at frelse hende viste sig frugtesløse,
-          søgte han Døden i Bølgerne og fandt den. Den hele Gruppe af Digte, som i »<bibl n="hugo-les-contemplations">Les Contemplations</bibl>« indledes med Verset »<bibl>O jeg
-              <pb n="127"/> var som gal i det første Øieblik!</bibl>« maa tages sammen med »<bibl n="hugo-les-feuilles-dautomne">Efteraarsbladene</bibl>«.</p>
-
+          søgte han Døden i Bølgerne og fandt den. Den hele Gruppe af Digte, som i »<bibl n="hugo-les-contemplations">Les Contemplations</bibl>« indledes med Verset »O jeg
+              <pb n="127"/> var som gal i det første Øieblik!« maa tages sammen med »<bibl n="hugo-les-feuilles-dautomne">Efteraarsbladene</bibl>«.</p>
         <p>Her forekomme Smaascener, som i al deres Simpelhed ere lige saa fortræffelig malte som
           dybt følte:</p>
 
@@ -3305,7 +3304,7 @@
           Vold: Hun helligede Saint-Simonismen sit Talent i »<bibl n="sand-horace">Horace</bibl>«,
           hun skrev »<bibl n="sand-le-compagnon-du-tour-de-france">Le Compagnon du Tour de
             France</bibl>« til Bedste for Socialismen; hun skrev tilsidst i <pb n="165"/> 1848
-            <bibl>Bulletinerne for den provisoriske Regjering</bibl>. Men ikke destomindre fuldendte
+          <bibl n="sand-bulletin-de-la-republique">Bulletinerne for den provisoriske Regjering</bibl>. Men ikke destomindre fuldendte
           først Berøringen med dette prægede, formfaste Geni hendes rene og klassiske Kunstform. Hun
           lærte at elske Formen, at søge det Skjønne for dets egen Skyld. Og naar man har sagt, at
           en Sætning af hende er »tegnet af <persName key="leonardo-da-vinci">Leonardo</persName> og sunget af
@@ -3851,7 +3850,7 @@
           </app>, Galeislaven, der dømmer Samfundet med stoisk Ro, i »<bibl n="sand-jacques-vol-1-2">Jacques</bibl>« til Hovedpersonen, der med næsten overmenneskelig Aandshøihed dræber
           sig for ikke at staa sin unge Hustrus Forbindelse med en anden i Veien, i »<bibl n="sand-leone-leoni">Léone Léoni</bibl>« til den rolige, mandige <persName type="fictional" key="sand-don-aleo">Don Aleo</persName>, som til det Sidste tilbyder
           sig at ægte den stakkels <persName type="fictional" key="sand-juliette">Juliette</persName>, hvem en næsten magisk Fortryllelse fængsler til den bundløst
-            slyngel<pb n="193"/>agtige <persName type="fictional">Léone</persName>, dette mandlige
+          slyngel<pb n="193"/>agtige <persName type="fictional" key="sand-leone">Léone</persName>, dette mandlige
           Modstykke til <persName type="fictional" key="manon-lescaut">Manon Lescaut</persName>; i
             »<bibl n="sand-le-secretaire-intime">Le secrétaire intime</bibl>« er han den uanseelige
           Tydsker <persName type="fictional" key="sand-max">Max</persName> med sin naive Godhed og
@@ -4027,7 +4026,7 @@
           er en indre, Følelsernes Virkelighed. Ogsaa den har man i vore Dage bestridt. Det er Tonen
           at finde Følelser, som de her skildrede, en saa heftig Fortvivlelse <pb n="203"/> over
           Samfundsordenen, en saa lidenskabelig, erotisk Ømhed, en saa ren og glødende
-          Venskabsfølelse mellem Mand og Kvinde, unaturlige og uvirkelige.<note place="bottom"><persName key="emile-zola">Emile Zola</persName> skriver om Personerne i »<bibl n="sand-jacques-vol-1-2">Jacques</bibl>« (»<bibl>Documents littéraires</bibl>« 222):
+          Venskabsfølelse mellem Mand og Kvinde, unaturlige og uvirkelige.<note place="bottom"><persName key="emile-zola">Emile Zola</persName> skriver om Personerne i »<bibl n="sand-jacques-vol-1-2">Jacques</bibl>« (»<bibl n="zola-documents-litteraires">Documents littéraires</bibl>« 222):
             »Jeg kan ikke udtrykke den Virkning, som slige Figurer gjøre paa mig: de forvirre mig,
             de overraske mig, som havde de indgaaet det Væddemaal at gaae paa Hænderne. Jeg
             forstaaer intet af deres Klager, af deres evige Bitterhed. Hvad beklage de sig over,
@@ -6081,7 +6080,7 @@
             <placeName key="paris">Paris</placeName>.<note place="bottom">Som Følge af hans testamentariske
             Bestemmelse, der viser, hvilken Tiltrækning Minderne fra <placeName key="milano">Milano</placeName>
             til hans Død havde for ham, kom der paa hans Gravsten paa
-              <placeName>Montmartrekirkegaarden</placeName> til at staae: <cit>
+              <placeName key="cimetiere-de-montmartre">Montmartrekirkegaarden</placeName> til at staae: <cit>
               <quote><lg rend="center">
                   <l>ARRIGO <persName key="henri-beyle-stendhal">Beyle</persName></l>
                   <l>MILANESE</l>
@@ -6222,7 +6221,7 @@
           <bibl>
             <persName>Olagnier,</persName>
             <lb/>
-            <placeName>De Voiron (Isère).</placeName>
+            <placeName key="voiron">De Voiron (Isère).</placeName>
           </bibl>
         </cit>
 
@@ -6808,7 +6807,7 @@
               historiques</bibl>«, <persName key="romain-colomb">Colomb’s</persName> biografiske Essai,
               <persName key="charles-augustin-sainte-beuve">Sainte-Beuves</persName> to Artikler i »<bibl n="sainte-beuve-causeries-du-lundi">Causeries du lundi</bibl>« T. 9, <persName key="auguste-bussiere">A.
               Bussière’s</persName> Artikel i »<bibl n="revue-des-deux-mondes">Revue des deux
-              mondes</bibl>« 15 Januar 1843, <persName key="emile-zola">Zola’s</persName> i »<bibl>Les romanciers
+                mondes</bibl>« 15 Januar 1843, <persName key="emile-zola">Zola’s</persName> i »<bibl n="zola-les-romanciers-naturalistes">Les romanciers
               naturalistes</bibl>« og <persName key="paul-bourget">Paul Bourget’s</persName> i »<bibl n="la-nouvelle-revue">Revue
             Nouvelle</bibl>«<!-- cit start og slut indsat --><!-- La Nouvelle Revue --> 15 August
             1882. Alfred de Bougy’s »<bibl n="bougy-stendhal-sa-vie-et-son-oeuvre">Stendhal</bibl>«
@@ -6932,7 +6931,6 @@
           Rette skadede hans Anseelse, skjøndt han næsten aldrig deltog i Forhandlingerne. Han
           oplevede endnu som dødssyg Keiserrigets Sammenstyrtning og døde i
             <placeName key="cannes">Cannes</placeName> den 23de September 1870.</p>
-
         <p>Det indre Liv, der lægger sig for Dagen i hans Værker, er langtfra ikke saa simpelt.
           Anlæggene hos denne Yngling, der atten Aar gammel traadte ud i Verden, vare af en særegent
           compliceret Beskaffenhed. Han var meget stolt, paa en Gang dristig og sky. Han havde en
@@ -9804,7 +9802,7 @@
           ogsaa paa det dramatiske Omraade meget betydelige Kræfter at opvise.</p>
 
         <p>Det ældste Forsøg, som indenfor dens Kreds blev gjort i dramatisk Retning, var et høist
-          originalt og ligefrem beundringsværdigt. Det var de »<bibl n="les-barricades">Dramatiske Scener</bibl>«, som
+          originalt og ligefrem beundringsværdigt. Det var de »Dramatiske Scener«, som
             <persName key="louis-ludovic-vitet">Vitet</persName> i Aarene <app>
             <lem>1826-29</lem>
             <rdg wit="A">1826-–29</rdg>
@@ -10265,7 +10263,7 @@
           Virkeligheden var.</p>
 
         <p>Man saa kun, at dette Drama var sundt og simpelt. Man saa, det var Lucretia! ikke
-            <persName key="victor-hugo">Hugo’s</persName> rædselsfulde <persName type="fictional" key="lucrèce-borgia">Lucretia</persName>, dette Uhyre af Blodtørst og Sandselighed, men
+          <persName key="victor-hugo">Hugo’s</persName> rædselsfulde <persName type="fictional" key="ponsard-lucrece-lucrece">Lucretia</persName>, dette Uhyre af Blodtørst og Sandselighed, men
             <placeName key="rom">Roms</placeName> Lucretia, Kydskhedens Symbol, et andet Navn for kvindelig
           Renhed. Hun var Ægteskabet, Familien, Hjemmets Poesi, som <persName type="fictional" key="dumas-antony">Antony</persName> og hans Aandsbeslægtede havde været
           Hittebarnsmoralen og Vildskaben. Alt hvad der i Frankrig gaves af Klassisk og Katholsk,
@@ -10305,7 +10303,7 @@
         <p><persName key="elisa-felix-rachel">Rachel</persName> havde først afvist Titelrollen i »<bibl n="ponsard-lucrece">Lucrèce</bibl>«,
           skjøndt den var skrevet for hende. Men da Stykket havde gjort Lykke paa
           <placeName key="théâtre-de-l'odéon">Odéon</placeName>, overtog <pb n="524"/> hun Rollen. Et Øienvidne har
-          skildret mig Stemningen i Theatret første Gang, hun spillede <persName type="fictional" key="lucrèce-borgia">Lucretia</persName>, med disse Ord: »Man sad aandeløs af
+          skildret mig Stemningen i Theatret første Gang, hun spillede <persName type="fictional" key="ponsard-lucrece-lucrece">Lucretia</persName>, med disse Ord: »Man sad aandeløs af
           Forventning, da Tæppet skulde gaae op. Det hævede sig, og vi saae
             <persName key="elisa-felix-rachel">Rachel</persName> som <persName type="fictional" key="lucrèce-borgia">Lucretia</persName> siddende ved sin Rok imellem sine Terner. Der var allerede forud
           stille; men da hun løftede sit Hoved og aabnede sine Læber for til Slavinden at sige de
@@ -11482,7 +11480,7 @@
 
         <p>Er Liget blevet gjenkjendt? spørger Raadsherren. <pb n="581"/></p>
 
-        <p>Ja Messire. Det er en ung Pige ved Navn <persName type="fictional" key="borel-dina">Dina</persName>, Datter af en vis <persName type="fictional">Israel Judas</persName>,
+        <p>Ja Messire. Det er en ung Pige ved Navn <persName type="fictional" key="borel-dina">Dina</persName>, Datter af en vis <persName type="fictional" key="borel-israel-judas">Israel Judas</persName>,
           en Juvelerer.</p>
 
         <p>En Jødinde?</p>
@@ -11582,7 +11580,7 @@
           Læseverden. Saa vendte da Læseverdenen ham Ryggen. Han følte sig stedse mere som glemt af
           Livet, som dømt til at døe med ubrugte Kræfter; atter og atter kalder <pb n="585"/> han
           sig i sine efterladte Digte et levende Lig. Jeg oversætter exempelvis nogle Strofer af
-          Sonetten »<bibl>De to Klinger</bibl>«:<!-- les deux larmes --></p>
+          Sonetten »<bibl n="dondey-deux-larmes">De to Klinger</bibl>«:<!-- les deux larmes --></p>
 
         <p>»En Bjergenes Søn havde en ypperlig Klinge, som han lod ruste i en dunkel Krog. En Dag
           sagde den til ham: Hvor denne Hvile er mig haard! O Kriger, hvis du vilde! mit Staal er
