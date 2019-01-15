@@ -3325,16 +3325,16 @@
           For at give en Idee om Bladets Tone, anfører jeg disse Ord af Hovedredacteuren: »Naar jeg
           siger det 18de Aarhundredes Philosophi, mener jeg Alt, hvad der er falskt i Lovgivning,
           Moral og Politik.« – Endnu et andet Organ var i den nykatholske Skoles Hænder,
-            »<bibl>Mercure</bibl>«, der til Hovedredacteurer havde <persName
+          »<bibl n="mercure-de-france">Mercure</bibl>«, der til Hovedredacteurer havde <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> og <persName
             key="louis-vicomte-de-bonald">Bonald</persName>. Imod disse mægtige Organer forsøgte de
           Skribenter, der udgjorde Levningerne af det 18de Aarhundredes Armee en Kamp, men Tiden
           bragte dem ingen Medbør.</p>
         <p>Som tidligere de kjæmpende Magters hele Iver var gaaet ud paa at vinde Publicum eller
           Folket for sig og deres Ideer, saaledes gik nu <pb n="168"/> under Despotiet alle
-          Bestræbelser ud paa at vinde Magthaverens Person. »<bibl>Journal des
+          Bestræbelser ud paa at vinde Magthaverens Person. »<bibl n="journal-des-debats">Journal des
           Débats</bibl>«<!-- cit start og slut indsat --> forsøgte at vinde Keiseren imod
-          Philosophien. Philosopherne søgte at opbringe ham mod »<bibl>Journal des
+          Philosophien. Philosopherne søgte at opbringe ham mod »<bibl n="journal-des-debats">Journal des
           Débats</bibl>«<!-- cit start og slut indsat -->. De Clericale pegede paa Philosopherne og
           sagde: »Tag dig iagt for de Mænd, der skrive saaledes. De ere Nedbrydere af Fag, de hade
           Dig, om saa blot fordi Du er Architekt, og ville nedbryde den Bygning, Du opfører.«
@@ -3363,7 +3363,7 @@
           Bladlitteraturen, tabte tilsidst Taalmodigheden. En Note er bleven os opbevaret, som blev
           tilstillet en af <persName key="napoleon-1">Napoleons</persName> Embedsmænd for at
           overgives til Keiserens Privatcorrespondent,
-          »<bibl>Mercure’s</bibl>«<!-- cit start og slut indsat --> Udgiver <persName
+          »<bibl n="mercure-de-france">Mercure’s</bibl>«<!-- cit start og slut indsat --> Udgiver <persName
             key="joseph-fievee">Fiévée</persName>, hvori ethvert Ord er charakteristisk. Fremfor
           Alting er dog her Overgangen fra den upersonlige til den personlige Udtryksmaade
           interessant. Hvem der er Notens Forfatter, siges aldeles ikke i den; i Begyndelsen taler
@@ -3371,7 +3371,7 @@
           styrer Pennen, Løven viser sin Klo. Noten lyder: »<persName
             key="antoine-marie-chamans-greve-de-la-valette">Hr. de Lavalette</persName> skal gaae
           til <persName key="joseph-fievee">Hr. Fiévée</persName> og sige til ham, at
-            <emph>man</emph> læser »<bibl>Journal des Débats</bibl>« med mere Opmærksomhed end de
+          <emph>man</emph> læser »<bibl n="journal-des-debats">Journal des Débats</bibl>« med mere Opmærksomhed end de
           andre Blade, da det har 10 Gange flere Abonnenter, og at man deri bemærker Artikler,
           skrevne i en for Bourbonerne aldeles gunstig Aand og følgelig med stor Ligegyldighed for
           Statens Vel; at <emph>man</emph> har besluttet <pb n="170"/> at undertrykke Alt, hvad der
@@ -3380,7 +3380,7 @@
           til at fordre, at de ere det herskende Dynasti helt hengivne og at de ikke tolerere men
           bekjæmpe Alt, hvad der kan give Bourbonerne Glands eller hidkalde Erindringer, der ere dem
           gunstige; at <emph>man</emph> imidlertid endnu ikke har taget et bestemt Parti; men at
-            <emph>man</emph> er tilbøielig til at lade »<bibl>Journal des
+          <emph>man</emph> er tilbøielig til at lade »<bibl n="journal-des-debats">Journal des
           Débats</bibl>«<!-- cit start og slut indsat --> vedblive at komme ud, hvis man forestiller
             <emph>mig</emph> Mænd, hvortil <emph>jeg</emph> kan have Tillid, og som <emph>jeg</emph>
           kan sætte i Spidsen for dette Blad.« Man seer hvorledes Forholdene udviklede sig. I Løbet
@@ -3390,12 +3390,12 @@
             >Napoleons</persName> Tronbestigelse skrive <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName>, <persName
             key="louis-vicomte-de-bonald">Bonald</persName> og <persName key="joseph-de-maistre">De
-            Maistre</persName> frit, »<bibl>Journal des
+              Maistre</persName> frit, »<bibl n="journal-des-debats">Journal des
           Débats</bibl>«<!-- cit start og slut indsat --> opmuntres til at føre sit Korstog mod det
           18de Aarhundredes Philosophi, Paven besøger <persName key="napoleon-1">Napoleon</persName>
           i <placeName key="paris">Paris</placeName>, Geistligheden er hædret, <persName
             key="denis-de-frayssinous">Frayssinous</persName> præker frit. Henimod Keiserdømmets
-          Ophør ere Førerne for det katholske Parti tvungne til at tie, »<bibl>Journal des
+          Ophør ere Førerne for det katholske Parti tvungne til at tie, »<bibl n="journal-des-debats">Journal des
             Débats</bibl>«<!-- cit start og slut indsat --> confiskeret, Paven Fange, Kleresiet
           Keiseren forhadt og Prædikestolene lukkede for <persName key="denis-de-frayssinous"
             >Frayssinous</persName>. Først efter 1814 foretages samtidigt <pb n="171"/> med den
@@ -3405,7 +3405,7 @@
             >Napoleon</persName> ikke gaves nogen egentlig Poesi, saa er det dog ikke mindre vist,
           at der under ham blev gjort et ikke betydningsløst Forsøg paa at give det 19de
           Aarhundredes Frankrig, hvad <persName key="francois-voltaire">Voltaire</persName> havde
-          forsøgt at give det forrige i »<bibl>Henriaden</bibl>«<!-- cita start og slut indsat -->:
+          forsøgt at give det forrige i »<bibl n="voltaire-la-henriade">Henriaden</bibl>«<!-- cita start og slut indsat -->:
           hverken mere eller mindre end en stor national Epopee.</p>
         <p>Opgaven var betænkelig, det kan ikke negtes. Paa en Tid, da Frankrig fyldte Europa med
           Helte som <persName key="michel-ney">Ney</persName> og <persName key="joachim-murat"
@@ -3429,7 +3429,7 @@
           indledt, valgte han sig ikke active, men passive Helte, overhovedet ikke Helte, men
           Martyrer til Gjenstand for sin Fremstillingsgave og betitlede saaledes sit Epos, der
           iøvrigt for os mere ligner en almindelig to Binds Roman, siden det er skrevet i Prosa:
-            »<bibl>Martyrerne eller Religionens Triumph</bibl>«. For ret at forstaae dette Valg af
+          »<bibl n="chateaubriand-les-martyrs-ou-le-triomphe-de-la-religion-chretienne-vol-1-2">Martyrerne eller Religionens Triumph</bibl>«. For ret at forstaae dette Valg af
           Stoffet, maa man betænke, at den Ideekreds, hvori Mændene af denne Skole levede, i
           Virkeligheden ikke var Keiserdømmets, men de tilbagevendte Emigranters. Man havde endnu
           ikke kommet sig af sin Rædsel over Revolutionens Gjerninger. Man saa i Revolutionens
@@ -3455,9 +3455,9 @@
             >Jerusalem</placeName>, Ægypten, <placeName key="karthago">Carthago</placeName> og vende
           hjem over Spanien til <placeName key="paris">Paris</placeName>. Denne Reises nærmeste
           Formaal var da, som han aabent tilstaaer i Fortalen til den senere udgivne
-            »<bibl>Itinéraire</bibl>« at fuldkommengjøre det paabegyndte Digt. Han siger: »Jeg har
+          »<bibl n="chateaubriand-itineraire-de-paris-a-jerusalem-vol-1-3">Itinéraire</bibl>« at fuldkommengjøre det paabegyndte Digt. Han siger: »Jeg har
           ikke foretaget denne Reise for at beskrive den. Jeg havde en Hensigt med den; denne
-          Hensigt har jeg opfyldt i »<bibl>Martyrerne</bibl>«<!-- cita start og slut indsat -->; jeg
+          Hensigt har jeg opfyldt i »<bibl n="chateaubriand-les-martyrs-ou-le-triomphe-de-la-religion-chretienne-vol-1-2">Martyrerne</bibl>«<!-- cita start og slut indsat -->; jeg
           søgte Billeder, det var Alt.«</p>
         <p>Det var imidlertid ikke Alt, hverken Alt <pb n="174"/> hvad der laa i <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName> Hensigt med
@@ -3501,7 +3501,7 @@
           Pilgrimsfølelser og Pilgrimsformaal, da de gamle Pilgrimme, saavidt vides, ikke reiste ud
           efter Billeder og Indtryk til litterære Productioner, hvad skal man saa sige, naar man i
             <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName>
-          efterladte »<bibl>Memoirer</bibl>«<!-- cit start og slut indsat --> finder en Tilstaaelse
+          efterladte »<bibl n="chateaubriand-memoires-doutre-tombe">Memoirer</bibl>«<!-- cit start og slut indsat --> finder en Tilstaaelse
           om hvad det fjernere Formaal var med denne Opsøgen af Billeder, som kaster det grelleste
           Lys over hine sidst anførte Ord. Han haabede ved sine Anstrengelser for at opnaae
           Berømmelse, ved sine Studier og Reiser at vinde en Dames Gunst, i hvem han var forelsket.
@@ -3513,7 +3513,7 @@
           for nye Anstrengelser. Lad der endog være noget Middelalderligt og om Riddertiden Mindende
           i dette Forhold! men hvilken Prælatsjæl maa man ikke have for her at ville tale om
           Korsfart og Pilgrimsgang! <persName key="francois-rene-vicomte-de-chateaubriand"
-            >Chateaubriand</persName> siger i »<bibl>Mémoires
+            >Chateaubriand</persName> siger i »<bibl n="chateaubriand-memoires-doutre-tombe">Mémoires
           d’outre-tombe</bibl>«<!-- cit start og slut indsat -->: »Men har jeg ogsaa i
           Reisebeskrivelsen sagt Alt om denne Reise, der begyndte i <persName type="fictional"
             key="desdemona">Desdemonas</persName> og <persName type="fictional" key="othello"
@@ -3551,17 +3551,17 @@
           Muligheden deraf. En klarere Indsigt end den, nogen tidligere Tid har besiddet i de
             histo<pb n="178"/>riske Betingelser for de store Oldtidsepopeers Opstaaen har overbevist
           os om det Unyttige i nutildags at ville kappes med Værker af den Friskhed og Naivetet som
-            »<bibl>Iliaden</bibl>«<!-- cit start og slut indsat --> og
-          »<bibl>Odysseen</bibl>«<!-- cit start og slut indsat -->. Ligesaa lidt som nogen virkelig
+          »<bibl n="homer-iliaden">Iliaden</bibl>«<!-- cit start og slut indsat --> og
+          »<bibl n="homer-odysseen">Odysseen</bibl>«<!-- cit start og slut indsat -->. Ligesaa lidt som nogen virkelig
           Digter nutildags kunde falde paa at efterligne
-          »<bibl>Vedahymnerne</bibl>«<!-- cit start og slut indsat -->, »<bibl>Davids
+          »<bibl n="vedaerne">Vedahymnerne</bibl>«<!-- cit start og slut indsat -->, »<bibl>Davids
           Psalmer</bibl>«<!-- cit start og slut indsat --> eller
-          »<bibl>Völuspà</bibl>«<!-- cit start og slut indsat -->, lige saa lidt forsøger Nogen
+          »<bibl n="völuspá">Völuspà</bibl>«<!-- cit start og slut indsat -->, lige saa lidt forsøger Nogen
           nutildags at rivalisere med de uforgjængelige Værker, hvori i Tidernes Morgen et Folk
           barnligt har ladet sin hele Gude- og Sagnlære glide Tilhøreren forbi, som Grækerne have
           gjort det i deres nationale Heltedigte, Tydskerne i
-          »<bibl>Niebelungenlied</bibl>«<!-- cit start og slut indsat --> og Finnerne i
-            »<bibl>Kalevala</bibl>«<!-- cit start og slut indsat -->. De Epopeer, der som <persName
+          »<bibl n="nibelungenlied">Niebelungenlied</bibl>«<!-- cit start og slut indsat --> og Finnerne i
+          »<bibl n="kalevala">Kalevala</bibl>«<!-- cit start og slut indsat -->. De Epopeer, der som <persName
             key="publius-vergilius-maro-vergil">Virgils</persName> og <persName key="torquato-tasso"
             >Tassos</persName>, som <persName key="luiz-de-camoes">Camoens’</persName>, <persName
             key="friedrich-gottlieb-klopstock">Klopstocks</persName> og <persName
@@ -3571,8 +3571,8 @@
           Grad, som de i Tid og Aand staae dem endnu nogenlunde nær. Jo mindre Naivetet de besidde,
           des koldere staae vi overfor dem. De ikke mislykkede episke Digte, der ere skrevne i den
           nyere Tid, jeg nævner som Exempel <persName key="johann-wolfgang-goethe"
-            >Goethes</persName> »<bibl>Hermann og Dorothea</bibl>«, eller i vore Dage <persName
-            key="hamerling">Hamerlings</persName> »<bibl>Der König von Zion</bibl>«, have ganske
+            >Goethes</persName> »<bibl n="goethe-hermann-und-dorothea">Hermann og Dorothea</bibl>«, eller i vore Dage <persName
+              key="hamerling">Hamerlings</persName> »<bibl n="der-könig-von-sion">Der König von Zion</bibl>«, have ganske
           opgivet det episke Apparat. Men dette var ingenlunde <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriands</persName> Hensigt.
           Tvertimod! Det gjaldt jo netop om at <pb n="179"/> fordoble det, om at lade det
@@ -3581,7 +3581,7 @@
           Mester han end er i denne Kunstart, aner man allerede, hvorledes han vil famle efter en
           Stil.</p>
         <p>Alle mulige Paavirkninger krydse hos ham hverandre: <persName key="homer"
-            >Homer</persName> og »<bibl>Johannes’
+          >Homer</persName> og »<bibl n="johannes'-åbenbaring">Johannes’
           Aabenbaring</bibl>«<!-- cit start og slut indsat -->, <persName key="dante-alighieri"
             >Dante</persName> og <persName key="john-milton">Milton</persName>, Kirkefædrene og
             <persName key="sveton-suetonius">Suetonius</persName>. Handlingen foregaaer paa
@@ -3639,7 +3639,7 @@
           Exempel den, hvor den græske Familie ankommer i Besøg hos den christne, der netop binder
           Neg paa Marken, eller paa Episoder som <persName type="fictional" key="velleda"
             >Velledas</persName> Død. Over det første Sted er udbredt en egen religiøst-idyllisk
-          Ynde; det minder om »<bibl>Ruth’s <pb n="182"/>
+          Ynde; det minder om »<bibl n="ruths-bog">Ruth’s <pb n="182"/>
           Bog</bibl>«<!-- cit start og slut indsat --> og har dog en rent evangelisk Duft. <persName
             type="fictional" key="velleda">Velleda</persName> har <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> skrevet som Digter
@@ -3767,7 +3767,7 @@
           mangler man Oplysninger; »on manque des renseignements«, som en fransk Dame sagde. Det var
           dobbelt vanskeligt i en Tid som hin, da <persName key="evariste-desire-de-parny"
             >Parny</persName> saa at sige forud havde skrevet Parodien paa ethvert Forsøg i denne
-          Retning i sin »<bibl>La guerre des dieux</bibl>« og da alle dannede Mennesker <pb n="188"
+          Retning i sin »<bibl n="parny-la-guerre-des-dieux">La guerre des dieux</bibl>« og da alle dannede Mennesker <pb n="188"
           /> endnu havde Hovedet <app>
             <lem>fuldt</lem>
             <rdg wit="A">fulgt</rdg>
@@ -3776,7 +3776,7 @@
           Petersen</persName>, forført af den smukke Rolle, som <persName
             key="evariste-desire-de-parny">Parny</persName> har tildelt de nordiske Guder, og
           øiensynligt i Tillid til, at intet Menneske anede hvad Digtet indeholdt, havde rost det og
-          citeret flere Stykker af det i Slutningen af sin »<bibl>nordiske Mythologi</bibl>« (S.
+          citeret flere Stykker af det i Slutningen af sin »<bibl n="parny-la-guerre-des-dieux">nordiske Mythologi</bibl>« (S.
           440). Glandsscenerne deri, som Treenighedens Ankomst paa <placeName key="olympos"
             >Olympen</placeName> eller Gudernes Gjenbesøg i den christne Himmel, høre til det
           Fortrinligste, noget komisk Digt kan opvise, hvorvel Behandlingen ikke svarer til den
@@ -3826,9 +3826,9 @@
             <lem>endnu</lem>
             <rdg wit="A">indnu</rdg>
           </app> træffe hele Armeen forsamlet i <persName key="alfred-de-vigny">de
-            Vigny’s</persName> »<bibl>Eloa</bibl>«<!-- cit start og slut indsat --> (1823), og i
+            Vigny’s</persName> »<bibl n="vigny-eloa-ou-la-soeur-des-anges-mystere">Eloa</bibl>«<!-- cit start og slut indsat --> (1823), og i
             <persName key="victor-hugo">Victor Hugos</persName>
-          »<bibl>Oder</bibl>«<!-- cit start og slut indsat --> (f. Ex. Livre I Ode 5, Ode 9, Ode
+          »<bibl n="hugo-odes-et-ballades">Oder</bibl>«<!-- cit start og slut indsat --> (f. Ex. Livre I Ode 5, Ode 9, Ode
           10). Vi erfare, hvad de bestille, »Nogle bevogte Zebaoths og Elohims 20,000 Stridsvogne,
           Andre vaage over Herrens Pilekogger og over hans uundgaaelige Lyn, hans frygtelige
           Gangere, der bringe Pest, Krig, Hungersnød og Død. Een Million af disse ivrige Genier
@@ -3950,7 +3950,7 @@
           af den Tid, hvori han lever. Selv i dette Himmerige er der Naturlove. Der staaer saaledes
           udtrykkeligt om de Salige, at de ynde at lære de <emph>Love</emph> at kjende, efter hvilke
           de tunge Legemer med saa stor Lethed fare igjennem Ætheren. Dette Træk anticiperer ligesom
-          Standpunktet i <persName key="george-gordon-byron">Byrons</persName> »<bibl>Kain</bibl>«.
+          Standpunktet i <persName key="george-gordon-byron">Byrons</persName> »<bibl n="byron-sardanapalus-two-foscari-cain-vaerk">Kain</bibl>«.
           Dernæst er det i æsthetisk Henseende interessant at see, hvorledes <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> paa de Punkter,
           hvor han ikke laaner fra Apokalypsen eller <persName key="john-milton">Milton</persName>,
@@ -3986,7 +3986,7 @@
           Periodens hele Aand det paradisiske Landskab, hvori den strengeste Orden <pb n="197"/>
           hersker, symmetrisk, architektonisk, abstraheret af en Abstraction af <persName
             key="claude-le-lorrain">Claude Lorrain</persName>. Se f. Ex. Begyndelsen til <persName
-            key="alfred-de-vigny">De Vigny’s</persName> »<bibl>Syndfloden</bibl>«; jeg gjengiver
+              key="alfred-de-vigny">De Vigny’s</persName> »<bibl n="vigny-le-deluge-mystere">Syndfloden</bibl>«; jeg gjengiver
           Versene ved Prosa:</p>
         <p>»Jorden var smilende og i sin første Blomstring –, Dagen havde endnu det samme Lys, – der
           kronede Himlens Høider, – da Gud lod den falde fra sine skabende Hænder for at forskjønne
@@ -4003,8 +4003,8 @@
           for at skildre det jordiske Sceneri fuldt saa vel som det himmelske; <persName
             key="alfred-de-vigny">de Vigny</persName> pleier i sine ældste Digte ægte seraphisk at
           lade Handlingen foregaae mellem Himmel og Jord; <persName key="victor-hugo">Victor
-            Hugos</persName> Ode »<bibl>Ludvig d. 17de</bibl>«<!-- cit start og slut indsat -->
-          foregaaer ved Himlens Porte, hans »<bibl>Vision</bibl>« i <pb n="198"/> Himmelrummet, i
+            Hugos</persName> Ode »<bibl n="hugo-louis-xvii">Ludvig d. 17de</bibl>«<!-- cit start og slut indsat -->
+          foregaaer ved Himlens Porte, hans »<bibl n="hugo-vision">Vision</bibl>« i <pb n="198"/> Himmelrummet, i
           det himmelske <placeName key="jerusalem">Jerusalem</placeName>, og »de tro Seraphers Vogn,
           besaaet med Øine, glimrende af Gnister, med de larmende Flammehjul og de fire Vinger, der
           dreie sig rundt«, spiller ogsaa en Rolle her, »hvor Helgene og glorværdige Martyrer,
@@ -4037,7 +4037,7 @@
           Oversættelse af et berømt, fra Oldtiden opbevaret Brev fra <persName
             key="servius-sulpicius-rufus-sulpicius">Sulpicius</persName> til <persName
             key="marcus-tullius-cicero">Cicero</persName>
-          <note place="bottom">»<bibl>Ad familiares</bibl>«<!-- cit start og slut indsat --> lib. IV
+          <note place="bottom">»<bibl n="cicero-ad-familiares">Ad familiares</bibl>«<!-- cit start og slut indsat --> lib. IV
             epist. 5.</note>, altsaa er forfattet af en Hedning. Det er da ikke skikket til Bevis
           for, hvilke poetiske Følelser Hedningen maa mangle. Men dette Træk er symbolsk. Saaledes
           udgives de positive Religioner bestandig for at være i Besiddelse af visse overnaturlige
@@ -4047,7 +4047,7 @@
             >Feuerbach</persName> sagde det: Theologiens sande Væsen er Anthropologi.</p>
         <p>
           <pb n="200"/> Kaste vi da et Blik tilbage over denne dristige Digtning, dette forvovne
-          Forsøg paa at tvinge det 19de Aarhundredes litterære Smag tilbage til »<bibl>Johannes’
+          Forsøg paa at tvinge det 19de Aarhundredes litterære Smag tilbage til »<bibl n="johannes'-åbenbaring">Johannes’
             Aabenbarings</bibl>«<!-- cit start og slut indsat --> og <persName key="dante-alighieri"
             >Dantes</persName> Standpunkt, saa lader det sig ikke negte, at dette Forsøg paa at
           feire »Religionens Triumph« er mislykkedes. Hvad der duer deraf, det er netop de rent
@@ -4055,8 +4055,8 @@
           religiøse Begeistring var altfor vaklende til at Aarhundredets Tvivl og Kulde overfor
           Mirakelverdenen ikke skulde have sat sig Spor i hans Product.</p>
         <p>Han hyklede ingenlunde ligefrem; men han bedrog sig selv. Et Bevis paa, hvor rørt han
-          selv kunde blive ved Læsningen af sine »<bibl>Martyrer</bibl>« er nylig kommen for Dagen i
-          det fine og elskværdige (pseudonyme, posthume?) Skrift: »<bibl>Les enchantements de
+          selv kunde blive ved Læsningen af sine »<bibl n="chateaubriand-les-martyrs-ou-le-triomphe-de-la-religion-chretienne-vol-1-2">Martyrer</bibl>« er nylig kommen for Dagen i
+          det fine og elskværdige (pseudonyme, posthume?) Skrift: »<bibl n="Les-enchantements">Les enchantements de
             Prudence</bibl>« af <persName key="hortense-allart">Mme de Saman</persName>, den sidste
           unge Kvinde, der blev elsket af <persName key="francois-rene-vicomte-de-chateaubriand"
             >Chateaubriand</persName>, og der elskede ham igjen. Hun fortæller heri først om
@@ -4064,14 +4064,14 @@
             key="pont-d-austerlitz">Austerlitz-broen</placeName> og spise til Middag sammen i
             <placeName key="jardin-des-plantes">Jardin des Plantes</placeName> i et ensomt Værelse
           der. »Han forlangte Champagne for, som han sagde, at oplive min Kulde, og jeg sang da for
-          ham nogle Sange af <persName key="pierre-jean-de-beranger">Béranger</persName>: »<bibl>Mon
-            âme</bibl>«<!-- cit start og slut indsat -->, »<bibl>la bonne
-          vieille</bibl>«<!-- cit start og slut indsat -->, »<bibl>le Dieu des bons
+          ham nogle Sange af <persName key="pierre-jean-de-beranger">Béranger</persName>: »<bibl n="beranger-mon-ame">Mon
+            âme</bibl>«<!-- cit start og slut indsat -->, »<bibl n="beranger-la-bonne-vieille">la bonne
+              vieille</bibl>«<!-- cit start og slut indsat -->, »<bibl n="beranger-le-dieu-des-bonnes-gens">le Dieu des bons
           gens</bibl>«<!-- cit start og slut indsat --> etc. Han hørte dem henrykt.« Hun <pb n="201"
           /> skildrer med varme Farver disse Stævnemøder, <note place="bottom">Dans cet état, il
             était plus amoureux, plus vif: il me disait que je lui donnais les plaisirs les plus
             charmants, m’appelait séductrice, etc., et dans cet endroit solitaire, il faisait ce
-            qu’il voulait. <persName key="hortense-allart">Madame Saman</persName>: »<bibl>Les
+            qu’il voulait. <persName key="hortense-allart">Madame Saman</persName>: »<bibl n="Les-enchantements">Les
               enchantements de Prudence</bibl>«<!-- cit start og slut indsat -->, avec préface de
               <persName key="george-sand">George Sand</persName>. 1873. S. 166 ff.</note> og
           fortæller saa, hvorledes det hørte til <persName
@@ -4079,7 +4079,7 @@
           høre hende, der i hele Skriftet viser den fineste poetiske Sands, læse hans poetiske
           Arbeider høit for ham. Især glædede det ham at høre sine Landskabsskildringer fra hendes
           Læber. »Men undertiden,« siger hun, »<!-- cit slut og start indsat -->tog jeg for at røre
-          ham inderligere »<bibl>Martyrerne</bibl>« frem, og læste de vise Bekjenderes Taler og
+          ham inderligere »<bibl n="chateaubriand-les-martyrs-ou-le-triomphe-de-la-religion-chretienne-vol-1-2">Martyrerne</bibl>« frem, og læste de vise Bekjenderes Taler og
           Lovsange, Fængslets og Pinslernes pathetiske Scener. Han kunde ikke holde sine Taarer
           tilbage; en Dag græd han; jeg blev ved at læse; hans Graad steg til Hulken; jeg vedblev og
           hans Hulken brød voldsomt frem, da jeg kom til det Sted, hvor <persName type="fictional"
@@ -4091,7 +4091,7 @@
           de <pb n="202"/> søde Navne, som man giver Muserne. Han fandt mig smuk. Han roste især
           mine Øine, mit Blik. Han indbildte sig i sin Lidenskab aldrig at have seet noget
           Lignende.« Hun var da en Snees Aar, han netop 60 Aar gammel. Man seer af det anførte
-          Citat, at endog saa kolde Steder i »<bibl>Martyrerne</bibl>« som de hvidklædte Oldinges
+          Citat, at endog saa kolde Steder i »<bibl n="chateaubriand-les-martyrs-ou-le-triomphe-de-la-religion-chretienne-vol-1-2">Martyrerne</bibl>« som de hvidklædte Oldinges
           Taler have været følte af Digteren selv; man røres ved denne unge og ædle Kvindes
           sværmeriske Beundring for en Olding; han vinder ligesom i Værd for Læseren ved selv i den
           Alder at have kunnet vinde en saadan Kvindes Elskov; men i hvilket underlig blandet
@@ -4099,17 +4099,17 @@
             <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName>, at den
           her næsten kan betegnes som et »Unicum«! Champagne, <persName
             key="pierre-jean-de-beranger">Bérangers</persName> Viser, Kjærlighedserklæringer og
-          Kjærtegn, Graad over »<bibl>Martyrerne</bibl>«, Opløsthed i Hulken og nye
+          Kjærtegn, Graad over »<bibl n="chateaubriand-les-martyrs-ou-le-triomphe-de-la-religion-chretienne-vol-1-2">Martyrerne</bibl>«, Opløsthed i Hulken og nye
           Kjærlighedserklæringer! Hvilke Omgivelser for en orthodox Epopee! hvilken kun altfor
           menneskelig Skrøbelighed hos en seraphisk Digter, Ex-Minister og fordums Jerusalemsfarer!
             <note place="bottom">
             <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName>:
-              »<bibl>Les martyrs</bibl>«<!-- cit start og slut indsat -->, især Livre III og VIII.
-              »<bibl>Mémoires d’outre-tombe</bibl>«<!-- cit start og slut indsat -->. – <persName
-              key="charles-augustin-sainte-beuve">Sainte Beuve</persName>: »<bibl>
+              »<bibl n="chateaubriand-les-martyrs-ou-le-triomphe-de-la-religion-chretienne-vol-1-2">Les martyrs</bibl>«<!-- cit start og slut indsat -->, især Livre III og VIII.
+              »<bibl n="chateaubriand-memoires-doutre-tombe">Mémoires d’outre-tombe</bibl>«<!-- cit start og slut indsat -->. – <persName
+                key="charles-augustin-sainte-beuve">Sainte Beuve</persName>: »<bibl n="sainte-beuve-chateaubriand-et-son-groupe-litteraire-sous-lempire">
               <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> et son
               groupe littéraire sous l’empire</bibl>«<!-- cit start og slut indsat -->. – <persName
-              key="alfred-francois-nettement">Nettement</persName>: »<bibl>Histoire de la
+                key="alfred-francois-nettement">Nettement</persName>: »<bibl n="nettement-histoire-de-la-litterature-francaise-sous-la-restauration">Histoire de la
               littérature française sous la Restauration</bibl>«<!-- cit start og slut indsat -->
             I-II.</note>
         </p>
@@ -4138,11 +4138,11 @@
             key="barbara-juliane-julie-de-krudener">Mme de Krüdener</persName>.</p>
         <p>
           <pb n="204"/>I <persName key="madame-de-stael-holstein">Mme de Staëls</persName> Roman
-            »<bibl>Delphine</bibl>« forekommer der en Scene, hvor Heltinden fortryller et helt
+          »<bibl n="stael-holstein-madame-de-stael-delphine">Delphine</bibl>« forekommer der en Scene, hvor Heltinden fortryller et helt
           Selskab ved sin gratiøse og talende Udførelse af en vis fremmed Dands, Shavlsdandsen.
           Dette Træk var grundet paa noget Oplevet. Det var den unge og yndefulde <persName
             key="barbara-juliane-julie-de-krudener">Baronesse de Krüdener</persName>, der udmærkede
-          sig blandt Andet ved sin Dands. Det hedder i »<bibl>Delphine</bibl>«: »Aldrig har Ynde og
+          sig blandt Andet ved sin Dands. Det hedder i »<bibl n="stael-holstein-madame-de-stael-delphine">Delphine</bibl>«: »Aldrig har Ynde og
           Skjønhed frembragt en mere overordentlig Virkning paa et talrigt Selskab. Denne fremmede
           Dands har en Tiltrækning, hvorom Intet, vi have seet, kan give en Idee. Det er en rent
           asiatisk Blanding af Indolents og Livlighed, af Melancholi og Livsglæde. Undertiden, naar
@@ -4201,9 +4201,9 @@
             >Mme de Krüdener</persName> op paany; i denne Intelligentsens By føler hun sig pludselig
           slaaet af sin Uvidenhed, faaer litteraire <pb n="207"/> Interesser og opsøger Samtidens
           store Skribenter, <persName key="jean-jacques-barthelemy">Barthélemy</persName>, Forfatter
-          til »<bibl>Den unge Anacharsis</bibl>«, og <persName
+          til »<bibl n="barthelemy-voyage-du-jeune-anacharsis-en-grece">Den unge Anacharsis</bibl>«, og <persName
             key="jacques-henri-bernandin-de-saint-pierre">Bernardin de Saint-Pierre</persName>, for
-          hvis »<bibl>Paul og Virginie</bibl>« hun bestandig havde sværmet. Hun dyrker <persName
+          hvis »<bibl n="saint-pierre-paul-et-virginie">Paul og Virginie</bibl>« hun bestandig havde sværmet. Hun dyrker <persName
             key="maximilien-de-robespierre">St. Pierre</persName> og Naturen, men har samtidigt hos
           sin Modehandlerinde en Regning paa 20000 francs. I Sydfrankrig forelsker en ung Officier
           sig i hende, og efter nogen Tids Kamp gjengjælder hun, nu mindre uerfaren end i <placeName
@@ -4260,7 +4260,7 @@
           udspringe fra den. <pb n="210"/> Midt i alt dette en ny Kjærlighedsforbindelse og et nyt
           Brud. Hun havde paany forladt sin Mand, denne Gang imod hans Ønske og boer i <placeName
             key="paris">Paris</placeName>. <persName key="francois-rene-vicomte-de-chateaubriand"
-            >Chateaubriand</persName> forærer hende her det første Exemplar af sin »<bibl>Génie du
+              >Chateaubriand</persName> forærer hende her det første Exemplar af sin »<bibl n="chateaubriand-le-genie-du-christianisme">Génie du
             christianisme</bibl>«, som <persName key="madame-de-stael-holstein">Mme de
             Staël</persName> finder paa hendes Bord. – Hun overraskes i <placeName key="paris"
             >Paris</placeName> ved Efterretningen om <persName
@@ -4271,9 +4271,9 @@
             Krüdener</persName> opgav sin Indesluttethed. Efter først i en lille Fortælling at have
           efterlignet <persName key="jacques-henri-bernandin-de-saint-pierre">Saint
             Pierre’s</persName> Maneer havde hun nu ikke foretaget sig noget Ringere end at skrive
-          en Roman. Dens Navn var »<bibl>Valérie</bibl>«; hendes Ungdoms Forhold til <persName
+          en Roman. Dens Navn var »<bibl n="krudener-valerie">Valérie</bibl>«; hendes Ungdoms Forhold til <persName
             key="alexander-de-stakiev">Alexander Stakiew</persName> havde afgivet dens Indhold; jeg
-          kommer senere tilbage til den. Den er inspireret af »<bibl>Werther</bibl>«, sjælfuld, fint
+          kommer senere tilbage til den. Den er inspireret af »<bibl n="goethe-die-leiden-des-jungen-werthers-vol-1-2">Werther</bibl>«, sjælfuld, fint
           og ypperligt skrevet. Det var imidlertid ikke <persName
             key="barbara-juliane-julie-de-krudener">Mme de Krüdener</persName> nok at skrive en
           Roman, det gjaldt om at faae den læst og bemærket. Maaden, hvorpaa hun greb dette an,
@@ -4303,8 +4303,8 @@
           paaskjønnet. Sørg for, at man ikke gjætter paa Dem. Lad disse Vers blive trykte i Af<pb
             n="212"/>tenavisen. Det er sandt, at <persName type="fictional" key="sidonie"
             >Sidonie</persName> er bleven skildret som dandsende i
-          »<bibl>Delphine</bibl>«<!-- cit start og slut indsat -->. Læs det, det vil more Dem. Men
-          der maa ikke staae, at det er i »<bibl>Delphine</bibl>«<!-- cit start og slut indsat -->,
+          »<bibl n="stael-holstein-madame-de-stael-delphine">Delphine</bibl>«<!-- cit start og slut indsat -->. Læs det, det vil more Dem. Men
+          der maa ikke staae, at det er i »<bibl n="stael-holstein-madame-de-stael-delphine">Delphine</bibl>«<!-- cit start og slut indsat -->,
           at man har skildret hende. Kun af Overskriften »Til <persName type="fictional"
             key="sidonie">Sidonie</persName>« maa det kunne sees, til hvem Versene er. Vær saa god
           at betale Avisen. Jeg haaber at kunne forklare Dem mine Bevæggrunde. Send mig hurtigt den
@@ -4314,7 +4314,7 @@
           har bedet Dem derom. De kjender hendes Skyhed, hendes Hang til Ensomhed og hendes ringe
           Lyst til at blive rost, men det gjælder om at gjøre hende en væsentlig Tjeneste.«</p>
         <p>14 Dage senere nyt Brev om samme Gjenstand, nye Forespørgsler, om Doctoren har læst
-            »<bibl>Delphine</bibl>«<!-- cit start og slut indsat -->. Bestandigt samme Thema:
+          »<bibl n="stael-holstein-madame-de-stael-delphine">Delphine</bibl>«<!-- cit start og slut indsat -->. Bestandigt samme Thema:
             »<persName key="madame-de-stael-holstein">Mme de Staël</persName> har sagt til <persName
             type="fictional" key="sidonie">Sidonie</persName>, at hun har villet skildre hendes
           Dands, og De kan finde det i første Bind. Hun har efter Fleres Mening der malt <persName
@@ -4384,7 +4384,7 @@
           Reise til <placeName key="paris">Paris</placeName> som en Pligt, medens mit Hjerte, min
           Indbildningskraft, Alt drager mig til <placeName key="genfersoen">Genfersøen</placeName>.«
           Saa reiser hun da til <placeName key="paris">Paris</placeName>, og i December 1803
-          udkommer »<bibl>Valérie</bibl>«<!-- cit start og slut indsat -->. Alle <persName
+          udkommer »<bibl n="krudener-valerie">Valérie</bibl>«<!-- cit start og slut indsat -->. Alle <persName
             key="barbara-juliane-julie-de-krudener">Mme de Krüdeners</persName> Batterier holdt
           parate til at give Bogen Salut. Ikke en eneste Effect gik tabt; alle Kritikens Klokker
           klemtede. Som en dygtig General manglede hun ikke selv paa Valpladsen; hun kjørte fra det
@@ -4397,7 +4397,7 @@
           aldeles forbausede ved disse uhørte Forlangender og benægtede disse Varers Existents, <pb
             n="217"/> smilte <persName key="barbara-juliane-julie-de-krudener">Mme de
             Krüdener</persName> med saa megen Godhed og beklagede dem saameget, fordi de endnu ikke
-          kjendte Romanen »<bibl>Valérie</bibl>«<!-- cit start og slut indsat -->, at hun snart
+          kjendte Romanen »<bibl n="krudener-valerie">Valérie</bibl>«<!-- cit start og slut indsat -->, at hun snart
           havde gjort dem til ivrige Proselyter af sin Bog. Med sine Indkjøb kjørte hun saa til en
           ny Boutik og opnaaede derved i faa Dage en saa rasende Concurrence mellem Kjøbmændene med
           Hensyn til Sager à la <persName type="fictional" key="valérie">Valérie</persName>, at
@@ -4406,7 +4406,7 @@
           afgive deres Vidnesbyrd for hendes Triumph.</p>
         <p>
           <persName key="barbara-juliane-julie-de-krudener">Mme de Krüdener</persName> skriver nu
-          til sin Veninde: »»<bibl>Valérie’s</bibl>«<!-- cit start og slut indsat --> succès er
+          til sin Veninde: »»<bibl n="krudener-valerie">Valérie’s</bibl>«<!-- cit start og slut indsat --> succès er
           fuldendt og uhørt. Man sagde endnu forleden til mig: Der er noget
             <emph>overnaturligt</emph> i dette Held. Ja min Veninde, Himlen har villet at disse
           Ideer, denne renere Moral skulde udbrede sig i Frankrig, hvor den endnu er mindre
@@ -4496,7 +4496,7 @@
           tilføier: »<!-- cit start indsat -->Elle reçoit ce sacrifice comme une personne qui va
           recevoir sa communion.« <note place="bottom">Manuscript af <persName
               key="charles-julien-de-chenedolle">Chênedollé</persName>, citeret af <persName
-              key="charles-augustin-sainte-beuve">Sainte-Beuve</persName> i »<bibl>Derniers
+                key="charles-augustin-sainte-beuve">Sainte-Beuve</persName> i »<bibl n="sainte-beuve-derniers-portraits-litteraires">Derniers
               Portraits</bibl>«<!-- cit start og slut indsat -->, 290.</note> Analoge religiøse
           Stemninger findes iøvrigt hos alle Tiders Mystikere.</p>
         <p>At hun personlig var overbevist om sin Villies Renhed og fuldstændig oprigtig i sin hele
@@ -4523,7 +4523,7 @@
           residere der«, og alle disse tre Ting skete. Saaledes spaaede han ogsaa, at Restaurationen
           af Bourbonerne vilde skee i dybeste Fred uden Hjælp af de Fremmede, at Souverainitetsideen
           og Adelsmagten vilde gaae styrkede ud af Revolutionen etc. Naar adskillige af <persName
-            key="louis-vicomte-de-bonald">Bonalds</persName> Prophetier (i »<bibl>Théorie du
+            key="louis-vicomte-de-bonald">Bonalds</persName> Prophetier (i »<bibl n="bonald-theorie-du-pouvoir-politique-et-religieux-dans-le-societe-civile">Théorie du
             pouvoir</bibl>«<!-- cit start og slut indsat -->) sloge noget bedre ind, da ligger det
           simpelt i, at den, som spaaer det Forgjængeliges Ophør, nødvendigvis engang faaer Ret, og
           at der er Ting angaaende Fremtiden, om hvilke der, som <persName type="fictional"
@@ -4573,12 +4573,12 @@
           Franskmændene faa Aar tidligere havde kjendt som saa verdslig. »Jeg er Christi Discipel,
           sagde han, jeg gaaer med Evangeliet i Haanden og kjender kun det.« Og hans Veninde skriver
           om ham: »<persName key="aleksander-1">Alexander</persName> er Guds Udvalgte. Han vandrer
-          ad Forsagelsens Veie.« Man maatte sikkert tye til Udtryk hentede fra »<bibl>Johannes’
+          ad Forsagelsens Veie.« Man maatte sikkert tye til Udtryk hentede fra »<bibl n="johannes'-åbenbaring">Johannes’
             Aabenbaring</bibl>«<!-- cit start og slut indsat --> for at <pb n="226"/> betegne, hvad
           hun egentlig saa i ham: Noget som en Opretter af det tusindaarige Rige, en Fredens Engel
           med Magtens flammende Sværd, Lysets blonde Fyrste eller lignende, medens <persName
             key="napoleon-1">Napoleon</persName> for hende som for <persName key="adam-muller">Adam
-            Müller</persName> og Consorter var Djævelen selv. <note place="bottom">Se »<bibl>Den
+              Müller</persName> og Consorter var Djævelen selv. <note place="bottom">Se »<bibl n="brandes-romantiske-skole-tydskland">Den
               romantiske Skole i Tydskland</bibl>«<!-- cit start og slut indsat --> 359.</note>
           <persName key="aleksander-1">Alexander</persName> skulde gjenoprette Christendommen paa
           Jorden, udslette indtil det sidste Spor af Revolutionen og alle dens Gjerninger. Til
@@ -4737,7 +4737,7 @@
         <p>Tonen er hos hende trods al sin Inderlighed dog ligesaa pietistisk-abstract som hos
             <persName key="barbara-juliane-julie-de-krudener">Mme de Krüdener</persName>
           mystisk-sensuel. <note place="bottom">Se <persName key="th-katerkamp"
-            >Katerkamp</persName>: »<bibl>Denkwürdigkeiten aus dem Leben der Fürstinn <persName
+            >Katerkamp</persName>: »<bibl n="katerkamp-denkwurdigkeiten-aus-dem-leben-furstin-amalia-von-gallitzin">Denkwürdigkeiten aus dem Leben der Fürstinn <persName
                 key="amalie-gallitzin">Amalia von Gallitzin</persName>
             </bibl>«<!-- cit start og slut indsat -->. Mynster 1828.</note>
         </p>
@@ -4857,11 +4857,11 @@
           det Øieblik af var den <emph>Uordenen</emph>, og Autoriteterne befordrede den i <persName
             key="barbara-juliane-julie-de-krudener">Mme de Krüdeners</persName> Person hurtigst
           muligt fra Grændse til Grændse. <note place="bottom">
-            <persName key="charles-eynard">Charles Eynard</persName>: »<bibl>Vie de <persName
+            <persName key="charles-eynard">Charles Eynard</persName>: »<bibl n="eynard-vie-de-madame-de-krudener">Vie de <persName
                 key="barbara-juliane-julie-de-krudener">Madame Krüdener</persName>
             </bibl>«<!-- cit start og slut indsat --> Tome I-II. – <persName
-              key="charles-augustin-sainte-beuve">Sainte-Beuve</persName>: »<bibl>Portraits de
-              femmes</bibl>. »<bibl>Derniers Portraits</bibl>«<!-- cit start og slut indsat -->. Jeg
+              key="charles-augustin-sainte-beuve">Sainte-Beuve</persName>: »<bibl n="sainte-beuve-portraits-de-femmes">Portraits de
+                femmes</bibl>. »<bibl n="sainte-beuve-derniers-portraits-litteraires">Derniers Portraits</bibl>«<!-- cit start og slut indsat -->. Jeg
             udkastede dette Afsnit i Sommer udenlands, og havde da kun <persName
               key="charles-eynard">Eynards</persName> Biographi ved Haanden. Ved min Hjemkomst fandt
             jeg, at et Par af de Steder i <persName key="barbara-juliane-julie-de-krudener">Mme de
@@ -4876,7 +4876,7 @@
             world as springs, and that the water, a man draws, not necessarily comes from a hole
             made in another mans cistern. En dansk Fremstilling af <persName
               key="barbara-juliane-julie-de-krudener">Mme de Krüdeners</persName> Liv findes i
-              »<bibl>Dansk Maanedsskrift</bibl>«<!-- cit start og slut indsat --> 1862, 2det Bind,
+            »<bibl n="dansk-maanedsskrift">Dansk Maanedsskrift</bibl>«<!-- cit start og slut indsat --> 1862, 2det Bind,
             af <persName key="carl-carstensen">C. Carstensen</persName>.</note>
         </p>
       </div>
@@ -4924,9 +4924,9 @@
           Forhaabninger og Trang til personlige Drømmerier, ikke Stemning til Handling, men til
           Mediteren og Contemplation.</p>
         <p>Det er denne Folkestemning, som forklarer, hvorledes <persName
-            key="alphonse-de-lamartine">Lamartines</persName> »<bibl>Meditationer</bibl>« kunde
+          key="alphonse-de-lamartine">Lamartines</persName> »<bibl n="lamartine-meditations-poetiques">Meditationer</bibl>« kunde
           blive Tidens Yndlingspoesi. Efter <persName key="francois-rene-vicomte-de-chateaubriand"
-            >Chateaubriands</persName> »<bibl>Génie du christianisme</bibl>« havde ingen Bog vakt en
+            >Chateaubriands</persName> »<bibl n="chateaubriand-le-genie-du-christianisme">Génie du christianisme</bibl>« havde ingen Bog vakt en
           saadan Opsigt i Frankrig; i fire Aar solgtes 45,000 Exemplarer. I denne Bog fandt
           Perioden, saa underligt det end nu kan synes os, en Tolk for sine Følelser og for Alt,
           hvad der rørte sig inderst i dens Sind, et Billede af sine ideale Længsler, der spillede i
@@ -4940,7 +4940,7 @@
           saa mange Instincter havde maattet kvæles, glædede man sig ved dette rent poetiske
           Instinct, over denne saa melodiøse Digter, der, som han sagde, havde en Accord for hver
           Følelse og Stemning. Man længtes efter en saadan Hvile i Lyriken efter Philosophien,
-          Revolutionen og Krig paa Krig. Digtet om »<bibl>Søen</bibl>« gik Europa rundt, fordi det
+          Revolutionen og Krig paa Krig. Digtet om »<bibl n="lamartine-le-lac">Søen</bibl>« gik Europa rundt, fordi det
           var saa længe siden, at man overhovedet havde følt ved Naturen og betragtet den anderledes
           end taktisk som Terrainform. <persName key="alphonse-de-lamartine">Lamartine</persName>
           optraadte imidlertid i Tidens Aand ikke blot som Stemningsdigter, men som en Troende og en
@@ -4952,7 +4952,7 @@
           Yngling lever han under Paavirkning af <persName key="madame-de-stael-holstein">Mme de
             Staël</persName> og <persName key="francois-rene-vicomte-de-chateaubriand"
             >Chateaubriand</persName>, dog især den sidste. Han læser med Beundring <persName
-            key="torquato-tasso">Tassos</persName> »<bibl>Det befriede <placeName key="jerusalem"
+              key="torquato-tasso">Tassos</persName> »<bibl n="tasso-la-gerusalemme-liberata">Det befriede <placeName key="jerusalem"
               >Jerusalem</placeName>
           </bibl>«; <persName key="james-macpherson">Ossian</persName> giver ham Forvisningen om,
             <pb n="245"/> at sand Poesie kan være ubestemt og taaget, <persName
@@ -4961,7 +4961,7 @@
             Krüdener</persName> ved sin Naturs fredelige Mildhed og Harmoni det nærmeste Forbillede.
           Han optræder da offentligt fra først af som Elev af <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> og <persName
-            key="louis-vicomte-de-bonald">Bonald</persName>. I sin »<bibl>Raphael</bibl>« fortæller
+              key="louis-vicomte-de-bonald">Bonald</persName>. I sin »<bibl n="lamartine-raphael">Raphael</bibl>« fortæller
           han selv, hvorledes han kom til at gjøre <persName key="louis-vicomte-de-bonald"
             >Bonalds</persName> Bekjendtskab. I hin Tid, da han i <placeName key="chambéry"
             >Chambéry</placeName> ved <placeName key="alperne">Alpernes</placeName> Fod tilbad den
@@ -4976,10 +4976,10 @@
           Straaler øste det guddommelige Lys, hvormed han opklarede de menneskelige Love«. Maaskee
           har <persName key="louis-vicomte-de-bonald">Bonald</persName> ogsaa foresvævet <persName
             key="alfred-de-vigny">de Vigny</persName>, da han kort efter forfattede sit Digt
-            »<bibl>Moïse</bibl>«<!-- cit start og slut indsat -->. <persName
+          »<bibl n="vigny-moise">Moïse</bibl>«<!-- cit start og slut indsat -->. <persName
             key="alphonse-de-lamartine">Lamartine</persName> skrev da til <persName
             key="louis-vicomte-de-bonald">Bonald</persName> den Ode, der i Samlingen bærer Titlen
-            »<bibl>Geniet</bibl>«, og hvori det paa Tro og Love fortælles, at <persName
+          »<bibl n="lamartine-le-genie-a-bonald">Geniet</bibl>«, og hvori det paa Tro og Love fortælles, at <persName
             key="louis-vicomte-de-bonald">Bonald</persName> adspreder de berømte Sophisters falske
           Klarhed o. s. v. og fører den moralske Verden fra Uordenen til <emph>Ordenen selv</emph>.
           Dette magre Begreb om det Gode: »Ordenen« vender overalt tilbage. <persName
@@ -4998,21 +4998,21 @@
           ere Aabenbaringer af Tidsalderen, Situationen, Aarhundredet og Menneskeslægtens Laster og
           Dyder«. <persName key="alphonse-de-lamartine">Lamartine</persName> antidaterer meget
           betydeligt denne sin Indsigt. Hans
-          »<bibl>Meditationer</bibl>«<!-- cit start og slut indsat --> gaae i Regelen alle i samme
+          »<bibl n="lamartine-meditations-poetiques">Meditationer</bibl>«<!-- cit start og slut indsat --> gaae i Regelen alle i samme
           Retning som Oden til <persName key="louis-vicomte-de-bonald">Bonald</persName>. Den, der
           betitles Gud, er dediceret til <persName key="felicite-de-lamennais">Lamennais</persName>,
           Dithyramben over den hellige Poesi til Bibelens Oversætter <persName
             key="antoine-eugene-de-genoude">Genoude</persName>. Selv er han Medlem af Redactionen af
-          Bladet »<bibl>Conservateur</bibl>«, fra hvis Stiftelse <persName
+          Bladet »<bibl n="le-conservateur">Conservateur</bibl>«, fra hvis Stiftelse <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> daterede den
           udprægede Reaction i Europa. Da dette Blad gaaer ind, bliver han tilligemed <persName
             key="felicite-de-lamennais">Lamennais</persName> og <persName
             key="louis-vicomte-de-bonald">Bonald</persName> Stifter af det nye ensartede Organ <pb
-            n="247"/> »<bibl>Le défenseur</bibl>«, der gaaer ud paa at bekjæmpe Constitutionalismen.
+              n="247"/> »<bibl n="le-défenseur">Le défenseur</bibl>«, der gaaer ud paa at bekjæmpe Constitutionalismen.
           Det falder i hans Lod at skulle opfordre <persName key="joseph-de-maistre">De
             Maistre</persName> til at give Bidrag. Det er høist interessant at see, i hvilken Tone
           den nu dog 30aarige <persName key="alphonse-de-lamartine">Lamartine</persName> tiltaler
-          Forfatteren af Bogen »<bibl>Om Paven</bibl>«: »Hr. Greve! jeg var meget syg, da jeg modtog
+          Forfatteren af Bogen »<bibl n="maistre-du-pape">Om Paven</bibl>«: »Hr. Greve! jeg var meget syg, da jeg modtog
           Deres venlige og smigrende Skrivelse tilligemed Deres Værk. Jeg benytter de første
           tilbagevendende Kræfter til at takke Dem paa eengang for Brevet og Bogen, men især for den
           smigrende Benævnelse Neveu, med hvilken jeg hædrer mig overfor alle Deres Bekjendte; denne
@@ -5055,7 +5055,7 @@
           Aar gammel, men den faldt som de første Straaler af den opgaaende Sol ind i hans æresyge
           Existents. Man forestille sig ret levende en Salon fra den Tid, som den er os beskrevet af
             Samtidige<note place="bottom">
-            <persName key="abel-francois-villemain">Villemain:</persName> »<bibl>M. de Féletz et les
+              <persName key="abel-francois-villemain">Villemain:</persName> »<bibl n="villemain-feletz-et-les-salons-de-son-temps">M. de Féletz et les
               salons de son temps</bibl>«<!-- cit start og slut indsat -->.</note>, en Række
           Selskabssale hos en af Kongedømmets første Dignitarier, <persName
             key="maximilien-sebastien-foy">General Foy</persName> f. Ex., hvor henved 100 Personer
@@ -5071,9 +5071,9 @@
           med Begeistring og forsikrer ham, at han, naar han vil, kan blive en Prydelse for
           Kammeret, der længe har trængt til en saa talentfuld Forsvarer af de ægte monarchiske
           Principer. Saa fremsiger han med sin melodiske Stemme, der endnu aldrig har udtalt noget
-          politisk Stikord, en eller to af sine første Meditationer, »<bibl>Erindringen</bibl>«,
-            »<bibl>Begeistringen</bibl>«, »<bibl>Fortvivlelsen</bibl>«, »<bibl>Bønnen</bibl>«,
-            »<bibl>Troen</bibl>« eller en anden Abstraction, og fremkalder en Henrykkelse uden Mage
+          politisk Stikord, en eller to af sine første Meditationer, »<bibl n="lamartine-souvenir">Erindringen</bibl>«,
+          »<bibl n="lamartine-lenthousiasme">Begeistringen</bibl>«, »<bibl n="lamartine-le-desespoir">Fortvivlelsen</bibl>«, »<bibl n="lamartine-la-priere">Bønnen</bibl>«,
+          »<bibl n="lamartine-la-foi">Troen</bibl>« eller en anden Abstraction, og fremkalder en Henrykkelse uden Mage
           og Udbrud i alle Nuancer af Begeistring og Taknemmelighed. <persName
             key="benjamin-constant-de-rebecque">Benjamin Constant</persName> nærmer sig ham med sin
           uigjennemtrængelige, alvorligt ironiske Mine, lykønsker ham til at have opdaget denne nye
