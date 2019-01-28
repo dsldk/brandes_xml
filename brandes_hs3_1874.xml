@@ -3557,7 +3557,7 @@
           »<bibl n="homer-iliaden">Iliaden</bibl>«<!-- cit start og slut indsat --> og
           »<bibl n="homer-odysseen">Odysseen</bibl>«<!-- cit start og slut indsat -->. Ligesaa lidt som nogen virkelig
           Digter nutildags kunde falde paa at efterligne
-          »<bibl n="vedaerne">Vedahymnerne</bibl>«<!-- cit start og slut indsat -->, »<bibl>Davids
+          »<bibl n="vedaerne">Vedahymnerne</bibl>«<!-- cit start og slut indsat -->, »<bibl n="salmernes-bog">Davids
           Psalmer</bibl>«<!-- cit start og slut indsat --> eller
           »<bibl n="völuspá">Völuspà</bibl>«<!-- cit start og slut indsat -->, lige saa lidt forsøger Nogen
           nutildags at rivalisere med de uforgjængelige Værker, hvori i Tidernes Morgen et Folk
@@ -3779,7 +3779,7 @@
           Petersen</persName>, forført af den smukke Rolle, som <persName
             key="evariste-desire-de-parny">Parny</persName> har tildelt de nordiske Guder, og
           øiensynligt i Tillid til, at intet Menneske anede hvad Digtet indeholdt, havde rost det og
-          citeret flere Stykker af det i Slutningen af sin »<bibl n="parny-la-guerre-des-dieux">nordiske Mythologi</bibl>« (S.
+          citeret flere Stykker af det i Slutningen af sin »<bibl n="petersen-nordisk-mytologi">nordiske Mythologi</bibl>« (S.
           440). Glandsscenerne deri, som Treenighedens Ankomst paa <placeName key="olympos"
             >Olympen</placeName> eller Gudernes Gjenbesøg i den christne Himmel, høre til det
           Fortrinligste, noget komisk Digt kan opvise, hvorvel Behandlingen ikke svarer til den
@@ -3820,7 +3820,7 @@
                   <l>Aux frais mentons, aux lèvres purpurines.</l>
                 </lg>
               </quote>
-              <bibl>
+              <bibl n="parny-la-guerre-des-dieux">
                 <persName key="evariste-desire-de-parny">Parny</persName>:»La guerre des
                 dieux«<!-- cit start og slut indsat --> 10de Sang.</bibl>
             </cit>
@@ -4558,7 +4558,7 @@
             <placeName key="heidelberg">Heidelberg</placeName> med Psalmelæsning. Efterretningen om
           de tabte Slag ved <placeName key="ligny">Ligny</placeName> og <placeName key="quatre-bras"
             >Quatre-Bras</placeName> 16de og 17de Juni træffer <persName key="aleksander-1"
-            >Alexander</persName> midt i »<bibl>Davids
+              >Alexander</persName> midt i »<bibl n="salmernes-bog">Davids
           Psalmer</bibl>«<!-- cit start og slut indsat -->, der trøste ham over Nederlaget og
           forvisse ham om hans Sags Retfærdighed. Han beder og faster. Den 18de Juni leveres Slaget
           ved <placeName key="waterloo">Waterloo</placeName>; paa Efterretningen derom reiser
@@ -5836,7 +5836,7 @@
             key="armand-jean-du-plessis-de-richelieu">Richelieus</persName> Dage til vore, og den
           har holdt sig med samme Navn og samme Formaal, ja med samme Medlemsantal. I Litteraturen
           kaldtes Autoritetsprincipet Klassiciteten, og langt fra at svækkes ved Revolutionen havde
-          Klassiciteten snarere vundet ny Styrke Under den. Revolutionen er en klassisk fransk
+          Klassiciteten snarere vundet ny Styrke under den. Revolutionen er en klassisk fransk
           Tragoedie. Som alle andre <pb n="283"/> franske Sørgespil drapperer den sine Helte paa
           græsk og romersk; de efterligne i Stil og Sprog den romerske Oldtids Republicanere, og det
           er charakteristisk nok Revolutionens mest litterært udviklede og dannede Helte,
@@ -6182,7 +6182,7 @@
             <persName key="victor-hugo">Victor Hugo</persName>: »<bibl n="hugo-odes-et-ballades">Odes et
             Ballades</bibl>«<!-- cit start og slut indsat -->.
             »<bibl n="hugo-cromwell">Cromwell</bibl>«<!-- cit start og slut indsat -->. – <persName
-              key="alfred-de-vigny">A. de Vigny</persName>: »<bibl>Poésies
+              key="alfred-de-vigny">A. de Vigny</persName>: »<bibl n="vigny-poesies-completes">Poésies
             complètes</bibl>«<!-- cit start og slut indsat -->. – Émile Deschamps:
             »<bibl n="deschamps-poesies">Poésies</bibl>«<!-- cit start og slut indsat -->. – Antoni Deschamps:
             »<bibl n="deschamps-poesies">Poésies</bibl>«<!-- cit start og slut indsat -->. – <persName
@@ -6285,7 +6285,10 @@
           ind. Overgangen er brat. Man siger, at det stakkels Menneske i den senere Tid er bleven
           yderligt aandssvækket.« Om <persName key="francois-rene-vicomte-de-chateaubriand"
             >Chateaubriand</persName>: »Kongen og han, han og Kongen, det er Frankrigs hele Historie
-          […] Men begriber ikke, og han mindre end Nogen, at Europa kan undvære hans Talenter. Han
+          […] <app>
+            <lem wit="B SS">Man</lem>
+            <rdg wit="A">Men</rdg>
+          </app> begriber ikke, og han mindre end Nogen, at Europa kan undvære hans Talenter. Han
           spaaer, at det vil bekomme Europa ilde.« Om <persName key="denis-de-frayssinous"
             >Frayssinous</persName>, der som Gallikanismens Høvding var hans Modstander: »De <pb
             n="303"/> antager ham for moderat, hvorfor? Fordi man har gjort Dem opmærksom paa noget
@@ -7281,7 +7284,7 @@
             religieuse</bibl>«<!-- cit start og slut indsat -->. – <persName
               key="georg-gottfried-gervinus">Gervinus</persName>: »<bibl n="gervinus-geschichte-des-19-jahrhunderts-vol-1-8">Geschichte des 19ten
               Jahrhunderts</bibl>«<!-- cit start og slut indsat -->. – <persName
-              key="pierre-jean-de-beranger">Béranger</persName>: »<bibl>Oeuvres
+                key="pierre-jean-de-beranger">Béranger</persName>: »<bibl n="Oeuvres-beranger">Oeuvres
             complètes</bibl>«<!--  cit start og slut indsat -->.</note>
         </p>
         <p>Reactionen i det franske Aandsliv begynder litterært i <emph>Følelsens</emph> Navn med
