@@ -2,15 +2,15 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>THE ROMANTIC SCHOOL IN FRANCE (1904)</title>
+        <title>The Romantic School in Frande (1904) [1906]</title>
       </titleStmt>
       <publicationStmt>
         <publisher>dsl</publisher>
         <pubPlace>kbh</pubPlace>
-        <date>2019-01-01</date>
+        <date>2016-01-01</date>
         <idno/>
         <availability status="restricted">
-          <ab>Copyright 2019, Society for Danish Language and Literature</ab>
+          <ab>Copyright 2016, Society for Danish Language and Literature</ab>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -21,6 +21,23 @@
         </listWit>
       </sourceDesc>
     </fileDesc>
+    
+    <profileDesc>
+      <creation>
+        <placeName>empty</placeName>
+      </creation>
+      <abstract>
+        <ab>Fifth volume of Main Currents ... by Georg Brandes (1906) [1901]</ab>
+      </abstract>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>empty</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

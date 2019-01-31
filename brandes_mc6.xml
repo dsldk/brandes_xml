@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><emph>Young Germany </emph>(1905)</title>
+        <title>Young Germany (1905) [1906]</title>
       </titleStmt>
       <publicationStmt>
         <publisher>dsl</publisher>
@@ -21,6 +21,23 @@
         </listWit>
       </sourceDesc>
     </fileDesc>
+    
+    <profileDesc>
+      <creation>
+        <placeName>empty</placeName>
+      </creation>
+      <abstract>
+        <ab>Sixth volume of Main Currents ... by Georg Brandes (1905) [1906]</ab>
+      </abstract>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>empty</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
   <text>
     <body>
