@@ -385,7 +385,7 @@
           som Philosopherne havde meddelt deres Tidsalder ikke endnu til Udbrud i Ord. Det bekjendte
           Ord: »I Herrer af Kleresiet! nu barberer man <app>
             <lem wit="rett.bl.2">jer</lem>
-            <rdg wit="A">jer bort <note>ændret ordlyd pga. omarbejdelse i B og senere udgaver</note>
+            <rdg wit="A">jer bort <note>(ændret ordlyd pga. omarbejdelse i B og senere udgaver)</note>
             </rdg>
           </app>, og hvis I spræller alt for galt, blive I skaarne midt over«, lød fra
           Tilskuerpladsen ikke fra Salen. Forbitrelsen gav sig foreløbig Luft i Gjerning. Alt
@@ -838,7 +838,7 @@
             >Rheims</placeName>, hvor Øvrighed og Embedsmænd allerede havde forsamlet sig om
             <persName key="ludvig-15-louis-15">Ludvig den 15des</persName> Billedstøtte. Her holdt
           han en Tale imod Tyranni og Tyranner og endte med at slynge den hellige Ampulla saa
-          voldsomt i Hovedet paa Louis le bien-aimé, at den sprang i hundrede Stykker, og den
+          voldsomt i Hovedet paa <persName key="ludvig-15-louis-15">Louis le bien-aimé></persName>, at den sprang i hundrede Stykker, og den
           hellige Olie endnu engang drev ned ad Herrens Salvedes Kinder.</p>
         <p>Træk som disse, Ord som de anførte vise tilstrækkeligt og med den Anskuelighed, som
           ipsissima verba have, hvor fuldstændigt det paa dette Stadium var lykkedes Revolutionen at
@@ -889,14 +889,14 @@
           Dage efter Erobringen af Bastillen; man seer da, at Bourgeoisiet sørgede for at trække
           Stigen op efter sig, saasnart det var oppe. Dets første Gjerning er, efterat det selv har
           erobret sig sin Plads ved Hjælp af Pennen, at slaae Pennen ud af Haanden paa
-          Proletariatet. (Smlgn. <persName key="ferdinand-lassalle">
+          Proletariatet. (Smlgn. 
             <app>
-              <lem wit="rett.bl.1">Lassalle</lem>
-              <rdg wit="A">Lasalle <note>ændret ordlyd pga. omarbejdelse i B og senere
-                  udgaver</note>
+              <lem wit="rett.bl.1"><persName key="ferdinand-lassalle">Lassalle</persName></lem>
+              <rdg wit="A">Lasalle <note>(ændret ordlyd pga. omarbejdelse i B og senere
+                  udgaver)</note>
               </rdg>
             </app>
-          </persName>: <bibl n="lasalle-das-arbeiter-programm">Arbeiterprogramm</bibl>). Men medens
+          : <bibl n="lasalle-das-arbeiter-programm">Arbeiterprogramm</bibl>). Men medens
           Girondinernes Udkast først og fremmest værner om den individuelle Ret: om Samvittigheden,
           om den frie Tanke (»les franchises de la pensée« som man dengang sagde), om Arnens
           Ukrænkelighed, Lighed for Loven, om Forholdsmæssighed mellem Brøde og Straf, betoner
@@ -1540,7 +1540,7 @@
           Samfundstilstand, der gav Geniet Forrang for Privilegiet, men vilde gjenoprette det
           absolute Monarchi, støttede han sig ikke mere til den Magtidee, der smelter sammen med
           Retsideen og er et Udtryk for Fornuften, men til Autoritetsideen, der virker ved at blænde
-          og antages blindt, og fra det Øieblik af maatte han have Kirken med sig. Da Wieland i 1808
+          og antages blindt, og fra det Øieblik af maatte han have Kirken med sig. Da <persName key="christoph-martin-wieland">Wieland</persName> i 1808
           spurgte Keiseren, hvorfor han ikke havde tilpasset den af ham restaurerede Cultus mere
           efter Tidens Aand, lo Keiseren og svarede: »Ja min kjære Wieland! for Philosopher er den
           rigtignok ikke gjort. Philosopherne troe <emph>hverken paa mig eller paa min
