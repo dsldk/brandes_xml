@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><emph>Die Reaktion in Frankreich</emph> (1874)</title>
+                <title>Die Reaktion in Frankreich (1874)</title>
             </titleStmt>
             <publicationStmt>
                 <publisher>dsl</publisher>
@@ -21,6 +21,22 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName>empty</placeName>
+            </creation>
+            <abstract>
+                <ab>Dritter Band der Hauptströmungen ... von Georg Brandes</ab>
+            </abstract>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>empty</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
     </teiHeader>
     <text>
         <front/>
