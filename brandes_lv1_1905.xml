@@ -21,6 +21,22 @@
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>empty</placeName>
+         </creation>
+         <abstract>
+            <ab>Første bind af Georg Brandes' selvbiografi: Barndom og første Ungdom</ab>
+         </abstract>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>empty</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <text>
       <front>

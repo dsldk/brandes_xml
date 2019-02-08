@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><emph>Die romantische Schule in Deutschland</emph> (1873)</title>
+                <title>Die romantische Schule in Deutschland (1873)</title>
             </titleStmt>
             <publicationStmt>
                 <publisher>dsl</publisher>
@@ -21,6 +21,22 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName>empty</placeName>
+            </creation>
+            <abstract>
+                <ab>Zweiter Band der Hauptströmungen ... von Georg Brandes</ab>
+            </abstract>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>empty</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
     </teiHeader>
     <text>
         <front>

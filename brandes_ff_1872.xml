@@ -62,7 +62,7 @@
   </front>
   <body>
 
-   <div>
+   <div type="preface">
 
     <p><pb ed="A" n="[3]" facs="xyz"/> Der gives enkelte lykkelige Forfattere, i hvis Lod det falder
      strax ved deres første Optræden og senere Skridt for Skridt paa deres Vei at blive hilsede med
@@ -117,7 +117,8 @@
      gruppere og besvare dem i saa god Orden som muligt.</p>
    </div>
    <div>
-    <head type="sub">I.</head>
+    <head type="add">1.</head>
+    <head>I.</head>
 
     <p> »<bibl>Dagbladet</bibl>«<ref target="n"/> for 27de Marts 1872 indeholdt en længere Anmeldelse af <bibl>min Bog</bibl>, i
      hvilken den domfældes som »<bibl>et socialt Tendentsindlæg</bibl>«, der ikke indeholder Kritik,
@@ -575,7 +576,9 @@
    </div>
 
    <div>
-    <head type="sub">II.</head>
+    <head type="add">2.</head>
+    <head>II.</head>
+    
 
     <p> Jeg kommer nu til den Del af Angrebet paa mig, som jeg har krympet mig mest ved at skulle
      indlade mig med. Da imidlertid adskillige af mine Bekjendte, som have havt mere Anledning end
@@ -881,7 +884,9 @@
      vitterlig Falsk.</p>
    </div>
    <div>
-    <head type="sub">III.</head>
+    <head type="add">3.</head>
+    <head>III.</head>
+    
 
     <p>Jeg havde opstillet den frie Tanke som Løsen. Man har overfor dette Løsen valgt en dobbelt
      Taktik.</p>
@@ -1086,7 +1091,9 @@
      1830 og naar det kommer høit fra 1848.</p>
    </div>
    <div>
-    <head type="sub">IV.</head>
+    <head type="add">4.</head>
+    <head>IV.</head>
+    
 
     <p> Mon den af mig saa høit som af Nogen agtede Forfatter af Artiklerne »<bibl>Den frie Tanke og
       Dr. Brandes’s Forelæsninger</bibl>« skulde kunne siges at være ganske hævet over den Anklage
@@ -1379,8 +1386,9 @@
      »Augustforeningen« i sin Tid betegnede de liberale Ideer i Politiken som »statsopløsende«. </p>
    </div>
    <div>
-    <head type="sub">V.</head>
-
+    <head type="add">5.</head>
+    <head>V.</head>
+    
     <p> Men jeg forlader Striden om disse Enkeltheder for at vende tilbage til <persName>Hr. 44</persName> og fremhæve et
      Helheden rammende Ord i en af den høitærede Forfatters tidligere Artikler imod mig. Det er
      dette: »Er Du forvisset om, at Menneskeslægten ved at tilegne sig din Overbevisning vil gaae et

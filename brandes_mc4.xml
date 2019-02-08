@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><emph>Naturalism in England</emph> (1905)</title>
+        <title>Naturalism in England (1905) [1906]</title>
       </titleStmt>
       <publicationStmt>
         <publisher>dsl</publisher>
@@ -21,6 +21,22 @@
         </listWit>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <creation>
+        <placeName>empty</placeName>
+      </creation>
+      <abstract>
+        <ab>Fourth volume of Main Currents ... by Georg Brandes (1905) [1906]</ab>
+      </abstract>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>empty</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
   </teiHeader>
   <text>
     <body>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><emph>The reaction in France</emph> (1903)
+                <title>The reaction in France (1905) [1906]
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -22,6 +22,22 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName>empty</placeName>
+            </creation>
+            <abstract>
+                <ab>Third volume of Main Currents ... by Georg Brandes (1905) [1906]</ab>
+            </abstract>
+            <langUsage>
+                <language ident="en"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>empty</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>
