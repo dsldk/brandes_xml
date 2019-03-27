@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>The Romantic School in Frande (1904) [1906]</title>
+        <title>The Romantic School in France (1906) [1904]</title><!-- 1905 er den engelske udgave; her er forlægget den amerikansk-engelske udgave fra 1906; blev trykt i London og er vist identisk med den engelske, dog ikke opsætningsmæssigt -->
       </titleStmt>
       <publicationStmt>
         <publisher>dsl</publisher>
@@ -27,7 +27,7 @@
         <placeName>empty</placeName>
       </creation>
       <abstract>
-        <ab>Fifth volume of Main Currents ... by Georg Brandes (1906) [1901]</ab>
+        <ab>Fifth volume of Main Currents ... by Georg Brandes (1906) [1904]</ab>
       </abstract>
       <langUsage>
         <language ident="en"/>
@@ -40,46 +40,63 @@
     </profileDesc>
   </teiHeader>
   <text>
+    
     <front>
-      <titlePage rend="center">
+      <figure><!-- skal vi reproducere dette? -->
+        <pb n="[ii]" facs="xyz"/>
+        <byline>DE MUSSET</byline>
+      </figure>
+         
+      <titlePage>
+        <pb n="[iii]" facs="xyz"/>
         <docTitle>
-          <titlePart>MAIN CURRENTS IN NINETEENTH CENTURY LITERATURE</titlePart>
+          <titlePart>Main Currents in<lb/>Nineteenth Century<lb/>Literature</titlePart>
+          <lb/>
+          <lb/>
+          <titlePart type="desc">by</titlePart>
         </docTitle>
-        <docAuthor>BY GEORG BRANDES</docAuthor>
+        <byline>George Brandes</byline>
         <docTitle>
-          <titlePart>IN SIX VOLUMES</titlePart>
-          <titlePart>V.</titlePart>
-          <titlePart>THE ROMANTIC SCHOOL IN FRANCE</titlePart>
+          <titlePart type="desc">In Six Volumes Illustrated</titlePart>
+          <lb/>
+          <titlePart type="sub">V</titlePart>
+          <lb/>
+          <titlePart type="sub">The Romantic School in France</titlePart>
         </docTitle>
-        <docImprint>
-          <publisher>THE MACMILLAN COMPANY</publisher>
-          <date>1904</date>
-        </docImprint>
+        <lb/>
+        <docImprint><publisher>New York: The Macmillan Company</publisher><publisher>London: William
+          Heinemann</publisher><docDate>MCMVI</docDate></docImprint> 
+        <docImprint><pubPlace><pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint>
       </titlePage>
+      
+      
       <epigraph>
+        <pb n="[5]"/>
         <cit>
           <quote>
             <lg>
-              <l>Dis-nous mil huit cent trente.</l>
-              <l>Époque fulgurante,</l>
-              <l>Ses luttes, ses ardeurs....</l>
+              <l><emph>Dis-nous mil huit cent trente.</emph></l>
+              <l><emph>Époque fulgurante,</emph></l>
+              <l><emph>Ses luttes, ses ardeurs....</emph></l>
             </lg></quote>
           <bibl>—TH. DE BANVILLE</bibl>
         </cit>
         <cit>
           <quote>
             <lg>
-              <l>Nicht was lebendig, kraftvoll sich verkündigt</l>
-              <l>Ist das gefährlich Furchtbare. Das ganz</l>
-              <l>Gemeine ist's, das ewig Gestrige,</l>
-              <l>Was immer war und immer wiederkehrt</l>
-              <l>Und morgen gilt, weil's heute hat gegolten.</l>
+              <l><emph>Nicht was lebendig, kraftvoll sich verkündigt</emph></l>
+              <l><emph>Ist das gefährlich Furchtbare. Das ganz</emph></l>
+              <l><emph>Gemeine ist's, das ewig Gestrige,</emph></l>
+              <l><emph>Was immer war und immer wiederkehrt</emph></l>
+              <l><emph>Und morgen gilt, weil's heute hat gegolten.</emph></l>
             </lg>
           </quote>
           <bibl>—SCHILLER.</bibl>
         </cit>
       </epigraph>
-      <div type="toc">
+    </front>
+    
+      <!-- <div type="toc">
         <head type="add">Indholdsfortegnelse</head>
         <list>
           <item>I. THE POLITICAL BACKGROUND</item>
@@ -119,12 +136,16 @@
           <item>XXXIV. THE OVERLOOKED AND FORGOTTEN</item>
           <item>XXXV.CONCLUSION</item>
         </list>
-      </div>
-    </front>
+      </div> -->
+    
     <body>
+    
       <div>
-        <head>I</head>
-        <head>THE POLITICAL BACKGROUND</head>
+        <head><pb n="[1]"/> THE ROMANTIC SCHOOL IN FRANCE</head>
+        
+        <head type="add">1. The Political Background</head>
+        <head><pb n="[1]"/> I. THE POLITICAL BACKGROUND</head>
+        
         <p>The literature produced in France between the years 1824 and 1828 is important and
           admirable. After the upheavals of the Revolution, the wars of the Empire, and the
           lassitude of the reign of Louis XVIII., there arose a young generation that applied itself
@@ -263,7 +284,7 @@
           having declared them all to be in a state of siege. What a spectacle for an
           impressionable, imaginative people, for a crowd of which the older members had seen
           Napoleon Bonaparte ride past "with his statuesque, Cæsar-like countenance, his fixed gaze,
-          and his inapproachable ruler's hands."</p>
+          and his inapproachable ruler's hands."<hi rend="sup">*)</hi><note place="bottom">Expressions used by Heinrich Heine, who witnessed the scene and instituted the parallel.</note></p>
 
         <p>In spite of the King's eager endeavour to win popularity, there was a wider gulf between
           his court and the people than there had been between the people and the paternal monarchy
@@ -300,23 +321,12 @@
 
         <p>If we take the decade 1825-35 as a whole, it is easy to understand how hopeless it must
           have seemed from the aesthetic point of view.</p>
-
-
-        <!--<div type="footnote">
-
-<p><a name="Footnote_1_1" id="Footnote_1_1"></a><a href="#FNanchor_1_1"><span class="label">[1]</span></a> Expressions used by Heinrich Heine, who witnessed the
-scene and instituted the parallel.</p></div>-->
-
-
-
       </div>
+      
       <div>
-        <head>II</head>
-
-
-        <head>THE GENERATION OF 1830</head>
-
-
+        <head type="add">2. The Generation of 1830</head>
+        <head><pb n="[8]"/> II. THE GENERATION OF 1830</head>
+        
         <p>It is against this grey background, this foil of Legitimist cowls and Louis-Philippe
           umbrellas—in this society where the new-born power of capital, strong as Hercules, has,
           even in its cradle, strangled all the external romance of life—on this stage upon the grey
@@ -558,17 +568,12 @@ scene and instituted the parallel.</p></div>-->
             <hi rend="italics">Stello</hi> and <hi rend="italics">Chatterton</hi> as the sublime
           child who prefers dying of hunger to degrading his muse by common work, and dies blessing
           his fellow-men, who acknowledge his worth when it is too late.</p>
-
-
-
       </div>
+      
       <div>
-        <head>III</head>
-
-
-        <head>ROMANTICISM</head>
-
-
+        <head type="add">3. Romanticism</head>
+        <head><pb n="[17]"/> III. ROMANTICISM</head>
+        
         <p>At first Romanticism was, in its essence, merely a spirited defence of localisation in
           literature. The Romanticists admired and glorified the Middle Ages, which the culture of
           the eighteenth century had anathematised, and the poets of the sixteenth century—Ronsard,
@@ -1014,18 +1019,12 @@ scene and instituted the parallel.</p></div>-->
           succession, and try, by carefully observing in what they differ from one another, to
           discover the law which produces these differences; we shall watch, as it were, the flight
           of the arrows which indicate the direction of the spiritual currents.</p>
-
-
-
-
       </div>
+      
       <div>
-        <head>IV</head>
-
-
-        <head>CHARLES NODIER</head>
-
-
+        <head type="add">4. Charles Nodier</head>
+        <head><pb n="[32]"/> IV. CHARLES NODIER</head>
+        
         <p>From the year 1824 onwards Hugo, Dumas, Lamartine, Sainte-Beuve, De Musset, and De Vigny
           met almost every Sunday evening at the house of a friend who that year took up his
           residence in the outskirts of Paris, near the Arsenal, in a modest dwelling which went by
@@ -1376,7 +1375,8 @@ scene and instituted the parallel.</p></div>-->
 
 
       </div>
-      <div>
+      
+       <div>
         <head>V</head>
 
 
