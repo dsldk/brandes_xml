@@ -168,7 +168,7 @@
       <div>
         <head type="add">1. Revolutionen</head>
         <head>
-          <pb n="[9]"/>I.</head>
+          <pb n="[9]"/><ref target="n5613"/>I.</head>
         <epigraph>
           <cit>
             <quote>
@@ -200,10 +200,10 @@
           Samvittighedsfrihed. I det Øieblik, da Revolutionen begynder, ere alle Forberedelser til
           det store Sammenstød mellem Autoritetsprincipet paa den ene Side og Individualitets- og
           Solidaritetsprinciperne paa den anden Side trufne. De to Hovedkjæmpere Philosophien og
-          Kirken ruste sig til Kamp. Alle Førerne, alle Ridderne og Væbnerne der skulle udfægte den
-          store Tournering staae paa deres Poster, ubekjendte for hverandre, ubekjendte for Verden,
-          som de snart skulle fylde med deres Navne. De ere af høist forskjellig Herkomst og have en
-          høist forskjellig Fortid. Det er Adelsmænd som <persName
+          Kirken ruste sig til Kamp. Alle Førerne, alle Ridderne og Væbnerne der <ref target="n5555"
+          />skulle udfægte den store Tournering staae paa deres Poster, ubekjendte for hverandre,
+          ubekjendte for Verden, som de snart skulle fylde med deres Navne. De ere af høist
+          forskjellig Herkomst og have en høist forskjellig Fortid. Det er Adelsmænd som <persName
             key="honore-gabriel-riqueti-de-mirabeau">Mirabeau</persName>, Geistlige som <persName
             key="jean-siffrein-maury">Maury</persName>, <persName key="claude-fauchet"
             >Fauchet</persName> og <persName key="charles-maurice-de-talleyrand-perigord"
@@ -215,29 +215,32 @@
             key="camille-desmoulins">Desmoulins</persName>, en hel Hærskare af Talenter og
           Charakterer. Kirken samler sine Vaaben til en fortvivlet Kamp, som forud er tabt,
           Revolutionen rykker frem, først usikker og med Vaklen, saa truende, saa uimodstaaelig og
-          snart seiersdrukken. Saasnart Rigsstænderne blive sammenkaldte, er Kamppladsen aaben,
-          Skrankerne falde paa begge <pb n="11"/> Sider og den store Kampdommer, Verdenshistorien
-          giver Signalet til Sammenstødet.</p>
+          snart seiersdrukken. Saasnart <ref target="n343"/>Rigsstænderne blive sammenkaldte, er
+          Kamppladsen aaben, Skrankerne falde paa begge <pb n="11"/> Sider og den store Kampdommer,
+          Verdenshistorien giver Signalet til Sammenstødet.</p>
         <p>Hvad er strax efter Stændernes Sammenkaldelse den geistlige Stands første og enstemmige
-          Forlangende? At faae »den katholske, apostoliske og romerske Religion« anerkjendt som
-          Nationalreligion, som den eneste, der skulde have Tilladelse til offentlig Cultus. Og dog
-          var der Republikanere og ikke faa blandt den lavere Geistlighed; men til den Frihed, de
-          fordrede, regnede de ikke den religiøse. De demokratiske Abbeder declamerede vel imod
-          Inquisitionen, kaldte den menneskeæderisk og tigeragtig, men de advarede mod Tolerancen.
-          Den revolutionære Abbed <persName key="claude-fauchet">Fauchet</persName>, den samme, der
-          efter Bastillens Indtagelse velsignede Nationalgardens trefarvede Uniformer og skabte
-          Tricoloren som Nationalflag, betegner Tolerancen haanligt som »den almindelige
-          Tolerantisme« og spaaer, at, hvis den blev indført, vilde det kun lede til alle gode
-          Sæders fuldstændige Forfald. Han gaaer saa vidt, at han vil negte dem, der ikke bekjende
-          sig til noget Religionssamfund, Retten til at gifte sig »da man ikke kan ansee saadanne
-          Mennesker for bundne ved deres Ord«.</p>
-        <p>Da Stænderne træde sammen som Nationalforsamling, tvinges Geistligheden snart til
-          Indrømmelser, men selv naar Misstemningen imod den kommer til Orde, ender Oppositionen
-          bestandig <pb n="12"/> med at iklæde sig de mildeste og hensynsfuldeste Former. Da f. Ex.
-          i Februar 1790 <persName key="joseph-comte-de-garat">Garat</persName> havde brugt det
-          Udtryk om Præsteordinationen, at den var et borgerligt Selvmord, og en Række Geistlige,
-          hvoriblandt <persName key="jean-siffrein-maury">Abbed Maury</persName> og Biskopperne af
-            <persName key="henri de la fare">Nancy</persName><!--Henri de La Fare--> og <persName
+          Forlangende? At faae »den <ref target="n344"/>katholske, apostoliske og romerske Religion«
+          anerkjendt som Nationalreligion, som den eneste, der skulde have Tilladelse til offentlig
+          Cultus. Og dog var der Republikanere og ikke faa blandt den lavere Geistlighed; men til
+          den Frihed, de fordrede, regnede de ikke den religiøse. De demokratiske Abbeder
+          declamerede vel imod <ref target="n5622"/>Inquisitionen, kaldte den menneskeæderisk og
+          tigeragtig, men de advarede mod Tolerancen. Den revolutionære Abbed <persName
+            key="claude-fauchet">Fauchet</persName>, den samme, der efter <ref target="n345"
+          />Bastillens Indtagelse velsignede <ref target="n346"/>Nationalgardens trefarvede
+          Uniformer og skabte Tricoloren som Nationalflag, betegner Tolerancen haanligt som <ref
+            target="n347"/>»den almindelige Tolerantisme« og spaaer, at, hvis den blev indført,
+          vilde det kun lede til alle gode Sæders fuldstændige Forfald. Han gaaer saa vidt, at han
+          vil negte dem, der ikke bekjende sig til noget Religionssamfund, Retten til at gifte sig
+            <ref target="n348"/>»da man ikke kan ansee saadanne Mennesker for bundne ved deres
+          Ord«.</p>
+        <p>Da Stænderne træde sammen som <ref target="349"/>Nationalforsamling, tvinges
+          Geistligheden snart til Indrømmelser, men selv naar Misstemningen imod den kommer til
+          Orde, ender Oppositionen bestandig <pb n="12"/> med at iklæde sig de mildeste og
+          hensynsfuldeste Former. Da f. Ex. i Februar 1790 <persName key="joseph-comte-de-garat"
+            >Garat</persName> havde brugt det <ref target="n350"/>Udtryk om Præsteordinationen, at
+          den var et borgerligt Selvmord, og en Række Geistlige, hvoriblandt <persName
+            key="jean-siffrein-maury">Abbed Maury</persName> og Biskopperne af <persName
+            key="henri de la fare">Nancy</persName><!--Henri de La Fare--> og <persName
             key="francois-de-bonal">Clermont</persName><!--Francois de Bonal--> i Forbitrelse
           herover fore i Veiret, raabte paa Gudsbespottelse og indgav et Forslag om at den katholske
           Religion skulde erklæres for Nationalreligion, saa blev Forslaget vel forkastet, men paa
@@ -250,88 +253,95 @@
           Nationalreligion frem paany, denne Gang efter <persName key="jean-siffrein-maury"
             >Maury’s</persName> rasende Invectiver imod Forslaget om Kirkegodsernes Inddragning
           under Staten. Det blev denne Gang stillet af en Geistlig, <persName
-            key="christophe-antoine-gerle">Dom Gerle</persName>, der senere som Jakobiner viste sig
-          meget ivrig for at bringe denne sin første offentlige Optræden i Forglemmelse. <persName
-            key="honore-gabriel-riqueti-de-mirabeau">Mirabeau</persName> svarede med en Apostrophe
-          til det Vindue i <pb n="13"/>
-          <placeName key="louvre">Louvre</placeName>, som han fra Tribunen havde for Øie, »det
-          samme«, raabte han, »fra hvilket en fransk Monarch, der blandede de verdslige Interesser
-          med Religionens aandelige Interesser, affyrede den Arquebuse, der gav Signalet til
-          Bartholomæusnatten«. Og dog bøiede man atter denne Gang af og gik udenom Sagen, idet man
-          erklærede, at Religionens Majestæt og den Ærefrygt, man skyldte den, ikke tillod, at den
-          blev Gjenstand for en Forhandling. Hele Høire afholdt sig fra at stemme, og en Protest
-          blev ovenikjøbet nedlagt, underskrevet af 297 Medlemmer, hvoraf 144 af Kleresiet. Man var
-          vaklende og sagde sig selv imod. Adelen, der 100 Aar før havde tiljublet <persName
-            key="ludvig-14-louis-14">Ludvig d. 14de</persName> Bifald, da han tilbagekaldte det
-          Nantiske Edict, var gjennem Paavirkningen af det 18de Aarhundredes Litteratur bleven
-          saaledes omstemt, at den, da den forhandlede som Stand, i rent Voltairisk Aand havde
-          udtalt sig for almindelig Tolerance; men dog havde den ligesom uvis tilføiet, at den
-          katholske Kirke burde være Folkekirke. Borgerstanden, der tildels var jansenistisk og
-          derfor i Virkeligheden langt mindre frisindet, havde som Stand udtalt sig paa lignende
-          undvigende Maade. Men efter at Nationalforsamlingen var traadt sammen, var Standpunktet
-          principielt et saa bestemt, at enhver Uvished i Grunden forud var udelukket. Thi et af
-          Forsamlingens første Skridt er som <pb n="14"/> bekjendt Erklæringen af
+            key="christophe-antoine-gerle">Dom Gerle</persName>, der senere som <ref target="n5477"
+          />Jakobiner viste sig meget ivrig for at bringe denne sin første offentlige Optræden i
+          Forglemmelse. <persName key="honore-gabriel-riqueti-de-mirabeau">Mirabeau</persName>
+          svarede med en <ref target="n5561"/>Apostrophe til det Vindue i <pb n="13"/>
+          <placeName key="louvre">Louvre</placeName>, som han fra Tribunen havde for Øie, <ref
+            target="n353"/>»det samme«, raabte han, »fra hvilket en fransk Monarch, der blandede de
+          verdslige Interesser med Religionens aandelige Interesser, affyrede den Arquebuse, der gav
+          Signalet til <ref target="n354"/>Bartholomæusnatten«. Og dog bøiede man atter denne Gang
+          af og gik udenom Sagen, idet man erklærede, at Religionens Majestæt og den Ærefrygt, man
+          skyldte den, ikke tillod, at den blev Gjenstand for en Forhandling. Hele <ref
+            target="n355"/>Høire afholdt sig fra at stemme, og en Protest blev ovenikjøbet nedlagt,
+          underskrevet af 297 Medlemmer, hvoraf 144 af Kleresiet. Man var vaklende og sagde sig selv
+          imod. Adelen, der 100 Aar før havde tiljublet <persName key="ludvig-14-louis-14">Ludvig d.
+            14de</persName> Bifald, da han tilbagekaldte <ref target="n356"/>det Nantiske Edict, var
+          gjennem Paavirkningen af det 18de Aarhundredes Litteratur bleven saaledes omstemt, at den,
+          da den forhandlede som Stand, i rent Voltairisk Aand havde udtalt sig for almindelig
+          Tolerance; men dog havde den ligesom uvis tilføiet, at den katholske Kirke burde være
+          Folkekirke. Borgerstanden, der tildels var <ref target="n357"/>jansenistisk og derfor i
+          Virkeligheden langt mindre frisindet, havde som Stand udtalt sig paa lignende undvigende
+          Maade. Men efter at Nationalforsamlingen var traadt sammen, var Standpunktet principielt
+          et saa bestemt, at enhver Uvished i Grunden forud var udelukket. Thi et af Forsamlingens
+          første Skridt er som <pb n="14"/> bekjendt <ref target="n358"/>Erklæringen af
           Menneskerettighederne, og imellem disse Menneskerettigheder er udtrykkelig Frihed til at
           tænke selv i religiøse Anliggender stillet. Artikel 10 i Erklæringen lyder nemlig: »Ingen
           bør foruroliges for sine Meningers, end ikke for sine religiøse Meningers Skyld, forudsat
           at hans Tilkjendegivelse af disse ikke forstyrrer den lovlige Orden«. Paven svarede med at
-          betegne denne Frihed som »en monstruøs og vanvittig Ret, der kvæler Fornuften« (sic), og
-          hermed skulde det synes som om de to Leires Stilling til hinanden var bestemt.</p>
+          betegne denne Frihed som <ref target="n359"/>»en monstruøs og vanvittig Ret, der kvæler
+          Fornuften« (sic), og hermed skulde det synes som om de to Leires Stilling til hinanden var
+          bestemt.</p>
         <p>Man sporer, hvorledes Situationen klarer sig, da Talen i den constituerende Forsamling
           kommer paa Tolerancen. I Forslaget til Erklæringen af Menneskerettighederne var en Artikel
-          formuleret saaledes: »Gudsdyrkelsen hører under Politiet; følgelig tilkommer det Samfundet
-          at regulere den, at tillade een Cultus og forbyde en anden.« <persName
-            key="honore-gabriel-riqueti-de-mirabeau">Mirabeau</persName> angriber denne Artikel paa
-          det Voldsomste:</p>
-        <p>»Jeg vil ikke præke Tolerance,« siger han. »<!-- cit start og slut indsat -->Den mest
-          uindskrænkede Religionsfrihed er i mine Øine en saa hellig Ret, at Ordet Tolerance som
-          Udtryk for den næsten selv synes mig tyrannisk, da selve Existentsen af en Autoritet, der
-          har Magt til at tolerere, altsaa ogsaa til ikke at gjøre det, er et Attentat paa Tankens
-          Frihed.« I et følgende Møde gaaer han videre endnu: <pb n="15"/> »Man har talt om en
-          herskende Cultus; hvad mener man med herskende? jeg forstaaer ikke dette Ord og udbeder
-          mig en Definition deraf. Mener man en Cultus, som undertrykker de andre? Men har
-          Forsamlingen da ikke banlyst Ordet Undertrykkelse? Eller er det Fyrstens Religion, man
-          mener? Fyrsten har ikke Ret til at herske over Samvittighederne eller til at regulere
-          Meningerne. Eller mener man Flertallets Cultus? En Cultus er en Mening. Denne eller hin
-          Cultus er et Resultat af denne eller hin Mening. Men en Mening danner sig ikke ved
-          Sammentælling af Stemmer. Tanken tilhører os, er uafhængig og lader sig ikke binde«.</p>
+          formuleret saaledes: <ref target="n5349"/>»Gudsdyrkelsen hører under Politiet; følgelig
+          tilkommer det Samfundet at regulere den, at tillade een Cultus og forbyde en anden.«
+            <persName key="honore-gabriel-riqueti-de-mirabeau">Mirabeau</persName> angriber denne
+          Artikel paa det Voldsomste:</p>
+        <p><ref target="n360"/>»Jeg vil ikke præke Tolerance,« siger han.
+          »<!-- cit start og slut indsat -->Den mest uindskrænkede Religionsfrihed er i mine Øine en
+          saa hellig Ret, at Ordet Tolerance som Udtryk for den næsten selv synes mig tyrannisk, da
+          selve Existentsen af en Autoritet, der har Magt til at tolerere, altsaa ogsaa til ikke at
+          gjøre det, er et Attentat paa Tankens Frihed.« I et følgende Møde gaaer han videre endnu:
+            <pb n="15"/>
+          <ref target="n362"/>»Man har talt om en herskende Cultus; hvad mener man med herskende?
+          jeg forstaaer ikke dette Ord og udbeder mig en Definition deraf. Mener man en Cultus, som
+          undertrykker de andre? Men har Forsamlingen da ikke banlyst Ordet Undertrykkelse? Eller er
+          det Fyrstens Religion, man mener? Fyrsten har ikke Ret til at herske over Samvittighederne
+          eller til at regulere Meningerne. Eller mener man Flertallets Cultus? En Cultus er en
+          Mening. Denne eller hin Cultus er et Resultat af denne eller hin Mening. Men en Mening
+          danner sig ikke ved Sammentælling af Stemmer. Tanken tilhører os, er uafhængig og lader
+          sig ikke binde«.</p>
         <p>Man seer, hvorledes Modet til at udtale sin Anskuelse i religiøse Anliggender begyndte at
           prøve sine Vinger.</p>
         <p>Lad os see et andet Exempel paa, med hvilken Fart man saavel i som udenfor Forsamlingen
           fra en frygtsom Begyndelse hævede sig til Bevidsthed om den store aandelige Revolution,
           der foregik. Man maa for at forstaae det erindre, at i denne Forsamling var Fortidens
           Parti, bestaaende af Erkebiskopper og Bisper, Prindser, Hertuger, Marquis’er og Baroner i
-          Forening med nogle Deserteurer af tredie Stand endnu meget mægtigt. Alle disse Mænd, der
-          opholdt sig i Salens høire Side, troede endnu neppe paa Revolutionen og affærdi<pb n="16"
-          />gede tidt og mangen Gang de alvorligste Angreb med et Bonmot.</p>
-        <p>I October 1789 staaer for Nationalforsamlingens Skranke en besynderligt udseende
-          Deputation i lange Klæder og med østerlandske Træk. Det er Jøder fra <placeName
-            key="alsace">Elsass</placeName> og <placeName key="lorraine">Lothringen</placeName>. De
-          anraabe paa deres Troesfællers Vegne om Barmhjertighed. »Høibaarne Forsamling«, sagde de,
-          »I den Eviges Navn, der er Ophav til al Retfærdighed og Sandhed, i Guds Navn, som har
-          givet alle Mennesker lige Rettigheder og Pligter, i Menneskehedens Navn, der gjennem
-          Aarhundreder er bleven krænket ved den vanærende Behandling, som de ulykkelige
-          Efterkommere af det ældste af alle Folk have lidt i næsten alle Jordens Egne, er det, at
-          vi komme for at besværge Eder at værdiges at tage vor beklagelige Skjæbne under
-          Overveielse. De, som overalt ere forfulgte, overalt fornedrede, og dog altid underdanige,
-          aldrig oprørske, de, som hos alle Folk ere en Gjenstand for Indignation og Foragt, medens
-          de burde nyde Tolerance og Medlidenhed, Jøderne kaste sig for Eders Fødder og tillade sig
-          at haabe, at I midt under de vigtige Arbeider, som optage Eder, ikke ville ringeagte deres
-          Klager, at I med nogen Interesse ville høre de frygtsomme Indsigelser, som de vove at
-          nedlægge ud fra Dybet af den Nedværdigelse, hvori de ere begravne […] Gid en Reform, som
-          vi hidtil uden Nytte have ønsket og <pb n="17"/> som vi anraabe om med Taarer i Øinene,
-          maa være Eders Velgjerning og Eders Værk!«</p>
+          Forening med nogle Deserteurer af <ref target="n363"/>tredie Stand endnu meget mægtigt.
+          Alle disse Mænd, der opholdt sig <ref target="n5575"/>i Salens høire Side, troede endnu
+          neppe paa <ref target="n3416"/>Revolutionen og affærdi<pb n="16"/>gede tidt og mangen Gang
+          de alvorligste Angreb med et Bonmot.</p>
+        <p>I October 1789 staaer for <ref target="n3415"/>Nationalforsamlingens Skranke en
+          besynderligt udseende Deputation i lange Klæder og med østerlandske Træk. Det er Jøder fra
+            <placeName key="alsace">Elsass</placeName> og <placeName key="lorraine"
+            >Lothringen</placeName>. De anraabe paa deres Troesfællers Vegne om Barmhjertighed. <ref
+            target="n364"/>»Høibaarne Forsamling«, sagde de, »I den Eviges Navn, der er Ophav til al
+          Retfærdighed og Sandhed, i Guds Navn, som har givet alle Mennesker lige Rettigheder og
+          Pligter, i Menneskehedens Navn, der gjennem Aarhundreder er bleven krænket ved den
+          vanærende Behandling, som de ulykkelige Efterkommere af det ældste af alle Folk have lidt
+          i næsten alle Jordens Egne, er det, at vi komme for at besværge Eder at værdiges at tage
+          vor beklagelige Skjæbne under Overveielse. De, som overalt ere forfulgte, overalt
+          fornedrede, og dog altid underdanige, aldrig oprørske, de, som hos alle Folk ere en
+          Gjenstand for Indignation og Foragt, medens de burde nyde Tolerance og Medlidenhed,
+          Jøderne kaste sig for Eders Fødder og tillade sig at haabe, at I midt under de vigtige
+          Arbeider, som optage Eder, ikke ville ringeagte deres Klager, at I med nogen Interesse
+          ville høre de frygtsomme Indsigelser, som de vove at nedlægge ud fra Dybet af den
+          Nedværdigelse, hvori de ere begravne […] Gid en Reform, som vi hidtil uden Nytte have
+          ønsket og <pb n="17"/> som vi anraabe om med Taarer i Øinene, maa være Eders Velgjerning
+          og Eders Værk!«</p>
         <p>
-          <persName key="stanislas-greve-de-clermont-tonnerre">Clermont-Tonnerre</persName> tager
-          sig med Varme af dette rørende Bønskrift. Men man troer ikke, hvilke Paafund Geistligheden
-          hittede paa for at negte en Ret, der i Grunden maatte betragtes som allerede givet.
-            <persName key="jean-siffrein-maury">Abbed Maury</persName> reiser sig. Han har et bredt,
-          forvovent Ansigt, de syv Dødssynder i sit Ansigt, som man sagde om ham, en bestemt Mund,
-          Øine, som skinne af Forstand, Falskhed og Sophisteri, den Art Sophisteri, der indeholder
-          Forbauselse over, at noget Menneske kan falde paa at kalde det for Sophisteri. Han er fræk
-          og koldblodig. Det er ham, som faa Maaneder senere, da Befolkningen paa Gaden omringede
-          ham under Raabene: »Til Lygtepælen med ham!« svarede: »Troer I, kjære Venner, at I ville
-          see bedre for det?« Han siger: »Hvem vil endnu i vore Dage tale om Forfølgelse eller
+          <persName key="stanislas-greve-de-clermont-tonnerre"><ref target="n365"
+            />Clermont-Tonnerre</persName> tager sig med Varme af dette rørende Bønskrift. Men man
+          troer ikke, hvilke Paafund Geistligheden hittede paa for at negte en Ret, der i Grunden
+          maatte betragtes som allerede givet. <persName key="jean-siffrein-maury">Abbed
+            Maury</persName> reiser sig. Han har et bredt, forvovent Ansigt, de syv Dødssynder i sit
+          Ansigt, som man sagde om ham, en bestemt Mund, Øine, som skinne af Forstand, Falskhed og
+          Sophisteri, den Art Sophisteri, der indeholder Forbauselse over, at noget Menneske kan
+          falde paa at kalde det for Sophisteri. Han er fræk og koldblodig. Det er ham, som faa
+          Maaneder senere, da Befolkningen paa Gaden omringede ham under Raabene: <ref target="n366"
+          />»Til Lygtepælen med ham!« svarede: »Troer I, kjære Venner, at I ville see bedre for
+          det?« Han siger: <ref target="n367"/>»Hvem vil endnu i vore Dage tale om Forfølgelse eller
           Intolerance! Jøderne ere vore Brødre. Men at kalde Jøderne Borgere, det vilde være det
           Samme som at indrømme, at Englændere og Danske uden at have faaet Indfødsret og uden at
           ophøre med at være Englændere og Danske kunde blive Franskmænd«. Han dvæler ved Jødernes
@@ -347,18 +357,18 @@
           man gav dem Borgerrettigheder. Ja en ellers meget revolutionær Deputeret fra <placeName
             key="alsace">Elsass</placeName> bemærkede endog, at han ikke indestod for Roligheden i
           sin Provinds, ifald Forslaget om Jødernes Ligestilling gik igjennem.</p>
-        <p>Stemningen var flau. Man følte, at Forslagets Skjæbne var afgjort. Ikkun een eneste
-          Deputeret vover at nedlægge Protest. Det er en endnu helt ubekjendt Mand, Advocat af Fag,
-          en af dem, som da endnu holdt sig i anden Række og pleiede at sidde skjult bag de
-          fremtrædende Personligheder, der endnu for største Delen tilhørte de tilforn priviligerede
-          Stænder. Hans Ansigt er almindeligt og ikke meget livligt, men uhyggeligt blegt. Han er
-          simpelt, men særdeles renligt og omhyggeligt klædt, og hans Haar sidder smukt. Allerede
-          hans Ydre antyder hans Respect for sig selv og hans Lidenskab for Orden. Præsidenten
-            næv<pb n="19"/>ner hans Navn, som Ingen lægger Mærke til: <persName
+        <p>Stemningen var <ref target="n5580"/>flau. Man følte, at Forslagets Skjæbne var afgjort.
+          Ikkun een eneste Deputeret vover at nedlægge Protest. Det er en endnu helt ubekjendt Mand,
+          Advocat af Fag, en af dem, som da endnu holdt sig i anden Række og pleiede at sidde skjult
+          bag de fremtrædende Personligheder, der endnu for største Delen tilhørte de tilforn <ref
+            target="n368"/>priviligerede Stænder. Hans Ansigt er almindeligt og ikke meget livligt,
+          men uhyggeligt blegt. Han er simpelt, men særdeles renligt og omhyggeligt klædt, og hans
+          Haar sidder smukt. Allerede hans Ydre antyder hans Respect for sig selv og hans Lidenskab
+          for Orden. Præsidenten næv<pb n="19"/>ner hans Navn, som Ingen lægger Mærke til: <persName
             key="maximilien-de-robespierre">Maximilien Robespierre</persName>. Han bestiger Tribunen
-          og siger kort og skarpt: »Jødernes Laster ere en Følge af den Fornedrelse, hvori I have
-          holdt dem. De ville blive gode Mennesker, saasnart de have nogen Nytte af at være
-          det.«</p>
+          og siger kort og skarpt: <ref target="n369"/>»Jødernes Laster ere en Følge af den
+          Fornedrelse, hvori I have holdt dem. De ville blive gode Mennesker, saasnart de have nogen
+          Nytte af at være det.«</p>
         <p>Men han er den eneste i hele Forsamlingen, der taler for Forslaget. Charakteristisk nok
           indbefattede det Protestanter, Skuespillere og Jøder under Et. De to første Klassers
           Menneskerettigheder bleve anerkjendte; men da <persName
@@ -368,22 +378,23 @@
           hvilken Forandring i Tonen! Slavens ydmyge Bøn er bleven til Mandens bestemte og skarpe
           Fordring. Man appellerer ikke mere til de Herskendes Naade, men støtter sig til en
           Bevisførelse. Jeg anfører Slutningen:</p>
-        <p>»Hvis der var en Religion, hvis Bekjendere ikke kunde være Borgere, mens Bekjenderne af
-          andre Religioner kunde være det, saa vilde disse være herskende Religioner; men der gives
-          ingen herskende Religion, da alle have lige Rettigheder. Hvis man negter Jøderne
-          Borgerrettigheder, fordi de ere Jøder, straffer man dem, fordi de ere fødte i en bestemt
-          Religion. Men i saa Fald existerer der ingen Religionsfrihed, siden Tab af Borger<pb
-            n="20"/>rettigheder er knyttet til denne Frihed. Saameget er vist: idet man har hævet
-          Menneskene til religiøs Frihed, har man ogsaa havt til Hensigt at hæve dem til borgerlig
-          Frihed; der gives ingen Halv-Frihed, saa lidt som der gives en Halv-Retfærdighed.«</p>
-        <p>Faa Aar tilbragte i Revolutionens <app>
+        <p><ref target="n370"/>»Hvis der var en Religion, hvis Bekjendere ikke kunde være Borgere,
+          mens Bekjenderne af andre Religioner kunde være det, saa vilde disse være herskende
+          Religioner; men der gives ingen herskende Religion, da alle have lige Rettigheder. Hvis
+          man negter Jøderne Borgerrettigheder, fordi de ere Jøder, straffer man dem, fordi de ere
+          fødte i en bestemt Religion. Men i saa Fald existerer der ingen Religionsfrihed, siden Tab
+          af Borger<pb n="20"/>rettigheder er knyttet til denne Frihed. Saameget er vist: idet man
+          har hævet Menneskene til religiøs Frihed, har man ogsaa havt til Hensigt at hæve dem til
+          borgerlig Frihed; der gives ingen Halv-Frihed, saa lidt som der gives en
+          Halv-Retfærdighed.«</p>
+        <p>Faa Aar tilbragte i <ref target="n5478"/>Revolutionens <app>
             <lem>Atmosphære</lem>
             <rdg wit="A">Atmossphære</rdg>
           </app> havde givet disse Pariaer Selvfølelse og Stolthed. Denne Gang gik Forslaget
           igjennem uden Debat.</p>
         <p>I den constituerende Forsamling kom det Had til den positive Religion og dens Præster,
           som Philosopherne havde meddelt deres Tidsalder ikke endnu til Udbrud i Ord. Det bekjendte
-          Ord: »I Herrer af Kleresiet! nu barberer man <app>
+          Ord: <ref target="n371"/>»I Herrer af Kleresiet! nu barberer man <app>
             <lem wit="rett.bl.2">jer</lem>
             <rdg wit="A">jer bort <note>(ændret ordlyd pga. omarbejdelse i B og senere
                 udgaver)</note>
@@ -391,46 +402,47 @@
           </app>, og hvis I spræller alt for galt, blive I skaarne midt over«, lød fra
           Tilskuerpladsen ikke fra Salen. Forbitrelsen gav sig foreløbig Luft i Gjerning. Alt
           Kirkegods og Klostergods blev erklæret for Statseiendom. <persName key="francois-voltaire"
-            >Voltaire</persName> havde givet sine Disciple det Hverv »at knuse den infame«. De
-          troende Katholiker saa i den constituerende Forsamlings Beslutninger et Forsøg paa at
-          udføre hvad han havde ment med dette Hverv. I et rettroende Skrift fra 1792 »<bibl
-            n="lefranc-conjuration-contre-la-religion-catholique-et-les-souverains">Conjuration
-            contre la religion catholique et les souverains</bibl>« hedder det: »Aldrig har Christi
-          Kirke havt saa mange Fjender at bekjæmpe paa een Gang. Det synes som om det hele Helvede
-          er sluppet løs for at <pb n="21"/> hidføre dens Ruin […] Philosopherne ville afskaffe den
-          christelige Religion ikke blot i Frankrig, men i hele Europa, ja i hele Universet.« Der
-          ligger ingen Overdrivelse i disse Ord. Kun er det interessant at mindes, at Philosopherne
-          for at opnaae dette Resultat havde henvendt sig til de store Landes Regenter, til
-            <persName key="frederik-2-den-store">Friedrich af Preussen</persName>, til <persName
-            key="katharina-2-den-store">Catharina af Rusland</persName> og andre, men at det var ud
-          fra Folket, at Slaget blev ført, ifald man ved Folket vil forstaae Middelstanden. Paven
-          tog da ikke feil, da han om den constituerende Forsamling i en Tale til sine Cardinaler
-          sagde, »<!-- cit start indsat -->at Franskmændene havde gjort sig til Slaver af en
-          Forsamling af Philosopher og havde glemt, at de Nationer ere de lykkeligste, som adlyde
-          deres Konger.«</p>
-        <p>Præsterne, der, som bekjendt have fundet hvad der fattedes <persName key="archimedes"
-            >Archimedes</persName>: det Punkt udenfor Jorden, i den anden Verden, hvorfra de kunne
-          sætte denne i Bevægelse, begyndte allerede nu at fanatisere Provindserne. I <placeName
-            key="arras">Arras</placeName> bares et Billede om, hvor <persName
+            >Voltaire</persName> havde givet sine Disciple det Hverv <ref target="n373"/>»at knuse
+          den infame«. De troende Katholiker saa i den constituerende Forsamlings Beslutninger et
+          Forsøg paa at udføre hvad han havde ment med dette Hverv. I et rettroende Skrift fra 1792
+            »<bibl n="lefranc-conjuration-contre-la-religion-catholique-et-les-souverains"
+            >Conjuration contre la religion catholique et les souverains</bibl>« hedder det: <ref
+            target="n374"/>»Aldrig har Christi Kirke havt saa mange Fjender at bekjæmpe paa een
+          Gang. Det synes som om det hele Helvede er sluppet løs for at <pb n="21"/> hidføre dens
+          Ruin […] Philosopherne ville afskaffe den christelige Religion ikke blot i Frankrig, men i
+          hele Europa, ja i hele Universet.« Der ligger ingen Overdrivelse i disse Ord. Kun er det
+          interessant at mindes, at Philosopherne for at opnaae dette Resultat havde henvendt sig
+          til de store Landes Regenter, til <persName key="frederik-2-den-store">Friedrich af
+            Preussen</persName>, til <persName key="katharina-2-den-store">Catharina af
+            Rusland</persName> og andre, men at det var ud fra Folket, at Slaget blev ført, ifald
+          man ved Folket vil forstaae Middelstanden. Paven tog da ikke feil, da han om den
+          constituerende Forsamling i en Tale til sine Cardinaler sagde, <ref target="n376"
+          />»<!-- cit start indsat -->at Franskmændene havde gjort sig til Slaver af en Forsamling
+          af Philosopher og havde glemt, at de Nationer ere de lykkeligste, som adlyde deres
+          Konger.«</p>
+        <p>Præsterne, der, som bekjendt have fundet hvad der fattedes <ref target="n377"/><persName
+            key="archimedes">Archimedes</persName>: det Punkt udenfor Jorden, i den anden Verden,
+          hvorfra de kunne sætte denne i Bevægelse, begyndte allerede nu at fanatisere Provindserne.
+          I <placeName key="arras">Arras</placeName> bares et Billede om, hvor <persName
             key="jean-siffrein-maury">Maury</persName> og Royalisterne vare afmalede paa den høire
           Side af den Korsfæstede, de Revolutionære paa den anden Side under den onde Røver. Et
           sandt Oprør fandt Sted i Nîmes ved Efterretningen om at en Protestant, <persName
             key="jean-paul-rabaut-saint-etienne">Saint-Étienne</persName> var bleven valgt til
-          Præsident for Nationalforsamlingen.</p>
+          Præsident for <ref target="n379"/>Nationalforsamlingen.</p>
         <p>Den constitutionelle Ordning af Kirkens For<pb n="22"/>hold opnaaedes ved en Alliance
-          mellem Voltairianerne og Forsamlingens Jansenister. Disse sidste vare ganske vist gode
-          Christne, men det politiske Udslag af den jansenistiske Fatalisme var i ingen Henseende
-          forskjelligt fra Voltairianismens politiske Consequentser. Jansenisterne hadede som
-          religiøse den jordiske Storhed og godkjendte som Fatalister den menneskelige Elendighed,
-          de havde som ægte Bourgeois Lighedsfølelse opadtil og Ulighedsfølelse nedadtil, ganske som
-          Voltairianerne. De stemmede da fuldkomment overeens med disse angaaende Inddragningen af
-          Kirkens Rigdomme. Hertil kom, at den Mængde Skandaler, hvortil de høiere Geistliges Liv
-          gav Anledning, opbragte deres Moralitet. Det var saaledes f. Ex. bekjendt, at <persName
-            key="marie-madeleine-guimard">Mlle Guimard</persName>, <persName
+          mellem Voltairianerne og Forsamlingens <ref target="n380"/>Jansenister. Disse sidste vare
+          ganske vist gode Christne, men det politiske Udslag af den jansenistiske Fatalisme var i
+          ingen Henseende forskjelligt fra Voltairianismens politiske Consequentser. Jansenisterne
+          hadede som religiøse den jordiske Storhed og godkjendte som Fatalister den menneskelige
+          Elendighed, de havde som ægte Bourgeois Lighedsfølelse opadtil og Ulighedsfølelse
+          nedadtil, ganske som Voltairianerne. De stemmede da fuldkomment overeens med disse
+          angaaende Inddragningen af Kirkens Rigdomme. Hertil kom, at den Mængde Skandaler, hvortil
+          de høiere Geistliges Liv gav Anledning, opbragte deres Moralitet. Det var saaledes f. Ex.
+          bekjendt, at <persName key="marie-madeleine-guimard">Mlle Guimard</persName>, <persName
             key="louis-sextius-jarente-de-la-bruyere">Biskop Jarantes</persName> Elskerinde, bortgav
           geistlige Embeder i Operacoulisserne, at Erkebispen af Narbonne i et af sine Abbedier
           havde et helt Harem, at Cardinalen af Montmorency offentligt levede sammen med en
-          Abbedisse, ja at Bernardinerne i Abbediet <placeName
+          Abbedisse, ja at <ref target="n381"/>Bernardinerne i Abbediet <placeName
             key="abbaye-de-notre-dame-de-grandselve">Granselve</placeName> havde en hel lille By med
           eget Damekvarteer og med altid dækkede Borde indrettet til deres Orgier. (Livet der er
           beskrevet af et Øienvidne, den royalistiske og clericale Skribent <persName
@@ -441,48 +453,50 @@
           Opposition var foraarsaget af Havesyge. Men man rørte ved deres Disciplin og skaffede dem
           saaledes et Paaskud til Modstand. Enhver Modification af Cultus’ens ydre Former gav dem
           Anledning til at udskrige, at Religionen var rokket i sin Grund. De lavere Geistlige
-          vovede da saa godt som aldrig at aflægge Ed paa Constitutionen. Gjorde En det, saa blev
-          den ringe Løn, han modtog af Staten, sammenlignet med Judas’s Blodpenge, og det skjøndt
-          det tidligere fandtes ganske i sin Orden, at Biskopperne besadde Paladser og Haver og
-          havde enhver Art Livsnydelse til deres Raadighed, medens den lavere Geistlighed paa samme
-          Tid blev formeligt udhungret.</p>
+          vovede da saa godt som aldrig at aflægge Ed paa <ref target="n382"/>Constitutionen. Gjorde
+          En det, saa blev den ringe Løn, han modtog af Staten, sammenlignet med <ref target="n383"
+          />Judas’s Blodpenge, og det skjøndt det tidligere fandtes ganske i sin Orden, at
+          Biskopperne besadde Paladser og Haver og havde enhver Art Livsnydelse til deres Raadighed,
+          medens den lavere Geistlighed paa samme Tid blev formeligt udhungret.</p>
         <p>Den eneste, der uden at være hverken Voltairianer eller Jansenist, deltog i Discussionen
           om Kirkens Constitution, var <persName key="maximilien-de-robespierre"
-            >Robespierre</persName>. Han fremhævede <persName key="jean-jacques-rousseau"
-            >Rousseaus</persName> »civile Religion« (<!-- cit start og slut indsat -->»<bibl
-            n="rousseau-le-contrat-social">Contrat social</bibl>« 4,8) hvis Dogmer ere »Existentsen
-          af en mægtig, intelligent og alvidende Guddom, et tilkommende Liv, de Retfærdiges
-          Belønning, de Ondes Straf, den sociale Contracts Hellighed og Statens Love«. Han var en
-          Ordenens Mand, ingen Troende. Religiøsitet bestod for ham i Opfyldelsen af de sociale
-          Pligter. Kleresiet betragtede han som Magistratspersoner, som verdslige Embedsmænd. Han
-          anraabte med Rousseausk Følsomhed Forsamlingen om at understøtte de <pb n="24"/> gamle og
-          svage Præster og bad dem særligt sørge for dem, der vare over 70 Aar gamle og som hverken
-          havde Pension eller Sportler; men Forslaget afsloges. Hans Tid var endnu ikke kommen.</p>
+            >Robespierre</persName>. Han fremhævede <ref target="n384"/><persName
+            key="jean-jacques-rousseau">Rousseaus</persName> »civile Religion«
+            (<!-- cit start og slut indsat -->»<bibl n="rousseau-le-contrat-social">Contrat
+            social</bibl>« 4,8) hvis Dogmer ere <ref target="n5352"/>»Existentsen af en mægtig,
+          intelligent og alvidende Guddom, et tilkommende Liv, de Retfærdiges Belønning, de Ondes
+          Straf, den sociale Contracts Hellighed og Statens Love«. Han var en Ordenens Mand, ingen
+          Troende. Religiøsitet bestod for ham i Opfyldelsen af de sociale Pligter. Kleresiet
+          betragtede han som Magistratspersoner, som verdslige Embedsmænd. Han anraabte med
+          Rousseausk Følsomhed Forsamlingen om at understøtte de <pb n="24"/> gamle og svage Præster
+          og bad dem særligt sørge for dem, der vare over 70 Aar gamle og som hverken havde Pension
+          eller Sportler; men Forslaget afsloges. Hans Tid var endnu ikke kommen.</p>
         <p>Den nye Tingenes Orden gav paa Landet Anledning saavel til pudsige som til brutale
-          Scener. Man finder i Camille Desmoulins’ Bladartikler en meget humoristisk Skildring af en
-          Landsbypræsts ufrivillige Afsked fra sit Sogn. Ved Kirkens Dør finder han en Søndag efter
-          Gudstjenesten til sin Overraskelse en uhyre, fuldt pakket Flyttevogn med alle hans Sager,
-          ovenpaa Vognen sidder grædende hans Javotte, »Gouvernanten«, til hvem Skolemesteren siger
-          Farvel med en Taare i Øiet. Han sættes ind i Vognen under Raabene: Farvel, Farvel, Deres
-          Velærværdighed! og afsted gaaer det, tiltrods for at han skjælder og smelder, saalænge han
-          endnu kan see sit Klokketaarn. Men paa andre Steder blev Eden aftvunget Præsten med
-          Bajonetten for Brystet, ja en enkelt Gang blev han staaende paa Prædikestolen dræbt med et
-          Geværskud. Blev der nu imidlertid saaledes begaaet enkelte Overgreb mod de ubeedigede
-          Præster, saa var dette dog for Intet at regne mod, hvad der fra disses Side skete. De
-          skildrede for Landbefolkningen den civile Constitution, der i Virkeligheden ikke havde
-          rørt ved Religionen, som en Djævelens Gjerning. De lærte, at det var Dødssynd at <pb
-            n="25"/> tage Sacramentet af en Præst, der havde aflagt Ed til Regjeringen, at de Børn,
-          som de af disse Præster Viede fik, vare at betragte som Bastarder, ja at Guds Forbandelse
-          hvilede over ethvert saadant Barns Vugge. Snart blev en constitutionel Præst forfulgt med
-          Stenkast i Kirken, snart en anden hængt i Chorets Lysekrone. De Kirker,
-          Nationalforsamlingen havde ladet lukke, bleve aabnede med Øxeslag. I enkelte Departementer
-          droge morderiske Bander af Pilegrimme anførte af Præster over Markerne med Geværer og Spyd
-          i Haanden. Værst gik det dog til i <placeName key="bretagne">Bretagne</placeName>. Naar
-          der den simple Bonde var gaaet mange Mile fra sit eget Sogn for at høre en rigtig ↄ:
-          ubeediget Præst og saa ved sin Hjemkomst saae en halv Snees af sine Byesbørn gaae ud af
-          sin egen Kirke efter i al Mag at have hørt den nysankomne Præst, var hans Had saa levende,
-          at han troede sig berettiget til enhver Voldsomhed, hvortil han blev ophidset fra kirkelig
-          Side.</p>
+          Scener. Man finder i Camille Desmoulins’ Bladartikler en meget <ref target="n385"
+          />humoristisk Skildring af en Landsbypræsts ufrivillige Afsked fra sit Sogn. Ved Kirkens
+          Dør finder han en Søndag efter Gudstjenesten til sin Overraskelse en uhyre, fuldt pakket
+          Flyttevogn med alle hans Sager, ovenpaa Vognen sidder grædende hans Javotte,
+          »Gouvernanten«, til hvem Skolemesteren siger Farvel med en Taare i Øiet. Han sættes ind i
+          Vognen under Raabene: Farvel, Farvel, Deres Velærværdighed! og afsted gaaer det, tiltrods
+          for at han skjælder og smelder, saalænge han endnu kan see sit Klokketaarn. Men paa andre
+          Steder blev Eden aftvunget Præsten med Bajonetten for Brystet, ja en enkelt Gang blev han
+          staaende paa Prædikestolen dræbt med et Geværskud. Blev der nu imidlertid saaledes begaaet
+          enkelte Overgreb mod de <ref target="n386"/>ubeedigede Præster, saa var dette dog for
+          Intet at regne mod, hvad der fra disses Side skete. De skildrede for Landbefolkningen <ref
+            target="n3417"/>den civile Constitution, der i Virkeligheden ikke havde rørt ved
+          Religionen, som en Djævelens Gjerning. De lærte, at det var Dødssynd at <pb n="25"/> tage
+          Sacramentet af en Præst, der havde aflagt Ed til Regjeringen, at de Børn, som de af disse
+          Præster Viede fik, vare at betragte som Bastarder, ja at Guds Forbandelse hvilede over
+          ethvert saadant Barns Vugge. Snart blev en <ref target="n5353"/>constitutionel Præst
+          forfulgt med Stenkast i Kirken, snart en anden hængt i Chorets Lysekrone. De Kirker, <ref
+            target="n387"/>Nationalforsamlingen havde ladet lukke, bleve aabnede med Øxeslag. I
+          enkelte Departementer droge morderiske Bander af Pilegrimme anførte af Præster over
+          Markerne med Geværer og Spyd i Haanden. Værst gik det dog til i <placeName key="bretagne"
+            >Bretagne</placeName>. Naar der den simple Bonde var gaaet mange Mile fra sit eget Sogn
+          for at høre en rigtig ↄ: ubeediget Præst og saa ved sin Hjemkomst saae en halv Snees af
+          sine Byesbørn gaae ud af sin egen Kirke efter i al Mag at have hørt den nysankomne Præst,
+          var hans Had saa levende, at han troede sig berettiget til enhver Voldsomhed, hvortil han
+          blev ophidset fra kirkelig Side.</p>
         <p>Da nu den lovgivende Forsamling traadte sammen, var der ingen Stænder mere. Adelen havde
           emigreret, og den høiere Geistlighed anraabte i Exilet om de fremmede Hoffers Bistand. Den
           lavere Geistlighed var fanatisk contrarevolutionær og ophidsede den uvidende Mængde mod
@@ -491,147 +505,152 @@
           den ikke stemmer med Constitutionen, og imod Geistligheden, at den udelukkende gaaer ud
           paa at faae sine Eiendomme og sit Gods tilbage. Præsternes Løgne og Voldsgjerninger have
           irriteret Stemningen til det Yderste. Hvis et Par forsonlige Stemmer lade sig høre som
-          Digteren <persName key="andre-de-chenier">André Chénier’s</persName>, der ytrede, at
-          Præsterne ikke forstyrre Staten, naar den ikke beskjæftiger sig med dem, eller som
-            <persName key="charles-maurice-de-talleyrand-perigord">Talleyrand’s</persName>, der
-          sagde, at da ingen Religion var en Lov, burde heller ingen Religion være en Forbrydelse,
-          saa er det dog nu den Voltaireske Indignation, der for lang Tid alene har Ordet.</p>
-        <p>Denne Tid er Girondinernes Periode, og Girondinismen er det historiske Udtryk for
-            <persName key="francois-voltaire">Voltaires</persName> Aand. Girondineren er
-          Individualist til det Yderste, liberal i dette Ords moderne Forstand, det vil sige, at han
-          gjør det fra Samfundet udskilte Individ og dets Fornuft til eneste Dommer over dets
-          Omgivelser og sig selv. Den individuelle Fornuft føler sig ikke opfordret til at vise
-          Samfundsreligionen og dens Bærere noget Hensyn.</p>
+          Digteren <persName key="andre-de-chenier">André Chénier’s</persName>, der ytrede, at <ref
+            target="n389"/>Præsterne ikke forstyrre Staten, naar den ikke beskjæftiger sig med dem,
+          eller som <persName key="charles-maurice-de-talleyrand-perigord">Talleyrand’s</persName>,
+          der sagde, at <ref target="n390"/>da ingen Religion var en Lov, burde heller ingen
+          Religion være en Forbrydelse, saa er det dog nu den Voltaireske Indignation, der for lang
+          Tid alene har Ordet.</p>
+        <p>Denne Tid er <ref target="n391"/>Girondinernes Periode, og Girondinismen er det
+          historiske Udtryk for <persName key="francois-voltaire">Voltaires</persName> Aand.
+          Girondineren er Individualist til det Yderste, liberal i dette Ords moderne Forstand, det
+          vil sige, at han gjør det fra Samfundet udskilte Individ og dets Fornuft til eneste Dommer
+          over dets Omgivelser og sig selv. Den individuelle Fornuft føler sig ikke opfordret til at
+          vise Samfundsreligionen og dens Bærere noget Hensyn.</p>
         <p>Girondinernes berømte Fører <persName key="pierre-victurien-vergniaud"
-            >Vergniaud</persName> redigerer en Proclamation, hvori det hedder: »Oprørske Præster
-          forberede en Reisning imod Constitutionen, disse Despotismens frække Drabanter anraabe
-          alle Troner om Guld og Soldater for at gjenerobre Frankrigs Scepter.« Som Minister for det
-          Indre siger <persName key="jean-marie-roland-de-la-platiere">Roland</persName>: »Oprørske
-          og hyk<pb n="27"/>lerske Præster, der dække deres Planer og Lidenskaber med Religionens
-          hellige Slør, betænke sig ikke paa at ophidse Fanatismen og væbne deres vildledte
-          Medborgere med Intolerancens Sværd.« Ja paa Forslaget om at landsforvise Præsterne taler
-            <persName key="pierre-victurien-vergniaud">Vergniaud</persName> halvt i Spøg, halvt i
-          Alvor, som kunde man ikke være bekjendt at tilføie Udlandet et saadant Onde, som man
-          afstedkom ved at sende det denne Present. »I Almindelighed«<!-- cit slut indsat -->, siger
-          han, <!-- cit start indsat -->»gives der ikke noget mere Umoralsk end at sende et Nabofolk
-          de Forbrydere, for hvilke et Samfund vil befrie sig selv.« Han trøster sig imidlertid med,
-          at de ville blive modtagne som sande Helgene i Italien og »at Paven i den Foræring af
-          saamange levende Helgene, som vi sende ham, vil see et beskedent Forsøg paa at udtrykke
-          vor Erkjendtlighed for alle de Arme, de Ben og de Reliqvier af døde Helgene, hvormed han
-          gjennem Aarhundreder saa rigeligt har betænkt vor fromme Lettroenhed.«</p>
+            >Vergniaud</persName> redigerer en Proclamation, hvori det hedder: <ref target="n392"
+          />»Oprørske Præster forberede en Reisning imod Constitutionen, disse Despotismens frække
+          Drabanter anraabe alle Troner om Guld og Soldater for at gjenerobre Frankrigs Scepter.«
+          Som Minister for det Indre siger <persName key="jean-marie-roland-de-la-platiere"
+            >Roland</persName>: <ref target="n393"/>»Oprørske og hyk<pb n="27"/>lerske Præster, der
+          dække deres Planer og Lidenskaber med Religionens hellige Slør, betænke sig ikke paa at
+          ophidse Fanatismen og væbne deres vildledte Medborgere med Intolerancens Sværd.« Ja paa
+          Forslaget om at landsforvise Præsterne taler <persName key="pierre-victurien-vergniaud"
+            >Vergniaud</persName> halvt i Spøg, halvt i Alvor, som kunde man ikke være bekjendt at
+          tilføie Udlandet et saadant Onde, som man afstedkom ved at sende det denne Present. <ref
+            target="n394"/>»I Almindelighed«<!-- cit slut indsat -->, siger han,
+          <!-- cit start indsat -->»gives der ikke noget mere Umoralsk end at sende et Nabofolk de
+          Forbrydere, for hvilke et Samfund vil befrie sig selv.« Han trøster sig imidlertid med, at
+          de ville blive modtagne som sande Helgene i Italien og <ref target="n395"/>»at Paven i den
+          Foræring af saamange levende Helgene, som vi sende ham, vil see et beskedent Forsøg paa at
+          udtrykke vor Erkjendtlighed for alle de Arme, de Ben og de Reliqvier af døde Helgene,
+          hvormed han gjennem Aarhundreder saa rigeligt har betænkt vor fromme Lettroenhed.«</p>
         <p>Ja, tilføier Girondineren <persName key="maximin-isnard">Isnard</persName>, den senere
-          Præsident for Conventet: »Lad os sende disse Pestbefængte til <placeName key="rom"
-            >Roms</placeName> og Italiens Lazarether.« Han udvikler, at naar en Præst er fordærvet,
-          er han det aldrig halvt, at det at tilgive Forbrydelsen er det Samme som at deltage i den,
-          at der maa gjøres en Ende paa Tingenes Tilstand som den er, og at det er Revolutionens
-          Fjender, der selv tvinge den til at knuse dem. Han udraaber for <pb n="28"/> første Gang
-          det frygtelige Ord, der senere fandt saa mangedobbelt <app>
+          Præsident for <ref target="n396"/>Conventet: <ref target="n397"/>»Lad os sende disse
+          Pestbefængte til <placeName key="rom">Roms</placeName> og Italiens Lazarether.« Han
+          udvikler, at naar en Præst er fordærvet, er han det aldrig halvt, at det at tilgive
+          Forbrydelsen er det Samme som at deltage i den, at der maa gjøres en Ende paa Tingenes
+          Tilstand som den er, og at det er Revolutionens Fjender, der selv tvinge den til at knuse
+          dem. Han udraaber for <pb n="28"/> første Gang det frygtelige Ord, der senere fandt saa
+          mangedobbelt <app>
             <lem wit="rett.bl.1">Echo</lem>
             <rdg wit="A">Ekcho</rdg>
             <rdg wit="B SS Fu 1923-24">Ekko</rdg>
-          </app>: »Der behøves ingen Beviser.« Der behøves ingen Beviser ↄ: at Præsten bør udjages
-          af Frankrig, saasnart der overhovedet klages over ham.</p>
+          </app>: <ref target="n398"/>»Der behøves ingen Beviser.« Der behøves ingen Beviser ↄ: at
+          Præsten bør udjages af Frankrig, saasnart der overhovedet klages over ham.</p>
         <p>Og da der nu ytres Frygt for ved disse Foranstaltninger at afstedkomme Borgerkrig, holder
           den bekjendte Girondiner <persName key="marguerite-elie-guadet">Guadet</persName>,
           Discipel af <persName key="paul-henri-d-holbach">Holbach</persName>, en beroligende Tale,
-          hvori han bl. A. siger: »<!-- cit start indsat -->Enhver veed, at Præsten er lige saa feig
-          som havesyg, at han ikke kjender andet Vaaben end Overtroens og at han, som kun er vant
-          til theologiske Klopfægterier, er for Intet at regne paa en Valplads.« Det viste sig
-          snart, hvor fuldstændigt den gode Mand og hans Meningsfæller toge feil i dette Punkt og
-          med hvilken Lidenskab Præsterne gik i Spidsen under den blodige Borgerkrig, som fulgte. –
-          Snart gaaer det nu saavidt, at Talerne gjøre formelige Undskyldninger, naar de ere
-          nødsagede til at underholde Forsamlingen om disse Gjenstande. I en Tale af <persName
-            key="antoine-francois-de-nantes">François de Nantes</persName>, hvor han vel at mærke
-          optræder som Ordfører for et <app>
+          hvori han bl. A. siger: <ref target="n399"/>»<!-- cit start indsat -->Enhver veed, at
+          Præsten er lige saa feig som havesyg, at han ikke kjender andet Vaaben end Overtroens og
+          at han, som kun er vant til theologiske Klopfægterier, er for Intet at regne paa en
+          Valplads.« Det viste sig snart, hvor fuldstændigt den gode Mand og hans Meningsfæller toge
+          feil i dette Punkt og med hvilken Lidenskab Præsterne gik i Spidsen under den blodige
+          Borgerkrig, som fulgte. – Snart gaaer det nu saavidt, at Talerne gjøre formelige
+          Undskyldninger, naar de ere nødsagede til at underholde Forsamlingen om disse Gjenstande.
+          I en Tale af <persName key="antoine-francois-de-nantes">François de Nantes</persName>,
+          hvor han vel at mærke optræder som Ordfører for et <app>
             <lem>Udvalg,</lem>
             <rdg wit="A">Udvalg.</rdg>
-          </app> hedder det: »Vi kunne kun trøste os over den Nødvendighed, hvori vi befinde os, at
-          maatte underholde Dem om Præsternes Cultus, ved det Haab, at de Forholdsregler, til hvilke
-          De ville gribe, snart ville sætte Dem istand til aldrig mere at høre Tale derom.« Den hele
-          Tale er et Væv af Drøiheder, <pb n="29"/> som jeg forbigaaer. Høie og ringe dele denne
-          Stemning. En af <persName key="ludvig-16-louis-16">Ludvig den 16des</persName> Ministre,
-          den grove og voldsomme, lidenskabeligt revolutionære <persName
-            key="bon-claude-cahier-de-gerville">Cahier de Gerville</persName>, sagde en Dag, da han
-          gik ud af Statsraadet, til sin Collega <persName
+          </app> hedder det: <ref target="n400"/>»Vi kunne kun trøste os over den Nødvendighed,
+          hvori vi befinde os, at maatte underholde Dem om Præsternes Cultus, ved det Haab, at de
+          Forholdsregler, til hvilke De ville gribe, snart ville sætte Dem istand til aldrig mere at
+          høre Tale derom.« Den hele Tale er et Væv af Drøiheder, <pb n="29"/> som jeg forbigaaer.
+          Høie og ringe dele denne Stemning. En af <persName key="ludvig-16-louis-16">Ludvig den
+            16des</persName> Ministre, den grove og voldsomme, lidenskabeligt revolutionære
+            <persName key="bon-claude-cahier-de-gerville">Cahier de Gerville</persName>, sagde en
+          Dag, da han gik ud af Statsraadet, til sin Collega <persName
             key="antoine-francois-bertrand-de-molleville">Molleville</persName>, der i sine Memoirer
-          har opbevaret Ordet: »Jeg vilde ønske, at jeg kunde have det fordømte Utøi af Præster fra
-          alle Lande imellem mine Fingre for at knuse dem alle paa een Gang.« Men med stille
-          Værdighed kom Revolutionsaanden til Orde i en Epistel, som Republiken sendte til Paven og
-          som man havde overdraget en Kvinde at forfatte. Den er stilet til »Fyrst-Biskoppen af
-          Rom«. I Republikens Navn skriver <persName key="jeanne-manon-roland">Madame
-            Roland</persName> til Paven: »Du den romerske Kirkes Ypperstepræst, Du Fyrste for en
-          Stat, som glider ud af dine Hænder, vid, at Du kun kan bevare Stat og Kirke ved en
-          uegennyttig Bekjendelse af hine evangeliske Principer, der aande det reneste Demokrati,
-          den ømmeste Menneskekjærlighed og den fuldkomneste Lighed, og som Christi Statholdere kun
-          have forstaaet at besmykke sig med for at forøge en Herskermagt, der nu falder sammen af
-          Ælde. Uvidenhedens Aarhundreder ere forbi.«</p>
+          har opbevaret Ordet: <ref target="n401"/>»Jeg vilde ønske, at jeg kunde have det fordømte
+          Utøi af Præster fra alle Lande imellem mine Fingre for at knuse dem alle paa een Gang.«
+          Men med stille Værdighed kom Revolutionsaanden til Orde i en Epistel, som Republiken
+          sendte til Paven og som man havde overdraget en Kvinde at forfatte. Den er stilet til
+          »Fyrst-Biskoppen af Rom«. I Republikens Navn skriver <persName key="jeanne-manon-roland"
+            >Madame Roland</persName> til Paven: <ref target="n402"/>»Du den romerske Kirkes
+          Ypperstepræst, Du Fyrste for en Stat, som glider ud af dine Hænder, vid, at Du kun kan
+          bevare Stat og Kirke ved en uegennyttig Bekjendelse af hine evangeliske Principer, der
+          aande det reneste Demokrati, den ømmeste Menneskekjærlighed og den fuldkomneste Lighed, og
+          som Christi Statholdere kun have forstaaet at besmykke sig med for at forøge en
+          Herskermagt, der nu falder sammen af Ælde. Uvidenhedens Aarhundreder ere forbi.«</p>
         <p>Ord som disse tage sig ud som Perler imellem Blykugler, naar de holdes ved Siden af, hvad
           ellers blev sagt og skrevet. Den rolige Overbevisnings Tid er omme, de løsladte
           Lidenskabers Tid <pb n="30"/> er begyndt. Og Lidenskaberne følge Overbevisningernes Spor.
           Hadet til Katholicismen naaer sin Høide. Dette Had staaer i een samlet Flamme over
           Frankrig. Det er Klubbernes gyldne Tid.</p>
-        <p>Cordeliererne havde deres Klub i en <placeName key="couvent-des-cordeliers"
-            >Klosterkirke</placeName>. <persName key="francois-rene-vicomte-de-chateaubriand"
-            >Chateaubriand</persName> har som Øienvidne beskrevet den i sine Memoirer. Alle
-          Malerierne, alt det udskaarne Arbeide, Tapeter og Billeder vare revne ned, kun det blotte
-          Skelet af Kirken stod tilbage. I Kirkens Chor, hvor Regn og Blæst trængte ind igjennem de
-          ituslaaede Ruder i Rosen, var Præsidentens Sæde. Hans Bord dannedes af Høvlebænke, der
-          vare stillede ved Siden af hinanden. Paa dem stod en Række røde Huer, og Enhver, som vilde
-          tale, tog først en rød Hue paa. Bag Præsidenten stod en Statue af Friheden med
-          sønderbrudte Marterredskaber i sin Haand. Tømmerværk, itubrukne Bænke og Kirkestole,
-          Stumper af ituslagne Helgener afgave Sæder og Skamler for den store Hob af støvede og
-          vildt udseende Tilskuere i hullede Carmagnoler (saadan kaldtes deres Trøier) og med Spyd
-          paa Skuldrene eller de nøgne Arme over Kors. Talerne udtrykte sig drøit og ligefrem,
-          enhver Ting blev nævnet ved sit rette Navn. Et cynisk Ord og en cynisk Gestus vakte
-          Bifald. Modstandere afbrød dem, undertiden afbrødes de ogsaa af de smaa, mørke, skrigende
-          Ugler, der havde boet under Klostertaget og som nu fløi ud og ind gjennem de itu<pb n="31"
-          />brukne Vinduer i Haab om at finde nogen Føde. Præsidentens Klokke formaaede ikke at
-          bringe dem til Taushed, undertiden skjød man efter dem, og de faldt blødende og sprællende
-          ned i Forsamlingen. Her talte <persName key="georges-jacques-danton">Danton</persName>,
-            <persName key="jean-paul-marat">Marat</persName> og <persName key="camille-desmoulins"
-            >Camille Desmoulins</persName>, den elskværdige og vittige Camille, der gjaldt for saa
-          moderat, at han maatte forsvare sig imod Beskyldningen for Skinhellighed og som endnu for
-          Revolutionstribunalet førte Sansculotten Jesus i Munden. Han havde sine private Grunde til
-          Had mod Præsterne. Da han i December 1790 vilde giftes med sin elskede <persName
-            key="lucille-desmoulins">Lucile</persName>, uden Tvivl en af Revolutionens skjønneste og
-          reneste Kvindeskikkelser, og da hans Forening med hende kun manglede Præstens
-          Stadfæstelse, var der ingen Præst, som vilde vie ham, fordi han i en Bladartikel havde
-          sagt, at Mahomeds Religion var ganske ligesaa evident som Jesu Religion. Han nødtes da til
-          at kalde sine Ord tilbage og gaae til Skrifte for at blive gift. Men nu tog han sin
-          Revanche. I sit Blad »<bibl n="desmoulins-le-vieux-cordelier">Le vieux Cordelier</bibl>«
-          skrev han: »Man har sluttet Capitlet om Præsterne og om alle Religioner, naar man har
-          sagt, at de ligne hverandre deri, at de alle ere lige latterlige, og naar man har anført,
-          at Tartarerne spise den store Lamas Excrementer som de største Lækkerbidskener. Der gives
-          ikke saa usselt et Løghoved, at det jo har været æret som Jupiters Lige. Mongolerne
-          tilbede en Ko, som er Gjen<pb n="32"/>stand for lige saa mange Knæfald som Guden Apis […]
-          vi have ikke Lov til at ærgre os over alle disse Dumheder, vi, som saa længe i vor
-          Enfoldighed have ladet os narre til at troe »que l’on gobait un dieu comme on avale un
-          huître«<!-- cit slut indsat -->«. Hos Cordeliererne gik <persName key="elisee-loustalot"
-            >Loustalots</persName> indflydelsesrige Avis »<bibl n="loustalot-revolutions-de-paris"
-            >Les révolutions de Paris</bibl>« fra Haand til Haand. I Fasten 1792 stod der i
-          Anledning af Markedsløierne at læse i den: »Paa den Tid, da der var en herskende Religion
-          i Frankrig, taalte de kronragede Gjøglere ingen Concurrence i den stille Uge. Det var
-          dengang kun dem tilladt at give Forestillinger. Nu er Concurrencen fri. Naar
-          Taskenspilleren imidlertid stiger op paa sin Fjællebod, er han klædt i et pudserligt
-          Hovedtøi og en Mantille, som gjør ham bemærket i Folkemængden udenom ham; men naar
-          Forestillingen er tilende, tager han Costumet af. Præsten derimod fortsætter sin Rolle
-          udenfor Scenen og beholder til daglig Brug Masken paa […] Naar ville de rødme over at være
-          Menneskeslægtens Harlekiner?« Fra nu af bliver den staaende revolutionære Benævnelse af
-          Præsterne Theophager (ↄ: Gudspisere). Kort efter bringer samme Blad en Artikel, hvori det
-          foreslaaes at anvende samme Forholdsregel mod Præsterne som <persName
-            key="johanne-1-af-anjou">Johanne af Neapel</persName> indførte for berygtede
-          Fruentimmer: »Man bør indelukke dem i et Hus, hvor de saa kunne præke og bede, saa meget
-          de have Lyst til, for dem, der <pb n="33"/> komme og besøge dem; men det forbydes dem at
-          gaae ud, for at de ikke skulle forpeste Befolkningen.« Dette skreves i April. I Marts
-          havde den lovgivende Forsamling i den forøvrigt menneskekjærlige Hensigt at skaane de
-          Dødsdømte for enhver Art physisk Tortur vedtaget en vis Maskine til Udførelsen af
-          Dødsdomme, som først blev forsøgt paa Lig, men som snart blev bragt i Anvendelse paa de
-          Levende. Den fik Navnet Guillotine, og man føler noget af dens skarpe Stil i den sidst
-          anførte Artikel. Voltaires Vin er her bleven til Galde og Gift.</p>
-        <p>Overfor Cordelierernes Club stod Jacobinernes med meget forskjellig Charakter. Dens
-          Aandsretning var tung, alvorlig og pedantisk. Den stillede sig under <persName
-            key="jean-jacques-rousseau">Rousseaus</persName> Auspicier som Cordelierernes under
-            <persName key="francois-voltaire">Voltaires</persName>. Den var organisatorisk og
+        <p><ref target="n403"/>Cordeliererne havde deres Klub i en <placeName
+            key="couvent-des-cordeliers">Klosterkirke</placeName>. <ref target="n404"/><persName
+            key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> har som Øienvidne
+          beskrevet den i sine Memoirer. Alle Malerierne, alt det udskaarne Arbeide, Tapeter og
+          Billeder vare revne ned, kun det blotte Skelet af Kirken stod tilbage. I Kirkens Chor,
+          hvor Regn og Blæst trængte ind igjennem de ituslaaede Ruder i <ref target="n405"/>Rosen,
+          var Præsidentens Sæde. Hans Bord dannedes af Høvlebænke, der vare stillede ved Siden af
+          hinanden. Paa dem stod en Række røde Huer, og Enhver, som vilde tale, tog først en rød Hue
+          paa. Bag Præsidenten stod en Statue af Friheden med sønderbrudte Marterredskaber i sin
+          Haand. Tømmerværk, itubrukne Bænke og Kirkestole, Stumper af ituslagne Helgener afgave
+          Sæder og Skamler for den store Hob af støvede og vildt udseende Tilskuere i hullede
+          Carmagnoler (saadan kaldtes deres Trøier) og med Spyd paa Skuldrene eller de nøgne Arme
+          over Kors. Talerne udtrykte sig drøit og ligefrem, enhver Ting blev nævnet ved sit rette
+          Navn. Et cynisk Ord og en cynisk Gestus vakte Bifald. Modstandere afbrød dem, undertiden
+          afbrødes de ogsaa af de smaa, mørke, skrigende Ugler, der havde boet under Klostertaget og
+          som nu fløi ud og ind gjennem de itu<pb n="31"/>brukne Vinduer i Haab om at finde nogen
+          Føde. Præsidentens Klokke formaaede ikke at bringe dem til Taushed, undertiden skjød man
+          efter dem, og de faldt blødende og sprællende ned i Forsamlingen. Her talte <persName
+            key="georges-jacques-danton">Danton</persName>, <persName key="jean-paul-marat"
+            >Marat</persName> og <persName key="camille-desmoulins">Camille Desmoulins</persName>,
+          den elskværdige og vittige Camille, der gjaldt for saa moderat, at han maatte forsvare sig
+          imod Beskyldningen for Skinhellighed og som endnu for <ref target="n3505"
+          />Revolutionstribunalet førte <ref target="n406"/>Sansculotten Jesus i Munden. Han havde
+          sine private Grunde til Had mod Præsterne. Da han i December 1790 vilde giftes med sin
+          elskede <persName key="lucille-desmoulins">Lucile</persName>, uden Tvivl en af
+          Revolutionens skjønneste og reneste Kvindeskikkelser, og da hans Forening med hende kun
+          manglede Præstens Stadfæstelse, var der ingen Præst, som vilde vie ham, fordi han i <ref
+            target="n407"/>en Bladartikel havde sagt, at Mahomeds Religion var ganske ligesaa
+          evident som Jesu Religion. Han nødtes da til at kalde sine Ord tilbage og gaae til Skrifte
+          for at blive gift. Men nu tog han sin Revanche. I sit Blad »<bibl
+            n="desmoulins-le-vieux-cordelier">Le vieux Cordelier</bibl>« skrev han: <ref
+            target="n408"/>»Man har sluttet Capitlet om Præsterne og om alle Religioner, naar man
+          har sagt, at de ligne hverandre deri, at de alle ere lige latterlige, og naar man har
+          anført, at Tartarerne spise den store Lamas Excrementer som de største Lækkerbidskener.
+          Der gives ikke saa usselt et Løghoved, at det <ref target="n5623"/>jo har været æret som
+          Jupiters Lige. Mongolerne tilbede en Ko, som er Gjen<pb n="32"/>stand for lige saa mange
+          Knæfald som Guden Apis […] vi have ikke Lov til at ærgre os over alle disse Dumheder, vi,
+          som saa længe i vor Enfoldighed have ladet os narre til at troe <ref target="n411"/>»que
+          l’on gobait un dieu comme on avale un huître«<!-- cit slut indsat -->«. Hos Cordeliererne
+          gik <persName key="elisee-loustalot">Loustalots</persName> indflydelsesrige Avis »<bibl
+            n="loustalot-revolutions-de-paris">Les révolutions de Paris</bibl>« fra Haand til Haand.
+          I Fasten 1792 stod der i Anledning af Markedsløierne at læse i den: <ref target="n412"
+          />»Paa den Tid, da der var en herskende Religion i Frankrig, taalte de kronragede Gjøglere
+          ingen Concurrence i <ref target="n5624"/>den stille Uge. Det var dengang kun dem tilladt
+          at give Forestillinger. Nu er Concurrencen fri. Naar Taskenspilleren imidlertid stiger op
+          paa sin Fjællebod, er han klædt i et pudserligt Hovedtøi og en Mantille, som gjør ham
+          bemærket i Folkemængden udenom ham; men naar Forestillingen er tilende, tager han Costumet
+          af. Præsten derimod fortsætter sin Rolle udenfor Scenen og beholder til daglig Brug Masken
+          paa […] Naar ville de rødme over at være Menneskeslægtens Harlekiner?« Fra nu af bliver
+          den staaende revolutionære Benævnelse af Præsterne Theophager (ↄ: Gudspisere). Kort efter
+          bringer samme Blad en Artikel, hvori det foreslaaes at anvende samme Forholdsregel mod
+          Præsterne som <persName key="johanne-1-af-anjou">Johanne af Neapel</persName> indførte for
+          berygtede Fruentimmer: <ref target="n414"/>»Man bør indelukke dem i et Hus, hvor de saa
+          kunne præke og bede, saa meget de have Lyst til, for dem, der <pb n="33"/> komme og besøge
+          dem; men det forbydes dem at gaae ud, for at de ikke skulle forpeste Befolkningen.« Dette
+          skreves i April. I Marts havde den lovgivende Forsamling i den forøvrigt menneskekjærlige
+          Hensigt at skaane de Dødsdømte for enhver Art physisk Tortur vedtaget en vis Maskine til
+          Udførelsen af Dødsdomme, som først blev forsøgt paa Lig, men som snart blev bragt i
+          Anvendelse paa de Levende. Den fik Navnet Guillotine, og man føler noget af dens skarpe
+          Stil i den sidst anførte Artikel. Voltaires Vin er her bleven til Galde og Gift.</p>
+        <p>Overfor Cordelierernes Club stod <ref target="n415"/>Jacobinernes med meget forskjellig
+          Charakter. Dens Aandsretning var tung, alvorlig og pedantisk. Den stillede sig under
+            <persName key="jean-jacques-rousseau">Rousseaus</persName> Auspicier som Cordelierernes
+          under <persName key="francois-voltaire">Voltaires</persName>. Den var organisatorisk og
           formalistisk, derfor følte uafhængige Naturer som <persName key="camille-desmoulins"
             >Camille Desmoulins</persName> eller fremfusende Naturer som <persName
             key="georges-jacques-danton">Danton</persName> sig ikke hjemme i den. Jacobinernes
@@ -645,48 +664,50 @@
           Litteratur. Man skulde sige, at de ikke aspirerede til anden Ære end den at omsætte
           færdige Theorier i Praxis. Ved <persName key="honore-gabriel-riqueti-de-mirabeau"
             >Mirabeau’s</persName> Grav blev det sagt til hans Hæder, at han om Philosopherne havde
-          ytret: »De have skabt Lyset, jeg vil skabe Bevægelsen,« og der gives knap en Passus i
-            »<bibl n="rousseau-le-contrat-social">Le contrat social</bibl>«, der ikke under
-          Revolutionen enten er gaaet over i en Lov, eller i en offentlig Erklæring, eller i en
-          Avisartikel, eller i en Tale i Nationalforsamlingen, eller endelig i Republikens
-          Constitution.</p>
+          ytret: <ref target="n416"/>»De have skabt Lyset, jeg vil skabe Bevægelsen,« og der gives
+          knap en Passus i »<bibl n="rousseau-le-contrat-social">Le contrat social</bibl>«, der ikke
+          under Revolutionen enten er gaaet over i en Lov, eller i en offentlig Erklæring, eller i
+          en Avisartikel, eller i en Tale i <ref target="n418"/>Nationalforsamlingen, eller endelig
+          i <ref target="n419"/>Republikens Constitution.</p>
         <p>De vigtigste af dens Definitioner (Magten som udstrømmende fra Folket, Loven som Product
-          af den almindelige Villie) forekomme ordlydende i Erklæringen af Menneskerettighederne.
-          Saasnart hos Jacobinerne Associationstanken dukker op, føre de den øieblikkeligt tilbage
-          til <persName key="jean-jacques-rousseau">Rousseau</persName> og bruge alle hans Stikord.
-          I en Artikel i »<bibl n="fauchet-bulletin-de-la-bouche-de-fer">La bouche de fer</bibl>«
-          skriver <persName key="claude-fauchet">Abbed Fauchet</persName>: »Sublime <persName
-            key="jean-jacques-rousseau">Rousseau</persName>! følelsesfulde og sanddru Aand! Du er en
-          af de første, der har forstaaet Retfærdighedens evige Orden. Ja ethvert Menneske har Ret
-          til Jorden og bør have til Eiendom, hvad han behøver til sin Existents. I den associative
-          Pagt, der ifølge Naturens og Billighedens souveraine Decreter skaber et Folk, giver
-          Mennesket sig helt hen til sit Fædreland og modtager sig <pb n="35"/> helt af dets Haand.«
-          Og med næsten ganske samme Vending udtrykker <persName key="louis-de-saint-just"
-            >Saint-Just</persName> sig i sin Tale for <persName key="ludvig-16-louis-16">Ludvig den
-            16des</persName> Død: »Samfundspagten er en Contract mellem Borgerne og ikke en Contract
+          af den almindelige Villie) forekomme ordlydende i <ref target="n417"/>Erklæringen af
+          Menneskerettighederne. Saasnart hos Jacobinerne Associationstanken dukker op, føre de den
+          øieblikkeligt tilbage til <persName key="jean-jacques-rousseau">Rousseau</persName> og
+          bruge alle hans Stikord. I en Artikel i »<bibl n="fauchet-bulletin-de-la-bouche-de-fer">La
+            bouche de fer</bibl>« skriver <persName key="claude-fauchet">Abbed Fauchet</persName>:
+            <ref target="n420"/>»Sublime <persName key="jean-jacques-rousseau">Rousseau</persName>!
+          følelsesfulde og sanddru Aand! Du er en af de første, der har forstaaet Retfærdighedens
+          evige Orden. Ja ethvert Menneske har Ret til Jorden og bør have til Eiendom, hvad han
+          behøver til sin Existents. I den associative Pagt, der ifølge Naturens og <ref
+            target="n5472"/>Billighedens souveraine Decreter skaber et Folk, giver Mennesket sig
+          helt hen til sit Fædreland og modtager sig <pb n="35"/> helt af dets Haand.« Og med næsten
+          ganske samme Vending udtrykker <persName key="louis-de-saint-just">Saint-Just</persName>
+          sig i sin Tale for <persName key="ludvig-16-louis-16">Ludvig den 16des</persName> Død:
+            <ref target="n421"/>»Samfundspagten er en Contract mellem Borgerne og ikke en Contract
           med Regjeringen. Man har ingen Forpligtelser med Hensyn til en Contract, man ikke har
           indgaaet.« Dog <persName key="maximilien-de-robespierre">Robespierre</persName> er den,
           der som Jacobinernes Chef overalt giver den Rousseauske Aandsretning dens typiske Udtryk.
           Hans første offentlige Skridt var Besvarelsen af det Prisspørgsmaal, Akademiet i
             <placeName key="metz">Metz</placeName> havde udstedt om »Den Fordom, der delagtiggjør de
-          ved Loven Dømtes Familie i disses Vanære«; han havde vundet Prisen, og ikke nøiet med at
-          have bekjæmpet Dødsstraffens Accidentser havde han i Anledning af Guillotinens Indførelse
-          paa det Heftigste udtalt sig mod Dødsstraffen selv. Som man seer kunde Ingen i Theorien
-          give Følelsen mere Raaderum end han. Han var den første Fjende af Girondinernes
-          Rationalisme, og derfor see vi ham paa det Tidspunkt, da disse gik videst i Voltairesk
-          Retning, indgive en Adresse til Jacobinerne, i hvilken han erklærer, at Revolutionen
-          staaer under Guds Førelse, ja i Virkeligheden er en Gjerning af Forsynet. Han føler en
-          Trang til at give sin revolutionære Pathos et Udtryk, der henfører den til hvad man kaldte
-          den naturlige Religion.</p>
+          ved Loven Dømtes Familie i disses Vanære«; han havde vundet Prisen, og ikke <ref
+            target="n5475"/>nøiet med at have bekjæmpet Dødsstraffens Accidentser havde han i
+          Anledning af Guillotinens Indførelse paa det Heftigste udtalt sig mod Dødsstraffen selv.
+          Som man seer kunde Ingen i Theorien give Følelsen mere Raaderum end han. Han var den
+          første Fjende af <ref target="n5479"/>Girondinernes Rationalisme, og derfor see vi ham paa
+          det Tidspunkt, da disse gik videst i Voltairesk Retning, indgive en <ref target="n5469"
+          />Adresse til Jacobinerne, i hvilken han erklærer, at Revolutionen staaer under Guds
+          Førelse, ja i Virkeligheden er en Gjerning af Forsynet. Han føler en Trang til at give sin
+          revolutionære Pathos et Udtryk, der henfører den til hvad man kaldte den naturlige
+          Religion.</p>
         <p>
           <persName key="jean-jacques-rousseau">Rousseau</persName> havde i »<bibl
             n="rousseau-profession-de-foi-du-vicaire-savoyard">Den savoyardiske Præsts <pb n="36"/>
             Troesbekjendelse</bibl>« sagt, at hvad enten Materien er evig eller skabt, om der er et
           passivt Princip eller ikke, er saa meget dog vist, at Alt er Et og forkynder en eneste
-          Intelligents, og han havde tilføiet: »Dette Væsen, som vil og som kan, som selvvirksomt
-          bevæger Universet og ordner alle Ting, det kalder jeg Gud.« <persName
-            key="maximilien-de-robespierre">Robespierre</persName> skriver i 1792: »Jeg afskyer saa
-          meget som Nogen alle de ugudelige Sekter, der dække <app>
+          Intelligents, og han havde tilføiet: <ref target="n422"/>»Dette Væsen, som vil og som kan,
+          som selvvirksomt bevæger Universet og ordner alle Ting, det kalder jeg Gud.« <persName
+            key="maximilien-de-robespierre">Robespierre</persName> skriver i 1792: <ref
+            target="n423"/>»Jeg afskyer saa meget som Nogen alle de ugudelige Sekter, der dække <app>
             <lem>Ærgjerrighed,</lem>
             <rdg wit="A">Ærgjerrighed.</rdg>
           </app> Fanatisme og alle Lidenskaber med den Eviges Navn, som har skabt Naturen og
@@ -700,97 +721,101 @@
           Sjæl, kunnet staae mig i Kampe, der udfordre mere end menneskelig Kraft, ifald jeg ikke
           havde hævet min Sjæl til Gud!« Ord som disse tillade ingen Tvivl om, at hans Religiøsitet
           var oprigtig, og bestandig beraaber han sig paa samme <pb n="37"/> Mand som sin Lærer. Da
-          han i Forsamlingen af sine Fjender blev opfordret til Selv-Ostracisme, udstrakte han Armen
-          mod <persName key="jean-jacques-rousseau">Rousseaus</persName> Buste, der prydede Salen.
-          »Hvor skulde jeg vel begive mig hen, udraabte han. Hos hvilket Folk vilde jeg finde
-          Friheden oprettet, og hvilken Despot vilde vel give mig Asyl? Himlen har maaskee tiltænkt
-          mig med mit Blod at skulle betegne den Bane, der vil føre mit Land til Lykke. Jeg vil da
-          gjøre det med Sværmeri«.</p>
+          han i Forsamlingen af sine Fjender blev opfordret til <ref target="n424"/>Selv-Ostracisme,
+          udstrakte han Armen mod <persName key="jean-jacques-rousseau">Rousseaus</persName> Buste,
+          der prydede Salen. <ref target="n425"/>»Hvor skulde jeg vel begive mig hen, udraabte han.
+          Hos hvilket Folk vilde jeg finde Friheden oprettet, og hvilken Despot vilde vel give mig
+          Asyl? Himlen har maaskee tiltænkt mig med mit Blod at skulle betegne den Bane, der vil
+          føre mit Land til Lykke. Jeg vil da gjøre det med Sværmeri«.</p>
         <p>Det var ikke denne sværmeriske Stemning, men den Voltaireske Indignation, der i Midten af
           Aaret 1792 blev den herskende i den lovgivende Forsamling og i Frankrig. 19 August 1792
-          udstedtes det Decret, der fastsatte Deportation for enhver ubeediget Geistlig. Hver Dag
-          fandt Arrestationer af disse Geistlige Sted, og saa fulgte Septembermyrderierne. De gik
-          først og fremmest ud over de fangne Præster og havde i sidste Instants det forbitrede Had
-          til Katholicismen til Aarsag. <persName key="augustin-barruel">Abbed Barruel</persName>
-          skriver: <app>
+          udstedtes det Decret, der fastsatte Deportation for enhver <ref target="n426"/>ubeediget
+          Geistlig. Hver Dag fandt Arrestationer af disse Geistlige Sted, og saa fulgte <ref
+            target="n427"/>Septembermyrderierne. De gik først og fremmest ud over de fangne Præster
+          og havde i sidste Instants det forbitrede Had til Katholicismen til Aarsag. <persName
+            key="augustin-barruel">Abbed Barruel</persName> skriver: <app>
             <lem wit="B SS Fu">Disse</lem>
             <rdg wit="A 1923-24">»Disse</rdg>
           </app> Bødler hørte ikke alle til Folkets Bærme. Til de Præster, man myrdede, raabte en
-          Mand: »Kjæltringer, Mordere, Uhyrer, usle Hyklere! Hævnens Dag er endelig kommen. I skal
-          ikke mere bedrage Folket med Eders Messer og Eders lille Stykke Brød paa Altrene.«
-          Beundringsværdigt er imidlertid det Mod og den Standhaftighed, som de fleste af Præsterne
-          udviste. I Carme<pb n="38"/>literfængslet foretrak uden Betænkning 172 Præster at skydes
-          for at aflægge Ed paa Constitutionen. Rørende er det at læse Skildringen af de Præsters
-          Resignation, der vare indespærrede i Abbediet: »Vi sendte fra Tid til anden nogle af vore
-          Kammerater til Taarnvinduet for at faae at vide, hvad Stilling de Ulykkelige, som man i
-          Gaarden ofrede, indtog, og for efter deres Beretning at beregne, hvilken vi gjorde bedst i
-          at indtage. De meddelte os, at de, som strakte Hænderne ud, led længst, fordi Sabelhuggene
-          sløvedes, før de naaede Hovedet.« (<persName key="francois-jourgniac-de-saint-meard"
-            >Jourgniac de Saint-Méard</persName>). – I Alt bleve 1480 Mennesker myrdede; Tallet er
-          ganske vist stort. Men det er paa den anden Side ikke uden Interesse at bemærke, at
-          Antallet af alle de Mennesker, der bleve henrettede lige fra Revolutionens Begyndelse til
-          dens Ophør, efter <persName key="jules-michelet">Michelets</persName> Beregning ikke
-          udgjør fyrretyvende Delen af det Tal, der faldt alene i Slaget ved <placeName key="moskva"
-            >Moskau</placeName>.</p>
-        <p>Det Had, der ytrede sig saa fanatisk i Septemberdagene, havde ikke lagt sig, da Conventet
-          traadte sammen. Lad os see, hvad et Conventsmedlem skriver, læser og siger med Hensyn til
-          Spørgsmaalet om Præster og Religion. Conventsmedlemmet <persName
-            key="joseph-marie-lequinio">Lequinio</persName> forærer sine Colleger en Bog, han har
-          forfattet og tilegnet Paven. Dens Titel er »<bibl n="lequinio-les-prejuges-detruits">Les
-            préjugés détruits</bibl>«. Heri hedder det: »Religionen er en politisk Lænke, <pb n="39"
-          /> opfundet for at styre Menneskene og som kun har tjent til at sikre nogle Individers
-          Nydelser ved at holde alle andre i Tømme.« Udfaldene mod Præsterne overgaae her i
-          Voldsomhed og Uhøviskhed Alt, hvad tidligere var fremkommet. Blandt de svageste Ting, der
-          siges om dem, er den paa hin Tid i utallige Former varierede Udtalelse: »Naar de ere
-          ærlige, ere de Imbecile og Gale; fordetmeste ere de frække Bedragere, sande
-          Menneskeslægtens Mordere.« Man maa tye til <persName key="soren-kierkegaard"
-            >Kierkegaards</persName> »<bibl n="kierkegaard-oieblikket">Øieblikket</bibl>« for at
-          finde Parallelsteder. Det er Datidens Litteratur. Og man maa ikke antage <persName
-            key="joseph-marie-lequinio">Lequinio</persName> for en Undtagelse, om han end tilsidst
-          drev sin Krig mod Fordommene saa vidt, at han inviterede Skarpretteren til Middag hos sig
-          i sin Families Skjød for at overvinde Fordommene mod Bødlen. Thi hvad staaer der vel i den
-          Avis, som Conventsmedlemmet læser om Morgenen, inden han begiver sig hen i Forsamlingen. I
-            »<bibl n="loustalot-revolutions-de-paris">Les Révolutions de Paris</bibl>« for December
-          1792 hedder det i Anledning af, at Midnatsmessen er bleven feiret i <placeName key="paris"
-            >Paris</placeName>: »Naar man ved høilys Dag paa vore offentlige Pladser foreviser
-          dandsende Marionetter eller Taskenspillerkunster af forskjellig Art, saa er der ikke
-          synderlig Ondt i det; man maa have Lov til at more Børn og Ammer. Men at samle sig om
-          Natten i mørke Kamre for at synge Hymner og tænde Voxlys og brænde Røgelse til Ære for en
-            <pb n="40"/> Bastard og en utro Hustru, det er en Skandal, et Attentat paa den
-          offentlige Sædelighed og som fortjener Politiets Opmærksomhed og strenge
-            Indskriden.«<hi rend="sup">*)</hi><note place="bottom">
+          Mand: <ref target="n428"/>»Kjæltringer, Mordere, Uhyrer, usle Hyklere! Hævnens Dag er
+          endelig kommen. I skal ikke mere bedrage Folket med Eders Messer og Eders lille Stykke
+          Brød paa Altrene.« Beundringsværdigt er imidlertid det Mod og den Standhaftighed, som de
+          fleste af Præsterne udviste. I <ref target="n429"/>Carme<pb n="38"/>literfængslet foretrak
+          uden Betænkning 172 Præster at skydes for at aflægge Ed paa Constitutionen. Rørende er det
+          at læse Skildringen af de Præsters Resignation, der vare indespærrede i Abbediet: <ref
+            target="n430"/>»Vi sendte fra Tid til anden nogle af vore Kammerater til Taarnvinduet
+          for at faae at vide, hvad Stilling de Ulykkelige, som man i Gaarden ofrede, indtog, og for
+          efter deres Beretning at beregne, hvilken vi gjorde bedst i at indtage. De meddelte os, at
+          de, som strakte Hænderne ud, led længst, fordi Sabelhuggene sløvedes, før de naaede
+          Hovedet.« (<persName key="francois-jourgniac-de-saint-meard">Jourgniac de
+            Saint-Méard</persName>). – I Alt bleve 1480 Mennesker myrdede; Tallet er ganske vist
+          stort. Men det er paa den anden Side ikke uden Interesse at bemærke, at Antallet af alle
+          de Mennesker, der bleve henrettede lige fra <ref target="n5304"/>Revolutionens Begyndelse
+          til dens Ophør, efter <persName key="jules-michelet">Michelets</persName> Beregning ikke
+          udgjør fyrretyvende Delen af det Tal, der faldt alene i <ref target="n431"/>Slaget ved
+            <placeName key="moskva">Moskau</placeName>.</p>
+        <p>Det Had, der ytrede sig saa fanatisk i <ref target="n5307"/>Septemberdagene, havde ikke
+          lagt sig, da <ref target="n5308"/>Conventet traadte sammen. Lad os see, hvad et
+          Conventsmedlem skriver, læser og siger med Hensyn til Spørgsmaalet om Præster og Religion.
+          Conventsmedlemmet <persName key="joseph-marie-lequinio">Lequinio</persName> forærer sine
+          Colleger en Bog, han har forfattet og tilegnet Paven. Dens Titel er »<bibl
+            n="lequinio-les-prejuges-detruits">Les préjugés détruits</bibl>«. Heri hedder det: <ref
+            target="n432"/>»Religionen er en politisk Lænke, <pb n="39"/> opfundet for at styre
+          Menneskene og som kun har tjent til at sikre nogle Individers Nydelser ved at holde alle
+          andre i Tømme.« Udfaldene mod Præsterne overgaae her i Voldsomhed og Uhøviskhed Alt, hvad
+          tidligere var fremkommet. Blandt de svageste Ting, der siges om dem, er den paa hin Tid i
+          utallige Former varierede Udtalelse: <ref target="n433"/>»Naar de ere ærlige, ere de
+          Imbecile og Gale; fordetmeste ere de frække Bedragere, sande Menneskeslægtens Mordere.«
+          Man maa tye til <persName key="soren-kierkegaard">Kierkegaards</persName> »<bibl
+            n="kierkegaard-oieblikket">Øieblikket</bibl>« for at finde Parallelsteder. Det er
+          Datidens Litteratur. Og man maa ikke antage <persName key="joseph-marie-lequinio"
+            >Lequinio</persName> for en Undtagelse, om han end tilsidst drev sin Krig mod Fordommene
+          saa vidt, at han inviterede Skarpretteren til Middag hos sig i sin Families Skjød for at
+          overvinde Fordommene mod Bødlen. Thi hvad staaer der vel i den Avis, som Conventsmedlemmet
+          læser om Morgenen, inden han begiver sig hen i Forsamlingen. I »<bibl
+            n="loustalot-revolutions-de-paris">Les Révolutions de Paris</bibl>« for December 1792
+          hedder det i Anledning af, at Midnatsmessen er bleven feiret i <placeName key="paris"
+            >Paris</placeName>: <ref target="n435"/>»Naar man ved høilys Dag paa vore offentlige
+          Pladser foreviser dandsende Marionetter eller Taskenspillerkunster af forskjellig Art, saa
+          er der ikke synderlig Ondt i det; man maa have Lov til at more Børn og Ammer. Men at samle
+          sig om Natten i mørke Kamre for at synge Hymner og tænde Voxlys og brænde Røgelse til Ære
+          for en <pb n="40"/> Bastard og en utro Hustru, det er en Skandal, et Attentat paa den
+          offentlige Sædelighed og som fortjener Politiets Opmærksomhed og strenge Indskriden.«<hi
+            rend="sup">*)</hi><note place="bottom">
             <persName key="louis-blanc">Louis Blanc</persName> har i sin <bibl
               n="blanc-histoire-de-la-revolution-francaise-vol-1-12">Revolutionshistorie</bibl> 8de
             Bind S. 35 misforstaaet denne Artikel, som om den utro Hustru og Bastarden skulde betyde
-              <persName key="marie-antoinette">Marie Antoinette</persName> og Dauphin’en. Han har
-            overseet, at der i Originaltexten findes tilføiet en Note, hvori det hedder, at
-            »Grundlæggerne af de tre vigtigste Religioner have været Bastarder«.</note> De tidligere
-          anførte Udtalelser glødede vel af Forbitrelse, Had og Haan, men de vare endnu ikke raa.
-          Det var Hævnskrig, udstødte af den saa længe bagbundne og martrede menneskelige Fornuft. I
-          Ord som disse skurrer Raaheden. Og endnu en Forandring er indtraadt. Den tidligere
-          Undertrykte røber stor Lyst til nu paa sin Side at optræde som Undertrykker. Handling
-          fulgte her hurtigt paa Forsæt. »Man hengav sig<!-- cit slut indsat -->«, siger <persName
-            key="louis-sebastien-mercier">Mercier</persName> i »<bibl n="mercier-le-nouveau-paris"
-            >Le nouveau Paris</bibl>«, <!-- cit start indsat -->»til Nedbrydelsen af den gamle
-          Cultus ikke med Fanatismens Raseri, men med en Spot, en Ironi, en saturnalsk Lystighed,
-          som maatte forbause Iagttageren.« Der blev holdt formelig Razzia i alle Kirker. En
-          Deputation meddelte Conventet, at den havde tilladt »den brune Marie« (et mirakelgjørende
-          Billede) at lægge sig til Ro efter al den Uleilighed, hun havde havt med i 1800 Aar at
-          holde Verden for Nar.<!-- cit slut slettet --> Altrene bleve <pb n="41"/> plyndrede
-          tilbedste for Republikens Nationalskat. Her er et Brudstykke af en Rapport: »I <placeName
-            key="nievre">Nièvre</placeName>-Departementet findes ingen Præster mere. Man har skilt
-          Altrene ved de Dynger af Guld, som nærede den præstelige Forfængelighed. Tredive Millioner
-          i værdifulde Effecter ville blive førte til <placeName key="paris">Paris</placeName>.
-          Allerede ere to Vogne, belæssede med Kors, med Guldbispestave og to Millioner myntet Guld,
-          ankomne til Mynten. Tre Gange saa meget følger den første Convoi.«</p>
+              <persName key="marie-antoinette">Marie Antoinette</persName> og <ref target="n436"
+            />Dauphin’en. Han har overseet, at der i Originaltexten findes tilføiet en Note, hvori
+            det hedder, at »Grundlæggerne af de tre vigtigste Religioner have været
+            Bastarder«.</note> De tidligere anførte Udtalelser glødede vel af Forbitrelse, Had og
+          Haan, men de vare endnu ikke raa. Det var Hævnskrig, udstødte af den saa længe bagbundne
+          og martrede menneskelige Fornuft. I Ord som disse skurrer Raaheden. Og endnu en Forandring
+          er indtraadt. Den tidligere Undertrykte røber stor Lyst til nu paa sin Side at optræde som
+          Undertrykker. Handling fulgte her hurtigt paa Forsæt. <ref target="n437"/>»Man hengav
+          sig<!-- cit slut indsat -->«, siger <persName key="louis-sebastien-mercier"
+            >Mercier</persName> i »<bibl n="mercier-le-nouveau-paris">Le nouveau Paris</bibl>«,
+          <!-- cit start indsat -->»til Nedbrydelsen af den gamle Cultus ikke med Fanatismens
+          Raseri, men med en Spot, en Ironi, en <ref target="n5629"/>saturnalsk Lystighed, som
+          maatte forbause Iagttageren.« Der blev holdt formelig Razzia i alle Kirker. En Deputation
+          meddelte <ref target="n5316"/>Conventet, at den havde tilladt »den brune Marie« (et
+          mirakelgjørende Billede) at lægge sig til Ro efter al den Uleilighed, hun havde havt med i
+          1800 Aar at holde Verden for Nar.<!-- cit slut slettet --> Altrene bleve <pb n="41"/>
+          plyndrede tilbedste for Republikens Nationalskat. Her er et Brudstykke af en Rapport: <ref
+            target="n438"/>»I <placeName key="nievre">Nièvre</placeName>-Departementet findes ingen
+          Præster mere. Man har skilt Altrene ved de Dynger af Guld, som nærede den præstelige
+          Forfængelighed. Tredive Millioner i værdifulde Effecter ville blive førte til <placeName
+            key="paris">Paris</placeName>. Allerede ere to Vogne, belæssede med Kors, med
+          Guldbispestave og to Millioner myntet Guld, ankomne til Mynten. Tre Gange saa meget følger
+          den første Convoi.«</p>
         <p>Undertiden standsede Vognene udenfor Conventets Dør, og Sække og Poser, fulde af Guld og
-          Sølv, bleve opstillede i Forhandlingssalen. I en anden Rapport hedder det ironisk: »Man
-          har anklaget mig for at have lagt mig ud med Religionen. Jeg har dog pænt spurgt ad, før
-          jeg handlede, og 3 til 400 Helgene bade om Forlov til at maatte gaae i
-          Mynten.«<!--cit slut indsat--> Ved disse Leiligheder faldt der Ord som disse:
-          »<!--cit beg indsat-->I, som fordum vare Fanatismens Redskaber, I Helgener og Helgeninder,
-          I Salige af alle Slags, viser Jer endelig som Patrioter, kommer Fædrelandet til Hjælp og
-          Marche i Mynten!«</p>
+          Sølv, bleve opstillede i Forhandlingssalen. I en anden Rapport hedder det ironisk: <ref
+            target="n439"/>»Man har anklaget mig for at have lagt mig ud med Religionen. Jeg har dog
+          pænt spurgt ad, før jeg handlede, og 3 til 400 Helgene bade om Forlov til at maatte gaae i
+          Mynten.«<!--cit slut indsat--> Ved disse Leiligheder faldt der Ord som disse: <ref
+            target="n5358"/>»<!--cit beg indsat-->I, som fordum vare Fanatismens Redskaber, I
+          Helgener og Helgeninder, I Salige af alle Slags, viser Jer endelig som Patrioter, kommer
+          Fædrelandet til Hjælp og Marche i Mynten!«</p>
         <p>I en tredie Rapport ønske Commissairerne sig til Lykke med Resultatet af »deres
           philosophiske Apostolat« i Departementet <placeName key="gers">Gers</placeName>. »Folket
           var modent og den sidste Dag i den tredie Decade blev bestemt til at høitideligholde
@@ -1172,9 +1197,9 @@
           i sine Memoirer kommer til at bruge Ordet Katechismus, anseer hun det for nødvendigt at
           forklare det for Efterverdenen. Hun skriver: »Med den Fart, hvormed Verden nu gaaer frem,
           er det sandsynligt, at de, som læse dette, ville spørge, hvad dette Ord betyder, jeg vil
-          derfor forklare dem det.«<hi rend="sup">*)</hi><note place="bottom">»<!-- cit start indsat -->Au train dont
-            vont les choses, ceux qui liront ce passage demanderont peut-être ce que c’était que
-            cela, je vais le leur apprendre.«</note>
+          derfor forklare dem det.«<hi rend="sup">*)</hi><note place="bottom"
+            >»<!-- cit start indsat -->Au train dont vont les choses, ceux qui liront ce passage
+            demanderont peut-être ce que c’était que cela, je vais le leur apprendre.«</note>
         </p>
         <p>
           <pb n="61"/>Man havde ikke betænkt, at Massen af Folket ved sin Uvidenhed var uimodtagelig
@@ -1531,13 +1556,13 @@
             Autori<pb n="78"/>tetsprincipet. Det gamle Monarchies Etiquette vendte af sig selv
           tilbage i det Øieblik, da Religionen paany blev en Magt i Staten. Man har betegnet det som
             <persName key="napoleon-1">Napoleons</persName> største og vanskeligste Bedrift, at han
-          i Frankrig rehabiliterede Magtideen, som Revolutionen havde miskjendt og haanet.<hi rend="sup">*)</hi><note
-            place="bottom">Se Guizot i »<bibl n="revue-des-deux-mondes">Revue des deux
-            mondes</bibl>«<!-- cit start og slut indsat --> 15 Febr. 1863.</note> Man har sagt, at
-          Ingen saa naturligt og dristigt som han har udfoldet Instinctet og Gaven til at herske.
-          Man har kaldt ham den personificerede Magt. Men man burde tilføie, at fra det Øieblik af,
-          da han ikke vilde nøies med at være Magten i Kraft af sit Geni og af den nye
-          Samfundstilstand, der gav Geniet Forrang for Privilegiet, men vilde gjenoprette det
+          i Frankrig rehabiliterede Magtideen, som Revolutionen havde miskjendt og haanet.<hi
+            rend="sup">*)</hi><note place="bottom">Se Guizot i »<bibl n="revue-des-deux-mondes"
+              >Revue des deux mondes</bibl>«<!-- cit start og slut indsat --> 15 Febr. 1863.</note>
+          Man har sagt, at Ingen saa naturligt og dristigt som han har udfoldet Instinctet og Gaven
+          til at herske. Man har kaldt ham den personificerede Magt. Men man burde tilføie, at fra
+          det Øieblik af, da han ikke vilde nøies med at være Magten i Kraft af sit Geni og af den
+          nye Samfundstilstand, der gav Geniet Forrang for Privilegiet, men vilde gjenoprette det
           absolute Monarchi, støttede han sig ikke mere til den Magtidee, der smelter sammen med
           Retsideen og er et Udtryk for Fornuften, men til Autoritetsideen, der virker ved at blænde
           og antages blindt, og fra det Øieblik af maatte han have Kirken med sig. Da <persName
@@ -1640,9 +1665,10 @@
           Skranke for Indførelsen af vilkaarlige Lærdomme. Individerne have i dem et Troescentrum.
           Regjeringerne ere beroligede med Hensyn til de engang kjendte Dogmer, <pb n="84"/> der
           ikke forandre sig. Overtroen er, saa at sige regulariseret, omhegnet og indskrænket
-          indenfor Grændser, som den ikke kan eller ikke vover at overskride.«<hi rend="sup">*)</hi><note place="bottom"
-            >»La superstition est pour ainsi dire régularisée, circonscrite et resserrée dans des
-            bornes qu’elle ne peut ou qu’elle n’ose franchir.«</note>
+          indenfor Grændser, som den ikke kan eller ikke vover at overskride.«<hi rend="sup"
+            >*)</hi><note place="bottom">»La superstition est pour ainsi dire régularisée,
+            circonscrite et resserrée dans des bornes qu’elle ne peut ou qu’elle n’ose
+            franchir.«</note>
         </p>
         <p>Med fin Tvetungethed forsøgte <persName key="napoleon-1">Bonaparte</persName> at
           fremstille Restaurationen i forskjelligt Lys for de forskjellige Partier. For Katholikerne
@@ -1881,9 +1907,9 @@
             Vigny</persName>, <persName key="alphonse-de-lamartine">Lamartine</persName> og
             <persName key="victor-hugo">Hugo</persName>. De ere alle uden Undtagelse Adelsmænd og
           ved personlige Baand knyttede til de legitime Dynastier. <persName key="joseph-de-maistre"
-            >De Maistre</persName> var Minister.<hi rend="sup">*)</hi><note place="bottom">G. Brandes: »<bibl
-              n="brandes-romantiske-skole-tydskland">Den romantiske Skole i
-            Tydskland</bibl>«<!-- cit start og slut indsat --> 364 ff.</note>
+            >De Maistre</persName> var Minister.<hi rend="sup">*)</hi><note place="bottom">G.
+            Brandes: »<bibl n="brandes-romantiske-skole-tydskland">Den romantiske Skole i
+              Tydskland</bibl>«<!-- cit start og slut indsat --> 364 ff.</note>
           <persName key="louis-vicomte-de-bonald">Bonald</persName> havde som Yngling hørt til
             <persName key="ludvig-15-louis-15">Ludvig den 15des</persName> Musketerere og havde i
           Kongens sidste Dage været den, der daglig kom til Kongens Seng for at faae Feltraabet at
@@ -1911,10 +1937,10 @@
             Germain</placeName>. <persName key="alfred-de-vigny">De Vigny</persName> var ligeledes
           kongelig Officier og ivrig Royalist, og blev, som en af Revolutionen 1830 overrumplet
           royalistisk Digter, den desillusionerede Conservative, som hvilken hans senere Skrifter
-          male ham.<hi rend="sup">*)</hi><note place="bottom">Se Stuart <persName key="john-stuart-mill"
-              >Mill’s</persName> Afhandling om <persName key="alfred-de-vigny">De Vigny</persName> i
-              »<bibl n="mill-dissertations-and-discussions">Dissertations and discussions</bibl>«
-            I.</note>
+          male ham.<hi rend="sup">*)</hi><note place="bottom">Se Stuart <persName
+              key="john-stuart-mill">Mill’s</persName> Afhandling om <persName key="alfred-de-vigny"
+              >De Vigny</persName> i »<bibl n="mill-dissertations-and-discussions">Dissertations and
+              discussions</bibl>« I.</note>
           <persName key="victor-hugo">Victor Hugo</persName> endelig har tilstrækkeligt ofte
           skildret, hvor stor en Indflydelse royalistiske Barndomsindtryk og især Paavirkning af
           hans Moder som lidenskabelig »vendéenne« udøvede paa <app>
@@ -1963,14 +1989,15 @@
           betegnet som Emigrantlitteratur »endnu ikke er en Underkastelse under Autoriteter, men den
             natur<pb n="100"/>lige og berettigede Hævden af Følelse, Sjæl, Lidenskab og Poesi i
           Modsætning til Forstandskulde, exact Beregning og en af døde Traditioner omspændt
-            Litteratur.«<hi rend="sup">*)</hi><note place="bottom">G. Brandes: »<bibl n="emigrantlitteraturen"
-              >Emigrantlitteraturen</bibl>«<!-- cit start og slut indsat --> S. 225.</note> Dette er
-          Litteraturreactionens første Stadium, det som jeg charakteriserede med disse Ord: »Det
-          første Træk er kun det at tage <persName key="jean-jacques-rousseau">Rousseaus</persName>
-          Vaaben og vende dem imod hans Modstander <persName key="francois-voltaire"
-            >Voltaire</persName>.«<hi rend="sup">*)</hi><note place="bottom">Ibidem.</note> Man nøies ikke her med
-            <persName key="francois-voltaire">Voltaires</persName> kolde Deisme, man opstiller imod
-          den <persName key="jean-jacques-rousseau">Rousseaus</persName> fyldige og ubestemte
+            Litteratur.«<hi rend="sup">*)</hi><note place="bottom">G. Brandes: »<bibl
+              n="emigrantlitteraturen">Emigrantlitteraturen</bibl>«<!-- cit start og slut indsat -->
+            S. 225.</note> Dette er Litteraturreactionens første Stadium, det som jeg
+          charakteriserede med disse Ord: »Det første Træk er kun det at tage <persName
+            key="jean-jacques-rousseau">Rousseaus</persName> Vaaben og vende dem imod hans
+          Modstander <persName key="francois-voltaire">Voltaire</persName>.«<hi rend="sup"
+            >*)</hi><note place="bottom">Ibidem.</note> Man nøies ikke her med <persName
+            key="francois-voltaire">Voltaires</persName> kolde Deisme, man opstiller imod den
+            <persName key="jean-jacques-rousseau">Rousseaus</persName> fyldige og ubestemte
           Sentimentalitet. Man gaaer i hans Spor, man bygger videre paa Grundlag af hans
           Følelsesfylde og Indbildningskraft. Et Blik henover Revolutionens Udviklingsgang har vist
           os, at denne Litteraturbevægelse allerede under Revolutionen er historisk ligesom forud
@@ -2259,21 +2286,22 @@
             <rdg wit="A">méme</rdg>
           </app>«, Stilen er Manden, en Sætning, der sidenhen, saa tidt Ordet Stil bliver nævnt,
           kommer frem som staaende Trivialitet, aldrig citeret oftere <pb n="114"/> end af dem, der
-          hverken ere Mænd eller have Stil.<hi rend="sup">*)</hi><note place="bottom">Det eneste vittige Ord, der er
-            bleven sagt om <persName key="georges-louis-leclerc-comte-de-buffon">Buffons</persName>
-            Sætning, skyldes <persName key="delphine-girardin">Mme de Girardin</persName>. Hun
-            viser, hvorledes enhver af <persName key="george-sand">George Sands</persName> Romaner
-            bærer Præget af en eller anden Personlighed, for hvem Forfatterinden har sværmet.
-              »<persName key="george-sand">George Sands</persName> Natur, der skiftevis har vist sig
-            kold og illusionsberøvet med Salonheltene, frisk og smilende med Kildernes og Lyngens
-            Sanger, poetisk med Digteren, republikansk med Advocaten, viser sig nu moralsk og
-            religiøs med den politiske Præst [<persName key="felicite-de-lamennais"
-              >Lamennais</persName>], hvad forleden Dag gav en Spøgefugl Anledning til at sige: Det
-            er især naar Talen er om kvindelige Forfatteres Værker, at man maa udraabe med <persName
-              key="georges-louis-leclerc-comte-de-buffon">Buffon</persName>: Stilen, det er
-              <emph>Manden</emph>.« <persName key="delphine-girardin">Le Vicomte de
-              Launay</persName>: »<bibl n="girardin-lettres-parisiennes-1836-1848">Lettres
-              parisiennes</bibl>«<!-- cit start og slut indsat --> Tome I 89.</note> Det 18de
+          hverken ere Mænd eller have Stil.<hi rend="sup">*)</hi><note place="bottom">Det eneste
+            vittige Ord, der er bleven sagt om <persName key="georges-louis-leclerc-comte-de-buffon"
+              >Buffons</persName> Sætning, skyldes <persName key="delphine-girardin">Mme de
+              Girardin</persName>. Hun viser, hvorledes enhver af <persName key="george-sand">George
+              Sands</persName> Romaner bærer Præget af en eller anden Personlighed, for hvem
+            Forfatterinden har sværmet. »<persName key="george-sand">George Sands</persName> Natur,
+            der skiftevis har vist sig kold og illusionsberøvet med Salonheltene, frisk og smilende
+            med Kildernes og Lyngens Sanger, poetisk med Digteren, republikansk med Advocaten, viser
+            sig nu moralsk og religiøs med den politiske Præst [<persName
+              key="felicite-de-lamennais">Lamennais</persName>], hvad forleden Dag gav en Spøgefugl
+            Anledning til at sige: Det er især naar Talen er om kvindelige Forfatteres Værker, at
+            man maa udraabe med <persName key="georges-louis-leclerc-comte-de-buffon"
+              >Buffon</persName>: Stilen, det er <emph>Manden</emph>.« <persName
+              key="delphine-girardin">Le Vicomte de Launay</persName>: »<bibl
+              n="girardin-lettres-parisiennes-1836-1848">Lettres
+            parisiennes</bibl>«<!-- cit start og slut indsat --> Tome I 89.</note> Det 18de
           Aarhundredes Digtere gik i deres Opfattelse af den poetiske Stils Natur ud fra deres egen
           Fremgangsmaade. Da deres egen Poesi ikke var et Naturproduct, men deres Sprog et Product
           af Arbeide efter visse Regler for Udtrykkets Noblesse, for Valget af Metaphorer og Brug af
@@ -2349,13 +2377,14 @@
           Træk i hele denne Litteraturgruppe. De franske Restauratorer hævde det med saa meget mere
           Lidenskab end Tydsklands, dels paa Grund af Race<pb n="118"/>eiendommeligheden, dels paa
           Grund af den confessionelle Forskjel. Den reactionære tydske Litteraturbevægelse grunder,
-          som jeg har vist det<hi rend="sup">*)</hi><note place="bottom">»<bibl n="brandes-romantiske-skole-tydskland"
-              >Den romantiske Skole i Tydskland</bibl>« S. 29.</note> i Subjectivisme; dens Princip
-          er Selvraadigheden. Saa helstøbt katholsk, saa autoritetsdyrkende som den franske
-          Reaction, blev den tydske Romantik trods alle sine katholske Taabeligheder og Abekatterier
-          aldrig. Den germaniske og protestantiske Individualisme stred bestandig imod. Den franske
-          Sociabilitet gav lettelig efter. Til Gjengjæld er den helstøbte og fuldblodige Reaction
-          nok saa interessant som den uvisse og halve.</p>
+          som jeg har vist det<hi rend="sup">*)</hi><note place="bottom">»<bibl
+              n="brandes-romantiske-skole-tydskland">Den romantiske Skole i Tydskland</bibl>« S.
+            29.</note> i Subjectivisme; dens Princip er Selvraadigheden. Saa helstøbt katholsk, saa
+          autoritetsdyrkende som den franske Reaction, blev den tydske Romantik trods alle sine
+          katholske Taabeligheder og Abekatterier aldrig. Den germaniske og protestantiske
+          Individualisme stred bestandig imod. Den franske Sociabilitet gav lettelig efter. Til
+          Gjengjæld er den helstøbte og fuldblodige Reaction nok saa interessant som den uvisse og
+          halve.</p>
         <p>Endnu i det Øieblik, da Omslaget er nær, og den hele Skoles Opløsning ikke langt borte,
           see vi <persName key="felicite-de-lamennais">Lamennais</persName> i sin Bog om den
           religiøse Indifferents hævde, at ikke Følelsen, og lige saa lidet Forskningen, men
@@ -2396,9 +2425,9 @@
             <emph>Autoritet</emph>, uden Autoritet ingen Tro.« Han stiller Monarchiet over al Kritik
           og Forskning, idet han lærer, at det er et <emph>Mirakel</emph>. Han forherliger den
           brutale Myndighed som saadan, idet han theoretisk lægger det militære Samfund ind under
-          Corporalstokken, det civile ind under Bøddeløxen.<hi rend="sup">*)</hi><note place="bottom">»<bibl
-              n="brandes-romantiske-skole-tydskland">Den romantiske Skole i
-            Tydskland</bibl>«<!-- cit start og slut indsat --> S. 18 og 371.</note> Det sidste
+          Corporalstokken, det civile ind under Bøddeløxen.<hi rend="sup">*)</hi><note
+            place="bottom">»<bibl n="brandes-romantiske-skole-tydskland">Den romantiske Skole i
+              Tydskland</bibl>«<!-- cit start og slut indsat --> S. 18 og 371.</note> Det sidste
           gjorde <persName key="maximilien-de-robespierre">Robespierre</persName> praktisk, men kun
           da han ikke saa nogen Frelse for Revolutionen uden i et Dictatur. Saaledes mødes da ogsaa
             <persName key="joseph-de-maistre">De Maistre</persName> med <persName
@@ -2560,8 +2589,8 @@
           Bemærkninger af Værdi. Men dets litterære og poetiske Værd er dog sammentrængt i dets
           Episoder »<bibl n="chateaubriand-atala">Atala</bibl>« og »<bibl n="chateaubriand-rene"
             >René</bibl>«, der som Prøveballoner udsendtes længe før Værket, og med dem have vi
-          Intet at gjøre; dem have vi paa sit Sted seet i deres historiske Betydning.<hi rend="sup">*)</hi><note
-            place="bottom">»<bibl n="emigrantlitteraturen"
+          Intet at gjøre; dem have vi paa sit Sted seet i deres historiske Betydning.<hi rend="sup"
+            >*)</hi><note place="bottom">»<bibl n="emigrantlitteraturen"
             >Emigrantlitteraturen</bibl>«<!-- cit start og slut indsat --> S. 64-74.</note>
         </p>
         <p>Her ville vi kun i Forsvarsmethodens Charakter søge og levere Beviset for Usandheden af
@@ -2790,16 +2819,17 @@
             key="anne-boleyn">Anna <pb n="139"/> Boleyn</persName>, og i Frankrig af <persName
             key="marguerite-af-navarra-marguerite-d-angouleme">Margrethe af Navarra</persName>, en
           Fyrstinde af mere end tvivlsomme Sæder. Saaledes gik Occidenten til Grunde ved Skilsmisse,
-          som Orienten ved Polygami.« I sin engelske Litteraturhistorie<hi rend="sup">*)</hi><note place="bottom">»<bibl
-              n="chateaubriand-oeuvres-completes">Oeuvres</bibl>«<!-- cit start og slut indsat -->
-            Tome VI S. 75.</note> siger <persName key="francois-rene-vicomte-de-chateaubriand"
-            >Chateaubriand</persName> om <persName key="martin-luther">Luthers</persName> Ægteskab:
-          »Han giftede sig saavel for at give et godt Exempel som for at befrie sig for sine
-          Anfægtelser. Den, som har overtraadt Reglerne, søger altid at trække de Svage efter sig og
-          at dække sig med Mængden; thi ved det store Antals Samstemmen smigrer man sig med at
-          bringe Andre til at troe paa Retfærdigheden og Rigtigheden af en Handling, der ofte kun
-          var Resultatet af et Tilfælde eller en Lidenskab. Hellige Løfter bleve krænkede paa
-          dobbelt Maade: <persName key="martin-luther">Luther</persName> ægtede en Nonne.«</p>
+          som Orienten ved Polygami.« I sin engelske Litteraturhistorie<hi rend="sup">*)</hi><note
+            place="bottom">»<bibl n="chateaubriand-oeuvres-completes"
+            >Oeuvres</bibl>«<!-- cit start og slut indsat --> Tome VI S. 75.</note> siger <persName
+            key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> om <persName
+            key="martin-luther">Luthers</persName> Ægteskab: »Han giftede sig saavel for at give et
+          godt Exempel som for at befrie sig for sine Anfægtelser. Den, som har overtraadt Reglerne,
+          søger altid at trække de Svage efter sig og at dække sig med Mængden; thi ved det store
+          Antals Samstemmen smigrer man sig med at bringe Andre til at troe paa Retfærdigheden og
+          Rigtigheden af en Handling, der ofte kun var Resultatet af et Tilfælde eller en Lidenskab.
+          Hellige Løfter bleve krænkede paa dobbelt Maade: <persName key="martin-luther"
+            >Luther</persName> ægtede en Nonne.«</p>
         <p>Hvad der gjør disse heftige Udfald mod <persName key="martin-luther">Luther</persName> og
           Lutheranismen forstaaelige er, at man ligesom de tydske Romantikere med stor Klarhed
           indseer, at Protestantismen med nødvendig Consequents fører til den moderne Aandsretning,
@@ -2865,8 +2895,8 @@
           ikke derfor hans Lige. Kvinden er skabt af Mandens Kjød og Blod, men er ham underordnet.
           Man seer, at <persName key="louis-vicomte-de-bonald">Bonalds</persName> Theori stemmer med
             <persName key="john-milton">Mil<pb n="143"/>tons</persName> i hans »<bibl
-            n="milton-paradise-lost">Paradis</bibl>«.<hi rend="sup">*)</hi><note place="bottom">»He for God only, she
-            for God in him.« »<bibl n="milton-paradise-lost">Paradise
+            n="milton-paradise-lost">Paradis</bibl>«.<hi rend="sup">*)</hi><note place="bottom">»He
+            for God only, she for God in him.« »<bibl n="milton-paradise-lost">Paradise
             lost</bibl>«<!-- cit start og slut indsat --> IV.</note> »Det huslige Samfund er et
           Samfund, hvor Manden medbringer Styrkens beskyttende Evne, Kvinden Svaghedens
           Fornødenheder, han <emph>Magten</emph>, hun <emph>Pligten</emph>.« Saaledes forvrænger
@@ -2896,8 +2926,8 @@
           Samfundets Formaal? Enhver vil indrømme, at man maa brænde efter at faae dette Spørgsmaal
           besvaret. Hvad svarer da <persName key="louis-vicomte-de-bonald">Bonald</persName>? Han
           svarer med en conservativ Clericals hele rolige Fripostighed: Samfundets Formaal er dets
-          egen Bevarelse.<hi rend="sup">*)</hi><note place="bottom">La société a pour parvenir à sa fin, <emph>qui est
-              sa conservation</emph>, des lois. S. 107.</note>
+          egen Bevarelse.<hi rend="sup">*)</hi><note place="bottom">La société a pour parvenir à sa
+            fin, <emph>qui est sa conservation</emph>, des lois. S. 107.</note>
         </p>
         <p>Hvilken Lære for alle de Tilhængere af Nyttephilosophien, der naivt bilde sig ind, at
           Samfundets Formaal er dets Medlemmers Lykke og som ligesaa barnligt have levet i den
@@ -3026,38 +3056,38 @@
           Individets Souverainitet. (Denne Terminus er først bleven brugt af Amerikaneren <persName
             key="josiah-warren">Samuel Warren</persName>, af hvem jeg til min Overraskelse seer at
           selv <persName key="john-stuart-mill">John Stuart Mill</persName> har <pb n="152"/> laant
-            den).<hi rend="sup">*)</hi><note place="bottom">Mill: »<bibl n="mill-autobiography">Autobiography</bibl>«
-            256.</note> Individets Souverainitet sikrer, som Ordet siger, ethvert Menneskes absolute
-          Frihed, forbyder Enhver at tilrane sig nogetsomhelst Herredømme eller nogensomhelst
-          Control over nogen Anden. Tilhængerne af denne Lære sige: <emph>Enten</emph> Formynderskab
-          over Individet, det vil sige Censur over Pressen, Politiorganisation af Husspioner,
-          Passystem, Tariffer, Forhindring af Skilsmisse, Love, som regulere Mænds og Kvinders
-          Følelsesliv og det hele System af vilkaarlig Tvang udøvet paa Individets Frihed,
-            <emph>eller</emph> Individets Souverainitet ↄ: Pressefrihed, Talefrihed, Reisefrihed,
-          Frihandel, Frihed i Forskning og Følelsernes Frihed. Fra dette Synspunkt er det eneste
-          mulige Forsvar for en Friheden indskrænkende Lov det, at en foreløbig paatvungen Ordning
-          kun er den nærmeste Vei til en mere fuldkommen Ordning med fuldstændig Frihed; thi Frihed
-          er Individualismens Ideal. Mændene af denne Skole betragte Statens Indblanding i
-          Individernes Følelsesforhold som uberettiget; de hævde, at det lovlige Baand, der
-          sammentvinger to Væsener af forskjelligt Kjøn, er <emph>enten overflødigt</emph> – ifald
-          det er deres eget Ønske at blive sammen – <emph>eller oprørende</emph> – ifald det omvendt
-          ikke er deres Ønske. De finde, at Samfundet begaaer en frygtelig Uret imod Individer, af
-          hvilke det <pb n="153"/> ene afskyer det andet, ifald det bringer dem til at forblive
-          sammen og faae Børn af den Enes Attraa og den Andens Afsky. De finde det oprørende, at
-          Samfundet tvinger en Kvinde til mod sit Ønske at føde en Drukkenbolt et Barn, et Barn der
-          fra det Øieblik af, det vaagner til Liv, besidder sin Faders fordærvede Drifter og Lyster.
-          De tage da ligesaa meget Hensyn til de endnu ufødte Børn som <persName
-            key="louis-vicomte-de-bonald">Bonald</persName> til de fødte; de see ikke som han et
-          Bevis paa Kvindens Ufuldkommenhed, men et Bevis paa Samfundsordenens Raahed deri, at
-          Kvinden mod sin Villie kan blive Moder. De hævde i Kraft af det Afhængighedsforhold, hvori
-          alle Livssphærer staae til hverandre, Usandsynligheden af, at et eneste Omraade af
-          Menneskelivet skulde findes at være fuldstændig rigtig ordnet paa det traditionelle
-          Fundament, medens alle andre Omraaders Ordning er bleven fundet fuldstændig forkert og
-          derfor bleven forandret fra øverst til nederst i de sidste hundrede Aar. Dette er den
-          Argumentation, der hyppigst anvendes af Mændene af denne Skole.<hi rend="sup">*)</hi><note place="bottom">Se
-            f. Ex. <persName key="stephen-pearl-andrews">Stephan Pearl Andrews</persName>: »<bibl
-              n="andrews-love-marriage-and-divorce">Love, marriage and
-            divorce</bibl>«<!-- cit start og slut indsat -->. New York. Smlgn. ogsaa <persName
+            den).<hi rend="sup">*)</hi><note place="bottom">Mill: »<bibl n="mill-autobiography"
+              >Autobiography</bibl>« 256.</note> Individets Souverainitet sikrer, som Ordet siger,
+          ethvert Menneskes absolute Frihed, forbyder Enhver at tilrane sig nogetsomhelst Herredømme
+          eller nogensomhelst Control over nogen Anden. Tilhængerne af denne Lære sige:
+            <emph>Enten</emph> Formynderskab over Individet, det vil sige Censur over Pressen,
+          Politiorganisation af Husspioner, Passystem, Tariffer, Forhindring af Skilsmisse, Love,
+          som regulere Mænds og Kvinders Følelsesliv og det hele System af vilkaarlig Tvang udøvet
+          paa Individets Frihed, <emph>eller</emph> Individets Souverainitet ↄ: Pressefrihed,
+          Talefrihed, Reisefrihed, Frihandel, Frihed i Forskning og Følelsernes Frihed. Fra dette
+          Synspunkt er det eneste mulige Forsvar for en Friheden indskrænkende Lov det, at en
+          foreløbig paatvungen Ordning kun er den nærmeste Vei til en mere fuldkommen Ordning med
+          fuldstændig Frihed; thi Frihed er Individualismens Ideal. Mændene af denne Skole betragte
+          Statens Indblanding i Individernes Følelsesforhold som uberettiget; de hævde, at det
+          lovlige Baand, der sammentvinger to Væsener af forskjelligt Kjøn, er <emph>enten
+            overflødigt</emph> – ifald det er deres eget Ønske at blive sammen – <emph>eller
+            oprørende</emph> – ifald det omvendt ikke er deres Ønske. De finde, at Samfundet begaaer
+          en frygtelig Uret imod Individer, af hvilke det <pb n="153"/> ene afskyer det andet, ifald
+          det bringer dem til at forblive sammen og faae Børn af den Enes Attraa og den Andens
+          Afsky. De finde det oprørende, at Samfundet tvinger en Kvinde til mod sit Ønske at føde en
+          Drukkenbolt et Barn, et Barn der fra det Øieblik af, det vaagner til Liv, besidder sin
+          Faders fordærvede Drifter og Lyster. De tage da ligesaa meget Hensyn til de endnu ufødte
+          Børn som <persName key="louis-vicomte-de-bonald">Bonald</persName> til de fødte; de see
+          ikke som han et Bevis paa Kvindens Ufuldkommenhed, men et Bevis paa Samfundsordenens
+          Raahed deri, at Kvinden mod sin Villie kan blive Moder. De hævde i Kraft af det
+          Afhængighedsforhold, hvori alle Livssphærer staae til hverandre, Usandsynligheden af, at
+          et eneste Omraade af Menneskelivet skulde findes at være fuldstændig rigtig ordnet paa det
+          traditionelle Fundament, medens alle andre Omraaders Ordning er bleven fundet fuldstændig
+          forkert og derfor bleven forandret fra øverst til nederst i de sidste hundrede Aar. Dette
+          er den Argumentation, der hyppigst anvendes af Mændene af denne Skole.<hi rend="sup"
+            >*)</hi><note place="bottom">Se f. Ex. <persName key="stephen-pearl-andrews">Stephan
+              Pearl Andrews</persName>: »<bibl n="andrews-love-marriage-and-divorce">Love, marriage
+              and divorce</bibl>«<!-- cit start og slut indsat -->. New York. Smlgn. ogsaa <persName
               key="emile-de-girardin">Émile de Girardin</persName>: »<bibl
               n="girardin-lhomme-et-la-femme">L’homme et la
             femme</bibl>«<!-- cit start og slut indsat -->.</note> Det er i dette som i mange andre
@@ -3844,8 +3874,9 @@
           vaage over Herrens Pilekogger og over hans uundgaaelige Lyn, hans frygtelige Gangere, der
           bringe Pest, Krig, Hungersnød og Død. Een Million af disse ivrige Genier regulere
           Stjernernes Bevægelser og afløse efter Tour hverandre i disse prægtige Beskjæftigelser som
-          Skildvagter, der vaage for en stor Armee.«<hi rend="sup">*)</hi><note place="bottom">Hos <persName
-              key="evariste-desire-de-parny">Parny</persName> ere de langt mindre beskjæftigede: <cit>
+          Skildvagter, der vaage for en stor Armee.«<hi rend="sup">*)</hi><note place="bottom">Hos
+              <persName key="evariste-desire-de-parny">Parny</persName> ere de langt mindre
+            beskjæftigede: <cit>
               <quote>
                 <lg>
                   <l>Viennent après les Dominations,</l>
@@ -3901,8 +3932,8 @@
           Ceremoni finder Sted. Maaskee er det i Mellemrummene mellem disse Fuldbyrdelser af
           Treenighedens Mysterium, <pb n="193"/> at Guddommen deler sig; thi undertiden synes den
           delt: »Anraabt af Mildhedens og Fredens Gud til Bedste for den truede Kirke lod den stærke
-          og frygtelige Gud Himlen sine Planer vide.«<hi rend="sup">*)</hi><note place="bottom">Smlgn. <persName
-              key="evariste-desire-de-parny">Parny</persName>: <cit>
+          og frygtelige Gud Himlen sine Planer vide.«<hi rend="sup">*)</hi><note place="bottom"
+            >Smlgn. <persName key="evariste-desire-de-parny">Parny</persName>: <cit>
               <quote>
                 <lg>
                   <l>Étaient-ils trois, ou bien n’étaient-ils qu’un?</l>
@@ -3991,13 +4022,13 @@
           viftende Plaid, som den sees gjennem det svævende Net af de Skyer, der sænke sig over
           Bjergenes Spidser. Der synes at være langt fra en Engel til en Plaid.</p>
         <p>Det Sceneri og de Landskaber, der for denne Gruppe af Digtere staae som de ideale, det er
-          ikke som for de tydske Romantikere Potpourri- eller Lobescowse-Landskabet,<hi rend="sup">*)</hi><note
-            place="bottom">G. Brandes: »<bibl n="brandes-romantiske-skole-tydskland">Den romantiske
-              Skole i Tydskland</bibl>«, 174.</note> nei lige omvendt i Overensstemmelse med
-          Periodens hele Aand det paradisiske Landskab, hvori den strengeste Orden <pb n="197"/>
-          hersker, symmetrisk, architektonisk, abstraheret af en Abstraction af <persName
-            key="claude-le-lorrain">Claude Lorrain</persName>. Se f. Ex. Begyndelsen til <persName
-            key="alfred-de-vigny">De Vigny’s</persName> »<bibl n="vigny-le-deluge-mystere"
+          ikke som for de tydske Romantikere Potpourri- eller Lobescowse-Landskabet,<hi rend="sup"
+            >*)</hi><note place="bottom">G. Brandes: »<bibl n="brandes-romantiske-skole-tydskland"
+              >Den romantiske Skole i Tydskland</bibl>«, 174.</note> nei lige omvendt i
+          Overensstemmelse med Periodens hele Aand det paradisiske Landskab, hvori den strengeste
+          Orden <pb n="197"/> hersker, symmetrisk, architektonisk, abstraheret af en Abstraction af
+            <persName key="claude-le-lorrain">Claude Lorrain</persName>. Se f. Ex. Begyndelsen til
+            <persName key="alfred-de-vigny">De Vigny’s</persName> »<bibl n="vigny-le-deluge-mystere"
             >Syndfloden</bibl>«; jeg gjengiver Versene ved Prosa:</p>
         <p>»Jorden var smilende og i sin første Blomstring –, Dagen havde endnu det samme Lys, – der
           kronede Himlens Høider, – da Gud lod den falde fra sine skabende Hænder for at forskjønne
@@ -4048,15 +4079,16 @@
         <p>Men nu træffer det sig saa uheldigt for Theorien, at hele dette Sted ikke er Andet end en
           Oversættelse af et berømt, fra Oldtiden opbevaret Brev fra <persName
             key="servius-sulpicius-rufus-sulpicius">Sulpicius</persName> til <persName
-            key="marcus-tullius-cicero">Cicero</persName>,<hi rend="sup">*)</hi><note place="bottom">»<bibl
-              n="cicero-ad-familiares">Ad familiares</bibl>«<!-- cit start og slut indsat --> lib.
-            IV epist. 5.</note> altsaa er forfattet af en Hedning. Det er da ikke skikket til Bevis
-          for, hvilke poetiske Følelser Hedningen maa mangle. Men dette Træk er symbolsk. Saaledes
-          udgives de positive Religioner bestandig for at være i Besiddelse af visse overnaturlige
-          Skjønheder og Egenskaber, der skulle fattes Naturen som Natur, og dog er alt det i dem,
-          der har poetisk eller sædeligt Værd, kun afskrevet, kun oversat fra selve den
-          uforanderlige og uforbederlige Hedning Naturen. Som <persName key="ludwig-feuerbach"
-            >Feuerbach</persName> sagde det: Theologiens sande Væsen er Anthropologi.</p>
+            key="marcus-tullius-cicero">Cicero</persName>,<hi rend="sup">*)</hi><note place="bottom"
+              >»<bibl n="cicero-ad-familiares">Ad
+            familiares</bibl>«<!-- cit start og slut indsat --> lib. IV epist. 5.</note> altsaa er
+          forfattet af en Hedning. Det er da ikke skikket til Bevis for, hvilke poetiske Følelser
+          Hedningen maa mangle. Men dette Træk er symbolsk. Saaledes udgives de positive Religioner
+          bestandig for at være i Besiddelse af visse overnaturlige Skjønheder og Egenskaber, der
+          skulle fattes Naturen som Natur, og dog er alt det i dem, der har poetisk eller sædeligt
+          Værd, kun afskrevet, kun oversat fra selve den uforanderlige og uforbederlige Hedning
+          Naturen. Som <persName key="ludwig-feuerbach">Feuerbach</persName> sagde det: Theologiens
+          sande Væsen er Anthropologi.</p>
         <p>
           <pb n="200"/> Kaste vi da et Blik tilbage over denne dristige Digtning, dette forvovne
           Forsøg paa at tvinge det 19de Aarhundredes litterære Smag tilbage til »<bibl
@@ -4084,11 +4116,11 @@
             n="beranger-la-bonne-vieille">la bonne vieille</bibl>«<!-- cit start og slut indsat -->,
             »<bibl n="beranger-le-dieu-des-bonnes-gens">le Dieu des bons
           gens</bibl>«<!-- cit start og slut indsat --> etc. Han hørte dem henrykt.« Hun <pb n="201"
-          /> skildrer med varme Farver disse Stævnemøder,<hi rend="sup">*)</hi><note place="bottom">Dans cet état, il
-            était plus amoureux, plus vif: il me disait que je lui donnais les plaisirs les plus
-            charmants, m’appelait séductrice, etc., et dans cet endroit solitaire, il faisait ce
-            qu’il voulait. <persName key="hortense-allart">Madame Saman</persName>: »<bibl
-              n="Les-enchantements">Les enchantements de
+          /> skildrer med varme Farver disse Stævnemøder,<hi rend="sup">*)</hi><note place="bottom"
+            >Dans cet état, il était plus amoureux, plus vif: il me disait que je lui donnais les
+            plaisirs les plus charmants, m’appelait séductrice, etc., et dans cet endroit solitaire,
+            il faisait ce qu’il voulait. <persName key="hortense-allart">Madame Saman</persName>:
+              »<bibl n="Les-enchantements">Les enchantements de
             Prudence</bibl>«<!-- cit start og slut indsat -->, avec préface de <persName
               key="george-sand">George Sand</persName>. 1873. S. 166 ff.</note> og fortæller saa,
           hvorledes det hørte til <persName key="francois-rene-vicomte-de-chateaubriand"
@@ -4611,9 +4643,9 @@
           for at <pb n="226"/> betegne, hvad hun egentlig saa i ham: Noget som en Opretter af det
           tusindaarige Rige, en Fredens Engel med Magtens flammende Sværd, Lysets blonde Fyrste
           eller lignende, medens <persName key="napoleon-1">Napoleon</persName> for hende som for
-            <persName key="adam-muller">Adam Müller</persName> og Consorter var Djævelen
-            selv.<hi rend="sup">*)</hi><note place="bottom">Se »<bibl n="brandes-romantiske-skole-tydskland">Den
-              romantiske Skole i Tydskland</bibl>«<!-- cit start og slut indsat --> 359.</note>
+            <persName key="adam-muller">Adam Müller</persName> og Consorter var Djævelen selv.<hi
+            rend="sup">*)</hi><note place="bottom">Se »<bibl n="brandes-romantiske-skole-tydskland"
+              >Den romantiske Skole i Tydskland</bibl>«<!-- cit start og slut indsat --> 359.</note>
           <persName key="aleksander-1">Alexander</persName> skulde gjenoprette Christendommen paa
           Jorden, udslette indtil det sidste Spor af Revolutionen og alle dens Gjerninger. Til
           Gjengjæld kjendte da <persName key="aleksander-1">Alexanders</persName> Ærefrygt og
@@ -4770,8 +4802,8 @@
         </p>
         <p>Tonen er hos hende trods al sin Inderlighed dog ligesaa pietistisk-abstract som hos
             <persName key="barbara-juliane-julie-de-krudener">Mme de Krüdener</persName>
-            mystisk-sensuel.<hi rend="sup">*)</hi><note place="bottom">Se <persName key="th-katerkamp"
-              >Katerkamp</persName>: »<bibl
+            mystisk-sensuel.<hi rend="sup">*)</hi><note place="bottom">Se <persName
+              key="th-katerkamp">Katerkamp</persName>: »<bibl
               n="katerkamp-denkwurdigkeiten-aus-dem-leben-furstin-amalia-von-gallitzin"
               >Denkwürdigkeiten aus dem Leben der Fürstinn <persName key="amalie-gallitzin">Amalia
                 von Gallitzin</persName>
@@ -5228,8 +5260,8 @@
           Romantikere selv en Usling som <persName type="fictional" key="golo">Golo</persName> i
             <persName key="ludwig-tieck">Tiecks</persName> »<bibl
             n="tieck-leben-und-tod-der-heiligen-genoveva">Genoveva</bibl>« skal have en Lighed med
-            Christus,<hi rend="sup">*)</hi><note place="bottom">Se <persName key="f-l-liebenberg">F. L.
-              Liebenberg</persName>: »<bibl
+            Christus,<hi rend="sup">*)</hi><note place="bottom">Se <persName key="f-l-liebenberg">F.
+              L. Liebenberg</persName>: »<bibl
               n="liebenberg-bidrag-til-den-oehlenschlagerske-litteraturs-historie">Bidrag til den
               Oehlenschlägerske Litteraturs Historie</bibl>«<!-- cit start og slut indsat --> I,
             183. <persName type="fictional" key="genoveva">Genoveva</persName> »seer Christus i
@@ -5393,8 +5425,8 @@
           Øine til hende uden med en Respect, der umuliggjør enhver Attraa. <persName
             key="alexander-de-stakiev">Alexander Stakiew</persName> havde tilstaaet <persName
             key="burchard-alexis-constantin-krudener">Krüdener</persName> sine Følelser, <persName
-            type="fictional" key="gustave-de-linar">Gustav</persName> tier absolut overfor
-            Manden<hi rend="sup">*)</hi><note place="bottom">I to paa hinanden følgende Udgaver af sin »<bibl
+            type="fictional" key="gustave-de-linar">Gustav</persName> tier absolut overfor Manden<hi
+            rend="sup">*)</hi><note place="bottom">I to paa hinanden følgende Udgaver af sin »<bibl
               n="schmidt-franzosische-literaturgeschichte">Französische Litteraturgeschichte</bibl>«
             har <persName key="julian-schmidt">Julian Schmidt</persName> begaaet den Feil i
             Gjengivelsen af »<bibl n="krudener-valerie"
@@ -5793,8 +5825,8 @@
             uhi<pb n="278"/>storiske Tilsætninger var disse unge Kvinders Død saa oprørende, deres
           Skjæbne saa tragisk og deres Optræden saa yndefuld og værdig, at de vel havde fortjent et
           digterisk Mindesmærke, ja et endnu bedre end det, de fik af <persName key="victor-hugo"
-            >Hugo</persName>.<hi rend="sup">*)</hi><note place="bottom">Hvo der interesserer sig for deres virkelige
-            Historie kan finde den fortalt efter Original-Manuscripter i <persName
+            >Hugo</persName>.<hi rend="sup">*)</hi><note place="bottom">Hvo der interesserer sig for
+            deres virkelige Historie kan finde den fortalt efter Original-Manuscripter i <persName
               key="alfred-auguste-cuvillier-fleury">Cuvillier-Fleury’s</persName> »Portraits
             politiques«<!-- cit start og slut indsat --> 1851, 377 ff.</note> Men er Digterens
           Pathos nu fuldt berettiget i Tilfælde som dette, hvor Revolutionen viste sig fra sin mørke
@@ -5864,9 +5896,9 @@
             n="chateaubriand-les-martyrs-ou-le-triomphe-de-la-religion-chretienne-vol-1-2"
             >Martyrer</bibl>«<!-- cit start og slut indsat -->, hvilken sidste Composition behersker
           Samtiden saa stærkt, at de yngre Digtere endog sætte en Ære i at omskrive hele Sider af
-          den paa Vers.<hi rend="sup">*)</hi><note place="bottom">Se f. Ex. <persName key="emile-deschamps">Émile
-              Deschamps</persName>: »<bibl n="deschamps-poesies"
-            >Poésies</bibl>«<!-- cit start og slut indsat -->, Udg. af 1841 S. 124 »<bibl
+          den paa Vers.<hi rend="sup">*)</hi><note place="bottom">Se f. Ex. <persName
+              key="emile-deschamps">Émile Deschamps</persName>: »<bibl n="deschamps-poesies"
+              >Poésies</bibl>«<!-- cit start og slut indsat -->, Udg. af 1841 S. 124 »<bibl
               n="une-page-des-martyrs">Une page des martyrs</bibl>«, »<bibl n="autre">Autre</bibl>«
             etc.</note> Og som <persName key="alphonse-de-lamartine">Lamartine</persName> til
             <persName key="louis-vicomte-de-bonald">Bonald</persName> rettede sin Ode »<bibl
@@ -6028,9 +6060,9 @@
           »der ei er Andet end <emph>Autoriteten</emph> i Litteraturen«, viser ham imidlertid netop,
           at Værker, der ere sande med Hensyn til Indholdet, ogsaa bør være det med Hensyn til
           Formen. Saaledes kommer han til Fordringen af »<emph>Localfarve</emph>«, som de klassiske
-          Skribenter neppe ganske have fyldestgjort.<hi rend="sup">*)</hi><note place="bottom">Smlgn. G. Brandes: »<bibl
-              n="den-franske-aesthetik">Den franske Æsthetik i vore
-            Dage</bibl>«<!-- cit start og slut indsat --> S. 22, »<bibl
+          Skribenter neppe ganske have fyldestgjort.<hi rend="sup">*)</hi><note place="bottom"
+            >Smlgn. G. Brandes: »<bibl n="den-franske-aesthetik">Den franske Æsthetik i vore
+              Dage</bibl>«<!-- cit start og slut indsat --> S. 22, »<bibl
               n="brandes-kritiker-og-portraiter">Kritiker og
             Portraiter</bibl>«<!-- cit start og slut indsat --> 227.</note> Iøvrigt burde man
           selvfølgelig »<emph>religiøst</emph>« følge de Regler, der vare paalagte Sproget af
@@ -6133,7 +6165,8 @@
           ja med at troe paa dem som paa virkelige Love for Poesien og Sproget. Saa begyndte han at
           rokke lidt ved dem, at gaae lidt udenom dem, at betvivle eller omfortolke dem en lille
           Smule dog i dybeste Respect, indtil det ikke mere var ham muligt at overholde dem og han
-          kastede dem overende. Med slaaende Ord har han i et af sine Digte,<hi rend="sup">*)</hi><note place="bottom">
+          kastede dem overende. Med slaaende Ord har han i et af sine Digte,<hi rend="sup"
+            >*)</hi><note place="bottom">
             <cit>
               <quote>
                 <lg>
@@ -6265,7 +6298,8 @@
             <rdg wit="A">Autoritetsprinçip</rdg>
           </app>.</p>
         <p>Vi have tilbage at see, hvorledes Autoriteten som reelt Princip kom til at dele Skjæbne
-          med Autoritetsprincipet som formelt og litterært.<hi rend="sup">*)</hi><note place="bottom">
+          med Autoritetsprincipet som formelt og litterært.<hi rend="sup">*)</hi><note
+            place="bottom">
             <persName key="victor-hugo">Victor Hugo</persName>: »<bibl n="hugo-odes-et-ballades"
               >Odes et Ballades</bibl>«<!-- cit start og slut indsat -->. »<bibl n="hugo-cromwell"
               >Cromwell</bibl>«<!-- cit start og slut indsat -->. – <persName key="alfred-de-vigny"
@@ -6306,8 +6340,8 @@
           haard og absolut. Hans religiøse Kaldelse var længe tvivlsom; som Yngling morede han sig
           mest med Musik og Mathematik, med Fløitespil og Vaabenøvelser, ja, han havde en alvorlig
           Duel, der senere viste sig som en Hindring paa den Vei, han betraadte. Han havde
-          Kjærlighedshistorier og skrev Vers.<hi rend="sup">*)</hi><note place="bottom">Her et Par fra hans tidligste
-            Ungdom: <cit>
+          Kjærlighedshistorier og skrev Vers.<hi rend="sup">*)</hi><note place="bottom">Her et Par
+            fra hans tidligste Ungdom: <cit>
               <quote>
                 <lg>
                   <l>On a vu souvent des maris</l>
@@ -6420,8 +6454,8 @@
           »Saaledes,«<!-- cit slut indsat --> siger <persName key="friedrich-schleiermacher"
             >Schleiermacher</persName>, »<!-- cit start indsat -->er den første Undfangelse af
           ethvert levende og oprindeligt Moment i Eders Liv beskaffen, hvilket Omraade det endogsaa
-          tilhører, og udaf et saadant voxer ogsaa enhver religiøs Sindsbevægelse.«<hi rend="sup">*)</hi><note
-            place="bottom">»<bibl n="schleiermacher-uber-die-religion">Reden über die
+          tilhører, og udaf et saadant voxer ogsaa enhver religiøs Sindsbevægelse.«<hi rend="sup"
+            >*)</hi><note place="bottom">»<bibl n="schleiermacher-uber-die-religion">Reden über die
               Religion</bibl>«. 5te Auflage 50, 54, 56.</note>
         </p>
         <p>Som Følge heraf betegner han da Følelsen, forsaavidt den udtrykker Individets og Altets
@@ -6666,9 +6700,9 @@
           at underkaste sig denne Lov. <emph>Styrken er nødvendigvis underordnet Loven, Staten
             underordnet Kirken</emph>. I modsat Fald maatte man antage to uafhængige Magter, den ene
           Retfærdighedens og Sandhedens Bevarer, den anden blind og derfor efter sin Natur
-          ødelæggende for Retfærdighed og Sandhed.«<hi rend="sup">*)</hi><note
-            place="bottom">»Du progrès de la révolution et de la guerre contre l’église.«</note> En
-          stolt og det 19de Aarhundrede værdig Consequents!</p>
+          ødelæggende for Retfærdighed og Sandhed.«<hi rend="sup">*)</hi><note place="bottom">»Du
+            progrès de la révolution et de la guerre contre l’église.«</note> En stolt og det 19de
+          Aarhundrede værdig Consequents!</p>
         <p>Man lærer heraf, hvad Magt <persName key="felicite-de-lamennais">Lamennais</persName>
           vilde have den katholske Kirke tillagt. Vi have endnu tilbage at see Slutningsspringet,
           hvorved det bevises, at den katholske Kirke <emph>er</emph> selve den Autoritet, hvorom
@@ -6899,8 +6933,8 @@
           tusinde ligesaa forbigaaende Omstændighe<pb n="[331]"/>der. Tænk blot, hvilke Meninger vi
           vilde have, hvis vi vare komne 10 Aarhundreder tidligere til Verden eller i samme
           Aarhundrede i <placeName key="teheran">Teheran</placeName>, i <placeName key="varanasi"
-            >Benares</placeName>, paa <placeName key="tahiti">Otaheiti</placeName>!«<hi rend="sup">*)</hi><note
-            place="bottom">Smlgn. G. Brandes: »<!-- cit start og slut indsat -->
+            >Benares</placeName>, paa <placeName key="tahiti">Otaheiti</placeName>!«<hi rend="sup"
+            >*)</hi><note place="bottom">Smlgn. G. Brandes: »<!-- cit start og slut indsat -->
             <bibl n="den-franske-aesthetik">Den franske Æsthetik i vore Dage</bibl>« S. 97.</note>
           Der er mere sand Philosophi i disse Par Ord end i hele <persName
             key="felicite-de-lamennais">Lamennais’</persName> berømte Hovedværk.</p>
@@ -7071,7 +7105,8 @@
           og Andre rakte ham et Crucifix, og han kyssede det. Og naar de Unge talte om Hæder, svarte
           man dem »Bliv Præster!«<!-- cit slut indsat --> og naar de talte om Ære, svarte man »Bliv
           Præster!«<!-- cit slut indsat --> og naar de talte om Haab, om Elskov, om Kraft og Liv,
-          bestandig: Bliv Præster!«<hi rend="sup">*)</hi><!-- cit slut indsat --><note place="bottom">
+          bestandig: Bliv Præster!«<hi rend="sup">*)</hi><!-- cit slut indsat --><note
+            place="bottom">
             <persName key="alfred-de-musset">Alfred de Musset</persName>: »<bibl
               n="musset-la-confession-dun-enfant-du-siecle">Confessions d’un enfant du
             siècle</bibl>«<!-- cit start og slut indsat -->.</note>
@@ -7112,8 +7147,8 @@
           nok hermed: de katholske Polemikere hengive sig til Betragtninger over Verdenshistorien,
           der føre til en Art Korstog imod de store hedenske Genier, der have grundlagt Europas
           Civilisation, som f. Ex. <persName key="pindar">Pindar</persName>, <persName key="platon"
-            >Plato</persName>, <persName key="publius-vergilius-maro-vergil"
-            >Virgil</persName>,<hi rend="sup">*)</hi><note place="bottom">Se <persName key="emile-edmond-saisset"
+            >Plato</persName>, <persName key="publius-vergilius-maro-vergil">Virgil</persName>,<hi
+            rend="sup">*)</hi><note place="bottom">Se <persName key="emile-edmond-saisset"
               >Saisset</persName>: »<bibl n="saisset-la-philosophie-et-la-renaissance-religieuse">La
               philosophie et la renaissance religieuse</bibl>«<!-- cit start og slut indsat -->.
               »<bibl n="revue-des-deux-mondes">Revue des deux
@@ -7144,16 +7179,16 @@
           Frankrigs Guddom, som hun tilforn var Italiens og Spaniens. Med Stolthed forkynde
           Katholikerne, at Marias Aarhundrede er fulgt paa <persName key="francois-voltaire"
             >Voltaires</persName> Aarhundrede. I en Lærebog, efter hvilken de katholske Præster
-            opdrages,<hi rend="sup">*)</hi><note place="bottom">»<bibl n="manuel-de-piete">Manuel de piété à l’usage des
-              séminaires</bibl>«<!-- cit start og slut indsat --> 7 éd. Paris 1835.</note> hedder
-          det: »Man bør hædre den hellige Jomfru som den evige Faders Hustru, da han med hende og i
-          hende har avlet vor Herre Jesus Christus; man bør i hende hædre alle de guddommelige og
-          tilbedelsesværdige Fuldkommenheder, som Gud har ladet gaae over til hendes Person, idet
-          han med overordentlig Overflod har meddelt hende sin Frugtbarhed, sin Visdom, sin
-          Hellighed og sin guddommelige Livsfylde.« I en Bog, som <persName key="jean-baptist-malou"
-            >Erkebisp Malou</persName> har udgivet om den ubesmittede Undfangelse, skildres Maria
-          som paa een Gang Datter af Gud, Hustru til Gud og Mo<pb n="341"/>der til Gud.
-          Treenighedens Slægtskabsforhold blive her saa indviklede, at <app>
+            opdrages,<hi rend="sup">*)</hi><note place="bottom">»<bibl n="manuel-de-piete">Manuel de
+              piété à l’usage des séminaires</bibl>«<!-- cit start og slut indsat --> 7 éd. Paris
+            1835.</note> hedder det: »Man bør hædre den hellige Jomfru som den evige Faders Hustru,
+          da han med hende og i hende har avlet vor Herre Jesus Christus; man bør i hende hædre alle
+          de guddommelige og tilbedelsesværdige Fuldkommenheder, som Gud har ladet gaae over til
+          hendes Person, idet han med overordentlig Overflod har meddelt hende sin Frugtbarhed, sin
+          Visdom, sin Hellighed og sin guddommelige Livsfylde.« I en Bog, som <persName
+            key="jean-baptist-malou">Erkebisp Malou</persName> har udgivet om den ubesmittede
+          Undfangelse, skildres Maria som paa een Gang Datter af Gud, Hustru til Gud og Mo<pb
+            n="341"/>der til Gud. Treenighedens Slægtskabsforhold blive her saa indviklede, at <app>
             <lem wit="B SS Fu 1923-24">Maria</lem>
             <rdg wit="A">Marie</rdg>
           </app> bl. A. bliver Datter af sin egen Søn. I en Bog af <persName
@@ -7270,8 +7305,9 @@
           religiøse Hymner; men den strenge <placeName key="geneve">Genfer</placeName>præst
             <persName key="alexandre-vinet">Vinet</persName> opdagede snart, at denne Religiøsitet
           kun tilsyneladende var Christendom, og at der under de christelige Talemaader lurede en
-          meget lidet orthodox Pantheisme.<hi rend="sup">*)</hi><note place="bottom">Se <persName key="alexandre-vinet"
-              >Vinets</persName> interessante Studier over Frankrigs nyere lyriske Poesi.</note>
+          meget lidet orthodox Pantheisme.<hi rend="sup">*)</hi><note place="bottom">Se <persName
+              key="alexandre-vinet">Vinets</persName> interessante Studier over Frankrigs nyere
+            lyriske Poesi.</note>
         </p>
         <p>
           <persName key="victor-hugo">Victor Hugo</persName>, der efter sin første Optræden skulde
@@ -7292,8 +7328,8 @@
             >Villèle</persName>, og det netop i det Øieblik, da han havde skaffet det Bourbonske
           Navn en Triumph ved den lykkeligt tilendebragte spanske Krig, som han pleiede at kalde sin
           politiske »<bibl n="chateaubriand-rene">René</bibl>«, det vil sige sin Politiks
-            Mesterstykke.<hi rend="sup">*)</hi><note place="bottom">Om Enkelthederne ved denne Afskedigelse kan
-            eftersees <persName key="francois-guizot">Guizot</persName>: »<bibl
+            Mesterstykke.<hi rend="sup">*)</hi><note place="bottom">Om Enkelthederne ved denne
+            Afskedigelse kan eftersees <persName key="francois-guizot">Guizot</persName>: »<bibl
               n="guizot-memoires-pour-servir-a-lhistoire-de-mon-temps-vol-1-9">Mémoires pour servir
               à l’histoire de mon temps</bibl>«<!-- cit start og slut indsat -->, Fremmedudgaven 263
             ff.</note> Man forhaanede <persName key="francois-rene-vicomte-de-chateaubriand"
