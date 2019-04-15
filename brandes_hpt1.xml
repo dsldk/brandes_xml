@@ -27,7 +27,7 @@
                 <placeName>empty</placeName>
             </creation>
             <abstract>
-                <ab>Erster Band der Hauptströmungen ... von Georg Brandes (1872)</ab>
+                <ab>Erster Band der Hauptströmungen ... von Georg Brandes</ab>
             </abstract>
             <langUsage>
                 <language ident="de"/>
@@ -54,7 +54,7 @@
                 <byline>G. Brandes</byline>
                 <docTitle>
                     <titlePart type="desc">Uebersetzt und eingeleitet von<lb/>Adolf Strodtmann.</titlePart>
-                    <titlePart type="sub">Erster Band: Die Emigrantenliteratur.</titlePart>
+                    <titlePart type="sub"><emph>Erster Band:</emph> Die Emigrantenliteratur.</titlePart>
                     <lb/>
                     <lb/>
                     <titlePart type="desc">Einzig autorisirte deutsche Ausgabe.</titlePart>
@@ -272,8 +272,10 @@
                     Märchen, dessen Sinn nach dem Vorausgehenden keiner weiteren Erklärung
                     bedarf:—</p>
                 
-                <p> <emph>Die Geschichte vom kleinen Rothkäppchen.</emph></p>
-                <p> Es war einmal ein kleiner freier Gedanke. Da er gewöhnlich eine rothe Mütze
+                <cit><quote>
+                   
+                    <title>Die Geschichte von kleinen Rothkäppchen</title>
+                    <p> Es war einmal ein kleiner freier Gedanke. Da er gewöhnlich eine rothe Mütze
                     trug, so nannte man ihn das kleine <pb n="XV" facs="nil"/> Rothkäppchen. Eines schönen Tages, als sein Großvater,
                     die Gesellschaft, einige Veränderungen im Hause vorzunehmen gedachte, sagte er
                     zum kleinen Rothkäppchen: »Geh mein Kind, geh hin und sieh, wie Deine
@@ -316,6 +318,7 @@
 
                 <p>Und mit diesen Worten fiel der böse alte Wolf über das kleine Rothkäppchen her,
                     erstickte es und fraß es auf.</p>
+                </quote></cit>
 
                 <p>Dr. Brandes hat auf die zahlreichen Angriffe, deren Gegenstand er gewesen,
                     außerdem in einer kleinen Broschüre erwidert, die Zeugnis davon giebt, daß er,
@@ -588,7 +591,9 @@
 
             </div>
         </front>
+        
         <body>
+          
             <div>
                 <head type="add">Einleitung</head>
                 <head><pb ed="A" n="[1]" facs="xyz"/> Einleitung.</head>
@@ -1042,7 +1047,7 @@
             
                 <div><!-- begynder del 1 -->
                     <head type="add">Die Emigrantenliteratur</head>
-                    <head type="original"><pb n="[23]" facs="130019387349_0064"/> Die Emigrantenliteratur.</head>
+                    <head><pb n="[23]" facs="130019387349_0064"/> Die Emigrantenliteratur.</head>
                 <pb/>
                     <p><pb n="[25]" facs="130019387349_0064"/> Die Franzosen waren es, welche am
                         Schlusse des achtzehnten Jahrhunderts die politischen Zustände und die
@@ -1170,7 +1175,7 @@
 
                 <div>
                     <head type="add">1. Rousseau's »Neue Héloise«</head>
-                    <head type="sub"><pb n="[31]" facs="130019387349_0064"/> 1.</head>
+                    <head><pb n="[31]" facs="130019387349_0064"/> 1.</head>
                     <p> Betrachten wir zum Beispiel eins der Hauptwerke der reaktionären Literatur.
                         Was das achtzehnte Jahrhundert hatte von Grund aus zerstören wollen, war mit
                         Einem Worte das Mittelalter. Ihm war das Mittelalter nur ein anderes Wort
@@ -1474,7 +1479,7 @@
 
                 <div>
                     <head type="add">2. Goethe's »Werther«</head>
-                    <head type="sub"><pb n="46" facs="130019387349_0079"/> 2.</head>
+                    <head><pb n="46" facs="130019387349_0079"/> 2.</head>
 
                     <p>»Die neue Héloise« erschien 1761. Dreizehn Jahre später schrieb in einem
                         anderen Lande, unter sehr verschiedenen Umgebungen, ein junges Genie, das
@@ -1688,7 +1693,7 @@
                 
                 <div>
                     <head type="add">3. Die Misanthropie bei Molière</head>
-                    <head type="sub"><pb n="56" facs="130019387349_0079"/> 3.</head>
+                    <head><pb n="56" facs="130019387349_0079"/> 3.</head>
 
                     <p>Zu diesem Zeitpunkte beginnt die Melancholie und die Misanthropie ein
                         poetisches Element zu werden. Um zu erklären, was ich hiemit meine, muß ich
@@ -1846,7 +1851,7 @@
 
                 <div>
                     <head type="add">4. Chateaubriand's »René«</head>
-                    <head type="sub"><pb n="63" facs="130019387349_0079"/> 4.</head>
+                    <head><pb n="63" facs="130019387349_0079"/> 4.</head>
 
                     <p>Will man diese Krankheit des Jahrhunderts verstehen, so muß man zuerst
                         beachten, daß dasselbe in dem großen Manne, welcher als die Hauptgröße des
@@ -2065,7 +2070,7 @@
 
                 <div>
                     <head type="add">5. Der neue Seelenzustand</head>
-                    <head type="sub"><pb n="74" facs="130019387349_0079"/> 5.</head>
+                    <head><pb n="74" facs="130019387349_0079"/> 5.</head>
 
                     <p>Wie in der körperlichen Welt zu gewissen Zeiten bisher unbekannte Krankheiten
                         entstehen, so auch im geistigen Leben. Was ich hier zu schildern versuche,
@@ -2127,7 +2132,7 @@
 
                 <div>
                     <head type="add">6. Sénancour's »Obermann«</head>
-                    <head type="sub"><pb n="77" facs="130019387349_0079"/> 6.</head>
+                    <head><pb n="77" facs="130019387349_0079"/> 6.</head>
 
                     <p>Im schärfsten Gegensatze zu dem selbst in der Verzweiflung und dem Ekel vor
                         dem Leben so stolzen und gebieterischen René steht die nächste
@@ -2476,7 +2481,7 @@
 
                 <div>
                     <head type="add">7. Constant's »Adolphe« (1)</head>
-                    <head type="sub"><pb n="93" facs="130019387349_0079"/> 7.</head>
+                    <head><pb n="93" facs="130019387349_0079"/> 7.</head>
 
                     <p>Wer in der Literaturgeschichte den Typus eines bestimmten Zeitraums von einer
                         Variation zur anderen begleitet, verfährt wie der Naturforscher, welcher die
@@ -2877,7 +2882,7 @@
 
                 <div>
                     <head type="add">8. Benjamin Constant</head>
-                    <head type="sub"><pb n="112" facs="130019387349_0079"/> 8.</head>
+                    <head><pb n="112" facs="130019387349_0079"/> 8.</head>
 
                     <p>Wir kehren also zu »Adolphe« zurück, und zur besseren Würdigung dieses Buches
                         werfen wir einen Blick auf seinen Verfasser.</p>
@@ -3079,7 +3084,7 @@
 
                 <div>
                     <head type="add">9. Goethe's Frauengestalten</head>
-                    <head type="sub"><pb n="121" facs="130019387349_0079"/> 9.</head>
+                    <head><pb n="121" facs="130019387349_0079"/> 9.</head>
 
                     <p>Benjamin Constant ist in Frankreich nicht der Beschuldigung des Germanismus
                         entgangen. In der Schweiz geboren, verbrachte er seine Jugend zuerst in
@@ -3298,7 +3303,7 @@
 
                 <div>
                     <head type="add">10. Constant's »Adolphe« (2)</head>
-                    <head type="sub"><pb n="131" facs="130019387349_0079"/> 10.</head>
+                    <head><pb n="131" facs="130019387349_0079"/> 10.</head>
 
                     <p>Es erübrigt nur noch, Rechenschaft von der Feinheit der psychologischen
                         Analyse in »Adolphe« zu geben und zu zeigen, zu welchem Resultate sie führt.
@@ -3449,7 +3454,7 @@
 
                 <div>
                     <head type="add">11. Der Kampf mit der Gesellschaft</head>
-                    <head type="sub"><pb n="138" facs="130019387349_0079"/> 11.</head>
+                    <head><pb n="138" facs="130019387349_0079"/> 11.</head>
 
                     <p>Byron schreibt über »Adolphe« in seinen Memoiren: »Anbei sende ich Ihnen
                         »Adolphe,« er enthält finstere Wahrheiten, aber nach meiner Ansicht ist er
@@ -3889,7 +3894,7 @@
 
                 <div>
                     <head type="add">12. Frau von Stäel</head>
-                    <head type="sub"><pb n="159" facs="130019387349_0079"/> 12.</head>
+                    <head><pb n="159" facs="130019387349_0079"/> 12.</head>
 
                     <p>Frau von Staël war wie geschaffen für ihre geschichtliche Sendung. Sie besaß
                         den höchsten Grad von Lebendigkeit. Man kann im Allgemeinen die
@@ -4182,7 +4187,7 @@
 
                 <div>
                     <head type="add">13. Frau von Stäel's Poetik</head>
-                    <head type="sub"><pb n="173" facs="130019387349_0079"/> 13.<!-- stiltiende rettet: 4. > 13. --></head>
+                    <head><pb n="173" facs="130019387349_0079"/> 13.<!-- stiltiende rettet: 4. > 13. --></head>
 
                     <p>Frau von Staël begann ihre Schriftstellerthätigkeit mit einer Reihe
                         enthusiastischer Briefe über Jean Jacques, die mit demselben Gefühl einer
@@ -4340,7 +4345,7 @@
 
                 <div>
                     <head type="add">14. Neue Betrachtung der Antike</head>
-                    <head type="sub"><pb n="181" facs="130019387349_0079"/> 14.</head>
+                    <head><pb n="181" facs="130019387349_0079"/> 14.</head>
 
                     <p>Rom ist der einzige Ort auf dem Erdballe, wo die Weltgeschichte gleichsam
                         sichtbar hervor tritt, indem die auf einander folgenden Epochen ihre
@@ -4618,13 +4623,9 @@
                         »Die Künstler«, »Die Ideale«, »Das Ideal und das Leben«. Denken wir nur an
                         die Zeile:</p>
 
-<cit>
-    <quote>
-<lg>
-                    <l>»Auch ich war in Arkadien geboren,«</l>
-</lg>
-    </quote>
-</cit>
+<cit><quote><lg>
+<l>»Auch ich war in Arkadien geboren,«</l>
+</lg></quote></cit>
                     <p>und an folgende Schilderung des Lebens der Götter:</p>
 
                     <cit>
@@ -4817,7 +4818,7 @@
 
                 <div>
                     <head type="add">15. Frau von Stäel's »Corinna«</head>
-                    <head type="sub"><pb n="199" facs="130019387349_0079"/> 15.</head>
+                    <head><pb n="199" facs="130019387349_0079"/> 15.</head>
 
                     <p>Frau von Staëls schriftstellerische Thätigkeit läßt sich beständig von zwei
                         Seiten betrachten. Sie zerfällt gleichsam in zwei Theile, eine männliche und
@@ -5020,7 +5021,7 @@
 
                 <div>
                     <head type="add">16. Kampf gegen Nationalvorurtheile</head>
-                    <head type="sub"><pb n="209" facs="130019387349_0079"/> 16.</head>
+                    <head><pb n="209" facs="130019387349_0079"/> 16.</head>
 
                     <p>Man könnte »Corinna« ein Gedicht über Nationalvorurtheile nennen. Oswald
                         repräsentirt alle diejenigen Englands, der Graf d’Erfeuil alle diejenigen
@@ -5551,7 +5552,7 @@
 
                 <div>
                     <head type="add">17. Sympathie für die Religion</head>
-                    <head type="sub"><pb n="234" facs="130019387349_0079"/> 17.</head>
+                    <head><pb n="234" facs="130019387349_0079"/> 17.</head>
 
                     <p>Corinna, die kunstliebende Dichterin, nimmt daher dem protestantischen Oswald
                         gegenüber beständig Partei für den Katholicismus. Dieser schleicht sich aus
@@ -5718,7 +5719,7 @@
 
                 <div><!-- begynder del 2 -->
                     <head type="add">Die romantische Schule in Deutschland</head>
-                    <head type="original"><pb n="243" facs="130019387349_0064"/> Die romantische Schule in Deutschland.</head>
+                    <head><pb n="243" facs="130019387349_0064"/> Die romantische Schule in Deutschland.</head>
 <pb/>
                     
                         <p><pb n="245" facs="130019387349_0064"/>Nachdem ich die reformatorische und
@@ -5775,7 +5776,7 @@
 
                     <div>
                         <head type="add">1. Antike Renaissance</head>
-                        <head type="sub"><pb n="248" facs="130019387349_0079"/> 1.</head>
+                        <head><pb n="248" facs="130019387349_0079"/> 1.</head>
 
                         <p>Man kann die deutsch-romantische Schule einerseits als eine Art
                             katholischer Renaissance bezeichnen, andererseits ist sie
@@ -5855,7 +5856,7 @@
 
                     <div>
                         <head type="add">2. Romantische Reaktion wider die Renaissance der Antike</head>
-                        <head type="sub"><pb n="252" facs="130019387349_0079"/> 2.</head>
+                        <head><pb n="252" facs="130019387349_0079"/> 2.</head>
 
                         <p>Allein, wie es zu erwarten stand: das so äußerliche und in Wirklichkeit
                             für einen modernen Germanen so wenig natürliche Streben, antik und
@@ -6284,7 +6285,7 @@
 
                     <div>
                         <head type="add">3. Deutschland und Hindustan</head>
-                        <head type="sub"><pb n="270" facs="130019387349_0079"/> 3.</head>
+                        <head><pb n="270" facs="130019387349_0079"/> 3.</head>
 
                         <p>Es war kein Wunder, daß ein Augenblick in der Geschichte Deutschlands
                             erschien, wo man mit Leib und Seele begann, den Geist und die Kultur des

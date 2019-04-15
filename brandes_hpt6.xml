@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><emph>Das junge Deutschland</emph> (1891) </title>
+                <title>Das junge Deutschland (1891) </title>
             </titleStmt>
             <publicationStmt>
                 <publisher>dsl</publisher>
@@ -21,6 +21,22 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName>empty</placeName>
+            </creation>
+            <abstract>
+                <ab>Sechster Band der Hauptströmungen ... von Georg Brandes</ab>
+            </abstract>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>empty</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
     </teiHeader>
     <text>
         <front/>

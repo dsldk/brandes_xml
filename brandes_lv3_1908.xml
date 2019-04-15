@@ -21,6 +21,22 @@
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>empty</placeName>
+         </creation>
+         <abstract>
+            <ab>Tredje bind af Georg Brandes' selvbiografi: Snevringer og Horizonter</ab>
+         </abstract>
+         <langUsage>
+            <language ident="da"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>empty</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <text>
       <front>
