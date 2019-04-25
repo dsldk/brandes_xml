@@ -130,7 +130,7 @@
                 <p> Det gik med Drømmen om Frihed som med Drømmen om Enhed. For at ophidse Folkene
                     til Kampen mod <persName key="napoleon-1">Napoleon</persName> havde flere af
                     Fyrsterne givet dem Løfter om fri Forfatning. Det blev af <pb n="3"/> de større
-                    Stater kun <placeName key="beyern">Bayern</placeName>, <placeName key="baden"
+                    Stater kun <placeName key="bayern">Bayern</placeName>, <placeName key="baden"
                         >Baden</placeName> og <placeName key="wuerttemberg">Würtemberg</placeName>,
                     de tidligere Medlemmer af <ref target="n1887"/>det Napoleonske
                     Rhinforbund<!-- lemma slut -->, som holdt disse Løfter og indførte
@@ -177,7 +177,7 @@
                     II).</p>
 
                 <p> Det gjaldt for Magterne om at udrydde ethvert Spor af Napoleonske
-                    Statsindretninger. Saaledes blev f. Ex. i <placeName key="hannover"
+                    Statsindretninger. Saaledes blev f. Ex. i <placeName key="hannover-land"
                         >Hannover</placeName>
                     <ref target="n1889"/><emph>Code Napoléon</emph><!-- lemma slut --> med
                     Retsplejens Offentlighed og Mundtlighed afskaffet og i Stedet den gamle
@@ -961,23 +961,23 @@
                         key="johann-wolfgang-goethe">Goethe</persName> mente Julidagene og først
                     noget efter forstod, at han talte om Afgjørelsen af <ref target="n1989"/>den
                     naturvidenskabelige Strid mellem <persName key="georges-cuvier"
-                        >Cuvier</persName> og <persName key="saint-hilaire"
-                    >Saint-Hilaire</persName><!-- lemma slut --> til Fordel for den sidste. Længe
-                    nok har man i denne mindeværdige Misforstaaelse kun seet Symptomet paa <persName
-                        key="johann-wolfgang-goethe">Goethes</persName> Begrænsning overfor det
-                    Politiske; det er kun billigt at fremhæve den betegnende Anekdotes anden Side:
-                    den gamle Vismands berettigede Overlegenhedsfølelse <pb n="31"/> overfor
-                    overvurderede politiske Begivenheder. I Virkeligheden var denne
+                        >Cuvier</persName> og <persName key="etienne-geoffroy-saint-hilaire"
+                        >Saint-Hilaire</persName><!-- lemma slut --> til Fordel for den sidste.
+                    Længe nok har man i denne mindeværdige Misforstaaelse kun seet Symptomet paa
+                        <persName key="johann-wolfgang-goethe">Goethes</persName> Begrænsning
+                    overfor det Politiske; det er kun billigt at fremhæve den betegnende Anekdotes
+                    anden Side: den gamle Vismands berettigede Overlegenhedsfølelse <pb n="31"/>
+                    overfor overvurderede politiske Begivenheder. I Virkeligheden var denne
                     naturvidenskabelige Strid ved sit Idéindhold vægtigere og i sin omformende
                     Virkning paa det aandelige Verdenskorts Udseende betydningsfuldere end den
-                    franske Statsomvæltning. <persName key="saint-hilaire">Saint-Hilaires</persName>
-                    Theorier om Typens Enhed bebude jo Bogen om <bibl n="darwin-origin-of-species"
-                        >Arternes Oprindelse</bibl>. Men Billedet af den yngste Slægts Overvældelse
-                    ved den politiske Katastrofe i Frankrig træder endnu skarpere frem paa Baggrund
-                    af <persName key="johann-wolfgang-goethe">Goethe’s</persName> Uanfægtelighed.
-                    (Smlgn. <persName key="emil-kuh">Emil Kuh</persName>: <bibl
-                        n="kuh-biographie-friedrich-hebbels">Biographie Fr. Hebbels</bibl> I
-                    437).</p>
+                    franske Statsomvæltning. <persName key="etienne-geoffroy-saint-hilaire"
+                        >Saint-Hilaires</persName> Theorier om Typens Enhed bebude jo Bogen om <bibl
+                        n="darwin-origin-of-species">Arternes Oprindelse</bibl>. Men Billedet af den
+                    yngste Slægts Overvældelse ved den politiske Katastrofe i Frankrig træder endnu
+                    skarpere frem paa Baggrund af <persName key="johann-wolfgang-goethe"
+                        >Goethe’s</persName> Uanfægtelighed. (Smlgn. <persName key="emil-kuh">Emil
+                        Kuh</persName>: <bibl n="kuh-biographie-friedrich-hebbels">Biographie Fr.
+                        Hebbels</bibl> I 437).</p>
 
                 <p> Dybt var imidlertid Indtrykket paa de fremragende Individualiteter, der hverken
                     tilhørte den yngste eller den ældste Slægt.</p>
@@ -4698,7 +4698,7 @@
                         <lem wit="B,SS,Fu,1923-1924">1797</lem>
                         <rdg wit="A">1799</rdg>
                     </app>. Hans Fader, <persName key="samson-heine">Samson Heine</persName> fra
-                        <placeName key="hannover">Hannover</placeName>, havde i sin Ungdom som
+                        <placeName key="hannover-land">Hannover</placeName>, havde i sin Ungdom som
                     Proviantmester med Officersrang hos Prins <persName key="ernst-august">Ernst af
                         Cumberland</persName> gjort et Felttog med i <placeName key="flandern"
                         >Flandern</placeName> og <placeName key="brabant">Brabant</placeName>, men
@@ -10971,16 +10971,17 @@
                     uendeligt hensynsfulde Skuespil om <persName key="friedrich-schiller"
                         >Schillers</persName> Ungdom »<bibl n="laube-die-karlsschuler">Die
                         Karlsschüler</bibl>« ved sin Fremkomst i 1846 forbødes i Østerrig,
-                        <placeName key="preussen">Preussen</placeName>, <placeName key="hannover"
-                        >Hannover</placeName>, <placeName key="wuerttemberg">Würtemberg</placeName>,
-                        <placeName key="hessen">Hessen-Cassel</placeName>, samtlige Storhertugdømmer
-                    og flere Hertugdømmer paa én Gang. Det indeholder i Grunden ikke andet end en
-                    Forherligelse af den tyske Nationaldigter gjennem en Fremstilling af de
-                    bekjendte Vanskeligheder, der mødte ham som ung Regiments-Feltskjær i <persName
-                        key="karl-eugen">Hertug Karl af Würtembergs</persName> Tjeneste, og det
-                    slutter med hans Flugt fra <placeName key="stuttgart">Stuttgart</placeName> til
-                        <placeName key="mannheim">Mannheim</placeName>. Der danner en Parallel til
-                        <persName key="karl-gutzkow">Gutzkows</persName> Lystspil om <persName
+                        <placeName key="preussen">Preussen</placeName>, <placeName
+                        key="hannover-land">Hannover</placeName>, <placeName key="wuerttemberg"
+                        >Würtemberg</placeName>, <placeName key="hessen">Hessen-Cassel</placeName>,
+                    samtlige Storhertugdømmer og flere Hertugdømmer paa én Gang. Det indeholder i
+                    Grunden ikke andet end en Forherligelse af den tyske Nationaldigter gjennem en
+                    Fremstilling af de bekjendte Vanskeligheder, der mødte ham som ung
+                    Regiments-Feltskjær i <persName key="karl-eugen">Hertug Karl af
+                        Würtembergs</persName> Tjeneste, og det slutter med hans Flugt fra
+                        <placeName key="stuttgart">Stuttgart</placeName> til <placeName
+                        key="mannheim">Mannheim</placeName>. Der danner en Parallel til <persName
+                        key="karl-gutzkow">Gutzkows</persName> Lystspil om <persName
                         key="johann-wolfgang-goethe">Goethe’s</persName> Ungdom »<bibl
                         n="gutzkow-der-konigslieutnant">Der Koenigslieutenant</bibl>«, som det ved
                     dramatisk Liv overtræffer. Atter her er den skarpe historiske Sandhed ofret.
@@ -14274,9 +14275,9 @@
                     Digteren ikke mere optræder i Natvægter-Monduren, men som elegant Revolutionær.
                     Det gaar her ud over de slette Fyrster, over Forholdene i <placeName
                         key="hessen">Hessen</placeName>, <placeName key="preussen"
-                        >Preussen</placeName>, <placeName key="hannover">Hannover</placeName>, og
-                    over den falske tyske Patriotisme: <ref target="n2894"/>»Hvad er, I Herrer, en
-                    tysk Patriot? — En Mand, der om Søndagen tjener Vorherre og om Hverdagen sin
+                        >Preussen</placeName>, <placeName key="hannover-land">Hannover</placeName>,
+                    og over den falske tyske Patriotisme: <ref target="n2894"/>»Hvad er, I Herrer,
+                    en tysk Patriot? — En Mand, der om Søndagen tjener Vorherre og om Hverdagen sin
                     Konge. Hvad vil, <pb n="488"/> I Herrer, en tysk Patriot? — For sig et Embed, en
                     Titel og et Baand, Brød for sine ægte Børn og legitime Fyrster for sit Land. —
                     Ud af Templet, tyske Patriot, før dit Kys, du Judas, har myrdet Friheden
@@ -14776,7 +14777,7 @@
                     Skyld.</p>
 
                 <p> Men i det Samme nærmer sig forklædt som Tigger <persName type="fictional"
-                        key="schlaukops">Hr. Fiffikus (Schlaukopf)</persName>. Han deklamerer i
+                        key="schlaukopf">Hr. Fiffikus (Schlaukopf)</persName>. Han deklamerer i
                         <bibl n="nibelungenlied">Niebelungenlied</bibl>-Stilen noget Patriotisk om
                     Cheruskeren <persName key="arminius">Hermann</persName>, samler ind til Statuen
                     for Nationalhelten, og da Doctoren er uforsigtig nok til at kalde denne en
@@ -16324,8 +16325,8 @@
                     Medlem af Rigsparlamentet, skyde i <placeName key="brigittenau"
                         >Brigittenau</placeName>; dens Betydning som Rigsforsamling faldt bort,
                     altsom dens konservative Medlemmer fjernede sig og afrejste fra den. Da den
-                    splittedes i <placeName>Stuttgart</placeName>, var Reaktionen paany sejerrig
-                    over hele Europa.</p>
+                    splittedes i <placeName key="stuttgart">Stuttgart</placeName>, var Reaktionen
+                    paany sejerrig over hele Europa.</p>
 
                 <cit>
                     <quote><ref target="n2961"/><lg>

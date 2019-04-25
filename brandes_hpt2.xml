@@ -21,37 +21,53 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
+        
+        <profileDesc>
+            <creation>
+                <placeName>empty</placeName>
+            </creation>
+            <abstract>
+                <ab>Vierter Band der Hauptströmungen ... von Georg Brandes</ab>
+            </abstract>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>empty</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    
     </teiHeader>
     <text>
         <front>
             <titlePage>
                 <pb ed="A" n="[i]" facs="xyz"/>
+              
                 <docTitle>
-                    <titlePart>Die Hauptströmungen der Literatur des neunzehnten
-                        Jahrhunderts.</titlePart>
+                    <titlePart>Die Hauptströmungen<lb/>der<lb/>Literatur des neunzehnten Jahrhunderts.</titlePart>
                     <lb/>
                     <lb/>
-                    <titlePart type="desc">Vorlesungen, <lb/>gehalten an der Kopenhagener
-                        Universität<lb/>von</titlePart>
+                    <titlePart type="desc">Vorlesungen, <lb/>gehalten an der Kopenhagener Universität<lb/>von</titlePart>
                 </docTitle>
                 <byline>G. Brandes</byline>
                 <docTitle>
-                    <titlePart type="desc">Uebersetzt und eingeleitet von<lb/>Adolf
-                        Strodtmann.</titlePart>
-                    <titlePart type="sub">Vierter Band: Der Naturalismus in England. <lb/>Die
+                    <titlePart type="desc">Uebersetzt und eingeleitet von<lb/>Adolf Strodtmann.</titlePart>
+                    <titlePart type="sub">Vierter Band: <emph>Der Naturalismus in England.</emph> <lb/>Die
                         Seeschule. Byron und seine Gruppe</titlePart>
                     <lb/>
                     <lb/>
-                    <titlePart type="desc">Einzig autorisirte deutsche Ausgabe.<lb/>
-                        <lb/>
-                    </titlePart>
+                    <titlePart type="desc">Einzig autorisirte deutsche Ausgabe.<lb/></titlePart>
                 </docTitle>
+                <lb/>
+                
                 <docImprint>
                     <pubPlace>Berlin.</pubPlace>
-                    <publisher>Verlag von Franz
-                        Duncker.</publisher>
+                    <publisher>Verlag von Franz Duncker.</publisher>
                     <docDate>1876</docDate>
                 </docImprint>
+                
                 <imprimatur>
                     <pb ed="A" n="[ii]" facs="xyz"/>
                     <lb/>
@@ -61,35 +77,40 @@
                     <lb/>
                 </imprimatur>
             </titlePage>
+            
             <div type="dedication">
                 <pb ed="A" n="[iii]" facs="xyz"/>
                 <p rend="center">Giuseppe Saredo,<lb/>Professor der Rechtswissenschaft an der
-                    Universität zu Rom,</p>
+                    Universität zu Rom,<lb/>in herzlicher Freundschaft gewidmet</p>
                 <p rend="right">vom Verfasser.</p>
             </div>
+<!-- 
             <pb ed="A" n="[iv]" facs="xyz"/>
-            <div>
+            <div> 
+            
                 <pb ed="A" n="[v]" facs="xyz"/>
                 <p>[Inhalt]</p>
             </div>
             <div>
                 <pb ed="A" n="[vi]" facs="xyz"/>
-            </div>
+            </div>-->
+            
             <titlePage>
-                <pb ed="A" n="[vii]" facs="xyz"/>
                 <docTitle>
-                    <titlePart>Der Naturalismus in England.</titlePart>
+                    <titlePart><pb ed="A" n="[vii]" facs="xyz"/> Der Naturalismus in England.</titlePart>
                 </docTitle>
             </titlePage>
+            <!-- 
             <div>
                 <pb ed="A" n="[viii]" facs="xyz"/>
-            </div>
+            </div> -->
         </front>
+        
         <body>
-            <div>
-                <head type="sub">Her skal være en overskrift</head>
+            <div type="preface">
+                <head type="add">[Einleitung]</head><!-- tilføjet af red. Ingen overskrift i org., ej heller kap.nr., men det skal jo hedde noget for at komme i rullemenuen -->
                 <p>
-                    <pb n="1" facs="130019387373_0013"/> Es ist meine Absicht, in der englischen
+                    <pb n="[1]" facs="130019387373_0013"/> Es ist meine Absicht, in der englischen
                     Poesie der ersten Jahrzehnte dieses Jahrhunderts die starke, tief begründete und
                     folgenreiche Strömung des englischen Geisteslebens zu schildern, die, von den
                     klassischen Formen und Traditionen befreit, einen die ganze Literatur
@@ -106,9 +127,10 @@
                     der Geschichte selber zusammenhängend komponirt, wie bunt und bewegt es sich
                     übrigens erweise.</p>
             </div>
+   
             <div>
-                <head type="sub">
-                    <pb n="2" facs="130019387373_0013"/>1.</head>
+                <head type="add">1. Gemeinsame Züge des Zeitalters</head>
+                <head><pb n="2" facs="130019387373_0013"/> 1.</head>
                 <p> Zuerst und zuvörderst besitzt diese Gruppe der englischen Literatur gewisse
                     Charaktermerkmale, die der ganzen europäischen Geistesrichtung in dieser Periode
                     gemeinschaftlich sind, weil sie aus denselben Ursachen entspringen. Napoleon
@@ -162,7 +184,7 @@
                     insbesondere gegen Deutschland, das bei uns in Dänemark von jeher die Rolle des
                     Unterdrückers gespielt hatte, und durch eine seltsame, aber naturgemäße
                     Konsequenz ward es gerade die Rückkehr zum Volksthümlichen, der man sich nach
-                    dem Beispiele Deutschlands ergab, welche uns immer weiter von Deutschland
+                    dem Beispiele Deutschlands ergab, welche uns <pb n="5"/><!-- udeladt; ingen facs-id --> immer weiter von Deutschland
                     entfernte. (Siehe Grundtvig und die Richtung auf das Nordische.)</p>
                 <p>In <emph>England</emph> finden wir dieselben Grundzüge, welche die Bewegung in
                     allen anderen Ländern bezeichnen. Man schüttelte die französische Bildung ab,
@@ -238,12 +260,11 @@
                     Shelley’s Geisterglaube und sein Auslösen aller festen Formen in ätherische
                     Musik an die Innigkeit und Verschwommenheit bei Novalis gemahnt.</p>
             </div>
+            
             <div>
-                <head>Her skal være en overskrift</head>
-                <p>
-                    <pb n="9" facs="130019387373_0020"/>
-                </p>
-                <p>2.</p>
+                <head type="add">2. Gemeinsame Züge des Volkscharakters</head>
+                <head><pb n="9" facs="130019387373_0020"/> 2.</head>
+                
                 <p>Allein dies se gemeinschaftlichen und breitesten Grundzüge des Zeitalters werden
                     auf eine sehr merkliche Weise durch eine Reihe speciell englischer Züge
                     modificirt, die, ohne anderwärts vorzukommen, sich bei den einander sonst
@@ -312,10 +333,8 @@
                             </quote>
                         </cit>
                         <bibl>Moore: Intercepted letters, Nr. 7.</bibl>
-                    </note> Und welche
-                    Rolle spielen</p>
-                <p> </p>
-                <p>diese Herrensitze im Leben zweier so polarisch entgegengesetzten Dichternaturen,
+                    </note> 
+                    Und welche Rolle spielen <pb n="12"/><!-- ingen facs-id --> diese Herrensitze im Leben zweier so polarisch entgegengesetzten Dichternaturen,
                     wie Byron und Scott! Der Name von Newstead Abbey ist untrennbar mit dem Namen
                     Byron’s verknüpft, wie der Name von Abbotsford mit dem Walter Scott’s. Die alte
                     Abtei mit ihrer mittelalterlichen und phantasievollen Architektur ist für Byron
@@ -473,7 +492,7 @@
                     praktisch einzugreifen, sich mit dem phantastischen Hang des Poeten verbindet
                     Scott trieb seinen Unwillen gegen die Revolution zu purer Donquixoterie. Er
                     verständigte sich z. B. mit einem seiner Freunde, einem Herzog, darüber, falls
-                    die Franzosen eine Landung in England bewerk&gt;<pb n="20" facs="130019387373_0031"/> stelligen sollten, dann in die Wälder zu ziehen und dort wie Robin Hood und
+                    die Franzosen eine Landung in England bewerk<pb n="20" facs="130019387373_0031"/>stelligen sollten, dann in die Wälder zu ziehen und dort wie Robin Hood und
                     seine Gesellen zu leben. Ungefähr zu derselben Zeit kündigten Southey und
                     Coleridge in der ersten jakobinischen Hitze der Jugend ihren Bekannten an, daß
                     sie nach einer einsamen Gegend in Amerika auswandern wollten; die Ufer des
@@ -541,7 +560,12 @@
                     welcher ihr psychologischer Ursprung ist, liegt in Wirklichkeit der
                     Ausgangspunkt für den Radikalismus der englischen Poesie während der großen
                     europäischen Reaktion.</p>
-                <pb n="24" facs="130019387373_0035"/>
+            </div>
+            
+            <div>
+                <head type="add">3. Der politische Hintergrund</head>
+                <head><pb n="24" facs="130019387373_0035"/> 3.</head>
+                
                 <p>Da die Engländer zugleich das ausdauerndste und das unternehmendste Volk, da sie
                     die Nation sind, welche am meisten an der Heimat hängt und am reiselustigsten
                     ist, welche sich am langsamsten zu Veränderungen bequemt und den ausgeprägtesten
@@ -556,8 +580,7 @@
                     in dieser bewegten Periode der Poesie des Landes Wordsworth als Repräsentanten
                     der einen Gruppe von Eigenschaften, Byron als Typus der andern.</p>
                 <p>Noch tiefer jedoch wurde in den ersten Tagen des Jahrhunderts diese Spaltung
-                    durch die doppelseitige Natur des Hauptereignisses der damaligen Zeit begründet.
-                        <pb n="25" facs="130019387373_0036"/> Dies Hauptereignis war der Krieg gegen
+                    durch die doppelseitige Natur des Hauptereignisses der damaligen Zeit begründet. <pb n="25" facs="130019387373_0036"/> Dies Hauptereignis war der Krieg gegen
                     Frankreich. Schon von dem deutschen Freiheitskriege habe ich den Ausdruck
                     gebraucht, daß er zwar ein Ausstand wider eine furchtbare Tyrannei, aber wider
                     eine solche war, welche die Ideen der Revolution vertrat, und daß er zwar ein
@@ -711,10 +734,7 @@
                     aber der Kleine aus pflichtschuldiger Rücksicht auf seine neuen Hosen sich
                     Dessen hartnäckig weigerte, rührte dieser frühzeitige ökonomische Sinn den alten
                     König so stark, daß er den Knaben an sein Herz drückte.</p>
-                <p>
-                    <pb n="33" facs="130019387373_0044"/>
-                </p>
-                <p>Das Leben bei Hofe schlich mit einer trägen Einförmigkeit hin, welche die jungen
+                <p><pb n="33" facs="130019387373_0044"/> Das Leben bei Hofe schlich mit einer trägen Einförmigkeit hin, welche die jungen
                     Prinzen fern von der Heimat vertrieb und zum Theil Schuld daran war, daß sie so
                     schlecht arteten. Abends spielte der König entweder sein Tokkadilje oder wohnte
                     seinem Abendkoncert bei, wobei er regelmäßig einnickte, während die Pagen sich
@@ -886,12 +906,9 @@
                         <lg>
                             <l>On one side lay unread Petitions, </l>
                             <l>On th’ other hints from five Physicians,</l>
-                            <l>
-                                <pb n="42" facs="130019387373_0053"/> Here tradesmen’s bills, —
-                                official papers, </l>
+                            <l><pb n="42" facs="130019387373_0053"/> Here tradesmen’s bills, — official papers, </l>
                             <l>Notes from my Lady, drams for vapours,</l>
-                            <l>
-                                <emph>There</emph> plans of saddles, tea and toast,</l>
+                            <l><emph>There</emph> plans of saddles, tea and toast,</l>
                             <l>Death-warrants and the Morning Post.</l>
                         </lg>
                     </quote>
@@ -1099,10 +1116,12 @@
                     I——1V. — Thackeray: The four Georges. — <emph>Reinhold Pauli</emph>: Geschichte
                     Englands seit den Friedensschlüssen 1814 und 1815. — Emerson: English
                     characters.]</p>
-                <p>
-                    <pb n="53" facs="130019387373_0064"/>
-                </p>
-                <p>4.</p>
+            </div>
+            
+            <div>
+                <head type="add">4. Ankündigung des Naturalismus</head>
+                <head><pb n="53" facs="130019387373_0064"/> 4.</head>
+                
                 <p>Im Sommer 1797 beschäftigte sich die Neugier der Bewohner eines kleinen Dorfes an
                     der Küste von Somersetshire oft mit zwei jungen Männern, die seit Kurzem ihre
                     Wohnstatt dort aufgeschlagen hatten, und die man täglich mit einander spazieren
@@ -1282,21 +1301,23 @@
                     ein Aristoteles konnte es als Nicht-Dichter zu keinem höheren Titel, als dem
                     eines Talents, bringen. Auch in England fiel man über Nureddin her, und fühlte
                     sich unendlich erhaben über sein »naturloses« Forschen.</p>
-                <p>
-                    <pb n="63" facs="130019387373_0074"/>
-                </p>
-                <p>5.</p>
+            </div>
+            
+            <div>
+                <head type="add">5. Die Tiefe und Wahrheit des Naturgefühls. – Wordsworth</head>
+                <head><pb n="63" facs="130019387373_0074"/> 5.</head>
+                
                 <p>Wordsworth’s eigentlicher Ausgangspunkt war also der, daß die Menschen im
                     Stadtleben und unter der Zerstreutheit desselben die Natur vergessen hätten: sie
                     waren dafür gestraft worden, indem das gesellschaftliche Zusammenleben ihre
                     Kräfte und Fähigkeiten zersplittert und die Empfänglichkeit ihrer Herzen für
                     einfache und reine Eindrücke geschwächt hatte. Unter den Hunderten von
                     Wordsworth’s Sonetten ist eines, das in Betreff dieses Grundgedankens besonders
-                    bedeutungsvoll erscheint (<emph>select Poetica1 Works. Tauchnitz Edition. Vol.
+                    bedeutungsvoll erscheint (<emph>Select Poetica1 Works. Tauchnitz Edition. Vol.
                         I, pag 365</emph>). Es beginnt mit einer Klage darüber, daß die Menschenwelt
                     gar zu viel um uns sei, und daß wir in Folge Dessen nur Wenig in der Natur
                     erblicken, was uns als unser Eigenes entgegen tritt. Dann heißt es weiter:</p>
-                <p>
+                
                     <cit>
                         <quote>
                             <lg>
@@ -1313,9 +1334,9 @@
                             </lg>
                         </quote>
                     </cit>
-                </p>
-                <pb n="64" facs="130019387373_0075"/>
-                <p>Das sind bemerkenswerthe Worte in Wordsworth’s Munde, bemerkenswerth, weil sie
+                
+                
+                <p><pb n="64" facs="130019387373_0075"/> Das sind bemerkenswerthe Worte in Wordsworth’s Munde, bemerkenswerth, weil sie
                     zeigen, was aller wahre Naturalismus im Grunde ist, mit wie vielen theistischen
                     Lappen er sich auch verbräme: im tiefsten Innern ist er verwandt mit der
                     Naturanschauung des alten Griechenlands und feindselig gegen alle officiellen
@@ -1364,7 +1385,7 @@
                     erlegen lassen. Rührend trotz seines vulgären Sujets, groß und einfach in seinem
                     Stile, ist es ein edles Zeugnis der tiefen <emph>Pietät</emph> für die Natur,
                     welche Wordsworth’s Adelsbrief ist.</p>
-                <p>Diese Pietät ist bei ihm zuerst und vor Allem Pie<pb n="66" facs="130019387373_0077"/> tät für das Kindliche und für das Kind, und diese
+                <p>Diese Pietät ist bei ihm zuerst und vor Allem Pie<pb n="66" facs="130019387373_0077"/>tät für das Kindliche und für das Kind, und diese
                     Ehrfurcht vor dem Menschenwesen, das in seiner Unbewußtheit der Natur am
                     nächsten steht, ist wieder einer der originellen Züge des neuen Jahrhunderts. In
                     einem kleinen Gedichte, das Wordsworth an die Spitze aller übrigen aus die
@@ -1490,7 +1511,7 @@
                             <l>War sie für mich! Die Dorfesglocke schlug</l>
                         </lg>
                         <lg>
-                            <l>Mit lauten Schlägen Sechs — ich stürmte fort</l>
+                            <l><pb n="70"/><!-- ingen facs-id --> Mit lauten Schlägen Sechs — ich stürmte fort</l>
                             <l>Mit stolzer Freude, wie ein muntres Roß,</l>
                             <l>Das sich nicht heimwärts sehnt. — Auf Eisenschuhn </l>
                             <l>Flogen wir übers blanke Eis, im Spiel</l>
@@ -1529,7 +1550,7 @@
                     </quote>
                 </cit>
                 <p>Mich dünkt, Dies ist eine Naturmalerei, die ihres Gleichen sucht. Doch in einem
-                    seiner schönsten und bedeutungsvollsten Gedichte, »<emph>Tintern
+                    seiner schönsten und <pb n="71"/><!-- ingen facs-id --> bedeutungsvollsten Gedichte, »<emph>Tintern
                             Abbey</emph>
                     <note>
                         <emph>Poetical Works, London 1843. Vol. II, pag.
@@ -1618,12 +1639,12 @@
                     hervorströmendes Liebeslied, das vom Rausch der Seele zeugt und der nächtlichen
                     Stille spottet, die es unterbricht und verscheucht. Wordsworth hat selber das
                     Lied der Nachtigall mit ähnlichen Worten geschildert,<emph> (Select Poetical
-                        Works. Vol. I, pag 240</emph>), dann fügt er hinzu: <pb n="74" facs="130019387373_0085"/>
+                        Works. Vol. I, pag 240</emph>), dann fügt er hinzu: 
                 </p>
                 <cit>
                     <quote>
                         <lg>
-                            <l>Am selben Tage mir erklang</l>
+                            <l><pb n="74" facs="130019387373_0085"/> Am selben Tage mir erklang</l>
                             <l>Des wilden Taubers schlichter Sang;</l>
                             <l>Leid durch die Bäume scholl hervor</l>
                             <l>Sein Lied im Winde an mein Ohr.</l>
@@ -1822,8 +1843,7 @@
                             <l>Wie sie der Lebensspilger braucht;</l>
                             <l>Verstand und Willen, nie erschlafft,</l>
                             <l>Ausdauer, Vorsicht, rüst’ge Kraft;</l>
-                            <pb n="81" facs="130019387373_0092"/>
-                            <l>Ein Weib, ein echtes, das den Mann</l>
+                            <l><pb n="81" facs="130019387373_0092"/> Ein Weib, ein echtes, das den Mann</l>
                             <l>Erquicken, warnen, lenken kann;</l>
                             <l>Und doch ein Geist noch, dessen Welt</l>
                             <l>Ein Strahl von Engelslicht erhellt.</l>
@@ -1857,8 +1877,12 @@
                     Originalität in einem sanften und naturgetreuen Kolorit bestünde, allein er
                     beschloß, die Erwartungen des Lesers von den Wirkungsmitteln eines Gedichts auf
                     ihre natürliche Spur zurück zu lenken.</p>
-                <pb n="83" facs="130019387373_0094"/>
-                <p>6.</p>
+            </div>
+            
+            <div>
+                <head type="add">6. Landleben und Schilderungen vom Lande. – Wordsworth</head>
+                <head><pb n="83" facs="130019387373_0094"/> 6.</head>
+                
                 <p>Man versteht Wordsworth’s poetische Stärke und ihre Beschränkung nicht
                     vollständig ohne einen Blick auf seinen Lebenslauf. Es war ein eigenthümlich
                     idyllisches und beschütztes Leben. Er wurde im wohlhabenden Mittelstande geboren
@@ -2109,9 +2133,8 @@
                             <l>Als wär’s ein Seethier, das hinauf einst kroch,</l>
                             <l>Sich nun zu sonnen dort auf hohem Felsenjoch:</l>
                         </lg>
-                        <pb n="96" facs="130019387373_0107"/>
                         <lg>
-                            <l>So schien der Mann, bei seiner Jahre Last,</l>
+                            <l><pb n="96" facs="130019387373_0107"/> So schien der Mann, bei seiner Jahre Last,</l>
                             <l>Nicht lebend ganz,noch todt, noch schlafentrafft;</l>
                             <l>Gekrümmt sein Leib, und Haupt und Füße fast</l>
                             <l>Begegnend sich auf langer Pilgerschaft,</l>
@@ -2196,7 +2219,7 @@
                     träten bei dem Landbewohner einzelner und elementarer hervor, und ließen sich
                     deshalb leichter wahrnehmen, als im Stadtleben. Er war endlich davon überzeugt,
                     daß das Zusammenleben mit den schönen und bleibenden Formen der Natur, im Verein
-                    mit dem nothwendigen und stetigen Charakter der ländlichen Beschäf<pb n="100" facs="130019387373_0111"/> tigungen, alle Gefühle dauerhafter und stärker
+                    mit dem nothwendigen und stetigen Charakter der ländlichen Beschäf<pb n="100" facs="130019387373_0111"/>tigungen, alle Gefühle dauerhafter und stärker
                     machen müsse. Man findet also hier in der Geburtsstunde des Jahrhunderts den
                     Keim zu der länger als ein halbes Säkulum dauernden und weit verbreiteten, von
                     Land zu Land sich verpflanzenden ästhetischen Grundanschauung, die in
@@ -2288,8 +2311,8 @@
                         </lg>
                     </quote>
                 </cit>
-                <pb n="104" facs="130019387373_0115"/>
-                <p>Wenige Dichter haben die schöne Pietät, wie Mordsworth, gegen die ohne eigene
+                
+                <p><pb n="104" facs="130019387373_0115"/> Wenige Dichter haben die schöne Pietät, wie Mordsworth, gegen die ohne eigene
                     Schuld Unbrauchbaren, die demüthigen <emph>Venerabilia</emph> des
                     Menschengeschlechts, bewiesen. »Der alte Bettler« ist vor Allem ein Beispiel
                     davon. Wordsworth schildert, wie Derselbe, von Allen gekannt, dort in der Gegend
@@ -2327,8 +2350,7 @@
                             <l>Jedwedes Aergernis zu fegen! Ihr,</l>
                             <l>So stolz gebläht in eurem Uebermuth</l>
                             <l>Auf eure Gaben, Weisheit, oder Macht,</l>
-                            <pb n="105" facs="130019387373_0117"/>
-                            <l>O, nennt ihn eine Last nicht! Ein Gesetz</l>
+                            <l><pb n="105" facs="130019387373_0117"/> O, nennt ihn eine Last nicht! Ein Gesetz</l>
                             <l>Ist’s der Natur, daß kein Erschaffenes,</l>
                             <l>Und sei’s das niedrigste und schlechteste</l>
                             <l>Und schädlichste von allen Dingen, lebt,</l>
@@ -2363,7 +2385,7 @@
                         optima forma</emph>. Es lag ja in eben diesem Naturalismus, der sich in
                     seiner späteren Entfaltung folgerichtig und logisch zu Humanismus und
                     Radikalismus entwickelte, von Anfang an ein Hang zum Moralisiren und zu
-                        evange<pb n="106" facs="130019387373_0117"/> lischer Religiosität. Er suchte
+                        evange<pb n="106" facs="130019387373_0117"/>lischer Religiosität. Er suchte
                     die Einsältigen im Herzen, die Armen, die vor den Augen der Welt Geringen auf —
                     Das stimmte mit der Moral des Evangeliums überein. Er verschmähte eine
                     verfeinerte Civilisation und wandte ihren Helden den Rücken, um Fischer und
@@ -2388,9 +2410,12 @@
                         </lg>
                     </quote>
                 </cit>
+                
                 <p>Ja, selbst die abstrakte Ode an »die Pflicht« die eine rein kantische
                     Begeisterung enthält, hat genial-absurde Zeilen, sublim wie manches Paradoxon
-                    der Kirchenväter. Der Pflicht ruft der Dichter zu: <cit>
+                    der Kirchenväter. Der Pflicht ruft der Dichter zu:</p>
+                
+                <cit>
                         <quote>
                             <lg>
                                 <l>Du hältst in Takt der Sterne Schwung,</l>
@@ -2398,7 +2423,8 @@
                             </lg>
                         </quote>
                     </cit>
-                    <pb n="107" facs="130019387373_0118"/> Von allen derartigen Gedichten wird der
+                    
+                <p><pb n="107" facs="130019387373_0118"/> Von allen derartigen Gedichten wird der
                     Leser jedoch schnell zu Wordsworth’s eigentlichem Gebiete, seinen Idyllen,
                     zurück kehren.</p>
                 <p>Werfen wir noch einen Blick auf diese Gedichte und auf die Theorie, welche sie
@@ -2503,7 +2529,8 @@
                     Wirklichkeit nie Übertreffen, höchstens nur sich ihm nähern. Mit echt englischer
                     Hartnäckigkeit versicht er seine Doktrin den Angriffen gegenüber, die von allen
                     Seiten erfolgten. Man hatte als Mustergedicht im Sinne der neuen Poetik die von
-                    Johnson gegen den Balladenstil verfaßte burleske Strophe citirt: <cit>
+                    Johnson gegen den Balladenstil verfaßte burleske Strophe citirt:</p>
+                <cit>
                         <quote>
                             <lg>
                                 <l>Ich setzte meinen Hut aufs Ohr</l>
@@ -2525,8 +2552,8 @@
                             </quote>
                         </cit>
                     </note>
-                </p>
-                <p>Das ist keine Poesie, sagt man. Zugestanden, antwortet Wordsworth, aber es ist
+                
+                <p><pb n="112"/> Das ist keine Poesie, sagt man. Zugestanden, antwortet Wordsworth, aber es ist
                     auch als Prosa weder an sich selbst interessant, noch zu etwas Interessantem
                     hinführend, und daher außer Stande, Gefühle und Gedanken in Bewegung zu setzen.
                     »Weshalb beweisen, daß ein Affe kein Newton ist, wenn er nicht einmal ein Mensch
@@ -2605,8 +2632,7 @@
                                 <l>D’une forme au travail </l>
                                 <l>Rebelle,</l>
                                 <l>Vers, marbre, onyx, émail!</l>
-                                <pb n="116" facs="130019387373_0127"/>
-                                <l>Point de contraintes fausses!</l>
+                                <l><pb n="116" facs="130019387373_0127"/> Point de contraintes fausses!</l>
                                 <l>Mais que pour marcher droit </l>
                                 <l>Tu chausses,</l>
                                 <l>Muse, un cothurne étroit!</l>
@@ -2619,8 +2645,12 @@
                     läßt, sie hat für uns Nachlebende einen hohen Grad von Interesse als ein
                     präciser und unzweideutiger Ausdruck für das erste literarische Extrem des
                     englischen Naturalismus.</p>
-                <pb n="117" facs="130019387373_0128"/>
-                <p>7.</p>
+            </div>
+            
+            <div>
+                <head type="add">7. Naturalistische Romantik. – Coleridge</head>
+                <head><pb n="117" facs="130019387373_0128"/> 7.</head>
+                
                 <p>Wir haben Coleridge einen Augenblick aus dem Gesichte verloren. Als Wordsworth
                     und er die neuen Dichtungsarten unter sich vertheilten, fiel, wie schon erwähnt,
                     ihm die derjenigen Wordsworth’s gerade entgegengesetzte Aufgabe zu,
@@ -2635,7 +2665,7 @@
                     1791—98 studirte er in Cambridge ohne Aussichten und ohne Hilfsmittel, woran er
                     in einem, entweder durch Schulden oder durch eine unglückliche Liebe veranlaßten
                     Verzweiflungsanfalle plötzlich der Universitätsstadt Balet sagte und sich unter
-                    dem Pseudonym Silas Titus Cumberback in das 15te leichte Dragoner<pb n="118" facs="130019387373_0129"/> regiment einschreiben ließ. <note>
+                    dem Pseudonym Silas Titus Cumberback in das 15te leichte Dragoner<pb n="118" facs="130019387373_0129"/>regiment einschreiben ließ. <note>
                         <emph>... being
                             at loss, when suddenly asked my name, I answered Cumberback, and verily
                             my habits were so little equestrian, that my horse, I doubt not, was of
@@ -2680,7 +2710,7 @@
                     beschließen liess! Im Jahre 1796 wurde er, welcher damals noch Ein
                     leidenschaftlicher Unitarier war, von einigen andereren Philanthropen
                     »überredet« (er wird immer Überredet), eine Wochenschrift »Der Wächter«
-                        (<emph>The <pb n="120" facs="130019387373_0131"/>Watchman</emph>)
+                        (<emph>The <pb n="120" facs="130019387373_0131"/> Watchman</emph>)
                     herauszugeben, welche 32 Seiten Großoktav für den mäßigen Preis von vier Pence
                     liefern sollte, und deren feurige Subskriptionseinladung die Devise »Wissen ist
                     Macht« trug. Um Abonnenten daran zu sammeln, unternahm er, so jung er war, eine
@@ -3063,8 +3093,12 @@
                     Kämpfen auf, um von einem frühen Tode dahingerafft zu werden. Die Freiheit der
                     Forschung und die Freiheit des Individuums waren für sie ein eben so kostbares
                     Kleinods wie die Kirche von England für ihn.</p>
-                <pb n="139" facs="130019387373_0150"/>
-                <p>8.</p>
+            </div>
+            
+            <div>
+                <head type="add">8. Der Freiheitsbegriff der Seeschule</head>
+                <head><pb n="139" facs="130019387373_0150"/> 8.</head>
+                
                 <p>Gewiß waren Coleridge und die übrigen Mitglieder der Seeschule weit davon
                     entfernt, sich anders als warme Freunde der Freiheit zu nennen; die Zeit war
                     vorüber, wo die Reaktionäre sich anders nannten: Coleridge hat eins seiner
@@ -3213,8 +3247,12 @@
                     Nachwelt hat größeren Genuß und Vortheil von den Ausschreitungen der
                     Freiheitsliebe bei Diesen gehabt, als von dem rings begrenzten und eingehegten
                     Freisinne Jener.</p>
-                <pb n="147" facs="130019387373_0158"/>
-                <p>9.</p>
+            </div>
+            
+            <div>
+                <head type="add">9. Die orientalische Romantik der Seeschule. – Southey</head>
+                <head><pb n="147" facs="130019387373_0158"/> 9.</head>
+                
                 <p>Hier ist der Ort, dem Manne einen Platz zu gönnen, welcher Byron’s und Shelley’s
                     schlimmster Feind und Coleridge’s bester Freund war, und welcher, im Ganzen
                     genommen, als hervorragender englischer Romantiker Coleridge nahe steht, wie
@@ -3225,21 +3263,53 @@
                     Verhältnissen und mit einem engen Horizonte vor Augen zur Welt gekommen zu sein.
                     Nachdem er kurze Zeit zu Oxford studirt hatte, ward er, wie die übrigen Dichter
                     der Seeschule, von dem Revolutionsgeiste ergriffen, und verfaßte 1794 ein höchst
-                    jakobinisches Gedicht, »Wat Tyrer«. <note>Als Inschrift für das Zimmer, in
+                    jakobinisches Gedicht, »Wat Tyler«.<hi rend="sup">*)</hi><note place="bottom">Als Inschrift für das Zimmer, in
                         welchem der Königsmörder Martin gefangen gesessen hatte, dichtete er um
-                        diese Zeit folgende Zeilen: <cit>
+                        diese Zeit folgende Zeilen:<cit>
                             <quote>
                                 <lg>
-                                    <l>For thirty years Secluded from mankind</l>
-                                    <l>Here Martin lingered. Often have these walls </l>
-                                    <l>Echo’d his footsteps, as with even tread</l>
-                                    <l>He paced around his prison. Not to him</l>
-                                    <l>Did Nature’s fair varieties exist;</l>
-                                    <l>He never saw the sun’s delightful beams;</l>
+                                    <l><emph>For thirty years Secluded from mankind</emph></l>
+                                    <l><emph>Here Martin lingered. Often have these walls</emph></l>
+                                    <l><emph>Echo’d his footsteps, as with even tread</emph></l>
+                                    <l><emph>He paced around his prison. Not to him</emph></l>
+                                    <l><emph>Did Nature’s fair varieties exist;</emph></l>
+                                    <l><emph>He never saw the sun’s delightful beams;</emph></l>
+                                    <l><emph>Save when through yon high bars he pour’d a sad</emph></l>
+                                    <l><emph>And broken splendour. Dost thou ask his crime?</emph></l>
+                                    <l>He had rebell’d against the King, and sat</l>
+                                    <l>In judgement on him, for his ardent mind</l>
+                                    <l><emph>Shap’d goodliest plans of happiness on earth</emph></l>
+                                    <l><emph>And peace and liberty. Wild dreams! but such</emph></l>
+                                    <l><emph>As Plato loved etc.</emph></l>
                                 </lg>
                             </quote>
                         </cit>
+                    
+                        <p>Auf diese Verse verfaßte Canning damals folgende ergötzliche Parodie: Inschrift
+                            für die Zelle in Newgate, in welcher Mrs. Brownrigge, die Lehrlingsmörderin,
+                            eingesperrt saß:</p>
+                        
+                        <cit>
+                            <quote>
+                                <lg>
+                                    <l><emph>For one long terme or ere her trial came,</emph></l>
+                                    <l><emph>Here Brownrigg linger’d. Often have these cells</emph></l>
+                                    <l><emph>Echo’d her blasphemies, as with shrill voice</emph></l>
+                                    <l><emph>She scream’d for fresh geneva. Not to her</emph></l>
+                                    <l><emph>Did the blithe fields of Tothi11, or thy Street,</emph></l>
+                                    <l><emph>St. Giles, its fair varieties expand;</emph></l>
+                                    <l><emph>Till, at the last, in slow-drawn eart she went</emph></l>
+                                    <l><emph>To execution. Dost thou ask her crime?</emph></l>
+                                    <l>She whipp’d two female ’prentices to death</l>
+                                    <l>And hid them in the coalhole. <emph>For her mind</emph></l>
+                                    <l><emph>Sap’d strictest plans of discipline. Sage schemes!</emph></l>
+                                    <l><emph>Such as Lycurgus taught etc.</emph></l>
+                                </lg>
+                            </quote>
+                        </cit>
+                    
                     </note>
+                    
                     <pb n="148" facs="130019387373_0159"/> Als auch er seine Auswanderungspläne
                     aufgegeben und <emph>seine</emph> Miß Fricker bekommen hatte, ließ er sich 1797
                     in London nieder. Seit 1807 genoß er eine Staatspension von jährlich 150 Pfund.
@@ -3248,43 +3318,8 @@
                     königliche Haus betreffenden Ereignisse zu besingen, wurde zuerst vom
                     Prinzregenten Walter Scott angeboten, der seinen Gönner, den Herzog von
                     Buccleugh, um Rath frug. In der Antwort des Herzogs heißt es:</p>
-                <cit>
-                    <quote>
-                        <lg>
-                            <l>Save when through yon high bars he pour’d a sad</l>
-                            <l>And broken splendour. Dost thou ask his crime?</l>
-                            <l>
-                                <emph>He had rebell’d against the King, and sat</emph>
-                            </l>
-                            <l>
-                                <emph>In judgement on him</emph>, for his ardent mind</l>
-                            <l>Shap’d goodliest plans of happiness on earth</l>
-                            <l>And peace and liberty. Wild dreams! but such</l>
-                            <l>As Plato loved etc.</l>
-                        </lg>
-                    </quote>
-                </cit>
-                <p>Auf diese Verse verfaßte Canning damals folgende ergötzliche Parodie: Inschrift
-                    für die Zelle in Newgate, in welcher Mrs. Brownrigge, die Lehrlingsmörderin,
-                    eingesperrt saß: <cit>
-                        <quote>
-                            <lg>
-                                <l>For one long terme or ere her trial came,</l>
-                                <l>Here Brownrigg linger’d. Often have these cells</l>
-                                <l>Echo’d her blasphemies, as with shrill voice</l>
-                                <l>She scream’d for fresh geneva. Not to her</l>
-                                <l>Did the blithe fields of Tothi11, or thy Street,</l>
-                                <l>St. Giles, its fair varieties expand;</l>
-                                <l>Till, at the last, in slow-drawn eart she went</l>
-                                <l>To execution. Dost thou ask her crime?</l>
-                                <l>She whipp’d two female ’prentices to death</l>
-                                <l>And hid them in the coalhole. For her mind</l>
-                                <l>Sap’d strictest plans of discipline. Sage schemes!</l>
-                                <l>Such as Lycurgus taught etc.</l>
-                            </lg>
-                        </quote>
-                    </cit>
-                    <pb n="149" facs="130019387373_0160"/> »Wie könnten Sie es aushalten, an einem
+                
+                <p><pb n="149" facs="130019387373_0160"/> »Wie könnten Sie es aushalten, an einem
                     königlichen Geburtstag eine Schaar heiserer und quäkender Choristen Ihre Verse
                     in Recitativen ableiern zu hören, zur Erbauung für Bischöfe, Pagen, Hofdamen und
                     Leibgardisten? o schrecklich, dreimal schrecklich!« Scott lehnte in Folge Dessen
@@ -3330,8 +3365,7 @@
                                 <l>Und daß jetzt Messen und Absolution</l>
                                 <l>Und Christi heil’ger Leib dir unbekannt.</l>
                                 <l>Wie konnte, ohne diese, die Natur </l>
-                                <pb n="151" facs="130019387373_0162"/>
-                                <l>Dich wahre Religion wohl lehren? Nein,</l>
+                                <l><pb n="151" facs="130019387373_0162"/> Dich wahre Religion wohl lehren? Nein,</l>
                                 <l>Zu sündigen lehrt einzig die Natur;</l>
                                 <l>Der Priester nur lehrt Reue, nur auf sein</l>
                                 <l>Geheiß schließt Petrus aus das Himmelsthor,</l>
@@ -3374,8 +3408,7 @@
                             <l>Giebt es kein Laster, das zur zornigen Wang’</l>
                             <l>Empor die Röthe treibt; kein Elend giebt’s</l>
                             <l>Und keine arme Mutter dort, die bleich</l>
-                            <pb n="152" facs="130019387373_0163"/>
-                            <l>Und hager auf die hungernden Kinder starrt</l>
+                            <l><pb n="152" facs="130019387373_0163"/> Und hager auf die hungernden Kinder starrt</l>
                             <l>Mit einem Blick, so matt, so wehevoll,</l>
                             <l>Daß seine strafende Beredsamkeit</l>
                             <l>Dereinst die Mächtigen der Welt verklagt! . . .</l>
@@ -3398,7 +3431,7 @@
                     Träume der Menschheit in seiner Seele zurückwich, desto mehr fühlte er den
                     Drang, für diese Trockenheit dadurch Ersatz zu leisten, daß er sie mit einem
                     Strome rein äußerlicher Romantik befruchtete. Er hatte allmählich eine gewisse
-                    Herrschaft über die Sprachmittel erlangt, er vermochte locker ge<pb n="153" facs="130019387373_0164"/> baute, aber melodische und in all ihrer Vagheit
+                    Herrschaft über die Sprachmittel erlangt, er vermochte locker ge<pb n="153" facs="130019387373_0164"/>baute, aber melodische und in all ihrer Vagheit
                     und Monotonie recht stimmungsvolle Verse zu schreiben. Mit dieser weichen und
                     geschmeidigen Form umwob er nun allen Aberglauben Arabiens und alle
                     phantastischen Träume des Orients, und aus dieser Mischung entstanden seine
@@ -3450,8 +3483,7 @@
                             <l>Daß der Geruch von Wasser, hingesetzt</l>
                             <l>Auf irgend eine syrische Moschee</l>
                             <l>Mit Priesterpossen und Beschwörungswort,</l>
-                            <pb n="155" facs="130019387373_0166"/>
-                            <l>Die nur den Pöbel äffen, sie hieher </l>
+                            <l><pb n="155" facs="130019387373_0166"/> Die nur den Pöbel äffen, sie hieher </l>
                             <l>Geführt aus Khorasan? Nein, Allah, der</l>
                             <l>Zu Plag’ und Straf den Menschen sie erschuf,</l>
                             <l>Hat ihnen auch hieher den Weg gezeigt.</l>
@@ -3496,7 +3528,7 @@
                                 <l>Er wußte, daß verboten der Prophet</l>
                                 <l>Ihm «dies Getränk, das Sünden zeugt.</l>
                                 <l>Die Gäste drängten auch</l>
-                                <l>Zum zweiten Mal das flüssige Feuer nicht</l>
+                                <l><pb n="157"/><!-- ingen facs-id --> Zum zweiten Mal das flüssige Feuer nicht</l>
                                 <l>Ihm auf; denn aus des Jünglings Auge sprach</l>
                                 <l>Ein eherner Entschluß.</l>
                             </lg>
@@ -3686,8 +3718,12 @@
                     Byron das Maß voll. Der beleidigte Apollo erhob sich in seinem Zorne, mit
                     unbeschreiblichem Humor packte er den unglücklichen Marsyas am Ohre, und schund
                     ihn bei lebendigem Leibe in seiner »Vision des Gerichts.«</p>
-                <pb n="166" facs="130019387373_0177"/>
-                <p>10.</p>
+            </div>
+            
+            <div>
+                <head type="add">10. Der historische und ethnographische Naturalismus. – W. Scott</head>
+                <head><pb n="166" facs="130019387373_0177"/> 10.</head>
+                
                 <p>Wenden wir uns von Southey zu einem besseren Manne, zu dem Dichter, der die
                     eigenthümlich brittische Romantik aus dem Grunde der Volksnatur und Geschichte
                     gestaltete, der nicht, wie die Männer der Seeschule, sich zum Renegaten machen
@@ -3872,8 +3908,7 @@
                     Verwandtschaft opferte, nicht der Dichter der Individualität werden konnte,
                     sondern mit einem Schlage in die Vergangenheit zurückgestoßen ward, als Byron
                     austrat.</p>
-                <p>Im Jahre 1802 wurde die <emph>Edinburgh Review</emph>
-                    <pb n="176" facs="130019387373_0187"/> gegründet, und Scott lieferte von Anfang
+                <p>Im Jahre 1802 wurde die <emph>Edinburgh Review</emph> <pb n="176" facs="130019387373_0187"/> gegründet, und Scott lieferte von Anfang
                     an Beiträge für dies Organ, dessen Hauptredakteur sein Landsmann Jeffrey war,
                     der als Kritiker eine so große Rolle in dem Leben der damaligen Dichter spielt,
                     obschon ein gewissser derber Verstand ohne Geschmeidigkeit und ohne Schule seine
@@ -3892,7 +3927,7 @@
                     Name genügte, um Einem wie auf einen Zauberschlag alle Thüren in seinem
                     Amtsdistrikte zu öffnen, so wurde er jetzt ebenso beliebt als Dichter. In kurzer
                     Zeit wurden 30,000 Exemplare abgesetzt. Es waren die Zustände des sechzehnten
-                    Jahrhunderts, die hier mit annähernd historischer Genauigkeit <pb n="177" facs="130019387373_0188"/>dargestellt dem Leser entgegentraten. Die
+                    Jahrhunderts, die hier mit annähernd historischer Genauigkeit <pb n="177" facs="130019387373_0188"/> dargestellt dem Leser entgegentraten. Die
                     Schilderung der hochländischen Sitten interessirte so sehr, daß der Beifall, mit
                     dem sie aufgenommen wurden, den Dichter auf den Gedanken brachte, etwas
                     Aehnliches in Prosa zu versuchen, ein Gedanke, der später in den
@@ -3930,7 +3965,7 @@
                     adligen Dame erzwingen, obschon er weiß, daß sie einen Andern liebt. Von
                     eifersüchtiger Verzweiflung getrieben, macht Constanze ein Attentat aus
                     Marmion’s Leben, und mit kalter Grausamkeit überliefert er sie als entflohene
-                    Nonne <pb n="179" facs="130019387373_0190"/>der Strafe des Klosters. Die
+                    Nonne <pb n="179" facs="130019387373_0190"/> der Strafe des Klosters. Die
                     Aebtissin verurtheilt sie zum Tode, und in einer romantischen Schreckensscene
                     von der Art, wie Byron sie liebt, aber mit weit geringerer Schonung der Nerven
                     des Lesers auszumalen pflegt, wird sie lebendig in ein unterirdisches Gewölbe
@@ -3955,9 +3990,8 @@
                             <l>Der in der Kampfgenossen Zahl</l>
                             <l>Den Tapfersten ihr Thun befahl, —</l>
                             <l>Ihm jetzt versagte Sprach’ und Denken,</l>
-                            <l>Den Blick zu Boden mußt’ er senken, 12«</l>
-                            <pb n="180" facs="130019387373_0191"/>
-                            <l>Und glühnde Rötbe stieg</l>
+                            <l>Den Blick zu Boden mußt’ er senken,</l>
+                            <l><pb n="180" facs="130019387373_0191"/> Und glühnde Rötbe stieg</l>
                             <l>Ihm ins Gesicht; es klang das Wort </l>
                             <l>So strafend in der Seel ihm fort,</l>
                             <l>Daß er betroffen schwieg.</l>
@@ -4005,8 +4039,7 @@
                     Geständnissen und dunklen Ausbrüchen Linderung sucht; die Darstellung ist mit
                     einem Worte in vollstem Sinne persönlich, und damit ist eine Revolution in der
                     englischen Dichtungsweise eingetreten.</p>
-                <pb n="182" facs="130019387373_0193"/>
-                <p>In Scott’s rein episch angelegtem Gedichte war es nicht die Hauptperson, sondern
+                <p><pb n="182" facs="130019387373_0193"/> In Scott’s rein episch angelegtem Gedichte war es nicht die Hauptperson, sondern
                     es waren die Begebenheiten, welche besonders Glück machten, vor Allem die
                     Schlachtenschilderungen im letzten Gesange, welche von der begeisterten Kritik
                     für die besten seit Homer erklärt wurden. Und war das Gedicht durchaus geeignet,
@@ -4168,18 +4201,21 @@
                     Frachtschiff bewegt sich langsam, zögert und verweilt unterwegs, Scott’s
                     Dichtermachen fährt mit vollen Segeln dahin und hinterläßt nur leichte
                     Schaumblasen in der Phantasie des Lesers, aber — wie es im dritten Gesange des
-                    Gedichts von dem Nachen heißt — <pb n="190" facs="130019387373_0201"/>
-                    <cit>
+                    Gedichts von dem Nachen heißt —</p> 
+                   
+                <cit>
                         <quote>
                             <lg>
-                                <l>So rasch den See der Rudrer schlug,</l>
+                                <l><pb n="190" facs="130019387373_0201"/> So rasch den See der Rudrer schlug,</l>
                                 <l>Daß, wo ins Wasser schnitt der Kiel,</l>
                                 <l>Die Blase noch ihr lustig Spiel</l>
                                 <l>Trieb tanzend auf dem kransen Spiegel,</l>
-                                <l>Als schon erreicht die Festlandshügel</l>
+                                <l>Als schon erreicht die Festlandshügel.</l>
                             </lg>
                         </quote>
-                    </cit>. Man versteht leicht, daß Scott’s Poesien mit ihrer Vorliebe für die
+                    </cit> 
+                
+                <p>Man versteht leicht, daß Scott’s Poesien mit ihrer Vorliebe für die
                     ritterlichen Tugenden, für die Kühnheit und den Muth selbst bei aufriihrerischen
                     Clanhäuptlingen, Seeräubern, Zigeunern, Schmugglern zc., kurz mit allen
                     Sympathien, die den Uebergang zu der Vorliebe Byron’s für das Verwegene und
@@ -4271,7 +4307,7 @@
                     Walter Scott’s »Ivanhoe« Augustin Thierry auf den Gedanken brachte, hinter den
                     Thaten Chlodwig’s, Karl’s des Großen und Hugo Capet’s den Nacenkampf zwischen
                     Normannen und Sachsen und die Spuren einer französischen Eroberung als die
-                    wahren Ursachen der <pb n="190" facs="130019387373_0206"/> Ereignisse zu suchen.
+                    wahren Ursachen der <pb n="195" facs="130019387373_0206"/> Ereignisse zu suchen.
                     Dieser Dichter, dessen Blick für das Seelenleben des einzelnen modernen Menschen
                     nicht tief war, und welcher der modernen individualistischen Zeit gegenüber auf
                     mancherlei Weise durch nationale, monarchische und religiöse Vorurtheile
@@ -4329,7 +4365,7 @@
                     diese Gelder zur Erweiterung seiner Besitzung Abbotsford und zur Aufführung
                     einer förmlichen Burg, wo er mit fürstlicher Gastlichkeit das Heer von Besuchern
                     empfing, welches sein Haus überschwemmte und oft für lange Zeit dort sein
-                    Quartier aufschlug.<pb n="198" facs="130019387373_0208"/> Sein Ruf und seine
+                    Quartier aufschlug. <pb n="198" facs="130019387373_0208"/> Sein Ruf und seine
                     Popularität waren beständig im Steigen. Während seines Triumphaufenthaltes in
                     London 1815, wo man in ihm nicht allein den Dichter, sondern auch den Patrioten,
                     den Ehrenbürger von Edinburg, feierte, der sich durch seinen glühenden Haß gegen
@@ -4499,7 +4535,7 @@
                     Staunton’s an Jeanie Deans, ein Muster schlechten Stils und falscher
                     Psychologie). Bei so großen Mängeln im Detail hilft es wenig, daß die Grundzüge
                     der Komposition in den besten Romanen vortrefflich sind und sich meist zu einer
-                    oder <pb n="204" facs="130019387373_0218"/> mehreren großen dramatischen
+                    oder <pb n="207" facs="130019387373_0218"/> mehreren großen dramatischen
                     Katastrophen zusammenschließen. Ein Werk, das seinen Ruf ein Jahrhundertlang
                     bewahren soll, muß nicht nur poetisch angelegt, sondern in jedem einzelnen
                     Punkte künstlerisch durchgeführt sein, wozu Scott von dem Augenblick an, da er
@@ -4550,12 +4586,17 @@
                     Tagen durch die stumme, aber lehrreiche Kritik der Zeit der Lieblingsdichter der
                     Knaben und Mädchen von vierzehn Jahren geworden, ein Dichter, den jeder
                     Erwachsene gelesen hat, aber den kein Erwachsener mehr liest.</p>
-                <pb n="210" facs="130019387373_0221"/>
-                <p>11.</p>
+            </div>
+            
+            <div>
+                <head type="add">11. Universeller Sensualismus. – Keats</head>
+                <head><pb n="210" facs="130019387373_0221"/> 11.</head>
+                
                 <p>In dem bewunderungswürdigen Fragmente »Hyperion« von Keats kommt eine Scene vor,
                     wo das Göttergeschlecht überwältigt in einer tiefen Felshöhle unter der Erde
                     liegt. Man hält eine Berathung, und der Gott der Titanen, der alte Saturn,
                     schließt seine niuthlose Rede:</p>
+                
                 <cit>
                     <quote>
                         <lg>
@@ -4570,6 +4611,7 @@
                         </lg>
                     </quote>
                 </cit>
+                
                 <p>Da erheht sich zuerst Oceanus, der grübelnde, gedankenvolle Gott des Meeres, und
                     schüttelt seine jetzt trockenen Locken, und beginnt mit kindischem Gemurmel, das
                     seine Zunge dem schaumgepeitschten Sande nachlallt, und räth den von
@@ -4582,8 +4624,7 @@
                             <l>Großer Saturnus, du</l>
                             <l>Hast das Atomen-Weltall wohl durchschaut.</l>
                             <l>Doch aus dem Grunde, weil du König bist</l>
-                            <pb n="211" facs="130019387373_0222"/>
-                            <l>Und blind aus purer Oberherrlichkeit,</l>
+                            <l><pb n="211" facs="130019387373_0222"/> Und blind aus purer Oberherrlichkeit,</l>
                             <l>Blieb deinem Aug’ <emph>ein</emph> Weg in Nacht gehüllt,</l>
                             <l>Auf welchem ich zu ew’ger Wahrheit schritt.</l>
                             <l>Wie du die erste nicht der Mächte warst,</l>
@@ -4621,8 +4662,7 @@
                             <l>Ernährt, der anmuthreicher als er selbst?</l>
                             <l>Gönnt er die Herrschaft nicht dem grünen Hain?</l>
                             <l>Und soll der Baum die Taube neiden wohl,</l>
-                            <pb n="212" facs="130019387373_0223"/>
-                            <l>Dieweil sie girrt und weiße Schwingen hat,</l>
+                            <l><pb n="212" facs="130019387373_0223"/> Dieweil sie girrt und weiße Schwingen hat,</l>
                             <l>Auf denen froh sie überallhin schweift?</l>
                             <l>Wir gleichen solchen Bäumen tief im Wald,</l>
                             <l>Und unsre kräft’gen Zweige hegten nicht</l>
@@ -4660,8 +4700,7 @@
                             <l>Das, fürcht’ ich, dort für immer bleiben wird.</l>
                             <l>Ich möchte Unheil nicht verkünden . . . Doch </l>
                             <l>Laßt meine Sorge mich erzählen, laßt</l>
-                            <pb n="213" facs="130019387373_0224"/>
-                            <l>Mich sagen, was ich hörte, und was mir</l>
+                            <l><pb n="213" facs="130019387373_0224"/> Mich sagen, was ich hörte, und was mir</l>
                             <l>In heißen Thränen das Bewußtsein gab,</l>
                             <l>Daß jede Hoffnung uns erloschen ist.</l>
                             <l>Ich stand an einem schönen Ufer jüngst,</l>
@@ -4701,8 +4740,8 @@
                         </lg>
                     </quote>
                 </cit>
-                <pb n="214" facs="130019387373_0225"/>
-                <p>Keats hat nirgendwo sonst etwas so Herrliches wie diese Stelle geschrieben und
+                
+                <p><pb n="214" facs="130019387373_0225"/> Keats hat nirgendwo sonst etwas so Herrliches wie diese Stelle geschrieben und
                     sie ist eben so gedankentief wie schön. Ich stelle sie an die Spitze Dessen, was
                     ich über ihn zu sagen habe, richt allein als Probe der Größe und Kraft seiner
                     Poesie, sondern als Einleitung zu seinem sowohl wie zu dem Auftreten des ganzen
@@ -4721,8 +4760,7 @@
                     und so lange wie möglich sich weigert, den neuen Tönen willig Gehör zu schenken?
                     Es hilft Nichts, denn von allen Seiten hören wir jetzt den Ruf: »Apollo! Der
                     morgenhelle, junge Gott Apollo!«</p>
-                <pb n="215" facs="130019387373_0225"/>
-                <p>Die alten Götter nahmen, wie in dem Gedichte, eine verschiedenartige Haltung an.
+                <p><pb n="215" facs="130019387373_0225"/> Die alten Götter nahmen, wie in dem Gedichte, eine verschiedenartige Haltung an.
                     Scott, der Edelste von Allen, strich, wie wir gesehn haben, die Flagge vor
                     Byron, mit einem Adel und einer Milde, welche seinen vielen anderen Kränzen noch
                     einen mehr hinzugefügt haben; Wordsworth zog sich grollend an seine Seen zurück,
@@ -4836,7 +4874,7 @@
                     hätte, um mich auch nur einen Augenblick von dem Gedanken an sie abzuziehen...
                     Ich vermag kein Wort über Neapel zu sagen; ich fühle mich nicht im Geringsten
                     von den tausend neuen Dingen um mich her berührt. Ich ängstige mich ihr zu
-                    schreiben, aber es wäre mir lieb,<pb n="221" facs="130019387373_0232"/> wenn sie
+                    schreiben, aber es wäre mir lieb, <pb n="221" facs="130019387373_0232"/> wenn sie
                     wüßte, daß ich sie nicht vergessen habe. O Brown! ich trage glühende Kohlen in
                     meiner Brust. Es überrascht mich, daß das menschliche Herz im Stande ist, so
                     viel Elend auszuhalten und zu ertragen. Ward ich geboren, um so zu enden?«</p>
@@ -4863,8 +4901,8 @@
                         </cit>
                         <emph>Shelley:</emph> Fragment XXVII. Auf Keats.</note>
                 </p>
-                <pb n="222" facs="130019387373_0232"/>
-                <p>Keats’ Poesie ist die am stärksten duftende Blume des englischen Naturalismus.
+                
+                <p><pb n="222" facs="130019387373_0232"/> Keats’ Poesie ist die am stärksten duftende Blume des englischen Naturalismus.
                     Dieser hatte sich ja, als der Dichter auftrat, schon eines langen und kräftigen
                     Wachsthumes erfreut. Seine Losung war, wie wir gesehen haben, zuerst von
                     Wordsworth formulirt und von ihm so in System gebracht worden, daß er seine
@@ -5027,7 +5065,7 @@
                     </cit>
                 </p>
                 <p>Dem verfeinerten und reichen Geschmackssinne entspricht die ideale Feinheit des
-                    Geruchs- und Gefühls-<pb n="229" facs="130019387373_0240"/>sinnes. In
+                    Geruchs- und Gefühls<pb n="229" facs="130019387373_0240"/>sinnes. In
                     »Isabella«, einem Gedichte, welches dasselbe Sujet nach Boccaccio wie H. C.
                     Andersen’s Märchen »Der Rosenelf« behandelt, heißt es an der Stelle, wo das
                     junge Mädchen den abgeschlagenen Kopf ihres Geliebten mit nach Hause genommen
@@ -5161,7 +5199,9 @@
                     einem Stile, als habe der Meißel Michel Angelo’s bei ihrer Hervorbringung
                     mitgewirkt. Mag man das Studium Milton’s herausfühlen, ich bekenne, daß für mich
                     Milton hier übertroffen ist. Schon die Natur des Stoffes trieb die <pb n="233" facs="130019387373_0244"/> Bilder ins Kolossale. Man lese die Worte über die
-                    Göttin Thea: <cit>
+                    Göttin Thea:</p>
+                
+                <cit>
                         <quote>
                             <lg>
                                 <l>Die hohe Amazone neben ihr</l>
@@ -5171,8 +5211,12 @@
                                 <l>Irion’s mit des Fingers Druck gehemmt.</l>
                             </lg>
                         </quote>
-                    </cit> Oder man lese die Beschreibung der Höhle, in welcher sich die Titanen
-                    nach ihrem Sturze versammelt haben: <cit>
+                    </cit> 
+                
+                <p>Oder man lese die Beschreibung der Höhle, in welcher sich die Titanen
+                    nach ihrem Sturze versammelt haben:</p>
+                
+                <cit>
                         <quote>
                             <lg>
                                 <l>’s war eine Höhle, wo kein schmerzlich Licht</l>
@@ -5204,9 +5248,8 @@
                             </lg>
                         </quote>
                     </cit>
-                </p>
-                <pb n="234" facs="130019387373_0245"/>
-                <p>Byron, der früher so strenge gegen Keats gewesen war, sagte nicht zu Viel, als er
+                
+                <p><pb n="234" facs="130019387373_0245"/> Byron, der früher so strenge gegen Keats gewesen war, sagte nicht zu Viel, als er
                     den Ausspruch that, daß das Gedicht Hyperion »wirklich von den Titanen inspirirt
                     erscheine und erhaben wie Aeschylos sei.« Man hat jetzt auch hinlängliche Proben
                     von der Phantasiekraft des Dichterjünglings; wie lieblich seine Melodien immer
@@ -5258,11 +5301,11 @@
                     Keats zu existiren, er verwandelte sich in einen Mythus, in Adonais, den schönen
                     Liebling aller Musen und Elemente, und zum Mythus geworden, führte er seitdem im
                     Bewußtsein der Nachwelt eine doppelte Existenz.</p>
-                <pb n="236" facs="130019387373_0247"/>
+                
                 <cit>
                     <quote>
                         <lg>
-                            <l>Er lebt, er wacht — der Tod ist todt, nicht er.</l>
+                            <l><pb n="236" facs="130019387373_0247"/> Er lebt, er wacht — der Tod ist todt, nicht er.</l>
                             <l>Klagt nicht um Adonais!...</l>
                         </lg>
                         <lg>
@@ -5301,8 +5344,12 @@
                     Verklärung rein naturalistischer und rein humanistischer Art. Für Shelley lag
                     Keats’ wahre Apotheose in den Worten: »Er ist jetzt Eins mit der Natur«
                         (<emph>He is made one with Nature</emph>).</p>
-                <pb n="237" facs="130019387373_0248"/>
-                <p>12.</p>
+            </div>
+            
+            <div>
+                <head type="add">12. Der irische Aufstand und die Oppositionsdichtung. – Moore</head>
+                <head><pb n="237" facs="130019387373_0248"/> 12.</head>
+                
                 <p>Im November 1825 schreibt Walter Scott in sein Tagebuch: »Thomas Moore ist
                     hier... In seinem Wesen liegt männliche Offenheit, mit vollkommenem Anstande und
                     guter Erziehung gepaart. — Keine Spur vom Poeten oder Pedanten... Sein Gesicht
@@ -5317,7 +5364,7 @@
                     und da er ein Demokrat ist, ich ein Aristokrat, nicht davon zu reden, daß er ein
                     Irländer ist, ich ein Schotte. Eins haben wir jedoch mit einander gemein, und
                     Das ist ein wichtiger Aehnlichkeitspunkt: wir sind Beide zwei gutmüthige Kerle,
-                    die lieber den Augenblick genießen, als sich anstrengen, ihre Löwen <pb n="238" facs="130019387373_0249"/>würde aufrecht zu erhalten, und wir kennen Beide
+                    die lieber den Augenblick genießen, als sich anstrengen, ihre Löwen<pb n="238" facs="130019387373_0249"/>würde aufrecht zu erhalten, und wir kennen Beide
                     hinlänglich die Welt, um von Herzen solche hochnasige Personen zu verachten, die
                     in ihrer literarischen Wichtigthuerei an den Mann erinnern, welchen Johnson in
                     einem Wirthshause traf, und welcher sich selbst als den großen Twalmly, den
@@ -5396,7 +5443,7 @@
                     Männer, die Schönheit und asiatische Lieblichkeit ihrer jungen Mädchen, zu
                     Gunsten dieser Ansicht.« Es begreift sich leicht, welche Beute ein Volksstamm
                     mit diesen Grundzügen für die zähe und grausame englische Tyrannei abgeben
-                    mußte, und ein rascher Blick auf Irlands Geschichte während der Jugend<pb n="240" facs="130019387373_0253"/>zeit Thomas Moores ist unerläßlich, um zu
+                    mußte, und ein rascher Blick auf Irlands Geschichte während der Jugend<pb n="242" facs="130019387373_0253"/>zeit Thomas Moores ist unerläßlich, um zu
                     verstehen, daß dieser mild angelegte und weiche Dichtergeist der Erste wird,
                     welcher die auf der Naturbetrachtung ruhende Dichtung Englands in das Lager der
                     Freiheit hinüber führt und das Signal zur politischen Poesie giebt.</p>
@@ -5510,7 +5557,7 @@
                     Angeklagten einen Eid darauf abgelegt hätte, daß dieser allbekannte Bluthund,
                     der in ganz Irland »Peitschen-Fitzgerald« hieß, ein milder und humaner Mann sei.
                     Man hatte von Anfang an ihm zu Gefallen verfassungswidrig die Tortur durch ein
-                        Ge<pb n="248" facs="130019387373_0259"/> setz eingeführt. Er hatte also
+                        Ge<pb n="248" facs="130019387373_0259"/>setz eingeführt. Er hatte also
                     leichtes Spiel, alle Anklagen aus dem Felde zu schlagen. Mit unerhörter Roheit
                     prahlte er als Angeklagter damit, daß er in einer Menge von Fällen viel
                     gewaltsamere Peitschenstrafen angewandt habe, als in denen, von welchen man
@@ -5548,7 +5595,7 @@
                     sprach ihn aber frei davon, »einen gehässigen oder absichtlichen Mord haben
                     begehen zu wollen.«</p>
                 <p>Durch solche Mittel wurde die Ruhe in Irland wieder hergestellt und das Volk für
-                    den Gewaltakt reif <pb n="20" facs="130019387373_0261"/> gemacht, in welchem
+                    den Gewaltakt reif <pb n="250" facs="130019387373_0261"/> gemacht, in welchem
                     Castlereagh mit kaltem diplomatischen Scharfblick den einzigen Ausweg aus dem
                     irischen Sumpfe sah: die vollständige Aufhebung des Dubliner Parlamentes und
                     dessen Verschmelzung mit dem Londoner Parlamente. Der Widerstand, den es einzig
@@ -5634,7 +5681,7 @@
                     früh sein eigenthümliches Dichternaturell, welches das des Improvisators und des
                     eigentlichen, des singenden, Lyrikers ist, zum Durchbruche kommt. Er besaß
                     dieselbe Gabe, welche Bellman’s Größe ausmacht, die Gabe, in seiner Produktion
-                    Lied und Musik zu einem Ganzen zu verschmelzen, und im Verein damit das Vermögen
+                    Lied und Musik zu einem Ganzen zu verschmelzen, <pb n="254"/><!-- ingen facs-id --> und im Verein damit das Vermögen
                     des Schauspielers und des Sängers durch den Vortrag zu ergreifen. Er war klein,
                     beträchtlich unter Mittelgröße, mit braunen Locken um das Haupt, und als Kind
                     glich er einem kleinen Cupido. Seine Stirn war groß und glänzend, so
@@ -5711,7 +5758,7 @@
                     Schlaflosigkeit ihm wenigstens in so fern von Nutzen gewesen sei, als er seine
                     Aufgabe glücklich gelöst habe. — Ein Knabe, welcher so viel Muth und Fassung
                     besitzt, ist dazu bestimmt, als Mann ein Vorbild für Viele zu werden.</p>
-                <p>Er ward Das, zuerst und vor Alllem für Thomas <pb n="258" facs="130019387373_0269"/>Moore. Die Schlichtheit und ruhige
+                <p>Er ward Das, zuerst und vor Alllem für Thomas <pb n="258" facs="130019387373_0269"/> Moore. Die Schlichtheit und ruhige
                     Gleichmäßigkeit, welche über sein Wesen verbreitet und mit der zartfühlendsten
                     Rücksichtsnahme verbunden war, wich sofort, wenn die Saite, die seine Gefühle in
                     Bewegung setzte, berührt ward, dem Gepräge einer Geistesüberlegenheit, die einen
@@ -5750,8 +5797,8 @@
                     vielbedeutenden Blick die Frage hinwarf: »Nun, hast Du schon gesehen...?« — »Der
                     Brief war von Dir, Tom«, rief die Mutter, und man begreift, daß neue
                     Vorsichtsermahnungen dem Geständnisse folgten.</p>
-                <pb n="260" facs="130019387373_0271"/>
-                <p>»Ein Paar Tage nachher«, erzählt Moore, »kam bei einem der langen Spaziergänge
+                
+                <p><pb n="260" facs="130019387373_0271"/> »Ein Paar Tage nachher«, erzählt Moore, »kam bei einem der langen Spaziergänge
                     aufs Land, die Emmet und ich mit einander zu unternehmen pflegten, unser
                     Gespräch auf den Brief, und ich enthüllte mich als den Verfasser. Da gestand er
                     mir mit der fast weiblichen Sanftmuth seines Wesens, die man so häufig bei
@@ -6469,8 +6516,12 @@
                     humoristischer Briefe — gereimte Feuilletons könnte man sie nennen — die
                     Tagesfragen und die parlamentarischen Ereignisse mit glänzendem Witz und
                     prächtiger Salonlaune im Geiste der Whigpartei behandelte.</p>
-                <pb n="291" facs="130019387373_0302"/>
-                <p>13.</p>
+            </div>
+            
+            <div>
+                <head type="add">13. Erotische Lyrik. – Thomas Moore</head>
+                <head><pb n="291" facs="130019387373_0302"/> 13.</head>
+                
                 <p>Er war von der Natur zu Heiterkeit und Glück, nicht zu einsamem Kampfe angelegt.
                     Er war dazu geschaffen, wie die alten irischen Barden, hochgeehrt an der Tafel
                     hoher Herren zu sitzen und ihnen die Zeit mit Gesang zu verkürzen. Er trägt in
@@ -6560,11 +6611,11 @@
                             </lg>
                         </quote>
                     </cit> Allein aller Jammer der Liebe spricht aus dem kurzen und stoßweisen
-                    Tonfall der Schlußzeilen: <pb n="294" facs="130019387373_0305"/>
+                    Tonfall der Schlußzeilen: 
                     <cit>
                         <quote>
                             <lg>
-                                <l>In silence we met — </l>
+                                <l><pb n="294" facs="130019387373_0305"/> In silence we met — </l>
                                 <l>In Silence I grieve, </l>
                                 <l>That thy heart could forget </l>
                                 <l>Thy spirit deceive. </l>
@@ -6622,8 +6673,7 @@
                                 <l>Ich sterb’, ich verschmachte hier!</l>
                                 <l>Auf Lippen und Augen laß </l>
                                 <l>Deine Küsse regnen mir!</l>
-                                <pb n="295" facs="130019387373_0306"/>
-                                <l>Meine Wang’ ist bleich und kalt, </l>
+                                <l><pb n="295" facs="130019387373_0306"/> Meine Wang’ ist bleich und kalt, </l>
                                 <l>Wildstürmisch pocht die Brust:</l>
                                 <l>O, schließe fest mein Herz an deins, </l>
                                 <l> Wo es brechen wird vor Lust!</l>
@@ -6719,8 +6769,8 @@
                     Byron mit Wahrheit die ehrenden Worte sagen: »Moore’s Irische Melodien werden
                     mit ihrer Musik auf die Nachwelt kommen, und beide werden so lange fortleben,
                     wie Irland, oder wie Musik und Poesie.«</p>
-                <pb n="299" facs="130019387373_0310"/>
-                <p>Moore’s Leben war glücklich. Er verheirathete sich, 31 Jahre alt, mit einem
+                
+                <p><pb n="299" facs="130019387373_0310"/> Moore’s Leben war glücklich. Er verheirathete sich, 31 Jahre alt, mit einem
                     schönen und liebenswürdigen Mädchen, Miß Dyke, und lebte in einer durchaus
                     harmonischen Ehe mit seiner treuen »Bessy«. Seine Vermögensumstände waren zwar
                     nicht immer günstig, aber von der Zeit an, wo sein Ruf allgemein anerkannt war,
@@ -6736,8 +6786,12 @@
                     auszeichnete, und als er 1822 nach Paris kam, gab ihm dort der brittische Adel
                     ein Bankett. Erst das Alter brachte ihm allerlei Mißgeschick, eine geschwächte
                     Gesundheit und Kummer durch seine Kinder. Er starb 1852.</p>
-                <pb n="300" facs="130019387373_0311"/>
-                <p>14.</p>
+            </div>
+            
+            <div>
+                <head type="add">14. Republikanischer Humanismus. – Walter Savage Landor</head>
+                <head><pb n="300" facs="130019387373_0311"/> 14.</head>
+                
                 <p>Zu der Zeit, als England nach außen die Geschäfte der heiligen Allianz betrieb,
                     nach innen die Katholiken unterdrückte und die unteren Klassen durch
                     Begünstigung des Landadels in Noth stürzte, verließen mehr und mehr Engländer
@@ -6811,7 +6865,7 @@
                     zu Stande bringen kann, so will ich ihm eine warme Semmel und einen halben Krug
                     Porterbier zum Frühstück geben.« Einen unbedeutenderen Mann hätte eine solche
                     Arroganz lächerlich gemacht, Landor entehrt sie nicht; hie und da steht sie ihm
-                    sogar an. Sie erinnert Einen zuweilen an Schopenhauer’s an sich nicht un-<pb n="304" facs="130019387373_0315"/>berechtigtes, aber unbändiges und
+                    sogar an. Sie erinnert Einen zuweilen an Schopenhauer’s an sich nicht un<pb n="304" facs="130019387373_0315"/>berechtigtes, aber unbändiges und
                     anspruchsvolles Gefühl seines Werthes; nur daß Landor in seinem Wesen der
                     vornehme, feingebildete Gentleman von adliger Geburt war und blieb, während
                     Schopenhauer mit seiner völligen Hintansetzung der Höflichkeitsgebote ein großer
@@ -7136,8 +7190,12 @@
                     Schatten, dessen eine Hand in derjenigen Wordsworth’s, dessen andere in der
                     Swinburne’s ruht, Englands ganze poetische Entwicklung während der letzten
                     achtzig Jahre zu umspannen.</p>
-                <pb n="320" facs="130019387373_0331"/>
-                <p>15.</p>
+            </div>
+            
+            <div>
+                <head type="add">15. Radikaler Naturalismus. – Shelley</head>
+                <head><pb n="320" facs="130019387373_0331"/> 15.</head>
+                
                 <p>Hätte man im Jahre 1820 einen biederen wohlbelesenen Engländer gefragt: »Wer ist
                     Shelley?« so würde Derselbe, falls er eine Antwort hätte geben können,
                     zweifelsohne geantwortet haben: »Es soll ein miserabler Poet mit abscheulichen
@@ -7195,8 +7253,8 @@
                     <emph>Cor cordium</emph>, das Herz der Herzen, Das waren die schlichten und
                     tiefen Worte, in denen Shelley’s junge Gattin den Inbegriff seines Wesens
                     aussprach, — die wahrsten und tiefsten, welche sich über ihn sagen ließen.</p>
-                <pb n="323" facs="130019387373_0334"/>
-                <p>Er stammte aus einer altadeligen und angesehenen Familie. Sein Vater war Baronet
+                
+                <p><pb n="323" facs="130019387373_0334"/> Er stammte aus einer altadeligen und angesehenen Familie. Sein Vater war Baronet
                     und Besitzer eines bedeutenden Vermögens, ein beschränkter Mann, Anhänger alles
                     Bestehenden, nur weil es bestand. Nichtsdestoweniger war Unregelmäßigkeit eben
                     so traditionell in dem Shelley’schen Geschlecht, wie Wildheit und
@@ -7249,8 +7307,7 @@
                         <lg>
                             <l>Ich rang die Händ’ und blickte um mich, doch</l>
                             <l>War Niemand da, zu spotten meiner Thränen,</l>
-                            <pb n="325" facs="130019387373_0336"/>
-                            <l>Die gierig der besonnte Boden sog — </l>
+                            <l><pb n="325" facs="130019387373_0336"/> Die gierig der besonnte Boden sog — </l>
                             <l>Da sprach ich: »Darf die Macht ich in mir wähnen,</l>
                             <l>Gerecht zu sein, und weis’, und mild, und frei,</l>
                             <l>So will ich’s werden, denn zu schaun verdrossen</l>
@@ -7275,8 +7332,8 @@
                     Shelley«, und so ward zum ersten Mal dies gehässige Wort an seinen Namen
                     geknüpft, das sein ganzes Leben lang mit demselben verkettet bleiben sollte,
                     damit jeder Hohn und Unglimpf sich daran hefte.</p>
-                <pb n="326" facs="130019387373_0337"/>
-                <p>Ich will nicht bei den Thatsachen seines Lebens verweilen, die Jedem, der seinen
+                    
+                <p><pb n="326" facs="130019387373_0337"/> Ich will nicht bei den Thatsachen seines Lebens verweilen, die Jedem, der seinen
                     Namen gehört hat, mindestens oberflächlich bekannt sind: wie er als achtzehn-
                     jahriger Student die seltsame Gewohnheit hatte, seine politischen und socialen
                     Zweifel in Briefform auszusprechen, und diese Briefe an verschiedene, mehr oder
@@ -7546,9 +7603,8 @@
                             <l>Die Kraft; — er kam zuletzt, gefährtenlos,</l>
                             <l>Verlassen wie ein Reh, verletzt vom Jagdgeschoß.</l>
                         </lg>
-                        <pb n="338" facs="130019387373_0349"/>
                         <lg>
-                            <l>Sie horchten auf, durch ihrer Thräner Schauer</l>
+                            <l><pb n="338" facs="130019387373_0349"/> Sie horchten auf, durch ihrer Thräner Schauer</l>
                             <l>Still lächelnd. Sie erkannten ihn, der sang</l>
                             <l>In fremdem Loose seine eigne Trauer,</l>
                             <l>Wie jetzt in unbekannten Tönen klang</l>
@@ -7616,8 +7672,7 @@
                             <l>Wie Mendrauschen, Meer und Fluß;</l>
                             <l>Fortweinen wie ein miides Kind</l>
                             <l>Möcht ich dies Leben voll Verdruß,</l>
-                            <pb n="040" facs="130019387373_0351"/>
-                            <l>Das ich ertrug und tragen muß,</l>
+                            <l><pb n="040" facs="130019387373_0351"/> Das ich ertrug und tragen muß,</l>
                             <l>Bis mir der Tod den Schlummer bringt.</l>
                             <l>Bis in der Liifte warmem Guß</l>
                             <l>Mein Geist ins weite All verklingt,</l>
@@ -7691,8 +7746,8 @@
                     Dunstes springt; und still wird sie, in ihrem lustigen Neste zusammengeschmiegt,
                     wenn der scharlachne Mantel des Abends vom Himmelsgewölbe herabfällt und das
                     helle Meer drunten sein brennendes Sehnen nach Ruhe und Liebe ausathmet.</p>
-                <pb n="343" facs="130019387373_0354"/>
-                <p>Sie fühlt ihre Macht, wenn sie, wie eine ungeheure Brücke, sonnendicht und
+                
+                <p><pb n="343" facs="130019387373_0354"/> Sie fühlt ihre Macht, wenn sie, wie eine ungeheure Brücke, sonnendicht und
                     finster von Vorgebirg zu Vorgebirg hängt; sie erfreut sich ihres Sieges, wenn
                     der Triumphfbogen durch den sie mit Orkan, Feuer und Schnee fliegt, der aus
                     Millionen Farben gewobene Regenbogen ist. Aber beständig spielt sie wie ein
@@ -7711,8 +7766,8 @@
                     blutigen Sonnenaufgange mit den Meteor-Augen singt, so hat der Dichter, vermöge
                     der Urfrische seiner Phantasie, den Leser in die Zeit zurückversetzt, wo die
                     Naturerscheinungen sich in voller Neuheit zu Mythologien gestalteten.</p>
-                <pb n="344" facs="130019387373_0355"/>
-                <p>Aber für Shelley waren diese Naturerscheinungen auch ewig neu. Er lebte unter
+                
+                <p><pb n="344" facs="130019387373_0355"/> Aber für Shelley waren diese Naturerscheinungen auch ewig neu. Er lebte unter
                     ihnen auf eine andere Weise, als irgend ein Dichter vorher oder nachher es
                     gethan hat. Sein kurzes Leben von 29 Jahren verbrachte er fast ganz unter
                     offenem Himmel, das Meer war seine Leidenschaft, er segelte beständig umher, und
@@ -7786,8 +7841,8 @@
                         </lg>
                     </quote>
                 </cit>
-                <pb n="347" facs="130019387373_0358"/>
-                <p>Man vergleiche diese Ode mit der schönen Stelle im dritten Gesang des »Childe
+                
+                <p><pb n="347" facs="130019387373_0358"/> Man vergleiche diese Ode mit der schönen Stelle im dritten Gesang des »Childe
                     Harold«, wo Byron ansruft: <cit>
                         <quote>
                             <lg>
@@ -7819,11 +7874,11 @@
                     Vergißmeinnicht und der Rose.</p>
                 <p>Welche gewaltige, weltbeherrschende Phantasie liegt z. B. in dem Gedichte, das er
                     bei der Nachricht von dem Tode Napoleon’s schreibt:</p>
-                <pb n="348" facs="130019387373_0359"/>
+                
                 <cit>
                     <quote>
                         <lg>
-                            <l>Wie! Erde, so kühn und voll Lebenslust?</l>
+                            <l><pb n="348" facs="130019387373_0359"/> Wie! Erde, so kühn und voll Lebenslust?</l>
                             <l>Bist du nicht allzu kühn?</l>
                             <l>Was kleidest du noch die alternde Brust,</l>
                             <l>Wie einst, in schimmerndes Grün?</l>
@@ -7914,7 +7969,7 @@
                                 <l>Dort ein einsamer Knab’, im Traume weinend;</l>
                             </lg>
                             <lg>
-                                <l>Hier unschuldvoll zwei Liebende, umwunden</l>
+                                <l><pb n="351"/><!-- ingen facs-id --> Hier unschuldvoll zwei Liebende, umwunden</l>
                                 <l>Von den gelösten Locken, sie vereinend</l>
                                 <l>Wie dunkler Epheu, Einem Stamm entsprossen;</l>
                                 <l>Und dort ein Greis, vom Silberhaar umflossen.</l>
@@ -8049,8 +8104,7 @@
                             <lg>
                                 <l>Beim Heucheln, das an ihrem Unschuldsmunde,</l>
                                 <l>Wie Gift an einer Blüthe, hangen muß, </l>
-                                <pb n="356" facs="130019387373_0367"/>
-                                <l>Beim finstern Glauben, der zu jeder Stunde</l>
+                                <l><pb n="356" facs="130019387373_0367"/> Beim finstern Glauben, der zu jeder Stunde</l>
                                 <l>Sie nun umschattet bis zum Lebensschluß; . . . </l>
                             </lg>
                             <lg>
@@ -8199,7 +8253,9 @@
                     ferner <pb n="361" facs="130019387373_0372"/> mit ihrer Mutter zusammen leben,
                     Nichts erben sollen, da sie insgeheim die christliche Lehre für falsch hält, und
                     er seine Kinder vor der ewigen Höllengluth retten will. So muß nun die Mutter
-                    ihre Kinder verlassen; denn, sagt sie, <cit>
+                    ihre Kinder verlassen; denn, sagt sie,</p>
+                
+                <cit>
                         <quote>
                             <lg>
                                 <l>Du weißt, was Armuth für ein Loos</l>
@@ -8214,13 +8270,17 @@
                                 <l>Solch Weh auf ihre Kinder häuft.</l>
                             </lg>
                         </quote>
-                    </cit> Rosalindens Schicksal dient vor Allem dazu, den Jammer einer
+                    </cit> 
+                
+                <p>Rosalindens Schicksal dient vor Allem dazu, den Jammer einer
                     unglücklichen Ehe und die Abhängigkeit der Frau von einem schlechten und
                     tyrannischen Manne zu schildern, und man fühlt Shelley’s Trauer über den Verlust
                     seiner Kinder durch. Helena’s Schicksal spielt direkt auf die Verfolgungen an,
                     denen der Dichter als Philosoph ausgesetzt war. Die ganze Darstellung von
                     Lionel’s Leben und Ansichten ist pure Selbstschilderung. Könnte irgend ein
-                    Ausspruch besser, als dies er, Shelley’s Menschenliebe charakterisiren: <cit>
+                    Ausspruch besser, als dies er, Shelley’s Menschenliebe charakterisiren:</p>
+                
+                <cit>
                         <quote>
                             <lg>
                                 <l>Zwillinge waren Lieb und Leben</l>
@@ -8231,8 +8291,9 @@
                                 <l>Auch Kinder einer Mutter sind.</l>
                             </lg>
                         </quote>
-                        <pb n="3621" facs="130019387373_0373"/>
-                    </cit> Jung, reich und von vornehmer Geburt, tritt er mit Begeisterung in die
+                    </cit> 
+                
+                <p><pb n="362" facs="130019387373_0373"/> Jung, reich und von vornehmer Geburt, tritt er mit Begeisterung in die
                     Reihen Derer, welche während der Revolution die Menschheit von der Herrschaft
                     der Dogmen befreien wollen. Seine Umgebung zerbricht sich vergebens den Kopf
                     darüber, welche Absicht er dabei haben kann: <cit>
@@ -8680,8 +8741,12 @@
                     beeinflußt und besungen von Shelley: er spielt eine Rolle im Leben Aller. In
                     Wahrheit ist er es, welcher der poetischen Literatur des Zeitalters ihr
                     endgültiges und entscheidendes Gepräge verleiht.</p>
-                <pb n="381" facs="130019387373_0393"/>
-                <p>16.</p>
+            </div>
+            
+            <div>
+                <head type="add">16. Die individuelle Leidenschaftlichkeit. – Byron (1)</head>
+                <head><pb n="381" facs="130019387373_0393"/> 16.</head>
+                
                 <p>Wenn man das Thorwaldsen’sche Museum in Kopenhagen betritt, so ist das erste
                     Bildwerk, das man zur riechten hat, eine Marmorbüste, welche einen schönen
                     jungen Mann mit seinen und edlen Zügen und mit krausgelocktem Haare darstellt, —
@@ -9238,8 +9303,12 @@
                     Sonnenuntergang auf, um mehr Ruhe zu haben, und schrieb mehrere Monate nach
                     einander die Nächte hindurch bis zum Anbruch des Morgens seine berühmte
                     Satire.</p>
-                <pb n="408" facs="130019387373_0419"/>
-                <p>17.</p>
+            </div>
+            
+            <div>
+                <head type="add">17. Die individuelle Leidenschaftlichkeit. – Byron (2)</head>
+                <head><pb n="408" facs="130019387373_0419"/> 17.</head>
+                
                 <p>Berühmt ist und ward dieselbe mit Recht, jedoch nicht wegen ihres Witzes und
                     ihrer Laune, denn nach denen würde man vergeblich suchen, auch nicht wegen des
                     Zutreffenden ihrer Ausfälle, denn es fallen fast nur blinde Hiebe nach rechts
@@ -10070,8 +10139,12 @@
                     ganzen erschlaffenden Zusammenhang mit jener Gesellschaft und jenem
                     Gesellschaftsgeiste zu entfernen, gegen welche er mit mehr Glück und Kraft, als
                     irgend ein Anderer, die Opposition herausbeschwören sollte.</p>
-                <pb n="449" facs="130019387373_0460"/>
-                <p>18.</p>
+            </div>
+            
+            <div>
+                <head type="add">18. Die Vertiefung des Ichs in sich selbst. – Byron</head>
+                <head><pb n="449" facs="130019387373_0460"/> 18.</head>
+                
                 <p>Als er zum zweiten Mal ein heimatloser und einsamer Pilger geworden war, nahm er
                     das Reisegedicht seiner Jugend wieder aus. Er fügte dem »Childe Harold« den
                     dritten und vierten Gesang hinzu. Er versetzte sich in die Stimmungen seiner
@@ -10411,8 +10484,12 @@
                     alten Perser ihren Altar auf den höchsten, weltüberschauenden Bergen
                     errichteten, so beugt er sein Haupt in der großen Kirche der <emph>Natur</emph>,
                     die aus Erde und Luft besteht (»Childe Harold«, III, 91).</p>
-                <pb n="461" facs="130019387373_0472"/>
-                <p>19.</p>
+            </div>
+            
+            <div>
+                <head type="add">19. Der revolutionäre Geist. – Byron</head>
+                <head><pb n="461" facs="130019387373_0472"/> 19.</head>
+                
                 <p>Nachdem er das Schlachtfeld von Waterloo besucht hatte, reiste Byron den Rhein
                     hinauf nach der Schweiz, wo er am Genfer See seinen Wohnsitz nahm. In einer der
                     dortigen Pensionen traf er mit dem um vier Jahre jüngeren Shelley zusammen.
@@ -11019,8 +11096,12 @@
                 <p>Mittlerweile schrieb Moore an Byron: »Kain ist wunderbar, furchtbar, wird nie
                     vergessen werden. Wenn ich mich nicht täusche, wird er sich tief in das Herz der
                     Welt hinabsenken.« Die Geschichte hat dies Urtheil bestätigt.</p>
-                <pb n="491" facs="130019387373_0502"/>
-                <p>20.</p>
+            </div>
+            
+            <div>
+                <head type="add">20. Komischer und tragischer Realismus. – Byron</head>
+                <head><pb n="491" facs="130019387373_0502"/> 20.</head>
+                
                 <p>Als der Strom reisender Engländer gegen den Herbst 1816 die Schweiz zu
                     überschwemmen begann, vermochte Byron den Aufenthalt dort nicht länger zu
                     ertragen, und machte sich mit dem Reisegefährten seiner Jugend, Hobhouse, auf
@@ -11814,8 +11895,12 @@
                     viel Angst vor Byron und den Gambas wie die Regierung des Kirchenstaates besaß,
                     erfolgte bald eine neue Ausweisung, und man wanderte nach Genua, der letzten
                     Siation Byron’s vor seiner Abreise nach Griechenland.</p>
-                <pb n="528" facs="130019387373_0539"/>
-                <p>21.</p>
+            </div>
+            
+            <div>
+                <head type="add">21. Kulmination des Naturalismus. – Byron</head>
+                <head><pb n="528" facs="130019387373_0539"/> 21.</head>
+                
                 <p>In dem Zeitraum von 1818 bis 1823 arbeitete Byron den »Don Juan« aus. So bald der
                     Anfang des Manuskriptes nach England kam, hagelte es von Schreckensausrufen der
                     Freunde und Kritiker, welche Einsicht in dasselbe erhielten, — von Beschwörungen
@@ -12732,6 +12817,8 @@
                     Zeichen der Harmonie, des Friedens und Freiheitsglücks, Vielen unbemerkbar, aber
                     sichtbar für Jeden, welcher die Sonne über sich hat und sich richtig stellt.
                     Derselbe kündigte bessere Tage für Europa an.</p>
+                
+                <!-- tekstrettelsesliste
                 <p>Berichtigungen und Druckfehler.</p>
                 <p>Seite 53, Z. 4 v. u. statt <emph>verwirrten, traurigen</emph> lies <emph>verwirrt
                         sorgenvollen</emph>.</p>
@@ -12753,7 +12840,9 @@
                         Bruder</emph>.</p>
                 <p>292, Z. 7. v. u. statt <emph>Schubart</emph> lies <emph>Schubert</emph>.</p>
                 <p>311, Z. 7. v. u. statt <emph>Erröthen</emph>, bei der lies <emph>Erröthen über
-                        die</emph>.</p>
+                        die</emph>.</p> -->
+                
+                <!-- kopi af afsnit fra teksten? optræder 2 gange 
                 <p>Franz Duncker’s Buchdr. in Berlin.</p>
                 <p>sag iyr . . . gey zu raoy Oyron uno sag iyr . . . «, aber seine Stimme versagte,
                     und man hörte nur einzelne Namen: »Augusta — Ada« — »Nun hab’ ich Dir Alles ge
@@ -12774,7 +12863,7 @@
                     Kanonenschiisse von der großen Batterie abgefeuert werden, eine Zahl, welche den
                     Lebensjahren des großen Todten entspricht-</p>
                 <p>2) Alle öffentlichen Gebäude, auch die Gerichtshäuser, bleiben drei Tage
-                    geschlossenz</p>
+                    geschlossenz</p>-->
             </div>
         </body>
     </text>
