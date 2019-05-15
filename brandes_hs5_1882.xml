@@ -92,6 +92,7 @@
         <head><pb n="[3]"/>Den romantiske Skole i Frankrig</head>
       </div>
 
+<div><!-- her begynder hovedteksten -->
       <div>
         <head type="add">1. Den politiske baggrund</head>
         <head><pb n="[5]"/><ref target="n5422"/>I.</head>
@@ -11791,7 +11792,8 @@
 
         <p>Romantismens Sol er gaaet ned, men saalænge <persName key="victor-hugo">Hugo</persName> lever, sees dens
           røde Aftenskjær endnu over Horizonten.</p>
-      </div>
+      </div><!-- slut sidste kapitel -->
+</div><!-- slut hovedteksten -->
     </body>
   </text>
 </TEI>

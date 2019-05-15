@@ -100,8 +100,8 @@
         </front>
         <body>
       <!-- blank side -->
-            <div>
-                <head type="add">Indledning</head>
+            <div><!-- indledning -->
+              <head type="add">Indledning</head>
                 <head>
                     <pb n="[7]"/>INDLEDNING.</head>
                 <p>Idet jeg begynder denne Række af Foredrag, føler jeg en Trang til at anmode om Deres
@@ -469,7 +469,7 @@
           hvor dens Opgave historisk er endt.</p>
             </div><!-- afslutter indl. -->
             
-          <div>
+          <div><!-- her begynder hovedteksten -->
                 <head type="add">Emigrantlitteraturen</head>
                 <head type="original">
                     <pb n="[29]"/>EMIGRANTLITTERATUREN.</head>               
@@ -560,7 +560,8 @@
           Litteratur, som af Franske frembragtes i Udlandet, under al sin Opposition imod den Aand,
           af hvilken det absolute Keiserdømme fremgik, bevarede et Forhold til det 18de Aarhundrede
           og havde oprindeligt franske Forudsætninger at støtte sig til.</p>
-                <div>
+                
+            <div><!-- kap. 1 -->
                     <head type="add">1. Le génie du christianisme</head>
                     <head>I.<ref target="n523"/>
                     </head>
@@ -4285,7 +4286,7 @@
                 </div>
             </div><!-- afslutter del 1 -->
             
-          <div>
+          <div><!-- del 2 -->
                 <head type="add">Den romantiske skole i Tyskland</head>
                 <head type="original">
                     <pb n="[229]"/> DEN ROMANTISKE SKOLE I TYDSKLAND. </head>
@@ -5105,8 +5106,8 @@
             Andre at løse Fortryllelsen, der bandt hans Tunge.</p>
                     <p>Hermed slutter jeg hvad jeg vilde betegne som en Introduction til den tydske Romantiks
             Historie.</p>
-                </div>
-            </div>
+                </div><!-- slut kap. 3 -->
+            </div><!-- slut del 2 -->
         </body>
     </text>
 </TEI>

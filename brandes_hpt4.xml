@@ -75,15 +75,21 @@
 
 <!--[V]+[VI] rummer indholdsfortegnelse; gengives ikke -->
 
+<!-- 
             <titlePage>
                 <pb ed="A" n="[vii]" facs="xyz"/>
                 <docTitle>
                     <titlePart>Die romantische Schule in Deutschland</titlePart>
                 </docTitle>
-            </titlePage>
+            </titlePage> -->
         </front>
 
         <body>
+            <div>
+                <head><pb ed="A" n="[vii]" facs="xyz"/> Die romantische Schule in Deutschland</head><!-- reelt et halvtitelblad, men det ser tosset ud i en digital visning at have det på en side for sig! -->
+            </div>
+
+<div><!-- her begynder hovedteksten -->
             <div>
                 <head type="add">1. Psychologische Literaturbetrachtung</head>
                 <head><pb n="[1]" facs="xyz"/> 1.</head>
@@ -4291,7 +4297,7 @@
                     das Gewitter her? Davon steht ja kein einziges Wort in meiner Rolle. Was sind
                     Das für Dummheiten! Und ich und mein Esel werden darüber <pb n="201"
                         facs="130019387403_0212"/> pudelnaß. – Maschinist! Maschinist! so halt’ er
-                    doch in’ Teufels Namen inne!" Der Maschinist tritt auf und entschuldigt sich
+                    doch in’ Teufels Namen inne!« Der Maschinist tritt auf und entschuldigt sich
                     damit, das Publikum habe etwas Theaterdonner verlangt, und er sei den Wünschen
                     desselben nachgekommen. Skaramuz beschwört das Publikum, seinen Befehl zu
                     ändern. Umsonst, es will ein Gewitter. »Wie? In einem stillen, sanften,
@@ -8860,7 +8866,8 @@
 
                 <p><emph>Aus Nord und Süd. </emph>Novellen von <emph>Wilhelm Bergsöe</emph>. Berlin
                     1873. (Unter der Presse.)</p> -->
-            </div>
+            </div><!-- lukker sidste kapitel -->
+</div><!-- lukker hovedteksten -->
         </body>
     </text>
 </TEI>

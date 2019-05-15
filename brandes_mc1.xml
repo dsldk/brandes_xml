@@ -65,8 +65,8 @@
     <docImprint><publisher>New York: The Macmillan Company</publisher><publisher>London: William
       Heinemann</publisher><docDate>MCMVI</docDate></docImprint>
     
-    
-    <docImprint><pubPlace> <pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint>
+    <!-- medtages ikke
+    <docImprint><pubPlace> <pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint> -->
    </titlePage>
    
    <div type="dedication"> 
@@ -175,7 +175,7 @@
 
   <body>
 
-   <div>
+   <div><!-- favner hele teksten -->
     <!-- her findes først et skilleblad med titlen »The Emigrant Literature« og så indholdsfortegnelsen + billedfortegnelse [[xiii}-[xvi] -->
     
     <head type="add">The Emigrant Literature</head>
@@ -321,7 +321,7 @@
      touch with the eighteenth century, and was based upon originally French theories.</p>
     
     
-    <div>
+    <div><!-- favner det enkelte kapitel -->
      <head type="add">1. Chateaubriand</head>
      <head><pb n="[7]"/> I. CHATEAUBRIAND</head>
 

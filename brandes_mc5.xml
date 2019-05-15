@@ -66,7 +66,7 @@
         <lb/>
         <docImprint><publisher>New York: The Macmillan Company</publisher><publisher>London: William
           Heinemann</publisher><docDate>MCMVI</docDate></docImprint> 
-        <docImprint><pubPlace><pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint>
+        <!-- <docImprint><pubPlace><pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint> -->
       </titlePage>
       
       
@@ -139,7 +139,9 @@
       </div> -->
     
     <body>
-    
+
+<div><!-- her begynder hovedeksten -->
+
       <div>
         <head><pb n="[1]"/> THE ROMANTIC SCHOOL IN FRANCE</head>
         
@@ -725,7 +727,7 @@
           tragic, fruitless attempt of the Marquis de Nangis to save his brother from the scaffold
           forms the counterpart to the antics of the jester.« In the preface to <emph>Cromwell</emph>, when he is asserting the necessity of representing an action in the
           place where it actually happened, he writes: »Could the poet dare to have Rizzio murdered
-          anywhere but in Mary Stuart's chamber? ... or to behead Charles I. or Louis XVI. anywhere
+          anywhere but in Mary Stuart's chamber? […] or to behead Charles I. or Louis XVI. anywhere
           but on these sorrowful spots within sight of Whitehall and the Tuileries, which seem as if
           they had been chosen in order that the scaffold might contrast with the palace?« In spite
           of all his asseverations this poet does not really see natural environments with an
@@ -11506,11 +11508,9 @@
           literary school of the nineteenth century.</p>
 
 
-        <p>THE END</p>
-      </div>
-
-
-
+        <p rend="center">THE END</p>
+      </div><!-- slut sidste kapitel -->
+</div><!-- slut hovedtekst -->
     </body>
   </text>
 </TEI>

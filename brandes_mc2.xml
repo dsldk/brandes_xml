@@ -67,7 +67,7 @@
                 <lb/>
                 <docImprint><publisher>New York: The Macmillan Company</publisher><publisher>London: William
                     Heinemann</publisher><docDate>MCMVI</docDate></docImprint> 
-                <docImprint><pubPlace><pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint>
+                <!-- <docImprint><pubPlace><pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint> -->
             </titlePage>
             
         <!-- her følger: [v]: Contents -->
@@ -100,7 +100,7 @@
         </front>
         
         <body>
-            <div type="preface"><!-- start preface -->
+            <div><!-- favner hele teksten -->
                 
                 <head><pb n="[1]"/> THE ROMANTIC SCHOOL IN GERMANY</head>
                 <lb/>
@@ -564,9 +564,8 @@
                     obscurantists, the insane yells of the mystics, and the shouts of the
                     politicians for temporal and ecclesiastical despotism, while theology and
                     theosophy fall upon the sciences and suffocate them with their caresses.</p>
-            </div>   
-            
-            <div>
+           
+                <div>
                 <head type="add">1. The Pioneers of Romanticism</head>
                 <head><pb n="[17]"/> I. THE PIONEERS OF ROMANTICISM</head>
                 
@@ -10162,7 +10161,9 @@
                 <p>But though foreign influence, as this work sufficiently shows, is everywhere
                     traceable, the independent, national and Scandinavian characteristics of Danish
                     Romanticism are, nevertheless, unmistakable and strong.</p>
-            </div>
+            </div><!-- her slutter sidste kapitel -->
+            </div><!-- slut hovedtekst -->
+            
             <!-- <div>
                 <head>MAIN CURRENTS IN</head>
                 <head>NINETEENTH CENTURY LITERATURE</head>
