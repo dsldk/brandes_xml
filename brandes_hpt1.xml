@@ -70,8 +70,7 @@
             
 <!-- her har originalen bindets indholdsfortegnelse p. [III}-[IV] -->
             
-            <div type="preface">
-                
+            <div>
                 <head type="add">Vorwort des Herausgebers</head>
                 <head><pb ed="A" n="[V]" facs="xyz"/><!-- forberedt til facsimile-vining; skal muligvis ikke bruges; aftalt med TH, at vi p.t. lader dem står --> Vorwort des Herausgebers</head>
                 <p>Bücher haben ihre Schicksale. Auch das Werk, dessen ersten Band ich hier dem
@@ -589,7 +588,7 @@
                     Erörterungen zu vertauschen.</p>
                 <p rend="right"><emph>Adolf Strodtmann.</emph></p>
 
-            </div>
+            </div><!-- burde dette have været i body i stedet for front? -->
         </front>
         
         <body>
@@ -1047,7 +1046,7 @@
             
                 <div><!-- begynder del 1 -->
                     <head type="add">Die Emigrantenliteratur</head>
-                    <head><pb n="[23]" facs="130019387349_0064"/> Die Emigrantenliteratur.</head>
+                    <head><pb n="[23]" facs="130019387349_0064"/> Die Emigrantenliteratur.</head><!-- reelt et halvtitelblad, men indsættes her som overskrift til et kapitel uden overskrift -->
                 <pb/>
                     <p><pb n="[25]" facs="130019387349_0064"/> Die Franzosen waren es, welche am
                         Schlusse des achtzehnten Jahrhunderts die politischen Zustände und die
@@ -6688,7 +6687,7 @@
 
                         <p>Der Vorzug ist, daß Alles, jede geringste Eigenthümlichkeit, zu seinem
                             Rechte gelangt. Als er später seine meisterhaften, nie genug zu
-                            bewundernden Uebersetzungen Shakspeare’s und einiger Dramen Caldero11’s
+                            bewundernden Uebersetzungen Shakspeare’s und einiger Dramen Calderon’s
                             ausführt, wird es klar, welchen Fortschritt das Verständnis moderner
                             Poesie gemacht hat, seit Schiller in seiner Uebersetzung »Macbeth’s«
                             dies Stück nach antikisirenden Vorurtheilen zustutzte und alles

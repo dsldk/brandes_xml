@@ -65,7 +65,7 @@
         <lb/>
         <docImprint><publisher>New York: The Macmillan Company</publisher><publisher>London: William
           Heinemann</publisher><docDate>MCMVI</docDate></docImprint> 
-        <docImprint><pubPlace><pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint>
+        <!-- <docImprint><pubPlace><pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint> -->
       </titlePage>
 
 <!-- her følger [v]-[vi]: Contents + [vi]: List of portraits-->
@@ -167,7 +167,7 @@
     
     <body>
 
-      <div type="preface">
+      <div><!-- her begynder hovedteksten -->
         <head type="add">Introduction</head>
         <head><pb n="viii"/> INTRODUCTION</head>
 
@@ -184,9 +184,7 @@
           antagonistic to, each other. Though the connection between these authors and schools is
           not self-evident, but only discernible to the understanding, critical eye, yet the period
           has its unity, and the picture it presents, though a many-coloured, restless one, is a
-          coherent composition, the work of the great artist, history.</p>
-      </div>
-      
+          coherent composition, the work of the great artist, history.</p>      
       
       <div>
         <head><pb n="[1]"/> NATURALISM IN ENGLAND</head>
@@ -11802,7 +11800,7 @@
         <p>5th, Prayers and a funeral service are to be offered up in all the churches.</p>
         
 
-        <p>A. MAVROCORDATO.</p><!-- højrestilles --> 
+        <p rend="right">A. MAVROCORDATO.</p><!-- højrestilles --> 
           
         <p><emph>Given at Missolonghi</emph><lb/><emph>this</emph> 19<emph>th day of April</emph> 1824.</p></quote></cit>
 
@@ -11889,9 +11887,10 @@
 
         <p>It presaged better days for Europe.</p>
 
-        <p>THE END</p>
+        <p rend="center">THE END</p>
       
-      </div>
+      </div><!-- slut sidste kapitel -->
+      </div><!-- slut hovedtekst -->
     </body>
   </text>
 </TEI>

@@ -98,7 +98,8 @@
         <head>
           <pb n="[3]"/>REACTIONEN I FRANKRIG.</head>
       </div>
-      <div>
+   
+      <div><!-- her begynder hovedteksten -->
         <head type="add">Indledning</head>
         <pb n="[5]"/>
         <p>Et vist Indbegreb af Ideer og Værker, Personligheder, Handlinger, Følelser og Stemninger,
@@ -164,7 +165,7 @@
           til nedbrydende Bedrift og den sociale Følelse til samlende Constitution. <persName
             key="francois-voltaire">Voltaire</persName> var Indignationen, <persName
             key="jean-jacques-rousseau">Rousseau</persName> Begeistringen.</p>
-      </div>
+      
       <div>
         <head type="add">1. Revolutionen</head>
         <head>
@@ -7644,7 +7645,8 @@
             >Lamennais</persName> i Strid med de Magthavere, hvis Sag de med saa megen Iver tjente,
           og i Strid med det Autoritetsprincip, der havde behersket dem og Tiden. Saa falder da
           dette Princip for aldrig at reise sig mere.</p>
-      </div>
+      </div><!-- slut sidste kapitel -->
+      </div><!-- slut hovedtekst -->
     </body>
   </text>
 </TEI>

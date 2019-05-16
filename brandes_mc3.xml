@@ -66,7 +66,7 @@
                 <lb/>
                 <docImprint><publisher>New York: The Macmillan Company</publisher><publisher>London: William
                     Heinemann</publisher><docDate>MCMVI</docDate></docImprint> 
-                <docImprint><pubPlace><pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint>
+                <!-- <docImprint><pubPlace><pb n="[iv]" facs="xyz"/> Printed in England</pubPlace></docImprint> -->
             </titlePage>
             
             <epigraph>
@@ -160,7 +160,7 @@ MCMVI</p>
         
         
         <body>
-            <div type="preface">
+            <div><!-- her begynder hovedteksten -->
                 <head><pb n="[1]"/> THE REACTION IN FRANCE</head>
                 <lb/>
                 
@@ -270,7 +270,7 @@ MCMVI</p>
                     wills; the thought of the individual became destructive action, and the feeling
                     of mutual dependence, uniting organisation. From Voltaire came the wrath of the
                     revolutionists, from Rousseau their enthusiasm.</p>
-            </div>
+            
             
             <div>
                 <head type="add">1. The Revolution</head>
@@ -9648,7 +9648,7 @@ MCMVI</p>
                     radicalism–everything seemed combined in this one spirit. After the Revolution
                     had been suppressed, the press gagged, and science induced to submit, the son of
                     imagination, the outlawed poet, stepped into the breach,« and called all
-                    vigorous intellects to arms again against the common enemy.[5] The restored
+                    vigorous intellects to arms again against the common enemy.<hi rend="sup">*)</hi><note place="bottom">Gervinus. <emph>Geschichte des 19ten Jahrhunderts</emph>, viii. 172.</note> The restored
                     monarchy does not really survive him. The principle of authority has never had a
                     more inveterate opponent.</p>
 
@@ -9698,9 +9698,10 @@ MCMVI</p>
 
                 <p>And the principle falls, never to rise again.</p>
                 
-                <p>THE END</p>
+                <p rend="center">THE END</p>
 
-            </div>
+            </div><!-- slut sidste kapitel -->
+            </div><!-- slut hovedtekst -->
         </body>
     </text>
 </TEI>
