@@ -82,6 +82,7 @@
             </div>-->
             <!-- forekommer ikke i 1.-trykket -->
 
+<div><!-- her begynder hovedteksten -->
 
             <div>
                 <head type="add">1. Den politiske baggrund</head>
@@ -16753,7 +16754,8 @@
                 <lb/>
                 <p rend="center">Ende.</p>
 
-            </div>
+            </div><!-- her slutter sidste kapitel -->
+</div><!-- her slutter hovedteksten -->
         </body>
     </text>
 </TEI>

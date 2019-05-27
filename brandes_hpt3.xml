@@ -72,11 +72,12 @@
         
         <!-- [v]-[vi] indholder indholdsfortegnelse og tekstrettelser-->
             
+            <!-- 
             <titlePage>
                 <docTitle>
                     <titlePart><pb n="[vii]"/> Die Reaktion in Frankreich</titlePart>
                 </docTitle>
-            </titlePage>
+            </titlePage> -->
         
         </front>
         
@@ -121,7 +122,9 @@
                  -->
                 <body>
         
-            <div>
+            <div><!-- her begynder hovedteksten -->
+                <head><pb n="[vii]"/> Die Reaktion in Frankreich</head><!-- reelt et halvtitelblad, men det ser tosset ud i en digital visning at have det på en side for sig! -->
+                <pb/>
                 <head type="add">Einleitung</head>
                 <p><pb n="[1]" facs="130019387381_0012"/> Ein gewisser Inbegriff von Ideen und Werken,
                     Persönlichkeiten, Handlungen, Gefühlen und Stimmungen, welche zu Anfang des
@@ -188,7 +191,7 @@
                     der individuelle Gedanke wurde zur umstürzenden That und das sociale Gefühl zur
                     fammelnden Konstitution. Voltaire war die Entrüstung, Rousseau die
                     Begeisterung</p>
-            </div><!-- her slutter indledning -->
+            <!-- her slutter indledning -->
                 
                     <div>
                         <head type="add">1. Die Revolution</head>
@@ -7753,8 +7756,8 @@
                         Gervinus: Geschichte des neunzehnten Jahrhunderts. – Béranger: Oeuvres
                         complètes.</emph>]</p>
                     <!-- <p>Franz Drucker Bucher. in Berlin.</p> -->
-                </div>
-          
+                </div><!-- lukker sidste kapitel -->
+            </div><!-- lukker hovedteksten -->
         </body>
     </text>
 </TEI>
