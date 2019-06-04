@@ -169,7 +169,7 @@
       <div>
         <head type="add">1. Revolutionen</head>
         <head>
-          <pb n="[9]"/><ref target="n5613"/>I.</head>
+          <pb n="[9]"/> <ref target="n5613"/>I.</head>
         <epigraph>
           <cit>
             <quote>
@@ -3328,8 +3328,7 @@
       </div>
       <div>
         <head type="add">5. En pilgrim og hans serafiske epopé</head>
-        <head>
-          <pb n="163"/><ref target="n5617"/>V.</head>
+        <head><pb n="163"/> <ref target="n5617"/>V.</head>
         <p>Der fandtes i Frankrig under <ref target="n4290"/>Keiserdømmet ingen Poesi. <persName
             key="napoleon-1">Napoleon</persName> var Tidens eneste Digter. Rækken af hans Krige og
           Seirvindinger var een stor <ref target="n4291"/>Iliade, <ref target="n4292"/>Felttoget til
@@ -4269,8 +4268,7 @@
       </div>
       <div>
         <head type="add">6. En profetinde og hendes hellige værk</head>
-        <head>
-          <pb n="203"/>VI.</head>
+        <head><pb n="203"/> <ref target="n5618"/>VI.</head>
         <p>Af Restaurationstidens Personligheder er der en egen Klasse, som særligt skarpt betegner
           Perioden, det er de Omvendte. Denne Race maatte nødvendigvis forekomme temmelig talrig, da
           en saa anstrengt troende Tid fulgte paa en saa lidet troende. <persName
@@ -5050,8 +5048,7 @@
       </div>
       <div>
         <head type="add">7. Lyrik og erotik</head>
-        <head>
-          <pb n="241"/>VII.</head>
+        <head><pb n="241"/> <ref target="n5619"/>VII.</head>
         <p>Da de 100 Dage vare forbi og <persName key="ludvig-18-louis-18">Ludvig d. 18de</persName>
           for anden Gang vendt tilbage, udbredte en forunderlig blandet og vemodig Stemning sig over
           Frankrig. Restaurationen frembød et dobbelt Physiognomi, det var Gjenoprettelsen af et
@@ -5834,8 +5831,7 @@
       </div>
       <div>
         <head type="add">8. Det formelle autoritetsprincips opløsning</head>
-        <head>
-          <pb n="274"/>VIII.</head>
+        <head><pb n="274"/> <ref target="n5620"/>VIII.</head>
         <p>Det er da ogsaa under disse Ideers ugunstige Auspicier, at den Digter, der skulde blive
           Frankrigs største i dette Aarhundrede, først vandt sig et Navn. Tidsaandens Magt tvinger
           ham bort fra den voldsomme, næsten om de førshakspearske Digtere mindende Maneer i hans
@@ -6411,7 +6407,7 @@
       </div>
       <div>
         <head type="add">9. Det reelle autoritetsprincips opløsning</head>
-        <head>IX.</head>
+        <head><ref target="n5621"/> IX.</head>
         <p>En mørk og taaget Dag for omtrent <app>
             <lem wit="rett.bl.2">20</lem>
             <rdg wit="A">30 <note>(ændret ordlyd pga. omarbejdelse i B og senere udgaver)</note>

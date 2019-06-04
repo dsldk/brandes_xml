@@ -89,14 +89,14 @@
     <body>
       <div type="half-title">
         <head type="add">Den romantiske skole i Frankrig</head>
-        <head><pb n="[3]"/>Den romantiske Skole i Frankrig</head>
+        <head><pb n="[3]"/> Den romantiske Skole i Frankrig</head>
       </div>
 
       <div>
         <!-- her begynder hovedteksten -->
         <div>
           <head type="add">1. Den politiske baggrund</head>
-          <head><pb n="[5]"/><ref target="n5422"/>I.</head>
+          <head><pb n="[5]"/> <ref target="n5422"/>I.</head>
 
           <p>I Aarene 1824-48 frembringes i Frankrig en stor og beundringsværdig Literatur. Efter
               <ref target="n1596"/>Revolutionens Omvæltninger, <ref target="n1597"/>Keiserdømmets
@@ -6097,7 +6097,7 @@
         </div>
         <div>
           <head type="add">16. Balzac (5)</head>
-          <head><pb n="265"/><ref target="n5438"/>XVI.</head>
+          <head><pb n="265"/> <ref target="n5438"/>XVI.</head>
 
           <p>En Dag i 1836 traadte <persName key="honore-de-balzac">Balzac</persName> i den høieste
             Oprømthed ind hos sin Søster, svang med en Tambourmajors Armbevægelser sin tykke Stok
@@ -7118,7 +7118,7 @@
         </div>
         <div>
           <head type="add">19. Beyle (2)</head>
-          <head><pb n="309"/><ref target="n5441"/>XIX.</head>
+          <head><pb n="309"/> <ref target="n5441"/>XIX.</head>
 
           <p><persName key="henri-beyle-stendhal">Henri Beyle</persName> er uden Tvivl en af de mest
             sammensatte Aander i hin rige Periode. Det Grundtræk, som skarpest skiller ham fra hans
@@ -8953,7 +8953,7 @@
         </div>
         <div>
           <head type="add">24. Mérimée (3)</head>
-          <head><pb n="388"/><ref target="n5446"/>XXIV.</head>
+          <head><pb n="388"/> <ref target="n5446"/>XXIV.</head>
 
           <p>Da <persName key="prosper-merimee">Mérimée</persName> som Digter <ref target="n4131"
             />debuterede i spansk Forklædning, var man i den klassiske dramatiske Litteratur kommet
