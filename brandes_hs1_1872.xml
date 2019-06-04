@@ -566,8 +566,7 @@
                 
             <div><!-- kap. 1 -->
                     <head type="add">1. Le génie du christianisme</head>
-                    <head>I.<ref target="n523"/>
-                    </head>
+                    <head><ref target="n523"/>I.</head>
           <!-- NB skal være head type="sub" -->
                     <p>Lad os tage et enkelt af de reactionære Hovedværker til Exempel. Hvad det 18de
             Aarhundrede havde villet tillivs var med eet Ord Middelalderen. For det var
@@ -806,8 +805,7 @@
                 </div>
                 <div>
                     <head type="add">2. Werther</head>
-                    <head>II.<ref target="n524"/>
-                    </head>
+                  <head><ref target="n524"/>II.</head>
                     <p>»<bibl n="rousseau-julie-ou-la-nouvelle-heloise">La nouvelle Héloïse</bibl>« udkom
             1761. 13 Aar efter forfattede i et andet Land, i meget forskjellige Omgivelser, et ungt
             Geni, som Intet havde tilfælles med <persName key="jean-jacques-rousseau">Rousseau</persName>, paavirket af hans Roman og hans Ideer, en lille Bog, som besad
@@ -973,8 +971,7 @@
                 </div>
                 <div>
                     <head type="add">3. Alceste</head>
-                    <head>III.<ref target="n525"/>
-                    </head>
+                  <head><ref target="n525"/>III.</head>
                     <p>Paa dette Tidspunkt er det, at Melancholien og Misanthropien begynder at blive et
             poetisk Element, men for at forklare hvad jeg hermed mener, maa jeg gaae noget tilbage i
             Poesiens Hi<pb n="59"/>storie. Litteraturen har ganske vist skildret Misanthroper før.
@@ -1096,8 +1093,7 @@
                 </div>
                 <div>
                     <head type="add">4. René</head>
-                    <head>IV.<ref target="n527"/>
-                    </head>
+                  <head><ref target="n527"/>IV.</head>
                     <p>Vil man forstaae denne Aarhundredets Sygdom, maa man først lægge Mærke til, at dette i
             den store Mand, der kan betegnes som Aarhundredets Storhed, og i hvem det fra først af
             incarnerer sig, <persName key="napoleon-1">Bonaparte</persName> nemlig, ligesom
@@ -1277,8 +1273,7 @@
                 </div>
                 <div>
                     <head type="add">5. Den nye sjælstilstand</head>
-                    <head>V.<ref target="n528"/>
-                    </head>
+                  <head><ref target="n528"/>V.</head>
                     <p>Som der i Legemverdenen til visse Tider opstaaer hidtil ukjendte Sygdomme, saaledes
             ogsaa i det aandelige Liv. Hvad jeg søger at skildre Dem er den Aandstilstand, paa een
             Gang kraftig og usund, det eiendommelige Opsving og den eiendommelige Sjælesygdom, som
@@ -1324,8 +1319,7 @@
                 </div>
                 <div>
                     <head type="add">6. Obermann</head>
-                    <head>VI.<ref target="n529"/>
-                    </head>
+                  <head><ref target="n529"/>VI.</head>
                     <p>I den skarpeste Modsætning til den selv under Fortvivlelsen og Livsleden saa stolte og
             bydende <persName type="fictional" key="rene">René</persName>, staaer den næste
             mindeværdige Variation af Tidsalderens Type, <emph>
@@ -1588,8 +1582,7 @@
                 </div>
                 <div>
                     <head type="add">7. Adolphe</head>
-                    <head>VII.<ref target="n530"/>
-                    </head>
+                  <head><ref target="n530"/>VII.</head>
                     <p>Den, der i Litteraturens Historie bevæger sig fra en Variation af et vist Tidsrums Type
             til en anden, bærer sig ad som Naturforskeren, der forfølger en og samme Grundforms
             Omdannelse, f. Ex Armens til Been, til Pote, til Vinge, til Luf gjennem forskjellige
@@ -1910,8 +1903,7 @@
                 </div>
                 <div>
                     <head type="add">8. Constant</head>
-                    <head>VIII.<ref target="n531"/>
-                    </head>
+                  <head><ref target="n531"/>VIII.</head>
                     <p>Vi vende da tilbage til »<bibl n="constant-de-rebecque-adolphe">Adolphe</bibl>«, og for
             bedre at forstaae den kaste vi et Blik paa denne Bogs Forfatter. <persName key="benjamin-constant-de-rebecque">Constant</persName> fødtes 1767 i <placeName key="lausanne">Lausanne</placeName>. Han <pb n="109"/> var fra Barndommen af aldeles
             ualmindeligt udrustet. Naar man i »<bibl n="constant-de-rebecque-adolphe">Adolphe</bibl>« maaskee ikke ganske forstaaer den overordentlige Tiltrækning, Helten
@@ -2072,8 +2064,7 @@
                 <div>
                     <head type="add">9. Goethes kvindefigurer</head>
                     <head>
-                        <pb n="117"/> IX.<ref target="n532"/>
-                    </head>
+                      <pb n="117"/> <ref target="n532"/>IX.</head>
                     <p>
                         <persName key="benjamin-constant-de-rebecque">Benjamin Constant</persName> har ikke i
             Frankrig undgaaet Beskyldningen for Germanisme. Født i Schweitz tilbragte han sin Ungdom
@@ -2192,9 +2183,9 @@
             vil høres, som var Seir og Frelse for alle Tider vundet for dem Begge. Ifald De vil
             analysere hendes Følelse, finder <app>
                             <lem>De</lem>
-                            <rdg wit="A">de <note>ændret pga. omarbejdelse i B og senere udgaver</note>
-                            </rdg>
-                        </app> i den en ny og ganske eiendommelig Blanding, en Begeistring som næsten er
+              <rdg wit="A">de</rdg>
+              <rdg>ændret pga. omarbejdelse i B og senere udgaver</rdg>
+            </app> i den en ny og ganske eiendommelig Blanding, en Begeistring som næsten er
             fanatisk, thi den skal i hvert Øieblik kunne dræbe den altid paany frembrydende,
             tilbageskuende Jalousi, en Tro, der næsten er krampagtig, fordi den ikke er grundet paa
             den sunde naturlige Tillid, men paa Villien til at troe trods Alt, trods det, allerede
@@ -2242,8 +2233,7 @@
                 </div>
                 <div>
                     <head type="add">10. Adolphe</head>
-                    <head>X.<ref target="n533"/>
-                    </head>
+                  <head><ref target="n533"/>X.</head>
                     <p>Tilbage staaer kun at gjøre Rede for Finheden af den psychologiske Analyse i »<bibl n="constant-de-rebecque-adolphe">Adolphe</bibl>« og at vise til hvilket Resultat den
             fører. »<bibl n="constant-de-rebecque-adolphe">Adolphe</bibl>«<!-- sat uden anførselstegn i A --> begynder, hvad der ikke kan undre,
             naar man kjender <persName key="benjamin-constant-de-rebecque">Constant’s</persName>
@@ -2359,8 +2349,7 @@
                 </div>
                 <div>
                     <head type="add">11. Mme de Staël</head>
-                    <head>XI.<ref target="n534"/>
-                    </head>
+                  <head><ref target="n534"/>XI.</head>
                     <p>
                         <persName key="george-gordon-byron">Byron</persName> siger om »<bibl n="constant-de-rebecque-adolphe">Adolphe</bibl>«<!-- sat uden anførselstegn i A --> i
             sine Memoirer: <ref target="n152"/>»Jeg sender Dem hermed »<bibl n="constant-de-rebecque-adolphe">Adolphe</bibl>«, den indeholder mørke Sandheder, men
@@ -2417,8 +2406,8 @@
             kalder dette alle hendes Evner i Vaaben. <ref target="n1347"/>Samme Aar som <persName key="napoleon-1">Napoleon</persName> afslutter <ref target="n158"/>Concordatet med
             Paven<!-- lemma slut --> og gjengiver Geistligheden dens gamle <app>
                             <lem>Indflydelse</lem>
-                            <rdg wit="A">Indflydelse</rdg>
-                        </app>Inflydelse, udgiver hun, den protestantiske Forfatterinde, »<bibl n="stael-holstein-madame-de-stael-delphine">Delphine</bibl>«<!-- lemma slut -->, der
+                            <rdg wit="A">Inflydelse</rdg>
+                        </app>, udgiver hun, den protestantiske Forfatterinde, »<bibl n="stael-holstein-madame-de-stael-delphine">Delphine</bibl>«<!-- lemma slut -->, der
             blev opfattet som det mest umoralske og skjændige Indlæg for Berettigelsen af
             Skilsmisse. I »<bibl n="stael-holstein-madame-de-stael-corinne-ou-litalie">Corinna</bibl>« endelig, som udkom paa en Tid, da det var Forfatterinden umuligt at
             faae endog blot en Bladartikel trykt paa fransk Grund, see vi det kvindelige Geni i fuld
@@ -2699,7 +2688,7 @@
                 </div>
                 <div>
                     <head type="add">12. Coppet og Ferney</head>
-                    <head>XII.<ref target="n535"/>
+                  <head><ref target="n535"/>XII.
                     </head>
                     <p>
                         <persName key="anne-louise-germaine-madame-de-stael-holstein">Mme de Staël</persName>
@@ -3014,8 +3003,7 @@
                 </div>
                 <div>
                     <head type="add">13. Italiens poesi</head>
-                    <head>XIII.<ref target="n536"/>
-                    </head>
+                  <head><ref target="n536"/>XIII.</head>
                     <p>
                         <persName key="anne-louise-germaine-madame-de-stael-holstein">Mme de Staël</persName>
             begynder sin Forfattervirksomhed med en Række enthousiastiske <bibl n="stael-holstein-madame-de-stael-lettres-sur-les-ouvrages-de-j-j-rousseau">Breve over
@@ -3145,8 +3133,7 @@
                 </div>
                 <div>
                     <head type="add">14. Ny betragtning af antikken</head>
-                    <head>XIV.<ref target="n537"/>
-                    </head>
+                  <head><ref target="n537"/>XIV.</head>
                     <p>
                         <placeName key="rom">Rom</placeName> er det eneste Sted paa Jordkloden, paa hvilket
             Verdenshistorien fremtræder ligesom synligt, idet de paa hinanden følgende Epocher have
@@ -3575,8 +3562,7 @@
                 </div>
                 <div>
                     <head type="add">15. Corinna</head>
-                    <head>XV.<ref target="n538"/>
-                    </head>
+                  <head><ref target="n538"/>XV.</head>
                     <p>
                         <persName key="anne-louise-germaine-madame-de-stael-holstein">Mme de Staëls</persName>
             Forfattervirksomhed kan bestandig sees fra to Sider. Den falder ligesom i to Dele, en
@@ -3735,8 +3721,7 @@
                 </div>
                 <div>
                     <head type="add">16. Kamp mod nationalfordomme</head>
-                    <head>XVI.<ref target="n539"/>
-                    </head>
+                  <head><ref target="n539"/>XVI.</head>
                     <p>Man kunde kalde »<bibl n="stael-holstein-madame-de-stael-corinne-ou-litalie">Corinna</bibl>«<!-- sat uden anførselstegn i A --> et Digt om Nationalfordomme.
               <persName type="fictional" key="oswald-lord-nelvil">Oswald</persName> repræsenterer
             alle Englands, <persName type="fictional" key="greven-af-erfeuil">Greven af
@@ -4156,8 +4141,7 @@
                 </div>
                 <div>
                     <head type="add">17. Sympati for religionen</head>
-                    <head>XVII.<ref target="n540"/>
-                    </head>
+                  <head><ref target="n540"/>XVII.</head>
                     <p>Det er da bestandig Katholicismens Parti, som <persName type="fictional" key="corinna">Corinna</persName>, den kunstelskende Digterinde, tager overfor den protestantiske
               <persName type="fictional" key="oswald-lord-nelvil">Oswald</persName>. Katholicismen
             lister sig ind i Hjerterne ad mange Veie. Den er saa snedig, at den Ingen støder bort,
@@ -4178,8 +4162,8 @@
             mod Munkelivets Askese.</p>
                     <p>Denne <app>
                             <lem>Velvillie</lem>
-                            <rdg wit="A">Velville <note>ændret pga. omarbejdelse i B og senere udgaver</note>
-                            </rdg>
+                            <rdg wit="A">Velville</rdg> 
+                             <rdg>ændret pga. omarbejdelse i B og senere udgaver</rdg>
                         </app> mod Religionen var i Frankrig noget Nyt. Den skrev sig ogsaa fra Tydskland af. De
             protestantiske Lande havde ingen Grund havt til den Overdrivelse, hvormed man i Frankrig
             angreb Religion og Kirke.<note place="bottom">
@@ -4332,8 +4316,7 @@
             
                 <div>
                     <head type="add">1. Antik renæssance og romantisk reaktion (1)</head>
-                    <head>I.<ref target="n541"/>
-                    </head>
+                  <head><ref target="n541"/>I.</head>
                     <p>Man kan fra den ene Side betegne den tydsk-romantiske Skole som en Art katholsk
             Renaissance, fra en anden Side er den forholdsvis frisindet. Men som katholsk
             Renaissance staaer den i den skarpeste Modsætning til Renaissancen af det Antike. Den
@@ -4395,8 +4378,7 @@
                 </div>
                 <div>
                     <head type="add">2. Antik renæssance og romantisk reaktion (2)</head>
-                    <head>II.<ref target="n542"/>
-                    </head>
+                  <head><ref target="n542"/>II.</head>
                     <p>Men som det var at vente: den saa yderlig gaaende og i Virkeligheden for en moderne
             Germaner saa lidet naturlige Tilbøielighed til at være antik og klassisk, der gik saa
             vidt, at man endog indkaldte <persName key="jean-racine">Racine</persName> og <persName key="francois-voltaire">Voltaire</persName> for at holde Styr paa <persName key="august-von-kotzebue">Kotzebue</persName> og <persName key="august-wilhelm-iffland">Iffland</persName>, fremkaldte en heftig Reaction.
@@ -4744,8 +4726,7 @@
                 </div>
                 <div>
                     <head type="add">3. Tyskland og Hindustan</head>
-                    <head>III.<ref target="n543"/>
-                    </head>
+                  <head><ref target="n543"/>III.</head>
                     <p>Det var intet Under, at der kom et Øieblik i Tydsklands Historie, da man med Liv og
             Sjæl begyndte at omfatte og tilegne sig det gamle Indiens Aand og Cultur. Thi dette
             store, dunkle, drømmerige og tankerige Tydskland er i Virkeligheden det moderne Indien,
