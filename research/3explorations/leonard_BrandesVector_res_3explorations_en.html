@@ -29,17 +29,17 @@
                 semantics to space:</p>
             <ol>
 
-                <li>We created a "word embedding model"
-                    [https://en.wikipedia.org/wiki/Word_embedding] that represents the relationships
-                    between Brandes' words in a much lower-dimensional space -- in this case, 200
-                    dimensions -- than the original text, which contains nearly 11,000 individual
-                    words.</li>
+                <li>We created a "word embedding model" <a
+                        href="https://en.wikipedia.org/wiki/Word_embedding/" target="_blank">
+                        (Wikipedia)</a> that represents the relationships between Brandes' words in
+                    a much lower-dimensional space -- in this case, 200 dimensions -- than the
+                    original text, which contains nearly 11,000 individual words.</li>
                 <li>Although this in itself is a massive reduction in complexity, we need to further
                     map these 200 dimensions down to the two dimensions of a computer screen in
-                    order to display it. We accomplish this using t-SNE
-                    [https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding], a
-                    dimensionality reduction algorithm that attempts preserve local relationships as
-                    well as the global shape. </li>
+                    order to display it. We accomplish this using t-SNE <a
+                        href="https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding/"
+                        target="_blank"> (Wikipedia)</a>, a dimensionality reduction algorithm that
+                    attempts preserve local relationships as well as the global shape. </li>
                 <li>Finally, we create an artificial digital landscape of the resulting semantic
                     space using WebGL, a programming language similar to those used for advanced
                     computer games.</li>
@@ -54,22 +54,24 @@
 
             </ul>
 
-            <p>... pressing the "Søg" [= Search] button to jump to the word's location in the digital
-                map.</p>
+            <p>... pressing the "Søg" [= Search] button to jump to the word's location in the
+                digital map.</p>
             <p>Although the map appears three-dimensional, in all honesty we need to admit the
                 height is purely to aid in creating a sense of space. In the future, these mountains
                 and valleys could represent the word's transformations over time, its rarity, or
                 other aspects of its use.</p>
 
             <p>Software:</p>
-            <p>WordVectors R wrapper for word2vec by Ben Schmidt (Assistant professor of history at
-                Northeastern University and core faculty in the NuLab for Texts, Maps, and
-                Networks): <a href="https://github.com/bmschmidt/wordVectors/" target="_blank">
-                    https://github.com/bmschmidt/wordVectors</a></p>
-            <p>Word-to-Viz visualization library by Doug Duhaime (Digital Humanities Developer, Yale
-                DHLab). Code forthcoming: <a href="https://douglasduhaime.com/" target="_blank">
-                    https://douglasduhaime.com/</a>
-            </p>
+            <ul style="list-style-type:none;">
+                <li><b>WordVectors</b> R wrapper for word2vec by Ben Schmidt (Assistant professor of
+                    history at Northeastern University and core faculty in the NuLab for Texts,
+                    Maps, and Networks): <a href="https://github.com/bmschmidt/wordVectors/"
+                        target="_blank"> https://github.com/bmschmidt/wordVectors</a></li>
+                <li><b>Word-to-Viz</b> visualization library by Doug Duhaime (Digital Humanities Developer,
+                    Yale DHLab). Code forthcoming: <a href="https://douglasduhaime.com/"
+                        target="_blank"> https://douglasduhaime.com/</a>
+                </li>
+            </ul>
             <p>Technical parameters:</p>
             <ul style="list-style-type:none;">
                 <li>Vectors: 200</li>
