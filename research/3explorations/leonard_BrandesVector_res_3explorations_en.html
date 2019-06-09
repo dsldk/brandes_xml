@@ -1,0 +1,95 @@
+<div>
+    <div class="background-box">
+        <div class="container">
+            <div class="col">
+                <h3>Brandes Vectors</h3>
+                <p>contributor: <span class="author">Peter Leonard</span></p>
+                <p>This is an interactive visualization of the semantic space in all six volumes of
+                    Brandes' <em>Main Currents in 19th Century Literature</em>.</p>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <aside class="col-md-4">
+            <h4>Contributor</h4>
+            <p>Peter Leonard, Digital Humanities Lab, Yale University Libraries</p>
+            <h4>Title</h4>
+            <p>Brandes Vectors</p>
+            <h4>Link</h4>
+            <p>http://dh.library.yale.edu/projects/brandesvectors/</p>
+            <h4>Last edited</h4>
+            <p>10-06-19</p>
+        </aside>
+
+        <div class="col-md-8">
+            <p> The browser can be accessed <a
+                    href="http://dh.library.yale.edu/projects/brandesvectors/" target="_blank">
+                    here</a>. </p>
+            <p>The digital landscape is a result of several abstractions that attempt to map
+                semantics to space:</p>
+            <ol>
+
+                <li>We created a "word embedding model"
+                    [https://en.wikipedia.org/wiki/Word_embedding] that represents the relationships
+                    between Brandes' words in a much lower-dimensional space -- in this case, 200
+                    dimensions -- than the original text, which contains nearly 11,000 individual
+                    words.</li>
+                <li>Although this in itself is a massive reduction in complexity, we need to further
+                    map these 200 dimensions down to the two dimensions of a computer screen in
+                    order to display it. We accomplish this using t-SNE
+                    [https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding], a
+                    dimensionality reduction algorithm that attempts preserve local relationships as
+                    well as the global shape. </li>
+                <li>Finally, we create an artificial digital landscape of the resulting semantic
+                    space using WebGL, a programming language similar to those used for advanced
+                    computer games.</li>
+            </ol>
+            <p>In the resulting visualization, you can search for particular terms to locate them on
+                the digital map. Try words such as:</p>
+            <ul style="list-style-type:none;">
+                <li>hegel</li>
+                <li>frankrig</li>
+                <li>jakobinerne</li>
+                <li>reaktionær</li>
+
+            </ul>
+
+            <p>... pressing the "Søg" [= Search] button to jump to the word's location in the digital
+                map.</p>
+            <p>Although the map appears three-dimensional, in all honesty we need to admit the
+                height is purely to aid in creating a sense of space. In the future, these mountains
+                and valleys could represent the word's transformations over time, its rarity, or
+                other aspects of its use.</p>
+
+            <p>Software:</p>
+            <p>WordVectors R wrapper for word2vec by Ben Schmidt (Assistant professor of history at
+                Northeastern University and core faculty in the NuLab for Texts, Maps, and
+                Networks): <a href="https://github.com/bmschmidt/wordVectors/" target="_blank">
+                    https://github.com/bmschmidt/wordVectors</a></p>
+            <p>Word-to-Viz visualization library by Doug Duhaime (Digital Humanities Developer, Yale
+                DHLab). Code forthcoming: <a href="https://douglasduhaime.com/" target="_blank">
+                    https://douglasduhaime.com/</a>
+            </p>
+            <p>Technical parameters:</p>
+            <ul style="list-style-type:none;">
+                <li>Vectors: 200</li>
+                <li>Window: 30</li>
+                <li>Iterations: 30</li>
+
+
+            </ul>
+
+            <p>Further reading on Word Vectors / Word Embedding:</p>
+            <ul style="list-style-type:none;">
+                <li>Ben Schmidt: <a
+                        href="http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html/"
+                        target="_blank">
+                        http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html/</a>
+                </li>
+                <li>Ryan Heuser: <a href="http://ryanheuser.org/word-vectors/" target="_blank">
+                        http://ryanheuser.org/word-vectors/</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
