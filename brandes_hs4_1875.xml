@@ -2777,8 +2777,8 @@
                         ung, deilig Sanger og Helt, i Følge med sig, hvem Slottets Frue viser det
                         hjerteligste Venskab og hvem Pagen snart omfatter med Skinsygens hele Had.
                         Ude af sig selv angiver han de to Unge, men hans Herre svarer ham roligt, at
-                        Camao lever og netop i dette Øieblik synger til <persName type="fictional">Estrellas</persName> Ære. Da beslutter han i blodgjerrigt og skinsygt
-                        Raseri at hævne sig og dræber Fuglen; <persName type="fictional">Vasco</persName> ihjelslaaer sin Hustru – og fra nu af flakker
+                        Camao lever og netop i dette Øieblik synger til <persName type="fictional" key="hartmann-camao-estrella">Estrellas</persName> Ære. Da beslutter han i blodgjerrigt og skinsygt
+                        Raseri at hævne sig og dræber Fuglen; <persName type="fictional" key="hartmann-camao-don-vasco">Vasco</persName> ihjelslaaer sin Hustru – og fra nu af flakker
                         Forbryderen rastløs og afsindig uden nogensteds at kunne finde Sjælero om
                         fra Land til Land.</p>
                     <p> »<bibl n="hartmann-der-camao">Der Camao</bibl>« kan ikke med Hensyn til Sprogbehandlingens
@@ -2791,7 +2791,7 @@
                         menneskelig Handling, udført af et virkeligt <pb n="123"/> menneskeligt
                         Motiv; her er Straffen over Drabsmanden ikke nogen Grille, men en retfærdig
                         og naturlig Consequents af hans Ugjerning; her er den Ulykke, Fuglens Drab
-                        bringer over <persName type="fictional">Vasco’s</persName> Hustru og ham
+                        bringer over <persName type="fictional" key="hartmann-camao-don-vasco">Vasco’s</persName> Hustru og ham
                         selv, ved en virkelig Aarsagsforbindelse knyttet dertil, medens Sømændenes
                         Undergang i Kraft af Ugjæstfriheden mod Albatrossen tager sig ud som en Art
                         Vanvid; her viser endelig Forskjellen sig klart mellem en sand poetisk
@@ -3339,16 +3339,16 @@
                         allerspecielleste Forsyn. Skal han forlade sin Pleiefaders Hus saa skeer der
                         intet Ringere end at en Flok syriske Græshopper, forfulgte af en Fugleskare,
                         sendes hen over Huset, en af Fuglene taber ud af sit Næb en Græshoppe, der
-                        falder ned for <persName type="fictional">Thalabas</persName> Fødder, og paa
+                        falder ned for <persName type="fictional" key="southey-thalaba-thalaba">Thalabas</persName> Fødder, og paa
                         dens Pande staaer med fine Skrifttegn at læse: <ref target="n3114"/>»Naar Solen
-                        bliver formørket ved Dag, da reis, Du Søn af <persName type="fictional">Hodeirah</persName>!«<!-- lemma slut --> (3die Sang, Strophe 32). Men
+                        bliver formørket ved Dag, da reis, Du Søn af <persName type="fictional" key="southey-thalaba-hodeirah">Hodeirah</persName>!«<!-- lemma slut --> (3die Sang, Strophe 32). Men
                         paa samme Tid som Digteren bruger et saa eventyrligt Maskineri kan han
                         ligesom i »<bibl n="southey-joan-of-arc">Joan of Arc</bibl>« ikke lade være at sikre sin Læser mod
                         Stedets og Tidens vildfarende religiøse Meninger. Alle hans Hovedpersoner
                         ere <pb n="146"/> Rationalister overfor deres østerlandske Religion og
                         mangle saa lidt som muligt i at være gode Protestanter. Da Græshopperne
-                        komme, siger <persName type="fictional">Thalabas</persName> Pleiefader
-                            <persName type="fictional">Moath</persName>: <ref target="n3117"/>»Troer du
+                        komme, siger <persName type="fictional" key="southey-thalaba-thalaba">Thalabas</persName> Pleiefader
+                        <persName type="fictional" key="southey-thalaba-moath">Moath</persName>: <ref target="n3117"/>»Troer du
                         mon, at det er en Skaal Vand, som med Præste-Mummespil er bleven sat op paa
                         en eller anden syrisk Moskee, der har ledet dem hid fra det fjerne Khorasan?
                         Nei Allah ene, som bestemte hin Slægt til Menneskets Straf og Plage
@@ -3356,20 +3356,20 @@
                         med mere Kritik. Og saaledes gjennemgaaende. <persName key="robert-southey">Southey</persName>
                         opdynger phantastiske Motiver, for saa, naar han selv bliver kjed deraf
                         eller synes, at Læseren kan trænge til en Lære, selv at slaae dem sønder og
-                        sammen med en eller anden evangelisk Text. <persName type="fictional">Thalaba</persName> har paa sin Finger en Talisman, som beskytter ham
-                        mod de onde Aander. Derfor gaaer alle den onde Aand <persName type="fictional">Lobabas</persName> Bestræbelser ud paa at franarre ham
+                        sammen med en eller anden evangelisk Text. <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName> har paa sin Finger en Talisman, som beskytter ham
+                        mod de onde Aander. Derfor gaaer alle den onde Aand <persName type="fictional" key="southey-thalaba-lobaba">Lobabas</persName> Bestræbelser ud paa at franarre ham
                         Ringen. Engang forsøger han f. Ex. at drage den af hans Finger, medens han
                         sover. Men en eller anden af de gode Genier udsender en Vespe, der stikker
-                            <persName type="fictional">Thalaba</persName> i Fingeren lige over
+                        <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName> i Fingeren lige over
                         Ringen, saa det bliver umuligt at drage den over det opsvulmede Sted. Paa
                         lignende Maade krydses bestandig hans Planer. Endelig lykkes det den
-                        frygtelige Troldmand <persName type="fictional">Mohareb</persName> at
+                        frygtelige Troldmand <persName type="fictional" key="southey-thalaba-mohareb">Mohareb</persName> at
                         besnakke Ynglingen. Efterat Troldmanden mere end een Gang er bleven
                         overvundet af ham, haaner han ham, fordi han ei ved aaben Kamp, men kun ved <pb n="147"/> en Talisman har kunnet beseire sin Fjende, og driver dette
-                        saa klogt og saa vidt, at <persName type="fictional">Thalaba</persName>
+                        saa klogt og saa vidt, at <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName>
                         kaster Ringen i en Afgrund. Saa gaaer Kampen løs paany. Man venter, at han
                         nu vil maatte bøie Knæ, værgeløs som han staaer der mod overnaturlig Magt.
-                        Men nei! <persName type="fictional">Thalaba</persName> seirer ligefuldt.
+                        Men nei! <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName> seirer ligefuldt.
                         Hvorledes og <app>
                             <lem wit="SS Fu 1923-24">hvorfor</lem>
                             <rdg wit="A B">Hvorfor</rdg>
@@ -3388,9 +3388,9 @@
                         pragtfulde Vine i gyldne Kar, Vine, rosenrøde <ref target="n3119"/>»som
                         Morgengryet«<!-- lemma slut --> og safranfarvede <ref target="n3120"/>»som
                         Aftentaagerne«<!-- lemma slut -->, og andre som Rubin og Ambra. Hvad nytter
-                        al denne fristende Herlighed? <persName type="fictional">Thalaba</persName>
+                        al denne fristende Herlighed? <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName>
                         er altfor god en Muselmand til at lade sig forføre. <ref target="n3121"/>»Men
-                            <persName type="fictional">Thalaba</persName> tog ikke Drikken. For han
+                        <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName> tog ikke Drikken. For han
                         vidste vel, at Propheten havde forbudt <pb n="148"/> denne Drik, Syndernes
                         Moder. Og heller ikke trængte Gjæsterne mere ind paa ham for at paanøde ham
                         den flydende Ild, thi i Ynglingens Øie læste de en uforanderlig
@@ -3402,12 +3402,12 @@
                         (6te Sang, Str. 24.) Saa fyldes Scenen af Figurantinderne. <ref target="n3125"/>»Da ordnede en Trop af Kvinder sig til Dands. Deres Ankler vare ombundne
                         med Bracelet-Klokker, hvis Melodier ringede i Takt. Gjennemsigtige Gevandter
                         viste det graadige Øie deres ukydske Lemmer, som de med Færdighed vred i
-                        enhver uhøvisk Stilling.«<!-- lemma slut --> Man ængste sig ikke, <persName type="fictional">Thalaba</persName> er en ivrig Modstander af det
+                        enhver uhøvisk Stilling.«<!-- lemma slut --> Man ængste sig ikke, <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName> er en ivrig Modstander af det
                         arabiske Polygami og vor unge reisende Englænder væbner sig med Tanken om
-                        sin Forlovede i Hjemmet. <ref target="n3126"/>»<persName type="fictional">Thalaba</persName> stirrede, men i sit Hjerte bar han en Talisman, hvis
+                        sin Forlovede i Hjemmet. <ref target="n3126"/>»<persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName> stirrede, men i sit Hjerte bar han en Talisman, hvis
                         velsignede Alchymi forvandlede den urene Scenes løse Indtryk til dydige
-                        Tanker. <persName type="fictional">Oneizas</persName> Billede svømmede for
-                        hans Øie, hans egen arabiske Piges Billed.«<!-- lemma slut --> – <persName type="fictional">Thalaba</persName><!-- if. SS s. 355 er der ikke tale om værket --> fødes i
+                        Tanker. <persName type="fictional" key="southey-thalaba-oneiza">Oneizas</persName> Billede svømmede for
+                        hans Øie, hans egen arabiske Piges Billed.«<!-- lemma slut --> – <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName><!-- if. SS s. 355 er der ikke tale om værket --> fødes i
                         England næsten samtidigt med at <persName type="fictional" key="aladdin">Aladdin</persName><!-- if. SS s. 355 er der ikke tale om værket -->
                         skabes i Danmark.
                         (»<bibl n="southey-the-curse-of-kehama">Kehama</bibl>«<!-- if. SS s. 355 er der tale om værket = kursiv -->
@@ -3419,7 +3419,7 @@
                         ikke i Sammenligning med sin danske Broder! – Han naaer Maalet, han bliver
                         gift med <ref target="n3127"/>»sin egen arabiske Pige«<!-- lemma slut -->. For
                         at det Hele kan være tilgavns asketisk og religiøst, døer hans Brud <pb n="149"/> samme Nat. For at Alt paany kan faae et østerlandsk Sving,
-                        tvinges <persName type="fictional">Thalaba</persName> af det arabiske Fatum
+                        tvinges <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName> af det arabiske Fatum
                         til at dræbe en ung uskyldig Pige ved Navn <persName type="fictional">Laila</persName>. For at endelig Alt kan ende tilgavns evangelisk,
                         slutter han med i en pathetisk Sørgetale at tilgive den Troldmand, der er
                         Skyld i alle hans Ulykker, den samme, hvem han hele sit Liv igjennem har
@@ -3428,12 +3428,12 @@
                             <lem wit="SS Fu 1923-1924">Thalaba</lem>
                             <rdg wit="A B">Thabala</rdg>
                         </app>. Det Onde, Du har gjort mig og mine, medfører selv dets egen bitreste
-                        Straf.«<!-- lemma slut --> O <persName type="fictional">Thalaba</persName>!
+                        Straf.«<!-- lemma slut --> O <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName>!
                         du taler som en Bog, men som en af de Bøger, man lukker. Lad os lukke den og
                         kaste et Afskedsblik paa dens Forfatter. <ref target="n3129"/>Selv
                             <persName key="william-makepeace-thackeray">Thackeray</persName>, der overroser
                             <persName key="robert-southey">Southey</persName> som Charakter, maa om hans Hovedværk
-                        tilstaae, at det vel turde være muligt at i Kampen mellem <persName type="fictional">Thalaba</persName><!-- ikke værket if. SS, s. 355 -->
+                        tilstaae, at det vel turde være muligt at i Kampen mellem <persName type="fictional" key="southey-thalaba-thalaba">Thalaba</persName><!-- ikke værket if. SS, s. 355 -->
                         og Tiden er det den sidste »Ødelægger«, der har beholdt
                         Valpladsen<!-- lemma slut -->. Jeg gad vide hvor mange nulevende
                         Engelskmænd, der have læst dette Digt. For Efterslægten er og bliver
@@ -3839,14 +3839,14 @@
                         direkte danner Overgangen til de Byronske Helte, ligesom det hele Værk er
                         skrevet i de lette og flydende, men noget enstonige firfodede Jamber, som
                             <persName key="george-gordon-byron">Byron</persName> i sine poetiske Fortællinger hyppigst har
-                        benyttet. <persName type="fictional">Marmion</persName> er en stolt og
+                        benyttet. <persName type="fictional" key="scott-marmion-marmion">Marmion</persName> er en stolt og
                         uforfærdet Ridder, men af en forbryderisk Natur. Han har bortført en ung,
                         deilig Nonne, <persName type="fictional">Constanze af Beverley</persName>,
                         der følger ham overalt i Mandsdragt som hans Page; men hurtigt kjed af hende
                         vil han med Magt tiltvinge sig en anden ung Adelsdames Haand, skjøndt han
                         veed, at denne elsker en Anden. Drevet af skinsyg Fortvivlelse gjør
                             <persName type="fictional">Constanze</persName> et Attentat paa
-                            <persName type="fictional">Marmions</persName> Liv; og med kold
+                        <persName type="fictional" key="scott-marmion-marmion">Marmions</persName> Liv; og med kold
                         Grusomhed overgiver han hende som undvegen Nonne til Klosterets Straf. <pb n="168"/> Abbedissen dømmer hende, og i en romantisk Rædselsscene af den
                         Art, <persName key="george-gordon-byron">Byron</persName> pleier at ynde, men tillige at udmale med
                         langt ringere Skaansel for Læserens Nerver, bliver hun levende indmuret i en
@@ -3864,8 +3864,8 @@
                         hvor <persName type="fictional" key="lara">Lara’s</persName> Fortid pludselig
                         forekastes ham med Foragt. Klinger det ikke næsten allerede Byronsk:</p>
                     <p> »<!-- tilføjet »« -->
-                        <ref target="n3168"/><persName type="fictional">Marmion</persName>, hvis Hjerte og hvis Blik
-                        altid forbleve lige faste i de værste Farer, <persName type="fictional">Marmion</persName>, hvis Sjæl ikke selv fra hans Konge taalte et
+                        <ref target="n3168"/><persName type="fictional" key="scott-marmion-marmion">Marmion</persName>, hvis Hjerte og hvis Blik
+                        altid forbleve lige faste i de værste Farer, <persName type="fictional" key="scott-marmion-marmion">Marmion</persName>, hvis Sjæl ikke selv fra hans Konge taalte et
                         overmodigt Blik, hvis Commandostemme i Leiren klang befalende til den
                         tapreste af de tapre, følte nu baade Tanken og Mælet svigte; han slog sit
                         Øie ned og en Rødme foer over hans Pande. Saa mægtigt blev hans Samvittighed ramt.«<!-- lemma slut --><hi rend="sup">*)</hi><note place="bottom">»<bibl n="scott-marmion">Marmion</bibl>« <app>
@@ -3898,12 +3898,12 @@
                         »<bibl n="byron-the-giaour-a-fragment-of-a-turkish-tale">Giauren</bibl>«, hvor Aanden, der ruger over Jammer og Skyld,
                         sammenlignes med den af Flammer omgivne Skorpion, der fortvivlet vender sin
                         Giftbraad mod sin egen Hjerne<!-- lemma slut -->.</p>
-                    <p> Og som der er nogen Lighed mellem <persName type="fictional">Marmions</persName> og <persName type="fictional" key="lara">Laras</persName>
+                    <p> Og som der er nogen Lighed mellem <persName type="fictional" key="scott-marmion-marmion">Marmions</persName> og <persName type="fictional" key="lara">Laras</persName>
                         Situation og Charakter, saaledes døe de ogsaa paa samme Maade, ramte i aaben
                         Kamp, ubøiede i Døden, ugudelige indtil Livets sidste Øieblik.</p>
                     <p> Men hermed er ogsaa Ligheden ude; den er netop stor nok til at gjøre
                             <persName key="george-gordon-byron">Byrons</persName> Eiendommelighed klar. For
-                            <persName key="sir-walter-scott">Scott</persName> er <persName type="fictional">Marmions</persName> Personlighed ikke Hovedsagen, han benytter den kun
+                        <persName key="sir-walter-scott">Scott</persName> er <persName type="fictional" key="scott-marmion-marmion">Marmions</persName> Personlighed ikke Hovedsagen, han benytter den kun
                         til om den at gruppere Skikkelser og Situationer af sit Fædrelands Fortid;
                         han behøver Heltens Laster for at faae sin simple Handling i Gang; men de
                         interessere ham ikke i og for sig og han frem<pb n="170"/>stiller dem
@@ -3912,10 +3912,10 @@
                         vække Interesse for dem. Allerede deres Aasyn fremkalder Opmærksomhed og
                         Deltagelse hos Enhver, der seer dem, og bibringer Forestillingen om
                         Stolthed, Skyld, Had og Trods; de slaae intet Øieblik i deres Liv som
-                            <persName type="fictional">Marmion</persName> Øinene ned for en
+                        <persName type="fictional" key="scott-marmion-marmion">Marmion</persName> Øinene ned for en
                         Anklager; de leve som hin Sagnets Skorpion: trindt om Flammer og forinden
                         Død. Uden at finde Trøst i Himlen eller paa Jorden trækker deres Hjerte sig
-                        sammen i Stolthed og i Kval, indtil det ophører at banke. Var <persName type="fictional">Marmion</persName> end en haardhjertet og selvkjærlig
+                        sammen i Stolthed og i Kval, indtil det ophører at banke. Var <persName type="fictional" key="scott-marmion-marmion">Marmion</persName> end en haardhjertet og selvkjærlig
                         Ridder, saa er <ref target="n3172"/>hans sidste Tanke og sidste Ord dog
                         »England«<!-- lemma slut -->, han er knyttet til et større Hele end sit eget
                         egoistiske Liv. Anderledes <persName key="george-gordon-byron">Byrons</persName> tidligste Helte: de
@@ -4530,17 +4530,17 @@
                     <p> I <persName key="john-keats">Keats’s</persName> beundringsværdige Fragment
                         »<bibl n="keats-hyperion">Hyperion</bibl>« forekommer der en Scene, hvor hele den styrtede
                         Gudeæt ligger overvunden i en dyb Klippehule under Jorden. Man er ved at
-                        holde Raad, og Titanernes Gud, den gamle <persName type="fictional">Saturn</persName>, slutter sin modløse Tale: <ref target="n3350"/>»Her ere
+                        holde Raad, og Titanernes Gud, den gamle <persName type="fictional" key="keats-hyperion-saturn">Saturn</persName>, slutter sin modløse Tale: <ref target="n3350"/>»Her ere
                         I, overvældede, sparkede og slagne. O Titaner, skal jeg sige: Reiser Eder! –
                         I stønne. – Skal jeg sige: Bøier Eder! – I stønne. Hvad kan jeg da? O vide
                         Himmel! O Du min aldrig sete kjære Fader! Hvad kan <pb n="197"/> jeg? […]
                         Siger mig det, alle I Broderguder, hvorledes vi kunne føre Krig og styre vor
-                        Harme […]«<!-- lemma slut --> Da reiser først <persName type="fictional">Oceanus</persName> sig, Havets grundende og tankefulde Gud, og ryster
+                        Harme […]«<!-- lemma slut --> Da reiser først <persName type="fictional" key="keats-hyperion-oceanus">Oceanus</persName> sig, Havets grundende og tankefulde Gud, og ryster
                         sine nu tørre Lokker og begynder med den mumlende Røst, som hans Tunge fra
                         først af opfangede fra Skummets Skvulp mod Sandet og byder de af Lidenskaber
                         Stungne at søge Ro og Trøst i den Tanke, at de falde ved Naturens Lov, ikke
-                        ved Tordenens eller <persName type="fictional">Jupiters</persName> Kraft.
-                            <ref target="n3351"/>»Store <persName type="fictional">Saturn</persName>! du
+                        ved Tordenens eller <persName type="fictional" key="keats-hyperion-jove">Jupiters</persName> Kraft.
+                        <ref target="n3351"/>»Store <persName type="fictional" key="keats-hyperion-saturn">Saturn</persName>! du
                         har styret Atom-Universet godt, men Kongemagten har blændet dit eget Øie,
                         saa at een Vei til Sandhed har været dunkel for dig, ad hvilken jeg har
                         vandret til evig Klarhed. Vid først, at som du ei var den første af
@@ -4573,8 +4573,8 @@
                         Skummet, draget af ædle vingede Skabninger, han har frembragt? Jeg saae ham
                         glide hen over de beroligede Vande med saadan en Glød af Skjønhed i sit Øie,
                         at det <pb n="199"/> bragte mig til at byde mit hele Rige et tungt Farvel
-                        […]«<!-- lemma slut --> Saaledes taler <persName type="fictional">Oceanus</persName>. Og da de faldne Guder, enten overbeviste eller
-                        harmfulde tie, bryder een, paa hvem Ingen tænkte, en Gudinde: <persName type="fictional">Clymene</persName>, den lange Taushed, og med hektiske
+                        […]«<!-- lemma slut --> Saaledes taler <persName type="fictional" key="keats-hyperion-oceanus">Oceanus</persName>. Og da de faldne Guder, enten overbeviste eller
+                        harmfulde tie, bryder een, paa hvem Ingen tænkte, en Gudinde: <persName type="fictional" key="keats-hyperion-clymene">Clymene</persName>, den lange Taushed, og med hektiske
                         Læber og milde Blik taler hun saaledes frygtsomt blandt de Stolte: <ref target="n3352"/>»O Fader jeg er her den ringeste Stemme og al min Kundskab
                         er den, at Glæden er forsvunden og at Kval har sneget sig ind i vore Hjerter
                         for, frygter jeg, at blive der for evigt. Jeg vilde ugjerne varsle ilde […]
@@ -4599,8 +4599,8 @@
                         Glæde og Sorg paa een Gang. Dog Sorgen overvældede mig og jeg holdt mig for
                         mine beruste Øren, da der gjennem mine skjælvende Hænders Lukke trængte en
                         Røst sødere, sødere end alle Melodier, og utallige Stemmer raabte :
-                            »<persName type="fictional">Apollo</persName>, ung <persName type="fictional">Apollo</persName>! morgenlyse <persName type="fictional">Apollo</persName>! hil dig, ung <persName type="fictional">Apollo</persName>!«<!-- lemma slut --> Jeg flyede, det
-                        fulgte mig og raabte »<persName type="fictional">Apollo</persName>!««<!-- tilføjet slut.cit. --> –</p>
+                        »<persName type="fictional" key="keats-hyperion-apollo">Apollo</persName>, ung <persName type="fictional" key="keats-hyperion-apollo">Apollo</persName>! morgenlyse <persName type="fictional" key="keats-hyperion-apollo">Apollo</persName>! hil dig, ung <persName type="fictional" key="keats-hyperion-apollo">Apollo</persName>!«<!-- lemma slut --> Jeg flyede, det
+                        fulgte mig og raabte »<persName type="fictional" key="keats-hyperion-apollo">Apollo</persName>!««<!-- tilføjet slut.cit. --> –</p>
                     <p>
                         <persName key="john-keats">Keats</persName> har aldrig skrevet noget saa smukt som dette
                         Sted, og det er ligesaa tankedybt som deiligt. Jeg stiller det ikke i
@@ -4618,10 +4618,10 @@
                         digteriske Genius til at forlade sit Rige, sikker paa ei at kunne bestaae i
                         Væddekampen? Og løde ikke <persName key="percy-bysshe-shelley">Shelleys</persName> Melodier saa sødt
                         berusende og uhørt dristigt gjennem Luften, at de endnu den Dag idag trænge
-                        igjennem overalt, skjøndt man med <persName type="fictional">Clymene</persName> holder for sine Øren og saa længe som muligt vægrer
+                        igjennem overalt, skjøndt man med <persName type="fictional" key="keats-hyperion-clymene">Clymene</persName> holder for sine Øren og saa længe som muligt vægrer
                         sig ved at laane de nye Toner villigt Øre? Det nytter ikke Noget, thi fra
-                        alle Sider høre vi nu Raabene: <persName type="fictional">Apollo</persName>!
-                        morgenlyse <persName type="fictional">Apollo</persName><!-- lidt tricky mht. opmærkning; der er jo ikke tale om Keats' figur, men om en slags citat/genbrug -->!
+                        alle Sider høre vi nu Raabene: <persName type="fictional" key="keats-hyperion-apollo">Apollo</persName>!
+                        morgenlyse <persName type="fictional" key="keats-hyperion-apollo">Apollo</persName><!-- lidt tricky mht. opmærkning; der er jo ikke tale om Keats' figur, men om en slags citat/genbrug -->!
                         –</p>
                     <p> De gamle Guder indtoge som i Digtet en forskjellig Holdning.
                             <persName key="sir-walter-scott">Scott</persName>, den ædleste af dem alle, <ref target="n3354"/>strøg, som vi have seet, Flag<!-- lemma slut --> for
