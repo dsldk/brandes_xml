@@ -169,7 +169,7 @@
       <div>
         <head type="add">1. Revolutionen</head>
         <head>
-          <pb n="[9]"/><ref target="n5613"/>I.</head>
+          <pb n="[9]"/> <ref target="n5613"/>I.</head>
         <epigraph>
           <cit>
             <quote>
@@ -1641,7 +1641,7 @@
           han: »<!-- cita start indsat -->Er Protestantismen Frankrigs gamle Religion? Hvorledes kan
           man i et Folk skabe Vaner, Smagsretninger, Erindringer, som det ikke har. En Religions
           Hovedtiltrækning (le principal charme d’une <pb n="81"/> religion) ligger i Erindringen.
-          Jeg hører aldrig i <placeName key="château-de-malmaison">Malmaison</placeName>
+          Jeg hører aldrig i <placeName key="chateau-de-malmaison">Malmaison</placeName>
           Kirkeklokken i den nærmeste Landsby uden at blive bevæget. Og hvem kunde i Frankrig føle
           sig rørt i en protestantisk Kirke, hvorhen Ingen er gaaet som Barn, og hvis kolde og
           strenge Udseende saa lidet passer til Folkets Sæder.«<!-- cit slut indsat -->
@@ -2244,7 +2244,7 @@
             ligesom <persName key="louis-vicomte-de-bonald">Bonald</persName> tager den bekjendte
               <persName key="karl-ludwig-von-haller">Haller</persName> sit Udgangspunkt i Angreb paa
               »<bibl n="rousseau-le-contrat-social">Le contrat social</bibl>« i sin »<bibl
-              n="haller-restauration-der-staats-wissenschaft-oder-theorie-des-natürlich-geselligen-zustands-vol-1-6"
+              n="haller-restauration-der-staats-wissenschaft-oder-theorie-des-natuerlich-geselligen-zustands-vol-1-6"
               >Restauration der Staatswissenschaft</bibl>«.</note>
         </p>
         <p>Man bekjæmper dernæst <persName key="jean-jacques-rousseau">Rousseau</persName> paa det
@@ -2274,7 +2274,7 @@
           Philosophien kun bleve betragtede som Hanner og Hunner, betragtede da Børnene kun som
           deres Unger.«<hi rend="sup">*)</hi><note place="bottom">
             <persName key="louis-vicomte-de-bonald">Bonald</persName>: <bibl
-              n="Du divorce, considéré au xix siècle relativement à l'état domestique et à l'état public de société"
+              n="Du divorce, considere au xix siecle relativement a l'etat domestique et a l'etat public de societe"
               >»Du divorce, considéré au 19me siècle relativement à l’état domestique et à l’état
               public de société</bibl>«<!-- cit start og slut indsat -->. Udg. af 1817 S. 29 og
             31.</note> Og hvorfor er saa <persName key="louis-vicomte-de-bonald">Bonald</persName>
@@ -2307,7 +2307,7 @@
             key="guillaume-prosper-de-barante">Barante</persName>, der lige ved det nye Aarhundredes
           Begyndelse første Gang byder hin Tidsalder Spidsen i et litterærhistorisk Skrift, <pb
             n="113"/> siger herimod slaaende: <ref target="n3780"/>»Naar <persName type="fictional"
-            key="chimène">Chimène</persName> siger til <persName type="fictional" key="rodrigue"
+            key="chimene">Chimène</persName> siger til <persName type="fictional" key="rodrigue"
             >Rodrigue</persName>: Gaa, jeg hader Dig ikke, saa er det klart, at hvis man underkaster
           disse Ord en kold Analyse, er det det Samme, som om hun sagde: Gaa, jeg elsker Dig, og dog
           vilde hun, ifald hun sagde disse sidste Ord, være en ganske anden Charakter, vilde glemme
@@ -3328,8 +3328,7 @@
       </div>
       <div>
         <head type="add">5. En pilgrim og hans serafiske epopé</head>
-        <head>
-          <pb n="163"/><ref target="n5617"/>V.</head>
+        <head><pb n="163"/> <ref target="n5617"/>V.</head>
         <p>Der fandtes i Frankrig under <ref target="n4290"/>Keiserdømmet ingen Poesi. <persName
             key="napoleon-1">Napoleon</persName> var Tidens eneste Digter. Rækken af hans Krige og
           Seirvindinger var een stor <ref target="n4291"/>Iliade, <ref target="n4292"/>Felttoget til
@@ -3372,7 +3371,7 @@
             >Stænderne i Blois</bibl>«, der var bleven spilt i <placeName key="saint-cloud"
             >Saint-Cloud</placeName>, blev ved udtrykkelig Ordre fra <persName>Keiseren</persName>
           selv forbudt i <placeName key="paris">Paris</placeName>. Kanonerne alene havde Ordet. Den
-          Kanon, der plantet foran <ref target="n4307"/><placeName key="hôtel-des-invalides"
+          Kanon, der plantet foran <ref target="n4307"/><placeName key="hotel-des-invalides"
             >Invalidehotellet</placeName> bestandig forkyndte Seir paa Seir, overdøvede alle andre
           Røster. Og alle ungdommeligt begeistrede Hjerter, alle de ildfulde Sjæle, der til andre
             <pb n="165"/> Tider vilde have givet sig Luft i Poesi, alle de, der følte hedest for
@@ -3613,10 +3612,10 @@
           allerede forlængst stillet mig selv i de Overtroiskes og Svages Rækker. Jeg vil maaskee
           blive den sidste Franskmand, der er draget ud fra mit Land til det hellige Land med en
           middelalderlig Pilgrims Ideer, Formaal og Følelser. Men har jeg end ikke de Dyder, som
-          fordum glimrede hos Herrerne til <placeName key="château-de-coucy">Coucy</placeName>,
-            <placeName key="château-de-nesles">Nesles</placeName>, <placeName
-            key="château-de-châtillon">Chastillon</placeName> og <placeName
-            key="château-de-montfort">Montfort</placeName>, saa har jeg idetmindste Troen tilbage,
+          fordum glimrede hos Herrerne til <placeName key="chateau-de-coucy">Coucy</placeName>,
+            <placeName key="chateau-de-nesles">Nesles</placeName>, <placeName
+            key="chateau-de-chatillon">Chastillon</placeName> og <placeName
+            key="chateau-de-montfort">Montfort</placeName>, saa har jeg idetmindste Troen tilbage,
           og paa dette Mærke vilde endda de gamle Korsfarere kjende mig som en af deres egne.«</p>
         <p>Er det nu allerede et stærkt Stykke af en rent moderne Aand som <persName
             key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> at tillægge sig
@@ -3680,7 +3679,7 @@
             n="homer-odysseen">Odysseen</bibl>«<!-- cit start og slut indsat -->. Ligesaa lidt som
           nogen virkelig Digter nutildags kunde falde paa at efterligne »<bibl n="vedaerne"
             >Vedahymnerne</bibl>«<!-- cit start og slut indsat -->, »<bibl n="salmernes-bog">Davids
-            Psalmer</bibl>«<!-- cit start og slut indsat --> eller »<bibl n="völuspá"
+            Psalmer</bibl>«<!-- cit start og slut indsat --> eller »<bibl n="voeluspa"
           >Völuspà</bibl>«<!-- cit start og slut indsat -->, lige saa lidt forsøger Nogen nutildags
           at rivalisere med de uforgjængelige Værker, hvori i Tidernes Morgen et Folk barnligt har
           ladet sin hele Gude- og Sagnlære glide Tilhøreren forbi, som Grækerne have gjort det i
@@ -3698,7 +3697,7 @@
           skrevne i den nyere Tid, jeg nævner som Exempel <persName key="johann-wolfgang-goethe"
             >Goethes</persName> »<bibl n="goethe-hermann-und-dorothea">Hermann og Dorothea</bibl>«,
           eller i vore Dage <persName key="hamerling">Hamerlings</persName> »<bibl
-            n="der-könig-von-sion">Der König von Zion</bibl>«, have ganske opgivet det episke
+            n="der-koenig-von-sion">Der König von Zion</bibl>«, have ganske opgivet det episke
           Apparat. Men dette var ingenlunde <persName key="francois-rene-vicomte-de-chateaubriand"
             >Chateaubriands</persName> Hensigt. Tvertimod! Det gjaldt jo netop om at <pb n="179"/>
           fordoble det, om at lade det christelige Apparat straale i dets Overlegenhed over det
@@ -3707,7 +3706,7 @@
           Mester han end er i denne Kunstart, aner man allerede, hvorledes han vil famle efter en
           Stil.</p>
         <p>Alle mulige Paavirkninger krydse hos ham hverandre: <persName key="homer"
-            >Homer</persName> og »<bibl n="johannes'-åbenbaring">Johannes’
+            >Homer</persName> og »<bibl n="johannes-aabenbaring">Johannes’
           Aabenbaring</bibl>«<!-- cit start og slut indsat -->, <persName key="dante-alighieri"
             >Dante</persName> og <persName key="john-milton">Milton</persName>, Kirkefædrene og
             <persName key="sveton-suetonius">Suetonius</persName>. Handlingen foregaaer paa
@@ -3913,7 +3912,7 @@
             <placeName key="olympos">Olympen</placeName> eller Gudernes Gjenbesøg i den christne
           Himmel, høre til det Fortrinligste, noget komisk Digt kan opvise, hvorvel Behandlingen
           ikke svarer til den grandiose Titel, men er zirlig og fløielsagtig i det 18de Aarhundredes
-          Poesies eller nærmere i <ref target="n4396"/><persName key="jan-brueghel-den-ældre"
+          Poesies eller nærmere i <ref target="n4396"/><persName key="jan-brueghel-den-aeldre"
             >Fløiels-Breughels</persName> Maneer. Og dog betvivler jeg, at det er lykkedes selv
             <persName key="evariste-desire-de-parny">Parny’s</persName> Kaadhed at gjøre den
           orthodoxe Himmel saa komisk som <persName key="francois-rene-vicomte-de-chateaubriand"
@@ -4159,8 +4158,8 @@
           poetiske Overlegenhed over den blot poetiske. Overalt hvor han forsøger derpaa, blotter
           eller dømmer han sig selv. Jeg skal endnu nævne eet, men et afgjørende Exempel.</p>
         <p>Da hans Helt <persName type="fictional" key="eudorus">Eudorus</persName> seiler igjennem
-            <placeName>Megaras</placeName> Golf med <placeName key="ægina">Ægina</placeName> foran
-          sig, <placeName key="piræus">Piræus</placeName> paa høire, <placeName key="korinth"
+            <placeName>Megaras</placeName> Golf med <placeName key="aegina">Ægina</placeName> foran
+          sig, <placeName key="piraeus">Piræus</placeName> paa høire, <placeName key="korinth"
             >Corinth</placeName> paa venstre Haand, og seer alle disse Byer, der tilforn vare saa
           blomstrende, nu ligge hen i Ruiner, fælder en Græker, der er ombord paa Skibet, Taarer ved
           Erindringen om sit Fædrelands fordums Storhed, og det skildres smukt, hvorledes den
@@ -4189,7 +4188,7 @@
         <p>
           <pb n="200"/> Kaste vi da et Blik tilbage over denne dristige Digtning, dette forvovne
           Forsøg paa at tvinge det 19de Aarhundredes litterære Smag tilbage til »<bibl
-            n="johannes'-åbenbaring">Johannes’ Aabenbarings</bibl>«<!-- cit start og slut indsat -->
+            n="johannes-aabenbaring">Johannes’ Aabenbarings</bibl>«<!-- cit start og slut indsat -->
           og <persName key="dante-alighieri">Dantes</persName> Standpunkt, saa lader det sig ikke
           negte, at dette Forsøg paa at feire »Religionens Triumph« er mislykkedes. Hvad der duer
           deraf, det er netop de rent menneskelige Partier, af hvilke vi i det Følgende ville
@@ -4269,8 +4268,7 @@
       </div>
       <div>
         <head type="add">6. En profetinde og hendes hellige værk</head>
-        <head>
-          <pb n="203"/>VI.</head>
+        <head><pb n="203"/> <ref target="n5618"/>VI.</head>
         <p>Af Restaurationstidens Personligheder er der en egen Klasse, som særligt skarpt betegner
           Perioden, det er de Omvendte. Denne Race maatte nødvendigvis forekomme temmelig talrig, da
           en saa anstrengt troende Tid fulgte paa en saa lidet troende. <persName
@@ -4325,7 +4323,7 @@
             key="joseph-2">Joseph den 2dens</persName> Hof i <placeName key="wien">Wien</placeName>
           begiver Parret sig til <placeName key="venezia">Venedig</placeName>, derfra hele Italien
           rundt, da <persName key="burchard-alexis-constantin-krudener">Hr. de Krüdener</persName>
-          bliver kaldet som russisk Gesandt til <placeName key="københavn">Kjøbenhavn</placeName>.
+          bliver kaldet som russisk Gesandt til <placeName key="koebenhavn">Kjøbenhavn</placeName>.
           Strax efter Brylluppet var en ung og begavet Mand <persName
             key="burchard-alexis-constantin-krudener">Alexander Stakiew</persName>, hendes Mands
           Privatsecretair, bleven lidenskabelig forelsket i hende, men saa stor var hans Beundring
@@ -4344,7 +4342,7 @@
           sørgede over at være, hvad man senere har kaldt uforstaaet, men hvad hun kaldte ufølt.
             <persName key="burchard-alexis-constantin-krudener">Stakiew’s</persName> Lidenskab var
           faret hende forbi som et Ildpust og havde ligesom optøet den ydre Kulde, der bandt hendes
-          Sensibilitet. Den maatte have et Afløb og neppe ankommen til <placeName key="københavn"
+          Sensibilitet. Den maatte have et Afløb og neppe ankommen til <placeName key="koebenhavn"
             >Kjøbenhavn</placeName>, der som Opholdssted forekom hende at være det skrækkeligste af
           alle – man erindrer, at dette foregaaer for 100 Aar siden –, kastede hun sig ind i en
           Vrimmel af selskabelige, tidsspildende og aandsfortærende Fornøielser, hvormed det
@@ -4362,7 +4360,7 @@
             key="maximilien-de-robespierre">St. Pierre</persName> og Naturen, men har samtidigt hos
           sin Modehandlerinde en Regning paa 20000 francs. I Sydfrankrig forelsker en ung Officier
           sig i hende, og efter nogen Tids Kamp gjengjælder hun, nu mindre uerfaren end i <placeName
-            key="københavn">Kjøbenhavn</placeName>, hans Kjærlighed. Under den første
+            key="koebenhavn">Kjøbenhavn</placeName>, hans Kjærlighed. Under den første
           Revolutionstids Forfølgelser fører <persName key="marquis-de-fregeville">Hr. de
             Frègeville</persName> (det var Officierens Navn) hende ud af Frankrig forklædt som
           hendes Kudsk. Før hun gjenseer sin Mand, meddeler hun ham, at det ægteskabelige Baand
@@ -4549,7 +4547,7 @@
           Kritikens Klokker klemtede. Som en dygtig General manglede hun ikke selv paa Valpladsen;
           hun kjørte fra det ene Modemagazin til det andet for incognito at forlange snart Skjærf,
           snart Hatte, snart Fjær, snart Guirlander, snart Baand à la <persName type="fictional"
-            key="valérie">Valérie</persName>. Da nu Kræmmerne saae denne fremmede, endnu smukke og
+            key="valerie">Valérie</persName>. Da nu Kræmmerne saae denne fremmede, endnu smukke og
           meget elegante Dame komme kjørende i sin Vogn for med en saadan Sikkerhed at forlange de
           Phantasigjenstande, hun opfandt, gjorde de deres Yderste for at komme paa det Rene med
           hvad det var hun ønskede og tilfredsstille hende. Naar de unge Piger i Magasinerne bleve
@@ -4560,7 +4558,7 @@
           >Valérie</bibl>«<!-- cit start og slut indsat -->, at hun snart havde gjort dem til ivrige
           Proselyter af sin Bog. Med sine Indkjøb kjørte hun saa til en ny Boutik og opnaaede derved
           i faa Dage en saa rasende Concurrence mellem Kjøbmændene med Hensyn til Sager à la
-            <persName type="fictional" key="valérie">Valérie</persName>, at hendes Veninder, naar de
+            <persName type="fictional" key="valerie">Valérie</persName>, at hendes Veninder, naar de
           paa hendes Angivelser begave sig hen til de Handlende og spurgte om disse Varer, bleve
           uskyldige Medskyldige i hendes Kunstgreb og ikke kunde Andet end afgive deres Vidnesbyrd
           for hendes Triumph.</p>
@@ -4736,7 +4734,7 @@
           sagde han, jeg gaaer med Evangeliet i Haanden og kjender kun det.« Og hans Veninde skriver
           om ham: »<persName key="aleksander-1">Alexander</persName> er Guds Udvalgte. Han vandrer
           ad Forsagelsens Veie.« Man maatte sikkert tye til Udtryk hentede fra »<bibl
-            n="johannes'-åbenbaring">Johannes’ Aabenbaring</bibl>«<!-- cit start og slut indsat -->
+            n="johannes-aabenbaring">Johannes’ Aabenbaring</bibl>«<!-- cit start og slut indsat -->
           for at <pb n="226"/> betegne, hvad hun egentlig saa i ham: Noget som en Opretter af det
           tusindaarige Rige, en Fredens Engel med Magtens flammende Sværd, Lysets blonde Fyrste
           eller lignende, medens <persName key="napoleon-1">Napoleon</persName> for hende som for
@@ -4795,7 +4793,7 @@
           naar man paa den anden Side har noget Begreb om Revolutionen og hvad den var, saa synes
           det En ikke sandsynligt, at alle hine apokalyptiske Reminiscentser og hellige Principer,
           formulerede af den Kvindehaand, der 11 Aar før kjøbte Skjærfene og Hattene à la <persName
-            type="fictional" key="valérie">Valérie</persName>, og af den samme Pen, der forfattede
+            type="fictional" key="valerie">Valérie</persName>, og af den samme Pen, der forfattede
           Elegien til <persName type="fictional" key="sidonie">Sidonie</persName>, i Længden skulde
           have Kraft til at modstaae Revolutionens fornyede Dønninger. Thi man maa ikke troe, at
           Revolutionen er forbi. <pb n="229"/> Vi ere og leve endnu midt i den. Hvor tre ere
@@ -5050,8 +5048,7 @@
       </div>
       <div>
         <head type="add">7. Lyrik og erotik</head>
-        <head>
-          <pb n="241"/>VII.</head>
+        <head><pb n="241"/> <ref target="n5619"/>VII.</head>
         <p>Da de 100 Dage vare forbi og <persName key="ludvig-18-louis-18">Ludvig d. 18de</persName>
           for anden Gang vendt tilbage, udbredte en forunderlig blandet og vemodig Stemning sig over
           Frankrig. Restaurationen frembød et dobbelt Physiognomi, det var Gjenoprettelsen af et
@@ -5069,7 +5066,7 @@
         <p>Man havde Lov dertil, men havde man Lyst? Nei, Lysten var ringe. Frankrigs Stemning var
             <pb n="242"/> Stemningen efter en langvarig Sygdom eller efter et tabt Slag. Ikke at man
           længtes efter Seire. I Slutningen af <persName key="napoleon-1">Napoleons</persName>
-          Regjering havde allerede Kanonen foran <placeName key="hôtel-des-invalides"
+          Regjering havde allerede Kanonen foran <placeName key="hotel-des-invalides"
             >Invalidehotellet</placeName> ikke mere vakt noget Echo i Hjerterne. Man sagde til
           hinanden: Ak, det er kun en Seir! Nei, man længtes efter Fred, som den Aareladte og
           Udtømte længes efter Hvile. Man glædede sig, som naar en Choleraepidemi, der har hærjet en
@@ -5134,7 +5131,7 @@
             key="louis-vicomte-de-bonald">Bonald</persName>. I sin »<bibl n="lamartine-raphael"
             >Raphael</bibl>« fortæller han selv, hvorledes han kom til at gjøre <persName
             key="louis-vicomte-de-bonald">Bonalds</persName> Bekjendtskab. I hin Tid, da han i
-            <placeName key="chambéry">Chambéry</placeName> ved <placeName key="alperne"
+            <placeName key="chambery">Chambéry</placeName> ved <placeName key="alperne"
             >Alpernes</placeName> Fod tilbad den unge skjønne <persName key="julie-charles"
             >Creolerinde</persName>, som han i sine Digte har forherliget under Navnet <persName
             type="fictional" key="elvira">Elvire</persName>, opfordret til at skrive en Ode til
@@ -5180,7 +5177,7 @@
           udprægede Reaction i Europa. Da dette Blad gaaer ind, bliver han tilligemed <persName
             key="felicite-de-lamennais">Lamennais</persName> og <persName
             key="louis-vicomte-de-bonald">Bonald</persName> Stifter af det nye ensartede Organ <pb
-            n="247"/> »<bibl n="le-défenseur">Le défenseur</bibl>«, der gaaer ud paa at bekjæmpe
+            n="247"/> »<bibl n="le-defenseur">Le défenseur</bibl>«, der gaaer ud paa at bekjæmpe
           Constitutionalismen. Det falder i hans Lod at skulle opfordre <persName
             key="joseph-de-maistre">De Maistre</persName> til at give Bidrag. Det er høist
           interessant at see, i hvilken Tone den nu dog 30aarige <persName
@@ -5321,7 +5318,7 @@
           som rullede op mod mine Fødder paa Englands Kyster og <placeName key="maryland"
             >Marylands</placeName> Strande« etc. Begge ere de vidtforslagne og prøvede Mænd som
             <persName type="fictional" key="odysseus">Odysseus</persName> og <persName
-            type="fictional" key="æneas-virgil">Æneas</persName>; det fælles Træk er Forundringen
+            type="fictional" key="aeneas-virgil">Æneas</persName>; det fælles Træk er Forundringen
           over sit eget Livs Eventyr, Beundringen for det egne Selv, hvem høiere Magter have ført
           igjennem saa mange Skjæbner. Dog endnu et Træk og et mere betydningsfuldt er fælles; som
             <persName key="francois-rene-vicomte-de-chateaubriand">Chateaubriand</persName> saaledes
@@ -5416,7 +5413,7 @@
             >Seine</placeName>øens Jomfru; hvad enten jeg bevarer eller overtræder mit Løfte, døer
           jeg deraf, og Du er Skyld deri.« Hun behager vel <persName type="fictional" key="eudorus"
             >Eudorus</persName>, men han elsker hende ikke. Han staaer overfor hende omtrent som
-          pius <persName type="fictional" key="æneas-virgil">Æneas</persName> overfor <persName
+          pius <persName type="fictional" key="aeneas-virgil">Æneas</persName> overfor <persName
             type="fictional" key="dido-litt-fig">Dido</persName>, om hvem Digteren endog lader
             <persName type="fictional" key="eudorus">Eudorus</persName> minde sine Tilhørere. Den
           Ulykkelige forsøger enhver Art Trolddom. Hun vil snige sig ind til ham med Maanens
@@ -5516,8 +5513,8 @@
             <persName type="fictional" key="gustave-de-linar">Gustav Linar</persName> ved Navn, der
           af sin Moder tidlig lærte »at elske Dyden« og som vedbliver at elske den til sin Død.
           Foruden Dyden elsker han tillige <pb n="261"/>
-          <persName type="fictional" key="valérie">Valérie</persName>, men <persName
-            type="fictional" key="valérie">Valérie</persName> er gift med Greven, hans Herre og
+          <persName type="fictional" key="valerie">Valérie</persName>, men <persName
+            type="fictional" key="valerie">Valérie</persName> er gift med Greven, hans Herre og
           Ideal, og er selv et saadant Indbegreb af Fuldkommenheder, at det er umuligt at løfte sine
           Øine til hende uden med en Respect, der umuliggjør enhver Attraa. <persName
             key="alexander-de-stakiev">Alexander Stakiew</persName> havde tilstaaet <persName
@@ -5547,9 +5544,9 @@
           ogsaa mest til den fællesgermaniske Sentimentalitet, i hvilken Skildringen er neddykket og
           til en Del svenske Navne, der naturligvis paa det Pudsigste ere stavede forkert. Saaledes
           foranstalter <persName type="fictional" key="gustave-de-linar">Gustav</persName> for
-            <persName type="fictional" key="valérie">Valérie</persName> i <placeName key="venezia"
+            <persName type="fictional" key="valerie">Valérie</persName> i <placeName key="venezia"
             >Venedig</placeName> en Fest, hvis Decoration skal minde hende om hendes Ungdomshjem
-          blandt Birke og Graner. Med Overraskelse udbryder <persName type="fictional" key="valérie"
+          blandt Birke og Graner. Med Overraskelse udbryder <persName type="fictional" key="valerie"
             >Valérie</persName> ved Synet: »Ah! c’est Dronigor.« Med nogen Møie udfandt jeg, at
           dette skal være Dronninggaard. – Særligt svensk kan <persName type="fictional"
             key="gustave-de-linar">Gustav</persName> ikke kaldes. Hvad der er smukt i Skildringen af
@@ -5563,9 +5560,9 @@
           tilføier: »Hvad <pb n="263"/> har Hæderen tilfælles med Hobens smaalige Forfængelighed,
           med den elendige Prætention paa at være Noget, fordi man jager efter det«. Er det ikke
           underligt at tænke, at dette staaer i den Bog, hvis Ry blev iværksat ved saadanne Midler,
-          som anvendtes for at bringe <persName type="fictional" key="valérie">Valérie</persName> i
+          som anvendtes for at bringe <persName type="fictional" key="valerie">Valérie</persName> i
           Skuddet? – Overfor <persName type="fictional" key="gustave-de-linar">Gustav</persName>
-          staaer <persName type="fictional" key="valérie">Valérie</persName> udrustet med al den
+          staaer <persName type="fictional" key="valerie">Valérie</persName> udrustet med al den
           Ynde, som en Dame, der var saa lidenskabeligt forelsket i sig selv som <persName
             key="barbara-juliane-julie-de-krudener">Mme de Krüdener</persName> kunde meddele sit
           eget Contrafei. Hun er helt igjennem Kvinde, medens den umandige <persName
@@ -5580,12 +5577,12 @@
           bade hans Pande med Eau de Cologne.</p>
         <p>Der er overhovedet en let Parfume af Eau de Cologne over den hele Fortælling. Hvor
           charakteristisk er det f. Ex. ikke, at den første Tje<pb n="264"/>neste, om hvilken
-            <persName type="fictional" key="valérie">Valérie</persName> i Fortrolighed beder
+            <persName type="fictional" key="valerie">Valérie</persName> i Fortrolighed beder
             <persName type="fictional" key="gustave-de-linar">Gustav</persName>, er den, hemmeligt
           at hente hende en Smule <emph>Sminke</emph>, som hendes Mand ikke gjerne seer, at hun
           bruger. Med Eau de Cologne-Duften blander sig en Duft af Anstand og Respect, der er saa
           stærk, at den næsten bliver En imod, og en Overjordiskhed i Følelsen, som er dum og
-          hæslig. Man tænke sig f. Ex., at <persName type="fictional" key="valérie"
+          hæslig. Man tænke sig f. Ex., at <persName type="fictional" key="valerie"
             >Valérie</persName> er frugtsommelig, da <persName type="fictional"
             key="gustave-de-linar">Gustavs</persName> Lidenskab begynder, uden at denne Omstændighed
           har nogensomhelst helbredende Indflydelse paa den, skjøndt han lever i hendes Nærhed, til
@@ -5635,7 +5632,7 @@
             key="julie-fra-shakespeare-romeo-and-juliet">Julies</persName> Samtale i Maaneskin af
             <persName key="william-shakespeare">Shakspeare</persName> og <persName
             key="george-gordon-byron">Lord Byrons</persName> Skildring af <persName type="fictional"
-            key="haidée">Haydee</persName>.« Dette behøvedes nu heldigvis ikke, da det var gjort af
+            key="haidee">Haydee</persName>.« Dette behøvedes nu heldigvis ikke, da det var gjort af
           Andre; det lader sig imidlertid neppe negte, at han, da han senere hen forsøgte sig i den
           ene af disse Retninger, nemlig som Digter, dog lod en Del tilbage at ønske i Sammenligning
           med sine Forbilleder, hvis Liv rigtignok ikke heller som hans blev ført foran Speilet. Men
@@ -5834,8 +5831,7 @@
       </div>
       <div>
         <head type="add">8. Det formelle autoritetsprincips opløsning</head>
-        <head>
-          <pb n="274"/>VIII.</head>
+        <head><pb n="274"/> <ref target="n5620"/>VIII.</head>
         <p>Det er da ogsaa under disse Ideers ugunstige Auspicier, at den Digter, der skulde blive
           Frankrigs største i dette Aarhundrede, først vandt sig et Navn. Tidsaandens Magt tvinger
           ham bort fra den voldsomme, næsten om de førshakspearske Digtere mindende Maneer i hans
@@ -6249,7 +6245,7 @@
             >Shakspeare</persName> i Frankrig saa stor Forfærdelse. Det er bekjendt, at »<bibl
             n="shakespeare-othello">Othello</bibl>«, da Stykket i <persName key="alfred-de-vigny"
             >Alfred de Vigny’s</persName> Oversættelse opførtes paa <placeName
-            key="théâtre-de-l'odéon">Odéon</placeName>, altsaa for et Studenterpublicum, det
+            key="theatre-de-lodeon">Odéon</placeName>, altsaa for et Studenterpublicum, det
           liberaleste og mindst snerpede i <placeName key="paris">Paris</placeName>, faldt igjennem,
           fordi Ordet »Lommetørklæde« blev nævnt. Ved Opførelsen af <persName
             key="pierre-antoine-lebrun">Lebruns</persName> »<bibl n="lebrun-le-cid-dandalousie"
@@ -6411,7 +6407,7 @@
       </div>
       <div>
         <head type="add">9. Det reelle autoritetsprincips opløsning</head>
-        <head>IX.</head>
+        <head><ref target="n5621"/> IX.</head>
         <p>En mørk og taaget Dag for omtrent <app>
             <lem wit="rett.bl.2">20</lem>
             <rdg wit="A">30 <note>(ændret ordlyd pga. omarbejdelse i B og senere udgaver)</note>
@@ -7364,7 +7360,7 @@
           Regjeringen tabte Proces paa Proces mod <persName key="paul-louis-courier"
             >Courier</persName>.</p>
         <p>En af de morsomste og for os nutildags interessanteste af hans Pamphletter er den, i
-          hvilken han udtaler sig mod Kjøbet af <placeName key="château-de-chambord"
+          hvilken han udtaler sig mod Kjøbet af <placeName key="chateau-de-chambord"
             >Chambord</placeName>. Den unge Hertug af <placeName key="bordeaux"
           >Bordeaux</placeName>, nuværende Greve af <placeName key="chambord">Chambord</placeName>,
           var født saa længe efter Faderens Død, at det betragtedes som en Himlens Tilskikkelse.
@@ -7373,7 +7369,7 @@
           den vidunderlige Begivenhed, og de to første sammenligne <persName
             key="henri-5-greve-af-chambord">Henri</persName> med Bibelens <persName
             key="Joash-konge-bibelen">Joas</persName>. Det Forslag opkommer, at aabne en
-          Nationalsubscription til Kjøbet af <placeName key="château-de-chambord">Slottet
+          Nationalsubscription til Kjøbet af <placeName key="chateau-de-chambord">Slottet
             Chambord</placeName>, og sit Princip at chicanere tro, skriver <persName
             key="paul-louis-courier">Courier</persName> herimod fra et Bondestandpunkt. Endelig
           giver snart den hele Historieskrivning med Undtagelse af <persName
